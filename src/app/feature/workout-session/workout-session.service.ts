@@ -8,15 +8,19 @@ import {
 	orderBy,
 	query,
 	serverTimestamp,
-	setDoc,
 	Timestamp,
 	where,
+	writeBatch,
 } from 'firebase/firestore';
+import type { SessionFeedback } from '@trainup/planner';
+import { EXERCISE_FLAG_SCHEMA_VERSION } from '../exercise-flag/exercise-flag.interface';
 import { FirebaseService } from '../firebase/firebase.service';
 import {
+	SESSION_NOTES_MAX_LENGTH,
 	SESSION_SCHEMA_VERSION,
 	SessionExercise,
 	sessionId,
+	SessionPain,
 	WorkoutSession,
 } from './workout-session.interface';
 
@@ -26,6 +30,21 @@ export interface FinishedWorkout {
 	date: string;
 	startedAt: Date;
 	exercises: SessionExercise[];
+	rpe: number | null;
+	pain: SessionPain | null;
+	notes: string;
+}
+
+/** What the adaptation rules need from a finished workout. */
+export function toFeedback(session: WorkoutSession): SessionFeedback {
+	const sets = session.exercises.flatMap((exercise) => exercise.sets);
+
+	return {
+		date: session.date,
+		rpe: session.rpe ?? null,
+		completionRate: sets.length ? sets.filter((set) => set.status === 'done').length / sets.length : 0,
+		pain: !!session.pain,
+	};
 }
 
 const HISTORY_LIMIT = 50;
@@ -79,13 +98,34 @@ export class WorkoutSessionService {
 			status: sets.every((set) => set.status === 'done') ? 'completed' : 'partial',
 			durationSeconds: Math.max(0, Math.round((Date.now() - workout.startedAt.getTime()) / 1000)),
 			exercises: workout.exercises,
+			rpe: workout.rpe,
+			pain: workout.pain,
+			notes: workout.notes.trim().slice(0, SESSION_NOTES_MAX_LENGTH),
 			startedAt: Timestamp.fromDate(workout.startedAt),
 		};
+		const batch = writeBatch(db);
 
-		await setDoc(doc(db, 'users', uid, 'sessions', sessionId(workout.planId, workout.dayIndex)), {
+		batch.set(doc(db, 'users', uid, 'sessions', sessionId(workout.planId, workout.dayIndex)), {
 			...session,
 			completedAt: serverTimestamp(),
 		});
+
+		// Exercises that caused pain are paused in the same write (README §6.4).
+		for (const exerciseId of workout.pain?.exerciseIds ?? []) {
+			batch.set(doc(db, 'users', uid, 'exerciseFlags', exerciseId), {
+				schemaVersion: EXERCISE_FLAG_SCHEMA_VERSION,
+				exerciseId,
+				reason: 'pain',
+				areas: workout.pain!.areas,
+				planId: workout.planId,
+				sessionDate: workout.date,
+				active: true,
+				createdAt: serverTimestamp(),
+				resolvedAt: null,
+			});
+		}
+
+		await batch.commit();
 
 		const saved = { ...session, completedAt: Timestamp.now() };
 

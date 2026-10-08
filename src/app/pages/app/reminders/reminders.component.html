@@ -1,0 +1,139 @@
+<header>
+	<a
+		class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary)]"
+		routerLink="/app/profile"
+	>
+		<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
+		<span translate>Профіль</span>
+	</a>
+	<h1
+		class="mt-3 text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
+		translate
+	>
+		Нагадування
+	</h1>
+</header>
+
+<div class="mt-6 flex flex-col gap-6">
+	@let stateValue = state();
+	@switch (stateValue) {
+		@case ('loading') {
+			<app-state-message tone="loading" title="Завантажуємо налаштування" />
+		}
+		@case ('error') {
+			<app-state-message
+				tone="error"
+				icon="cloud_off"
+				title="Не вдалося завантажити налаштування"
+				text="Перевірте з’єднання з інтернетом і спробуйте ще раз."
+			/>
+		}
+		@case ('ready') {
+			<label class="flex min-h-11 cursor-pointer items-center gap-3 text-base font-semibold text-[var(--c-text-strong)]">
+				<input
+					class="h-5 w-5 accent-[var(--c-primary)]"
+					type="checkbox"
+					[checked]="enabled()"
+					(change)="enabled.set($any($event.target).checked); saved.set(false)"
+				/>
+				<span translate>Нагадувати про тренування</span>
+			</label>
+
+			@if (enabled()) {
+				<label class="flex max-w-xs flex-col gap-1.5">
+					<span class="text-sm font-semibold text-[var(--c-text-strong)]" translate>Час</span>
+					<input
+						class="theme-focus min-h-12 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-base text-[var(--c-text-strong)]"
+						type="time"
+						required
+						[value]="time()"
+						(input)="time.set($any($event.target).value || time()); saved.set(false)"
+					/>
+				</label>
+
+				<fieldset>
+					<legend class="mb-3 text-sm font-semibold text-[var(--c-text-strong)]" translate>Дні</legend>
+					<div class="flex flex-wrap gap-2">
+						@for (day of weekdayOptions; track day.value) {
+							<button
+								type="button"
+								appOptionPill
+								[label]="day.label"
+								[selected]="days().includes(day.value)"
+								(click)="toggleDay(day.value)"
+							></button>
+						}
+					</div>
+				</fieldset>
+			}
+
+			<section
+				class="rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-4"
+			>
+				<h2 class="text-base font-semibold text-[var(--c-text-strong)]" translate>Сповіщення</h2>
+				@let permission = reminderService.permission();
+				@switch (permission) {
+					@case ('granted') {
+						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>Сповіщення дозволено.</p>
+					}
+					@case ('default') {
+						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>
+							Дозвольте сповіщення, щоб браузер міг нагадати про тренування.
+						</p>
+						<button
+							class="theme-focus mt-3 inline-flex min-h-11 items-center rounded-full border-2 border-[var(--c-primary)] px-4 text-sm font-semibold text-[var(--c-primary)]"
+							type="button"
+							(click)="reminderService.requestPermission()"
+							translate
+						>
+							Дозволити сповіщення
+						</button>
+					}
+					@case ('denied') {
+						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>
+							Сповіщення заблоковано в налаштуваннях браузера. Нагадування буде видно на сторінці «Сьогодні».
+						</p>
+					}
+					@case ('unsupported') {
+						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>
+							Цей браузер не показує сповіщень. Нагадування буде видно на сторінці «Сьогодні».
+						</p>
+					}
+					@default never;
+				}
+				<p class="mt-3 text-xs leading-5 text-[var(--c-text-muted)]" translate>
+					Поки що браузер нагадує, лише коли TrainUp відкритий. Нагадування на закритому телефоні з’являться в мобільному застосунку.
+				</p>
+			</section>
+
+			@if (saveError()) {
+				<p
+					class="rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+					role="alert"
+					translate
+				>
+					Не вдалося зберегти. Перевірте з’єднання та спробуйте ще раз.
+				</p>
+			}
+			@if (saved()) {
+				<p class="text-sm font-semibold text-[var(--c-text-strong)]" role="status" translate>Збережено.</p>
+			}
+
+			<button
+				class="theme-focus inline-flex min-h-12 items-center justify-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-base font-semibold text-white hover:bg-[var(--c-primary-hover)] disabled:opacity-50"
+				type="button"
+				[disabled]="saving() || (enabled() && !days().length)"
+				[attr.aria-busy]="saving()"
+				(click)="save()"
+			>
+				@if (saving()) {
+					<span class="material-symbols-outlined animate-spin text-[20px]" aria-hidden="true">
+						progress_activity
+					</span>
+				}
+				<span translate>Зберегти</span>
+			</button>
+		}
+		@default never;
+	}
+</div>

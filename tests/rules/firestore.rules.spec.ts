@@ -329,6 +329,125 @@ describe('users/{uid}/sessions', () => {
 	});
 });
 
+describe('Phase 3: feedback, pauses, todos, reminders', () => {
+	beforeEach(async () => {
+		await env.withSecurityRulesDisabled(async (context) => {
+			await setDoc(doc(context.firestore() as unknown as Firestore, 'users/alice/plans/plan1'), {
+				status: 'active',
+			});
+		});
+	});
+
+	const feedbackSession = (changes: Record<string, unknown> = {}) => ({
+		schemaVersion: 2,
+		planId: 'plan1',
+		dayIndex: 1,
+		date: '2026-10-07',
+		status: 'partial',
+		durationSeconds: 1200,
+		exercises: [
+			{
+				exerciseId: 'push-up',
+				exerciseVersion: 1,
+				name: 'Віджимання',
+				sets: [{ status: 'skipped', reps: null, durationSeconds: null }],
+			},
+		],
+		rpe: 8,
+		pain: { areas: ['wrists'], exerciseIds: ['push-up'] },
+		notes: 'Боліло зап’ястя',
+		startedAt: new Date('2026-10-07T07:00:00Z'),
+		completedAt: serverTimestamp(),
+		...changes,
+	});
+
+	const flag = (changes: Record<string, unknown> = {}) => ({
+		schemaVersion: 1,
+		exerciseId: 'push-up',
+		reason: 'pain',
+		areas: ['wrists'],
+		planId: 'plan1',
+		sessionDate: '2026-10-07',
+		active: true,
+		createdAt: serverTimestamp(),
+		resolvedAt: null,
+		...changes,
+	});
+
+	it('accepts session feedback and rejects invalid RPE, pain, or notes', async () => {
+		const ref = (day: number) => doc(db('alice'), `users/alice/sessions/plan1_${day}`);
+
+		await assertSucceeds(setDoc(ref(1), feedbackSession()));
+		await assertSucceeds(setDoc(ref(2), feedbackSession({ dayIndex: 2, rpe: null, pain: null, notes: '' })));
+		await assertFails(setDoc(ref(3), feedbackSession({ dayIndex: 3, rpe: 11 })));
+		await assertFails(setDoc(ref(4), feedbackSession({ dayIndex: 4, pain: { areas: [], exerciseIds: [] } })));
+		await assertFails(
+			setDoc(ref(5), feedbackSession({ dayIndex: 5, pain: { areas: ['heart'], exerciseIds: [] } })),
+		);
+		await assertFails(setDoc(ref(6), feedbackSession({ dayIndex: 6, notes: 'x'.repeat(501) })));
+	});
+
+	it('pauses an exercise after pain; only the user can resume it, and it is never deleted', async () => {
+		const ref = doc(db('alice'), 'users/alice/exerciseFlags/push-up');
+
+		await assertSucceeds(setDoc(ref, flag()));
+		await assertFails(setDoc(doc(db('alice'), 'users/alice/exerciseFlags/squat'), flag()));
+		await assertFails(updateDoc(ref, { areas: ['knees'] }));
+		await assertSucceeds(updateDoc(ref, { active: false, resolvedAt: serverTimestamp() }));
+		await assertFails(updateDoc(ref, { active: false, resolvedAt: serverTimestamp() }));
+		await assertSucceeds(setDoc(ref, flag()));
+		await assertFails(deleteDoc(ref));
+		await assertFails(getDoc(doc(db('bob'), 'users/alice/exerciseFlags/push-up')));
+	});
+
+	it('validates todos and lets the owner edit and delete them', async () => {
+		const ref = doc(db('alice'), 'users/alice/todos/t1');
+		const todo = {
+			schemaVersion: 1,
+			title: 'Купити килимок',
+			dueDate: '2026-10-09',
+			done: false,
+			createdAt: serverTimestamp(),
+			updatedAt: serverTimestamp(),
+			completedAt: null,
+		};
+
+		await assertSucceeds(setDoc(ref, todo));
+		await assertFails(setDoc(doc(db('alice'), 'users/alice/todos/t2'), { ...todo, title: '' }));
+		await assertFails(setDoc(doc(db('alice'), 'users/alice/todos/t3'), { ...todo, dueDate: 'tomorrow' }));
+		await assertSucceeds(
+			updateDoc(ref, { done: true, completedAt: serverTimestamp(), updatedAt: serverTimestamp() }),
+		);
+		await assertFails(updateDoc(ref, { createdAt: serverTimestamp(), updatedAt: serverTimestamp() }));
+		await assertFails(deleteDoc(doc(db('bob'), 'users/alice/todos/t1')));
+		await assertSucceeds(deleteDoc(ref));
+	});
+
+	it('stores one workout reminder with a valid local time and days (acceptance 13)', async () => {
+		const reminder = {
+			schemaVersion: 1,
+			type: 'workout',
+			enabled: true,
+			time: '18:30',
+			days: ['mon', 'wed', 'fri'],
+			timeZone: 'Europe/Kyiv',
+			updatedAt: serverTimestamp(),
+		};
+
+		await assertSucceeds(setDoc(doc(db('alice'), 'users/alice/reminders/workout'), reminder));
+		await assertSucceeds(
+			setDoc(doc(db('alice'), 'users/alice/reminders/workout'), { ...reminder, enabled: false }),
+		);
+		await assertFails(setDoc(doc(db('alice'), 'users/alice/reminders/other'), reminder));
+		await assertFails(
+			setDoc(doc(db('alice'), 'users/alice/reminders/workout'), { ...reminder, time: '25:00' }),
+		);
+		await assertFails(
+			setDoc(doc(db('alice'), 'users/alice/reminders/workout'), { ...reminder, days: ['someday'] }),
+		);
+	});
+});
+
 describe('server-owned collections', () => {
 	it('keeps AI connections read-only for clients', async () => {
 		await assertFails(

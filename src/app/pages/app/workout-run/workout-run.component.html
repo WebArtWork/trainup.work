@@ -126,110 +126,162 @@
 			</div>
 		}
 
-		<ol class="mt-4 flex flex-col gap-3" [translate]="{ ariaLabel: 'Підходи' }">
-			@for (set of currentSets(); track $index; let i = $index) {
-				<li
-					class="flex flex-wrap items-center gap-3 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-3"
-				>
-					<span class="min-w-20 text-sm font-semibold text-[var(--c-text-strong)]">
-						<span translate>Підхід</span> {{ i + 1 }}
-					</span>
+		@if (paused().has(item.exerciseId)) {
+			<p
+				class="mt-4 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-error)] bg-[var(--c-bg-secondary)] p-4 text-sm leading-6 text-[var(--c-text)]"
+				role="note"
+				translate
+			>
+				Цю вправу призупинено, бо під час неї був біль. Пропустіть її. Повернути вправу можна в профілі, коли біль мине.
+			</p>
+		} @else {
+			<ol class="mt-4 flex flex-col gap-3" [translate]="{ ariaLabel: 'Підходи' }">
+				@for (set of currentSets(); track $index; let i = $index) {
+					<li
+						class="flex flex-wrap items-center gap-3 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-3"
+					>
+						<span class="min-w-20 text-sm font-semibold text-[var(--c-text-strong)]">
+							<span translate>Підхід</span> {{ i + 1 }}
+						</span>
 
-					@switch (set.status) {
-						@case ('pending') {
-							@if (item.durationSeconds === null) {
-								<span class="flex items-center gap-1">
-									<button
-										class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full border-2 border-[var(--c-border)] text-lg font-semibold"
-										type="button"
-										[translate]="{ ariaLabel: 'Менше повторень' }"
-										(click)="adjustReps(i, -1)"
-									>
-										−
-									</button>
-									<span class="min-w-14 text-center text-base font-semibold tabular-nums text-[var(--c-text-strong)]">
-										{{ set.reps }} <span class="text-xs font-normal" translate>повт.</span>
+						@switch (set.status) {
+							@case ('pending') {
+								@if (item.durationSeconds === null) {
+									<span class="flex items-center gap-1">
+										<button
+											class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full border-2 border-[var(--c-border)] text-lg font-semibold"
+											type="button"
+											[translate]="{ ariaLabel: 'Менше повторень' }"
+											(click)="adjustReps(i, -1)"
+										>
+											−
+										</button>
+										<span class="min-w-14 text-center text-base font-semibold tabular-nums text-[var(--c-text-strong)]">
+											{{ set.reps }} <span class="text-xs font-normal" translate>повт.</span>
+										</span>
+										<button
+											class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full border-2 border-[var(--c-border)] text-lg font-semibold"
+											type="button"
+											[translate]="{ ariaLabel: 'Більше повторень' }"
+											(click)="adjustReps(i, 1)"
+										>
+											+
+										</button>
 									</span>
+								} @else if (hold()?.set === i && hold()?.exercise === current()) {
+									<span class="text-2xl font-semibold tabular-nums text-[var(--c-primary)]" role="timer">
+										{{ formatSeconds(hold()!.remaining) }}
+									</span>
+								} @else {
 									<button
-										class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full border-2 border-[var(--c-border)] text-lg font-semibold"
+										class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full border-2 border-[var(--c-primary)] px-4 text-sm font-semibold text-[var(--c-primary)]"
 										type="button"
-										[translate]="{ ariaLabel: 'Більше повторень' }"
-										(click)="adjustReps(i, 1)"
+										(click)="startHold(i)"
 									>
-										+
+										<span class="material-symbols-outlined text-[18px]" aria-hidden="true">timer</span>
+										<span translate>Старт</span> {{ item.durationSeconds }} <span translate>с</span>
+									</button>
+								}
+								<span class="ml-auto flex gap-2">
+									<button
+										class="theme-focus inline-flex min-h-11 items-center rounded-full px-3 text-sm font-semibold text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+										type="button"
+										(click)="skipSet(i)"
+										translate
+									>
+										Пропустити
+									</button>
+									<button
+										class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full bg-[var(--c-primary)] px-4 text-sm font-semibold text-white"
+										type="button"
+										(click)="completeSet(i)"
+									>
+										<span class="material-symbols-outlined text-[18px]" aria-hidden="true">check</span>
+										<span translate>Виконано</span>
 									</button>
 								</span>
-							} @else if (hold()?.set === i && hold()?.exercise === current()) {
-								<span class="text-2xl font-semibold tabular-nums text-[var(--c-primary)]" role="timer">
-									{{ formatSeconds(hold()!.remaining) }}
-								</span>
-							} @else {
-								<button
-									class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full border-2 border-[var(--c-primary)] px-4 text-sm font-semibold text-[var(--c-primary)]"
-									type="button"
-									(click)="startHold(i)"
-								>
-									<span class="material-symbols-outlined text-[18px]" aria-hidden="true">timer</span>
-									<span translate>Старт</span> {{ item.durationSeconds }} <span translate>с</span>
-								</button>
 							}
-							<span class="ml-auto flex gap-2">
+							@case ('done') {
+								<span class="inline-flex items-center gap-1 text-sm font-semibold text-[var(--c-text-strong)]">
+									<span class="material-symbols-outlined text-[18px] text-[var(--c-primary)]" aria-hidden="true">
+										task_alt
+									</span>
+									<span translate>Виконано</span>
+									@if (set.reps !== null && item.durationSeconds === null) {
+										· {{ set.reps }} <span translate>повт.</span>
+									}
+								</span>
 								<button
-									class="theme-focus inline-flex min-h-11 items-center rounded-full px-3 text-sm font-semibold text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+									class="theme-focus ml-auto inline-flex min-h-11 items-center rounded-full px-3 text-sm text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
 									type="button"
-									(click)="skipSet(i)"
+									(click)="undoSet(i)"
 									translate
 								>
-									Пропустити
+									Скасувати
 								</button>
+							}
+							@case ('skipped') {
+								<span class="text-sm text-[var(--c-text-muted)]" translate>Пропущено</span>
 								<button
-									class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full bg-[var(--c-primary)] px-4 text-sm font-semibold text-white"
+									class="theme-focus ml-auto inline-flex min-h-11 items-center rounded-full px-3 text-sm text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
 									type="button"
-									(click)="completeSet(i)"
+									(click)="undoSet(i)"
+									translate
 								>
-									<span class="material-symbols-outlined text-[18px]" aria-hidden="true">check</span>
-									<span translate>Виконано</span>
+									Скасувати
 								</button>
-							</span>
+							}
 						}
-						@case ('done') {
-							<span class="inline-flex items-center gap-1 text-sm font-semibold text-[var(--c-text-strong)]">
-								<span class="material-symbols-outlined text-[18px] text-[var(--c-primary)]" aria-hidden="true">
-									task_alt
-								</span>
-								<span translate>Виконано</span>
-								@if (set.reps !== null && item.durationSeconds === null) {
-									· {{ set.reps }} <span translate>повт.</span>
-								}
-							</span>
-							<button
-								class="theme-focus ml-auto inline-flex min-h-11 items-center rounded-full px-3 text-sm text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
-								type="button"
-								(click)="undoSet(i)"
-								translate
-							>
-								Скасувати
-							</button>
-						}
-						@case ('skipped') {
-							<span class="text-sm text-[var(--c-text-muted)]" translate>Пропущено</span>
-							<button
-								class="theme-focus ml-auto inline-flex min-h-11 items-center rounded-full px-3 text-sm text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
-								type="button"
-								(click)="undoSet(i)"
-								translate
-							>
-								Скасувати
-							</button>
-						}
-					}
-				</li>
-			}
-		</ol>
+					</li>
+				}
+			</ol>
+		}
 
-		<p class="mt-4 text-xs leading-5 text-[var(--c-text-muted)]" translate>
-			Якщо з’явився біль — зупиніть вправу. Не продовжуйте через біль.
-		</p>
+		@if (painPanelOpen()) {
+			<section
+				class="mt-4 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-error)] bg-[var(--c-bg-secondary)] p-4"
+				role="alertdialog"
+				aria-labelledby="pain-title"
+			>
+				<h2 id="pain-title" class="text-base font-semibold text-[var(--c-text-strong)]" translate>
+					Зупиніть вправу
+				</h2>
+				<p class="mt-2 text-sm leading-6 text-[var(--c-text)]" translate>
+					Не продовжуйте через біль. Решту підходів цієї вправи буде пропущено, а саму вправу — призупинено в наступних тренуваннях.
+				</p>
+				<div class="mt-3 flex flex-wrap gap-2">
+					<button
+						class="theme-focus inline-flex min-h-11 items-center rounded-full bg-[var(--c-error)] px-4 text-sm font-semibold text-white"
+						type="button"
+						(click)="confirmPain()"
+						translate
+					>
+						Зупинити вправу
+					</button>
+					<button
+						class="theme-focus inline-flex min-h-11 items-center rounded-full px-4 text-sm font-semibold text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+						type="button"
+						(click)="painPanelOpen.set(false)"
+						translate
+					>
+						Скасувати
+					</button>
+				</div>
+			</section>
+		} @else if (painExerciseIds().includes(item.exerciseId)) {
+			<p class="mt-4 text-sm leading-6 text-[var(--c-text)]" role="status" translate>
+				Вправу зупинено. Якщо біль сильний, різкий або не минає — зверніться до лікаря.
+			</p>
+		} @else if (!paused().has(item.exerciseId)) {
+			<button
+				class="theme-focus mt-4 inline-flex min-h-11 items-center gap-1 rounded-full border-2 border-[var(--c-error)] px-4 text-sm font-semibold text-[var(--c-error)]"
+				type="button"
+				(click)="openPain()"
+			>
+				<span class="material-symbols-outlined text-[18px]" aria-hidden="true">healing</span>
+				<span translate>Відчуваю біль</span>
+			</button>
+		}
 
 		<div class="mt-6 flex gap-3">
 			@if (current() > 0) {
@@ -302,6 +354,103 @@
 				</li>
 			}
 		</ul>
+		<section class="mt-6 flex flex-col gap-6">
+			<fieldset>
+				<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]" translate>
+					Наскільки важким було тренування?
+				</legend>
+				<p class="mb-3 text-sm text-[var(--c-text-muted)]" translate>
+					1 — дуже легко, 10 — максимальне зусилля. Можна пропустити.
+				</p>
+				<div class="flex flex-wrap gap-2">
+					@for (value of rpeScale; track value) {
+						<button
+							type="button"
+							appOptionPill
+							[label]="'' + value"
+							[translateLabel]="false"
+							[selected]="rpe() === value"
+							(click)="rpe.set(rpe() === value ? null : value)"
+						></button>
+					}
+				</div>
+			</fieldset>
+
+			<fieldset>
+				<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+					Чи був біль або дискомфорт?
+				</legend>
+				<div class="flex flex-wrap gap-2">
+					<button
+						type="button"
+						appOptionPill
+						label="Ні"
+						[selected]="painReported() === false"
+						(click)="setPainReported(false)"
+					></button>
+					<button
+						type="button"
+						appOptionPill
+						label="Так"
+						[selected]="painReported() === true"
+						(click)="setPainReported(true)"
+					></button>
+				</div>
+
+				@if (painReported()) {
+					<p class="mt-4 text-sm font-semibold text-[var(--c-text-strong)]" translate>Де саме?</p>
+					<div class="mt-2 flex flex-wrap gap-2">
+						@for (option of painAreaOptions; track option.value) {
+							<button
+								type="button"
+								appOptionPill
+								[label]="option.label"
+								[selected]="painAreas().includes(option.value)"
+								(click)="togglePainArea(option.value)"
+							></button>
+						}
+					</div>
+					<p class="mt-4 text-sm font-semibold text-[var(--c-text-strong)]" translate>
+						Під час яких вправ?
+					</p>
+					<div class="mt-2 flex flex-wrap gap-2">
+						@for (planned of day.exercises; track planned.exerciseId) {
+							<button
+								type="button"
+								appOptionPill
+								[label]="planned.name"
+								[translateLabel]="false"
+								[selected]="painExerciseIds().includes(planned.exerciseId)"
+								(click)="togglePainExercise(planned.exerciseId)"
+							></button>
+						}
+					</div>
+					<p
+						class="mt-4 rounded-[var(--radius-card)] bg-[var(--c-bg-tertiary)] p-3 text-sm leading-6 text-[var(--c-text)]"
+						translate
+					>
+						Позначені вправи буде призупинено, і TrainUp не підвищуватиме навантаження. TrainUp не ставить діагнозів: якщо біль сильний, різкий або не минає — зверніться до лікаря.
+					</p>
+				}
+			</fieldset>
+
+			<label class="flex flex-col gap-1.5">
+				<span class="text-base font-semibold text-[var(--c-text-strong)]">
+					<span translate>Нотатки</span>
+					<span class="ml-1 text-sm font-normal text-[var(--c-text-muted)]" translate
+						>(необов’язково)</span
+					>
+				</span>
+				<textarea
+					class="theme-focus min-h-20 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 py-3 text-base text-[var(--c-text-strong)]"
+					rows="2"
+					[maxLength]="notesMaxLength"
+					[value]="notes()"
+					(input)="notes.set($any($event.target).value)"
+				></textarea>
+			</label>
+		</section>
+
 		@if (totals().done < totals().total) {
 			<p class="mt-3 text-sm text-[var(--c-text-muted)]" translate>
 				Невиконані підходи буде збережено як пропущені.
@@ -314,6 +463,11 @@
 				translate
 			>
 				Не вдалося зберегти. Перевірте з’єднання та спробуйте ще раз.
+			</p>
+		}
+		@if (!feedbackComplete()) {
+			<p class="mt-6 text-sm text-[var(--c-text-muted)]" translate>
+				Дайте відповідь, чи був біль, і за потреби позначте де.
 			</p>
 		}
 		<div class="mt-6 flex gap-3">
@@ -329,7 +483,7 @@
 			<button
 				class="theme-focus inline-flex min-h-12 flex-1 items-center justify-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white disabled:opacity-60"
 				type="button"
-				[disabled]="saving()"
+				[disabled]="saving() || !feedbackComplete()"
 				[attr.aria-busy]="saving()"
 				(click)="save()"
 			>

@@ -31,6 +31,7 @@ export const EXCLUSION_REASONS: Record<ExclusionReason, ExclusionReasonInfo> = {
 	location: { label: 'Не підходить для місця тренувань', section: 'space' },
 	limitation: { label: 'Навантажує ділянку, яку потрібно берегти', section: 'limitations' },
 	'level-too-high': { label: 'Складна для вашого рівня', section: 'schedule' },
+	'paused-after-pain': { label: 'Призупинено через біль', section: null },
 };
 
 export const INFEASIBILITY_MESSAGES: Record<InfeasibilityCode, string> = {

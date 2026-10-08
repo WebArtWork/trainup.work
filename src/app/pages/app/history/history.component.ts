@@ -1,8 +1,9 @@
-import { Component, inject, signal } from '@angular/core';
+import { Component, computed, inject, signal } from '@angular/core';
+import { addDays, WEEKDAYS, weekdayOf } from '@trainup/planner';
 import { RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { injectLocale } from '../../../feature/plan/locale';
-import { formatPlanDate } from '../../../feature/plan/plan.util';
+import { formatPlanDate, localToday } from '../../../feature/plan/plan.util';
 import {
 	SessionExercise,
 	WorkoutSession,
@@ -45,6 +46,43 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 				}
 				@case ('ready') {
 					@if (sessions().length) {
+						@let stats = progress();
+						<section class="mb-6" aria-labelledby="progress-title">
+							<h2 id="progress-title" class="sr-only" translate>Прогрес</h2>
+							<dl class="grid grid-cols-3 gap-3">
+								<div class="rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-secondary)] p-3">
+									<dt class="text-xs text-[var(--c-text-muted)]" translate>Цього тижня</dt>
+									<dd class="mt-1 text-xl font-semibold text-[var(--c-text-strong)]">{{ stats.thisWeek }}</dd>
+								</div>
+								<div class="rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-secondary)] p-3">
+									<dt class="text-xs text-[var(--c-text-muted)]" translate>Усього</dt>
+									<dd class="mt-1 text-xl font-semibold text-[var(--c-text-strong)]">{{ stats.total }}</dd>
+								</div>
+								<div class="rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-secondary)] p-3">
+									<dt class="text-xs text-[var(--c-text-muted)]" translate>Середнє зусилля</dt>
+									<dd class="mt-1 text-xl font-semibold text-[var(--c-text-strong)]">
+										{{ stats.averageRpe ?? '—' }}<span class="text-sm font-normal">/10</span>
+									</dd>
+								</div>
+							</dl>
+							<div class="mt-3 rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-secondary)] p-4">
+								<p class="text-xs text-[var(--c-text-muted)]" translate>Тренувань за тиждень</p>
+								<ol class="mt-3 flex h-24 items-end gap-3" role="list">
+									@for (week of stats.weeks; track week.start) {
+										<li class="flex flex-1 flex-col items-center gap-1">
+											<span class="text-xs font-semibold tabular-nums text-[var(--c-text-strong)]">{{ week.count }}</span>
+											<span
+												class="w-full rounded-t-md bg-[var(--c-primary)]"
+												[style.height.px]="4 + week.count * 12"
+												aria-hidden="true"
+											></span>
+											<span class="text-[10px] text-[var(--c-text-muted)]">{{ week.label }}</span>
+										</li>
+									}
+								</ol>
+							</div>
+						</section>
+
 						<ul class="flex flex-col gap-3">
 							@for (session of sessions(); track session.planId + session.dayIndex) {
 								<li>
@@ -69,6 +107,13 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 													· {{ doneSets(session) }} / {{ totalSets(session) }}
 													<span translate>підходів</span> ·
 													{{ minutes(session) }} <span translate>хв</span>
+													@if (session.rpe) {
+														· <span translate>зусилля</span> {{ session.rpe }}/10
+													}
+													@if (session.pain) {
+														·
+														<span class="font-semibold text-[var(--c-error)]" translate>був біль</span>
+													}
 												</span>
 											</span>
 											<span
@@ -111,6 +156,33 @@ export class HistoryComponent {
 
 	protected readonly state = signal<'loading' | 'ready' | 'error'>('loading');
 	protected readonly sessions = this._sessionService.history;
+
+	/** Basic progress from loaded history (README §6.4, Milestone 3). */
+	protected readonly progress = computed(() => {
+		const sessions = this.sessions();
+		const today = localToday();
+		const monday = addDays(today, -WEEKDAYS.indexOf(weekdayOf(today)));
+		const weeks = [3, 2, 1, 0].map((ago) => {
+			const start = addDays(monday, -7 * ago);
+			const end = addDays(start, 7);
+
+			return {
+				start,
+				label: formatPlanDate(start, this._locale()).split(',').pop()!.trim(),
+				count: sessions.filter((session) => session.date >= start && session.date < end).length,
+			};
+		});
+		const rated = sessions.filter((session) => session.rpe).slice(0, 5);
+
+		return {
+			thisWeek: weeks[3]!.count,
+			total: sessions.length,
+			averageRpe: rated.length
+				? Math.round((rated.reduce((sum, session) => sum + session.rpe!, 0) / rated.length) * 10) / 10
+				: null,
+			weeks,
+		};
+	});
 
 	constructor() {
 		void this._load();

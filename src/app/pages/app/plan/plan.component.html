@@ -34,6 +34,20 @@
 					{{ current.weeks }} <span translate>тижні</span> · {{ current.daysPerWeek }}
 					<span translate>трен./тиждень</span> · {{ current.sessionMinutes }} <span translate>хв</span>
 				</p>
+				@if (current.input.adjustment === 'ease') {
+					<p class="text-sm text-[var(--c-text)]" translate>
+						Навантаження зменшено за вашими відгуками.
+					</p>
+				} @else if (current.input.adjustment === 'progress') {
+					<p class="text-sm text-[var(--c-text)]" translate>
+						Обсяг трохи збільшено за вашими відгуками.
+					</p>
+				}
+				@if (current.input.pausedExerciseIds?.length) {
+					<p class="text-sm text-[var(--c-text)]" translate>
+						Вправи, під час яких був біль, у план не включено.
+					</p>
+				}
 
 				@for (week of weeks(); track week.week) {
 					<section>

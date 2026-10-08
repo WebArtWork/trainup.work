@@ -73,6 +73,16 @@ export const APP_AREA_ROUTES: Routes = [
 									import('./history/history.component').then((m) => m.HistoryComponent),
 							},
 							{
+								path: 'todos',
+								loadComponent: () =>
+									import('./todos/todos.component').then((m) => m.TodosComponent),
+							},
+							{
+								path: 'reminders',
+								loadComponent: () =>
+									import('./reminders/reminders.component').then((m) => m.RemindersComponent),
+							},
+							{
 								path: 'explore',
 								loadComponent: () =>
 									import('./explore/explore.component').then(

@@ -12,8 +12,8 @@ Phases have no dates yet. Add them once team capacity is known.
 | Marketing site          | Done: TrainUp branding, prerendered landing page at `trainup.work`, 14 languages                         |
 | Firebase project        | Connected: `train-up-work` web config, browser-only `FirebaseService` (Auth + Firestore)                 |
 | Firestore database      | `(default)` exists in Frankfurt (`europe-west3`); empty                                                   |
-| Firestore rules         | Field validation incl. plans and sessions, 22 emulator tests; **not deployed yet** (`npm run rules`)     |
-| App (README §13)        | Phases 1–2 code done (onboarding, planner, catalog, workouts); awaiting end-to-end check. Phases 3–5 open |
+| Firestore rules         | Field validation for all collections in use, 26 emulator tests; **not deployed yet** (`npm run rules`)   |
+| App (README §13)        | Phases 1–3 code done (onboarding, planner, workouts, feedback, to-dos, reminders); awaiting end-to-end check. Phases 4–5 open |
 | Exercise catalog        | 48 **draft** exercises in `src/data/exercise/exercises.json`, unreviewed, no images; `npm run seed` syncs to Firestore |
 
 ## Critical path
@@ -132,15 +132,30 @@ Verified by planner tests; the in-app flow still needs the end-to-end check with
 
 ## Phase 3: Routines and adaptive feedback (README Milestone 3)
 
-- [ ] Daily to-dos (create, due date, done, edit, delete).
-- [ ] Workout reminders with local notifications. Handle time zones and daylight saving time. Keep the app
-      usable if notification permission is denied.
-- [ ] Per-set logging, session RPE, discomfort and pain reports.
-- [ ] Conservative updates to future plans. When pain is reported, stop the affected exercise, flag it, and
-      never raise its load automatically.
-- [ ] Progress and history views. Completed sessions never change after a plan is regenerated.
+Code is in place (2026-10-08); the in-app flow still needs the end-to-end check.
 
-**Exit:** README M3 "Done when" passes, plus acceptance tests **10, 11, 13**.
+- [x] Daily to-dos: create, optional due date, check off, edit, delete. Today shows open tasks due today,
+      overdue, or undated; workouts stay separate (README §11).
+- [x] Workout reminders: time, days, device time zone stored with the setting; next reminder computed in
+      the user's zone and correct across daylight saving (tested). Permission is requested only from a
+      tap; denied or unsupported notifications fall back to the reminder shown on Today.
+- [ ] Reminders while the app is closed: browser delivery only works while TrainUp is open. Needs push
+      from the WAW API or Capacitor local notifications (Phase 5); `ReminderService._deliver()` is the
+      single place to swap.
+- [x] Per-set logging (Phase 2), session RPE 1–10, pain and discomfort with areas and exercises, notes.
+- [x] Pain stop: "I feel pain" ends the current exercise immediately; reported exercises are paused
+      (`exerciseFlags`), excluded by the planner and blocked in the runner until the user resumes them
+      from Profile. Pain never leads to more load (acceptance test **11**).
+- [x] Conservative adaptation (`planner/src/adaptation.ts`): no change from fewer than 3 sessions; ease
+      after 2 of the last 3 very hard or mostly unfinished; progress only after 4 easy, complete sessions
+      without pain; at most one step per regeneration, and only when the user regenerates.
+- [x] Progress on History (this week, total, average effort, 4-week chart). Completed sessions stay
+      immutable (acceptance test **10**).
+- [x] Rules for sessions v2, `exerciseFlags`, `todos`, `reminders`; 26 emulator tests. 108 unit tests.
+
+**Exit:** README M3 "Done when" passes, plus acceptance tests **10, 11, 13**. 10 and 11 are covered by
+planner and rules tests; 13 by rules and time-zone tests plus the permission fallbacks. The "receive a
+reminder" part holds only while the app is open until push or native notifications exist.
 
 ## Phase 4: Optional AI (README Milestone 4, first part)
 
@@ -173,7 +188,7 @@ Verified by planner tests; the in-app flow still needs the end-to-end check with
 | 1–7 (constraints)             | 2a ✓ (planner tests) |
 | 8–9 (AI fallback, validation) | 4     |
 | 10 (progress intact)          | 2c ✓ (immutable sessions, rules tests) |
-| 11 (RPE, pain)                | 3     |
+| 11 (RPE, pain)                | 3 ✓ (planner and rules tests) |
 | 12 (isolation)                | 1 ✓ (rules tests) |
-| 13 (reminders)                | 3     |
+| 13 (reminders)                | 3 ✓ (rules, time-zone tests); closed-app delivery in 5 |
 | 14 (credentials)              | 4     |

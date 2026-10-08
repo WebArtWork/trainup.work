@@ -13,6 +13,7 @@ export function validatePlan(plan: WorkoutPlan, input: PlannerInput): PlanViolat
 		setup: input.setup,
 		limitations: input.limitations,
 		allowedStatuses: input.allowedStatuses ?? ['published'],
+		pausedExerciseIds: input.pausedExerciseIds ?? [],
 	};
 	const budgetSeconds = input.profile.sessionMinutes * 60;
 	const daysPerWeek = new Map<number, number>();

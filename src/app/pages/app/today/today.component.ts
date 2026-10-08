@@ -4,6 +4,11 @@ import type { Infeasibility } from '@trainup/planner';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { AccountService } from '../../../feature/account/account.service';
 import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
+import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-flag.service';
+import { WEEKDAY_OPTIONS } from '../../../feature/profile/profile.const';
+import { ReminderService } from '../../../feature/reminder/reminder.service';
+import { TodoListComponent } from '../../../feature/todo/components/todo-list/todo-list.component';
+import { TodoService } from '../../../feature/todo/todo.service';
 import { PlanInfeasibilityComponent } from '../../../feature/plan/components/plan-infeasibility/plan-infeasibility.component';
 import { SessionCardComponent } from '../../../feature/plan/components/session-card/session-card.component';
 import { PlanService } from '../../../feature/plan/plan.service';
@@ -19,6 +24,7 @@ type LoadState = 'loading' | 'ready' | 'error';
 		RouterLink,
 		SessionCardComponent,
 		StateMessageComponent,
+		TodoListComponent,
 		TranslateDirective,
 	],
 	templateUrl: './today.component.html',
@@ -26,9 +32,12 @@ type LoadState = 'loading' | 'ready' | 'error';
 export class TodayComponent {
 	private readonly _accountService = inject(AccountService);
 	private readonly _sessionService = inject(WorkoutSessionService);
+	private readonly _flags = inject(ExerciseFlagService);
+	private readonly _reminderService = inject(ReminderService);
 
 	protected readonly planService = inject(PlanService);
 	protected readonly catalog = inject(ExerciseCatalogService);
+	protected readonly todoService = inject(TodoService);
 	protected readonly state = signal<LoadState>('loading');
 	protected readonly generating = signal(false);
 	protected readonly generateError = signal(false);
@@ -51,6 +60,29 @@ export class TodayComponent {
 		);
 	});
 
+	/** Feedback-based suggestion that differs from the active plan (README §6.4). */
+	protected readonly adjustmentSuggestion = computed(() => {
+		const plan = this.plan();
+		const suggested = this.planService.suggestedAdjustment();
+
+		return plan && suggested !== (plan.input.adjustment ?? 'keep') ? suggested : null;
+	});
+
+	protected readonly reminderSummary = computed(() => {
+		const reminder = this._reminderService.reminder();
+
+		if (!reminder?.enabled || !reminder.days.length) {
+			return null;
+		}
+
+		return {
+			time: reminder.time,
+			days: WEEKDAY_OPTIONS.filter((option) => reminder.days.includes(option.value)).map(
+				(option) => option.label,
+			),
+		};
+	});
+
 	constructor() {
 		void this.load();
 	}
@@ -59,7 +91,13 @@ export class TodayComponent {
 		this.state.set('loading');
 
 		try {
-			await Promise.all([this.catalog.ensureLoaded(), this.planService.ensureLoaded()]);
+			await Promise.all([
+				this.catalog.ensureLoaded(),
+				this.planService.ensureLoaded(),
+				this._flags.ensureLoaded(),
+				this.todoService.ensureLoaded(),
+				this._reminderService.ensureLoaded(),
+			]);
 
 			const plan = this.plan();
 

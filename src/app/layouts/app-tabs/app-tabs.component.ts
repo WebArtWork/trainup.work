@@ -1,6 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, DestroyRef, inject } from '@angular/core';
 import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
+import { ReminderService } from '../../feature/reminder/reminder.service';
 
 interface AppTab {
 	path: string;
@@ -47,4 +48,12 @@ export class AppTabsComponent {
 		{ path: '/app/explore', label: 'Вправи', icon: 'search' },
 		{ path: '/app/profile', label: 'Профіль', icon: 'person' },
 	];
+
+	constructor() {
+		// In-browser workout reminders run while the signed-in app is open.
+		const reminders = inject(ReminderService);
+
+		reminders.ensureLoaded().catch((error: unknown) => console.error(error));
+		inject(DestroyRef).onDestroy(() => reminders.stop());
+	}
 }

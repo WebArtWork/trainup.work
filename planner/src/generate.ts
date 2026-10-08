@@ -9,6 +9,7 @@ import type {
 	Goal,
 	Infeasibility,
 	InfeasibilityCode,
+	LoadAdjustment,
 	MovementPattern,
 	PlanDay,
 	PlannedExercise,
@@ -125,7 +126,9 @@ export function generatePlan(input: PlannerInput): PlanResult {
 		setup,
 		limitations,
 		allowedStatuses: input.allowedStatuses ?? ['published'],
+		pausedExerciseIds: input.pausedExerciseIds ?? [],
 	});
+	const adjustment = input.adjustment ?? 'keep';
 
 	if (!profile.goal || !profile.fitnessLevel) {
 		return _infeasible('missing-goal-or-level', eligibility);
@@ -137,6 +140,8 @@ export function generatePlan(input: PlannerInput): PlanResult {
 
 	const goal = profile.goal;
 	const level = profile.fitnessLevel;
+	const prescribe = (exercise: Exercise, week: number) =>
+		_prescription(exercise, level, week, adjustment);
 	const budgetSeconds = profile.sessionMinutes * 60;
 	const weekdays = scheduleWeekdays(profile.daysPerWeek, profile.preferredDays);
 
@@ -153,12 +158,13 @@ export function generatePlan(input: PlannerInput): PlanResult {
 			budgetSeconds,
 			usedThisWeek,
 			previousLoad,
+			prescribe,
 		);
 
 		if (session.length < MIN_EXERCISES_PER_DAY) {
 			const cheapest = Math.min(
 				...eligibility.eligible.map((exercise) =>
-					_peakSeconds(exercise, level),
+					_peakSeconds(exercise, prescribe),
 				),
 			);
 
@@ -185,7 +191,7 @@ export function generatePlan(input: PlannerInput): PlanResult {
 		}
 
 		const week = Math.floor(offset / 7) + 1;
-		const exercises = session.map((exercise) => _prescription(exercise, level, week));
+		const exercises = session.map((exercise) => prescribe(exercise, week));
 		const seconds = session.reduce(
 			(total, exercise, i) => total + plannedExerciseSeconds(exercise, exercises[i]!),
 			0,
@@ -217,6 +223,8 @@ export function generatePlan(input: PlannerInput): PlanResult {
 				setup,
 				limitations: [...limitations].sort(),
 				catalog: eligibility.eligible.map((exercise) => `${exercise.id}@${exercise.version}`).sort(),
+				pausedExerciseIds: [...(input.pausedExerciseIds ?? [])].sort(),
+				adjustment,
 			},
 		},
 	};
@@ -229,6 +237,7 @@ function _buildSession(
 	budgetSeconds: number,
 	usedThisWeek: Map<string, number>,
 	previousLoad: BodyArea[],
+	prescribe: (exercise: Exercise, week: number) => PlannedExercise,
 ): Exercise[] {
 	const session: Exercise[] = [];
 	let seconds = 0;
@@ -251,7 +260,7 @@ function _buildSession(
 
 		for (const { exercise } of candidates) {
 			// Size the slot by its heaviest week so every week of the plan fits the budget.
-			const cost = _peakSeconds(exercise, level);
+			const cost = _peakSeconds(exercise, prescribe);
 
 			if (seconds + cost <= budgetSeconds) {
 				session.push(exercise);
@@ -265,9 +274,12 @@ function _buildSession(
 }
 
 /** Seconds the exercise takes in its heaviest week of the progression. */
-function _peakSeconds(exercise: Exercise, level: FitnessLevel): number {
+function _peakSeconds(
+	exercise: Exercise,
+	prescribe: (exercise: Exercise, week: number) => PlannedExercise,
+): number {
 	return Math.max(
-		...[1, 2, 3, 4].map((week) => plannedExerciseSeconds(exercise, _prescription(exercise, level, week))),
+		...[1, 2, 3, 4].map((week) => plannedExerciseSeconds(exercise, prescribe(exercise, week))),
 	);
 }
 
@@ -292,17 +304,29 @@ function _score(
 /**
  * Conservative weekly progression: weeks 1–2 at the lower half of the range, week 3 at the upper
  * half, week 4 a lighter deload. No load (kg) is prescribed; the user picks a weight that matches
- * the target effort (README §6.2).
+ * the target effort (README §6.2). Feedback can remove a set and lower the target effort (`ease`)
+ * or add one set (`progress`), never more.
  */
-function _prescription(exercise: Exercise, level: FitnessLevel, week: number): PlannedExercise {
+function _prescription(
+	exercise: Exercise,
+	level: FitnessLevel,
+	week: number,
+	adjustment: LoadAdjustment = 'keep',
+): PlannedExercise {
 	const deload = week % 4 === 0;
 	const upper = week % 4 === 3;
-	const baseSets =
+	const levelSets =
 		level === 'beginner' && exercise.category !== 'mobility'
 			? Math.min(exercise.defaultSets, 2)
 			: exercise.defaultSets;
+	const baseSets =
+		adjustment === 'ease'
+			? Math.max(1, levelSets - 1)
+			: adjustment === 'progress' && exercise.category !== 'mobility'
+				? Math.min(levelSets + 1, exercise.defaultSets + 1)
+				: levelSets;
 	const sets = deload ? Math.max(1, baseSets - 1) : baseSets;
-	const rpe = Math.max(1, BASE_RPE[level] - (deload ? 1 : 0));
+	const rpe = Math.max(1, BASE_RPE[level] - (deload ? 1 : 0) - (adjustment === 'ease' ? 1 : 0));
 	const planned: PlannedExercise = {
 		exerciseId: exercise.id,
 		exerciseVersion: exercise.version,

@@ -130,7 +130,7 @@ service cloud.firestore {
 		function validSession(data, sessionId) {
 			return data.keys().hasOnly([
 					'schemaVersion', 'planId', 'dayIndex', 'date', 'status', 'durationSeconds', 'exercises',
-					'startedAt', 'completedAt'
+					'rpe', 'pain', 'notes', 'startedAt', 'completedAt'
 				])
 				&& data.schemaVersion is int
 				&& data.planId is string
@@ -141,7 +141,63 @@ service cloud.firestore {
 				&& data.durationSeconds is int && data.durationSeconds >= 0 && data.durationSeconds <= 21600
 				&& data.exercises is list && data.exercises.size() >= 1 && data.exercises.size() <= 20
 				&& data.startedAt is timestamp
-				&& data.completedAt == request.time;
+				&& data.completedAt == request.time
+				&& (!('rpe' in data) || data.rpe == null
+					|| (data.rpe is int && data.rpe >= 1 && data.rpe <= 10))
+				&& (!('notes' in data) || stringUpTo(data.notes, 500))
+				&& (!('pain' in data) || data.pain == null || validPain(data.pain));
+		}
+
+		function painAreas(areas) {
+			return areas is list && areas.size() >= 1 && areas.size() <= 8
+				&& areas.hasOnly(['neck', 'shoulders', 'wrists', 'lower-back', 'hips', 'knees', 'ankles', 'other']);
+		}
+
+		function validPain(pain) {
+			return pain is map && pain.keys().hasOnly(['areas', 'exerciseIds'])
+				&& painAreas(pain.areas)
+				&& pain.exerciseIds is list && pain.exerciseIds.size() <= 20;
+		}
+
+		// users/{uid}/exerciseFlags/{exerciseId}: exercise paused after reported pain.
+		function validExerciseFlag(data, exerciseId) {
+			return data.keys().hasOnly([
+					'schemaVersion', 'exerciseId', 'reason', 'areas', 'planId', 'sessionDate', 'active',
+					'createdAt', 'resolvedAt'
+				])
+				&& data.schemaVersion is int
+				&& data.exerciseId == exerciseId
+				&& data.reason == 'pain'
+				&& painAreas(data.areas)
+				&& data.planId is string
+				&& isDate(data.sessionDate)
+				&& data.active is bool;
+		}
+
+		// users/{uid}/todos/{todoId} (README §11).
+		function validTodo(data) {
+			return data.keys().hasOnly([
+					'schemaVersion', 'title', 'dueDate', 'done', 'createdAt', 'updatedAt', 'completedAt'
+				])
+				&& data.schemaVersion is int
+				&& data.title is string && data.title.size() >= 1 && data.title.size() <= 120
+				&& (data.dueDate == null || isDate(data.dueDate))
+				&& data.done is bool
+				&& (data.completedAt == null || data.completedAt is timestamp)
+				&& data.updatedAt == request.time;
+		}
+
+		// users/{uid}/reminders/workout.
+		function validReminder(data) {
+			return data.keys().hasOnly(['schemaVersion', 'type', 'enabled', 'time', 'days', 'timeZone', 'updatedAt'])
+				&& data.schemaVersion is int
+				&& data.type == 'workout'
+				&& data.enabled is bool
+				&& data.time is string && data.time.matches('^([01][0-9]|2[0-3]):[0-5][0-9]$')
+				&& data.days is list && data.days.size() <= 7
+				&& data.days.hasOnly(['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'])
+				&& stringUpTo(data.timeZone, 64)
+				&& data.updatedAt == request.time;
 		}
 
 		// Exercise catalog: signed-in users see published entries; only admins publish or edit.
@@ -185,13 +241,45 @@ service cloud.firestore {
 					&& exists(/databases/$(database)/documents/users/$(uid)/plans/$(request.resource.data.planId));
 			}
 
-			// Phase 3 collections: owner-managed until their schemas are defined.
+			// Paused after pain. Creating (or re-reporting) needs valid pain data; the only later change
+			// is the user resuming the exercise. Never deleted, so the history stays.
+			match /exerciseFlags/{exerciseId} {
+				allow read: if isOwner(uid);
+				allow create: if isOwner(uid)
+					&& validExerciseFlag(request.resource.data, exerciseId)
+					&& request.resource.data.active == true
+					&& request.resource.data.createdAt == request.time
+					&& request.resource.data.resolvedAt == null;
+				allow update: if isOwner(uid)
+					&& validExerciseFlag(request.resource.data, exerciseId)
+					&& (
+						// Pain reported again: same shape as a new flag.
+						(request.resource.data.active == true
+							&& request.resource.data.createdAt == request.time
+							&& request.resource.data.resolvedAt == null)
+						// The user resumes the exercise.
+						|| (resource.data.active == true
+							&& request.resource.data.diff(resource.data).affectedKeys().hasOnly(['active', 'resolvedAt'])
+							&& request.resource.data.active == false
+							&& request.resource.data.resolvedAt == request.time)
+					);
+			}
+
 			match /todos/{todoId} {
-				allow read, write: if isOwner(uid);
+				allow read, delete: if isOwner(uid);
+				allow create: if isOwner(uid)
+					&& validTodo(request.resource.data)
+					&& request.resource.data.createdAt == request.time;
+				allow update: if isOwner(uid)
+					&& validTodo(request.resource.data)
+					&& request.resource.data.createdAt == resource.data.createdAt;
 			}
 
 			match /reminders/{reminderId} {
-				allow read, write: if isOwner(uid);
+				allow read, delete: if isOwner(uid);
+				allow create, update: if isOwner(uid)
+					&& reminderId == 'workout'
+					&& validReminder(request.resource.data);
 			}
 
 			// Plans are generated and validated in the app with the shared planner (decision 2026-10-08;

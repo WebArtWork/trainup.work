@@ -1,0 +1,133 @@
+<div class="flex flex-col gap-3">
+	@if (todos().length) {
+		<ul class="divide-y divide-[var(--c-border)] rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)]">
+			@for (todo of todos(); track todo.id) {
+				<li class="flex flex-wrap items-center gap-3 px-4 py-2">
+					@if (editingId() === todo.id) {
+						<form class="flex w-full flex-wrap gap-2 py-1" (submit)="$event.preventDefault(); saveEdit(todo)">
+							<input
+								class="theme-focus min-h-11 min-w-0 flex-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-primary)] px-3 text-base text-[var(--c-text-strong)]"
+								type="text"
+								[maxLength]="maxLength"
+								[value]="editTitle()"
+								[translate]="{ ariaLabel: 'Назва справи' }"
+								(input)="editTitle.set($any($event.target).value)"
+							/>
+							<input
+								class="theme-focus min-h-11 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-primary)] px-3 text-base text-[var(--c-text-strong)]"
+								type="date"
+								[value]="editDate()"
+								[translate]="{ ariaLabel: 'Термін' }"
+								(input)="editDate.set($any($event.target).value)"
+							/>
+							<button
+								class="theme-focus inline-flex min-h-11 items-center rounded-full bg-[var(--c-primary)] px-4 text-sm font-semibold text-white disabled:opacity-50"
+								type="submit"
+								[disabled]="busy() || !editTitle().trim()"
+								translate
+							>
+								Зберегти
+							</button>
+							<button
+								class="theme-focus inline-flex min-h-11 items-center rounded-full px-3 text-sm font-semibold text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+								type="button"
+								(click)="editingId.set(null)"
+								translate
+							>
+								Скасувати
+							</button>
+						</form>
+					} @else {
+						<label class="flex min-h-11 flex-1 cursor-pointer items-center gap-3">
+							<input
+								class="h-5 w-5 shrink-0 accent-[var(--c-primary)]"
+								type="checkbox"
+								[checked]="todo.done"
+								[disabled]="busy()"
+								(change)="toggle(todo)"
+							/>
+							<span
+								class="text-sm"
+								[class]="todo.done ? 'text-[var(--c-text-muted)] line-through' : 'text-[var(--c-text-strong)]'"
+							>
+								{{ todo.title }}
+							</span>
+						</label>
+						@if (todo.dueDate) {
+							<span
+								class="text-xs font-semibold"
+								[class]="
+									!todo.done && todo.dueDate < today
+										? 'text-[var(--c-error)]'
+										: 'text-[var(--c-text-muted)]'
+								"
+							>
+								@if (!todo.done && todo.dueDate < today) {
+									<span translate>Прострочено</span> ·
+								}
+								{{ dueLabel(todo.dueDate) }}
+							</span>
+						}
+						@if (!compact()) {
+							<span class="flex">
+								<button
+									class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+									type="button"
+									[translate]="{ ariaLabel: 'Змінити' }"
+									(click)="startEdit(todo)"
+								>
+									<span class="material-symbols-outlined text-[20px]" aria-hidden="true">edit</span>
+								</button>
+								<button
+									class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+									type="button"
+									[translate]="{ ariaLabel: 'Видалити' }"
+									[disabled]="busy()"
+									(click)="remove(todo)"
+								>
+									<span class="material-symbols-outlined text-[20px]" aria-hidden="true">delete</span>
+								</button>
+							</span>
+						}
+					}
+				</li>
+			}
+		</ul>
+	}
+
+	@if (showAdd()) {
+		<form class="flex flex-wrap gap-2" (submit)="$event.preventDefault(); add()">
+			<input
+				class="theme-focus min-h-12 min-w-0 flex-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-base text-[var(--c-text-strong)]"
+				type="text"
+				[maxLength]="maxLength"
+				[value]="draftTitle()"
+				[translate]="{ placeholder: 'Нова справа', ariaLabel: 'Нова справа' }"
+				(input)="draftTitle.set($any($event.target).value)"
+			/>
+			@if (!compact()) {
+				<input
+					class="theme-focus min-h-12 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-3 text-base text-[var(--c-text-strong)]"
+					type="date"
+					[value]="draftDate()"
+					[translate]="{ ariaLabel: 'Термін (необов’язково)' }"
+					(input)="draftDate.set($any($event.target).value)"
+				/>
+			}
+			<button
+				class="theme-focus inline-flex min-h-12 items-center gap-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-sm font-semibold text-[var(--c-text-strong)] disabled:opacity-50"
+				type="submit"
+				[disabled]="!canAdd()"
+			>
+				<span class="material-symbols-outlined text-[20px]" aria-hidden="true">add</span>
+				<span translate>Додати</span>
+			</button>
+		</form>
+	}
+
+	@if (error()) {
+		<p class="text-sm text-[var(--c-error)]" role="alert" translate>
+			Не вдалося зберегти. Перевірте з’єднання та спробуйте ще раз.
+		</p>
+	}
+</div>

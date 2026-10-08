@@ -221,6 +221,32 @@ export interface PlannerInput {
 	/** Which exercise statuses may be used. Production: `['published']` only. */
 	allowedStatuses?: ExerciseStatus[];
 	weeks?: number;
+	/** Exercises the user reported pain in; excluded until the user explicitly resumes them. */
+	pausedExerciseIds?: string[];
+	/** Conservative change derived from accumulated feedback (see `recommendAdjustment`). */
+	adjustment?: LoadAdjustment;
+}
+
+/** How the next plan's volume changes compared to the default prescription. */
+export type LoadAdjustment = 'ease' | 'keep' | 'progress';
+
+/** Feedback from one finished workout, as the adaptation rules need it. */
+export interface SessionFeedback {
+	date: string;
+	/** Session RPE 1–10, or `null` when the user skipped the question. */
+	rpe: number | null;
+	/** Done sets / planned sets, 0–1. */
+	completionRate: number;
+	pain: boolean;
+}
+
+export type AdjustmentReason = 'not-enough-data' | 'pain' | 'too-hard' | 'too-easy' | 'on-track';
+
+export interface AdjustmentRecommendation {
+	adjustment: LoadAdjustment;
+	reason: AdjustmentReason;
+	/** How many recent sessions the decision is based on. */
+	sessions: number;
 }
 
 export type ExclusionReason =
@@ -240,7 +266,8 @@ export type ExclusionReason =
 	| 'no-anchor'
 	| 'location'
 	| 'limitation'
-	| 'level-too-high';
+	| 'level-too-high'
+	| 'paused-after-pain';
 
 export interface ExerciseExclusion {
 	exerciseId: string;
@@ -284,6 +311,10 @@ export interface PlanInputSnapshot {
 	limitations: BodyArea[];
 	/** `id@version` of every exercise that was eligible. */
 	catalog: string[];
+	/** Missing on plans generated before Phase 3; read as `[]`. */
+	pausedExerciseIds?: string[];
+	/** Missing on plans generated before Phase 3; read as `'keep'`. */
+	adjustment?: LoadAdjustment;
 }
 
 export type PlanProvenance = 'calculator';

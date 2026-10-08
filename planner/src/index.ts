@@ -1,3 +1,4 @@
+export * from './adaptation';
 export * from './eligibility';
 export * from './exercise-validation';
 export * from './generate';

@@ -92,6 +92,50 @@
 					</div>
 				}
 
+				@if (planService.needsReview()) {
+					<div
+						class="flex flex-col gap-3 rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-error)] bg-[var(--c-bg-secondary)] p-4 sm:flex-row sm:items-center sm:justify-between"
+						role="status"
+					>
+						<p class="text-sm leading-6 text-[var(--c-text)]" translate>
+							Деякі вправи призупинено через біль, а вони ще є в наступних тренуваннях. Оновіть план, щоб їх замінити.
+						</p>
+						<button
+							class="theme-focus inline-flex min-h-11 shrink-0 items-center justify-center rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-4 text-sm font-semibold text-white disabled:opacity-60"
+							type="button"
+							[disabled]="generating()"
+							(click)="generate()"
+							translate
+						>
+							Оновити план
+						</button>
+					</div>
+				} @else if (adjustmentSuggestion(); as suggestion) {
+					<div
+						class="flex flex-col gap-3 rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-primary)] bg-[var(--c-bg-secondary)] p-4 sm:flex-row sm:items-center sm:justify-between"
+						role="status"
+					>
+						<p class="text-sm leading-6 text-[var(--c-text)]">
+							@if (suggestion === 'ease') {
+								<span translate>Останні тренування були заважкими. Оновіть план — у ньому буде менше підходів і легше зусилля.</span>
+							} @else if (suggestion === 'progress') {
+								<span translate>Тренування даються легко. Оновіть план, щоб додати по одному підходу.</span>
+							} @else {
+								<span translate>За вашими відгуками навантаження можна повернути до звичайного.</span>
+							}
+						</p>
+						<button
+							class="theme-focus inline-flex min-h-11 shrink-0 items-center justify-center rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-4 text-sm font-semibold text-white disabled:opacity-60"
+							type="button"
+							[disabled]="generating()"
+							(click)="generate()"
+							translate
+						>
+							Оновити план
+						</button>
+					</div>
+				}
+
 				@if (todayDay(); as day) {
 					@if (completed().has(day.index)) {
 						<app-session-card [day]="day" [done]="true" />
@@ -147,6 +191,44 @@
 						<span translate>Історія</span>
 					</a>
 				</nav>
+
+				<section class="mt-2" aria-labelledby="today-todos-title">
+					<div class="mb-3 flex items-baseline justify-between gap-3">
+						<h2 id="today-todos-title" class="text-base font-semibold text-[var(--c-text-strong)]" translate>
+							Справи на сьогодні
+						</h2>
+						<a
+							class="theme-focus inline-flex min-h-11 items-center rounded-full px-3 text-sm font-semibold text-[var(--c-primary)] hover:bg-[var(--c-bg-tertiary)]"
+							routerLink="/app/todos"
+							translate
+						>
+							Усі справи
+						</a>
+					</div>
+					<app-todo-list [todos]="todoService.forToday()" compact />
+				</section>
+
+				<a
+					class="theme-focus flex min-h-12 items-center gap-3 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 py-3 text-sm"
+					routerLink="/app/reminders"
+				>
+					<span class="material-symbols-outlined text-[20px] text-[var(--c-primary)]" aria-hidden="true">
+						notifications
+					</span>
+					@if (reminderSummary(); as reminder) {
+						<span class="flex-1 text-[var(--c-text-strong)]">
+							<span translate>Нагадування</span> {{ reminder.time }} ·
+							@for (day of reminder.days; track day; let last = $last) {
+								<span [translate]="day">{{ day }}</span>{{ last ? '' : ',' }}
+							}
+						</span>
+					} @else {
+						<span class="flex-1 text-[var(--c-text)]" translate>Нагадування вимкнено</span>
+					}
+					<span class="material-symbols-outlined text-[20px] text-[var(--c-text-muted)]" aria-hidden="true">
+						chevron_right
+					</span>
+				</a>
 			}
 
 			@if (infeasibility(); as reason) {

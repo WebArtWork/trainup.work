@@ -1,7 +1,10 @@
 import { computed, inject, Service, signal } from '@angular/core';
 import {
 	generatePlan,
+	LoadAdjustment,
+	nextAdjustment,
 	PlannerInput,
+	recommendAdjustment,
 	PlanResult,
 	PlanViolation,
 	validatePlan,
@@ -20,6 +23,8 @@ import {
 import { AccountService } from '../account/account.service';
 import { pickSetupInput } from '../account/account.util';
 import { ExerciseCatalogService } from '../exercise/exercise-catalog.service';
+import { ExerciseFlagService } from '../exercise-flag/exercise-flag.service';
+import { toFeedback, WorkoutSessionService } from '../workout-session/workout-session.service';
 import { FirebaseService } from '../firebase/firebase.service';
 import { StoredPlan } from './plan.interface';
 import { localToday, stableStringify } from './plan.util';
@@ -36,6 +41,8 @@ export class PlanService {
 	private readonly _firebase = inject(FirebaseService);
 	private readonly _accountService = inject(AccountService);
 	private readonly _catalog = inject(ExerciseCatalogService);
+	private readonly _flags = inject(ExerciseFlagService);
+	private readonly _sessions = inject(WorkoutSessionService);
 
 	readonly activePlan = signal<StoredPlan | null>(null);
 	readonly loaded = signal(false);
@@ -46,6 +53,29 @@ export class PlanService {
 		const current = this._snapshot();
 
 		return !!plan && !!current && stableStringify(_inputOf(plan.input)) !== stableStringify(current);
+	});
+
+	/** Feedback-based suggestion from the active plan's finished workouts (README §6.4). */
+	readonly recommendation = computed(() =>
+		recommendAdjustment([...this._sessions.planSessions().values()].map(toFeedback)),
+	);
+
+	/** The adjustment the next plan would use; differs from the active one only on a clear signal. */
+	readonly suggestedAdjustment = computed<LoadAdjustment>(() =>
+		nextAdjustment(this.activePlan()?.input.adjustment ?? 'keep', this.recommendation()),
+	);
+
+	/** Upcoming workouts still contain an exercise the user reported pain in. */
+	readonly needsReview = computed(() => {
+		const paused = new Set(this._flags.pausedIds());
+		const today = localToday();
+
+		return (
+			!!paused.size &&
+			!!this.activePlan()?.days.some(
+				(day) => day.date >= today && day.exercises.some((item) => paused.has(item.exerciseId)),
+			)
+		);
 	});
 
 	private _uid: string | null = null;
@@ -77,7 +107,7 @@ export class PlanService {
 	 * active plan, and the previous one is kept as `superseded` (completed sessions stay intact).
 	 */
 	async generateAndSave(): Promise<PlanResult> {
-		await this._catalog.ensureLoaded();
+		await Promise.all([this._catalog.ensureLoaded(), this._flags.ensureLoaded()]);
 
 		const input = this._plannerInput();
 		const result = generatePlan(input);
@@ -168,6 +198,8 @@ export class PlanService {
 			catalog: this._catalog.exercises(),
 			allowedStatuses: this._catalog.allowedStatuses,
 			startDate: localToday(),
+			pausedExerciseIds: this._flags.pausedIds(),
+			adjustment: this.suggestedAdjustment(),
 		};
 	}
 

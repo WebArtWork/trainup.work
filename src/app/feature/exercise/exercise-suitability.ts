@@ -2,6 +2,7 @@ import { computed, inject } from '@angular/core';
 import { ExclusionReason, Exercise, exclusionReasons } from '@trainup/planner';
 import { AccountService } from '../account/account.service';
 import { pickSetupInput } from '../account/account.util';
+import { ExerciseFlagService } from '../exercise-flag/exercise-flag.service';
 import { ExerciseCatalogService } from './exercise-catalog.service';
 
 /**
@@ -11,6 +12,10 @@ import { ExerciseCatalogService } from './exercise-catalog.service';
 export function injectSuitability() {
 	const account = inject(AccountService);
 	const catalog = inject(ExerciseCatalogService);
+	const flags = inject(ExerciseFlagService);
+
+	void flags.ensureLoaded().catch(() => undefined);
+
 	const context = computed(() => {
 		const profile = account.profile();
 		const setup = account.setup();
@@ -21,6 +26,7 @@ export function injectSuitability() {
 					setup: pickSetupInput(setup),
 					limitations: account.activeLimitations().map((limitation) => limitation.area),
 					allowedStatuses: catalog.allowedStatuses,
+					pausedExerciseIds: flags.pausedIds(),
 				}
 			: null;
 	});

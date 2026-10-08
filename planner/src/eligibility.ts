@@ -35,6 +35,8 @@ export interface EligibilityContext {
 	setup: TrainingSetupInput;
 	limitations: BodyArea[];
 	allowedStatuses: ExerciseStatus[];
+	/** Exercises paused after reported pain; only the user can resume them. */
+	pausedExerciseIds?: string[];
 }
 
 /** Usable floor in meters, or `null` when nothing is known. Exact measurements win over presets. */
@@ -64,6 +66,10 @@ export function exclusionReasons(exercise: Exercise, context: EligibilityContext
 
 	if (!context.allowedStatuses.includes(exercise.status)) {
 		reasons.push('not-published');
+	}
+
+	if (context.pausedExerciseIds?.includes(exercise.id)) {
+		reasons.push('paused-after-pain');
 	}
 
 	if (validateExercise(exercise).length > 0) {

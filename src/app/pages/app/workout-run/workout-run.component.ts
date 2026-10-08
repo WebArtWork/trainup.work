@@ -4,10 +4,19 @@ import type { PlanDay, PlannedExercise } from '@trainup/planner';
 import { StoreService } from '@wawjs/ngx-core';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
+import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-flag.service';
+import { BODY_AREA_OPTIONS } from '../../../feature/limitation/limitation.interface';
+import { ChoiceOption } from '../../../feature/profile/profile.const';
 import { ExerciseTargetComponent } from '../../../feature/plan/components/exercise-target/exercise-target.component';
 import { PlanService } from '../../../feature/plan/plan.service';
-import { SessionSet, WorkoutSession } from '../../../feature/workout-session/workout-session.interface';
+import {
+	PainArea,
+	SESSION_NOTES_MAX_LENGTH,
+	SessionSet,
+	WorkoutSession,
+} from '../../../feature/workout-session/workout-session.interface';
 import { WorkoutSessionService } from '../../../feature/workout-session/workout-session.service';
+import { OptionPillComponent } from '../../../ui/option-pill/option-pill.component';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
 type Phase = 'loading' | 'error' | 'missing' | 'run' | 'summary' | 'saved' | 'done-before';
@@ -24,7 +33,17 @@ interface RunDraft {
 	startedAt: string;
 	current: number;
 	sets: RunSet[][];
+	rpe?: number | null;
+	painReported?: boolean | null;
+	painAreas?: PainArea[];
+	painExerciseIds?: string[];
+	notes?: string;
 }
+
+const PAIN_AREA_OPTIONS: ChoiceOption<PainArea>[] = [
+	...BODY_AREA_OPTIONS,
+	{ value: 'other', label: 'Інше' },
+];
 
 interface Hold {
 	exercise: number;
@@ -33,7 +52,13 @@ interface Hold {
 }
 
 @Component({
-	imports: [ExerciseTargetComponent, RouterLink, StateMessageComponent, TranslateDirective],
+	imports: [
+		ExerciseTargetComponent,
+		OptionPillComponent,
+		RouterLink,
+		StateMessageComponent,
+		TranslateDirective,
+	],
 	templateUrl: './workout-run.component.html',
 })
 export class WorkoutRunComponent {
@@ -41,6 +66,7 @@ export class WorkoutRunComponent {
 	private readonly _sessionService = inject(WorkoutSessionService);
 	private readonly _storeService = inject(StoreService);
 	private readonly _catalog = inject(ExerciseCatalogService);
+	private readonly _flags = inject(ExerciseFlagService);
 	private readonly _dayIndex = Number(inject(ActivatedRoute).snapshot.paramMap.get('day'));
 
 	protected readonly phase = signal<Phase>('loading');
@@ -52,6 +78,21 @@ export class WorkoutRunComponent {
 	protected readonly saving = signal(false);
 	protected readonly saveError = signal(false);
 	protected readonly savedSession = signal<WorkoutSession | null>(null);
+
+	// Feedback (README §3B step 4, §6.4)
+	protected readonly painAreaOptions = PAIN_AREA_OPTIONS;
+	protected readonly rpeScale = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+	protected readonly notesMaxLength = SESSION_NOTES_MAX_LENGTH;
+	protected readonly rpe = signal<number | null>(null);
+	protected readonly painReported = signal<boolean | null>(null);
+	protected readonly painAreas = signal<PainArea[]>([]);
+	protected readonly painExerciseIds = signal<string[]>([]);
+	protected readonly notes = signal('');
+	protected readonly painPanelOpen = signal(false);
+	protected readonly paused = computed(() => new Set(this._flags.pausedIds()));
+	protected readonly feedbackComplete = computed(
+		() => this.painReported() !== null && (!this.painReported() || this.painAreas().length > 0),
+	);
 
 	private _startedAt = new Date();
 	private _planId = '';
@@ -90,6 +131,11 @@ export class WorkoutRunComponent {
 				startedAt: this._startedAt.toISOString(),
 				current: this.current(),
 				sets: this.sets(),
+				rpe: this.rpe(),
+				painReported: this.painReported(),
+				painAreas: this.painAreas(),
+				painExerciseIds: this.painExerciseIds(),
+				notes: this.notes(),
 			};
 
 			if (this.phase() === 'run' || this.phase() === 'summary') {
@@ -138,6 +184,51 @@ export class WorkoutRunComponent {
 		this.hold.set({ exercise: this.current(), set: setIndex, remaining: planned.durationSeconds ?? 30 });
 	}
 
+	/** "I feel pain": stop the current exercise now; its remaining sets are skipped. */
+	protected openPain() {
+		this.hold.set(null);
+		this.restRemaining.set(0);
+		this.painPanelOpen.set(true);
+	}
+
+	protected confirmPain() {
+		const planned = this.planned()!;
+
+		this.sets.update((all) =>
+			all.map((sets, i) =>
+				i === this.current()
+					? sets.map((set) => (set.status === 'pending' ? { ...set, status: 'skipped' } : set))
+					: sets,
+			),
+		);
+		this.painReported.set(true);
+		this.painExerciseIds.update((ids) =>
+			ids.includes(planned.exerciseId) ? ids : [...ids, planned.exerciseId],
+		);
+		this.painPanelOpen.set(false);
+	}
+
+	protected togglePainArea(area: PainArea) {
+		this.painAreas.update((areas) =>
+			areas.includes(area) ? areas.filter((item) => item !== area) : [...areas, area],
+		);
+	}
+
+	protected togglePainExercise(exerciseId: string) {
+		this.painExerciseIds.update((ids) =>
+			ids.includes(exerciseId) ? ids.filter((id) => id !== exerciseId) : [...ids, exerciseId],
+		);
+	}
+
+	protected setPainReported(value: boolean) {
+		this.painReported.set(value);
+
+		if (!value) {
+			this.painAreas.set([]);
+			this.painExerciseIds.set([]);
+		}
+	}
+
 	protected skipRest() {
 		this.restRemaining.set(0);
 	}
@@ -163,7 +254,7 @@ export class WorkoutRunComponent {
 	protected async save() {
 		const day = this.day();
 
-		if (!day || this.saving()) {
+		if (!day || this.saving() || !this.feedbackComplete()) {
 			return;
 		}
 
@@ -189,8 +280,14 @@ export class WorkoutRunComponent {
 						}),
 					),
 				})),
+				rpe: this.rpe(),
+				pain: this.painReported()
+					? { areas: this.painAreas(), exerciseIds: this.painExerciseIds() }
+					: null,
+				notes: this.notes(),
 			});
 			await this._storeService.remove(this._draftKey());
+			await this._flags.reload();
 			this.phase.set('saved');
 		} catch (error) {
 			console.error(error);
@@ -202,7 +299,11 @@ export class WorkoutRunComponent {
 
 	private async _load() {
 		try {
-			await Promise.all([this._catalog.ensureLoaded(), this._planService.ensureLoaded()]);
+			await Promise.all([
+				this._catalog.ensureLoaded(),
+				this._planService.ensureLoaded(),
+				this._flags.ensureLoaded(),
+			]);
 
 			const plan = this._planService.activePlan();
 			const day = plan?.days.find((item) => item.index === this._dayIndex) ?? null;
@@ -230,6 +331,11 @@ export class WorkoutRunComponent {
 				this._startedAt = new Date(draft.startedAt);
 				this.sets.set(draft.sets);
 				this.current.set(Math.min(draft.current, day.exercises.length - 1));
+				this.rpe.set(draft.rpe ?? null);
+				this.painReported.set(draft.painReported ?? null);
+				this.painAreas.set(draft.painAreas ?? []);
+				this.painExerciseIds.set(draft.painExerciseIds ?? []);
+				this.notes.set(draft.notes ?? '');
 			} else {
 				this.sets.set(
 					day.exercises.map((planned) =>
