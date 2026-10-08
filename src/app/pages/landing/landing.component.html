@@ -1,0 +1,140 @@
+<section class="relative overflow-hidden">
+	<div class="landing-mesh" aria-hidden="true"></div>
+	<div class="landing-orb landing-orb--primary" aria-hidden="true"></div>
+	<div class="landing-orb landing-orb--secondary" aria-hidden="true"></div>
+
+	<div class="relative mx-auto max-w-[var(--container)] px-4 py-8 sm:px-6 sm:py-12">
+		<section
+			class="overflow-hidden rounded-[calc(var(--radius-card)*2.4)] border border-[color:color-mix(in_srgb,var(--c-border)_72%,transparent)] bg-[color:color-mix(in_srgb,var(--c-bg-secondary)_84%,transparent)] p-6 shadow-[var(--shadow-md)] backdrop-blur-xl sm:p-8 lg:p-10"
+		>
+			<p
+				class="inline-flex items-center gap-2 rounded-full border border-[color:color-mix(in_srgb,var(--c-border)_72%,transparent)] bg-[color:color-mix(in_srgb,var(--c-bg-primary)_76%,transparent)] px-3 py-1 text-[0.72rem] font-semibold uppercase tracking-[0.24em] text-[var(--c-text-muted)]"
+			>
+				<span
+					class="h-2 w-2 rounded-full bg-[var(--c-primary)] shadow-[0_0_0_6px_color-mix(in_srgb,var(--c-primary)_14%,transparent)]"
+					aria-hidden="true"
+				></span>
+				<span translate>Мобільний застосунок для тренувань · у розробці</span>
+			</p>
+
+			<div class="mt-6 grid gap-8 lg:grid-cols-[minmax(0,1.15fr)_minmax(18rem,0.85fr)]">
+				<div class="max-w-3xl">
+					<h1
+						class="text-4xl font-semibold tracking-[-0.04em] text-[var(--c-text-strong)] sm:text-5xl lg:text-6xl"
+						translate
+					>
+						Реалістичний план тренувань під ваше обладнання та простір
+					</h1>
+
+					<p
+						class="mt-5 max-w-2xl text-base leading-8 text-[var(--c-text)] sm:text-lg"
+						translate
+					>
+						Оберіть ціль, рівень, графік, обладнання та вільне місце для тренувань — TrainUp складе досяжну програму, проведе через кожне тренування із зображеннями вправ і підлаштує наступні заняття під ваше самопочуття.
+					</p>
+
+					<ul class="mt-8 flex flex-wrap gap-3">
+						@for (highlight of highlights; track highlight; let first = $first) {
+							<li
+								class="inline-flex min-h-12 items-center rounded-full px-5 py-3 text-sm font-semibold"
+								[class]="
+									first
+										? 'bg-[var(--c-primary)] text-white'
+										: 'border border-[var(--c-border)] bg-[color:color-mix(in_srgb,var(--c-bg-primary)_78%,transparent)] text-[var(--c-text-strong)]'
+								"
+								[translate]="highlight"
+							>
+								{{ highlight }}
+							</li>
+						}
+					</ul>
+				</div>
+
+				<div
+					class="rounded-[calc(var(--radius-card)*2)] border border-[color:color-mix(in_srgb,var(--c-border)_72%,transparent)] bg-[linear-gradient(180deg,color-mix(in_srgb,var(--c-bg-secondary)_96%,transparent),color-mix(in_srgb,var(--c-bg-primary)_92%,transparent))] p-5 shadow-[var(--shadow-sm)]"
+				>
+					<h2
+						class="text-xs font-semibold uppercase tracking-[0.18em] text-[var(--c-text-muted)]"
+						translate
+					>
+						Що враховує план
+					</h2>
+
+					<ul class="mt-5 space-y-3">
+						@for (input of planInputs; track input) {
+							<li
+								class="flex items-center gap-3 rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-primary)] p-4 text-sm font-medium text-[var(--c-text-strong)]"
+							>
+								<span
+									class="material-symbols-outlined text-[20px] text-[var(--c-primary)]"
+									aria-hidden="true"
+								>
+									check_circle
+								</span>
+								<span [translate]="input">{{ input }}</span>
+							</li>
+						}
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<section class="mt-12 sm:mt-16" aria-labelledby="landing-steps-title">
+			<h2
+				id="landing-steps-title"
+				class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
+				translate
+			>
+				Як це працює
+			</h2>
+
+			<ol class="mt-6 grid gap-4 md:grid-cols-3">
+				@for (step of steps; track step.title; let index = $index) {
+					<li
+						class="rounded-[calc(var(--radius-card)*2)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-6 shadow-[var(--shadow-sm)]"
+					>
+						<span
+							class="inline-flex h-10 w-10 items-center justify-center rounded-full bg-[var(--c-primary)] text-base font-semibold text-white"
+							aria-hidden="true"
+						>
+							{{ index + 1 }}
+						</span>
+						<h3
+							class="mt-4 text-lg font-semibold text-[var(--c-text-strong)]"
+							[translate]="step.title"
+						>
+							{{ step.title }}
+						</h3>
+						<p class="mt-2 text-sm leading-7 text-[var(--c-text)]" [translate]="step.text">
+							{{ step.text }}
+						</p>
+					</li>
+				}
+			</ol>
+		</section>
+
+		<section class="mt-12 grid gap-4 sm:mt-16 md:grid-cols-3">
+			@for (feature of features; track feature.title) {
+				<article
+					class="rounded-[calc(var(--radius-card)*2)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-6 shadow-[var(--shadow-sm)]"
+				>
+					<span
+						class="material-symbols-outlined text-[28px] text-[var(--c-primary)]"
+						aria-hidden="true"
+					>
+						{{ feature.icon }}
+					</span>
+					<h2
+						class="mt-3 text-lg font-semibold text-[var(--c-text-strong)]"
+						[translate]="feature.title"
+					>
+						{{ feature.title }}
+					</h2>
+					<p class="mt-2 text-sm leading-7 text-[var(--c-text)]" [translate]="feature.text">
+						{{ feature.text }}
+					</p>
+				</article>
+			}
+		</section>
+	</div>
+</section>

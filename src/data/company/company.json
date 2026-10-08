@@ -1,0 +1,25 @@
+{
+	"_id": "",
+	"name": "TrainUp",
+	"title": "TrainUp — план тренувань під ваше обладнання та простір",
+	"description": "Мобільний застосунок, що складає досяжний план тренувань під вашу ціль, рівень, обладнання, вільний простір і графік — без промптів і чатів.",
+	"image": "/logo.png",
+	"logo": "/logo.png",
+	"siteUrl": "https://trainup.work",
+	"lang": "uk",
+	"locale": "uk_UA",
+	"defaultSeo": {
+		"keywords": [
+			"план тренувань",
+			"тренування вдома",
+			"програма тренувань",
+			"фітнес застосунок",
+			"workout planner",
+			"TrainUp"
+		],
+		"author": "TrainUp",
+		"robots": "index, follow",
+		"type": "website",
+		"twitterCard": "summary"
+	}
+}
