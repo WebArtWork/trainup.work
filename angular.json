@@ -74,6 +74,10 @@
 								{
 									"replace": "src/environments/environment.ts",
 									"with": "src/environments/environment.prod.ts"
+								},
+								{
+									"replace": "src/app/feature/exercise/bundled-catalog.ts",
+									"with": "src/app/feature/exercise/bundled-catalog.prod.ts"
 								}
 							],
 							"budgets": [

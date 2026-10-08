@@ -1,12 +1,9 @@
+import type { FitnessLevel, Goal, Weekday } from '@trainup/planner';
 import type { Timestamp } from 'firebase/firestore';
 
 export const PROFILE_SCHEMA_VERSION = 1;
 
-export type Goal = 'general-fitness' | 'build-strength' | 'improve-conditioning';
-
-export type FitnessLevel = 'beginner' | 'intermediate' | 'advanced';
-
-export type Weekday = 'mon' | 'tue' | 'wed' | 'thu' | 'fri' | 'sat' | 'sun';
+export type { FitnessLevel, Goal, Weekday } from '@trainup/planner';
 
 /** Editable profile fields, collected during onboarding and edited from Profile. */
 export interface ProfileInput {

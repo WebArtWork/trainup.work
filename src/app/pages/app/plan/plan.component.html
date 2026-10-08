@@ -1,0 +1,181 @@
+<header>
+	<a
+		class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary)]"
+		routerLink="/app/today"
+	>
+		<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
+		<span translate>Сьогодні</span>
+	</a>
+	<h1
+		class="mt-3 text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
+		translate
+	>
+		Ваш план
+	</h1>
+</header>
+
+<div class="mt-6 flex flex-col gap-6">
+	@let stateValue = state();
+	@switch (stateValue) {
+		@case ('loading') {
+			<app-state-message tone="loading" title="Завантажуємо ваш план" />
+		}
+		@case ('error') {
+			<app-state-message
+				tone="error"
+				icon="cloud_off"
+				title="Не вдалося завантажити план"
+				text="Перевірте з’єднання з інтернетом і спробуйте ще раз."
+			/>
+		}
+		@case ('ready') {
+			@if (plan(); as current) {
+				<p class="text-sm text-[var(--c-text)]">
+					{{ current.weeks }} <span translate>тижні</span> · {{ current.daysPerWeek }}
+					<span translate>трен./тиждень</span> · {{ current.sessionMinutes }} <span translate>хв</span>
+				</p>
+
+				@for (week of weeks(); track week.week) {
+					<section>
+						<h2 class="text-base font-semibold text-[var(--c-text-strong)]">
+							<span translate>Тиждень</span> {{ week.week }}
+							@if (week.week % 4 === 0) {
+								<span class="ml-2 text-sm font-normal text-[var(--c-text-muted)]" translate>
+									(легший тиждень для відновлення)
+								</span>
+							}
+						</h2>
+						<ul class="mt-3 flex flex-col gap-2">
+							@for (day of week.days; track day.index) {
+								<li>
+									<details
+										class="group rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)]"
+									>
+										<summary
+											class="theme-focus flex min-h-14 cursor-pointer list-none items-center gap-3 px-4 py-3"
+										>
+											@if (completed().has(day.index)) {
+												<span
+													class="material-symbols-outlined text-[22px] text-[var(--c-primary)]"
+													[translate]="{ ariaLabel: 'Виконано' }"
+													role="img"
+												>
+													task_alt
+												</span>
+											} @else {
+												<span
+													class="material-symbols-outlined text-[22px] text-[var(--c-border)]"
+													aria-hidden="true"
+												>
+													radio_button_unchecked
+												</span>
+											}
+											<span class="flex-1">
+												<span
+													class="block text-sm font-semibold text-[var(--c-text-strong)] first-letter:uppercase"
+												>
+													{{ dateLabel(day) }}
+												</span>
+												<span class="text-xs text-[var(--c-text-muted)]">
+													{{ day.exercises.length }} <span translate>вправ</span> · ~{{
+														day.estimatedMinutes
+													}}
+													<span translate>хв</span>
+												</span>
+											</span>
+											<span
+												class="material-symbols-outlined text-[20px] text-[var(--c-text-muted)] transition-transform group-open:rotate-180"
+												aria-hidden="true"
+											>
+												expand_more
+											</span>
+										</summary>
+										<div class="border-t border-[var(--c-border)] px-4 pb-4">
+											<ol class="divide-y divide-[var(--c-border)]">
+												@for (exercise of day.exercises; track exercise.exerciseId) {
+													<li class="flex items-baseline justify-between gap-3 py-2.5 text-sm">
+														<span class="text-[var(--c-text-strong)]">{{ exercise.name }}</span>
+														<app-exercise-target class="shrink-0 text-[var(--c-text)]" [planned]="exercise" />
+													</li>
+												}
+											</ol>
+											@if (!completed().has(day.index) && day.date >= today) {
+												<a
+													class="theme-focus mt-2 inline-flex min-h-11 items-center gap-1 rounded-full bg-[var(--c-primary)] px-4 text-sm font-semibold text-white"
+													[routerLink]="['/app/workout', day.index]"
+												>
+													<span class="material-symbols-outlined text-[18px]" aria-hidden="true">
+														play_arrow
+													</span>
+													<span translate>Почати</span>
+												</a>
+											}
+										</div>
+									</details>
+								</li>
+							}
+						</ul>
+					</section>
+				}
+
+				<section
+					class="rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-4"
+				>
+					<h2 class="text-base font-semibold text-[var(--c-text-strong)]" translate>
+						Скласти план заново
+					</h2>
+					<p class="mt-1 text-sm leading-6 text-[var(--c-text)]">
+						@if (isOutdated()) {
+							<span translate>Ваші налаштування змінилися після складання плану.</span>
+						}
+						<span translate>
+							Новий план почнеться з сьогодні. Виконані тренування залишаться в історії.
+						</span>
+					</p>
+					<button
+						class="theme-focus mt-3 inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] border-2 border-[var(--c-primary)] px-5 text-sm font-semibold text-[var(--c-primary)] disabled:opacity-60"
+						type="button"
+						[disabled]="generating()"
+						[attr.aria-busy]="generating()"
+						(click)="regenerate()"
+					>
+						@if (generating()) {
+							<span class="material-symbols-outlined animate-spin text-[20px]" aria-hidden="true">
+								progress_activity
+							</span>
+						}
+						<span translate>Скласти заново</span>
+					</button>
+				</section>
+			} @else {
+				<app-state-message
+					icon="event_upcoming"
+					title="Плану ще немає"
+					text="Складіть план на сторінці «Сьогодні»."
+				>
+					<a
+						class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-sm font-semibold text-[var(--c-text-strong)]"
+						routerLink="/app/today"
+						translate
+					>
+						До сторінки «Сьогодні»
+					</a>
+				</app-state-message>
+			}
+
+			@if (infeasibility(); as reason) {
+				<app-plan-infeasibility [infeasibility]="reason" />
+			}
+			@if (generateError()) {
+				<p
+					class="rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+					role="alert"
+					translate
+				>
+					Не вдалося зберегти план. Перевірте з’єднання та спробуйте ще раз.
+				</p>
+			}
+		}
+		@default never;
+	}
+</div>

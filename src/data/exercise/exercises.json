@@ -1,0 +1,3484 @@
+[
+	{
+		"id": "bodyweight-squat",
+		"slug": "bodyweight-squat",
+		"name": "Присідання з власною вагою",
+		"description": "Базове присідання без обтяження. Тренує квадрицепси та сідничні м'язи, розвиває контроль руху в колінах і стегнах.",
+		"category": "strength",
+		"movementPattern": "squat",
+		"primaryMuscles": [
+			"quads",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"hamstrings",
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees"
+		],
+		"contraindicatedAreas": [
+			"knees"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у колінах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 10,
+			"max": 15
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 45,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте, поставивши стопи на ширині плечей.",
+			"Відведіть таз назад і зігніть коліна, опускаючись униз.",
+			"Опустіться до комфортної глибини, тримаючи спину рівною.",
+			"Відштовхніться стопами й поверніться у вихідне положення."
+		],
+		"techniqueNotes": [
+			"Коліна рухаються в напрямку носків.",
+			"Не відривайте п'яти від підлоги."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "split-squat",
+		"slug": "split-squat",
+		"name": "Спліт-присідання",
+		"description": "Присідання в положенні широкого кроку. Тренує квадрицепси та сідничні м'язи кожної ноги окремо й покращує баланс.",
+		"category": "strength",
+		"movementPattern": "lunge",
+		"primaryMuscles": [
+			"quads",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"hamstrings",
+			"calves"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees"
+		],
+		"contraindicatedAreas": [
+			"knees"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у колінах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте в широкий крок: одна нога попереду, друга позаду.",
+			"Опустіться вертикально вниз, згинаючи обидва коліна.",
+			"Підніміться, відштовхуючись передньою ногою.",
+			"Виконайте всі повторення й поміняйте ноги."
+		],
+		"techniqueNotes": [
+			"Тримайте корпус вертикально.",
+			"Вага тіла переважно на передній нозі."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "reverse-lunge",
+		"slug": "reverse-lunge",
+		"name": "Зворотні випади",
+		"description": "Випад із кроком назад. Тренує квадрицепси та сідничні м'язи, розвиває баланс і координацію.",
+		"category": "strength",
+		"movementPattern": "lunge",
+		"primaryMuscles": [
+			"quads",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"hamstrings",
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "low",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees"
+		],
+		"contraindicatedAreas": [
+			"knees"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у колінах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно, стопи на ширині стегон.",
+			"Зробіть крок назад і опустіться, згинаючи обидва коліна.",
+			"Відштовхніться передньою ногою й поверніться у вихідне положення.",
+			"Чергуйте ноги або виконайте всі повторення на одну сторону."
+		],
+		"techniqueNotes": [
+			"Робіть крок назад контрольовано, без ривка.",
+			"Тримайте корпус рівно."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "glute-bridge",
+		"slug": "glute-bridge",
+		"name": "Сідничний міст",
+		"description": "Підйом таза з положення лежачи на спині. Тренує сідничні м'язи та задню поверхню стегна.",
+		"category": "strength",
+		"movementPattern": "hinge",
+		"primaryMuscles": [
+			"glutes",
+			"hamstrings"
+		],
+		"secondaryMuscles": [
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [],
+		"warnings": [
+			"Припиніть вправу, якщо відчуваєте біль у попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 10,
+			"max": 15
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 45,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Ляжте на спину, зігніть коліна, стопи на підлозі.",
+			"Напружте сідниці й підніміть таз угору.",
+			"Затримайтеся на секунду у верхній точці.",
+			"Повільно опустіть таз на підлогу."
+		],
+		"techniqueNotes": [
+			"Не прогинайте поперек у верхній точці.",
+			"Тисніть у підлогу п'ятами."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "single-leg-glute-bridge",
+		"slug": "single-leg-glute-bridge",
+		"name": "Сідничний міст на одній нозі",
+		"description": "Ускладнений варіант сідничного мосту з опорою на одну ногу. Тренує сідничні м'язи та задню поверхню стегна, покращує стабільність таза.",
+		"category": "strength",
+		"movementPattern": "hinge",
+		"primaryMuscles": [
+			"glutes",
+			"hamstrings"
+		],
+		"secondaryMuscles": [
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [],
+		"warnings": [
+			"Припиніть вправу, якщо відчуваєте біль у попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Ляжте на спину, зігніть коліна, стопи на підлозі.",
+			"Випряміть одну ногу й підніміть її над підлогою.",
+			"Підніміть таз, відштовхуючись п'ятою опорної ноги.",
+			"Повільно опустіться; після підходу поміняйте ноги."
+		],
+		"techniqueNotes": [
+			"Тримайте таз рівно, не перекошуйте його.",
+			"Рухайтеся повільно й контрольовано."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "knee-push-up",
+		"slug": "knee-push-up",
+		"name": "Віджимання з колін",
+		"description": "Полегшений варіант віджимань з опорою на коліна. Тренує грудні м'язи та трицепси.",
+		"category": "strength",
+		"movementPattern": "push-horizontal",
+		"primaryMuscles": [
+			"chest",
+			"triceps"
+		],
+		"secondaryMuscles": [
+			"shoulders",
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"wrists",
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"wrists",
+			"shoulders"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у зап'ястях або плечах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте на коліна, долоні на підлозі трохи ширше плечей.",
+			"Вирівняйте тіло від колін до голови.",
+			"Зігніть руки й опустіть груди до підлоги.",
+			"Відштовхніться й випряміть руки."
+		],
+		"techniqueNotes": [
+			"Лікті під кутом приблизно 45° до корпусу.",
+			"Не провисайте в попереку."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "push-up",
+		"slug": "push-up",
+		"name": "Віджимання",
+		"description": "Класичні віджимання від підлоги. Тренують грудні м'язи, трицепси та стабілізатори корпусу.",
+		"category": "strength",
+		"movementPattern": "push-horizontal",
+		"primaryMuscles": [
+			"chest",
+			"triceps"
+		],
+		"secondaryMuscles": [
+			"shoulders",
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"wrists",
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"wrists",
+			"shoulders"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у зап'ястях або плечах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 15
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 45,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Прийміть упор лежачи, долоні трохи ширше плечей.",
+			"Вирівняйте тіло від п'ят до голови.",
+			"Зігніть руки й опустіть груди до підлоги.",
+			"Відштовхніться й випряміть руки."
+		],
+		"techniqueNotes": [
+			"Тримайте прес і сідниці напруженими.",
+			"Лікті під кутом приблизно 45° до корпусу."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "wall-push-up",
+		"slug": "wall-push-up",
+		"name": "Віджимання від стіни",
+		"description": "Найлегший варіант віджимань з опорою на стіну. Тренує грудні м'язи та трицепси з мінімальним навантаженням.",
+		"category": "strength",
+		"movementPattern": "push-horizontal",
+		"primaryMuscles": [
+			"chest",
+			"triceps"
+		],
+		"secondaryMuscles": [
+			"shoulders"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у плечах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 10,
+			"max": 15
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 45,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте обличчям до стіни на відстані витягнутих рук.",
+			"Упріться долонями в стіну на рівні плечей.",
+			"Зігніть руки й наблизьте груди до стіни.",
+			"Відштовхніться й поверніться у вихідне положення."
+		],
+		"techniqueNotes": [
+			"Тримайте тіло рівним, як дошку.",
+			"Що далі стопи від стіни, то складніше."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "pike-push-up",
+		"slug": "pike-push-up",
+		"name": "Віджимання в позі «щука»",
+		"description": "Віджимання з піднятим тазом, що зміщує навантаження на плечі. Тренує дельтоподібні м'язи та трицепси.",
+		"category": "strength",
+		"movementPattern": "push-vertical",
+		"primaryMuscles": [
+			"shoulders",
+			"triceps"
+		],
+		"secondaryMuscles": [
+			"chest",
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "advanced",
+		"coordinationDifficulty": 3,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders",
+			"wrists"
+		],
+		"contraindicatedAreas": [
+			"shoulders",
+			"wrists",
+			"neck"
+		],
+		"warnings": [
+			"Опускайтеся повільно й не спирайтеся головою на підлогу.",
+			"Припиніть вправу, якщо з'явився біль у плечах, зап'ястях або шиї."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 6,
+			"max": 10
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 30,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Прийміть упор лежачи й підніміть таз, утворивши перевернуту літеру «V».",
+			"Зігніть руки й опустіть голову в бік підлоги між долонями.",
+			"Відштовхніться й випряміть руки.",
+			"Тримайте таз високо протягом усього підходу."
+		],
+		"techniqueNotes": [
+			"Лікті спрямовані назад, а не в сторони.",
+			"Погляд на підлогу між долонями."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "plank",
+		"slug": "plank",
+		"name": "Планка",
+		"description": "Статичне утримання тіла в упорі на передпліччях. Тренує м'язи корпусу та стабільність тулуба.",
+		"category": "strength",
+		"movementPattern": "core",
+		"primaryMuscles": [
+			"core"
+		],
+		"secondaryMuscles": [
+			"shoulders",
+			"glutes"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у плечах або попереку."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 20,
+			"max": 40
+		},
+		"estimatedSetSeconds": 40,
+		"restSeconds": 45,
+		"imageUrl": null,
+		"steps": [
+			"Станьте в упор на передпліччя, лікті під плечима.",
+			"Випряміть ноги й вирівняйте тіло від п'ят до голови.",
+			"Напружте прес і сідниці.",
+			"Утримуйте положення заданий час, рівно дихаючи."
+		],
+		"techniqueNotes": [
+			"Не піднімайте й не опускайте таз.",
+			"Не затримуйте дихання."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "side-plank",
+		"slug": "side-plank",
+		"name": "Бічна планка",
+		"description": "Статичне утримання тіла боком з опорою на передпліччя. Тренує косі м'язи живота та стабілізатори корпусу.",
+		"category": "strength",
+		"movementPattern": "core",
+		"primaryMuscles": [
+			"core"
+		],
+		"secondaryMuscles": [
+			"shoulders",
+			"glutes"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у плечі."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 15,
+			"max": 30
+		},
+		"estimatedSetSeconds": 30,
+		"restSeconds": 45,
+		"imageUrl": null,
+		"steps": [
+			"Ляжте на бік, лікоть під плечем.",
+			"Поставте стопи одну на одну або одну перед одною.",
+			"Підніміть таз, вирівнявши тіло в лінію.",
+			"Утримуйте положення заданий час, потім поміняйте сторону."
+		],
+		"techniqueNotes": [
+			"Не дозволяйте тазу провисати.",
+			"Тримайте шию на одній лінії з тілом."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "dead-bug",
+		"slug": "dead-bug",
+		"name": "Мертвий жук",
+		"description": "Почергове випрямлення протилежних руки й ноги лежачи на спині. Тренує глибокі м'язи корпусу та контроль положення попереку.",
+		"category": "strength",
+		"movementPattern": "core",
+		"primaryMuscles": [
+			"core"
+		],
+		"secondaryMuscles": [],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [],
+		"warnings": [],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 45,
+		"imageUrl": null,
+		"steps": [
+			"Ляжте на спину, руки витягніть угору, ноги зігніть під прямим кутом.",
+			"Повільно опустіть протилежні руку й ногу до підлоги.",
+			"Поверніть їх у вихідне положення.",
+			"Повторіть з іншою парою руки й ноги."
+		],
+		"techniqueNotes": [
+			"Притискайте поперек до підлоги.",
+			"Рухайтеся повільно, видихайте під час опускання."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "bird-dog",
+		"slug": "bird-dog",
+		"name": "Пташка-собака",
+		"description": "Почергове витягування протилежних руки й ноги в упорі на колінах. Тренує м'язи корпусу, сідниці та координацію.",
+		"category": "strength",
+		"movementPattern": "core",
+		"primaryMuscles": [
+			"core",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"back",
+			"shoulders"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [
+			"wrists"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у зап'ястях."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 45,
+		"imageUrl": null,
+		"steps": [
+			"Станьте на коліна й долоні, долоні під плечима, коліна під стегнами.",
+			"Одночасно витягніть уперед одну руку й назад протилежну ногу.",
+			"Затримайтеся на секунду.",
+			"Поверніться у вихідне положення й поміняйте сторону."
+		],
+		"techniqueNotes": [
+			"Тримайте спину рівною, не прогинайтеся.",
+			"Таз залишається паралельним підлозі."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "superman",
+		"slug": "superman",
+		"name": "Супермен",
+		"description": "Одночасний підйом рук і ніг лежачи на животі. Тренує м'язи спини та сідниці.",
+		"category": "strength",
+		"movementPattern": "hinge",
+		"primaryMuscles": [
+			"back",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"hamstrings"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "low",
+		"highLoadBodyAreas": [
+			"lower-back"
+		],
+		"contraindicatedAreas": [
+			"lower-back"
+		],
+		"warnings": [
+			"Не піднімайтеся різко й надто високо.",
+			"Припиніть вправу, якщо з'явився біль у попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 10,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Ляжте на живіт, руки витягніть уперед.",
+			"Одночасно трохи підніміть руки, груди й ноги над підлогою.",
+			"Затримайтеся на 1–2 секунди.",
+			"Повільно опустіться."
+		],
+		"techniqueNotes": [
+			"Погляд униз, шия на одній лінії зі спиною.",
+			"Рухайтеся плавно, без ривків."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "wall-sit",
+		"slug": "wall-sit",
+		"name": "Стільчик біля стіни",
+		"description": "Статичне утримання положення сидячи спиною до стіни. Тренує квадрицепси та витривалість ніг.",
+		"category": "strength",
+		"movementPattern": "squat",
+		"primaryMuscles": [
+			"quads"
+		],
+		"secondaryMuscles": [
+			"glutes",
+			"calves"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees"
+		],
+		"contraindicatedAreas": [
+			"knees"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у колінах."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 20,
+			"max": 45
+		},
+		"estimatedSetSeconds": 45,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте спиною до стіни, стопи на відстані близько півметра від неї.",
+			"Ковзніть спиною вниз, доки коліна не зігнуться під комфортним кутом.",
+			"Утримуйте положення заданий час.",
+			"Повільно підніміться вгору."
+		],
+		"techniqueNotes": [
+			"Коліна над щиколотками, не виходять за носки.",
+			"Спина повністю притиснута до стіни."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "jumping-jacks",
+		"slug": "jumping-jacks",
+		"name": "Стрибки «зірочка»",
+		"description": "Стрибки з одночасним розведенням рук і ніг. Розвивають серцево-судинну витривалість і розігрівають усе тіло.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"calves",
+			"shoulders"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1.5,
+			"heightM": 2.4,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "high",
+		"noiseLevel": "loud",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees",
+			"ankles"
+		],
+		"contraindicatedAreas": [
+			"knees",
+			"ankles"
+		],
+		"warnings": [
+			"Приземляйтеся м'яко на передню частину стопи.",
+			"Припиніть вправу, якщо з'явився біль у колінах або гомілковостопних суглобах."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 20,
+			"max": 40
+		},
+		"estimatedSetSeconds": 40,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно, ноги разом, руки вздовж тіла.",
+			"Стрибком розставте ноги й підніміть руки над головою.",
+			"Стрибком поверніться у вихідне положення.",
+			"Продовжуйте в рівному темпі заданий час."
+		],
+		"techniqueNotes": [
+			"Коліна злегка зігнуті під час приземлення.",
+			"Дихайте рівно."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "step-jacks",
+		"slug": "step-jacks",
+		"name": "«Зірочка» кроками",
+		"description": "Безударний варіант «зірочки»: крок убік із підйомом рук над головою. Розігріває тіло й підвищує пульс без стрибків.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"calves",
+			"shoulders"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1.5,
+			"heightM": 2.3,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [],
+		"warnings": [],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 30,
+			"max": 45
+		},
+		"estimatedSetSeconds": 45,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно, ноги разом, руки вздовж тіла.",
+			"Зробіть крок убік і одночасно підніміть руки над головою.",
+			"Приставте ногу й опустіть руки.",
+			"Чергуйте сторони в рівному темпі."
+		],
+		"techniqueNotes": [
+			"Тримайте темп, щоб пульс помірно зростав.",
+			"Ступайте м'яко."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "high-knees",
+		"slug": "high-knees",
+		"name": "Біг із високим підніманням колін",
+		"description": "Біг на місці з високим підйомом колін. Розвиває серцево-судинну витривалість і швидкість ніг.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"quads",
+			"calves",
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "high",
+		"noiseLevel": "loud",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees",
+			"ankles"
+		],
+		"contraindicatedAreas": [
+			"knees",
+			"ankles"
+		],
+		"warnings": [
+			"Приземляйтеся м'яко на передню частину стопи.",
+			"Припиніть вправу, якщо з'явився біль у колінах або гомілковостопних суглобах."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 20,
+			"max": 30
+		},
+		"estimatedSetSeconds": 30,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно, стопи на ширині стегон.",
+			"Почніть бігти на місці, піднімаючи коліна приблизно до рівня стегон.",
+			"Працюйте руками в такт ногам.",
+			"Продовжуйте заданий час."
+		],
+		"techniqueNotes": [
+			"Тримайте корпус вертикально.",
+			"Не відкидайтеся назад."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "march-in-place",
+		"slug": "march-in-place",
+		"name": "Марш на місці",
+		"description": "Ходьба на місці з активною роботою рук. Легка безударна кардіовправа для розігріву й підвищення пульсу.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"quads",
+			"calves"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [],
+		"warnings": [],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 45,
+			"max": 60
+		},
+		"estimatedSetSeconds": 60,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно, руки зігнуті в ліктях.",
+			"Почергово піднімайте коліна, крокуючи на місці.",
+			"Працюйте руками в такт крокам.",
+			"Підтримуйте рівний темп заданий час."
+		],
+		"techniqueNotes": [
+			"Тримайте спину рівною.",
+			"Щоб ускладнити, піднімайте коліна вище або пришвидшіть темп."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "mountain-climbers",
+		"slug": "mountain-climbers",
+		"name": "Скелелаз",
+		"description": "Почергове підтягування колін до грудей в упорі лежачи. Розвиває витривалість і тренує м'язи корпусу.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"core",
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"shoulders",
+			"quads"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "low",
+		"noiseLevel": "moderate",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"wrists",
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"wrists",
+			"shoulders"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у зап'ястях або плечах."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 20,
+			"max": 30
+		},
+		"estimatedSetSeconds": 30,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Прийміть упор лежачи, долоні під плечима.",
+			"Підтягніть одне коліно до грудей.",
+			"Поверніть ногу назад і підтягніть інше коліно.",
+			"Чергуйте ноги в швидкому, але контрольованому темпі."
+		],
+		"techniqueNotes": [
+			"Не піднімайте таз високо.",
+			"Плечі тримайте над долонями."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "burpee",
+		"slug": "burpee",
+		"name": "Берпі",
+		"description": "Комплексна вправа: присід, упор лежачи, повернення та стрибок угору. Розвиває загальну витривалість і навантажує все тіло.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"chest",
+			"quads",
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "advanced",
+		"coordinationDifficulty": 3,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1.5,
+			"heightM": 2.4,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "high",
+		"noiseLevel": "loud",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"wrists",
+			"knees",
+			"ankles"
+		],
+		"contraindicatedAreas": [
+			"wrists",
+			"knees",
+			"ankles",
+			"lower-back",
+			"shoulders"
+		],
+		"warnings": [
+			"Приземляйтеся м'яко й не прогинайте поперек в упорі лежачи.",
+			"Припиніть вправу, якщо з'явився біль у суглобах або спині."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 6,
+			"max": 10
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 30,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Присядьте й поставте долоні на підлогу.",
+			"Відставте ноги назад в упор лежачи.",
+			"Поверніть ноги до рук і випряміться.",
+			"Виконайте невеликий стрибок угору з руками над головою."
+		],
+		"techniqueNotes": [
+			"У положенні упору тримайте тіло рівним.",
+			"Зберігайте контроль, а не максимальну швидкість."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "squat-jump",
+		"slug": "squat-jump",
+		"name": "Стрибки з присіду",
+		"description": "Присідання з вибуховим стрибком угору. Розвиває силу ніг і вибуховість.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"quads",
+			"glutes",
+			"calves"
+		],
+		"secondaryMuscles": [
+			"hamstrings",
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": 2.5,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "high",
+		"noiseLevel": "loud",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees",
+			"ankles"
+		],
+		"contraindicatedAreas": [
+			"knees",
+			"ankles"
+		],
+		"warnings": [
+			"Приземляйтеся м'яко на зігнуті ноги.",
+			"Припиніть вправу, якщо з'явився біль у колінах або гомілковостопних суглобах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 6,
+			"max": 10
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 30,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Станьте, стопи на ширині плечей.",
+			"Присядьте до комфортної глибини.",
+			"Вибухово стрибніть угору.",
+			"М'яко приземліться й одразу перейдіть у присід."
+		],
+		"techniqueNotes": [
+			"Коліна рухаються в напрямку носків.",
+			"Приземлення тихе й контрольоване."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "cat-cow",
+		"slug": "cat-cow",
+		"name": "Кішка-корова",
+		"description": "Плавне почергове округлення та прогинання спини в упорі на колінах. Покращує рухливість хребта.",
+		"category": "mobility",
+		"movementPattern": "mobility",
+		"primaryMuscles": [
+			"back",
+			"core"
+		],
+		"secondaryMuscles": [],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [
+			"wrists"
+		],
+		"warnings": [
+			"Рухайтеся в комфортній амплітуді й припиніть, якщо з'явився біль."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 2,
+		"repRange": {
+			"min": 6,
+			"max": 10
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 30,
+		"restSeconds": 20,
+		"imageUrl": null,
+		"steps": [
+			"Станьте на коліна й долоні, долоні під плечима.",
+			"На вдиху прогніть спину й підніміть погляд.",
+			"На видиху округліть спину, опустивши голову.",
+			"Повторюйте плавно в ритмі дихання."
+		],
+		"techniqueNotes": [
+			"Рух іде від таза до голови.",
+			"Не поспішайте."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "kneeling-hip-flexor-stretch",
+		"slug": "kneeling-hip-flexor-stretch",
+		"name": "Розтяжка згиначів стегна на коліні",
+		"description": "Розтяжка передньої поверхні стегна в положенні випаду на коліні. Покращує рухливість кульшового суглоба.",
+		"category": "mobility",
+		"movementPattern": "mobility",
+		"primaryMuscles": [
+			"glutes",
+			"quads"
+		],
+		"secondaryMuscles": [
+			"core"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [
+			"knees"
+		],
+		"warnings": [
+			"Підкладіть під коліно щось м'яке; припиніть, якщо з'явився біль."
+		],
+		"intensityMode": "time",
+		"defaultSets": 2,
+		"repRange": null,
+		"durationRange": {
+			"min": 20,
+			"max": 40
+		},
+		"estimatedSetSeconds": 40,
+		"restSeconds": 20,
+		"imageUrl": null,
+		"steps": [
+			"Станьте на одне коліно, друга нога попереду зігнута під прямим кутом.",
+			"Напружте сідницю ноги, що стоїть на коліні.",
+			"Плавно подайте таз уперед до відчуття розтягування.",
+			"Утримуйте положення заданий час і поміняйте ногу."
+		],
+		"techniqueNotes": [
+			"Не прогинайте поперек.",
+			"Розтягування має бути помірним, без болю."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "arm-circles",
+		"slug": "arm-circles",
+		"name": "Кругові рухи руками",
+		"description": "Кругові обертання випрямленими руками. Розігріває плечові суглоби й покращує їхню рухливість.",
+		"category": "mobility",
+		"movementPattern": "mobility",
+		"primaryMuscles": [
+			"shoulders"
+		],
+		"secondaryMuscles": [
+			"back"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1.5,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [
+			"shoulders"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у плечах."
+		],
+		"intensityMode": "time",
+		"defaultSets": 2,
+		"repRange": null,
+		"durationRange": {
+			"min": 20,
+			"max": 30
+		},
+		"estimatedSetSeconds": 30,
+		"restSeconds": 20,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно й розведіть руки в сторони.",
+			"Виконуйте невеликі кола руками вперед.",
+			"Поступово збільшуйте амплітуду.",
+			"Через половину часу змініть напрямок."
+		],
+		"techniqueNotes": [
+			"Плечі опущені, не тягніться ними до вух.",
+			"Рухайтеся плавно."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "open-book-rotation",
+		"slug": "open-book-rotation",
+		"name": "Ротація «відкрита книга»",
+		"description": "Розворот грудного відділу хребта лежачи на боці. Покращує рухливість грудного відділу та плечей.",
+		"category": "mobility",
+		"movementPattern": "mobility",
+		"primaryMuscles": [
+			"back"
+		],
+		"secondaryMuscles": [
+			"shoulders",
+			"chest"
+		],
+		"equipmentRequired": [],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [],
+		"warnings": [
+			"Рухайтеся в комфортній амплітуді й припиніть, якщо з'явився біль."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 2,
+		"repRange": {
+			"min": 6,
+			"max": 10
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 30,
+		"restSeconds": 20,
+		"imageUrl": null,
+		"steps": [
+			"Ляжте на бік, зігніть коліна, руки витягніть перед собою.",
+			"Відведіть верхню руку дугою в протилежний бік, розвертаючи груди.",
+			"Слідкуйте поглядом за рукою.",
+			"Поверніть руку назад; після підходу поміняйте бік."
+		],
+		"techniqueNotes": [
+			"Коліна залишаються разом на підлозі.",
+			"Дихайте спокійно."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "goblet-squat",
+		"slug": "goblet-squat",
+		"name": "Гоблет-присідання",
+		"description": "Присідання з гантеллю або гирею біля грудей. Тренує квадрицепси та сідниці й допомагає тримати корпус вертикально.",
+		"category": "strength",
+		"movementPattern": "squat",
+		"primaryMuscles": [
+			"quads",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"core",
+			"hamstrings"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells",
+					"kettlebell"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "low",
+		"highLoadBodyAreas": [
+			"knees"
+		],
+		"contraindicatedAreas": [
+			"knees"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у колінах або спині."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Тримайте гантель або гирю вертикально біля грудей.",
+			"Станьте, стопи трохи ширше плечей.",
+			"Присядьте, тримаючи груди піднятими.",
+			"Підніміться, відштовхуючись стопами."
+		],
+		"techniqueNotes": [
+			"Лікті рухаються між колінами.",
+			"Спина рівна протягом усього руху."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "dumbbell-romanian-deadlift",
+		"slug": "dumbbell-romanian-deadlift",
+		"name": "Румунська тяга з гантелями",
+		"description": "Нахил уперед із гантелями за рахунок руху в кульшових суглобах. Тренує задню поверхню стегна та сідниці.",
+		"category": "strength",
+		"movementPattern": "hinge",
+		"primaryMuscles": [
+			"hamstrings",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"back",
+			"core"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "moderate",
+		"highLoadBodyAreas": [
+			"lower-back"
+		],
+		"contraindicatedAreas": [
+			"lower-back"
+		],
+		"warnings": [
+			"Не округлюйте спину; оберіть вагу, з якою зберігаєте техніку.",
+			"Припиніть вправу, якщо з'явився біль у попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно з гантелями перед стегнами.",
+			"Злегка зігніть коліна й відведіть таз назад.",
+			"Опускайте гантелі вздовж ніг до відчуття розтягування задньої поверхні стегна.",
+			"Поверніться вгору, подаючи таз уперед."
+		],
+		"techniqueNotes": [
+			"Спина рівна, гантелі близько до ніг.",
+			"Рух іде від таза, а не від спини."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "one-arm-dumbbell-row",
+		"slug": "one-arm-dumbbell-row",
+		"name": "Тяга гантелі однією рукою",
+		"description": "Тяга гантелі до пояса в нахилі з опорою рукою. Тренує м'язи спини та біцепси.",
+		"category": "strength",
+		"movementPattern": "pull-horizontal",
+		"primaryMuscles": [
+			"back",
+			"biceps"
+		],
+		"secondaryMuscles": [
+			"shoulders",
+			"core"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "low",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [
+			"lower-back"
+		],
+		"warnings": [
+			"Тримайте спину рівною; припиніть, якщо з'явився біль у попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Нахиліться вперед, обіпершись вільною рукою на стегно або стійку опору.",
+			"Візьміть гантель, рука випрямлена під плечем.",
+			"Підтягніть гантель до пояса, ведучи лікоть назад.",
+			"Повільно опустіть; після підходу поміняйте руку."
+		],
+		"techniqueNotes": [
+			"Не розвертайте корпус під час тяги.",
+			"Зводьте лопатку до хребта."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "dumbbell-floor-press",
+		"slug": "dumbbell-floor-press",
+		"name": "Жим гантелей лежачи на підлозі",
+		"description": "Жим гантелей угору лежачи на підлозі з обмеженою амплітудою. Тренує грудні м'язи та трицепси.",
+		"category": "strength",
+		"movementPattern": "push-horizontal",
+		"primaryMuscles": [
+			"chest",
+			"triceps"
+		],
+		"secondaryMuscles": [
+			"shoulders"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": true,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у плечах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Ляжте на спину, зігніть коліна, гантелі в руках біля грудей.",
+			"Вижміть гантелі вгору над грудьми.",
+			"Повільно опускайте, доки плечі не торкнуться підлоги.",
+			"Повторіть жим."
+		],
+		"techniqueNotes": [
+			"Лікті під кутом приблизно 45° до корпусу.",
+			"Опускайте гантелі контрольовано, без удару об підлогу."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "dumbbell-bench-press",
+		"slug": "dumbbell-bench-press",
+		"name": "Жим гантелей лежачи на лаві",
+		"description": "Жим гантелей угору лежачи на горизонтальній лаві. Тренує грудні м'язи та трицепси.",
+		"category": "strength",
+		"movementPattern": "push-horizontal",
+		"primaryMuscles": [
+			"chest",
+			"triceps"
+		],
+		"secondaryMuscles": [
+			"shoulders"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells"
+				]
+			},
+			{
+				"anyOf": [
+					"bench"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2.5,
+			"widthM": 1.5,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders"
+		],
+		"warnings": [
+			"Оберіть вагу, яку можете контрольовано опустити.",
+			"Припиніть вправу, якщо з'явився біль у плечах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Ляжте на лаву, стопи на підлозі, гантелі біля грудей.",
+			"Вижміть гантелі вгору над грудьми.",
+			"Повільно опустіть їх до рівня грудей.",
+			"Повторіть жим."
+		],
+		"techniqueNotes": [
+			"Лопатки зведені й притиснуті до лави.",
+			"Не відбивайте гантелі від грудей."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "incline-dumbbell-press",
+		"slug": "incline-dumbbell-press",
+		"name": "Жим гантелей на похилій лаві",
+		"description": "Жим гантелей лежачи на лаві з піднятою спинкою. Тренує верхню частину грудних м'язів і передні дельти.",
+		"category": "strength",
+		"movementPattern": "push-horizontal",
+		"primaryMuscles": [
+			"chest",
+			"shoulders"
+		],
+		"secondaryMuscles": [
+			"triceps"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells"
+				]
+			},
+			{
+				"anyOf": [
+					"bench"
+				]
+			}
+		],
+		"requiresAdjustableBench": true,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2.5,
+			"widthM": 1.5,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders"
+		],
+		"warnings": [
+			"Переконайтеся, що спинка лави надійно зафіксована.",
+			"Припиніть вправу, якщо з'явився біль у плечах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Встановіть спинку лави під помірним кутом нахилу.",
+			"Сядьте на лаву, спина притиснута, гантелі біля грудей.",
+			"Вижміть гантелі вгору над верхньою частиною грудей.",
+			"Повільно опустіть і повторіть."
+		],
+		"techniqueNotes": [
+			"Лопатки зведені й притиснуті до лави.",
+			"Рухайтеся контрольовано на всій амплітуді."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "dumbbell-shoulder-press",
+		"slug": "dumbbell-shoulder-press",
+		"name": "Жим гантелей над головою",
+		"description": "Жим гантелей угору стоячи. Тренує дельтоподібні м'язи та трицепси.",
+		"category": "strength",
+		"movementPattern": "push-vertical",
+		"primaryMuscles": [
+			"shoulders",
+			"triceps"
+		],
+		"secondaryMuscles": [
+			"core"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": 2.4,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "moderate",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders",
+			"neck",
+			"lower-back"
+		],
+		"warnings": [
+			"Не прогинайте поперек під час жиму.",
+			"Припиніть вправу, якщо з'явився біль у плечах, шиї або спині."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно, гантелі на рівні плечей.",
+			"Напружте прес і сідниці.",
+			"Вижміть гантелі вгору над головою.",
+			"Повільно опустіть до рівня плечей."
+		],
+		"techniqueNotes": [
+			"Ребра опущені, корпус стабільний.",
+			"Не задирайте голову назад."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "dumbbell-reverse-lunge",
+		"slug": "dumbbell-reverse-lunge",
+		"name": "Зворотні випади з гантелями",
+		"description": "Випад із кроком назад із гантелями в руках. Тренує квадрицепси та сідничні м'язи з додатковим обтяженням.",
+		"category": "strength",
+		"movementPattern": "lunge",
+		"primaryMuscles": [
+			"quads",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"hamstrings",
+			"core"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "low",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "low",
+		"highLoadBodyAreas": [
+			"knees"
+		],
+		"contraindicatedAreas": [
+			"knees"
+		],
+		"warnings": [
+			"Припиніть вправу, якщо з'явився біль у колінах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте рівно з гантелями в опущених руках.",
+			"Зробіть крок назад і опустіться, згинаючи обидва коліна.",
+			"Відштовхніться передньою ногою й поверніться у вихідне положення.",
+			"Чергуйте ноги або виконайте всі повторення на одну сторону."
+		],
+		"techniqueNotes": [
+			"Тримайте корпус вертикально.",
+			"Плечі опущені, гантелі не розгойдуються."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "farmer-carry",
+		"slug": "farmer-carry",
+		"name": "Прогулянка фермера",
+		"description": "Ходьба з гантелями або гирями в опущених руках. Тренує м'язи корпусу, хват і загальну стабільність.",
+		"category": "strength",
+		"movementPattern": "core",
+		"primaryMuscles": [
+			"core",
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"back",
+			"shoulders"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"dumbbells",
+					"kettlebell"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "moderate",
+		"highLoadBodyAreas": [
+			"wrists"
+		],
+		"contraindicatedAreas": [
+			"lower-back"
+		],
+		"warnings": [
+			"Піднімайте й ставте вагу з рівною спиною.",
+			"Припиніть вправу, якщо з'явився біль у спині або зап'ястях."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 30,
+			"max": 45
+		},
+		"estimatedSetSeconds": 45,
+		"restSeconds": 45,
+		"imageUrl": null,
+		"steps": [
+			"Візьміть гантелі або гирі в обидві руки.",
+			"Випряміться, плечі опущені й відведені назад.",
+			"Ідіть короткими рівними кроками заданий час.",
+			"Обережно поставте вагу на підлогу."
+		],
+		"techniqueNotes": [
+			"Не нахиляйтеся в бік ваги.",
+			"Тримайте прес напруженим."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "kettlebell-swing",
+		"slug": "kettlebell-swing",
+		"name": "Махи гирею",
+		"description": "Динамічний мах гирею за рахунок руху в кульшових суглобах. Розвиває потужність сідниць і задньої поверхні стегна та витривалість.",
+		"category": "conditioning",
+		"movementPattern": "hinge",
+		"primaryMuscles": [
+			"glutes",
+			"hamstrings"
+		],
+		"secondaryMuscles": [
+			"back",
+			"core",
+			"shoulders"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"kettlebell"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 3,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1.5,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "low",
+		"noiseLevel": "moderate",
+		"axialSpinalLoad": "moderate",
+		"highLoadBodyAreas": [
+			"lower-back"
+		],
+		"contraindicatedAreas": [
+			"lower-back"
+		],
+		"warnings": [
+			"Переконайтеся, що навколо немає людей і предметів.",
+			"Припиніть вправу, якщо з'явився біль у попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 12,
+			"max": 15
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 45,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Станьте, стопи трохи ширше плечей, гиря перед вами.",
+			"Нахиліться з рівною спиною й заведіть гирю назад між ногами.",
+			"Різко подайте таз уперед, щоб гиря піднялася до рівня грудей.",
+			"Дайте гирі опуститися й повторіть рух."
+		],
+		"techniqueNotes": [
+			"Рух іде від таза, руки лише тримають гирю.",
+			"Спина рівна в нижній точці."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "kettlebell-deadlift",
+		"slug": "kettlebell-deadlift",
+		"name": "Станова тяга з гирею",
+		"description": "Підйом гирі з підлоги за рахунок руху в кульшових суглобах. Тренує сідниці, задню поверхню стегна та вчить правильно піднімати вагу.",
+		"category": "strength",
+		"movementPattern": "hinge",
+		"primaryMuscles": [
+			"glutes",
+			"hamstrings"
+		],
+		"secondaryMuscles": [
+			"back",
+			"core",
+			"quads"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"kettlebell"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "moderate",
+		"highLoadBodyAreas": [
+			"lower-back"
+		],
+		"contraindicatedAreas": [
+			"lower-back"
+		],
+		"warnings": [
+			"Не округлюйте спину під час підйому.",
+			"Припиніть вправу, якщо з'явився біль у попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте над гирею, стопи на ширині стегон.",
+			"Відведіть таз назад, зігніть коліна й візьміться за ручку гирі.",
+			"Випряміться, подаючи таз уперед.",
+			"Опустіть гирю на підлогу тим самим рухом."
+		],
+		"techniqueNotes": [
+			"Спина рівна, погляд перед собою.",
+			"Гиря рухається близько до тіла."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "band-pull-apart",
+		"slug": "band-pull-apart",
+		"name": "Розведення еспандера",
+		"description": "Розтягування гумового еспандера прямими руками перед грудьми. Тренує м'язи верхньої частини спини та задні дельти.",
+		"category": "strength",
+		"movementPattern": "pull-horizontal",
+		"primaryMuscles": [
+			"back",
+			"shoulders"
+		],
+		"secondaryMuscles": [],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"resistance-bands"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [],
+		"warnings": [
+			"Перед вправою перевірте еспандер на пошкодження."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 12,
+			"max": 15
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 45,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Візьміть еспандер обома руками на ширині плечей перед грудьми.",
+			"Розведіть руки в сторони, розтягуючи еспандер.",
+			"Зведіть лопатки в кінцевій точці.",
+			"Повільно поверніть руки у вихідне положення."
+		],
+		"techniqueNotes": [
+			"Плечі опущені, не піднімайте їх до вух.",
+			"Руки майже прямі протягом усього руху."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "band-row",
+		"slug": "band-row",
+		"name": "Тяга еспандера до пояса",
+		"description": "Тяга закріпленого еспандера до пояса. Тренує м'язи спини та біцепси.",
+		"category": "strength",
+		"movementPattern": "pull-horizontal",
+		"primaryMuscles": [
+			"back",
+			"biceps"
+		],
+		"secondaryMuscles": [
+			"shoulders"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"resistance-bands"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": true,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [],
+		"warnings": [
+			"Перевірте, що кріплення надійне, а еспандер не пошкоджений."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 10,
+			"max": 15
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 45,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Закріпіть еспандер на рівні пояса за надійну опору.",
+			"Візьміться за кінці й відійдіть назад до натягу.",
+			"Підтягніть руки до пояса, ведучи лікті назад.",
+			"Повільно поверніть руки вперед."
+		],
+		"techniqueNotes": [
+			"Зводьте лопатки в кінцевій точці.",
+			"Корпус нерухомий, не відхиляйтеся назад."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "band-lat-pulldown",
+		"slug": "band-lat-pulldown",
+		"name": "Тяга еспандера зверху",
+		"description": "Тяга еспандера, закріпленого вгорі, вниз до грудей. Тренує найширші м'язи спини та біцепси.",
+		"category": "strength",
+		"movementPattern": "pull-vertical",
+		"primaryMuscles": [
+			"back",
+			"biceps"
+		],
+		"secondaryMuscles": [
+			"shoulders"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"resistance-bands"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": true,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders"
+		],
+		"warnings": [
+			"Перевірте, що верхнє кріплення надійне, а еспандер не пошкоджений.",
+			"Припиніть вправу, якщо з'явився біль у плечах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 10,
+			"max": 15
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 45,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Закріпіть еспандер над головою за надійну опору.",
+			"Візьміться за кінці, руки витягнуті вгору.",
+			"Потягніть лікті вниз до боків, наближаючи руки до грудей.",
+			"Повільно поверніть руки вгору."
+		],
+		"techniqueNotes": [
+			"Опускайте лопатки вниз перед тягою.",
+			"Не розгойдуйте корпус."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "pull-up",
+		"slug": "pull-up",
+		"name": "Підтягування",
+		"description": "Підтягування тіла на перекладині до рівня підборіддя. Тренує м'язи спини та біцепси.",
+		"category": "strength",
+		"movementPattern": "pull-vertical",
+		"primaryMuscles": [
+			"back",
+			"biceps"
+		],
+		"secondaryMuscles": [
+			"shoulders",
+			"core"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"pull-up-bar"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "advanced",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders",
+			"wrists"
+		],
+		"contraindicatedAreas": [
+			"shoulders",
+			"wrists"
+		],
+		"warnings": [
+			"Користуйтеся лише надійно встановленою перекладиною.",
+			"Припиніть вправу, якщо з'явився біль у плечах або зап'ястях."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 3,
+			"max": 8
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 24,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Візьміться за перекладину хватом трохи ширше плечей.",
+			"Повисніть на прямих руках, опустивши лопатки.",
+			"Підтягніться, доки підборіддя не опиниться над перекладиною.",
+			"Повільно опустіться до прямих рук."
+		],
+		"techniqueNotes": [
+			"Не розгойдуйтеся й не робіть ривків.",
+			"Опускайтеся контрольовано."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "dead-hang",
+		"slug": "dead-hang",
+		"name": "Вис на перекладині",
+		"description": "Статичний вис на перекладині на прямих руках. Зміцнює хват і м'язи плечового пояса.",
+		"category": "strength",
+		"movementPattern": "pull-vertical",
+		"primaryMuscles": [
+			"back",
+			"shoulders"
+		],
+		"secondaryMuscles": [
+			"core"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"pull-up-bar"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders",
+			"wrists"
+		],
+		"warnings": [
+			"Користуйтеся лише надійно встановленою перекладиною.",
+			"Припиніть вправу, якщо з'явився біль у плечах або зап'ястях."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 10,
+			"max": 30
+		},
+		"estimatedSetSeconds": 30,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Візьміться за перекладину хватом на ширині плечей.",
+			"Обережно повисніть на прямих руках.",
+			"Утримуйте положення заданий час, рівно дихаючи.",
+			"Обережно станьте на підлогу."
+		],
+		"techniqueNotes": [
+			"Злегка напружте плечі, не провисайте пасивно.",
+			"Не розгойдуйтеся."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "hanging-knee-raise",
+		"slug": "hanging-knee-raise",
+		"name": "Підйом колін у висі",
+		"description": "Підтягування колін до грудей у висі на перекладині. Тренує м'язи живота та хват.",
+		"category": "strength",
+		"movementPattern": "core",
+		"primaryMuscles": [
+			"core"
+		],
+		"secondaryMuscles": [
+			"shoulders"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"pull-up-bar"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 1,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "quiet",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"shoulders"
+		],
+		"contraindicatedAreas": [
+			"shoulders",
+			"lower-back"
+		],
+		"warnings": [
+			"Користуйтеся лише надійно встановленою перекладиною.",
+			"Припиніть вправу, якщо з'явився біль у плечах або попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 6,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 45,
+		"imageUrl": null,
+		"steps": [
+			"Повисніть на перекладині на прямих руках.",
+			"Напружте прес і підтягніть коліна до грудей.",
+			"Затримайтеся на секунду.",
+			"Повільно опустіть ноги без розгойдування."
+		],
+		"techniqueNotes": [
+			"Рухайтеся без ривків і махів.",
+			"Злегка округліть таз у верхній точці."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "jump-rope",
+		"slug": "jump-rope",
+		"name": "Стрибки на скакалці",
+		"description": "Ритмічні стрибки через скакалку. Розвивають серцево-судинну витривалість, координацію та силу литкових м'язів.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"calves",
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"shoulders"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"jump-rope"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 2,
+		"minimumSpace": {
+			"lengthM": 2.5,
+			"widthM": 1.5,
+			"heightM": 2.5,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": [
+				"hard-floor",
+				"mat"
+			],
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "high",
+		"noiseLevel": "loud",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees",
+			"ankles"
+		],
+		"contraindicatedAreas": [
+			"knees",
+			"ankles"
+		],
+		"warnings": [
+			"Стрибайте невисоко й приземляйтеся м'яко на передню частину стопи.",
+			"Припиніть вправу, якщо з'явився біль у колінах або гомілковостопних суглобах."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 30,
+			"max": 60
+		},
+		"estimatedSetSeconds": 60,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Візьміть ручки скакалки, скакалка позаду п'ят.",
+			"Обертайте скакалку зап'ястями.",
+			"Виконуйте невисокі стрибки, коли скакалка проходить під стопами.",
+			"Підтримуйте рівний ритм заданий час."
+		],
+		"techniqueNotes": [
+			"Лікті близько до тіла.",
+			"Коліна злегка зігнуті."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "step-up",
+		"slug": "step-up",
+		"name": "Зашагування на платформу",
+		"description": "Підйом на стійку платформу почергово кожною ногою. Тренує квадрицепси та сідничні м'язи.",
+		"category": "strength",
+		"movementPattern": "lunge",
+		"primaryMuscles": [
+			"quads",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"hamstrings",
+			"calves"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"step-platform"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 1.5,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"outdoors",
+				"other"
+			]
+		},
+		"impactLevel": "low",
+		"noiseLevel": "moderate",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [
+			"knees"
+		],
+		"contraindicatedAreas": [
+			"knees"
+		],
+		"warnings": [
+			"Переконайтеся, що платформа стійка й не ковзає.",
+			"Припиніть вправу, якщо з'явився біль у колінах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 8,
+			"max": 12
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 36,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте перед платформою.",
+			"Поставте на неї всю стопу однієї ноги.",
+			"Підніміться, відштовхуючись ногою на платформі.",
+			"Повільно спустіться й повторіть; поміняйте ногу після підходу."
+		],
+		"techniqueNotes": [
+			"Не відштовхуйтеся нижньою ногою.",
+			"Коліно рухається в напрямку носка."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "barbell-back-squat",
+		"slug": "barbell-back-squat",
+		"name": "Присідання зі штангою на спині",
+		"description": "Присідання зі штангою на верхній частині спини. Розвиває силу квадрицепсів, сідниць і всього тіла.",
+		"category": "strength",
+		"movementPattern": "squat",
+		"primaryMuscles": [
+			"quads",
+			"glutes"
+		],
+		"secondaryMuscles": [
+			"hamstrings",
+			"core",
+			"back"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"barbell"
+				]
+			},
+			{
+				"anyOf": [
+					"rack"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 3,
+		"minimumSpace": {
+			"lengthM": 2.5,
+			"widthM": 2,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "moderate",
+		"axialSpinalLoad": "high",
+		"highLoadBodyAreas": [
+			"knees",
+			"lower-back"
+		],
+		"contraindicatedAreas": [
+			"knees",
+			"lower-back",
+			"shoulders"
+		],
+		"warnings": [
+			"Виставте страхувальні упори стійки й працюйте з вагою, яку контролюєте.",
+			"Припиніть вправу, якщо з'явився біль у колінах, спині або плечах."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 5,
+			"max": 8
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 24,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Покладіть штангу на верхню частину спини й зніміть її зі стійки.",
+			"Відступіть, стопи на ширині плечей або трохи ширше.",
+			"Присядьте до комфортної глибини, тримаючи спину рівною.",
+			"Підніміться й після підходу поверніть штангу на стійку."
+		],
+		"techniqueNotes": [
+			"Напружте корпус перед кожним повторенням.",
+			"Коліна рухаються в напрямку носків."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "barbell-deadlift",
+		"slug": "barbell-deadlift",
+		"name": "Станова тяга зі штангою",
+		"description": "Підйом штанги з підлоги до положення стоячи. Розвиває силу задньої поверхні стегна, сідниць і спини.",
+		"category": "strength",
+		"movementPattern": "hinge",
+		"primaryMuscles": [
+			"hamstrings",
+			"glutes",
+			"back"
+		],
+		"secondaryMuscles": [
+			"quads",
+			"core"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"barbell"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "intermediate",
+		"coordinationDifficulty": 3,
+		"minimumSpace": {
+			"lengthM": 2.5,
+			"widthM": 1.5,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": [
+				"hard-floor",
+				"mat"
+			],
+			"locations": [
+				"home",
+				"gym",
+				"other"
+			]
+		},
+		"impactLevel": "none",
+		"noiseLevel": "loud",
+		"axialSpinalLoad": "high",
+		"highLoadBodyAreas": [
+			"lower-back"
+		],
+		"contraindicatedAreas": [
+			"lower-back"
+		],
+		"warnings": [
+			"Не округлюйте спину; працюйте з вагою, яку контролюєте.",
+			"Припиніть вправу, якщо з'явився біль у попереку."
+		],
+		"intensityMode": "reps",
+		"defaultSets": 3,
+		"repRange": {
+			"min": 5,
+			"max": 8
+		},
+		"durationRange": null,
+		"estimatedSetSeconds": 24,
+		"restSeconds": 75,
+		"imageUrl": null,
+		"steps": [
+			"Станьте так, щоб гриф був над серединою стопи.",
+			"Відведіть таз назад, зігніть коліна й візьміться за гриф.",
+			"Випряміться, тримаючи гриф близько до ніг.",
+			"Опустіть штангу на підлогу тим самим рухом."
+		],
+		"techniqueNotes": [
+			"Спина рівна, корпус напружений.",
+			"Тисніть підлогу ногами, а не тягніть спиною."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	},
+	{
+		"id": "cardio-machine-intervals",
+		"slug": "cardio-machine-intervals",
+		"name": "Інтервали на кардіотренажері",
+		"description": "Інтервальна робота на велотренажері, еліптичному або іншому кардіотренажері. Розвиває серцево-судинну витривалість.",
+		"category": "conditioning",
+		"movementPattern": "conditioning",
+		"primaryMuscles": [
+			"full-body"
+		],
+		"secondaryMuscles": [
+			"quads",
+			"calves"
+		],
+		"equipmentRequired": [
+			{
+				"anyOf": [
+					"cardio-machine"
+				]
+			}
+		],
+		"requiresAdjustableBench": false,
+		"fitnessLevel": "beginner",
+		"coordinationDifficulty": 1,
+		"minimumSpace": {
+			"lengthM": 2,
+			"widthM": 1,
+			"heightM": null,
+			"needsFloorContact": false,
+			"needsAnchor": false,
+			"surfaces": null,
+			"locations": [
+				"home",
+				"gym",
+				"other"
+			]
+		},
+		"impactLevel": "low",
+		"noiseLevel": "moderate",
+		"axialSpinalLoad": "none",
+		"highLoadBodyAreas": [],
+		"contraindicatedAreas": [],
+		"warnings": [
+			"Ознайомтеся з інструкцією тренажера перед використанням.",
+			"Зменште темп або зупиніться, якщо з'явилися запаморочення чи біль."
+		],
+		"intensityMode": "time",
+		"defaultSets": 3,
+		"repRange": null,
+		"durationRange": {
+			"min": 60,
+			"max": 120
+		},
+		"estimatedSetSeconds": 120,
+		"restSeconds": 40,
+		"imageUrl": null,
+		"steps": [
+			"Розімніться кілька хвилин у легкому темпі.",
+			"Підвищте темп або опір на заданий час інтервалу.",
+			"Під час відпочинку продовжуйте рух у легкому темпі.",
+			"Повторіть інтервал задану кількість разів."
+		],
+		"techniqueNotes": [
+			"Інтенсивність має бути відчутною, але контрольованою.",
+			"Тримайте рівну поставу."
+		],
+		"status": "draft",
+		"reviewedBy": null,
+		"reviewedAt": null,
+		"version": 1
+	}
+]

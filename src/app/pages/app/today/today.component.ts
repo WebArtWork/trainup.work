@@ -1,65 +1,97 @@
-import { Component, computed, inject } from '@angular/core';
+import { Component, computed, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import type { Infeasibility } from '@trainup/planner';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { AccountService } from '../../../feature/account/account.service';
-import { GOAL_OPTIONS } from '../../../feature/profile/profile.const';
+import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
+import { PlanInfeasibilityComponent } from '../../../feature/plan/components/plan-infeasibility/plan-infeasibility.component';
+import { SessionCardComponent } from '../../../feature/plan/components/session-card/session-card.component';
+import { PlanService } from '../../../feature/plan/plan.service';
+import { localToday } from '../../../feature/plan/plan.util';
+import { WorkoutSessionService } from '../../../feature/workout-session/workout-session.service';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
+type LoadState = 'loading' | 'ready' | 'error';
+
 @Component({
-	imports: [RouterLink, StateMessageComponent, TranslateDirective],
-	template: `
-		<header>
-			<h1
-				class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
-			>
-				<span translate>Сьогодні</span>
-			</h1>
-			@if (firstName(); as name) {
-				<p class="mt-1 text-base text-[var(--c-text)]">
-					<span translate>Привіт</span>, {{ name }}!
-				</p>
-			}
-		</header>
-
-		@if (goalLabel(); as goal) {
-			<p
-				class="mt-6 inline-flex items-center gap-2 rounded-full bg-[var(--c-bg-secondary)] px-4 py-2 text-sm font-semibold text-[var(--c-text-strong)]"
-			>
-				<span
-					class="material-symbols-outlined text-[18px] text-[var(--c-primary)]"
-					aria-hidden="true"
-				>
-					flag
-				</span>
-				<span [translate]="goal">{{ goal }}</span>
-			</p>
-		}
-
-		<app-state-message
-			class="mt-6"
-			icon="event_upcoming"
-			title="План тренувань з’явиться тут"
-			text="Генератор планів ще в розробці. Ваші ціль, графік, обладнання та простір уже збережено — план їх врахує."
-		>
-			<a
-				class="theme-focus inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-sm font-semibold text-[var(--c-text-strong)]"
-				routerLink="/app/profile"
-			>
-				<span class="material-symbols-outlined text-[20px]" aria-hidden="true">tune</span>
-				<span translate>Переглянути налаштування</span>
-			</a>
-		</app-state-message>
-	`,
+	imports: [
+		PlanInfeasibilityComponent,
+		RouterLink,
+		SessionCardComponent,
+		StateMessageComponent,
+		TranslateDirective,
+	],
+	templateUrl: './today.component.html',
 })
 export class TodayComponent {
 	private readonly _accountService = inject(AccountService);
+	private readonly _sessionService = inject(WorkoutSessionService);
+
+	protected readonly planService = inject(PlanService);
+	protected readonly catalog = inject(ExerciseCatalogService);
+	protected readonly state = signal<LoadState>('loading');
+	protected readonly generating = signal(false);
+	protected readonly generateError = signal(false);
+	protected readonly infeasibility = signal<Infeasibility | null>(null);
 
 	protected readonly firstName = computed(
 		() => this._accountService.profile()?.displayName.split(' ')[0] ?? '',
 	);
-	protected readonly goalLabel = computed(
-		() =>
-			GOAL_OPTIONS.find((option) => option.value === this._accountService.profile()?.goal)
-				?.label,
+	protected readonly plan = this.planService.activePlan;
+	protected readonly completed = this._sessionService.planSessions;
+	protected readonly todayDay = computed(
+		() => this.plan()?.days.find((day) => day.date === localToday()) ?? null,
 	);
+	/** The first planned day from today on that hasn't been completed yet. */
+	protected readonly nextDay = computed(() => {
+		const today = localToday();
+
+		return (
+			this.plan()?.days.find((day) => day.date >= today && !this.completed().has(day.index)) ?? null
+		);
+	});
+
+	constructor() {
+		void this.load();
+	}
+
+	protected async load() {
+		this.state.set('loading');
+
+		try {
+			await Promise.all([this.catalog.ensureLoaded(), this.planService.ensureLoaded()]);
+
+			const plan = this.plan();
+
+			if (plan) {
+				await this._sessionService.loadForPlan(plan.id);
+			}
+
+			this.state.set('ready');
+		} catch (error) {
+			console.error(error);
+			this.state.set('error');
+		}
+	}
+
+	protected async generate() {
+		this.generating.set(true);
+		this.generateError.set(false);
+		this.infeasibility.set(null);
+
+		try {
+			const result = await this.planService.generateAndSave();
+
+			if (result.ok) {
+				await this._sessionService.loadForPlan(this.plan()!.id);
+			} else {
+				this.infeasibility.set(result.infeasibility);
+			}
+		} catch (error) {
+			console.error(error);
+			this.generateError.set(true);
+		} finally {
+			this.generating.set(false);
+		}
+	}
 }

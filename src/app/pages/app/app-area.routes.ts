@@ -56,10 +56,34 @@ export const APP_AREA_ROUTES: Routes = [
 									),
 							},
 							{
+								path: 'workout/:day',
+								loadComponent: () =>
+									import('./workout-run/workout-run.component').then(
+										(m) => m.WorkoutRunComponent,
+									),
+							},
+							{
+								path: 'plan',
+								loadComponent: () =>
+									import('./plan/plan.component').then((m) => m.PlanComponent),
+							},
+							{
+								path: 'history',
+								loadComponent: () =>
+									import('./history/history.component').then((m) => m.HistoryComponent),
+							},
+							{
 								path: 'explore',
 								loadComponent: () =>
 									import('./explore/explore.component').then(
 										(m) => m.ExploreComponent,
+									),
+							},
+							{
+								path: 'explore/:id',
+								loadComponent: () =>
+									import('./exercise-detail/exercise-detail.component').then(
+										(m) => m.ExerciseDetailComponent,
 									),
 							},
 							{

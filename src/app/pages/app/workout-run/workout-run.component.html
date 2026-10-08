@@ -1,0 +1,361 @@
+@let phaseValue = phase();
+@switch (phaseValue) {
+	@case ('loading') {
+		<app-state-message tone="loading" title="Готуємо тренування" />
+	}
+	@case ('error') {
+		<app-state-message
+			tone="error"
+			icon="cloud_off"
+			title="Не вдалося завантажити тренування"
+			text="Перевірте з’єднання з інтернетом і спробуйте ще раз."
+		/>
+	}
+	@case ('missing') {
+		<app-state-message
+			icon="event_busy"
+			title="Тренування не знайдено"
+			text="Можливо, план оновився. Відкрийте наступне тренування на сторінці «Сьогодні»."
+		>
+			<a
+				class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-sm font-semibold text-[var(--c-text-strong)]"
+				routerLink="/app/today"
+				translate
+			>
+				До сторінки «Сьогодні»
+			</a>
+		</app-state-message>
+	}
+	@case ('done-before') {
+		<app-state-message
+			icon="task_alt"
+			title="Це тренування вже виконано"
+			text="Результат збережено в історії й більше не змінюється."
+		>
+			<a
+				class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-sm font-semibold text-[var(--c-text-strong)]"
+				routerLink="/app/history"
+				translate
+			>
+				Відкрити історію
+			</a>
+		</app-state-message>
+	}
+	@case ('run') {
+		@let day = this.day()!;
+		@let item = planned()!;
+		@let details = exercise();
+
+		<header>
+			<p class="text-sm font-semibold text-[var(--c-text-muted)]">
+				<span translate>Вправа</span> {{ current() + 1 }} / {{ day.exercises.length }}
+			</p>
+			<div class="mt-2 flex gap-1" aria-hidden="true">
+				@for (planned of day.exercises; track planned.exerciseId; let i = $index) {
+					<span
+						class="h-1.5 flex-1 rounded-full"
+						[class]="i <= current() ? 'bg-[var(--c-primary)]' : 'bg-[var(--c-bg-tertiary)]'"
+					></span>
+				}
+			</div>
+			<h1 class="mt-4 text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)]">
+				{{ item.name }}
+			</h1>
+			<p class="mt-1 text-base text-[var(--c-text)]">
+				<app-exercise-target [planned]="item" /> ·
+				<span translate>відпочинок</span> {{ item.restSeconds }} <span translate>с</span> ·
+				<span translate>зусилля</span> {{ item.targetRpe }}/10
+			</p>
+		</header>
+
+		<div
+			class="mt-4 flex aspect-[16/9] items-center justify-center rounded-[calc(var(--radius-card)*1.6)] bg-[var(--c-bg-tertiary)]"
+		>
+			@if (details?.imageUrl) {
+				<img class="h-full w-full rounded-[inherit] object-cover" [src]="details!.imageUrl" alt="" />
+			} @else {
+				<span class="material-symbols-outlined text-[64px] text-[var(--c-text-muted)]" aria-hidden="true">
+					fitness_center
+				</span>
+			}
+		</div>
+
+		@if (details) {
+			<p class="mt-4 text-sm leading-6 text-[var(--c-text)]">{{ details.description }}</p>
+			<details class="mt-3 rounded-[var(--radius-card)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-4">
+				<summary class="theme-focus cursor-pointer text-sm font-semibold text-[var(--c-text-strong)]" translate>
+					Як виконувати
+				</summary>
+				<ol class="mt-3 list-decimal space-y-1.5 pl-5 text-sm leading-6 text-[var(--c-text)]">
+					@for (step of details.steps; track $index) {
+						<li>{{ step }}</li>
+					}
+				</ol>
+				@for (note of details.techniqueNotes; track $index) {
+					<p class="mt-2 text-sm leading-6 text-[var(--c-text-muted)]">{{ note }}</p>
+				}
+			</details>
+			@for (warning of details.warnings; track $index) {
+				<p class="mt-2 flex gap-2 text-sm leading-6 text-[var(--c-text)]">
+					<span class="material-symbols-outlined text-[18px] text-[var(--c-primary)]" aria-hidden="true">
+						warning
+					</span>
+					{{ warning }}
+				</p>
+			}
+		}
+
+		@if (restRemaining() > 0) {
+			<div
+				class="sticky top-2 z-10 mt-4 flex items-center justify-between gap-3 rounded-[calc(var(--radius-card)*1.6)] bg-[var(--c-text-strong)] p-4 text-[var(--c-bg-secondary)]"
+				role="timer"
+				aria-live="off"
+			>
+				<p class="text-sm font-semibold">
+					<span translate>Відпочинок</span>
+					<span class="ml-2 text-2xl tabular-nums">{{ formatSeconds(restRemaining()) }}</span>
+				</p>
+				<button
+					class="theme-focus inline-flex min-h-11 items-center rounded-full border-2 border-current px-4 text-sm font-semibold"
+					type="button"
+					(click)="skipRest()"
+					translate
+				>
+					Пропустити
+				</button>
+			</div>
+		}
+
+		<ol class="mt-4 flex flex-col gap-3" [translate]="{ ariaLabel: 'Підходи' }">
+			@for (set of currentSets(); track $index; let i = $index) {
+				<li
+					class="flex flex-wrap items-center gap-3 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-3"
+				>
+					<span class="min-w-20 text-sm font-semibold text-[var(--c-text-strong)]">
+						<span translate>Підхід</span> {{ i + 1 }}
+					</span>
+
+					@switch (set.status) {
+						@case ('pending') {
+							@if (item.durationSeconds === null) {
+								<span class="flex items-center gap-1">
+									<button
+										class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full border-2 border-[var(--c-border)] text-lg font-semibold"
+										type="button"
+										[translate]="{ ariaLabel: 'Менше повторень' }"
+										(click)="adjustReps(i, -1)"
+									>
+										−
+									</button>
+									<span class="min-w-14 text-center text-base font-semibold tabular-nums text-[var(--c-text-strong)]">
+										{{ set.reps }} <span class="text-xs font-normal" translate>повт.</span>
+									</span>
+									<button
+										class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full border-2 border-[var(--c-border)] text-lg font-semibold"
+										type="button"
+										[translate]="{ ariaLabel: 'Більше повторень' }"
+										(click)="adjustReps(i, 1)"
+									>
+										+
+									</button>
+								</span>
+							} @else if (hold()?.set === i && hold()?.exercise === current()) {
+								<span class="text-2xl font-semibold tabular-nums text-[var(--c-primary)]" role="timer">
+									{{ formatSeconds(hold()!.remaining) }}
+								</span>
+							} @else {
+								<button
+									class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full border-2 border-[var(--c-primary)] px-4 text-sm font-semibold text-[var(--c-primary)]"
+									type="button"
+									(click)="startHold(i)"
+								>
+									<span class="material-symbols-outlined text-[18px]" aria-hidden="true">timer</span>
+									<span translate>Старт</span> {{ item.durationSeconds }} <span translate>с</span>
+								</button>
+							}
+							<span class="ml-auto flex gap-2">
+								<button
+									class="theme-focus inline-flex min-h-11 items-center rounded-full px-3 text-sm font-semibold text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+									type="button"
+									(click)="skipSet(i)"
+									translate
+								>
+									Пропустити
+								</button>
+								<button
+									class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full bg-[var(--c-primary)] px-4 text-sm font-semibold text-white"
+									type="button"
+									(click)="completeSet(i)"
+								>
+									<span class="material-symbols-outlined text-[18px]" aria-hidden="true">check</span>
+									<span translate>Виконано</span>
+								</button>
+							</span>
+						}
+						@case ('done') {
+							<span class="inline-flex items-center gap-1 text-sm font-semibold text-[var(--c-text-strong)]">
+								<span class="material-symbols-outlined text-[18px] text-[var(--c-primary)]" aria-hidden="true">
+									task_alt
+								</span>
+								<span translate>Виконано</span>
+								@if (set.reps !== null && item.durationSeconds === null) {
+									· {{ set.reps }} <span translate>повт.</span>
+								}
+							</span>
+							<button
+								class="theme-focus ml-auto inline-flex min-h-11 items-center rounded-full px-3 text-sm text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+								type="button"
+								(click)="undoSet(i)"
+								translate
+							>
+								Скасувати
+							</button>
+						}
+						@case ('skipped') {
+							<span class="text-sm text-[var(--c-text-muted)]" translate>Пропущено</span>
+							<button
+								class="theme-focus ml-auto inline-flex min-h-11 items-center rounded-full px-3 text-sm text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+								type="button"
+								(click)="undoSet(i)"
+								translate
+							>
+								Скасувати
+							</button>
+						}
+					}
+				</li>
+			}
+		</ol>
+
+		<p class="mt-4 text-xs leading-5 text-[var(--c-text-muted)]" translate>
+			Якщо з’явився біль — зупиніть вправу. Не продовжуйте через біль.
+		</p>
+
+		<div class="mt-6 flex gap-3">
+			@if (current() > 0) {
+				<button
+					class="theme-focus inline-flex min-h-12 items-center gap-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-sm font-semibold text-[var(--c-text-strong)]"
+					type="button"
+					(click)="goTo(current() - 1)"
+				>
+					<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
+					<span translate>Назад</span>
+				</button>
+			}
+			@if (isLast()) {
+				<button
+					class="theme-focus inline-flex min-h-12 flex-1 items-center justify-center gap-1 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white"
+					type="button"
+					(click)="finish()"
+					translate
+				>
+					Завершити тренування
+				</button>
+			} @else {
+				<button
+					class="theme-focus inline-flex min-h-12 flex-1 items-center justify-center gap-1 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white"
+					type="button"
+					(click)="goTo(current() + 1)"
+				>
+					<span translate>Наступна вправа</span>
+					<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_forward</span>
+				</button>
+			}
+		</div>
+		@if (!isLast()) {
+			<button
+				class="theme-focus mt-3 inline-flex min-h-11 w-full items-center justify-center rounded-md text-sm font-semibold text-[var(--c-text-muted)]"
+				type="button"
+				(click)="finish()"
+				translate
+			>
+				Завершити раніше
+			</button>
+		}
+	}
+	@case ('summary') {
+		@let day = this.day()!;
+		<h1 class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)]" translate>
+			Підсумок тренування
+		</h1>
+		<dl class="mt-4 grid grid-cols-2 gap-3">
+			<div class="rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-secondary)] p-4">
+				<dt class="text-sm text-[var(--c-text-muted)]" translate>Підходів виконано</dt>
+				<dd class="mt-1 text-2xl font-semibold text-[var(--c-text-strong)]">
+					{{ totals().done }} / {{ totals().total }}
+				</dd>
+			</div>
+			<div class="rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-secondary)] p-4">
+				<dt class="text-sm text-[var(--c-text-muted)]" translate>Тривалість</dt>
+				<dd class="mt-1 text-2xl font-semibold text-[var(--c-text-strong)]">
+					{{ elapsedMinutes() }} <span class="text-base font-normal" translate>хв</span>
+				</dd>
+			</div>
+		</dl>
+		<ul class="mt-4 divide-y divide-[var(--c-border)] rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-secondary)] px-4">
+			@for (planned of day.exercises; track planned.exerciseId; let i = $index) {
+				<li class="flex justify-between gap-3 py-3 text-sm">
+					<span class="text-[var(--c-text-strong)]">{{ planned.name }}</span>
+					<span class="tabular-nums text-[var(--c-text-muted)]">
+						{{ doneSets(i) }} / {{ planned.sets }}
+					</span>
+				</li>
+			}
+		</ul>
+		@if (totals().done < totals().total) {
+			<p class="mt-3 text-sm text-[var(--c-text-muted)]" translate>
+				Невиконані підходи буде збережено як пропущені.
+			</p>
+		}
+		@if (saveError()) {
+			<p
+				class="mt-4 rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+				role="alert"
+				translate
+			>
+				Не вдалося зберегти. Перевірте з’єднання та спробуйте ще раз.
+			</p>
+		}
+		<div class="mt-6 flex gap-3">
+			<button
+				class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-sm font-semibold text-[var(--c-text-strong)]"
+				type="button"
+				[disabled]="saving()"
+				(click)="backToWorkout()"
+				translate
+			>
+				Повернутися
+			</button>
+			<button
+				class="theme-focus inline-flex min-h-12 flex-1 items-center justify-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white disabled:opacity-60"
+				type="button"
+				[disabled]="saving()"
+				[attr.aria-busy]="saving()"
+				(click)="save()"
+			>
+				@if (saving()) {
+					<span class="material-symbols-outlined animate-spin text-[20px]" aria-hidden="true">
+						progress_activity
+					</span>
+				}
+				<span translate>Зберегти тренування</span>
+			</button>
+		</div>
+	}
+	@case ('saved') {
+		<app-state-message
+			icon="celebration"
+			title="Тренування збережено"
+			text="Чудова робота! Результат уже в історії."
+		>
+			<a
+				class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white"
+				routerLink="/app/today"
+				translate
+			>
+				До сторінки «Сьогодні»
+			</a>
+		</app-state-message>
+	}
+	@default never;
+}

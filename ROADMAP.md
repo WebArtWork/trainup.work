@@ -12,8 +12,9 @@ Phases have no dates yet. Add them once team capacity is known.
 | Marketing site          | Done: TrainUp branding, prerendered landing page at `trainup.work`, 14 languages                         |
 | Firebase project        | Connected: `train-up-work` web config, browser-only `FirebaseService` (Auth + Firestore)                 |
 | Firestore database      | `(default)` exists in Frankfurt (`europe-west3`); empty                                                   |
-| Firestore rules         | Field validation for Phase 1 collections, 17 emulator tests; **not deployed yet** (`npm run rules`)      |
-| App (README §13)        | Phase 1 code done (sign-in, onboarding, profile); awaiting end-to-end check. Phases 2–5 open            |
+| Firestore rules         | Field validation incl. plans and sessions, 22 emulator tests; **not deployed yet** (`npm run rules`)     |
+| App (README §13)        | Phases 1–2 code done (onboarding, planner, catalog, workouts); awaiting end-to-end check. Phases 3–5 open |
+| Exercise catalog        | 48 **draft** exercises in `src/data/exercise/exercises.json`, unreviewed, no images; `npm run seed` syncs to Firestore |
 
 ## Critical path
 
@@ -39,6 +40,8 @@ It doesn't depend on any code, so start it immediately.
 | Server            | **No Cloud Functions.** The existing WAW Node.js API (`environment.apiUrl`) hosts TrainUp endpoints. It verifies Firebase ID tokens and writes through `firebase-admin` |
 | Firebase plan     | No Blaze upgrade needed for functions                                                                     |
 | Exercise content  | Written in-house; images commissioned so they share one visual style                                      |
+| Planning (Phase 2) | The app generates and validates plans with the shared `planner/` and saves them to Firestore itself. Rules check the plan shape; per-exercise checks rely on `validatePlan()` in the client. This deviates from README §12 (server validation) until a WAW API endpoint takes over |
+| Seed data         | `src/data/` is the source of truth for Firestore-managed content; `npm run seed` uploads it with the Admin SDK |
 
 ### Remaining setup
 
@@ -89,31 +92,43 @@ Test 12 is covered by the rules tests; the "Done when" flow still needs the end-
 
 ## Phase 2: Planner engine, catalog, workouts (README Milestone 2)
 
-Split into three tracks. 2a can start alongside Phase 1, because it is pure TypeScript.
+Code is in place (2026-10-08). Plans can be built and run end to end in development with the draft
+catalog; production needs reviewed, published exercises first.
 
-**2a. Planner engine** (shared TypeScript package with no UI)
+**2a. Planner engine** (`planner/`, plain TypeScript, no Angular or Firebase)
 
-- [ ] Hard filters: equipment, floor size, ceiling height, surface, impact, noise, lying down, anchor,
-      restrictions, skill level, no repeated exercise within a workout.
-- [ ] Time budgeting, day assembly, scoring, 4-week plan output, feasibility errors that name the
-      conflicting inputs.
-- [ ] Versioned `WorkoutPlan` contract with an input snapshot and the algorithm version.
-- [ ] Unit tests for acceptance tests **1–7**.
-- [ ] WAW API endpoint that verifies the ID token, then generates, validates and saves `users/{uid}/plans`.
-      Clients can't write plans directly (see `firestore.rules`).
+- [x] Hard filters: equipment (incl. secure pull-up bar, adjustable bench), floor size in either
+      orientation, ceiling clearance, surface, jumping, noise, floor contact, anchor, location,
+      limitations, level and coordination, incomplete metadata, unpublished status.
+- [x] Time budgeting sized by the heaviest week, goal-based movement-pattern sessions, scoring for goal
+      fit, variety and recovery spacing, 4-week plan with a week-4 deload; no weights prescribed.
+- [x] Explained infeasibility (`missing-goal-or-level`, `no-eligible-exercises`, `too-few-exercises`,
+      `session-too-short`) with the main exclusion reasons and links to the setting behind each.
+- [x] Versioned `WorkoutPlan` with input snapshot, eligible catalog `id@version`, algorithm version.
+- [x] `validatePlan()` re-checks every saved plan; acceptance tests **1–7** plus catalog coverage tests
+      (`npm test`, 88 tests).
+- [ ] Move generation and validation to a WAW API endpoint (README §12); the planner is ready to import.
 
 **2b. Catalog**
 
-- [ ] Seed 40–60 in-house exercises with commissioned images, each reviewed. Leave entries with incomplete
-      metadata unpublished.
-- [ ] Explore screen: search, plus filters for goal, body part, equipment and space suitability.
+- [x] 48 draft exercises in `src/data/exercise/exercises.json` (metadata decided per exercise; text
+      written by an agent). Status `draft`, `reviewedBy` empty, no images.
+- [x] `npm run seed`: validates the catalog, then upserts it to Firestore (`--dry-run`, `--prune`).
+      Needs a service-account key (see `tools/seed/seed.mjs`).
+- [x] Explore: search, category filter, "suits me" filter using the planner's own rules; detail page
+      shows technique, needs, and why an exercise doesn't suit the user.
+- [ ] Professional review of every exercise, then set `status: "published"`, `reviewedBy`,
+      `reviewedAt` and run `npm run seed`. Until then production shows "catalog is being prepared".
+- [ ] Commissioned images (`imageUrl`); translations of exercise text (currently Ukrainian only).
 
 **2c. Workout execution**
 
-- [ ] Plan preview and regeneration, Today screen, workout screen (images, sets and reps, rest timer,
-      complete/skip), session summary, history.
+- [x] Today: generate plan, today/next session, out-of-date banner with explicit regenerate.
+- [x] Plan overview (4 weeks, completion marks), workout runner (set check-off, reps, hold timer, rest
+      timer, local draft survives reload), summary, immutable session history.
 
 **Exit:** README M2 "Done when" passes. Changing equipment or space changes which exercises are eligible.
+Verified by planner tests; the in-app flow still needs the end-to-end check with a real account.
 
 ## Phase 3: Routines and adaptive feedback (README Milestone 3)
 
@@ -155,9 +170,10 @@ Split into three tracks. 2a can start alongside Phase 1, because it is pure Type
 
 | README §14 test               | Phase |
 | ----------------------------- | ----- |
-| 1–7 (constraints)             | 2a    |
+| 1–7 (constraints)             | 2a ✓ (planner tests) |
 | 8–9 (AI fallback, validation) | 4     |
-| 10–11 (progress, RPE, pain)   | 3     |
-| 12 (isolation)                | 1     |
+| 10 (progress intact)          | 2c ✓ (immutable sessions, rules tests) |
+| 11 (RPE, pain)                | 3     |
+| 12 (isolation)                | 1 ✓ (rules tests) |
 | 13 (reminders)                | 3     |
 | 14 (credentials)              | 4     |

@@ -1,0 +1,168 @@
+<header>
+	<h1
+		class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
+		translate
+	>
+		Сьогодні
+	</h1>
+	@if (firstName(); as name) {
+		<p class="mt-1 text-base text-[var(--c-text)]"><span translate>Привіт</span>, {{ name }}!</p>
+	}
+</header>
+
+@if (catalog.usesDrafts) {
+	<p
+		class="mt-4 rounded-[var(--radius-card)] border border-dashed border-[var(--c-border)] p-3 text-xs leading-5 text-[var(--c-text-muted)]"
+		translate
+	>
+		Режим розробки: план складається з чернеток вправ, які ще не перевірив фахівець.
+	</p>
+}
+
+<div class="mt-6 flex flex-col gap-4">
+	@let stateValue = state();
+	@switch (stateValue) {
+		@case ('loading') {
+			<app-state-message tone="loading" title="Завантажуємо ваш план" />
+		}
+		@case ('error') {
+			<app-state-message
+				tone="error"
+				icon="cloud_off"
+				title="Не вдалося завантажити план"
+				text="Перевірте з’єднання з інтернетом і спробуйте ще раз."
+			>
+				<button
+					class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-sm font-semibold text-[var(--c-text-strong)]"
+					type="button"
+					(click)="load()"
+					translate
+				>
+					Спробувати ще раз
+				</button>
+			</app-state-message>
+		}
+		@case ('ready') {
+			@if (!catalog.exercises().length) {
+				<app-state-message
+					icon="menu_book"
+					title="Каталог вправ ще готується"
+					text="Щойно вправи пройдуть перевірку фахівцем, тут можна буде скласти план."
+				/>
+			} @else if (!plan()) {
+				<app-state-message
+					icon="event_upcoming"
+					title="Складемо ваш план"
+					text="TrainUp підбере вправи під вашу ціль, обладнання, простір і графік на 4 тижні."
+				>
+					<button
+						class="theme-focus inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white hover:bg-[var(--c-primary-hover)] disabled:opacity-60"
+						type="button"
+						[disabled]="generating()"
+						[attr.aria-busy]="generating()"
+						(click)="generate()"
+					>
+						@if (generating()) {
+							<span class="material-symbols-outlined animate-spin text-[20px]" aria-hidden="true">
+								progress_activity
+							</span>
+						}
+						<span translate>Скласти план</span>
+					</button>
+				</app-state-message>
+			} @else {
+				@if (planService.isOutdated()) {
+					<div
+						class="flex flex-col gap-3 rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-primary)] bg-[var(--c-bg-secondary)] p-4 sm:flex-row sm:items-center sm:justify-between"
+						role="status"
+					>
+						<p class="text-sm leading-6 text-[var(--c-text)]" translate>
+							Ваші налаштування змінилися. Оновіть план, щоб наступні тренування їх врахували; виконані тренування збережуться.
+						</p>
+						<button
+							class="theme-focus inline-flex min-h-11 shrink-0 items-center justify-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-4 text-sm font-semibold text-white disabled:opacity-60"
+							type="button"
+							[disabled]="generating()"
+							[attr.aria-busy]="generating()"
+							(click)="generate()"
+							translate
+						>
+							Оновити план
+						</button>
+					</div>
+				}
+
+				@if (todayDay(); as day) {
+					@if (completed().has(day.index)) {
+						<app-session-card [day]="day" [done]="true" />
+					}
+				}
+
+				@if (nextDay(); as day) {
+					@if (day !== todayDay()) {
+						<h2 class="text-base font-semibold text-[var(--c-text-strong)]" translate>
+							Наступне тренування
+						</h2>
+					}
+					<app-session-card [day]="day">
+						<a
+							class="theme-focus inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white hover:bg-[var(--c-primary-hover)]"
+							[routerLink]="['/app/workout', day.index]"
+						>
+							<span class="material-symbols-outlined text-[20px]" aria-hidden="true">play_arrow</span>
+							<span translate>Почати тренування</span>
+						</a>
+					</app-session-card>
+				} @else {
+					<app-state-message
+						icon="emoji_events"
+						title="План завершено"
+						text="Ви пройшли всі тренування цього плану. Складіть новий, щоб продовжити."
+					>
+						<button
+							class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white disabled:opacity-60"
+							type="button"
+							[disabled]="generating()"
+							(click)="generate()"
+							translate
+						>
+							Скласти новий план
+						</button>
+					</app-state-message>
+				}
+
+				<nav class="flex flex-wrap gap-3" [translate]="{ ariaLabel: 'План і історія' }">
+					<a
+						class="theme-focus inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-[var(--c-border)] px-4 text-sm font-semibold text-[var(--c-text-strong)]"
+						routerLink="/app/plan"
+					>
+						<span class="material-symbols-outlined text-[18px]" aria-hidden="true">calendar_month</span>
+						<span translate>Весь план</span>
+					</a>
+					<a
+						class="theme-focus inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-[var(--c-border)] px-4 text-sm font-semibold text-[var(--c-text-strong)]"
+						routerLink="/app/history"
+					>
+						<span class="material-symbols-outlined text-[18px]" aria-hidden="true">history</span>
+						<span translate>Історія</span>
+					</a>
+				</nav>
+			}
+
+			@if (infeasibility(); as reason) {
+				<app-plan-infeasibility [infeasibility]="reason" />
+			}
+
+			@if (generateError()) {
+				<p
+					class="rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+					role="alert"
+					translate
+				>
+					Не вдалося зберегти план. Перевірте з’єднання та спробуйте ще раз.
+				</p>
+			}
+		}
+		@default never;
+	}
+</div>

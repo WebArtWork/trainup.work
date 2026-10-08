@@ -35,3 +35,10 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Firebase
+service-account.json
+*-service-account*.json
+firestore-debug.log
+firebase-debug.log
+ui-debug.log

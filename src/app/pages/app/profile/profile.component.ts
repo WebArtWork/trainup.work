@@ -6,6 +6,8 @@ import { AccountSection } from '../../../feature/account/account.interface';
 import { AccountService } from '../../../feature/account/account.service';
 import { APP_PATHS } from '../../../feature/auth/auth.guard';
 import { AuthService } from '../../../feature/auth/auth.service';
+import { PlanService } from '../../../feature/plan/plan.service';
+import { WorkoutSessionService } from '../../../feature/workout-session/workout-session.service';
 import { EMPTY_TRAINING_SETUP_INPUT } from '../../../feature/training-setup/training-setup.const';
 
 @Component({
@@ -75,6 +77,8 @@ import { EMPTY_TRAINING_SETUP_INPUT } from '../../../feature/training-setup/trai
 export class ProfileComponent {
 	private readonly _accountService = inject(AccountService);
 	private readonly _authService = inject(AuthService);
+	private readonly _planService = inject(PlanService);
+	private readonly _sessionService = inject(WorkoutSessionService);
 	private readonly _router = inject(Router);
 
 	protected readonly profile = this._accountService.profile;
@@ -94,6 +98,8 @@ export class ProfileComponent {
 		try {
 			await this._authService.signOut();
 			this._accountService.reset();
+			this._planService.reset();
+			this._sessionService.reset();
 			await this._router.navigateByUrl(APP_PATHS.signIn);
 		} finally {
 			this.signingOut.set(false);

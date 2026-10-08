@@ -102,6 +102,48 @@ service cloud.firestore {
 				&& data.updatedAt == request.time;
 		}
 
+		function isDate(value) {
+			return value is string && value.matches('^[0-9]{4}-[0-9]{2}-[0-9]{2}$');
+		}
+
+		// users/{uid}/plans/{planId}: WorkoutPlan from planner/src/types.ts. Rules can't loop over the
+		// days, so per-exercise checks rely on validatePlan() before saving.
+		function validPlan(data) {
+			return data.keys().hasOnly([
+					'schemaVersion', 'algorithmVersion', 'provenance', 'startDate', 'weeks', 'daysPerWeek',
+					'sessionMinutes', 'days', 'input', 'status', 'createdAt'
+				])
+				&& data.schemaVersion is int
+				&& stringUpTo(data.algorithmVersion, 40)
+				&& data.provenance == 'calculator'
+				&& isDate(data.startDate)
+				&& data.weeks is int && data.weeks >= 1 && data.weeks <= 12
+				&& data.daysPerWeek is int && data.daysPerWeek >= 1 && data.daysPerWeek <= 7
+				&& data.sessionMinutes is int && data.sessionMinutes >= 5 && data.sessionMinutes <= 180
+				&& data.days is list && data.days.size() >= 1 && data.days.size() <= 84
+				&& data.input is map
+				&& data.status == 'active'
+				&& data.createdAt == request.time;
+		}
+
+		// users/{uid}/sessions/{planId}_{dayIndex}: WorkoutSession from workout-session.interface.ts.
+		function validSession(data, sessionId) {
+			return data.keys().hasOnly([
+					'schemaVersion', 'planId', 'dayIndex', 'date', 'status', 'durationSeconds', 'exercises',
+					'startedAt', 'completedAt'
+				])
+				&& data.schemaVersion is int
+				&& data.planId is string
+				&& data.dayIndex is int && data.dayIndex >= 0
+				&& sessionId == data.planId + '_' + string(data.dayIndex)
+				&& isDate(data.date)
+				&& oneOf(data.status, ['completed', 'partial'])
+				&& data.durationSeconds is int && data.durationSeconds >= 0 && data.durationSeconds <= 21600
+				&& data.exercises is list && data.exercises.size() >= 1 && data.exercises.size() <= 20
+				&& data.startedAt is timestamp
+				&& data.completedAt == request.time;
+		}
+
 		// Exercise catalog: signed-in users see published entries; only admins publish or edit.
 		match /exercises/{exerciseId} {
 			allow read: if isAdmin() || (signedIn() && resource.data.status == 'published');
@@ -135,11 +177,15 @@ service cloud.firestore {
 				allow create, update: if isOwner(uid) && validLimitation(request.resource.data, area);
 			}
 
-			// Phase 3 collections: owner-managed until their schemas are defined.
+			// Finished workouts: written once, never changed or deleted (README §6.4, acceptance test 10).
 			match /sessions/{sessionId} {
-				allow read, write: if isOwner(uid);
+				allow read: if isOwner(uid);
+				allow create: if isOwner(uid)
+					&& validSession(request.resource.data, sessionId)
+					&& exists(/databases/$(database)/documents/users/$(uid)/plans/$(request.resource.data.planId));
 			}
 
+			// Phase 3 collections: owner-managed until their schemas are defined.
 			match /todos/{todoId} {
 				allow read, write: if isOwner(uid);
 			}
@@ -148,10 +194,16 @@ service cloud.firestore {
 				allow read, write: if isOwner(uid);
 			}
 
-			// Plans are generated and validated on the trusted server; clients only read them.
+			// Plans are generated and validated in the app with the shared planner (decision 2026-10-08;
+			// moves to the WAW API later). Rules check the shape; plans are immutable apart from
+			// retiring the active plan when a new one replaces it.
 			match /plans/{planId} {
 				allow read: if isOwner(uid);
-				allow write: if false;
+				allow create: if isOwner(uid) && validPlan(request.resource.data);
+				allow update: if isOwner(uid)
+					&& request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status'])
+					&& resource.data.status == 'active'
+					&& request.resource.data.status == 'superseded';
 			}
 
 			// AI connections hold secret references managed by the server; clients only read status.

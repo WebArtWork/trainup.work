@@ -6,6 +6,11 @@ export const environment: {
 	defaultLanguage: string;
 	languages: AppLanguage[];
 	firebase: FirebaseConfig;
+	/**
+	 * `firestore`: published exercises only (production).
+	 * `bundled`: src/data/exercise/exercises.json including drafts, for development before review.
+	 */
+	exerciseSource: 'firestore' | 'bundled';
 } = {
 	apiUrl: 'https://it.webart.work',
 	appVersion: '1.0.0',
@@ -135,6 +140,7 @@ export const environment: {
 		appId: '1:663824678144:web:b22a21e128645d8dda47e5',
 		measurementId: 'G-CHM8EMF4KJ',
 	},
+	exerciseSource: 'firestore',
 };
 
 export interface FirebaseConfig {

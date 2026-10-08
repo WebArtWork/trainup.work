@@ -15,6 +15,8 @@ import {
 	updateDoc,
 } from 'firebase/firestore';
 import { afterAll, beforeAll, beforeEach, describe, it } from 'vitest';
+import { Exercise, generatePlan } from '../../planner/src/index';
+import catalog from '../../src/data/exercise/exercises.json';
 import { pickProfileInput, pickSetupInput } from '../../src/app/feature/account/account.util';
 import { LIMITATION_SCHEMA_VERSION } from '../../src/app/feature/limitation/limitation.interface';
 import { EMPTY_PROFILE_INPUT } from '../../src/app/feature/profile/profile.const';
@@ -62,6 +64,30 @@ const limitation = (area = 'knees') => ({
 	active: true,
 	updatedAt: serverTimestamp(),
 });
+
+/** A real plan from the shared planner, exactly as the app saves it. */
+function generatedPlan() {
+	const result = generatePlan({
+		profile: {
+			goal: 'general-fitness',
+			fitnessLevel: 'beginner',
+			daysPerWeek: 3,
+			sessionMinutes: 30,
+			preferredDays: [],
+		},
+		setup: setup(),
+		limitations: [],
+		catalog: catalog as Exercise[],
+		startDate: '2026-10-05',
+		allowedStatuses: ['draft', 'published'],
+	});
+
+	if (!result.ok) {
+		throw new Error(`fixture plan is infeasible: ${result.infeasibility.code}`);
+	}
+
+	return result.plan;
+}
 
 async function seedAlice() {
 	await assertSucceeds(setDoc(doc(db('alice'), 'users/alice'), newProfile()));
@@ -213,19 +239,97 @@ describe('users/{uid}/limitations', () => {
 	});
 });
 
-describe('server-owned collections', () => {
-	it('lets owners read plans but never write them', async () => {
-		await env.withSecurityRulesDisabled(async (context) => {
-			await setDoc(doc(context.firestore() as unknown as Firestore, 'users/alice/plans/p1'), {
-				weeks: 4,
-			});
+describe('users/{uid}/plans', () => {
+	const planRef = (uid: string, id = 'plan1') => doc(db(uid), `users/alice/plans/${id}`);
+	const savePlan = (uid = 'alice', id = 'plan1', changes: Record<string, unknown> = {}) =>
+		setDoc(planRef(uid, id), {
+			...generatedPlan(),
+			status: 'active',
+			createdAt: serverTimestamp(),
+			...changes,
 		});
 
-		await assertSucceeds(getDoc(doc(db('alice'), 'users/alice/plans/p1')));
-		await assertFails(setDoc(doc(db('alice'), 'users/alice/plans/p2'), { weeks: 4 }));
-		await assertFails(getDoc(doc(db('bob'), 'users/alice/plans/p1')));
+	it('lets the owner save a generated plan and nobody else read or write it', async () => {
+		await assertSucceeds(savePlan());
+		await assertSucceeds(getDoc(planRef('alice')));
+		await assertFails(getDoc(planRef('bob')));
+		await assertFails(savePlan('bob', 'plan2'));
 	});
 
+	it('only accepts active calculator plans with the expected fields', async () => {
+		await assertFails(savePlan('alice', 'p-ai', { provenance: 'openai' }));
+		await assertFails(savePlan('alice', 'p-old', { status: 'superseded' }));
+		await assertFails(savePlan('alice', 'p-extra', { approvedByServer: true }));
+		await assertFails(savePlan('alice', 'p-empty', { days: [] }));
+		await assertFails(savePlan('alice', 'p-time', { createdAt: new Date(0) }));
+	});
+
+	it('only allows retiring the active plan; plans are otherwise immutable', async () => {
+		await assertSucceeds(savePlan());
+		await assertFails(updateDoc(planRef('alice'), { sessionMinutes: 5 }));
+		await assertFails(updateDoc(planRef('alice'), { status: 'superseded', weeks: 8 }));
+		await assertSucceeds(updateDoc(planRef('alice'), { status: 'superseded' }));
+		await assertFails(updateDoc(planRef('alice'), { status: 'active' }));
+		await assertFails(deleteDoc(planRef('alice')));
+	});
+});
+
+describe('users/{uid}/sessions', () => {
+	const session = (changes: Record<string, unknown> = {}) => ({
+		schemaVersion: 1,
+		planId: 'plan1',
+		dayIndex: 0,
+		date: '2026-10-05',
+		status: 'partial',
+		durationSeconds: 1500,
+		exercises: [
+			{
+				exerciseId: 'glute-bridge',
+				exerciseVersion: 1,
+				name: 'Сідничний міст',
+				sets: [
+					{ status: 'done', reps: 12, durationSeconds: null },
+					{ status: 'skipped', reps: null, durationSeconds: null },
+				],
+			},
+		],
+		startedAt: new Date('2026-10-05T07:00:00Z'),
+		completedAt: serverTimestamp(),
+		...changes,
+	});
+
+	beforeEach(async () => {
+		await env.withSecurityRulesDisabled(async (context) => {
+			await setDoc(doc(context.firestore() as unknown as Firestore, 'users/alice/plans/plan1'), {
+				status: 'active',
+			});
+		});
+	});
+
+	it('records a finished workout for an existing plan day', async () => {
+		await assertSucceeds(setDoc(doc(db('alice'), 'users/alice/sessions/plan1_0'), session()));
+		await assertFails(getDoc(doc(db('bob'), 'users/alice/sessions/plan1_0')));
+	});
+
+	it('rejects mismatched ids, unknown plans, and other users', async () => {
+		await assertFails(setDoc(doc(db('alice'), 'users/alice/sessions/plan1_3'), session()));
+		await assertFails(
+			setDoc(doc(db('alice'), 'users/alice/sessions/ghost_0'), session({ planId: 'ghost' })),
+		);
+		await assertFails(setDoc(doc(db('bob'), 'users/alice/sessions/plan1_0'), session()));
+	});
+
+	it('keeps completed history immutable (acceptance test 10)', async () => {
+		const ref = doc(db('alice'), 'users/alice/sessions/plan1_0');
+
+		await assertSucceeds(setDoc(ref, session()));
+		await assertFails(setDoc(ref, session({ status: 'completed' })));
+		await assertFails(updateDoc(ref, { durationSeconds: 10 }));
+		await assertFails(deleteDoc(ref));
+	});
+});
+
+describe('server-owned collections', () => {
 	it('keeps AI connections read-only for clients', async () => {
 		await assertFails(
 			setDoc(doc(db('alice'), 'users/alice/aiConnections/openai'), { secretRef: 'x' }),

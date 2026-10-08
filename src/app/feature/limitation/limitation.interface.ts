@@ -1,9 +1,10 @@
+import type { BodyArea } from '@trainup/planner';
 import type { Timestamp } from 'firebase/firestore';
 import { ChoiceOption } from '../profile/profile.const';
 
 export const LIMITATION_SCHEMA_VERSION = 1;
 
-export type BodyArea = 'neck' | 'shoulders' | 'wrists' | 'lower-back' | 'hips' | 'knees' | 'ankles';
+export type { BodyArea } from '@trainup/planner';
 
 export interface LimitationInput {
 	area: BodyArea;

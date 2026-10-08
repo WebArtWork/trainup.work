@@ -6,7 +6,8 @@
 		"build": "ng build --configuration=production && node tools/seo/generate-static-seo.mjs",
 		"rules": "firebase deploy --only firestore:rules --project train-up-work",
 		"test": "vitest run --config vitest.config.mts",
-		"test:rules": "firebase emulators:exec --only firestore --project demo-trainup \"vitest run --config vitest.rules.config.mts\""
+		"test:rules": "firebase emulators:exec --only firestore --project demo-trainup \"vitest run --config vitest.rules.config.mts\"",
+		"seed": "vitest run --config vitest.config.mts planner/src/catalog.spec.ts && node tools/seed/seed.mjs"
 	},
 	"dependencies": {
 		"@angular/aria": "^22.2.2",
@@ -37,6 +38,7 @@
 		"@tailwindcss/postcss": "4.1.12",
 		"@types/express": "5.0.1",
 		"@types/node": "25.9.3",
+		"firebase-admin": "^14.5.0",
 		"ng-packagr": "22.2.4",
 		"postcss": "8.5.26",
 		"prettier": "3.8.1",
