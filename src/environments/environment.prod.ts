@@ -5,6 +5,7 @@ export const environment: {
 	companyId: string;
 	defaultLanguage: string;
 	languages: AppLanguage[];
+	firebase: FirebaseConfig;
 } = {
 	apiUrl: 'https://it.webart.work',
 	appVersion: '1.0.0',
@@ -125,7 +126,26 @@ export const environment: {
 			population: 12,
 		},
 	],
+	firebase: {
+		apiKey: 'AIzaSyBwh-2OzfgRkfmikdyEN8drN7Cbs-cIGL4',
+		authDomain: 'train-up-work.firebaseapp.com',
+		projectId: 'train-up-work',
+		storageBucket: 'train-up-work.firebasestorage.app',
+		messagingSenderId: '663824678144',
+		appId: '1:663824678144:web:b22a21e128645d8dda47e5',
+		measurementId: 'G-CHM8EMF4KJ',
+	},
 };
+
+export interface FirebaseConfig {
+	apiKey: string;
+	authDomain: string;
+	projectId: string;
+	storageBucket: string;
+	messagingSenderId: string;
+	appId: string;
+	measurementId: string;
+}
 
 export interface AppLanguage {
 	code: string;
