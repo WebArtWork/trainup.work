@@ -1,0 +1,127 @@
+@let current = profile();
+
+<div class="flex flex-col gap-8">
+	<fieldset>
+		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Рівень підготовки
+		</legend>
+		<div class="grid gap-3">
+			@for (option of levelOptions; track option.value) {
+				<button
+					type="button"
+					appOptionCard
+					[label]="option.label"
+					[description]="option.description"
+					[selected]="current.fitnessLevel === option.value"
+					(click)="patch({ fitnessLevel: option.value })"
+				></button>
+			}
+		</div>
+	</fieldset>
+
+	<fieldset>
+		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Скільки разів на тиждень тренуватися
+		</legend>
+		<div class="flex flex-wrap gap-2">
+			@for (days of daysPerWeekOptions; track days) {
+				<button
+					type="button"
+					appOptionPill
+					[label]="'' + days"
+					[translateLabel]="false"
+					[selected]="current.daysPerWeek === days"
+					(click)="patch({ daysPerWeek: days })"
+				></button>
+			}
+		</div>
+	</fieldset>
+
+	<fieldset>
+		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Тривалість одного заняття, хв
+		</legend>
+		<div class="flex flex-wrap gap-2">
+			@for (minutes of sessionMinutesOptions; track minutes) {
+				<button
+					type="button"
+					appOptionPill
+					[label]="'' + minutes"
+					[translateLabel]="false"
+					[selected]="current.sessionMinutes === minutes"
+					(click)="patch({ sessionMinutes: minutes })"
+				></button>
+			}
+		</div>
+	</fieldset>
+
+	<fieldset>
+		<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]">
+			<span translate>Бажані дні</span>
+			<span class="ml-1 font-normal text-[var(--c-text-muted)]" translate
+				>(необов’язково)</span
+			>
+		</legend>
+		<p class="mb-3 text-sm text-[var(--c-text)]" translate>
+			Якщо не оберете, TrainUp розподілить тренування рівномірно.
+		</p>
+		<div class="flex flex-wrap gap-2">
+			@for (day of weekdayOptions; track day.value) {
+				<button
+					type="button"
+					appOptionPill
+					[label]="day.label"
+					[selected]="current.preferredDays.includes(day.value)"
+					(click)="toggleDay(day.value)"
+				></button>
+			}
+		</div>
+		@if (preferredDaysMismatch()) {
+			<p
+				class="mt-2 text-sm text-[var(--c-error)]"
+				role="alert"
+				[translate]="preferredDaysHint"
+				[vars]="{ count: current.daysPerWeek }"
+			></p>
+		}
+	</fieldset>
+
+	<fieldset>
+		<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Про вас
+		</legend>
+		<p class="mb-3 text-sm text-[var(--c-text)]" translate>
+			Ці дані допомагають обрати безпечний старт. Їх можна пропустити.
+		</p>
+		<div class="grid gap-4 sm:grid-cols-3">
+			<app-number-field
+				label="Вік"
+				unit="років"
+				optional
+				[min]="limits.age.min"
+				[max]="limits.age.max"
+				[value]="current.age"
+				(valueChange)="patch({ age: $event })"
+			/>
+			<app-number-field
+				label="Зріст"
+				unit="см"
+				optional
+				[min]="limits.heightCm.min"
+				[max]="limits.heightCm.max"
+				[value]="current.heightCm"
+				(valueChange)="patch({ heightCm: $event })"
+			/>
+			<app-number-field
+				label="Вага"
+				unit="кг"
+				optional
+				[min]="limits.weightKg.min"
+				[max]="limits.weightKg.max"
+				[step]="0.5"
+				[value]="current.weightKg"
+				(valueChange)="patch({ weightKg: $event })"
+			/>
+		</div>
+	</fieldset>
+</div>

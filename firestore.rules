@@ -2,6 +2,7 @@ rules_version = '2';
 
 // Data model and security requirements: README.md sections 10 and 12.
 // The trusted server (Admin SDK) bypasses these rules; they only constrain client access.
+// Field shapes mirror src/app/feature/{profile,training-setup,limitation}/*.interface.ts.
 service cloud.firestore {
 	match /databases/{database}/documents {
 		function signedIn() {
@@ -16,6 +17,91 @@ service cloud.firestore {
 			return signedIn() && request.auth.token.admin == true;
 		}
 
+		function optionalNumberInRange(value, min, max) {
+			return value == null || (value is number && value >= min && value <= max);
+		}
+
+		function stringUpTo(value, max) {
+			return value is string && value.size() <= max;
+		}
+
+		function oneOf(value, allowed) {
+			return value is string && value in allowed;
+		}
+
+		function yesNoUnknown(value) {
+			return oneOf(value, ['yes', 'no', 'unknown']);
+		}
+
+		// users/{uid}: ProfileInput plus identity and timestamps.
+		function validProfile(data) {
+			return data.keys().hasOnly([
+					'schemaVersion', 'displayName', 'email', 'photoUrl', 'timeZone', 'language',
+					'goal', 'fitnessLevel', 'age', 'heightCm', 'weightKg',
+					'daysPerWeek', 'sessionMinutes', 'preferredDays',
+					'onboardingCompletedAt', 'createdAt', 'updatedAt'
+				])
+				&& data.schemaVersion is int
+				&& stringUpTo(data.displayName, 200)
+				&& stringUpTo(data.email, 320)
+				&& stringUpTo(data.photoUrl, 2048)
+				&& stringUpTo(data.timeZone, 64)
+				&& stringUpTo(data.language, 10)
+				&& (data.goal == null
+					|| oneOf(data.goal, ['general-fitness', 'build-strength', 'improve-conditioning']))
+				&& (data.fitnessLevel == null
+					|| oneOf(data.fitnessLevel, ['beginner', 'intermediate', 'advanced']))
+				&& optionalNumberInRange(data.age, 16, 100)
+				&& optionalNumberInRange(data.heightCm, 120, 230)
+				&& optionalNumberInRange(data.weightKg, 35, 250)
+				&& data.daysPerWeek is int && data.daysPerWeek >= 1 && data.daysPerWeek <= 7
+				&& data.sessionMinutes is int && data.sessionMinutes >= 5 && data.sessionMinutes <= 180
+				&& data.preferredDays is list && data.preferredDays.size() <= 7
+				&& data.preferredDays.hasOnly(['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'])
+				&& data.updatedAt == request.time;
+		}
+
+		// users/{uid}/trainingSetups/primary: TrainingSetupInput. Equipment items are typed in the
+		// app; rules bound their count, and the server-side planner re-validates every item.
+		function validTrainingSetup(data) {
+			return data.keys().hasOnly([
+					'schemaVersion', 'active', 'noEquipment', 'equipment', 'customEquipment', 'location',
+					'floor', 'ceiling', 'surface', 'jumpingAllowed', 'quietOnly', 'canLieDown',
+					'safeAnchor', 'updatedAt'
+				])
+				&& data.schemaVersion is int
+				&& data.active is bool
+				&& data.noEquipment is bool
+				&& data.equipment is list && data.equipment.size() <= 12
+				&& (!data.noEquipment || data.equipment.size() == 0)
+				&& data.customEquipment is list && data.customEquipment.size() <= 10
+				&& (data.location == null || oneOf(data.location, ['home', 'gym', 'outdoors', 'other']))
+				&& data.floor is map && data.floor.keys().hasOnly(['preset', 'lengthM', 'widthM'])
+				&& (data.floor.preset == null || oneOf(data.floor.preset, ['small', 'medium', 'large']))
+				&& optionalNumberInRange(data.floor.lengthM, 0.5, 50)
+				&& optionalNumberInRange(data.floor.widthM, 0.5, 50)
+				&& data.ceiling is map && data.ceiling.keys().hasOnly(['preset', 'heightM'])
+				&& oneOf(data.ceiling.preset, ['low', 'normal', 'high', 'unknown'])
+				&& optionalNumberInRange(data.ceiling.heightM, 1.5, 10)
+				&& oneOf(data.surface, ['hard-floor', 'carpet', 'mat', 'grass', 'other', 'unknown'])
+				&& yesNoUnknown(data.jumpingAllowed)
+				&& data.quietOnly is bool
+				&& yesNoUnknown(data.canLieDown)
+				&& yesNoUnknown(data.safeAnchor)
+				&& data.updatedAt == request.time;
+		}
+
+		// users/{uid}/limitations/{area}: one document per body area, deactivated rather than deleted.
+		function validLimitation(data, area) {
+			return data.keys().hasOnly(['schemaVersion', 'area', 'note', 'active', 'updatedAt'])
+				&& data.schemaVersion is int
+				&& data.area == area
+				&& oneOf(area, ['neck', 'shoulders', 'wrists', 'lower-back', 'hips', 'knees', 'ankles'])
+				&& stringUpTo(data.note, 300)
+				&& data.active is bool
+				&& data.updatedAt == request.time;
+		}
+
 		// Exercise catalog: signed-in users see published entries; only admins publish or edit.
 		match /exercises/{exerciseId} {
 			allow read: if isAdmin() || (signedIn() && resource.data.status == 'published');
@@ -23,17 +109,33 @@ service cloud.firestore {
 		}
 
 		match /users/{uid} {
-			allow read, write: if isOwner(uid);
+			allow read: if isOwner(uid);
+			allow create: if isOwner(uid)
+				&& validProfile(request.resource.data)
+				&& request.resource.data.onboardingCompletedAt == null
+				&& request.resource.data.createdAt == request.time;
+			// createdAt is immutable; onboardingCompletedAt can only be set once, to the server time.
+			allow update: if isOwner(uid)
+				&& validProfile(request.resource.data)
+				&& request.resource.data.createdAt == resource.data.createdAt
+				&& (request.resource.data.onboardingCompletedAt == resource.data.onboardingCompletedAt
+					|| (resource.data.onboardingCompletedAt == null
+						&& request.resource.data.onboardingCompletedAt == request.time));
 
-			// User-configured facts and personal routines: owner-managed.
+			// MVP supports a single active setup (README §4.1).
 			match /trainingSetups/{setupId} {
-				allow read, write: if isOwner(uid);
+				allow read: if isOwner(uid);
+				allow create, update: if isOwner(uid)
+					&& setupId == 'primary'
+					&& validTrainingSetup(request.resource.data);
 			}
 
-			match /limitations/{limitationId} {
-				allow read, write: if isOwner(uid);
+			match /limitations/{area} {
+				allow read: if isOwner(uid);
+				allow create, update: if isOwner(uid) && validLimitation(request.resource.data, area);
 			}
 
+			// Phase 3 collections: owner-managed until their schemas are defined.
 			match /sessions/{sessionId} {
 				allow read, write: if isOwner(uid);
 			}

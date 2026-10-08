@@ -30,8 +30,10 @@ jobs:
             - name: Copy CNAME file
               run: cp CNAME dist/app/browser/
 
+            # Unknown paths (including client-rendered /app/** deep links) boot the CSR shell,
+            # not the prerendered landing page, so Angular doesn't try to hydrate mismatched markup.
             - name: Add SPA fallback for GitHub Pages route reload
-              run: cp dist/app/browser/index.html dist/app/browser/404.html
+              run: cp dist/app/browser/index.csr.html dist/app/browser/404.html
 
             - name: Set up SSH
               env:

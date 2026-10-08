@@ -1,5 +1,7 @@
 <footer class="border-t border-[var(--c-border)] bg-[var(--c-bg-secondary)]">
-	<div class="mx-auto grid max-w-[var(--container)] gap-10 px-4 py-10 sm:px-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(14rem,0.8fr)] lg:gap-16">
+	<div
+		class="mx-auto grid max-w-[var(--container)] gap-10 px-4 py-10 sm:px-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(14rem,0.8fr)] lg:gap-16"
+	>
 		<div class="grid gap-5 sm:grid-cols-[7rem_minmax(0,1fr)] sm:items-start">
 			<div
 				class="overflow-hidden rounded-[calc(var(--radius-card)*1.8)] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-3 shadow-[var(--shadow-sm)]"
@@ -40,7 +42,6 @@
 			</p>
 			<nav [translate]="{ ariaLabel: 'Навігація сторінками у футері' }">
 				<ul class="space-y-3">
-
 					@for (page of pageLinks(); track page.path) {
 						<li>
 							<a
@@ -58,7 +59,9 @@
 	</div>
 
 	<div class="border-t border-[var(--c-border)]">
-		<div class="mx-auto flex max-w-[var(--container)] px-4 py-4 text-sm text-[var(--c-text-muted)] sm:px-6">
+		<div
+			class="mx-auto flex max-w-[var(--container)] px-4 py-4 text-sm text-[var(--c-text-muted)] sm:px-6"
+		>
 			<p>
 				&copy; {{ currentYear }} {{ company().name || company().title }}.
 				<span translate>Усі права захищено.</span>

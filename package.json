@@ -4,7 +4,9 @@
 	"scripts": {
 		"start": "ng serve",
 		"build": "ng build --configuration=production && node tools/seo/generate-static-seo.mjs",
-		"rules": "firebase deploy --only firestore:rules --project train-up-work"
+		"rules": "firebase deploy --only firestore:rules --project train-up-work",
+		"test": "vitest run --config vitest.config.mts",
+		"test:rules": "firebase emulators:exec --only firestore --project demo-trainup \"vitest run --config vitest.rules.config.mts\""
 	},
 	"dependencies": {
 		"@angular/aria": "^22.2.2",
@@ -31,6 +33,7 @@
 		"@angular/build": "22.2.2",
 		"@angular/cli": "22.2.2",
 		"@angular/compiler-cli": "22.2.1",
+		"@firebase/rules-unit-testing": "^6.0.0",
 		"@tailwindcss/postcss": "4.1.12",
 		"@types/express": "5.0.1",
 		"@types/node": "25.9.3",

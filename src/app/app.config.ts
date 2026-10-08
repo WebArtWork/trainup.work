@@ -7,7 +7,7 @@ import {
 
 import { provideHttpClient, withFetch } from '@angular/common/http';
 import { provideClientHydration, withEventReplay } from '@angular/platform-browser';
-import { provideRouter } from '@angular/router';
+import { provideRouter, withRouterConfig } from '@angular/router';
 import {
 	buildAbsoluteUrl,
 	buildSeoTitleSuffix,
@@ -50,7 +50,8 @@ export const appConfig: ApplicationConfig = {
 			siteUrl: companyProfile.siteUrl,
 		}),
 		provideNgxUi(),
-		provideRouter(routes),
+		// Child routes inherit parent `data.meta`, so `/app/**` pages stay noindex.
+		provideRouter(routes, withRouterConfig({ paramsInheritanceStrategy: 'always' })),
 		provideClientHydration(withEventReplay()),
 		provideTranslate({
 			defaultLanguage: environment.defaultLanguage,

@@ -1,0 +1,169 @@
+@let current = setup();
+
+<div class="flex flex-col gap-8">
+	<button
+		type="button"
+		appOptionCard
+		label="Без обладнання"
+		description="Лише вага власного тіла."
+		icon="accessibility_new"
+		[selected]="current.noEquipment"
+		(click)="toggleNoEquipment()"
+	></button>
+
+	<fieldset>
+		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Що у вас є
+		</legend>
+		<div class="grid gap-3 sm:grid-cols-2">
+			@for (option of equipmentOptions; track option.value) {
+				<button
+					type="button"
+					appOptionCard
+					[label]="option.label"
+					[icon]="option.icon"
+					[selected]="selectedTypes().has(option.value)"
+					(click)="toggle(option.value)"
+				></button>
+			}
+		</div>
+	</fieldset>
+
+	@for (detail of detailItems(); track detail.option.value) {
+		<fieldset
+			class="rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-4"
+		>
+			<legend class="px-1 text-base font-semibold text-[var(--c-text-strong)]">
+				<span [translate]="detail.option.label">{{ detail.option.label }}</span>
+			</legend>
+
+			@switch (detail.option.detail) {
+				@case ('weights') {
+					<p class="mb-3 text-sm text-[var(--c-text)]" translate>
+						Позначте ваги, які у вас є, кг.
+					</p>
+					<div class="flex flex-wrap gap-2">
+						@for (kg of detail.option.weightOptionsKg; track kg) {
+							<button
+								type="button"
+								appOptionPill
+								[label]="'' + kg"
+								[translateLabel]="false"
+								[selected]="!!detail.item.weightsKg?.includes(kg)"
+								(click)="toggleWeight(detail.option.value, kg)"
+							></button>
+						}
+					</div>
+				}
+				@case ('resistances') {
+					<p class="mb-3 text-sm text-[var(--c-text)]" translate>Який опір у ваших стрічок?</p>
+					<div class="flex flex-wrap gap-2">
+						@for (resistance of resistanceOptions; track resistance.value) {
+							<button
+								type="button"
+								appOptionPill
+								[label]="resistance.label"
+								[selected]="!!detail.item.resistances?.includes(resistance.value)"
+								(click)="toggleResistance(detail.option.value, resistance.value)"
+							></button>
+						}
+					</div>
+				}
+				@case ('adjustable') {
+					<p class="mb-3 text-sm text-[var(--c-text)]" translate>Чи регулюється нахил спинки?</p>
+					<div class="flex flex-wrap gap-2">
+						<button
+							type="button"
+							appOptionPill
+							label="Так, регульована"
+							[selected]="detail.item.adjustable === true"
+							(click)="setFlag(detail.option.value, 'adjustable', true)"
+						></button>
+						<button
+							type="button"
+							appOptionPill
+							label="Ні, пряма"
+							[selected]="detail.item.adjustable === false"
+							(click)="setFlag(detail.option.value, 'adjustable', false)"
+						></button>
+					</div>
+				}
+				@case ('safely-installed') {
+					<p class="mb-3 text-sm text-[var(--c-text)]" translate>
+						Чи надійно закріплений турнік і чи витримає він вашу вагу?
+					</p>
+					<div class="flex flex-wrap gap-2">
+						<button
+							type="button"
+							appOptionPill
+							label="Так, надійно"
+							[selected]="detail.item.safelyInstalled === true"
+							(click)="setFlag(detail.option.value, 'safelyInstalled', true)"
+						></button>
+						<button
+							type="button"
+							appOptionPill
+							label="Ні або не впевнений"
+							[selected]="detail.item.safelyInstalled === false"
+							(click)="setFlag(detail.option.value, 'safelyInstalled', false)"
+						></button>
+					</div>
+					@if (!detail.item.safelyInstalled) {
+						<p class="mt-3 text-sm text-[var(--c-text)]" translate>
+							Поки турнік не закріплено надійно, вправи на ньому не пропонуватимуться.
+						</p>
+					}
+				}
+				@case (undefined) {}
+				@default never;
+			}
+		</fieldset>
+	}
+
+	<fieldset>
+		<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]">
+			<span translate>Інше обладнання</span>
+			<span class="ml-1 font-normal text-[var(--c-text-muted)]" translate>(необов’язково)</span>
+		</legend>
+		<p class="mb-3 text-sm text-[var(--c-text)]" translate>
+			Для вашої довідки: такі предмети не використовуються для підбору вправ.
+		</p>
+		<form class="flex gap-2" (submit)="$event.preventDefault(); addCustom()">
+			<input
+				class="theme-focus min-h-12 min-w-0 flex-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-base text-[var(--c-text-strong)]"
+				type="text"
+				[maxLength]="customItemMaxLength"
+				[value]="customDraft()"
+				[translate]="{ placeholder: 'Наприклад, фітбол', ariaLabel: 'Назва предмета' }"
+				(input)="customDraft.set($any($event.target).value)"
+			/>
+			<button
+				class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-sm font-semibold text-[var(--c-text-strong)] disabled:opacity-50"
+				type="submit"
+				[disabled]="!canAddCustom()"
+				translate
+			>
+				Додати
+			</button>
+		</form>
+		@if (current.customEquipment.length) {
+			<ul class="mt-3 flex flex-wrap gap-2">
+				@for (item of current.customEquipment; track item) {
+					<li
+						class="inline-flex min-h-10 items-center gap-1 rounded-full bg-[var(--c-bg-tertiary)] pl-4 pr-1 text-sm text-[var(--c-text-strong)]"
+					>
+						{{ item }}
+						<button
+							class="theme-focus inline-flex h-8 w-8 items-center justify-center rounded-full hover:bg-[var(--c-border)]"
+							type="button"
+							[translate]="{ ariaLabel: 'Видалити' }"
+							(click)="removeCustom(item)"
+						>
+							<span class="material-symbols-outlined text-[18px]" aria-hidden="true">close</span>
+						</button>
+					</li>
+				}
+			</ul>
+		}
+	</fieldset>
+</div>

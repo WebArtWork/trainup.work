@@ -12,8 +12,8 @@ Phases have no dates yet. Add them once team capacity is known.
 | Marketing site          | Done: TrainUp branding, prerendered landing page at `trainup.work`, 14 languages                         |
 | Firebase project        | Connected: `train-up-work` web config, browser-only `FirebaseService` (Auth + Firestore)                 |
 | Firestore database      | `(default)` exists in Frankfurt (`europe-west3`); empty                                                   |
-| Firestore rules         | Drafted from README §10/§12 and compiled successfully; **not deployed yet** (`npm run rules`)             |
-| App (README §13)        | Not started: all four milestones are still open                                                           |
+| Firestore rules         | Field validation for Phase 1 collections, 17 emulator tests; **not deployed yet** (`npm run rules`)      |
+| App (README §13)        | Phase 1 code done (sign-in, onboarding, profile); awaiting end-to-end check. Phases 2–5 open            |
 
 ## Critical path
 
@@ -61,21 +61,31 @@ It doesn't depend on any code, so start it immediately.
 
 ## Phase 1: Foundation and onboarding (README Milestone 1)
 
-- [ ] Add the app shell under `/app` in this repo:
-    - Mark `app/**` as `RenderMode.Client` in `app.routes.server.ts`, so only the landing page is prerendered.
-    - Keep `/app` pages out of the sitemap and mark them `noindex`.
-    - Add bottom navigation (Today / Workout / Explore / Profile), reusing the existing translation setup.
-- [ ] Firebase Auth (Google, Apple) with route guards. Create the `users/{uid}` document on first sign-in.
-- [ ] Typed domain models with schema versions: profile, training setup, limitations.
-- [ ] Onboarding wizard: goal, then level and schedule, then equipment, then space, then restrictions,
-      then a review step.
-- [ ] Visual equipment selector, with quantities and weights where useful.
-- [ ] Usable-space step: preset sizes plus actual dimensions, ceiling height, surface, impact, noise,
-      lying down, anchor.
-- [ ] Profile, then Training setup, for editing all of the above.
-- [ ] Rules tests in the emulator. Loading, empty and error states on every screen.
+Code is in place (2026-10-08); the end-to-end check waits on Phase 0 setup.
+
+- [x] App shell under `/app` in this repo:
+    - `app/**` is `RenderMode.Client` in `app.routes.server.ts`; only the landing page is prerendered.
+    - `/app` routes are lazy-loaded, so Firebase stays out of the landing page bundle.
+    - `/app` pages are `noindex` and not in the sitemap.
+    - Bottom navigation (Today / Workout / Explore / Profile) with the existing translation setup.
+    - GitHub Pages serves `index.csr.html` as `404.html`, so `/app` deep links load.
+- [x] Firebase Auth (Google, Apple popups) with route guards. `users/{uid}` is created on first sign-in.
+- [x] Typed domain models with schema versions: profile, training setup, limitations.
+- [x] Onboarding wizard: goal, level and schedule, equipment, space, restrictions, review. The draft
+      survives a page reload.
+- [x] Visual equipment selector, with weights, band resistance, bench type, and pull-up bar safety.
+- [x] Usable-space step: preset sizes plus exact dimensions, ceiling height, surface, jumping, noise,
+      lying down, anchor. Unknown answers stay unknown.
+- [x] Profile page with an edit page per section, reusing the onboarding editors.
+- [x] Firestore rules with field validation; 17 emulator tests (`npm run test:rules`, needs JDK 21+).
+      12 validator unit tests (`npm test`).
+- [x] Loading, empty and error states on every screen.
+- [ ] End-to-end check with a real Google and Apple account once Phase 0 is done (providers enabled,
+      rules deployed).
+- [ ] Exercise-style equipment images instead of Material Symbols icons (needs the commissioned art).
 
 **Exit:** README M1 "Done when" passes, plus acceptance test **12** (isolation between users).
+Test 12 is covered by the rules tests; the "Done when" flow still needs the end-to-end check.
 
 ## Phase 2: Planner engine, catalog, workouts (README Milestone 2)
 

@@ -1,0 +1,182 @@
+@let current = setup();
+
+<div class="flex flex-col gap-8">
+	<fieldset>
+		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Де ви тренуєтеся
+		</legend>
+		<div class="grid gap-3 sm:grid-cols-2">
+			@for (option of locationOptions; track option.value) {
+				<button
+					type="button"
+					appOptionCard
+					[label]="option.label"
+					[icon]="option.icon"
+					[selected]="current.location === option.value"
+					(click)="patch({ location: option.value })"
+				></button>
+			}
+		</div>
+	</fieldset>
+
+	<fieldset>
+		<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Вільна площа для тренувань
+		</legend>
+		<p class="mb-3 text-sm text-[var(--c-text)]" translate>
+			Рахуйте лише вільну підлогу без меблів. Точно міряти не обов’язково.
+		</p>
+		<div class="grid gap-3">
+			@for (option of floorPresetOptions; track option.value) {
+				<button
+					type="button"
+					appOptionCard
+					[label]="option.label"
+					[description]="option.description"
+					[selected]="current.floor.preset === option.value"
+					(click)="patchFloor({ preset: option.value })"
+				></button>
+			}
+		</div>
+
+		@if (showExactFloor() || hasExactFloor()) {
+			<div class="mt-4 grid gap-4 sm:grid-cols-2">
+				<app-number-field
+					label="Довжина"
+					unit="м"
+					optional
+					[min]="limits.lengthM.min"
+					[max]="limits.lengthM.max"
+					[step]="0.1"
+					[value]="current.floor.lengthM"
+					(valueChange)="patchFloor({ lengthM: $event })"
+				/>
+				<app-number-field
+					label="Ширина"
+					unit="м"
+					optional
+					[min]="limits.widthM.min"
+					[max]="limits.widthM.max"
+					[step]="0.1"
+					[value]="current.floor.widthM"
+					(valueChange)="patchFloor({ widthM: $event })"
+				/>
+			</div>
+			<p class="mt-2 text-sm text-[var(--c-text-muted)]" translate>
+				Точні розміри мають перевагу над обраним варіантом.
+			</p>
+		} @else {
+			<button
+				class="theme-focus mt-3 inline-flex min-h-11 items-center gap-2 rounded-md text-sm font-semibold text-[var(--c-primary)]"
+				type="button"
+				(click)="showExactFloor.set(true)"
+			>
+				<span class="material-symbols-outlined text-[20px]" aria-hidden="true"
+					>straighten</span
+				>
+				<span translate>Ввести точні розміри</span>
+			</button>
+		}
+	</fieldset>
+
+	<fieldset>
+		<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Висота стелі
+		</legend>
+		<p class="mb-3 text-sm text-[var(--c-text)]" translate>
+			Від неї залежать вправи з руками над головою та стрибки.
+		</p>
+		<div class="grid grid-cols-2 gap-3">
+			@for (option of ceilingOptions; track option.value) {
+				<button
+					type="button"
+					appOptionCard
+					[label]="option.label"
+					[description]="option.description"
+					[selected]="current.ceiling.preset === option.value"
+					(click)="patchCeiling({ preset: option.value })"
+				></button>
+			}
+		</div>
+		<div class="mt-4 sm:max-w-xs">
+			<app-number-field
+				label="Точна висота"
+				unit="м"
+				optional
+				[min]="limits.heightM.min"
+				[max]="limits.heightM.max"
+				[step]="0.05"
+				[value]="current.ceiling.heightM"
+				(valueChange)="patchCeiling({ heightM: $event })"
+			/>
+		</div>
+	</fieldset>
+
+	<fieldset>
+		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Покриття
+		</legend>
+		<div class="flex flex-wrap gap-2">
+			@for (option of surfaceOptions; track option.value) {
+				<button
+					type="button"
+					appOptionPill
+					[label]="option.label"
+					[selected]="current.surface === option.value"
+					(click)="patch({ surface: option.value })"
+				></button>
+			}
+		</div>
+	</fieldset>
+
+	<fieldset>
+		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			Чи потрібна тиша?
+		</legend>
+		<div class="flex flex-wrap gap-2">
+			<button
+				type="button"
+				appOptionPill
+				label="Так, лише тихі вправи"
+				[selected]="current.quietOnly"
+				(click)="patch({ quietOnly: true })"
+			></button>
+			<button
+				type="button"
+				appOptionPill
+				label="Шум не проблема"
+				[selected]="!current.quietOnly"
+				(click)="patch({ quietOnly: false })"
+			></button>
+		</div>
+	</fieldset>
+
+	@for (question of questions; track question.field) {
+		<fieldset>
+			<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]">
+				<span [translate]="question.title">{{ question.title }}</span>
+			</legend>
+			<p class="mb-3 text-sm text-[var(--c-text)]" [translate]="question.hint">
+				{{ question.hint }}
+			</p>
+			<div class="flex flex-wrap gap-2">
+				@for (option of yesNoUnknownOptions; track option.value) {
+					<button
+						type="button"
+						appOptionPill
+						[label]="option.label"
+						[selected]="current[question.field] === option.value"
+						(click)="setAnswer(question.field, option.value)"
+					></button>
+				}
+			</div>
+		</fieldset>
+	}
+
+	<p
+		class="rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-tertiary)] p-4 text-sm leading-6 text-[var(--c-text)]"
+		translate
+	>
+		Якщо ви не впевнені, TrainUp не пропонуватиме вправ, яким ця умова потрібна.
+	</p>
+</div>

@@ -2,7 +2,7 @@ import { isPlatformBrowser } from '@angular/common';
 import { inject, PLATFORM_ID, Service } from '@angular/core';
 import { FirebaseApp, initializeApp } from 'firebase/app';
 import { Auth, getAuth } from 'firebase/auth';
-import { Firestore, getFirestore } from 'firebase/firestore';
+import { Firestore, initializeFirestore } from 'firebase/firestore';
 import { environment } from '../../../environments/environment';
 
 /**
@@ -33,7 +33,10 @@ export class FirebaseService {
 		if (!this._firestore) {
 			const app = this.app;
 
-			this._firestore = app ? getFirestore(app) : null;
+			// Optional domain fields are modelled as `undefined`; Firestore would reject them otherwise.
+			this._firestore = app
+				? initializeFirestore(app, { ignoreUndefinedProperties: true })
+				: null;
 		}
 
 		return this._firestore;
