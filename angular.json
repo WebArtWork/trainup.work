@@ -111,32 +111,6 @@
 					"defaultConfiguration": "development"
 				}
 			}
-		},
-		"ngx-default": {
-			"projectType": "library",
-			"root": "projects/ngx-default",
-			"sourceRoot": "projects/ngx-default/src",
-			"prefix": "default",
-			"architect": {
-				"build": {
-					"builder": "@angular/build:ng-packagr",
-					"configurations": {
-						"production": {
-							"tsConfig": "projects/ngx-default/tsconfig.lib.prod.json"
-						},
-						"development": {
-							"tsConfig": "projects/ngx-default/tsconfig.lib.json"
-						}
-					},
-					"defaultConfiguration": "production"
-				},
-				"test": {
-					"builder": "@angular/build:unit-test",
-					"options": {
-						"tsConfig": "projects/ngx-default/tsconfig.spec.json"
-					}
-				}
-			}
 		}
 	}
 }
