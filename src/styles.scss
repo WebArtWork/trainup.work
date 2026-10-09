@@ -367,12 +367,23 @@ body {
 	}
 
 	/* ---- page backdrops (behind the header group only, never behind controls) ---- */
+	/* Decorative glow behind a header group. Works as an empty element or as a wrapper; never leaves the flow. */
 	.hero-glow {
-		position: absolute;
-		inset: 0 0 auto 0;
-		height: 32rem;
-		background: var(--hero-glow);
-		pointer-events: none;
+		position: relative;
+		isolation: isolate;
+
+		&::before {
+			content: '';
+			position: absolute;
+			z-index: -1;
+			top: -4rem;
+			left: 50%;
+			width: min(100vw, 64rem);
+			height: 28rem;
+			transform: translateX(-50%);
+			background: var(--hero-glow);
+			pointer-events: none;
+		}
 	}
 
 	.page-wrap {

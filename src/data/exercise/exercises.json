@@ -53,7 +53,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 45,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/bodyweight-squat.jpg",
 		"steps": [
 			"Станьте, поставивши стопи на ширині плечей.",
 			"Відведіть таз назад і зігніть коліна, опускаючись униз.",
@@ -123,7 +123,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/split-squat.jpg",
 		"steps": [
 			"Станьте в широкий крок: одна нога попереду, друга позаду.",
 			"Опустіться вертикально вниз, згинаючи обидва коліна.",
@@ -193,7 +193,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/reverse-lunge.jpg",
 		"steps": [
 			"Станьте рівно, стопи на ширині стегон.",
 			"Зробіть крок назад і опустіться, згинаючи обидва коліна.",
@@ -258,7 +258,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 45,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/glute-bridge.jpg",
 		"steps": [
 			"Ляжте на спину, зігніть коліна, стопи на підлозі.",
 			"Напружте сідниці й підніміть таз угору.",
@@ -323,7 +323,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/single-leg-glute-bridge.jpg",
 		"steps": [
 			"Ляжте на спину, зігніть коліна, стопи на підлозі.",
 			"Випряміть одну ногу й підніміть її над підлогою.",
@@ -395,7 +395,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/knee-push-up.jpg",
 		"steps": [
 			"Станьте на коліна, долоні на підлозі трохи ширше плечей.",
 			"Вирівняйте тіло від колін до голови.",
@@ -467,7 +467,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 45,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/push-up.jpg",
 		"steps": [
 			"Прийміть упор лежачи, долоні трохи ширше плечей.",
 			"Вирівняйте тіло від п'ят до голови.",
@@ -535,7 +535,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 45,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/wall-push-up.jpg",
 		"steps": [
 			"Станьте обличчям до стіни на відстані витягнутих рук.",
 			"Упріться долонями в стіну на рівні плечей.",
@@ -609,7 +609,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 30,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/pike-push-up.jpg",
 		"steps": [
 			"Прийміть упор лежачи й підніміть таз, утворивши перевернуту літеру «V».",
 			"Зігніть руки й опустіть голову в бік підлоги між долонями.",
@@ -678,7 +678,7 @@
 		},
 		"estimatedSetSeconds": 40,
 		"restSeconds": 45,
-		"imageUrl": null,
+		"imageUrl": "/exercises/plank.jpg",
 		"steps": [
 			"Станьте в упор на передпліччя, лікті під плечима.",
 			"Випряміть ноги й вирівняйте тіло від п'ят до голови.",
@@ -747,7 +747,7 @@
 		},
 		"estimatedSetSeconds": 30,
 		"restSeconds": 45,
-		"imageUrl": null,
+		"imageUrl": "/exercises/side-plank.jpg",
 		"steps": [
 			"Ляжте на бік, лікоть під плечем.",
 			"Поставте стопи одну на одну або одну перед одною.",
@@ -807,7 +807,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 45,
-		"imageUrl": null,
+		"imageUrl": "/exercises/dead-bug.jpg",
 		"steps": [
 			"Ляжте на спину, руки витягніть угору, ноги зігніть під прямим кутом.",
 			"Повільно опустіть протилежні руку й ногу до підлоги.",
@@ -875,7 +875,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 45,
-		"imageUrl": null,
+		"imageUrl": "/exercises/bird-dog.jpg",
 		"steps": [
 			"Станьте на коліна й долоні, долоні під плечима, коліна під стегнами.",
 			"Одночасно витягніть уперед одну руку й назад протилежну ногу.",
@@ -945,7 +945,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/superman.jpg",
 		"steps": [
 			"Ляжте на живіт, руки витягніть уперед.",
 			"Одночасно трохи підніміть руки, груди й ноги над підлогою.",
@@ -1013,7 +1013,7 @@
 		},
 		"estimatedSetSeconds": 45,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/wall-sit.jpg",
 		"steps": [
 			"Станьте спиною до стіни, стопи на відстані близько півметра від неї.",
 			"Ковзніть спиною вниз, доки коліна не зігнуться під комфортним кутом.",
@@ -1085,7 +1085,7 @@
 		},
 		"estimatedSetSeconds": 40,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/jumping-jacks.jpg",
 		"steps": [
 			"Станьте рівно, ноги разом, руки вздовж тіла.",
 			"Стрибком розставте ноги й підніміть руки над головою.",
@@ -1148,7 +1148,7 @@
 		},
 		"estimatedSetSeconds": 45,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/step-jacks.jpg",
 		"steps": [
 			"Станьте рівно, ноги разом, руки вздовж тіла.",
 			"Зробіть крок убік і одночасно підніміть руки над головою.",
@@ -1221,7 +1221,7 @@
 		},
 		"estimatedSetSeconds": 30,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/high-knees.jpg",
 		"steps": [
 			"Станьте рівно, стопи на ширині стегон.",
 			"Почніть бігти на місці, піднімаючи коліна приблизно до рівня стегон.",
@@ -1284,7 +1284,7 @@
 		},
 		"estimatedSetSeconds": 60,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/march-in-place.jpg",
 		"steps": [
 			"Станьте рівно, руки зігнуті в ліктях.",
 			"Почергово піднімайте коліна, крокуючи на місці.",
@@ -1356,7 +1356,7 @@
 		},
 		"estimatedSetSeconds": 30,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/mountain-climbers.jpg",
 		"steps": [
 			"Прийміть упор лежачи, долоні під плечима.",
 			"Підтягніть одне коліно до грудей.",
@@ -1433,7 +1433,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 30,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/burpee.jpg",
 		"steps": [
 			"Присядьте й поставте долоні на підлогу.",
 			"Відставте ноги назад в упор лежачи.",
@@ -1507,7 +1507,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 30,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/squat-jump.jpg",
 		"steps": [
 			"Станьте, стопи на ширині плечей.",
 			"Присядьте до комфортної глибини.",
@@ -1572,7 +1572,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 30,
 		"restSeconds": 20,
-		"imageUrl": null,
+		"imageUrl": "/exercises/cat-cow.jpg",
 		"steps": [
 			"Станьте на коліна й долоні, долоні під плечима.",
 			"На вдиху прогніть спину й підніміть погляд.",
@@ -1639,7 +1639,7 @@
 		},
 		"estimatedSetSeconds": 40,
 		"restSeconds": 20,
-		"imageUrl": null,
+		"imageUrl": "/exercises/kneeling-hip-flexor-stretch.jpg",
 		"steps": [
 			"Станьте на одне коліно, друга нога попереду зігнута під прямим кутом.",
 			"Напружте сідницю ноги, що стоїть на коліні.",
@@ -1705,7 +1705,7 @@
 		},
 		"estimatedSetSeconds": 30,
 		"restSeconds": 20,
-		"imageUrl": null,
+		"imageUrl": "/exercises/arm-circles.jpg",
 		"steps": [
 			"Станьте рівно й розведіть руки в сторони.",
 			"Виконуйте невеликі кола руками вперед.",
@@ -1770,7 +1770,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 30,
 		"restSeconds": 20,
-		"imageUrl": null,
+		"imageUrl": "/exercises/open-book-rotation.jpg",
 		"steps": [
 			"Ляжте на бік, зігніть коліна, руки витягніть перед собою.",
 			"Відведіть верхню руку дугою в протилежний бік, розвертаючи груди.",
@@ -1847,7 +1847,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/goblet-squat.jpg",
 		"steps": [
 			"Тримайте гантель або гирю вертикально біля грудей.",
 			"Станьте, стопи трохи ширше плечей.",
@@ -1924,7 +1924,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/dumbbell-romanian-deadlift.jpg",
 		"steps": [
 			"Станьте рівно з гантелями перед стегнами.",
 			"Злегка зігніть коліна й відведіть таз назад.",
@@ -1998,7 +1998,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/one-arm-dumbbell-row.jpg",
 		"steps": [
 			"Нахиліться вперед, обіпершись вільною рукою на стегно або стійку опору.",
 			"Візьміть гантель, рука випрямлена під плечем.",
@@ -2073,7 +2073,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/dumbbell-floor-press.jpg",
 		"steps": [
 			"Ляжте на спину, зігніть коліна, гантелі в руках біля грудей.",
 			"Вижміть гантелі вгору над грудьми.",
@@ -2153,7 +2153,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/dumbbell-bench-press.jpg",
 		"steps": [
 			"Ляжте на лаву, стопи на підлозі, гантелі біля грудей.",
 			"Вижміть гантелі вгору над грудьми.",
@@ -2233,7 +2233,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/incline-dumbbell-press.jpg",
 		"steps": [
 			"Встановіть спинку лави під помірним кутом нахилу.",
 			"Сядьте на лаву, спина притиснута, гантелі біля грудей.",
@@ -2311,7 +2311,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/dumbbell-shoulder-press.jpg",
 		"steps": [
 			"Станьте рівно, гантелі на рівні плечей.",
 			"Напружте прес і сідниці.",
@@ -2387,7 +2387,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/dumbbell-reverse-lunge.jpg",
 		"steps": [
 			"Станьте рівно з гантелями в опущених руках.",
 			"Зробіть крок назад і опустіться, згинаючи обидва коліна.",
@@ -2465,7 +2465,7 @@
 		},
 		"estimatedSetSeconds": 45,
 		"restSeconds": 45,
-		"imageUrl": null,
+		"imageUrl": "/exercises/farmer-carry.jpg",
 		"steps": [
 			"Візьміть гантелі або гирі в обидві руки.",
 			"Випряміться, плечі опущені й відведені назад.",
@@ -2543,7 +2543,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 45,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/kettlebell-swing.jpg",
 		"steps": [
 			"Станьте, стопи трохи ширше плечей, гиря перед вами.",
 			"Нахиліться з рівною спиною й заведіть гирю назад між ногами.",
@@ -2621,7 +2621,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/kettlebell-deadlift.jpg",
 		"steps": [
 			"Станьте над гирею, стопи на ширині стегон.",
 			"Відведіть таз назад, зігніть коліна й візьміться за ручку гирі.",
@@ -2692,7 +2692,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 45,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/band-pull-apart.jpg",
 		"steps": [
 			"Візьміть еспандер обома руками на ширині плечей перед грудьми.",
 			"Розведіть руки в сторони, розтягуючи еспандер.",
@@ -2763,7 +2763,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 45,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/band-row.jpg",
 		"steps": [
 			"Закріпіть еспандер на рівні пояса за надійну опору.",
 			"Візьміться за кінці й відійдіть назад до натягу.",
@@ -2839,7 +2839,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 45,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/band-lat-pulldown.jpg",
 		"steps": [
 			"Закріпіть еспандер над головою за надійну опору.",
 			"Візьміться за кінці, руки витягнуті вгору.",
@@ -2918,7 +2918,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 24,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/pull-up.jpg",
 		"steps": [
 			"Візьміться за перекладину хватом трохи ширше плечей.",
 			"Повисніть на прямих руках, опустивши лопатки.",
@@ -2995,7 +2995,7 @@
 		},
 		"estimatedSetSeconds": 30,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/dead-hang.jpg",
 		"steps": [
 			"Візьміться за перекладину хватом на ширині плечей.",
 			"Обережно повисніть на прямих руках.",
@@ -3071,7 +3071,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 45,
-		"imageUrl": null,
+		"imageUrl": "/exercises/hanging-knee-raise.jpg",
 		"steps": [
 			"Повисніть на перекладині на прямих руках.",
 			"Напружте прес і підтягніть коліна до грудей.",
@@ -3152,7 +3152,7 @@
 		},
 		"estimatedSetSeconds": 60,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/jump-rope.jpg",
 		"steps": [
 			"Візьміть ручки скакалки, скакалка позаду п'ят.",
 			"Обертайте скакалку зап'ястями.",
@@ -3229,7 +3229,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 36,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/step-up.jpg",
 		"steps": [
 			"Станьте перед платформою.",
 			"Поставте на неї всю стопу однієї ноги.",
@@ -3314,7 +3314,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 24,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/barbell-back-squat.jpg",
 		"steps": [
 			"Покладіть штангу на верхню частину спини й зніміть її зі стійки.",
 			"Відступіть, стопи на ширині плечей або трохи ширше.",
@@ -3394,7 +3394,7 @@
 		"durationRange": null,
 		"estimatedSetSeconds": 24,
 		"restSeconds": 75,
-		"imageUrl": null,
+		"imageUrl": "/exercises/barbell-deadlift.jpg",
 		"steps": [
 			"Станьте так, щоб гриф був над серединою стопи.",
 			"Відведіть таз назад, зігніть коліна й візьміться за гриф.",
@@ -3465,7 +3465,7 @@
 		},
 		"estimatedSetSeconds": 120,
 		"restSeconds": 40,
-		"imageUrl": null,
+		"imageUrl": "/exercises/cardio-machine-intervals.jpg",
 		"steps": [
 			"Розімніться кілька хвилин у легкому темпі.",
 			"Підвищте темп або опір на заданий час інтервалу.",

@@ -21,17 +21,21 @@ export class AuthService {
 	/** `undefined` until Firebase restores the session; `null` when signed out. */
 	readonly user = signal<User | null | undefined>(undefined);
 
-	private _ready: Promise<User | null> | null = null;
+	private _ready: Promise<void> | null = null;
 
-	/** Resolves with the restored user once Firebase has checked the persisted session. */
-	whenReady(): Promise<User | null> {
+	/**
+	 * Resolves with the current user once Firebase has checked the persisted session.
+	 * Only the first check is awaited; later calls read the live `user` signal, so guards
+	 * see sign-ins and sign-outs that happen after startup.
+	 */
+	async whenReady(): Promise<User | null> {
 		if (!this._ready) {
-			this._ready = new Promise((resolve) => {
+			this._ready = new Promise<void>((resolve) => {
 				const auth = this._firebase.auth;
 
 				if (!auth) {
 					this.user.set(null);
-					resolve(null);
+					resolve();
 					return;
 				}
 
@@ -42,13 +46,15 @@ export class AuthService {
 
 					if (!resolved) {
 						resolved = true;
-						resolve(user);
+						resolve();
 					}
 				});
 			});
 		}
 
-		return this._ready;
+		await this._ready;
+
+		return this.user() ?? null;
 	}
 
 	async signIn(provider: SignInProvider): Promise<User> {

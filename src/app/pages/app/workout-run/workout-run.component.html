@@ -84,7 +84,14 @@
 				class="surface-inset mt-5 flex aspect-[16/9] items-center justify-center overflow-hidden rounded-[var(--radius-card)] sm:aspect-[21/9]"
 			>
 				@if (details?.imageUrl) {
-					<img class="h-full w-full object-cover" [src]="details!.imageUrl" alt="" />
+					<img
+						class="h-full w-full object-contain"
+						[src]="details!.imageUrl"
+						[alt]="details!.name"
+						width="960"
+						height="600"
+						decoding="async"
+					/>
 				} @else {
 					<span class="material-symbols-outlined text-[64px] text-[var(--c-text-muted)]" aria-hidden="true">
 						fitness_center

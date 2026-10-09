@@ -3,7 +3,7 @@
 	"name": "TrainUp",
 	"title": "TrainUp — план тренувань під ваше обладнання та простір",
 	"description": "Мобільний застосунок, що складає досяжний план тренувань під вашу ціль, рівень, обладнання, вільний простір і графік — без промптів і чатів.",
-	"image": "/logo.png",
+	"image": "/seo/home.jpg",
 	"logo": "/logo.png",
 	"siteUrl": "https://trainup.work",
 	"lang": "uk",
@@ -20,16 +20,18 @@
 		"author": "TrainUp",
 		"robots": "index, follow",
 		"type": "website",
-		"twitterCard": "summary"
+		"twitterCard": "summary_large_image"
 	},
 	"pageSeo": {
 		"/privacy": {
 			"title": "Політика конфіденційності",
-			"description": "Які дані TrainUp збирає, навіщо, де їх зберігає і як ви можете їх завантажити чи видалити."
+			"description": "Які дані TrainUp збирає, навіщо, де їх зберігає і як ви можете їх завантажити чи видалити.",
+			"image": "/seo/privacy.jpg"
 		},
 		"/terms": {
 			"title": "Умови користування",
-			"description": "Правила користування застосунком TrainUp: що він робить, чого не робить і хто за що відповідає."
+			"description": "Правила користування застосунком TrainUp: що він робить, чого не робить і хто за що відповідає.",
+			"image": "/seo/terms.jpg"
 		}
 	}
 }

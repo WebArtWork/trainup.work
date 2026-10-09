@@ -4,6 +4,7 @@ import { collection, getDocs, query, where } from 'firebase/firestore';
 import { environment } from '../../../environments/environment';
 import { FirebaseService } from '../firebase/firebase.service';
 import { loadBundledCatalog } from './bundled-catalog';
+import { EXERCISE_IMAGES } from './exercise-images';
 
 /**
  * The exercise catalog. Production reads only published (reviewed) exercises from Firestore;
@@ -47,6 +48,10 @@ export class ExerciseCatalogService {
 		this.exercises.set(
 			exercises
 				.filter((exercise) => this.allowedStatuses.includes(exercise.status))
+				.map((exercise) => ({
+					...exercise,
+					imageUrl: exercise.imageUrl || EXERCISE_IMAGES[exercise.id] || null,
+				}))
 				.sort((a, b) => a.name.localeCompare(b.name, 'uk')),
 		);
 		this.loaded.set(true);

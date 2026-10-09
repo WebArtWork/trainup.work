@@ -1,6 +1,7 @@
 import { inject } from '@angular/core';
-import { Router, Routes } from '@angular/router';
+import { ActivatedRouteSnapshot, Router, Routes } from '@angular/router';
 import { isAccountSection } from '../../feature/account/account.interface';
+import { appPageMeta, exercisePageMeta } from './app-page-meta';
 import {
 	authGuard,
 	guestGuard,
@@ -17,6 +18,7 @@ export const APP_AREA_ROUTES: Routes = [
 		children: [
 			{
 				path: 'sign-in',
+				data: { meta: appPageMeta('sign-in') },
 				canActivate: [guestGuard],
 				loadComponent: () =>
 					import('./sign-in/sign-in.component').then((m) => m.SignInComponent),
@@ -28,6 +30,7 @@ export const APP_AREA_ROUTES: Routes = [
 				children: [
 					{
 						path: 'onboarding',
+						data: { meta: appPageMeta('onboarding') },
 						canActivate: [needsOnboardingGuard],
 						loadComponent: () =>
 							import('./onboarding/onboarding.component').then(
@@ -45,11 +48,13 @@ export const APP_AREA_ROUTES: Routes = [
 							{ path: '', pathMatch: 'full', redirectTo: 'today' },
 							{
 								path: 'today',
+								data: { meta: appPageMeta('today') },
 								loadComponent: () =>
 									import('./today/today.component').then((m) => m.TodayComponent),
 							},
 							{
 								path: 'workout',
+								data: { meta: appPageMeta('workout') },
 								loadComponent: () =>
 									import('./workout/workout.component').then(
 										(m) => m.WorkoutComponent,
@@ -57,6 +62,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'workout/:day',
+								data: { meta: appPageMeta('workout-run') },
 								loadComponent: () =>
 									import('./workout-run/workout-run.component').then(
 										(m) => m.WorkoutRunComponent,
@@ -64,26 +70,35 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'plan',
+								data: { meta: appPageMeta('plan') },
 								loadComponent: () =>
 									import('./plan/plan.component').then((m) => m.PlanComponent),
 							},
 							{
 								path: 'history',
+								data: { meta: appPageMeta('history') },
 								loadComponent: () =>
-									import('./history/history.component').then((m) => m.HistoryComponent),
+									import('./history/history.component').then(
+										(m) => m.HistoryComponent,
+									),
 							},
 							{
 								path: 'todos',
+								data: { meta: appPageMeta('todos') },
 								loadComponent: () =>
 									import('./todos/todos.component').then((m) => m.TodosComponent),
 							},
 							{
 								path: 'reminders',
+								data: { meta: appPageMeta('reminders') },
 								loadComponent: () =>
-									import('./reminders/reminders.component').then((m) => m.RemindersComponent),
+									import('./reminders/reminders.component').then(
+										(m) => m.RemindersComponent,
+									),
 							},
 							{
 								path: 'explore',
+								data: { meta: appPageMeta('explore') },
 								loadComponent: () =>
 									import('./explore/explore.component').then(
 										(m) => m.ExploreComponent,
@@ -91,6 +106,10 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'explore/:id',
+								resolve: {
+									meta: (route: ActivatedRouteSnapshot) =>
+										exercisePageMeta(route.paramMap.get('id')),
+								},
 								loadComponent: () =>
 									import('./exercise-detail/exercise-detail.component').then(
 										(m) => m.ExerciseDetailComponent,
@@ -98,6 +117,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'profile',
+								data: { meta: appPageMeta('profile') },
 								loadComponent: () =>
 									import('./profile/profile.component').then(
 										(m) => m.ProfileComponent,
@@ -105,11 +125,15 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'settings',
+								data: { meta: appPageMeta('settings') },
 								loadComponent: () =>
-									import('./settings/settings.component').then((m) => m.SettingsComponent),
+									import('./settings/settings.component').then(
+										(m) => m.SettingsComponent,
+									),
 							},
 							{
 								path: 'settings/ai',
+								data: { meta: appPageMeta('ai-settings') },
 								loadComponent: () =>
 									import('./ai-settings/ai-settings.component').then(
 										(m) => m.AiSettingsComponent,
@@ -117,6 +141,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'data',
+								data: { meta: appPageMeta('data') },
 								loadComponent: () =>
 									import('./data-privacy/data-privacy.component').then(
 										(m) => m.DataPrivacyComponent,
@@ -124,6 +149,14 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'profile/:section',
+								resolve: {
+									meta: (route: ActivatedRouteSnapshot) => {
+										const section = route.paramMap.get('section');
+										return isAccountSection(section)
+											? appPageMeta(`profile-${section}`)
+											: appPageMeta('profile');
+									},
+								},
 								canActivate: [
 									(route) =>
 										isAccountSection(route.paramMap.get('section')) ||
@@ -136,8 +169,11 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: '**',
+								data: { meta: appPageMeta('not-found') },
 								loadComponent: () =>
-									import('./not-found/not-found.component').then((m) => m.NotFoundComponent),
+									import('./not-found/not-found.component').then(
+										(m) => m.NotFoundComponent,
+									),
 							},
 						],
 					},

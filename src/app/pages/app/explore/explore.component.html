@@ -79,9 +79,11 @@
 									>
 										@if (item.exercise.imageUrl) {
 											<img
-												class="h-full w-full object-cover"
+												class="h-full w-full object-contain"
 												[src]="item.exercise.imageUrl"
 												alt=""
+												width="960"
+												height="600"
 												loading="lazy"
 												decoding="async"
 											/>

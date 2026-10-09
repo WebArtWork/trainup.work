@@ -1,0 +1,165 @@
+{
+	"generator": "Built-in image_gen.imagegen",
+	"home": {
+		"file": "src/assets/seo/home.jpg",
+		"prompt": "Use case: ads-marketing. Asset type: TrainUp page Open Graph / SEO share image. Landscape 1200:630 composition. Premium editorial illustration, warm cream #fff8f0 background, coral #d6410f, deep teal #0b6b5f and navy accents, soft dimensional shading, restrained playful geometry. Large clean modern sans-serif exact text \"TrainUp\" on the left, smaller exact page label below. Page-specific visual on the right. Generous margins, all content within central 85 percent. No other text, no watermark, no interface screenshot. Page label text (verbatim): \"Workout planner\". Scene: A welcoming adult in coral sportswear preparing a teal mat and two small dumbbells in a simple warm cream training room, accompanied by a minimal weekly calendar with teal checkmarks. The TrainUp wordmark must be bold rounded modern sans-serif, teal Train and coral Up. No slogan."
+	},
+	"seo": {
+		"size": [
+			1200,
+			630
+		],
+		"prefix": "Use case: ads-marketing. Asset type: TrainUp page Open Graph / SEO share image. Landscape 1200:630 composition. Premium editorial illustration, warm cream #fff8f0 background, coral #d6410f, deep teal #0b6b5f and navy accents, soft dimensional shading, restrained playful geometry. Large clean modern sans-serif exact text \"TrainUp\" on the left, smaller exact page label below. Page-specific visual on the right. Generous margins, all content within central 85 percent. No other text, no watermark, no interface screenshot. ",
+		"suffixTemplate": "Page label text (verbatim): \"{{label}}\". Scene: {{scene}}",
+		"pages": [
+			{
+				"id": "privacy",
+				"file": "src/assets/seo/privacy.jpg",
+				"label": "Privacy policy",
+				"scene": "A large teal shield enclosing a coral lock, small abstract data dots and a folded cream information card."
+			},
+			{
+				"id": "terms",
+				"file": "src/assets/seo/terms.jpg",
+				"label": "Terms of use",
+				"scene": "A cream document with teal rule lines and a large coral checkmark, a small dumbbell and balanced geometric shapes."
+			},
+			{
+				"id": "sign-in",
+				"file": "src/assets/seo/sign-in.jpg",
+				"label": "Sign in",
+				"scene": "A coral doorway with a teal key and a welcoming adult in sportswear, suggesting access to a personal fitness space."
+			},
+			{
+				"id": "onboarding",
+				"file": "src/assets/seo/onboarding.jpg",
+				"label": "Get started",
+				"scene": "An adult setting up a teal exercise mat next to a dumbbell and a sequence of three simple coral checkmarks."
+			},
+			{
+				"id": "today",
+				"file": "src/assets/seo/today.jpg",
+				"label": "Today",
+				"scene": "An adult stretching on a teal mat beside a minimal sun symbol and a single checked calendar tile."
+			},
+			{
+				"id": "workout",
+				"file": "src/assets/seo/workout.jpg",
+				"label": "Workouts",
+				"scene": "An adult in coral sportswear doing a controlled dumbbell exercise on a teal mat."
+			},
+			{
+				"id": "workout-run",
+				"file": "src/assets/seo/workout-run.jpg",
+				"label": "Workout session",
+				"scene": "An adult doing a bodyweight squat with a large clean teal stopwatch and coral progress arc."
+			},
+			{
+				"id": "plan",
+				"file": "src/assets/seo/plan.jpg",
+				"label": "Training plan",
+				"scene": "A large cream weekly calendar with teal checkmarks, coral blocks and a pair of dumbbells."
+			},
+			{
+				"id": "history",
+				"file": "src/assets/seo/history.jpg",
+				"label": "Workout history",
+				"scene": "A rising sequence of teal and coral progress bars, a completed training calendar and a small dumbbell."
+			},
+			{
+				"id": "todos",
+				"file": "src/assets/seo/todos.jpg",
+				"label": "To-do list",
+				"scene": "A cream checklist with large teal checkmarks and a coral pencil beside a rolled teal exercise mat."
+			},
+			{
+				"id": "reminders",
+				"file": "src/assets/seo/reminders.jpg",
+				"label": "Reminders",
+				"scene": "A large coral notification bell, a teal clock and one small checked calendar tile."
+			},
+			{
+				"id": "explore",
+				"file": "src/assets/seo/explore.jpg",
+				"label": "Exercise library",
+				"scene": "Three neat illustrated cards showing a squat, a plank and a dumbbell exercise, with teal and coral accents."
+			},
+			{
+				"id": "exercise-detail",
+				"file": "src/assets/seo/exercise-detail.jpg",
+				"label": "Exercise guide",
+				"scene": "An illustrated adult performing a controlled squat beside two minimal movement cards and a teal mat."
+			},
+			{
+				"id": "profile",
+				"file": "src/assets/seo/profile.jpg",
+				"label": "Your profile",
+				"scene": "A welcoming adult avatar in coral sportswear surrounded by a teal goal marker and tiny calendar and dumbbell motifs."
+			},
+			{
+				"id": "settings",
+				"file": "src/assets/seo/settings.jpg",
+				"label": "Settings",
+				"scene": "A simple teal gear beside coral and cream adjustment sliders and a small exercise mat."
+			},
+			{
+				"id": "ai-settings",
+				"file": "src/assets/seo/ai-settings.jpg",
+				"label": "AI settings",
+				"scene": "A teal geometric neural-network motif with coral connected dots, a minimal fitness calendar and a small dumbbell."
+			},
+			{
+				"id": "data",
+				"file": "src/assets/seo/data.jpg",
+				"label": "Your data",
+				"scene": "A teal shield beside a cream data folder with a coral downward download arrow and a small lock."
+			},
+			{
+				"id": "profile-goal",
+				"file": "src/assets/seo/profile-goal.jpg",
+				"label": "Your goal",
+				"scene": "A coral and teal target with a centered arrow and a small dumbbell."
+			},
+			{
+				"id": "profile-schedule",
+				"file": "src/assets/seo/profile-schedule.jpg",
+				"label": "Your schedule",
+				"scene": "A cream weekly calendar with coral selected days beside a large teal clock."
+			},
+			{
+				"id": "profile-equipment",
+				"file": "src/assets/seo/profile-equipment.jpg",
+				"label": "Your equipment",
+				"scene": "A neatly arranged teal mat, two coral dumbbells, teal kettlebell and loop resistance band."
+			},
+			{
+				"id": "profile-space",
+				"file": "src/assets/seo/profile-space.jpg",
+				"label": "Your training space",
+				"scene": "A small welcoming cream room with a teal mat, two dumbbells and simple coral floor measurement guides."
+			},
+			{
+				"id": "profile-limitations",
+				"file": "src/assets/seo/profile-limitations.jpg",
+				"label": "Your limitations",
+				"scene": "An adult in sportswear doing a gentle seated stretch, with a teal support symbol and calm coral accents."
+			},
+			{
+				"id": "not-found",
+				"file": "src/assets/seo/not-found.jpg",
+				"label": "Page not found",
+				"scene": "A teal magnifying glass over a missing cream calendar tile and a coral curved path pointing back home."
+			}
+		]
+	},
+	"exercises": {
+		"size": [
+			960,
+			600
+		],
+		"template": "Use case: scientific-educational. Asset type: TrainUp exercise catalog illustration. Create a single polished raster illustration of the exercise {{id}} ({{name}}). Landscape 16:10 composition. One adult of realistic everyday athletic proportions in coral #d6410f sportswear and navy trousers, on a warm cream #fff8f0 studio background, teal #0b6b5f mat where floor contact is needed, equipment rendered navy and teal. Refined editorial illustration with soft shading and clean anatomically plausible forms. Show ONE clear representative pose, entire body and required equipment in frame, centered with generous 15 percent margins, side or three-quarter view chosen to clearly show the movement. Follow this catalog movement description: {{steps}} Technique constraints: {{techniqueNotes}} No text, no labels, no inset panels, no decorative extra equipment, no anatomical overlays, no watermark. For dynamic exercise show a single identifiable midpoint. Correct number of limbs and natural joints. Educational illustration to accompany existing written instructions.",
+		"parametersSource": "src/data/exercise/exercises.json",
+		"parameterExpansion": "Use id, name, steps.join(' ') and techniqueNotes.join(' ') from each record. Save to src/assets/exercises/{id}.jpg."
+	},
+	"encoding": "JPEG quality 85, fit with cream padding; originals preserved in Codex generated_images."
+}

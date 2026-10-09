@@ -29,9 +29,11 @@
 				>
 					@if (item.imageUrl) {
 						<img
-							class="h-full w-full object-cover"
+							class="h-full w-full object-contain"
 							[src]="item.imageUrl"
-							alt=""
+							[alt]="item.name"
+							width="960"
+							height="600"
 							decoding="async"
 						/>
 					} @else {
