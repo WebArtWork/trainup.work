@@ -1,20 +1,17 @@
 <header>
 	<a
-		class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary)]"
+		class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary-text)]"
 		routerLink="/app/today"
 	>
 		<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
 		<span translate>Сьогодні</span>
 	</a>
-	<h1
-		class="mt-3 text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
-		translate
-	>
+	<h1 class="font-display mt-3 text-3xl text-[var(--c-text-strong)] sm:text-4xl" translate>
 		Ваш план
 	</h1>
 </header>
 
-<div class="mt-6 flex flex-col gap-6">
+<div class="mt-6 flex flex-col gap-6 pb-28">
 	@let stateValue = state();
 	@switch (stateValue) {
 		@case ('loading') {
@@ -30,112 +27,144 @@
 		}
 		@case ('ready') {
 			@if (plan(); as current) {
-				<p class="text-sm text-[var(--c-text)]">
-					{{ current.weeks }} <span translate>тижні</span> · {{ current.daysPerWeek }}
-					<span translate>трен./тиждень</span> · {{ current.sessionMinutes }} <span translate>хв</span>
-				</p>
+				<ul class="flex flex-wrap gap-2">
+					<li class="chip">{{ current.weeks }} <span translate>тижні</span></li>
+					<li class="chip">{{ current.daysPerWeek }} <span translate>трен./тиждень</span></li>
+					<li class="chip">{{ current.sessionMinutes }} <span translate>хв</span></li>
+				</ul>
 				@if (current.input.adjustment === 'ease') {
-					<p class="text-sm text-[var(--c-text)]" translate>
-						Навантаження зменшено за вашими відгуками.
+					<p class="surface-inset flex items-start gap-3 p-4 text-sm leading-6 text-[var(--c-text)]">
+						<span class="material-symbols-outlined text-[20px] text-[var(--c-primary-text)]" aria-hidden="true">trending_down</span>
+						<span translate>Навантаження зменшено за вашими відгуками.</span>
 					</p>
 				} @else if (current.input.adjustment === 'progress') {
-					<p class="text-sm text-[var(--c-text)]" translate>
-						Обсяг трохи збільшено за вашими відгуками.
+					<p class="surface-inset flex items-start gap-3 p-4 text-sm leading-6 text-[var(--c-text)]">
+						<span class="material-symbols-outlined text-[20px] text-[var(--c-primary-text)]" aria-hidden="true">trending_up</span>
+						<span translate>Обсяг трохи збільшено за вашими відгуками.</span>
 					</p>
 				}
 				@if (current.input.pausedExerciseIds?.length) {
-					<p class="text-sm text-[var(--c-text)]" translate>
-						Вправи, під час яких був біль, у план не включено.
+					<p class="surface-inset flex items-start gap-3 p-4 text-sm leading-6 text-[var(--c-text)]">
+						<span class="material-symbols-outlined text-[20px] text-[var(--c-warning)]" aria-hidden="true">info</span>
+						<span translate>Вправи, під час яких був біль, у план не включено.</span>
 					</p>
 				}
 
 				@for (week of weeks(); track week.week) {
-					<section>
-						<h2 class="text-base font-semibold text-[var(--c-text-strong)]">
-							<span translate>Тиждень</span> {{ week.week }}
-							@if (week.week % 4 === 0) {
-								<span class="ml-2 text-sm font-normal text-[var(--c-text-muted)]" translate>
-									(легший тиждень для відновлення)
+					<section [attr.aria-labelledby]="'plan-week-' + week.week">
+						<details class="group" [open]="week.week === currentWeek()">
+							<summary
+								class="theme-focus flex min-h-14 cursor-pointer list-none items-center gap-3 rounded-[var(--radius-card)] py-2"
+							>
+								<h2
+									class="font-display flex-1 text-xl text-[var(--c-text-strong)] sm:text-2xl"
+									[attr.id]="'plan-week-' + week.week"
+								>
+									<span translate>Тиждень</span> {{ week.week }}
+									@if (week.week % 4 === 0) {
+										<span class="ml-2 text-sm font-normal text-[var(--c-text-muted)]" translate>
+											(легший тиждень для відновлення)
+										</span>
+									}
+								</h2>
+								<span class="chip tabular-nums">{{ weekDone(week) }} / {{ week.days.length }}</span>
+								<span
+									class="material-symbols-outlined text-[24px] text-[var(--c-text-muted)] transition-transform group-open:rotate-180"
+									aria-hidden="true"
+								>
+									expand_more
 								</span>
-							}
-						</h2>
-						<ul class="mt-3 flex flex-col gap-2">
-							@for (day of week.days; track day.index) {
-								<li>
-									<details
-										class="group rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)]"
-									>
-										<summary
-											class="theme-focus flex min-h-14 cursor-pointer list-none items-center gap-3 px-4 py-3"
-										>
-											@if (completed().has(day.index)) {
-												<span
-													class="material-symbols-outlined text-[22px] text-[var(--c-primary)]"
-													[translate]="{ ariaLabel: 'Виконано' }"
-													role="img"
-												>
-													task_alt
+							</summary>
+
+							<ul
+								class="mt-2 flex flex-col gap-3 dark:gap-0 dark:border-l dark:border-[var(--c-border-strong)] dark:pl-4"
+							>
+								@for (day of week.days; track day.index) {
+									@let isToday = day.date === today;
+									@let isDone = completed().has(day.index);
+									<li class="relative dark:py-1.5">
+										<span
+											class="absolute -left-[1.4rem] top-1/2 hidden h-2.5 w-2.5 -translate-y-1/2 rounded-full dark:block"
+											[class]="
+												isDone
+													? 'bg-[var(--c-success)]'
+													: isToday
+														? 'bg-[var(--c-primary)] ring-4 ring-[color:color-mix(in_srgb,var(--c-primary)_30%,transparent)]'
+														: 'bg-[var(--c-border-strong)]'
+											"
+											aria-hidden="true"
+										></span>
+										<details class="group/day" [class]="isToday ? 'surface-raised' : 'surface'">
+											<summary
+												class="theme-focus flex min-h-16 cursor-pointer list-none items-center gap-3 rounded-[var(--radius-card)] px-4 py-3"
+											>
+												@if (isDone) {
+													<span
+														class="material-symbols-outlined text-[26px] text-[var(--c-success)]"
+														[translate]="{ ariaLabel: 'Виконано' }"
+														role="img"
+													>
+														task_alt
+													</span>
+												} @else {
+													<span
+														class="material-symbols-outlined text-[26px] text-[var(--c-text-muted)]"
+														aria-hidden="true"
+													>
+														radio_button_unchecked
+													</span>
+												}
+												<span class="flex-1">
+													<span
+														class="block text-base font-bold text-[var(--c-text-strong)] first-letter:uppercase"
+													>
+														{{ dateLabel(day) }}
+													</span>
+													<span class="text-sm text-[var(--c-text-muted)]">
+														{{ day.exercises.length }} <span translate>вправ</span> · ~{{
+															day.estimatedMinutes
+														}}
+														<span translate>хв</span>
+													</span>
 												</span>
-											} @else {
+												@if (isToday) {
+													<span class="chip chip-sun" translate>Сьогодні</span>
+												}
 												<span
-													class="material-symbols-outlined text-[22px] text-[var(--c-border)]"
+													class="material-symbols-outlined text-[20px] text-[var(--c-text-muted)] transition-transform group-open/day:rotate-180"
 													aria-hidden="true"
 												>
-													radio_button_unchecked
+													expand_more
 												</span>
-											}
-											<span class="flex-1">
-												<span
-													class="block text-sm font-semibold text-[var(--c-text-strong)] first-letter:uppercase"
-												>
-													{{ dateLabel(day) }}
-												</span>
-												<span class="text-xs text-[var(--c-text-muted)]">
-													{{ day.exercises.length }} <span translate>вправ</span> · ~{{
-														day.estimatedMinutes
-													}}
-													<span translate>хв</span>
-												</span>
-											</span>
-											<span
-												class="material-symbols-outlined text-[20px] text-[var(--c-text-muted)] transition-transform group-open:rotate-180"
-												aria-hidden="true"
-											>
-												expand_more
-											</span>
-										</summary>
-										<div class="border-t border-[var(--c-border)] px-4 pb-4">
-											<ol class="divide-y divide-[var(--c-border)]">
-												@for (exercise of day.exercises; track exercise.exerciseId) {
-													<li class="flex items-baseline justify-between gap-3 py-2.5 text-sm">
-														<span class="text-[var(--c-text-strong)]">{{ exercise.name }}</span>
-														<app-exercise-target class="shrink-0 text-[var(--c-text)]" [planned]="exercise" />
-													</li>
+											</summary>
+											<div class="px-4 pb-4">
+												<ol class="divide-y divide-[var(--c-border)] border-t border-[var(--c-border)]">
+													@for (exercise of day.exercises; track exercise.exerciseId) {
+														<li class="flex items-baseline justify-between gap-3 py-2.5 text-sm">
+															<span class="text-[var(--c-text-strong)]">{{ exercise.name }}</span>
+															<app-exercise-target class="shrink-0 text-[var(--c-text)]" [planned]="exercise" />
+														</li>
+													}
+												</ol>
+												@if (!isDone && day.date >= today) {
+													<a class="btn btn-primary mt-2" [routerLink]="['/app/workout', day.index]">
+														<span class="material-symbols-outlined text-[18px]" aria-hidden="true">
+															play_arrow
+														</span>
+														<span translate>Почати</span>
+													</a>
 												}
-											</ol>
-											@if (!completed().has(day.index) && day.date >= today) {
-												<a
-													class="theme-focus mt-2 inline-flex min-h-11 items-center gap-1 rounded-full bg-[var(--c-primary)] px-4 text-sm font-semibold text-white"
-													[routerLink]="['/app/workout', day.index]"
-												>
-													<span class="material-symbols-outlined text-[18px]" aria-hidden="true">
-														play_arrow
-													</span>
-													<span translate>Почати</span>
-												</a>
-											}
-										</div>
-									</details>
-								</li>
-							}
-						</ul>
+											</div>
+										</details>
+									</li>
+								}
+							</ul>
+						</details>
 					</section>
 				}
 
-				<section
-					class="rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-4"
-				>
-					<h2 class="text-base font-semibold text-[var(--c-text-strong)]" translate>
+				<section class="surface-inset p-5">
+					<h2 class="font-display text-xl text-[var(--c-text-strong)]" translate>
 						Скласти план заново
 					</h2>
 					<p class="mt-1 text-sm leading-6 text-[var(--c-text)]">
@@ -147,7 +176,7 @@
 						</span>
 					</p>
 					<button
-						class="theme-focus mt-3 inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] border-2 border-[var(--c-primary)] px-5 text-sm font-semibold text-[var(--c-primary)] disabled:opacity-60"
+						class="btn btn-outline mt-4"
 						type="button"
 						[disabled]="generating()"
 						[attr.aria-busy]="generating()"
@@ -167,11 +196,7 @@
 					title="Плану ще немає"
 					text="Складіть план на сторінці «Сьогодні»."
 				>
-					<a
-						class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-sm font-semibold text-[var(--c-text-strong)]"
-						routerLink="/app/today"
-						translate
-					>
+					<a class="btn btn-outline" routerLink="/app/today" translate>
 						До сторінки «Сьогодні»
 					</a>
 				</app-state-message>
@@ -182,11 +207,11 @@
 			}
 			@if (generateError()) {
 				<p
-					class="rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+					class="surface flex items-start gap-3 border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
 					role="alert"
-					translate
 				>
-					Не вдалося зберегти план. Перевірте з’єднання та спробуйте ще раз.
+					<span class="material-symbols-outlined text-[20px]" aria-hidden="true">error</span>
+					<span translate>Не вдалося зберегти план. Перевірте з’єднання та спробуйте ще раз.</span>
 				</p>
 			}
 		}

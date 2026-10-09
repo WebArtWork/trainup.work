@@ -9,57 +9,79 @@ import { ExerciseTargetComponent } from '../exercise-target/exercise-target.comp
 @Component({
 	selector: 'app-session-card',
 	imports: [ExerciseTargetComponent, TranslateDirective],
+	host: { class: 'block' },
 	template: `
 		@let current = day();
 		<article
-			class="rounded-[calc(var(--radius-card)*2)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-5 shadow-[var(--shadow-sm)]"
+			class="p-5 sm:p-6"
+			[class]="done() ? 'surface' : 'accent-block lg:-rotate-1 dark:rotate-0'"
 		>
-			<div class="flex flex-wrap items-baseline justify-between gap-2">
-				<h2 class="text-lg font-semibold text-[var(--c-text-strong)]">
-					@if (isToday()) {
-						<span translate>Сьогодні</span>
-					} @else {
-						<span class="inline-block first-letter:uppercase">{{ dateLabel() }}</span>
+			<div class="flex items-start justify-between gap-4">
+				<div class="min-w-0">
+					<h2 class="font-display text-3xl leading-tight sm:text-4xl">
+						@if (isToday()) {
+							<span translate>Сьогодні</span>
+						} @else {
+							<span class="inline-block first-letter:uppercase">{{ dateLabel() }}</span>
+						}
+					</h2>
+					<p class="mt-1 text-sm">
+						<span translate>Тиждень</span> {{ current.week }} · ~{{ current.estimatedMinutes }}
+						<span translate>хв</span>
+					</p>
+					@if (done()) {
+						<p class="chip chip-success mt-3">
+							<span class="material-symbols-outlined text-[18px]" aria-hidden="true">task_alt</span>
+							<span translate>Виконано</span>
+						</p>
 					}
-				</h2>
-				<p class="text-sm text-[var(--c-text-muted)]">
-					<span translate>Тиждень</span> {{ current.week }} · ~{{ current.estimatedMinutes }}
-					<span translate>хв</span>
-				</p>
+				</div>
+				@if (progress() !== null) {
+					<div
+						class="progress-ring shrink-0"
+						[style]="'--value: ' + progress()"
+						role="img"
+						[attr.aria-label]="progress() + '%'"
+					>
+						<span class="font-display text-base tabular-nums">{{ progress() }}%</span>
+					</div>
+				}
 			</div>
 
-			@if (done()) {
-				<p
-					class="mt-3 inline-flex items-center gap-1.5 rounded-full bg-[var(--c-bg-tertiary)] px-3 py-1 text-sm font-semibold text-[var(--c-text-strong)]"
-				>
-					<span class="material-symbols-outlined text-[18px] text-[var(--c-primary)]" aria-hidden="true">
-						task_alt
-					</span>
-					<span translate>Виконано</span>
-				</p>
-			}
+			<div class="mt-5 flex flex-wrap gap-3 empty:hidden">
+				<ng-content />
+			</div>
 
-			<ol class="mt-4 divide-y divide-[var(--c-border)]">
-				@for (exercise of current.exercises; track exercise.exerciseId) {
-					<li class="flex items-baseline justify-between gap-3 py-2.5 text-sm">
-						<span class="font-medium text-[var(--c-text-strong)]">{{ exercise.name }}</span>
-						<app-exercise-target class="shrink-0 text-[var(--c-text)]" [planned]="exercise" />
+			<ol class="mt-5 flex flex-col gap-1.5">
+				@for (exercise of shown(); track exercise.exerciseId) {
+					<li
+						class="flex items-baseline justify-between gap-3 rounded-[calc(var(--radius-card)*0.6)] bg-black/5 px-3 py-2.5 text-sm dark:bg-white/5"
+					>
+						<span class="font-semibold">{{ exercise.name }}</span>
+						<app-exercise-target class="shrink-0" [planned]="exercise" />
 					</li>
 				}
 			</ol>
-
-			<div class="mt-4 flex flex-wrap gap-3 empty:hidden">
-				<ng-content />
-			</div>
+			@if (hidden() > 0) {
+				<p class="mt-2 px-3 text-sm">+{{ hidden() }}</p>
+			}
 		</article>
 	`,
 })
 export class SessionCardComponent {
 	readonly day = input.required<PlanDay>();
 	readonly done = input(false);
+	/** Plan completion, 0-100; shows a progress ring when set. */
+	readonly progress = input<number | null>(null);
+	/** Max exercises listed before the rest collapse into a "+N" count. */
+	readonly limit = input(4);
 
 	private readonly _locale = injectLocale();
 
 	protected readonly isToday = computed(() => this.day().date === localToday());
 	protected readonly dateLabel = computed(() => formatPlanDate(this.day().date, this._locale()));
+	protected readonly shown = computed(() => this.day().exercises.slice(0, this.limit()));
+	protected readonly hidden = computed(() =>
+		Math.max(0, this.day().exercises.length - this.limit()),
+	);
 }

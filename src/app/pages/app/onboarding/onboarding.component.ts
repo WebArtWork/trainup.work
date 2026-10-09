@@ -38,6 +38,15 @@ interface OnboardingDraft {
 
 const STEPS: OnboardingStep[] = [...ACCOUNT_SECTIONS.map((section) => section.id), 'review'];
 
+const STEP_ICONS: Record<OnboardingStep, string> = {
+	goal: 'flag',
+	schedule: 'calendar_month',
+	equipment: 'fitness_center',
+	space: 'home',
+	limitations: 'health_and_safety',
+	review: 'task_alt',
+};
+
 @Component({
 	imports: [
 		AccountSummaryComponent,
@@ -69,6 +78,8 @@ export class OnboardingComponent {
 
 	protected readonly stepIndex = computed(() => STEPS.indexOf(this.step()));
 	protected readonly totalSteps = STEPS.length;
+	protected readonly steps = STEPS;
+	protected readonly stepIcon = computed(() => STEP_ICONS[this.step()]);
 	protected readonly progressLabel = 'Крок {{current}} з {{total}}';
 	protected readonly heading = computed(() => {
 		const step = this.step();

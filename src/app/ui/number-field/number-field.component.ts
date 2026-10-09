@@ -19,8 +19,8 @@ let nextId = 0;
 			</span>
 			<span class="relative flex items-center">
 				<input
-					class="theme-focus min-h-12 w-full rounded-[var(--radius-btn)] border-2 bg-[var(--c-bg-secondary)] px-4 pr-14 text-base text-[var(--c-text-strong)]"
-					[class]="invalid() ? 'border-[var(--c-error)]' : 'border-[var(--c-border)]'"
+					class="field pr-14"
+					[class.!border-[var(--c-error)]]="invalid()"
 					[id]="id"
 					type="number"
 					inputmode="decimal"

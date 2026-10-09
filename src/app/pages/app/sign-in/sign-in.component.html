@@ -1,24 +1,31 @@
-<section class="mx-auto flex max-w-md flex-col items-center py-8 text-center">
-	<img class="h-16 w-16" src="logo.png" alt="" width="64" height="64" />
+<section class="relative mx-auto flex max-w-md flex-col py-6 sm:py-12">
+	<div
+		class="pointer-events-none absolute -top-8 left-0 hidden h-48 w-72 rounded-full bg-[var(--c-primary)] opacity-25 blur-3xl dark:block"
+		aria-hidden="true"
+	></div>
+
+	<img
+		class="relative h-16 w-16 rounded-[var(--radius-card)] shadow-[0_4px_0_var(--c-border-strong)] dark:shadow-none"
+		src="logo.png"
+		alt=""
+		width="64"
+		height="64"
+	/>
 	<h1
-		class="mt-5 text-3xl font-semibold tracking-[-0.03em] text-[var(--c-text-strong)]"
+		class="font-display relative mt-6 text-4xl leading-tight text-[var(--c-text-strong)]"
 		translate
 	>
 		Вхід у TrainUp
 	</h1>
-	<p class="mt-3 text-base leading-7 text-[var(--c-text)]" translate>
+	<p class="relative mt-3 text-base leading-7 text-[var(--c-text)]" translate>
 		Збережемо вашу ціль, обладнання та простір, щоб план був доступний на будь-якому пристрої.
 	</p>
 
-	<div class="mt-8 flex w-full flex-col gap-3">
+	<div class="surface-raised relative mt-8 flex w-full flex-col gap-3 p-4 sm:p-5">
 		@for (button of providers; track button.provider) {
 			<button
-				class="theme-focus theme-interactive inline-flex min-h-14 w-full items-center justify-center gap-3 rounded-[var(--radius-btn)] border-2 px-5 text-base font-semibold disabled:opacity-60"
-				[class]="
-					button.provider === 'apple'
-						? 'border-[var(--c-text-strong)] bg-[var(--c-text-strong)] text-[var(--c-bg-secondary)]'
-						: 'border-[var(--c-border)] bg-[var(--c-bg-secondary)] text-[var(--c-text-strong)] hover:border-[var(--c-text-muted)]'
-				"
+				class="btn btn-lg btn-block"
+				[class]="button.provider === 'google' ? 'btn-primary' : 'btn-outline'"
 				type="button"
 				[disabled]="pending() !== null"
 				[attr.aria-busy]="pending() === button.provider"
@@ -34,24 +41,26 @@
 				} @else {
 					@switch (button.provider) {
 						@case ('google') {
-							<svg class="h-5 w-5" viewBox="0 0 48 48" aria-hidden="true">
-								<path
-									fill="#FFC107"
-									d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"
-								/>
-								<path
-									fill="#FF3D00"
-									d="m6.3 14.7 6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"
-								/>
-								<path
-									fill="#4CAF50"
-									d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-7.9l-6.5 5C9.5 39.6 16.2 44 24 44z"
-								/>
-								<path
-									fill="#1976D2"
-									d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"
-								/>
-							</svg>
+							<span class="flex h-7 w-7 items-center justify-center rounded-full bg-white">
+								<svg class="h-5 w-5" viewBox="0 0 48 48" aria-hidden="true">
+									<path
+										fill="#FFC107"
+										d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"
+									/>
+									<path
+										fill="#FF3D00"
+										d="m6.3 14.7 6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"
+									/>
+									<path
+										fill="#4CAF50"
+										d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-7.9l-6.5 5C9.5 39.6 16.2 44 24 44z"
+									/>
+									<path
+										fill="#1976D2"
+										d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"
+									/>
+								</svg>
+							</span>
 						}
 						@case ('apple') {
 							<svg
@@ -74,7 +83,7 @@
 
 	@if (error(); as message) {
 		<p
-			class="mt-5 w-full rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+			class="surface relative mt-5 w-full border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
 			role="alert"
 			[translate]="message"
 		>
@@ -82,28 +91,16 @@
 		</p>
 	}
 
-	<p class="mt-8 text-sm leading-6 text-[var(--c-text-muted)]" translate>
+	<p class="relative mt-8 text-sm leading-6 text-[var(--c-text-muted)]" translate>
 		TrainUp не ставить діагнозів і не замінює консультацію лікаря.
 	</p>
-	<p class="mt-3 text-sm leading-6 text-[var(--c-text-muted)]">
+	<p class="relative mt-3 text-sm leading-6 text-[var(--c-text-muted)]">
 		<span translate>Входячи, ви приймаєте:</span>
-		<a
-			class="theme-focus rounded-md font-semibold text-[var(--c-primary)] underline"
-			href="/terms"
-			target="_blank"
-			rel="noopener"
-			translate
-		>
+		<a class="link font-semibold" href="/terms" target="_blank" rel="noopener" translate>
 			Умови користування
 		</a>
 		<span aria-hidden="true">·</span>
-		<a
-			class="theme-focus rounded-md font-semibold text-[var(--c-primary)] underline"
-			href="/privacy"
-			target="_blank"
-			rel="noopener"
-			translate
-		>
+		<a class="link font-semibold" href="/privacy" target="_blank" rel="noopener" translate>
 			Політика конфіденційності
 		</a>
 	</p>

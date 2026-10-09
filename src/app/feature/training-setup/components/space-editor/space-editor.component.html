@@ -2,7 +2,7 @@
 
 <div class="flex flex-col gap-8">
 	<fieldset>
-		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+		<legend class="font-display mb-3 text-lg text-[var(--c-text-strong)]" translate>
 			Де ви тренуєтеся
 		</legend>
 		<div class="grid gap-3 sm:grid-cols-2">
@@ -20,7 +20,7 @@
 	</fieldset>
 
 	<fieldset>
-		<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]" translate>
+		<legend class="font-display mb-1 text-lg text-[var(--c-text-strong)]" translate>
 			Вільна площа для тренувань
 		</legend>
 		<p class="mb-3 text-sm text-[var(--c-text)]" translate>
@@ -67,7 +67,7 @@
 			</p>
 		} @else {
 			<button
-				class="theme-focus mt-3 inline-flex min-h-11 items-center gap-2 rounded-md text-sm font-semibold text-[var(--c-primary)]"
+				class="link mt-3 inline-flex min-h-11 items-center gap-2 text-sm"
 				type="button"
 				(click)="showExactFloor.set(true)"
 			>
@@ -80,7 +80,7 @@
 	</fieldset>
 
 	<fieldset>
-		<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]" translate>
+		<legend class="font-display mb-1 text-lg text-[var(--c-text-strong)]" translate>
 			Висота стелі
 		</legend>
 		<p class="mb-3 text-sm text-[var(--c-text)]" translate>
@@ -112,8 +112,8 @@
 		</div>
 	</fieldset>
 
-	<fieldset>
-		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+	<fieldset class="surface min-w-0 p-4 sm:p-5 [&>legend]:float-left [&>legend]:w-full [&>legend+*]:clear-both">
+		<legend class="font-display mb-3 text-lg text-[var(--c-text-strong)]" translate>
 			Покриття
 		</legend>
 		<div class="flex flex-wrap gap-2">
@@ -129,8 +129,8 @@
 		</div>
 	</fieldset>
 
-	<fieldset>
-		<legend class="mb-3 text-base font-semibold text-[var(--c-text-strong)]" translate>
+	<fieldset class="surface min-w-0 p-4 sm:p-5 [&>legend]:float-left [&>legend]:w-full [&>legend+*]:clear-both">
+		<legend class="font-display mb-3 text-lg text-[var(--c-text-strong)]" translate>
 			Чи потрібна тиша?
 		</legend>
 		<div class="flex flex-wrap gap-2">
@@ -151,6 +151,7 @@
 		</div>
 	</fieldset>
 
+	<div class="surface flex flex-col gap-5 p-4 sm:p-5">
 	@for (question of questions; track question.field) {
 		<fieldset>
 			<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]">
@@ -172,9 +173,10 @@
 			</div>
 		</fieldset>
 	}
+	</div>
 
 	<p
-		class="rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-tertiary)] p-4 text-sm leading-6 text-[var(--c-text)]"
+		class="surface-inset p-4 text-sm leading-6 text-[var(--c-text)]"
 		translate
 	>
 		Якщо ви не впевнені, TrainUp не пропонуватиме вправ, яким ця умова потрібна.

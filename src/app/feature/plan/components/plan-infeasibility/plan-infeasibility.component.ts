@@ -10,10 +10,10 @@ import { EXCLUSION_REASONS, INFEASIBILITY_MESSAGES } from '../../plan.const';
 	imports: [RouterLink, TranslateDirective],
 	template: `
 		<section
-			class="rounded-[calc(var(--radius-card)*2)] border border-[var(--c-error)] bg-[var(--c-bg-secondary)] p-5"
+			class="surface border-2 border-[var(--c-error)] p-5"
 			role="alert"
 		>
-			<h2 class="text-lg font-semibold text-[var(--c-text-strong)]" translate>
+			<h2 class="font-display text-xl text-[var(--c-text-strong)]" translate>
 				Не вдалося скласти план
 			</h2>
 			<p class="mt-2 text-sm leading-6 text-[var(--c-text)]" [translate]="message()">
@@ -33,7 +33,7 @@ import { EXCLUSION_REASONS, INFEASIBILITY_MESSAGES } from '../../plan.const';
 							</span>
 							@if (reason.section) {
 								<a
-									class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full px-3 font-semibold text-[var(--c-primary)] hover:bg-[var(--c-bg-tertiary)]"
+									class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full px-3 font-semibold text-[var(--c-primary-text)] hover:bg-[var(--c-bg-tertiary)]"
 									[routerLink]="['/app/profile', reason.section]"
 								>
 									<span class="material-symbols-outlined text-[18px]" aria-hidden="true">tune</span>

@@ -1,20 +1,14 @@
 <header>
-	<a
-		class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary)]"
-		routerLink="/app/profile"
-	>
+	<a class="link inline-flex min-h-11 items-center gap-1 text-sm font-semibold" routerLink="/app/profile">
 		<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
 		<span translate>Профіль</span>
 	</a>
-	<h1
-		class="mt-3 text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
-		translate
-	>
+	<h1 class="font-display mt-2 text-3xl text-[var(--c-text-strong)] sm:text-4xl" translate>
 		Нагадування
 	</h1>
 </header>
 
-<div class="mt-6 flex flex-col gap-6">
+<div class="mt-6 flex flex-col gap-5 pb-28">
 	@let stateValue = state();
 	@switch (stateValue) {
 		@case ('loading') {
@@ -29,86 +23,61 @@
 			/>
 		}
 		@case ('ready') {
-			<label class="flex min-h-11 cursor-pointer items-center gap-3 text-base font-semibold text-[var(--c-text-strong)]">
-				<input
-					class="h-5 w-5 accent-[var(--c-primary)]"
-					type="checkbox"
-					[checked]="enabled()"
-					(change)="enabled.set($any($event.target).checked); saved.set(false)"
-				/>
-				<span translate>Нагадувати про тренування</span>
-			</label>
-
-			@if (enabled()) {
-				<label class="flex max-w-xs flex-col gap-1.5">
-					<span class="text-sm font-semibold text-[var(--c-text-strong)]" translate>Час</span>
+			<section class="surface-raised divide-y divide-[var(--c-border)]">
+				<label
+					class="flex min-h-16 cursor-pointer items-center gap-3 p-4 text-base font-semibold text-[var(--c-text-strong)] sm:p-5"
+				>
+					<span
+						class="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-[var(--c-sun)] text-[var(--c-sun-ink)] dark:bg-[color:color-mix(in_srgb,var(--c-primary)_18%,transparent)] dark:text-[var(--c-primary-text)]"
+						aria-hidden="true"
+					>
+						<span class="material-symbols-outlined text-[22px]">notifications_active</span>
+					</span>
+					<span class="flex-1" translate>Нагадувати про тренування</span>
 					<input
-						class="theme-focus min-h-12 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-base text-[var(--c-text-strong)]"
-						type="time"
-						required
-						[value]="time()"
-						(input)="time.set($any($event.target).value || time()); saved.set(false)"
+						class="h-6 w-6 shrink-0 accent-[var(--c-primary)]"
+						type="checkbox"
+						[checked]="enabled()"
+						(change)="enabled.set($any($event.target).checked); saved.set(false)"
 					/>
 				</label>
 
-				<fieldset>
-					<legend class="mb-3 text-sm font-semibold text-[var(--c-text-strong)]" translate>Дні</legend>
-					<div class="flex flex-wrap gap-2">
-						@for (day of weekdayOptions; track day.value) {
-							<button
-								type="button"
-								appOptionPill
-								[label]="day.label"
-								[selected]="days().includes(day.value)"
-								(click)="toggleDay(day.value)"
-							></button>
-						}
-					</div>
-				</fieldset>
-			}
+				@if (enabled()) {
+					<div class="flex flex-col gap-4 p-4 sm:p-5">
+						<label class="flex max-w-xs flex-col gap-1.5">
+							<span class="text-sm font-semibold text-[var(--c-text-strong)]" translate>Час</span>
+							<input
+								class="field"
+								type="time"
+								required
+								[value]="time()"
+								(input)="time.set($any($event.target).value || time()); saved.set(false)"
+							/>
+						</label>
 
-			<section
-				class="rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-4"
-			>
-				<h2 class="text-base font-semibold text-[var(--c-text-strong)]" translate>Сповіщення</h2>
-				@let permission = reminderService.permission();
-				@switch (permission) {
-					@case ('granted') {
-						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>Сповіщення дозволено.</p>
-					}
-					@case ('default') {
-						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>
-							Дозвольте сповіщення, щоб браузер міг нагадати про тренування.
-						</p>
-						<button
-							class="theme-focus mt-3 inline-flex min-h-11 items-center rounded-full border-2 border-[var(--c-primary)] px-4 text-sm font-semibold text-[var(--c-primary)]"
-							type="button"
-							(click)="reminderService.requestPermission()"
-							translate
-						>
-							Дозволити сповіщення
-						</button>
-					}
-					@case ('denied') {
-						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>
-							Сповіщення заблоковано в налаштуваннях браузера. Нагадування буде видно на сторінці «Сьогодні».
-						</p>
-					}
-					@case ('unsupported') {
-						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>
-							Цей браузер не показує сповіщень. Нагадування буде видно на сторінці «Сьогодні».
-						</p>
-					}
-					@default never;
+						<fieldset>
+							<legend class="mb-3 text-sm font-semibold text-[var(--c-text-strong)]" translate>
+								Дні
+							</legend>
+							<div class="flex flex-wrap gap-2">
+								@for (day of weekdayOptions; track day.value) {
+									<button
+										type="button"
+										appOptionPill
+										[label]="day.label"
+										[selected]="days().includes(day.value)"
+										(click)="toggleDay(day.value)"
+									></button>
+								}
+							</div>
+						</fieldset>
+					</div>
 				}
-				<p class="mt-3 text-xs leading-5 text-[var(--c-text-muted)]" translate>
-					Поки що браузер нагадує, лише коли TrainUp відкритий. Нагадування на закритому телефоні з’являться в мобільному застосунку.
-				</p>
 			</section>
 
 			@if (saveError()) {
 				<p
-					class="rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+					class="surface-inset border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
 					role="alert"
 					translate
 				>
@@ -116,11 +85,11 @@
 				</p>
 			}
 			@if (saved()) {
-				<p class="text-sm font-semibold text-[var(--c-text-strong)]" role="status" translate>Збережено.</p>
+				<p class="chip chip-success self-start" role="status" translate>Збережено.</p>
 			}
 
 			<button
-				class="theme-focus inline-flex min-h-12 items-center justify-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-base font-semibold text-white hover:bg-[var(--c-primary-hover)] disabled:opacity-50"
+				class="btn btn-primary btn-lg btn-block"
 				type="button"
 				[disabled]="saving() || (enabled() && !days().length)"
 				[attr.aria-busy]="saving()"
@@ -133,6 +102,53 @@
 				}
 				<span translate>Зберегти</span>
 			</button>
+
+			<details
+				class="surface-inset"
+				[attr.open]="reminderService.permission() === 'default' ? '' : null"
+			>
+				<summary
+					class="theme-focus flex min-h-12 cursor-pointer items-center gap-2 px-4 text-sm font-semibold text-[var(--c-text-strong)]"
+				>
+					<span class="material-symbols-outlined text-[20px]" aria-hidden="true">notifications</span>
+					<span translate>Сповіщення</span>
+				</summary>
+				<div class="px-4 pb-4">
+					@let permission = reminderService.permission();
+					@switch (permission) {
+						@case ('granted') {
+							<p class="text-sm leading-6 text-[var(--c-text)]" translate>Сповіщення дозволено.</p>
+						}
+						@case ('default') {
+							<p class="text-sm leading-6 text-[var(--c-text)]" translate>
+								Дозвольте сповіщення, щоб браузер міг нагадати про тренування.
+							</p>
+							<button
+								class="btn btn-outline btn-sm mt-3"
+								type="button"
+								(click)="reminderService.requestPermission()"
+								translate
+							>
+								Дозволити сповіщення
+							</button>
+						}
+						@case ('denied') {
+							<p class="text-sm leading-6 text-[var(--c-text)]" translate>
+								Сповіщення заблоковано в налаштуваннях браузера. Нагадування буде видно на сторінці «Сьогодні».
+							</p>
+						}
+						@case ('unsupported') {
+							<p class="text-sm leading-6 text-[var(--c-text)]" translate>
+								Цей браузер не показує сповіщень. Нагадування буде видно на сторінці «Сьогодні».
+							</p>
+						}
+						@default never;
+					}
+					<p class="mt-3 text-xs leading-5 text-[var(--c-text-muted)]" translate>
+						Поки що браузер нагадує, лише коли TrainUp відкритий. Нагадування на закритому телефоні з’являться в мобільному застосунку.
+					</p>
+				</div>
+			</details>
 		}
 		@default never;
 	}

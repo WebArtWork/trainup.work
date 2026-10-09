@@ -48,8 +48,20 @@ export class PlanComponent {
 		return [...weeks].map(([week, days]) => ({ week, days }));
 	});
 
+	/** Week holding the next upcoming (or today's) workout; expanded by default. */
+	protected readonly currentWeek = computed(() => {
+		const weeks = this.weeks();
+		const upcoming = weeks.find((week) => week.days.some((day) => day.date >= this.today));
+
+		return (upcoming ?? weeks[weeks.length - 1])?.week ?? 1;
+	});
+
 	constructor() {
 		void this._load();
+	}
+
+	protected weekDone(week: PlanWeek): number {
+		return week.days.filter((day) => this.completed().has(day.index)).length;
 	}
 
 	protected dateLabel(day: PlanDay): string {

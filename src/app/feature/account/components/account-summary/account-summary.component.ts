@@ -38,8 +38,17 @@ interface SummaryLine {
 interface SummarySection {
 	id: AccountSection;
 	title: string;
+	icon: string;
 	lines: SummaryLine[];
 }
+
+const SECTION_ICONS: Record<AccountSection, string> = {
+	goal: 'flag',
+	schedule: 'calendar_month',
+	equipment: 'fitness_center',
+	space: 'home',
+	limitations: 'health_and_safety',
+};
 
 const NOT_SET: SummaryValue = { text: 'Не вказано', translate: true };
 
@@ -66,6 +75,7 @@ export class AccountSummaryComponent {
 		return ACCOUNT_SECTIONS.map((section) => ({
 			id: section.id,
 			title: section.title,
+			icon: SECTION_ICONS[section.id],
 			lines: lines[section.id],
 		}));
 	});

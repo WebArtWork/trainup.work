@@ -1,41 +1,73 @@
-/* Design tokens (CSS variables). Runtime-themable; keep SCSS using var(--token) */
+/*
+ * Design tokens. Two deliberately different designs share one token contract:
+ *   light = "Sunrise"        warm cream, coral-orange, chunky + tactile, flat blocks, hard offset shadows
+ *   dark  = "Midnight Focus" deep navy, electric violet, layered surfaces, inset rims + colour bloom
+ *
+ * Keys managed by ThemeService (primary, bg-*, border, danger, shadows, radius-*, ff-base, focus-ring,
+ * on-*) are ALSO set inline at runtime from `src/app/theme/theme.config.ts`; that file must mirror the
+ * values below. This stylesheet is the SSR/prerender + first-paint source of truth.
+ */
 :root {
   color-scheme: light;
 
-  /* brand / actions */
-  --c-primary: #c2410c;
-  --c-primary-hover: #9a3412;
-  --c-secondary: #0f766e;
-  --c-secondary-hover: #115e59;
+  /* ---------- Sunrise (light) ---------- */
+  /* brand / actions: AA with white text on --c-primary; --c-primary-text is the AA link/icon colour */
+  --c-primary: #d6410f;
+  --c-primary-hover: #b8340a;
+  --c-primary-text: #b8340a;
+  --c-on-primary: #ffffff;
+  --c-secondary: #0b6b5f;
+  --c-secondary-hover: #08564c;
+  --c-on-secondary: #ffffff;
+  --c-sun: #ffc93c;
+  --c-sun-ink: #2a160c;
 
-  /* feedback: AA contrast on surfaces in both modes */
-  --c-error: #b91c1c;
+  /* feedback (text-safe on the surfaces below) */
+  --c-success: #1b7f4b;
+  --c-warning: #9a5b00;
+  --c-error: #b3261e;
+  --c-danger: #b3261e;
+  --c-on-danger: #ffffff;
 
   /* surfaces */
-  --c-bg-primary: #f3f4f7;
+  --c-bg-primary: #fff8f0;
   --c-bg-secondary: #ffffff;
-  --c-bg-tertiary: #fcfdfe;
+  --c-bg-tertiary: #ffefd9;
 
   /* content */
-  --c-text: #5f6066;
-  --c-text-strong: #17224f;
-  --c-text-muted: #8b8d94;
-  --c-placeholder: #313335ab;
+  --c-text: #4d3a2c;
+  --c-text-strong: #2a160c;
+  --c-text-muted: #7a6552;
+  --c-placeholder: #8c7763;
 
-  /* borders & elevation */
-  --c-border: #eceef5;
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.06);
-  --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.08);
+  /* borders & depth: flat blocks + hard offset ("sticker") shadow */
+  --c-border: #f0dfcb;
+  --c-border-strong: #e0c6a4;
+  --shadow-sm: 0 3px 0 #f0dfcb;
+  --shadow-md: 0 6px 0 #e8d3b8;
+  --elev-card: 0 3px 0 #f0dfcb;
+  --elev-raised: 0 6px 0 #e8d3b8;
+  --elev-pop: 0 14px 32px -12px rgba(138, 54, 15, 0.35), 0 0 0 2px #f0dfcb;
+  --card-border-w: 2px;
+  --card-border-c: var(--c-border);
+  --btn-shadow: 0 4px 0 #8f2a06;
+  --btn-shadow-pressed: 0 1px 0 #8f2a06;
+  --ring-track: #f6e3c8;
+  --hero-glow: radial-gradient(60% 60% at 85% 0%, rgba(255, 201, 60, 0.45), transparent 70%);
 
   /* typography */
-  --ff-base: 'Poppins', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  --ff-base: 'Sora', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  --ff-display: 'Sora', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
   --fs: 16px;
-  --letter-spacing: 0.3px;
+  --letter-spacing: 0;
+  --display-weight: 700;
+  --display-tracking: -0.03em;
 
-  /* radius (default rounded) */
-  --radius: 8px;
-  --radius-card: 10px;
-  --radius-btn: 10px;
+  /* shape: chunky */
+  --radius: 14px;
+  --radius-card: 22px;
+  --radius-btn: 999px;
+  --radius-pill: 999px;
 
   /* spacing (default comfortable) */
   --sp-0: 0px;
@@ -63,33 +95,77 @@
   --motion-slow: 0.4s;
 
   /* focus */
-  --focus-ring: 0 0 0 3px rgba(234, 88, 12, 0.35);
+  --focus-ring: 0 0 0 3px #fff8f0, 0 0 0 6px rgba(184, 52, 10, 0.75);
 }
 
 /* ========= modes ========= */
 html[data-mode='dark'] {
   color-scheme: dark;
 
-  /* surfaces */
-  --c-bg-primary: #282828;
-  --c-bg-secondary: #343434;
-  --c-bg-tertiary: #404040;
+  /* ---------- Midnight Focus (dark) ---------- */
+  --c-primary: #6a5af0;
+  --c-primary-hover: #5b4ae4;
+  --c-primary-text: #a99fff;
+  --c-on-primary: #ffffff;
+  --c-secondary: #34d3b8;
+  --c-secondary-hover: #5ee3cb;
+  --c-on-secondary: #06201c;
+  --c-sun: #a99fff;
+  --c-sun-ink: #0b0f1c;
 
-  /* borders & elevation */
-  --c-border: #404040;
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
-  --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.45);
+  --c-success: #5be2a0;
+  --c-warning: #ffc857;
+  --c-error: #ff8a8a;
+  --c-danger: #ff8a8a;
+  --c-on-danger: #2a0a0a;
 
-  /* content */
-  --c-text: #e8e8e8;
-  --c-text-strong: #ffffff;
-  --c-text-muted: #b7b7b7;
-  --c-placeholder: #d3cdcd;
+  /* stepped surfaces: page < card < raised */
+  --c-bg-primary: #0b0f1c;
+  --c-bg-secondary: #121829;
+  --c-bg-tertiary: #1a2136;
 
-  --c-error: #fca5a5;
+  --c-text: #b7bfd6;
+  --c-text-strong: #f3f5fc;
+  --c-text-muted: #8993b0;
+  --c-placeholder: #7480a0;
 
-  /* focus (keeps using primary) */
-  --focus-ring: 0 0 0 3px rgba(234, 88, 12, 0.35);
+  /* depth: inset top rim + hairline instead of drop shadows */
+  --c-border: #232b44;
+  --c-border-strong: #313b5e;
+  --shadow-sm:
+    inset 0 1px 0 0 rgba(255, 255, 255, 0.07), inset 0 0 0 1px rgba(255, 255, 255, 0.04),
+    0 0 0 1px rgba(0, 0, 0, 0.35), 0 1px 1px -0.5px rgba(0, 0, 0, 0.3);
+  --shadow-md:
+    inset 0 1px 0 0 rgba(255, 255, 255, 0.08), inset 0 0 0 1px rgba(255, 255, 255, 0.04),
+    0 0 0 1px rgba(0, 0, 0, 0.35), 0 3px 3px -1.5px rgba(0, 0, 0, 0.3),
+    0 12px 24px -8px rgba(106, 90, 240, 0.18);
+  --elev-card: var(--shadow-sm);
+  --elev-raised: var(--shadow-md);
+  --elev-pop:
+    inset 0 1px 0 0 rgba(255, 255, 255, 0.08), inset 0 0 0 1px rgba(255, 255, 255, 0.05),
+    0 0 0 1px rgba(0, 0, 0, 0.5), 0 12px 12px -6px rgba(0, 0, 0, 0.45),
+    0 24px 48px -12px rgba(106, 90, 240, 0.3);
+  --card-border-w: 0px;
+  --card-border-c: transparent;
+  --btn-shadow:
+    inset 0 1px 0 0 rgba(255, 255, 255, 0.28), 0 0 0 1px rgba(169, 159, 255, 0.45),
+    0 6px 18px -4px rgba(106, 90, 240, 0.55);
+  --btn-shadow-pressed: inset 0 1px 2px 0 rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(169, 159, 255, 0.45);
+  --ring-track: #232b44;
+  --hero-glow: radial-gradient(70% 60% at 50% -10%, rgba(106, 90, 240, 0.32), transparent 70%);
+
+  --ff-base: 'Geist', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  --ff-display: 'Geist', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  --letter-spacing: -0.005em;
+  --display-weight: 600;
+  --display-tracking: -0.035em;
+
+  /* shape: precise */
+  --radius: 10px;
+  --radius-card: 16px;
+  --radius-btn: 12px;
+
+  --focus-ring: 0 0 0 2px #0b0f1c, 0 0 0 4px rgba(169, 159, 255, 0.9);
 }
 
 /* ========= density ========= */

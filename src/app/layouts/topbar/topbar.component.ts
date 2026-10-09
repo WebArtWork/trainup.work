@@ -1,5 +1,5 @@
-import { NgOptimizedImage } from '@angular/common';
-import { Component, computed, inject, signal } from '@angular/core';
+import { DOCUMENT, NgOptimizedImage } from '@angular/common';
+import { booleanAttribute, Component, computed, inject, input, signal } from '@angular/core';
 import { Router, RouterLink } from '@angular/router';
 import { LanguageService, TranslateDirective, TranslateService } from '@wawjs/ngx-translate';
 import { ThemeService } from '@wawjs/ngx-ui';
@@ -19,6 +19,10 @@ export class TopbarComponent {
 	private readonly _languageService = inject(LanguageService);
 	private readonly _companyService = inject(CompanyService);
 	private readonly _router = inject(Router);
+	private readonly _doc = inject(DOCUMENT);
+
+	/** Show the "open app" call to action (marketing pages). */
+	readonly cta = input(false, { transform: booleanAttribute });
 
 	protected readonly mode = computed(() => this._themeService.mode() ?? 'light');
 	protected readonly languageMenuOpen = signal(false);
@@ -50,7 +54,14 @@ export class TopbarComponent {
 
 	protected toggleMode() {
 		const nextMode = this.mode() === 'dark' ? 'light' : 'dark';
+		const root = this._doc.documentElement;
+
+		// Freeze transitions for two frames so the whole palette swaps at once.
+		root.classList.add('theme-switching');
 		this._themeService.setMode(nextMode);
+		requestAnimationFrame(() =>
+			requestAnimationFrame(() => root.classList.remove('theme-switching')),
+		);
 	}
 
 	protected async nextLanguage() {

@@ -547,5 +547,8 @@
 	"Does TrainUp replace a coach or a doctor?",
 	"No. TrainUp does not diagnose or treat anything. If you have a medical condition or an injury, talk to a doctor before you start training.",
 	"What data do you store, and can I delete it?",
-	"Only what the plan needs: your profile, equipment, space, limitations and workout history. Data is stored in the EU, and you can download it or delete your account at any time."
+	"Only what the plan needs: your profile, equipment, space, limitations and workout history. Data is stored in the EU, and you can download it or delete your account at any time.",
+	"Build a plan for your space",
+	"Choose your goal, level, schedule, equipment and free space. TrainUp builds an achievable programme and adapts later sessions to how you feel.",
+	"The web version is available now, phone apps are coming soon"
 ]

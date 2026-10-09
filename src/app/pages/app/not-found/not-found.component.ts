@@ -13,7 +13,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 			text="Можливо, посилання застаріло. Поверніться на головну сторінку застосунку."
 		>
 			<a
-				class="theme-focus inline-flex min-h-12 items-center justify-center rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-base font-semibold text-white"
+				class="btn btn-primary btn-lg"
 				routerLink="/app/today"
 				translate
 			>

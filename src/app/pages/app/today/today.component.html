@@ -1,8 +1,5 @@
-<header>
-	<h1
-		class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
-		translate
-	>
+<header class="hero-glow">
+	<h1 class="font-display text-4xl leading-tight text-[var(--c-text-strong)] sm:text-5xl" translate>
 		Сьогодні
 	</h1>
 	@if (firstName(); as name) {
@@ -11,15 +8,12 @@
 </header>
 
 @if (catalog.usesDrafts) {
-	<p
-		class="mt-4 rounded-[var(--radius-card)] border border-dashed border-[var(--c-border)] p-3 text-xs leading-5 text-[var(--c-text-muted)]"
-		translate
-	>
+	<p class="surface-inset mt-4 p-3 text-xs leading-5 text-[var(--c-text-muted)]" translate>
 		Режим розробки: план складається з чернеток вправ, які ще не перевірив фахівець.
 	</p>
 }
 
-<div class="mt-6 flex flex-col gap-4">
+<div class="mt-6 flex flex-col gap-5">
 	@let stateValue = state();
 	@switch (stateValue) {
 		@case ('loading') {
@@ -32,12 +26,7 @@
 				title="Не вдалося завантажити план"
 				text="Перевірте з’єднання з інтернетом і спробуйте ще раз."
 			>
-				<button
-					class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-sm font-semibold text-[var(--c-text-strong)]"
-					type="button"
-					(click)="load()"
-					translate
-				>
+				<button class="btn btn-outline" type="button" (click)="load()" translate>
 					Спробувати ще раз
 				</button>
 			</app-state-message>
@@ -56,7 +45,7 @@
 					text="TrainUp підбере вправи під вашу ціль, обладнання, простір і графік на 4 тижні."
 				>
 					<button
-						class="theme-focus inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white hover:bg-[var(--c-primary-hover)] disabled:opacity-60"
+						class="btn btn-primary btn-lg"
 						type="button"
 						[disabled]="generating()"
 						[attr.aria-busy]="generating()"
@@ -71,16 +60,52 @@
 					</button>
 				</app-state-message>
 			} @else {
+				@if (todayDay(); as day) {
+					@if (completed().has(day.index)) {
+						<app-session-card [day]="day" [done]="true" [limit]="3" />
+					}
+				}
+
+				@if (nextDay(); as day) {
+					@if (day !== todayDay()) {
+						<h2 class="font-display text-xl text-[var(--c-text-strong)]" translate>
+							Наступне тренування
+						</h2>
+					}
+					<app-session-card [day]="day" [progress]="progress()">
+						<a class="btn btn-primary btn-lg btn-block" [routerLink]="['/app/workout', day.index]">
+							<span class="material-symbols-outlined text-[24px]" aria-hidden="true">play_arrow</span>
+							<span translate>Почати тренування</span>
+						</a>
+					</app-session-card>
+				} @else {
+					<app-state-message
+						icon="emoji_events"
+						title="План завершено"
+						text="Ви пройшли всі тренування цього плану. Складіть новий, щоб продовжити."
+					>
+						<button
+							class="btn btn-primary btn-lg"
+							type="button"
+							[disabled]="generating()"
+							(click)="generate()"
+							translate
+						>
+							Скласти новий план
+						</button>
+					</app-state-message>
+				}
+
 				@if (planService.isOutdated()) {
 					<div
-						class="flex flex-col gap-3 rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-primary)] bg-[var(--c-bg-secondary)] p-4 sm:flex-row sm:items-center sm:justify-between"
+						class="surface flex flex-col gap-3 border-2 border-[var(--c-primary)] p-4 sm:flex-row sm:items-center sm:justify-between"
 						role="status"
 					>
 						<p class="text-sm leading-6 text-[var(--c-text)]" translate>
 							Ваші налаштування змінилися. Оновіть план, щоб наступні тренування їх врахували; виконані тренування збережуться.
 						</p>
 						<button
-							class="theme-focus inline-flex min-h-11 shrink-0 items-center justify-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-4 text-sm font-semibold text-white disabled:opacity-60"
+							class="btn btn-outline btn-sm shrink-0"
 							type="button"
 							[disabled]="generating()"
 							[attr.aria-busy]="generating()"
@@ -94,14 +119,14 @@
 
 				@if (planService.needsReview()) {
 					<div
-						class="flex flex-col gap-3 rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-error)] bg-[var(--c-bg-secondary)] p-4 sm:flex-row sm:items-center sm:justify-between"
+						class="surface flex flex-col gap-3 border-2 border-[var(--c-error)] p-4 sm:flex-row sm:items-center sm:justify-between"
 						role="status"
 					>
 						<p class="text-sm leading-6 text-[var(--c-text)]" translate>
 							Деякі вправи призупинено через біль, а вони ще є в наступних тренуваннях. Оновіть план, щоб їх замінити.
 						</p>
 						<button
-							class="theme-focus inline-flex min-h-11 shrink-0 items-center justify-center rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-4 text-sm font-semibold text-white disabled:opacity-60"
+							class="btn btn-outline btn-sm shrink-0"
 							type="button"
 							[disabled]="generating()"
 							(click)="generate()"
@@ -112,7 +137,7 @@
 					</div>
 				} @else if (adjustmentSuggestion(); as suggestion) {
 					<div
-						class="flex flex-col gap-3 rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-primary)] bg-[var(--c-bg-secondary)] p-4 sm:flex-row sm:items-center sm:justify-between"
+						class="surface flex flex-col gap-3 border-2 border-[var(--c-primary)] p-4 sm:flex-row sm:items-center sm:justify-between"
 						role="status"
 					>
 						<p class="text-sm leading-6 text-[var(--c-text)]">
@@ -125,7 +150,7 @@
 							}
 						</p>
 						<button
-							class="theme-focus inline-flex min-h-11 shrink-0 items-center justify-center rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-4 text-sm font-semibold text-white disabled:opacity-60"
+							class="btn btn-outline btn-sm shrink-0"
 							type="button"
 							[disabled]="generating()"
 							(click)="generate()"
@@ -136,83 +161,34 @@
 					</div>
 				}
 
-				@if (todayDay(); as day) {
-					@if (completed().has(day.index)) {
-						<app-session-card [day]="day" [done]="true" />
-					}
-				}
-
-				@if (nextDay(); as day) {
-					@if (day !== todayDay()) {
-						<h2 class="text-base font-semibold text-[var(--c-text-strong)]" translate>
-							Наступне тренування
-						</h2>
-					}
-					<app-session-card [day]="day">
-						<a
-							class="theme-focus inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white hover:bg-[var(--c-primary-hover)]"
-							[routerLink]="['/app/workout', day.index]"
-						>
-							<span class="material-symbols-outlined text-[20px]" aria-hidden="true">play_arrow</span>
-							<span translate>Почати тренування</span>
-						</a>
-					</app-session-card>
-				} @else {
-					<app-state-message
-						icon="emoji_events"
-						title="План завершено"
-						text="Ви пройшли всі тренування цього плану. Складіть новий, щоб продовжити."
-					>
-						<button
-							class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white disabled:opacity-60"
-							type="button"
-							[disabled]="generating()"
-							(click)="generate()"
-							translate
-						>
-							Скласти новий план
-						</button>
-					</app-state-message>
-				}
-
-				<nav class="flex flex-wrap gap-3" [translate]="{ ariaLabel: 'План і історія' }">
-					<a
-						class="theme-focus inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-[var(--c-border)] px-4 text-sm font-semibold text-[var(--c-text-strong)]"
-						routerLink="/app/plan"
-					>
-						<span class="material-symbols-outlined text-[18px]" aria-hidden="true">calendar_month</span>
-						<span translate>Весь план</span>
-					</a>
-					<a
-						class="theme-focus inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-[var(--c-border)] px-4 text-sm font-semibold text-[var(--c-text-strong)]"
-						routerLink="/app/history"
-					>
-						<span class="material-symbols-outlined text-[18px]" aria-hidden="true">history</span>
-						<span translate>Історія</span>
-					</a>
-				</nav>
-
-				<section class="mt-2" aria-labelledby="today-todos-title">
-					<div class="mb-3 flex items-baseline justify-between gap-3">
-						<h2 id="today-todos-title" class="text-base font-semibold text-[var(--c-text-strong)]" translate>
+				<section aria-labelledby="today-todos-title">
+					<div class="mb-3 flex items-center justify-between gap-3">
+						<h2 id="today-todos-title" class="font-display text-xl text-[var(--c-text-strong)]" translate>
 							Справи на сьогодні
 						</h2>
-						<a
-							class="theme-focus inline-flex min-h-11 items-center rounded-full px-3 text-sm font-semibold text-[var(--c-primary)] hover:bg-[var(--c-bg-tertiary)]"
-							routerLink="/app/todos"
-							translate
-						>
+						<a class="link inline-flex min-h-11 items-center text-sm font-semibold" routerLink="/app/todos" translate>
 							Усі справи
 						</a>
 					</div>
 					<app-todo-list [todos]="todoService.forToday()" compact />
 				</section>
 
+				<nav class="grid grid-cols-2 gap-3" [translate]="{ ariaLabel: 'План і історія' }">
+					<a class="btn btn-outline" routerLink="/app/plan">
+						<span class="material-symbols-outlined text-[20px]" aria-hidden="true">calendar_month</span>
+						<span translate>Весь план</span>
+					</a>
+					<a class="btn btn-outline" routerLink="/app/history">
+						<span class="material-symbols-outlined text-[20px]" aria-hidden="true">history</span>
+						<span translate>Історія</span>
+					</a>
+				</nav>
+
 				<a
-					class="theme-focus flex min-h-12 items-center gap-3 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 py-3 text-sm"
+					class="surface theme-focus flex min-h-12 items-center gap-3 px-4 py-3 text-sm"
 					routerLink="/app/reminders"
 				>
-					<span class="material-symbols-outlined text-[20px] text-[var(--c-primary)]" aria-hidden="true">
+					<span class="material-symbols-outlined text-[20px] text-[var(--c-primary-text)]" aria-hidden="true">
 						notifications
 					</span>
 					@if (reminderSummary(); as reminder) {
@@ -237,7 +213,7 @@
 
 			@if (generateError()) {
 				<p
-					class="rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+					class="surface border-2 border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
 					role="alert"
 					translate
 				>

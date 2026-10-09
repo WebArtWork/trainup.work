@@ -10,24 +10,27 @@ export type StateMessageTone = 'neutral' | 'loading' | 'error';
 	host: { class: 'block' },
 	template: `
 		<div
-			class="flex flex-col items-center rounded-[calc(var(--radius-card)*2)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-6 py-10 text-center"
+			class="surface flex flex-col items-center px-6 py-10 text-center"
 			[attr.role]="tone() === 'error' ? 'alert' : 'status'"
 		>
 			<span
-				class="material-symbols-outlined text-[40px]"
+				class="flex h-16 w-16 items-center justify-center rounded-full"
 				[class]="
 					tone() === 'error'
-						? 'text-[var(--c-error)]'
-						: tone() === 'loading'
-							? 'animate-spin text-[var(--c-primary)]'
-							: 'text-[var(--c-primary)]'
+						? 'bg-[color:color-mix(in_srgb,var(--c-error)_14%,transparent)] text-[var(--c-error)]'
+						: 'bg-[var(--c-bg-tertiary)] text-[var(--c-primary-text)]'
 				"
-				aria-hidden="true"
 			>
-				{{ tone() === 'loading' ? 'progress_activity' : icon() }}
+				<span
+					class="material-symbols-outlined text-[36px]"
+					[class.animate-spin]="tone() === 'loading'"
+					aria-hidden="true"
+				>
+					{{ tone() === 'loading' ? 'progress_activity' : icon() }}
+				</span>
 			</span>
 			<h2
-				class="mt-3 text-lg font-semibold text-[var(--c-text-strong)]"
+				class="font-display mt-4 text-xl text-[var(--c-text-strong)]"
 				[translate]="title()"
 			>
 				{{ title() }}

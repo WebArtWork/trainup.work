@@ -1,12 +1,12 @@
 <a
-	class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary)]"
+	class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary-text)]"
 	routerLink="/app/explore"
 >
 	<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
 	<span translate>Вправи</span>
 </a>
 
-<div class="mt-3">
+<div class="mt-3 pb-28">
 	@let stateValue = state();
 	@switch (stateValue) {
 		@case ('loading') {
@@ -23,42 +23,50 @@
 		@case ('ready') {
 			@if (exercise(); as item) {
 				@let info = facts()!;
-				<h1 class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl">
-					{{ item.name }}
-				</h1>
-				<p class="mt-1 text-sm text-[var(--c-text-muted)]">
-					<span [translate]="info.category">{{ info.category }}</span> ·
-					<span [translate]="info.pattern">{{ info.pattern }}</span> ·
-					<span [translate]="info.level">{{ info.level }}</span>
-				</p>
-
-				@if (item.status !== 'published') {
-					<p
-						class="mt-3 rounded-[var(--radius-card)] border border-dashed border-[var(--c-border)] p-3 text-xs leading-5 text-[var(--c-text-muted)]"
-						translate
-					>
-						Чернетка: опис ще не перевірив фахівець.
-					</p>
-				}
 
 				<div
-					class="mt-4 flex aspect-[16/9] items-center justify-center rounded-[calc(var(--radius-card)*1.6)] bg-[var(--c-bg-tertiary)]"
+					class="surface-raised flex aspect-[16/10] items-center justify-center overflow-hidden bg-[var(--c-bg-tertiary)]"
 				>
 					@if (item.imageUrl) {
-						<img class="h-full w-full rounded-[inherit] object-cover" [src]="item.imageUrl" alt="" />
+						<img
+							class="h-full w-full object-cover"
+							[src]="item.imageUrl"
+							alt=""
+							decoding="async"
+						/>
 					} @else {
-						<span class="material-symbols-outlined text-[64px] text-[var(--c-text-muted)]" aria-hidden="true">
+						<span class="material-symbols-outlined text-[72px] text-[var(--c-text-muted)]" aria-hidden="true">
 							fitness_center
 						</span>
 					}
 				</div>
 
-				@if (reasons().length) {
-					<section
-						class="mt-4 rounded-[calc(var(--radius-card)*1.6)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-4"
+				<h1 class="font-display mt-5 text-3xl leading-tight text-[var(--c-text-strong)] sm:text-4xl">
+					{{ item.name }}
+				</h1>
+
+				<ul class="mt-3 flex flex-wrap gap-2">
+					<li class="chip chip-sun" [translate]="info.category">{{ info.category }}</li>
+					<li class="chip" [translate]="info.pattern">{{ info.pattern }}</li>
+					<li class="chip" [translate]="info.level">{{ info.level }}</li>
+				</ul>
+
+				@if (item.status !== 'published') {
+					<p
+						class="surface-inset mt-4 flex items-start gap-2 p-3 text-xs leading-5 text-[var(--c-text-muted)]"
 					>
-						<h2 class="text-base font-semibold text-[var(--c-text-strong)]" translate>
-							Чому ця вправа вам не підходить
+						<span class="material-symbols-outlined text-[18px]" aria-hidden="true">edit_note</span>
+						<span translate>Чернетка: опис ще не перевірив фахівець.</span>
+					</p>
+				}
+
+				@if (reasons().length) {
+					<section class="surface mt-5 border-[var(--c-warning)] p-4">
+						<h2 class="font-display flex items-center gap-2 text-lg text-[var(--c-text-strong)]">
+							<span class="material-symbols-outlined text-[22px] text-[var(--c-warning)]" aria-hidden="true">
+								block
+							</span>
+							<span translate>Чому ця вправа вам не підходить</span>
 						</h2>
 						<ul class="mt-2 divide-y divide-[var(--c-border)]">
 							@for (reason of reasons(); track reason.reason) {
@@ -66,7 +74,7 @@
 									<span class="text-[var(--c-text)]" [translate]="reason.label">{{ reason.label }}</span>
 									@if (reason.section) {
 										<a
-											class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full px-3 font-semibold text-[var(--c-primary)] hover:bg-[var(--c-bg-tertiary)]"
+											class="link theme-focus inline-flex min-h-11 items-center gap-1 rounded-full px-3 font-semibold"
 											[routerLink]="['/app/profile', reason.section]"
 										>
 											<span translate>Змінити</span>
@@ -78,29 +86,60 @@
 					</section>
 				}
 
-				<p class="mt-4 text-base leading-7 text-[var(--c-text)]">{{ item.description }}</p>
+				<p class="mt-5 text-base leading-7 text-[var(--c-text)]">{{ item.description }}</p>
 
-				<h2 class="mt-6 text-lg font-semibold text-[var(--c-text-strong)]" translate>Як виконувати</h2>
-				<ol class="mt-2 list-decimal space-y-2 pl-5 text-sm leading-6 text-[var(--c-text)]">
+				<h2 class="font-display mt-8 text-2xl text-[var(--c-text-strong)]" translate>Як виконувати</h2>
+				<ol class="mt-3 flex flex-col gap-3">
 					@for (step of item.steps; track $index) {
-						<li>{{ step }}</li>
+						<li class="flex items-start gap-3">
+							<span
+								class="chip-sun font-display flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-base"
+								aria-hidden="true"
+							>
+								{{ $index + 1 }}
+							</span>
+							<span class="pt-1 text-base leading-7 text-[var(--c-text)]">{{ step }}</span>
+						</li>
 					}
 				</ol>
-				@for (note of item.techniqueNotes; track $index) {
-					<p class="mt-2 text-sm leading-6 text-[var(--c-text-muted)]">{{ note }}</p>
-				}
-				@for (warning of item.warnings; track $index) {
-					<p class="mt-2 flex gap-2 text-sm leading-6 text-[var(--c-text)]">
-						<span class="material-symbols-outlined text-[18px] text-[var(--c-primary)]" aria-hidden="true">
-							warning
-						</span>
-						{{ warning }}
-					</p>
+
+				@if (item.techniqueNotes.length) {
+					<ul class="surface-inset mt-4 flex flex-col gap-2 p-4">
+						@for (note of item.techniqueNotes; track $index) {
+							<li class="flex items-start gap-2 text-sm leading-6 text-[var(--c-text)]">
+								<span
+									class="material-symbols-outlined text-[18px] text-[var(--c-primary-text)]"
+									aria-hidden="true"
+								>
+									lightbulb
+								</span>
+								<span>{{ note }}</span>
+							</li>
+						}
+					</ul>
 				}
 
-				<h2 class="mt-6 text-lg font-semibold text-[var(--c-text-strong)]" translate>Що потрібно</h2>
-				<dl class="mt-2 divide-y divide-[var(--c-border)] rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-secondary)] px-4 text-sm">
-					<div class="flex justify-between gap-4 py-2.5">
+				@if (item.warnings.length) {
+					<ul
+						class="mt-4 flex flex-col gap-2 rounded-[var(--radius-card)] border-2 border-[var(--c-warning)] bg-[color:color-mix(in_srgb,var(--c-warning)_10%,var(--c-bg-secondary))] p-4"
+					>
+						@for (warning of item.warnings; track $index) {
+							<li class="flex items-start gap-2 text-sm font-medium leading-6 text-[var(--c-text-strong)]">
+								<span
+									class="material-symbols-outlined text-[20px] text-[var(--c-warning)]"
+									aria-hidden="true"
+								>
+									warning
+								</span>
+								<span>{{ warning }}</span>
+							</li>
+						}
+					</ul>
+				}
+
+				<h2 class="font-display mt-8 text-2xl text-[var(--c-text-strong)]" translate>Що потрібно</h2>
+				<dl class="surface mt-3 divide-y divide-[var(--c-border)] px-4 text-sm">
+					<div class="flex justify-between gap-4 py-3">
 						<dt class="text-[var(--c-text-muted)]" translate>Обладнання</dt>
 						<dd class="text-right text-[var(--c-text-strong)]">
 							@for (group of info.equipment; track $index) {
@@ -117,14 +156,14 @@
 							}
 						</dd>
 					</div>
-					<div class="flex justify-between gap-4 py-2.5">
+					<div class="flex justify-between gap-4 py-3">
 						<dt class="text-[var(--c-text-muted)]" translate>Вільна площа</dt>
 						<dd class="text-[var(--c-text-strong)]">
 							{{ info.space.lengthM }} × {{ info.space.widthM }} <span translate>м</span>
 						</dd>
 					</div>
 					@if (info.space.heightM) {
-						<div class="flex justify-between gap-4 py-2.5">
+						<div class="flex justify-between gap-4 py-3">
 							<dt class="text-[var(--c-text-muted)]" translate>Висота стелі</dt>
 							<dd class="text-[var(--c-text-strong)]">
 								{{ info.space.heightM }} <span translate>м</span>
@@ -132,16 +171,16 @@
 						</div>
 					}
 					@if (info.space.needsFloorContact) {
-						<div class="py-2.5 text-[var(--c-text-strong)]" translate>Потрібно лягати на підлогу</div>
+						<div class="py-3 text-[var(--c-text-strong)]" translate>Потрібно лягати на підлогу</div>
 					}
 					@if (info.space.needsAnchor) {
-						<div class="py-2.5 text-[var(--c-text-strong)]" translate>Потрібна надійна точка кріплення</div>
+						<div class="py-3 text-[var(--c-text-strong)]" translate>Потрібна надійна точка кріплення</div>
 					}
-					<div class="flex justify-between gap-4 py-2.5">
+					<div class="flex justify-between gap-4 py-3">
 						<dt class="text-[var(--c-text-muted)]" translate>М’язи</dt>
-						<dd class="flex flex-wrap justify-end gap-x-3 text-[var(--c-text-strong)]">
+						<dd class="flex flex-wrap justify-end gap-2 text-[var(--c-text-strong)]">
 							@for (muscle of info.muscles; track muscle) {
-								<span [translate]="muscle">{{ muscle }}</span>
+								<span class="chip" [translate]="muscle">{{ muscle }}</span>
 							}
 						</dd>
 					</div>

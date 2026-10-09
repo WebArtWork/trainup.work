@@ -8,9 +8,9 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 @Component({
 	imports: [RouterLink, TranslateDirective],
 	template: `
-		<article class="mx-auto max-w-3xl px-4 py-10 sm:px-6 sm:py-14">
+		<article class="page-wrap max-w-[65ch] py-10 sm:py-14">
 			<h1
-				class="text-3xl font-semibold tracking-[-0.03em] text-[var(--c-text-strong)] sm:text-4xl"
+				class="font-display text-4xl leading-tight text-[var(--c-text-strong)] sm:text-5xl"
 				[translate]="doc.title"
 			>
 				{{ doc.title }}
@@ -18,14 +18,14 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 			<p class="mt-2 text-sm text-[var(--c-text-muted)]" [translate]="doc.updated">
 				{{ doc.updated }}
 			</p>
-			<p class="mt-6 text-base leading-8 text-[var(--c-text)]" [translate]="doc.intro">
+			<p class="mt-6 text-lg leading-8 text-[var(--c-text-strong)]" [translate]="doc.intro">
 				{{ doc.intro }}
 			</p>
 
 			@for (section of doc.sections; track section.title) {
-				<section class="mt-8">
+				<section class="mt-10">
 					<h2
-						class="text-xl font-semibold text-[var(--c-text-strong)]"
+						class="font-display text-2xl text-[var(--c-text-strong)]"
 						[translate]="section.title"
 					>
 						{{ section.title }}
@@ -45,8 +45,8 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 				</section>
 			}
 
-			<section class="mt-8">
-				<h2 class="text-xl font-semibold text-[var(--c-text-strong)]" translate>Зв’язок</h2>
+			<section class="mt-10">
+				<h2 class="font-display text-2xl text-[var(--c-text-strong)]" translate>Зв’язок</h2>
 				@if (company().email) {
 					<p
 						class="mt-3 text-base leading-8 text-[var(--c-text)]"
@@ -63,16 +63,16 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 			</section>
 
 			<nav
-				class="mt-10 flex flex-wrap gap-x-6 gap-y-2 border-t border-[var(--c-border)] pt-6 text-sm font-semibold"
+				class="mt-12 flex flex-wrap gap-x-6 gap-y-1 border-t border-[var(--c-border)] pt-4 text-sm font-semibold"
 				[translate]="{ ariaLabel: 'Юридична інформація' }"
 			>
-				<a class="theme-focus rounded-md text-[var(--c-primary)]" routerLink="/privacy" translate>
+				<a class="link inline-flex min-h-11 items-center" routerLink="/privacy" translate>
 					Політика конфіденційності
 				</a>
-				<a class="theme-focus rounded-md text-[var(--c-primary)]" routerLink="/terms" translate>
+				<a class="link inline-flex min-h-11 items-center" routerLink="/terms" translate>
 					Умови користування
 				</a>
-				<a class="theme-focus rounded-md text-[var(--c-primary)]" routerLink="/" translate>
+				<a class="link inline-flex min-h-11 items-center" routerLink="/" translate>
 					На головну
 				</a>
 			</nav>

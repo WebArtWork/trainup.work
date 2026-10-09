@@ -6,17 +6,17 @@ import { TranslateDirective } from '@wawjs/ngx-translate';
 	selector: 'button[appOptionCard]',
 	imports: [TranslateDirective],
 	host: {
-		class: 'theme-focus flex w-full min-h-16 items-start gap-3 rounded-[calc(var(--radius-card)*1.6)] border-2 p-4 text-left transition-colors duration-150',
+		class: 'theme-focus flex w-full min-h-16 items-start gap-3 rounded-[var(--radius-card)] border-2 p-4 text-left transition-[background-color,border-color,box-shadow] duration-150',
 		'[class]': `selected()
-			? 'border-[var(--c-primary)] bg-[color:color-mix(in_srgb,var(--c-primary)_8%,var(--c-bg-secondary))]'
-			: 'border-[var(--c-border)] bg-[var(--c-bg-secondary)] hover:border-[color:color-mix(in_srgb,var(--c-primary)_45%,var(--c-border))]'`,
+			? 'border-[var(--c-primary-text)] bg-[color:color-mix(in_srgb,var(--c-primary)_10%,var(--c-bg-secondary))]'
+			: 'border-[var(--c-border-strong)] bg-[var(--c-bg-secondary)] hover:border-[color:color-mix(in_srgb,var(--c-primary)_55%,var(--c-border-strong))]'`,
 		'[attr.aria-pressed]': 'selected()',
 	},
 	template: `
 		@if (icon()) {
 			<span
 				class="material-symbols-outlined mt-0.5 text-[28px]"
-				[class]="selected() ? 'text-[var(--c-primary)]' : 'text-[var(--c-text-muted)]'"
+				[class]="selected() ? 'text-[var(--c-primary-text)]' : 'text-[var(--c-text-muted)]'"
 				aria-hidden="true"
 			>
 				{{ icon() }}
@@ -37,7 +37,7 @@ import { TranslateDirective } from '@wawjs/ngx-translate';
 		</span>
 		<span
 			class="material-symbols-outlined text-[22px]"
-			[class]="selected() ? 'text-[var(--c-primary)]' : 'text-[var(--c-border)]'"
+			[class]="selected() ? 'text-[var(--c-primary-text)]' : 'text-[var(--c-border-strong)]'"
 			aria-hidden="true"
 		>
 			{{ selected() ? 'check_circle' : 'radio_button_unchecked' }}

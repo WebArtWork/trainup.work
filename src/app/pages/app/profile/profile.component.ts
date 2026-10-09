@@ -13,28 +13,30 @@ import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-fla
 	imports: [AccountSummaryComponent, RouterLink, TranslateDirective],
 	template: `
 		@if (profile(); as profile) {
-			<header class="flex items-center gap-4">
+			<header class="relative flex items-center gap-4">
+				<div
+					class="pointer-events-none absolute -left-6 -top-8 hidden h-36 w-64 rounded-full bg-[var(--c-primary)] opacity-20 blur-3xl dark:block"
+					aria-hidden="true"
+				></div>
 				@if (profile.photoUrl) {
 					<img
-						class="h-14 w-14 rounded-full object-cover"
+						class="relative h-16 w-16 rounded-full border-2 border-[var(--c-border-strong)] object-cover dark:border-0"
 						[src]="profile.photoUrl"
 						alt=""
-						width="56"
-						height="56"
+						width="64"
+						height="64"
 						referrerpolicy="no-referrer"
 					/>
 				} @else {
 					<span
-						class="material-symbols-outlined flex h-14 w-14 items-center justify-center rounded-full bg-[var(--c-bg-tertiary)] text-[32px] text-[var(--c-text-muted)]"
+						class="material-symbols-outlined relative flex h-16 w-16 items-center justify-center rounded-full bg-[var(--c-bg-tertiary)] text-[34px] text-[var(--c-text-muted)]"
 						aria-hidden="true"
 					>
 						person
 					</span>
 				}
-				<div class="min-w-0">
-					<h1
-						class="truncate text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)]"
-					>
+				<div class="relative min-w-0">
+					<h1 class="font-display truncate text-3xl text-[var(--c-text-strong)]">
 						@if (profile.displayName) {
 							{{ profile.displayName }}
 						} @else {
@@ -49,7 +51,7 @@ import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-fla
 				</div>
 			</header>
 
-			<h2 class="mt-8 text-lg font-semibold text-[var(--c-text-strong)]" translate>
+			<h2 class="font-display mt-8 text-xl text-[var(--c-text-strong)]" translate>
 				Налаштування тренувань
 			</h2>
 			<div class="mt-3">
@@ -61,34 +63,47 @@ import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-fla
 				/>
 			</div>
 
-			<nav class="mt-8 flex flex-col gap-2" [translate]="{ ariaLabel: 'Інші налаштування' }">
-				@for (link of links; track link.path) {
-					<a
-						class="theme-focus flex min-h-14 items-center gap-3 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4"
-						[routerLink]="link.path"
-					>
-						<span class="material-symbols-outlined text-[22px] text-[var(--c-primary)]" aria-hidden="true">
-							{{ link.icon }}
-						</span>
-						<span class="flex-1 text-sm font-semibold text-[var(--c-text-strong)]" [translate]="link.label">
-							{{ link.label }}
-						</span>
-						<span class="material-symbols-outlined text-[20px] text-[var(--c-text-muted)]" aria-hidden="true">
-							chevron_right
-						</span>
-					</a>
-				}
+			<nav class="mt-8" [translate]="{ ariaLabel: 'Інші налаштування' }">
+				<ul class="surface divide-y divide-[var(--c-border)] overflow-hidden">
+					@for (link of links; track link.path) {
+						<li>
+							<a
+								class="theme-focus flex min-h-14 items-center gap-3 px-4 hover:bg-[var(--c-bg-tertiary)]"
+								[routerLink]="link.path"
+							>
+								<span
+									class="material-symbols-outlined text-[22px] text-[var(--c-primary-text)]"
+									aria-hidden="true"
+								>
+									{{ link.icon }}
+								</span>
+								<span
+									class="flex-1 text-base font-semibold text-[var(--c-text-strong)]"
+									[translate]="link.label"
+								>
+									{{ link.label }}
+								</span>
+								<span
+									class="material-symbols-outlined text-[20px] text-[var(--c-text-muted)]"
+									aria-hidden="true"
+								>
+									chevron_right
+								</span>
+							</a>
+						</li>
+					}
+				</ul>
 			</nav>
 
 			@if (pausedExercises().length) {
 				<section class="mt-8" aria-labelledby="paused-title">
-					<h2 id="paused-title" class="text-lg font-semibold text-[var(--c-text-strong)]" translate>
+					<h2 id="paused-title" class="font-display text-xl text-[var(--c-text-strong)]" translate>
 						Вправи на паузі
 					</h2>
 					<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>
 						Під час цих вправ був біль, тож TrainUp їх не пропонує. Повертайте вправу, лише коли біль минув; за потреби порадьтеся з лікарем.
 					</p>
-					<ul class="mt-3 divide-y divide-[var(--c-border)] rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)]">
+					<ul class="surface mt-3 divide-y divide-[var(--c-border)]">
 						@for (item of pausedExercises(); track item.id) {
 							<li class="flex flex-wrap items-center justify-between gap-2 px-4 py-2.5">
 								<span class="text-sm text-[var(--c-text-strong)]">
@@ -96,7 +111,7 @@ import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-fla
 									<span class="block text-xs text-[var(--c-text-muted)]">{{ item.date }}</span>
 								</span>
 								<button
-									class="theme-focus inline-flex min-h-11 items-center rounded-full px-3 text-sm font-semibold text-[var(--c-primary)] hover:bg-[var(--c-bg-tertiary)] disabled:opacity-50"
+									class="btn btn-ghost btn-sm"
 									type="button"
 									[disabled]="resuming() === item.id"
 									(click)="resume(item.id)"
@@ -111,7 +126,7 @@ import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-fla
 			}
 
 			<button
-				class="theme-focus mt-8 inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-5 text-base font-semibold text-[var(--c-text-strong)] disabled:opacity-60"
+				class="btn btn-outline btn-block mt-8"
 				type="button"
 				[disabled]="signingOut()"
 				(click)="signOut()"

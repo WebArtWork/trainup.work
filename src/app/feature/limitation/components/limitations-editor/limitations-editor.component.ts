@@ -14,10 +14,10 @@ import {
 	template: `
 		<div class="flex flex-col gap-6">
 			<div
-				class="flex gap-3 rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-tertiary)] p-4"
+				class="surface-inset flex gap-3 p-4"
 			>
 				<span
-					class="material-symbols-outlined text-[24px] text-[var(--c-primary)]"
+					class="material-symbols-outlined text-[24px] text-[var(--c-primary-text)]"
 					aria-hidden="true"
 				>
 					health_and_safety
@@ -28,8 +28,8 @@ import {
 				</p>
 			</div>
 
-			<fieldset>
-				<legend class="mb-1 text-base font-semibold text-[var(--c-text-strong)]" translate>
+			<fieldset class="surface min-w-0 p-4 sm:p-5 [&>legend]:float-left [&>legend]:w-full [&>legend+*]:clear-both">
+				<legend class="font-display mb-1 text-lg text-[var(--c-text-strong)]" translate>
 					Що варто берегти
 				</legend>
 				<p class="mb-3 text-sm text-[var(--c-text)]" translate>
@@ -59,7 +59,7 @@ import {
 						</span>
 					</span>
 					<textarea
-						class="theme-focus min-h-20 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 py-3 text-base text-[var(--c-text-strong)]"
+						class="field min-h-20 py-3"
 						rows="2"
 						[maxLength]="noteMaxLength"
 						[value]="limitation.note"

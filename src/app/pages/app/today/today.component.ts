@@ -60,6 +60,13 @@ export class TodayComponent {
 		);
 	});
 
+	/** Share of plan days already completed, 0-100. */
+	protected readonly progress = computed(() => {
+		const total = this.plan()?.days.length ?? 0;
+
+		return total ? Math.round((this.completed().size / total) * 100) : 0;
+	});
+
 	/** Feedback-based suggestion that differs from the active plan (README §6.4). */
 	protected readonly adjustmentSuggestion = computed(() => {
 		const plan = this.plan();

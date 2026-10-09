@@ -8,7 +8,7 @@ import { TranslateDirective } from '@wawjs/ngx-translate';
 	template: `
 		@if (offline()) {
 			<p
-				class="flex items-center justify-center gap-2 bg-[var(--c-error)] px-4 py-2 text-center text-sm font-semibold text-white"
+				class="flex items-center justify-center gap-2 bg-[var(--c-text-strong)] px-4 py-2 text-center text-sm font-semibold text-[var(--c-bg-primary)]"
 				role="status"
 			>
 				<span class="material-symbols-outlined text-[18px]" aria-hidden="true">cloud_off</span>

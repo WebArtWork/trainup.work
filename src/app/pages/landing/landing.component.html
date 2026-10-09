@@ -1,237 +1,220 @@
-<section class="relative overflow-hidden">
-	<div class="landing-mesh" aria-hidden="true"></div>
-	<div class="landing-orb landing-orb--primary" aria-hidden="true"></div>
-	<div class="landing-orb landing-orb--secondary" aria-hidden="true"></div>
+<div class="relative overflow-hidden">
+	<div class="hero-glow" aria-hidden="true"></div>
 
-	<div class="relative mx-auto max-w-[var(--container)] px-4 py-8 sm:px-6 sm:py-12">
-		<section
-			class="overflow-hidden rounded-[calc(var(--radius-card)*2.4)] border border-[color:color-mix(in_srgb,var(--c-border)_72%,transparent)] bg-[color:color-mix(in_srgb,var(--c-bg-secondary)_84%,transparent)] p-6 shadow-[var(--shadow-md)] backdrop-blur-xl sm:p-8 lg:p-10"
-		>
-			<p
-				class="inline-flex items-center gap-2 rounded-full border border-[color:color-mix(in_srgb,var(--c-border)_72%,transparent)] bg-[color:color-mix(in_srgb,var(--c-bg-primary)_76%,transparent)] px-3 py-1 text-[0.72rem] font-semibold uppercase tracking-[0.24em] text-[var(--c-text-muted)]"
-			>
-				<span
-					class="h-2 w-2 rounded-full bg-[var(--c-primary)] shadow-[0_0_0_6px_color-mix(in_srgb,var(--c-primary)_14%,transparent)]"
-					aria-hidden="true"
-				></span>
-				<span translate>Веб-версія вже доступна · застосунки для телефонів скоро</span>
-			</p>
-
-			<div class="mt-6 grid gap-8 lg:grid-cols-[minmax(0,1.15fr)_minmax(18rem,0.85fr)]">
-				<div class="max-w-3xl">
-					<h1
-						class="text-4xl font-semibold tracking-[-0.04em] text-[var(--c-text-strong)] sm:text-5xl lg:text-6xl"
-						translate
-					>
-						Реалістичний план тренувань під ваше обладнання та простір
-					</h1>
-
-					<p
-						class="mt-5 max-w-2xl text-base leading-8 text-[var(--c-text)] sm:text-lg"
-						translate
-					>
-						Оберіть ціль, рівень, графік, обладнання та вільне місце для тренувань —
-						TrainUp складе досяжну програму, проведе через кожне тренування із
-						зображеннями вправ і підлаштує наступні заняття під ваше самопочуття.
-					</p>
-
-					<div class="mt-8 flex flex-wrap gap-3">
-						<a
-							class="theme-focus inline-flex min-h-14 items-center justify-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-7 text-base font-semibold text-white hover:bg-[var(--c-primary-hover)]"
-							routerLink="/app"
-						>
-							<span translate>Відкрити застосунок</span>
-							<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_forward</span>
-						</a>
-						<a
-							class="theme-focus inline-flex min-h-14 items-center justify-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-7 text-base font-semibold text-[var(--c-text-strong)]"
-							href="#landing-steps-title"
-							translate
-						>
-							Як це працює
-						</a>
-					</div>
-
-					<ul class="mt-8 flex flex-wrap gap-3">
-						@for (highlight of highlights; track highlight; let first = $first) {
-							<li
-								class="inline-flex min-h-12 items-center rounded-full px-5 py-3 text-sm font-semibold"
-								[class]="
-									first
-										? 'bg-[var(--c-primary)] text-white'
-										: 'border border-[var(--c-border)] bg-[color:color-mix(in_srgb,var(--c-bg-primary)_78%,transparent)] text-[var(--c-text-strong)]'
-								"
-								[translate]="highlight"
-							>
-								{{ highlight }}
-							</li>
-						}
-					</ul>
-				</div>
-
-				<div
-					class="rounded-[calc(var(--radius-card)*2)] border border-[color:color-mix(in_srgb,var(--c-border)_72%,transparent)] bg-[linear-gradient(180deg,color-mix(in_srgb,var(--c-bg-secondary)_96%,transparent),color-mix(in_srgb,var(--c-bg-primary)_92%,transparent))] p-5 shadow-[var(--shadow-sm)]"
-				>
-					<h2
-						class="text-xs font-semibold uppercase tracking-[0.18em] text-[var(--c-text-muted)]"
-						translate
-					>
-						Що враховує план
-					</h2>
-
-					<ul class="mt-5 space-y-3">
-						@for (input of planInputs; track input) {
-							<li
-								class="flex items-center gap-3 rounded-[calc(var(--radius-card)*1.4)] bg-[var(--c-bg-primary)] p-4 text-sm font-medium text-[var(--c-text-strong)]"
-							>
-								<span
-									class="material-symbols-outlined text-[20px] text-[var(--c-primary)]"
-									aria-hidden="true"
-								>
-									check_circle
-								</span>
-								<span [translate]="input">{{ input }}</span>
-							</li>
-						}
-					</ul>
-				</div>
-			</div>
-		</section>
-
-		<section class="mt-12 sm:mt-16" aria-labelledby="landing-steps-title">
-			<h2
-				id="landing-steps-title"
-				class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
+	<!-- Hero -->
+	<section class="page-wrap relative grid gap-10 pb-14 pt-10 sm:pt-16 lg:grid-cols-[minmax(0,1.1fr)_minmax(18rem,0.9fr)] lg:items-center lg:gap-14 lg:pb-24">
+		<div>
+			<h1
+				class="font-display text-[2.5rem] leading-[1.05] text-[var(--c-text-strong)] sm:text-6xl"
 				translate
 			>
-				Як це працює
-			</h2>
+				Реалістичний план тренувань під ваше обладнання та простір
+			</h1>
 
-			<ol class="mt-6 grid gap-4 md:grid-cols-3">
-				@for (step of steps; track step.title; let index = $index) {
-					<li
-						class="rounded-[calc(var(--radius-card)*2)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-6 shadow-[var(--shadow-sm)]"
-					>
-						<span
-							class="inline-flex h-10 w-10 items-center justify-center rounded-full bg-[var(--c-primary)] text-base font-semibold text-white"
-							aria-hidden="true"
-						>
-							{{ index + 1 }}
-						</span>
-						<h3
-							class="mt-4 text-lg font-semibold text-[var(--c-text-strong)]"
-							[translate]="step.title"
-						>
-							{{ step.title }}
-						</h3>
-						<p
-							class="mt-2 text-sm leading-7 text-[var(--c-text)]"
-							[translate]="step.text"
-						>
-							{{ step.text }}
-						</p>
-					</li>
+			<p class="mt-6 max-w-xl text-lg leading-8 text-[var(--c-text)]" translate>
+				Оберіть ціль, рівень, графік, обладнання та вільне місце. TrainUp складе досяжну програму й підлаштує наступні заняття під ваше самопочуття.
+			</p>
+
+			<div class="mt-8 flex flex-wrap items-center gap-x-6 gap-y-4">
+				<a class="btn btn-primary btn-lg" routerLink="/app">
+					<span translate>Відкрити застосунок</span>
+					<span class="material-symbols-outlined text-[22px]" aria-hidden="true">arrow_forward</span>
+				</a>
+				<a class="link" href="#landing-steps-title" translate>Як це працює</a>
+			</div>
+
+			<ul class="mt-8 flex flex-wrap gap-2">
+				@for (highlight of highlights; track highlight) {
+					<li class="chip" [translate]="highlight">{{ highlight }}</li>
 				}
-			</ol>
-		</section>
+			</ul>
 
-		<section class="mt-12 grid gap-4 sm:mt-16 md:grid-cols-3">
-			@for (feature of features; track feature.title) {
-				<article
-					class="rounded-[calc(var(--radius-card)*2)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-6 shadow-[var(--shadow-sm)]"
-				>
+			<p class="mt-5 text-sm text-[var(--c-text-muted)]" translate>
+				Веб-версія вже доступна, застосунки для телефонів скоро
+			</p>
+		</div>
+
+		<div class="relative lg:ml-auto lg:w-full lg:max-w-md">
+			<div class="surface-raised p-6 sm:p-7 lg:-rotate-1 dark:rotate-0">
+				<h2 class="font-display text-xl text-[var(--c-text-strong)]" translate>
+					Що враховує план
+				</h2>
+
+				<ul class="mt-5 flex flex-col gap-2.5">
+					@for (input of planInputs; track input) {
+						<li
+							class="surface-inset flex items-center gap-3 px-4 py-3 text-sm font-medium text-[var(--c-text-strong)]"
+						>
+							<span
+								class="material-symbols-outlined text-[22px] text-[var(--c-secondary)]"
+								aria-hidden="true"
+							>
+								check_circle
+							</span>
+							<span [translate]="input">{{ input }}</span>
+						</li>
+					}
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<!-- Steps -->
+	<section class="page-wrap relative pb-16 sm:pb-24" aria-labelledby="landing-steps-title">
+		<h2
+			id="landing-steps-title"
+			class="font-display text-3xl text-[var(--c-text-strong)] sm:text-4xl"
+			translate
+		>
+			Як це працює
+		</h2>
+
+		<ol class="mt-8 grid gap-4 md:grid-cols-3">
+			@for (step of steps; track step.title; let index = $index) {
+				<li class="surface flex flex-col gap-4 p-6 sm:p-7">
 					<span
-						class="material-symbols-outlined text-[28px] text-[var(--c-primary)]"
+						class="chip-sun font-display flex h-12 w-12 items-center justify-center rounded-full text-xl"
 						aria-hidden="true"
 					>
-						{{ feature.icon }}
+						{{ index + 1 }}
 					</span>
-					<h2
-						class="mt-3 text-lg font-semibold text-[var(--c-text-strong)]"
+					<h3 class="font-display text-xl text-[var(--c-text-strong)]" [translate]="step.title">
+						{{ step.title }}
+					</h3>
+					<p class="text-sm leading-7 text-[var(--c-text)]" [translate]="step.text">
+						{{ step.text }}
+					</p>
+				</li>
+			}
+		</ol>
+	</section>
+
+	<!-- Why it is different: one loud block + two supporting -->
+	<section class="page-wrap relative grid gap-4 pb-16 sm:pb-24 lg:grid-cols-12">
+		@for (feature of features; track feature.title; let first = $first; let last = $last) {
+			<article
+				class="flex flex-col gap-4 p-6 sm:p-8"
+				[class]="
+					first
+						? 'accent-block lg:col-span-7'
+						: last
+							? 'surface sm:flex-row sm:items-start lg:col-span-12'
+							: 'surface lg:col-span-5'
+				"
+			>
+				<span
+					class="material-symbols-outlined text-[32px]"
+					[class]="first ? '' : 'text-[var(--c-primary-text)]'"
+					aria-hidden="true"
+				>
+					{{ feature.icon }}
+				</span>
+				<div class="flex-1">
+					<h3
+						class="font-display text-2xl"
+						[class]="first ? '' : 'text-[var(--c-text-strong)]'"
 						[translate]="feature.title"
 					>
 						{{ feature.title }}
-					</h2>
+					</h3>
 					<p
-						class="mt-2 text-sm leading-7 text-[var(--c-text)]"
+						class="mt-3 max-w-2xl text-base leading-7"
+						[class]="first ? '' : 'text-[var(--c-text)]'"
 						[translate]="feature.text"
 					>
 						{{ feature.text }}
 					</p>
-				</article>
-			}
-		</section>
+				</div>
+			</article>
+		}
+	</section>
 
-		<section class="mt-12 sm:mt-16" aria-labelledby="landing-privacy-title">
-			<div
-				class="rounded-[calc(var(--radius-card)*2)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] p-6 shadow-[var(--shadow-sm)] sm:p-8"
-			>
+	<!-- Privacy -->
+	<section class="page-wrap relative pb-16 sm:pb-24" aria-labelledby="landing-privacy-title">
+		<div class="surface-inset flex flex-col gap-6 p-6 sm:p-10 md:flex-row md:items-center md:justify-between">
+			<div class="max-w-2xl">
 				<h2
 					id="landing-privacy-title"
-					class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)]"
+					class="font-display text-2xl text-[var(--c-text-strong)] sm:text-3xl"
 					translate
 				>
 					Ваші дані — під вашим контролем
 				</h2>
-				<p class="mt-3 max-w-3xl text-base leading-8 text-[var(--c-text)]" translate>
+				<p class="mt-3 text-base leading-7 text-[var(--c-text)]" translate>
 					Ми зберігаємо лише те, що потрібно для плану, не продаємо дані й не показуємо рекламу. Дані лежать у ЄС, а завантажити їх чи видалити акаунт можна в будь-який момент.
 				</p>
-				<p class="mt-4 flex flex-wrap gap-x-6 gap-y-2 text-sm font-semibold">
-					<a class="theme-focus rounded-md text-[var(--c-primary)]" routerLink="/privacy" translate>
-						Політика конфіденційності
-					</a>
-					<a class="theme-focus rounded-md text-[var(--c-primary)]" routerLink="/terms" translate>
-						Умови користування
-					</a>
-				</p>
 			</div>
-		</section>
+			<p class="flex shrink-0 flex-col gap-1 text-sm">
+				<a class="link inline-flex min-h-11 items-center" routerLink="/privacy" translate>
+					Політика конфіденційності
+				</a>
+				<a class="link inline-flex min-h-11 items-center" routerLink="/terms" translate>
+					Умови користування
+				</a>
+			</p>
+		</div>
+	</section>
 
-		<section class="mt-12 sm:mt-16" aria-labelledby="landing-faq-title">
-			<h2
-				id="landing-faq-title"
-				class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
-				translate
-			>
-				Часті запитання
-			</h2>
-			<div class="mt-6 flex flex-col gap-3">
-				@for (item of faq; track item.question) {
-					<details
-						class="group rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)]"
+	<!-- FAQ -->
+	<section
+		class="page-wrap relative grid gap-8 pb-16 sm:pb-24 lg:grid-cols-[minmax(0,0.7fr)_minmax(0,1.3fr)] lg:gap-14"
+		aria-labelledby="landing-faq-title"
+	>
+		<h2
+			id="landing-faq-title"
+			class="font-display text-3xl text-[var(--c-text-strong)] sm:text-4xl lg:sticky lg:top-8 lg:self-start"
+			translate
+		>
+			Часті запитання
+		</h2>
+
+		<div class="flex flex-col gap-3">
+			@for (item of faq; track item.question) {
+				<details class="surface group">
+					<summary
+						class="theme-focus flex min-h-16 cursor-pointer list-none items-center gap-3 rounded-[var(--radius-card)] px-5 py-3"
 					>
-						<summary
-							class="theme-focus flex min-h-14 cursor-pointer list-none items-center gap-3 px-5 py-3"
+						<span
+							class="flex-1 text-base font-semibold text-[var(--c-text-strong)]"
+							[translate]="item.question"
 						>
-							<span
-								class="flex-1 text-base font-semibold text-[var(--c-text-strong)]"
-								[translate]="item.question"
-							>
-								{{ item.question }}
-							</span>
-							<span
-								class="material-symbols-outlined text-[22px] text-[var(--c-text-muted)] transition-transform group-open:rotate-180"
-								aria-hidden="true"
-							>
-								expand_more
-							</span>
-						</summary>
-						<p
-							class="px-5 pb-4 text-sm leading-7 text-[var(--c-text)]"
-							[translate]="item.answer"
+							{{ item.question }}
+						</span>
+						<span
+							class="material-symbols-outlined text-[24px] text-[var(--c-primary-text)] transition-transform group-open:rotate-180"
+							aria-hidden="true"
 						>
-							{{ item.answer }}
-						</p>
-					</details>
-				}
-			</div>
-		</section>
+							expand_more
+						</span>
+					</summary>
+					<p
+						class="px-5 pb-5 text-sm leading-7 text-[var(--c-text)]"
+						[translate]="item.answer"
+					>
+						{{ item.answer }}
+					</p>
+				</details>
+			}
+		</div>
+	</section>
+
+	<!-- Closing call to action -->
+	<section class="page-wrap relative pb-4">
+		<div class="accent-block flex flex-col items-start gap-6 p-8 sm:flex-row sm:items-center sm:justify-between sm:p-12">
+			<h2 class="font-display max-w-xl text-3xl sm:text-4xl" translate>
+				Складіть план під свій простір
+			</h2>
+			<a class="btn btn-primary btn-lg shrink-0" routerLink="/app">
+				<span translate>Відкрити застосунок</span>
+				<span class="material-symbols-outlined text-[22px]" aria-hidden="true">arrow_forward</span>
+			</a>
+		</div>
 
 		@if (storeLinks.length) {
-			<section class="mt-12 sm:mt-16" aria-labelledby="landing-stores-title">
+			<div class="mt-8" aria-labelledby="landing-stores-title">
 				<h2
 					id="landing-stores-title"
-					class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)]"
+					class="font-display text-xl text-[var(--c-text-strong)]"
 					translate
 				>
 					Завантажте застосунок
@@ -239,18 +222,14 @@
 				<ul class="mt-4 flex flex-wrap gap-3">
 					@for (store of storeLinks; track store.url) {
 						<li>
-							<a
-								class="theme-focus inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-base font-semibold text-[var(--c-text-strong)]"
-								[href]="store.url"
-								rel="noopener"
-							>
+							<a class="btn btn-outline" [href]="store.url" rel="noopener">
 								<span class="material-symbols-outlined text-[22px]" aria-hidden="true">{{ store.icon }}</span>
 								{{ store.label }}
 							</a>
 						</li>
 					}
 				</ul>
-			</section>
+			</div>
 		}
-	</div>
-</section>
+	</section>
+</div>

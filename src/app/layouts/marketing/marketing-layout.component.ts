@@ -7,7 +7,7 @@ import { TopbarComponent } from '../topbar/topbar.component';
 	imports: [RouterOutlet, TopbarComponent, FooterComponent],
 	template: `
 		<div class="flex min-h-screen flex-col">
-			<app-topbar />
+			<app-topbar cta />
 			<main class="flex-1">
 				<router-outlet />
 			</main>

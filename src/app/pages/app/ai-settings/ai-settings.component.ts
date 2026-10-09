@@ -20,14 +20,14 @@ interface AiMode {
 	template: `
 		<header>
 			<a
-				class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary)]"
+				class="link inline-flex min-h-11 items-center gap-1 text-sm font-semibold"
 				routerLink="/app/settings"
 			>
 				<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
 				<span translate>Налаштування</span>
 			</a>
 			<h1
-				class="mt-3 text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
+				class="font-display mt-2 text-3xl text-[var(--c-text-strong)] sm:text-4xl"
 				translate
 			>
 				Штучний інтелект
@@ -37,29 +37,29 @@ interface AiMode {
 			</p>
 		</header>
 
-		<ul class="mt-6 flex flex-col gap-3">
+		<ul class="mt-6 flex flex-col gap-4 pb-28">
 			@for (mode of modes; track mode.id) {
 				<li
-					class="flex gap-4 rounded-[calc(var(--radius-card)*1.4)] border bg-[var(--c-bg-secondary)] p-4"
+					class="flex gap-4 p-4 sm:p-5"
 					[class]="
-						mode.id === 'rules' ? 'border-[var(--c-primary)]' : 'border-[var(--c-border)]'
+						mode.id === 'rules' ? 'surface-raised' : 'surface'
 					"
 				>
-					<span class="material-symbols-outlined text-[28px] text-[var(--c-primary)]" aria-hidden="true">
-						{{ mode.icon }}
+					<span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[var(--c-sun)] text-[var(--c-sun-ink)] dark:bg-[color:color-mix(in_srgb,var(--c-primary)_18%,transparent)] dark:text-[var(--c-primary-text)]" aria-hidden="true">
+						<span class="material-symbols-outlined text-[26px]">{{ mode.icon }}</span>
 					</span>
 					<div class="min-w-0 flex-1">
-						<h2 class="text-base font-semibold text-[var(--c-text-strong)]" [translate]="mode.title">
+						<h2 class="font-display text-lg text-[var(--c-text-strong)]" [translate]="mode.title">
 							{{ mode.title }}
 						</h2>
 						<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" [translate]="mode.text">
 							{{ mode.text }}
 						</p>
-						<p class="mt-2 text-xs font-semibold uppercase tracking-[0.12em] text-[var(--c-text-muted)]">
+						<p class="mt-3">
 							@if (mode.id === 'rules') {
-								<span class="text-[var(--c-primary)]" translate>Увімкнено</span>
+								<span class="chip chip-success" translate>Увімкнено</span>
 							} @else {
-								<span translate>Доступно</span>
+								<span class="chip" translate>Доступно</span>
 							}
 						</p>
 					</div>

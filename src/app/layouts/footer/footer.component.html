@@ -1,71 +1,49 @@
-<footer class="border-t border-[var(--c-border)] bg-[var(--c-bg-secondary)]">
-	<div
-		class="mx-auto grid max-w-[var(--container)] gap-10 px-4 py-10 sm:px-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(14rem,0.8fr)] lg:gap-16"
-	>
-		<div class="grid gap-5 sm:grid-cols-[7rem_minmax(0,1fr)] sm:items-start">
-			<div
-				class="overflow-hidden rounded-[calc(var(--radius-card)*1.8)] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-3 shadow-[var(--shadow-sm)]"
-			>
-				<img
-					class="h-auto w-full rounded-[calc(var(--radius-card)*1.1)] object-cover"
-					[src]="companyImage()"
-					[translate]="{ alt: companyImageAlt() }"
-					loading="lazy"
-					decoding="async"
-				/>
-			</div>
+<footer
+	class="mt-16 rounded-t-[calc(var(--radius-card)*1.5)] bg-[var(--c-text-strong)] text-[var(--c-bg-primary)] dark:mt-20 dark:rounded-none dark:border-t dark:border-[var(--c-border)] dark:bg-[var(--c-bg-secondary)] dark:text-[var(--c-text)]"
+>
+	<div class="page-wrap grid gap-10 py-12 lg:grid-cols-[minmax(0,1.4fr)_minmax(14rem,0.8fr)] lg:gap-16">
+		<div class="flex items-start gap-4">
+			<img
+				class="h-14 w-14 shrink-0 rounded-[calc(var(--radius-card)*0.6)] bg-[var(--c-bg-primary)] object-cover p-1.5 dark:bg-[var(--c-bg-tertiary)]"
+				[src]="companyImage()"
+				[translate]="{ alt: companyImageAlt() }"
+				loading="lazy"
+				decoding="async"
+			/>
 
 			<div>
-				<p
-					class="text-sm font-semibold uppercase tracking-[0.2em] text-[var(--c-text-muted)]"
-					translate
-				>
-					Про проєкт
-				</p>
 				@if (company().name) {
-					<p class="mt-3 text-xl font-semibold text-[var(--c-text-strong)]">
+					<p class="font-display text-xl text-[var(--c-bg-primary)] dark:text-[var(--c-text-strong)]">
 						{{ company().name }}
 					</p>
 				}
-				<p class="mt-3 max-w-2xl text-sm leading-7 text-[var(--c-text)]">
+				<p class="mt-2 max-w-xl text-sm leading-7 opacity-80">
 					{{ companyDescription() }}
 				</p>
 			</div>
 		</div>
 
-		<div class="flex flex-col gap-4">
-			<p
-				class="text-sm font-semibold uppercase tracking-[0.2em] text-[var(--c-text-muted)]"
-				translate
-			>
-				Сторінки
-			</p>
-			<nav [translate]="{ ariaLabel: 'Навігація сторінками у футері' }">
-				<ul class="space-y-3">
-					@for (page of pageLinks(); track page.path) {
-						<li>
-							<a
-								class="theme-focus inline-flex rounded-md text-base font-medium text-[var(--c-text-strong)] transition-colors duration-150 hover:text-[var(--c-primary)]"
-								[routerLink]="page.path"
-								[translate]="page.label"
-							>
-								{{ page.label }}
-							</a>
-						</li>
-					}
-				</ul>
-			</nav>
-		</div>
+		<nav [translate]="{ ariaLabel: 'Навігація сторінками у футері' }">
+			<ul class="flex flex-col gap-1">
+				@for (page of pageLinks(); track page.path) {
+					<li>
+						<a
+							class="theme-focus inline-flex min-h-11 items-center rounded-md text-base font-semibold text-[var(--c-bg-primary)] underline decoration-transparent decoration-2 underline-offset-4 transition-colors hover:decoration-[var(--c-sun)] dark:text-[var(--c-text-strong)] dark:hover:decoration-[var(--c-primary-text)]"
+							[routerLink]="page.path"
+							[translate]="page.label"
+						>
+							{{ page.label }}
+						</a>
+					</li>
+				}
+			</ul>
+		</nav>
 	</div>
 
-	<div class="border-t border-[var(--c-border)]">
-		<div
-			class="mx-auto flex max-w-[var(--container)] px-4 py-4 text-sm text-[var(--c-text-muted)] sm:px-6"
-		>
-			<p>
-				&copy; {{ currentYear }} {{ company().name || company().title }}.
-				<span translate>Усі права захищено.</span>
-			</p>
-		</div>
+	<div class="border-t border-white/15 dark:border-[var(--c-border)]">
+		<p class="page-wrap py-5 text-sm opacity-75">
+			&copy; {{ currentYear }} {{ company().name || company().title }}.
+			<span translate>Усі права захищено.</span>
+		</p>
 	</div>
 </footer>

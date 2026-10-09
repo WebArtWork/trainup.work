@@ -6,10 +6,10 @@ import { TranslateDirective } from '@wawjs/ngx-translate';
 	selector: 'button[appOptionPill]',
 	imports: [TranslateDirective],
 	host: {
-		class: 'theme-focus inline-flex min-h-11 min-w-11 items-center justify-center rounded-full border-2 px-4 text-sm font-semibold transition-colors duration-150',
+		class: 'theme-focus inline-flex min-h-11 min-w-11 items-center justify-center rounded-full border-2 px-4 text-sm font-semibold transition-[background-color,border-color] duration-150',
 		'[class]': `selected()
-			? 'border-[var(--c-primary)] bg-[var(--c-primary)] text-white'
-			: 'border-[var(--c-border)] bg-[var(--c-bg-secondary)] text-[var(--c-text-strong)] hover:border-[color:color-mix(in_srgb,var(--c-primary)_45%,var(--c-border))]'`,
+			? 'border-[var(--c-primary)] bg-[var(--c-primary)] text-[var(--c-on-primary)]'
+			: 'border-[var(--c-border-strong)] bg-[var(--c-bg-secondary)] text-[var(--c-text-strong)] hover:border-[color:color-mix(in_srgb,var(--c-primary)_55%,var(--c-border-strong))]'`,
 		'[attr.aria-pressed]': 'selected()',
 	},
 	template: `

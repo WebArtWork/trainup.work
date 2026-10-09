@@ -10,10 +10,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 @Component({
 	imports: [RouterLink, SessionCardComponent, StateMessageComponent, TranslateDirective],
 	template: `
-		<h1
-			class="text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
-			translate
-		>
+		<h1 class="font-display text-4xl leading-tight text-[var(--c-text-strong)] sm:text-5xl" translate>
 			Тренування
 		</h1>
 
@@ -33,12 +30,12 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 				}
 				@case ('ready') {
 					@if (nextDay(); as day) {
-						<app-session-card [day]="day">
+						<app-session-card [day]="day" [limit]="20">
 							<a
-								class="theme-focus inline-flex min-h-12 items-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-sm font-semibold text-white hover:bg-[var(--c-primary-hover)]"
+								class="btn btn-primary btn-lg btn-block"
 								[routerLink]="['/app/workout', day.index]"
 							>
-								<span class="material-symbols-outlined text-[20px]" aria-hidden="true">
+								<span class="material-symbols-outlined text-[24px]" aria-hidden="true">
 									play_arrow
 								</span>
 								<span translate>Почати тренування</span>
@@ -51,7 +48,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 							text="Складіть або оновіть план на сторінці «Сьогодні»."
 						>
 							<a
-								class="theme-focus inline-flex min-h-12 items-center rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] px-5 text-sm font-semibold text-[var(--c-text-strong)]"
+								class="btn btn-outline"
 								routerLink="/app/today"
 								translate
 							>

@@ -1,12 +1,12 @@
 <div class="flex flex-col gap-3">
 	@if (todos().length) {
-		<ul class="divide-y divide-[var(--c-border)] rounded-[calc(var(--radius-card)*1.4)] border border-[var(--c-border)] bg-[var(--c-bg-secondary)]">
+		<ul class="surface divide-y divide-[var(--c-border)] overflow-hidden">
 			@for (todo of todos(); track todo.id) {
 				<li class="flex flex-wrap items-center gap-3 px-4 py-2">
 					@if (editingId() === todo.id) {
 						<form class="flex w-full flex-wrap gap-2 py-1" (submit)="$event.preventDefault(); saveEdit(todo)">
 							<input
-								class="theme-focus min-h-11 min-w-0 flex-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-primary)] px-3 text-base text-[var(--c-text-strong)]"
+								class="field min-w-0 flex-1"
 								type="text"
 								[maxLength]="maxLength"
 								[value]="editTitle()"
@@ -14,14 +14,14 @@
 								(input)="editTitle.set($any($event.target).value)"
 							/>
 							<input
-								class="theme-focus min-h-11 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-primary)] px-3 text-base text-[var(--c-text-strong)]"
+								class="field w-auto"
 								type="date"
 								[value]="editDate()"
 								[translate]="{ ariaLabel: 'Термін' }"
 								(input)="editDate.set($any($event.target).value)"
 							/>
 							<button
-								class="theme-focus inline-flex min-h-11 items-center rounded-full bg-[var(--c-primary)] px-4 text-sm font-semibold text-white disabled:opacity-50"
+								class="btn btn-primary btn-sm"
 								type="submit"
 								[disabled]="busy() || !editTitle().trim()"
 								translate
@@ -29,7 +29,7 @@
 								Зберегти
 							</button>
 							<button
-								class="theme-focus inline-flex min-h-11 items-center rounded-full px-3 text-sm font-semibold text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+								class="btn btn-ghost btn-sm"
 								type="button"
 								(click)="editingId.set(null)"
 								translate
@@ -71,7 +71,7 @@
 						@if (!compact()) {
 							<span class="flex">
 								<button
-									class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+									class="icon-btn border-0 bg-transparent text-[var(--c-text-muted)] shadow-none hover:bg-[var(--c-bg-tertiary)] dark:shadow-none"
 									type="button"
 									[translate]="{ ariaLabel: 'Змінити' }"
 									(click)="startEdit(todo)"
@@ -79,7 +79,7 @@
 									<span class="material-symbols-outlined text-[20px]" aria-hidden="true">edit</span>
 								</button>
 								<button
-									class="theme-focus inline-flex h-11 w-11 items-center justify-center rounded-full text-[var(--c-text-muted)] hover:bg-[var(--c-bg-tertiary)]"
+									class="icon-btn border-0 bg-transparent text-[var(--c-text-muted)] shadow-none hover:bg-[var(--c-bg-tertiary)] dark:shadow-none"
 									type="button"
 									[translate]="{ ariaLabel: 'Видалити' }"
 									[disabled]="busy()"
@@ -98,7 +98,7 @@
 	@if (showAdd()) {
 		<form class="flex flex-wrap gap-2" (submit)="$event.preventDefault(); add()">
 			<input
-				class="theme-focus min-h-12 min-w-0 flex-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-base text-[var(--c-text-strong)]"
+				class="field min-w-0 flex-1"
 				type="text"
 				[maxLength]="maxLength"
 				[value]="draftTitle()"
@@ -107,7 +107,7 @@
 			/>
 			@if (!compact()) {
 				<input
-					class="theme-focus min-h-12 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-3 text-base text-[var(--c-text-strong)]"
+					class="field w-auto"
 					type="date"
 					[value]="draftDate()"
 					[translate]="{ ariaLabel: 'Термін (необов’язково)' }"
@@ -115,7 +115,7 @@
 				/>
 			}
 			<button
-				class="theme-focus inline-flex min-h-12 items-center gap-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-4 text-sm font-semibold text-[var(--c-text-strong)] disabled:opacity-50"
+				class="btn btn-primary"
 				type="submit"
 				[disabled]="!canAdd()"
 			>

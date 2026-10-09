@@ -1,33 +1,53 @@
 @let current = step();
 
 <div class="flex flex-col gap-6">
-	<header>
-		<p
-			class="text-sm font-semibold text-[var(--c-text-muted)]"
-			[translate]="progressLabel"
-			[vars]="{ current: stepIndex() + 1, total: totalSteps }"
-		></p>
+	<header class="relative">
 		<div
-			class="mt-2 h-2 overflow-hidden rounded-full bg-[var(--c-bg-tertiary)]"
-			role="progressbar"
-			[attr.aria-valuenow]="stepIndex() + 1"
-			aria-valuemin="1"
-			[attr.aria-valuemax]="totalSteps"
-		>
+			class="pointer-events-none absolute -left-6 -top-10 hidden h-40 w-72 rounded-full bg-[var(--c-primary)] opacity-25 blur-3xl dark:block"
+			aria-hidden="true"
+		></div>
+
+		<div class="relative flex flex-col gap-2">
 			<div
-				class="h-full rounded-full bg-[var(--c-primary)] transition-[width] duration-300"
-				[style.width.%]="((stepIndex() + 1) / totalSteps) * 100"
-			></div>
+				class="flex gap-1.5"
+				role="progressbar"
+				[attr.aria-valuenow]="stepIndex() + 1"
+				aria-valuemin="1"
+				[attr.aria-valuemax]="totalSteps"
+			>
+				@for (item of steps; track item; let i = $index) {
+					<span
+						class="h-1.5 flex-1 rounded-full transition-colors duration-300"
+						[class]="i <= stepIndex() ? 'bg-[var(--c-primary)]' : 'bg-[var(--c-border)]'"
+					></span>
+				}
+			</div>
+			<p
+				class="text-sm font-semibold text-[var(--c-text-muted)]"
+				[translate]="progressLabel"
+				[vars]="{ current: stepIndex() + 1, total: totalSteps }"
+			></p>
 		</div>
-		<h1
-			class="mt-6 text-2xl font-semibold tracking-[-0.02em] text-[var(--c-text-strong)] sm:text-3xl"
-			[translate]="heading().title"
-		>
-			{{ heading().title }}
-		</h1>
-		<p class="mt-2 text-base text-[var(--c-text)]" [translate]="heading().description">
-			{{ heading().description }}
-		</p>
+
+		<div class="relative mt-6 flex items-start gap-4">
+			<span
+				class="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border-2 border-[var(--c-sun-ink)] bg-[var(--c-sun)] text-[var(--c-sun-ink)] shadow-[0_3px_0_var(--c-sun-ink)] dark:rounded-2xl dark:border-0 dark:bg-[var(--c-bg-tertiary)] dark:text-[var(--c-primary-text)] dark:shadow-[inset_0_1px_0_rgba(255,255,255,0.1)]"
+				aria-hidden="true"
+			>
+				<span class="material-symbols-outlined text-[30px]">{{ stepIcon() }}</span>
+			</span>
+			<div class="min-w-0">
+				<h1
+					class="font-display text-3xl leading-tight text-[var(--c-text-strong)] sm:text-4xl"
+					[translate]="heading().title"
+				>
+					{{ heading().title }}
+				</h1>
+				<p class="mt-2 text-base text-[var(--c-text)]" [translate]="heading().description">
+					{{ heading().description }}
+				</p>
+			</div>
+		</div>
 	</header>
 
 	@if (restored()) {
@@ -61,7 +81,7 @@
 
 	@if (error()) {
 		<p
-			class="rounded-[var(--radius-card)] border border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
+			class="surface border-[var(--c-error)] p-4 text-sm leading-6 text-[var(--c-error)]"
 			role="alert"
 			translate
 		>
@@ -70,7 +90,7 @@
 	}
 
 	<div
-		class="sticky bottom-0 -mx-4 flex flex-col gap-2 border-t border-[var(--c-border)] bg-[var(--c-bg-primary)] px-4 py-4 sm:-mx-6 sm:px-6"
+		class="sticky bottom-0 z-10 -mx-4 flex flex-col gap-2 border-t-2 border-[var(--c-border)] bg-[var(--c-bg-primary)]/90 px-4 pb-[max(1rem,env(safe-area-inset-bottom))] pt-3 backdrop-blur sm:-mx-6 sm:px-6 dark:border-t"
 	>
 		@if (!canContinue()) {
 			<p class="text-sm text-[var(--c-text-muted)]" translate>
@@ -79,19 +99,14 @@
 		}
 		<div class="flex gap-3">
 			@if (stepIndex() > 0) {
-				<button
-					class="theme-focus inline-flex min-h-12 items-center justify-center gap-1 rounded-[var(--radius-btn)] border-2 border-[var(--c-border)] bg-[var(--c-bg-secondary)] px-5 text-base font-semibold text-[var(--c-text-strong)]"
-					type="button"
-					[disabled]="saving()"
-					(click)="back()"
-				>
+				<button class="btn btn-outline btn-lg" type="button" [disabled]="saving()" (click)="back()">
 					<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
 					<span translate>Назад</span>
 				</button>
 			}
 			@if (current === 'review') {
 				<button
-					class="theme-focus inline-flex min-h-12 flex-1 items-center justify-center gap-2 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-base font-semibold text-white hover:bg-[var(--c-primary-hover)] disabled:opacity-50"
+					class="btn btn-primary btn-lg flex-1"
 					type="button"
 					[disabled]="!canContinue() || saving()"
 					[attr.aria-busy]="saving()"
@@ -106,7 +121,7 @@
 				</button>
 			} @else {
 				<button
-					class="theme-focus inline-flex min-h-12 flex-1 items-center justify-center gap-1 rounded-[var(--radius-btn)] bg-[var(--c-primary)] px-5 text-base font-semibold text-white hover:bg-[var(--c-primary-hover)] disabled:opacity-50"
+					class="btn btn-primary btn-lg flex-1"
 					type="button"
 					[disabled]="!canContinue()"
 					(click)="next()"

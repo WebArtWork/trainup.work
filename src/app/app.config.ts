@@ -19,6 +19,7 @@ import { provideTranslate } from '@wawjs/ngx-translate';
 import { provideNgxUi } from '@wawjs/ngx-ui';
 import { environment } from '../environments/environment';
 import { routes } from './app.routes';
+import { themeConfig } from './theme/theme.config';
 import { BootstrapService } from './feature/bootstrap/bootstrap.service';
 import { companyProfile } from './feature/company/company.data';
 
@@ -49,7 +50,7 @@ export const appConfig: ApplicationConfig = {
 		provideNgxDefaultSeo({
 			siteUrl: companyProfile.siteUrl,
 		}),
-		provideNgxUi(),
+		provideNgxUi(themeConfig),
 		// Child routes inherit parent `data.meta`, so `/app/**` pages stay noindex.
 		provideRouter(routes, withRouterConfig({ paramsInheritanceStrategy: 'always' })),
 		provideClientHydration(withEventReplay()),
