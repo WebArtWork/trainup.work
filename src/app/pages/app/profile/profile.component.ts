@@ -2,6 +2,7 @@ import { Component, computed, inject, signal } from '@angular/core';
 import { Router, RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { AccountSummaryComponent } from '../../../feature/account/components/account-summary/account-summary.component';
+import { PreferencesControlsComponent } from '../../../ui/preferences-controls/preferences-controls.component';
 import { AccountSection } from '../../../feature/account/account.interface';
 import { AppSessionService } from '../../../feature/auth/app-session.service';
 import { AccountService } from '../../../feature/account/account.service';
@@ -10,7 +11,7 @@ import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catal
 import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-flag.service';
 
 @Component({
-	imports: [AccountSummaryComponent, RouterLink, TranslateDirective],
+	imports: [AccountSummaryComponent, PreferencesControlsComponent, RouterLink, TranslateDirective],
 	template: `
 		@if (profile(); as profile) {
 			<header class="relative flex items-center gap-4">
@@ -125,8 +126,15 @@ import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-fla
 				</section>
 			}
 
+			<section class="surface mt-8 flex items-center justify-between gap-3 p-4">
+					<span class="text-base font-semibold text-[var(--c-text-strong)]" translate>
+						Мова та тема
+					</span>
+					<app-preferences-controls dropUp />
+				</section>
+
 			<button
-				class="btn btn-outline btn-block mt-8"
+				class="btn btn-outline btn-block mt-4"
 				type="button"
 				[disabled]="signingOut()"
 				(click)="signOut()"

@@ -1,5 +1,4 @@
 import { Component, inject, signal } from '@angular/core';
-import { RouterLink } from '@angular/router';
 import { scheduleWeekdays, Weekday } from '@trainup/planner';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { AccountService } from '../../../feature/account/account.service';
@@ -9,7 +8,7 @@ import { OptionPillComponent } from '../../../ui/option-pill/option-pill.compone
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
 @Component({
-	imports: [OptionPillComponent, RouterLink, StateMessageComponent, TranslateDirective],
+	imports: [OptionPillComponent, StateMessageComponent, TranslateDirective],
 	templateUrl: './reminders.component.html',
 })
 export class RemindersComponent {

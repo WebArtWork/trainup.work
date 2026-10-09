@@ -4,17 +4,7 @@
 			class="pointer-events-none absolute -left-6 -top-8 hidden h-36 w-64 rounded-full bg-[var(--c-primary)] opacity-20 blur-3xl dark:block"
 			aria-hidden="true"
 		></div>
-		<a class="link relative inline-flex min-h-11 items-center gap-1 text-sm" [routerLink]="profilePath">
-			<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
-			<span translate>Профіль</span>
-		</a>
-		<h1
-			class="font-display relative mt-2 text-3xl leading-tight text-[var(--c-text-strong)] sm:text-4xl"
-			[translate]="info.title"
-		>
-			{{ info.title }}
-		</h1>
-		<p class="relative mt-2 text-base text-[var(--c-text)]" [translate]="info.description">
+		<p class="relative text-base text-[var(--c-text)]" [translate]="info.description">
 			{{ info.description }}
 		</p>
 	</header>

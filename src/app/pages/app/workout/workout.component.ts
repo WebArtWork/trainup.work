@@ -10,10 +10,6 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 @Component({
 	imports: [RouterLink, SessionCardComponent, StateMessageComponent, TranslateDirective],
 	template: `
-		<h1 class="font-display text-4xl leading-tight text-[var(--c-text-strong)] sm:text-5xl" translate>
-			Тренування
-		</h1>
-
 		<div class="mt-6">
 			@let stateValue = state();
 			@switch (stateValue) {

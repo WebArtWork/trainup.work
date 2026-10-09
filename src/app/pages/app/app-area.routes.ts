@@ -48,13 +48,13 @@ export const APP_AREA_ROUTES: Routes = [
 							{ path: '', pathMatch: 'full', redirectTo: 'today' },
 							{
 								path: 'today',
-								data: { meta: appPageMeta('today') },
+								data: { meta: appPageMeta('today'), barTitle: true },
 								loadComponent: () =>
 									import('./today/today.component').then((m) => m.TodayComponent),
 							},
 							{
 								path: 'workout',
-								data: { meta: appPageMeta('workout') },
+								data: { meta: appPageMeta('workout'), barTitle: true },
 								loadComponent: () =>
 									import('./workout/workout.component').then(
 										(m) => m.WorkoutComponent,
@@ -70,13 +70,13 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'plan',
-								data: { meta: appPageMeta('plan') },
+								data: { meta: appPageMeta('plan'), barTitle: true },
 								loadComponent: () =>
 									import('./plan/plan.component').then((m) => m.PlanComponent),
 							},
 							{
 								path: 'history',
-								data: { meta: appPageMeta('history') },
+								data: { meta: appPageMeta('history'), barTitle: true },
 								loadComponent: () =>
 									import('./history/history.component').then(
 										(m) => m.HistoryComponent,
@@ -84,13 +84,13 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'todos',
-								data: { meta: appPageMeta('todos') },
+								data: { meta: appPageMeta('todos'), barTitle: true },
 								loadComponent: () =>
 									import('./todos/todos.component').then((m) => m.TodosComponent),
 							},
 							{
 								path: 'reminders',
-								data: { meta: appPageMeta('reminders') },
+								data: { meta: appPageMeta('reminders'), barTitle: true },
 								loadComponent: () =>
 									import('./reminders/reminders.component').then(
 										(m) => m.RemindersComponent,
@@ -98,7 +98,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'explore',
-								data: { meta: appPageMeta('explore') },
+								data: { meta: appPageMeta('explore'), barTitle: true },
 								loadComponent: () =>
 									import('./explore/explore.component').then(
 										(m) => m.ExploreComponent,
@@ -125,7 +125,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'settings',
-								data: { meta: appPageMeta('settings') },
+								data: { meta: appPageMeta('settings'), barTitle: true },
 								loadComponent: () =>
 									import('./settings/settings.component').then(
 										(m) => m.SettingsComponent,
@@ -133,7 +133,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'settings/ai',
-								data: { meta: appPageMeta('ai-settings') },
+								data: { meta: appPageMeta('ai-settings'), barTitle: true },
 								loadComponent: () =>
 									import('./ai-settings/ai-settings.component').then(
 										(m) => m.AiSettingsComponent,
@@ -141,7 +141,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'data',
-								data: { meta: appPageMeta('data') },
+								data: { meta: appPageMeta('data'), barTitle: true },
 								loadComponent: () =>
 									import('./data-privacy/data-privacy.component').then(
 										(m) => m.DataPrivacyComponent,
@@ -149,6 +149,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: 'profile/:section',
+								data: { barTitle: true },
 								resolve: {
 									meta: (route: ActivatedRouteSnapshot) => {
 										const section = route.paramMap.get('section');
@@ -169,7 +170,7 @@ export const APP_AREA_ROUTES: Routes = [
 							},
 							{
 								path: '**',
-								data: { meta: appPageMeta('not-found') },
+								data: { meta: appPageMeta('not-found'), barTitle: true },
 								loadComponent: () =>
 									import('./not-found/not-found.component').then(
 										(m) => m.NotFoundComponent,

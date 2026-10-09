@@ -14,19 +14,6 @@ interface SettingsLink {
 @Component({
 	imports: [OptionPillComponent, RouterLink, TranslateDirective],
 	template: `
-		<header>
-			<a
-				class="link inline-flex min-h-11 items-center gap-1 text-sm font-semibold"
-				routerLink="/app/profile"
-			>
-				<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
-				<span translate>Профіль</span>
-			</a>
-			<h1 class="font-display mt-2 text-3xl text-[var(--c-text-strong)] sm:text-4xl" translate>
-				Налаштування
-			</h1>
-		</header>
-
 		<div class="mt-6 flex flex-col gap-5 pb-28">
 			<section class="surface divide-y divide-[var(--c-border)]">
 				<div class="flex flex-col gap-3 p-4 sm:p-5" role="group" aria-labelledby="theme-title">

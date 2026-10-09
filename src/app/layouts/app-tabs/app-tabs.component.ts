@@ -24,7 +24,7 @@ interface AppTab {
 			[translate]="{ ariaLabel: 'Основна навігація' }"
 		>
 			<ul
-				class="surface-raised mx-auto grid max-w-md grid-cols-4 gap-1 p-1.5 dark:bg-[var(--c-bg-secondary)]/85 dark:backdrop-blur-xl"
+				class="surface-raised mx-auto grid max-w-md grid-cols-3 gap-1 p-1.5 dark:bg-[var(--c-bg-secondary)]/85 dark:backdrop-blur-xl"
 			>
 				@for (tab of tabs; track tab.path) {
 					<li>
@@ -50,7 +50,6 @@ export class AppTabsComponent {
 		{ path: '/app/today', label: 'Сьогодні', icon: 'today' },
 		{ path: '/app/workout', label: 'Тренування', icon: 'exercise' },
 		{ path: '/app/explore', label: 'Вправи', icon: 'search' },
-		{ path: '/app/profile', label: 'Профіль', icon: 'person' },
 	];
 
 	constructor() {

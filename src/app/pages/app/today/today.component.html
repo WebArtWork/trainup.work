@@ -1,19 +1,4 @@
-<header class="hero-glow">
-	<h1 class="font-display text-4xl leading-tight text-[var(--c-text-strong)] sm:text-5xl" translate>
-		Сьогодні
-	</h1>
-	@if (firstName(); as name) {
-		<p class="mt-1 text-base text-[var(--c-text)]"><span translate>Привіт</span>, {{ name }}!</p>
-	}
-</header>
-
-@if (catalog.usesDrafts) {
-	<p class="surface-inset mt-4 p-3 text-xs leading-5 text-[var(--c-text-muted)]" translate>
-		Режим розробки: план складається з чернеток вправ, які ще не перевірив фахівець.
-	</p>
-}
-
-<div class="mt-6 flex flex-col gap-5">
+<div class="flex flex-col gap-5">
 	@let stateValue = state();
 	@switch (stateValue) {
 		@case ('loading') {

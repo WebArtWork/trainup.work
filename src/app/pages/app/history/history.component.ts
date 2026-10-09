@@ -1,6 +1,5 @@
 import { Component, computed, inject, signal } from '@angular/core';
 import { addDays, WEEKDAYS, weekdayOf } from '@trainup/planner';
-import { RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { injectLocale } from '../../../feature/plan/locale';
 import { formatPlanDate, localToday } from '../../../feature/plan/plan.util';
@@ -12,21 +11,8 @@ import { WorkoutSessionService } from '../../../feature/workout-session/workout-
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
 @Component({
-	imports: [RouterLink, StateMessageComponent, TranslateDirective],
+	imports: [StateMessageComponent, TranslateDirective],
 	template: `
-			<header>
-				<a
-					class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-md text-sm font-semibold text-[var(--c-primary-text)]"
-					routerLink="/app/today"
-				>
-					<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
-					<span translate>Сьогодні</span>
-				</a>
-				<h1 class="font-display mt-3 text-3xl text-[var(--c-text-strong)] sm:text-4xl" translate>
-					Історія тренувань
-				</h1>
-			</header>
-
 			<div class="mt-6 pb-28">
 				@let stateValue = state();
 				@switch (stateValue) {

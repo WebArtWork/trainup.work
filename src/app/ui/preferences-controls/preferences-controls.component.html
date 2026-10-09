@@ -1,0 +1,67 @@
+<div class="flex items-center gap-2 sm:gap-3">
+	<div class="relative">
+		<button
+			class="icon-btn w-auto gap-1 pl-3 pr-2"
+			[attr.aria-expanded]="languageMenuOpen()"
+			[attr.aria-label]="languageMenuLabel()"
+			(click)="toggleLanguageMenu()"
+			type="button"
+		>
+			<img
+				class="h-5 w-7 rounded-[4px] border border-black/10 object-cover"
+				[alt]="currentLanguage().nativeName"
+				[ngSrc]="currentLanguage().flagSrc"
+				width="28"
+				height="20"
+			/>
+			<span class="material-symbols-outlined text-[20px]" aria-hidden="true">
+				arrow_drop_down
+			</span>
+		</button>
+
+		@if (languageMenuOpen()) {
+			<div
+				class="surface-pop absolute right-0 z-50 min-w-52 overflow-hidden p-1.5"
+				[class.top-[calc(100%+0.5rem)]]="!dropUp()"
+				[class.bottom-[calc(100%+0.5rem)]]="dropUp()"
+			>
+				@for (language of languages(); track language.code) {
+					<button
+						class="theme-interactive theme-focus flex min-h-11 w-full items-center gap-3 rounded-[calc(var(--radius-card)*0.6)] px-3 py-2 text-left text-sm font-medium text-[var(--c-text-strong)] hover:bg-[var(--c-bg-tertiary)]"
+						[attr.aria-current]="language.code === currentLanguage().code ? 'true' : null"
+						(click)="setLanguage(language)"
+						type="button"
+					>
+						<img
+							class="h-5 w-7 rounded-[4px] border border-black/10 object-cover"
+							[alt]="language.nativeName"
+							[ngSrc]="language.flagSrc"
+							width="28"
+							height="20"
+						/>
+						<span class="flex-1">{{ language.nativeName }}</span>
+						@if (language.code === currentLanguage().code) {
+							<span
+								class="material-symbols-outlined text-[18px] text-[var(--c-primary-text)]"
+								aria-hidden="true"
+							>
+								check
+							</span>
+						}
+					</button>
+				}
+			</div>
+		}
+	</div>
+
+	<button
+		class="icon-btn"
+		[attr.aria-label]="toggleLabel()"
+		(click)="toggleMode()"
+		type="button"
+	>
+		<span class="material-symbols-outlined text-[22px]" aria-hidden="true">
+			{{ toggleIcon() }}
+		</span>
+	</button>
+</div>

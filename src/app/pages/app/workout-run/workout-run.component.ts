@@ -3,6 +3,7 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import type { PlanDay, PlannedExercise } from '@trainup/planner';
 import { StoreService } from '@wawjs/ngx-core';
 import { TranslateDirective } from '@wawjs/ngx-translate';
+import { PageTitleService } from '../../../layouts/app-shell/page-title.service';
 import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
 import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-flag.service';
 import { BODY_AREA_OPTIONS } from '../../../feature/limitation/limitation.interface';
@@ -124,7 +125,24 @@ export class WorkoutRunComponent {
 
 		const timer = setInterval(() => this._tick(), 1000);
 
-		inject(DestroyRef).onDestroy(() => clearInterval(timer));
+		const pageTitle = inject(PageTitleService);
+
+		inject(DestroyRef).onDestroy(() => {
+			clearInterval(timer);
+			pageTitle.set(null);
+		});
+
+		effect(() => {
+			const phase = this.phase();
+
+			pageTitle.set(
+				phase === 'summary'
+					? 'Підсумок тренування'
+					: phase === 'run'
+						? (this.planned()?.name ?? null)
+						: null,
+			);
+		});
 
 		effect(() => {
 			const draft: RunDraft = {

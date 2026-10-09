@@ -1,5 +1,4 @@
 import { Component, inject, signal } from '@angular/core';
-import { RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { FirebaseError } from 'firebase/app';
 import { AppSessionService } from '../../../feature/auth/app-session.service';
@@ -10,23 +9,10 @@ type Task = 'export' | 'delete';
 const CANCELLED_CODES = new Set(['auth/popup-closed-by-user', 'auth/cancelled-popup-request']);
 
 @Component({
-	imports: [RouterLink, TranslateDirective],
+	imports: [TranslateDirective],
 	template: `
 		<header>
-			<a
-				class="link inline-flex min-h-11 items-center gap-1 text-sm font-semibold"
-				routerLink="/app/profile"
-			>
-				<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
-				<span translate>Профіль</span>
-			</a>
-			<h1
-				class="font-display mt-2 text-3xl text-[var(--c-text-strong)] sm:text-4xl"
-				translate
-			>
-				Дані та приватність
-			</h1>
-			<p class="mt-2 text-sm leading-6 text-[var(--c-text)]" translate>
+			<p class="text-sm leading-6 text-[var(--c-text)]" translate>
 				Ваші дані належать вам: їх можна завантажити або видалити будь-коли.
 			</p>
 		</header>

@@ -1,6 +1,7 @@
-import { Component, computed, inject, signal } from '@angular/core';
+import { Component, computed, DestroyRef, effect, inject, signal } from '@angular/core';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
+import { PageTitleService } from '../../../layouts/app-shell/page-title.service';
 import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
 import { injectSuitability } from '../../../feature/exercise/exercise-suitability';
 import {
@@ -55,6 +56,11 @@ export class ExerciseDetailComponent {
 	});
 
 	constructor() {
+		const pageTitle = inject(PageTitleService);
+
+		effect(() => pageTitle.set(this.exercise()?.name ?? null));
+		inject(DestroyRef).onDestroy(() => pageTitle.set(null));
+
 		this._catalog.ensureLoaded().then(
 			() => this.state.set('ready'),
 			() => this.state.set('error'),

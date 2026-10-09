@@ -2,7 +2,6 @@ import { Component, computed, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import type { Infeasibility } from '@trainup/planner';
 import { TranslateDirective } from '@wawjs/ngx-translate';
-import { AccountService } from '../../../feature/account/account.service';
 import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
 import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-flag.service';
 import { WEEKDAY_OPTIONS } from '../../../feature/profile/profile.const';
@@ -30,7 +29,6 @@ type LoadState = 'loading' | 'ready' | 'error';
 	templateUrl: './today.component.html',
 })
 export class TodayComponent {
-	private readonly _accountService = inject(AccountService);
 	private readonly _sessionService = inject(WorkoutSessionService);
 	private readonly _flags = inject(ExerciseFlagService);
 	private readonly _reminderService = inject(ReminderService);
@@ -43,9 +41,6 @@ export class TodayComponent {
 	protected readonly generateError = signal(false);
 	protected readonly infeasibility = signal<Infeasibility | null>(null);
 
-	protected readonly firstName = computed(
-		() => this._accountService.profile()?.displayName.split(' ')[0] ?? '',
-	);
 	protected readonly plan = this.planService.activePlan;
 	protected readonly completed = this._sessionService.planSessions;
 	protected readonly todayDay = computed(

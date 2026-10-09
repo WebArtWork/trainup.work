@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { environment } from '../../../../environments/environment';
 
@@ -16,23 +15,10 @@ interface AiMode {
  * planner is always on; AI methods appear once their feature flag is enabled.
  */
 @Component({
-	imports: [RouterLink, TranslateDirective],
+	imports: [TranslateDirective],
 	template: `
 		<header>
-			<a
-				class="link inline-flex min-h-11 items-center gap-1 text-sm font-semibold"
-				routerLink="/app/settings"
-			>
-				<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
-				<span translate>Налаштування</span>
-			</a>
-			<h1
-				class="font-display mt-2 text-3xl text-[var(--c-text-strong)] sm:text-4xl"
-				translate
-			>
-				Штучний інтелект
-			</h1>
-			<p class="mt-2 text-sm leading-6 text-[var(--c-text)]" translate>
+			<p class="text-sm leading-6 text-[var(--c-text)]" translate>
 				ШІ — лише за бажанням. План тренувань складається й без нього; кожну пропозицію ШІ перевіряє той самий валідатор обладнання, простору та часу.
 			</p>
 		</header>

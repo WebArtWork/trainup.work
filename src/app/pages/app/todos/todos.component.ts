@@ -1,28 +1,14 @@
 import { Component, inject, signal } from '@angular/core';
-import { RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { TodoListComponent } from '../../../feature/todo/components/todo-list/todo-list.component';
 import { TodoService } from '../../../feature/todo/todo.service';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
 @Component({
-	imports: [RouterLink, StateMessageComponent, TodoListComponent, TranslateDirective],
+	imports: [StateMessageComponent, TodoListComponent, TranslateDirective],
 	template: `
 		<header>
-			<a
-				class="link inline-flex min-h-11 items-center gap-1 text-sm font-semibold"
-				routerLink="/app/today"
-			>
-				<span class="material-symbols-outlined text-[20px]" aria-hidden="true">arrow_back</span>
-				<span translate>Сьогодні</span>
-			</a>
-			<h1
-				class="font-display mt-2 text-3xl text-[var(--c-text-strong)] sm:text-4xl"
-				translate
-			>
-				Справи
-			</h1>
-			<p class="mt-2 text-sm text-[var(--c-text)]" translate>
+			<p class="text-sm text-[var(--c-text)]" translate>
 				Короткий список на день. Тренування показуються окремо на сторінці «Сьогодні».
 			</p>
 		</header>
