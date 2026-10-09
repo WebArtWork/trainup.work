@@ -104,6 +104,25 @@ export const APP_AREA_ROUTES: Routes = [
 									),
 							},
 							{
+								path: 'settings',
+								loadComponent: () =>
+									import('./settings/settings.component').then((m) => m.SettingsComponent),
+							},
+							{
+								path: 'settings/ai',
+								loadComponent: () =>
+									import('./ai-settings/ai-settings.component').then(
+										(m) => m.AiSettingsComponent,
+									),
+							},
+							{
+								path: 'data',
+								loadComponent: () =>
+									import('./data-privacy/data-privacy.component').then(
+										(m) => m.DataPrivacyComponent,
+									),
+							},
+							{
 								path: 'profile/:section',
 								canActivate: [
 									(route) =>
@@ -114,6 +133,11 @@ export const APP_AREA_ROUTES: Routes = [
 									import('./profile-edit/profile-edit.component').then(
 										(m) => m.ProfileEditComponent,
 									),
+							},
+							{
+								path: '**',
+								loadComponent: () =>
+									import('./not-found/not-found.component').then((m) => m.NotFoundComponent),
 							},
 						],
 					},

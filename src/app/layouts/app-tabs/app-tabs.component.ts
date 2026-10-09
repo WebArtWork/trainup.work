@@ -1,6 +1,7 @@
 import { Component, DestroyRef, inject } from '@angular/core';
 import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
+import { OfflineBannerComponent } from '../../ui/offline-banner/offline-banner.component';
 import { ReminderService } from '../../feature/reminder/reminder.service';
 
 interface AppTab {
@@ -11,8 +12,9 @@ interface AppTab {
 
 /** Bottom navigation for the main app pages (README §7). */
 @Component({
-	imports: [RouterLink, RouterLinkActive, RouterOutlet, TranslateDirective],
+	imports: [OfflineBannerComponent, RouterLink, RouterLinkActive, RouterOutlet, TranslateDirective],
 	template: `
+		<app-offline-banner />
 		<div class="pb-24">
 			<router-outlet />
 		</div>

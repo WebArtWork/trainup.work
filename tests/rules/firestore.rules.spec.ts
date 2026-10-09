@@ -480,3 +480,78 @@ describe('exercises', () => {
 		await assertSucceeds(getDoc(doc(db('admin', { admin: true }), 'exercises/draft')));
 	});
 });
+
+describe('account deletion', () => {
+	const planRef = (uid: string) => doc(db(uid), 'users/alice/plans/plan1');
+	const savePlan = () =>
+		setDoc(planRef('alice'), {
+			...generatedPlan(),
+			status: 'active',
+			createdAt: serverTimestamp(),
+		});
+	const flag = () => ({
+		schemaVersion: 1,
+		exerciseId: 'push-up',
+		reason: 'pain',
+		areas: ['wrists'],
+		planId: 'plan1',
+		sessionDate: '2026-10-07',
+		active: true,
+		createdAt: serverTimestamp(),
+		resolvedAt: null,
+	});
+
+	it('keeps immutable documents undeletable until the user requests deletion', async () => {
+		await seedAlice();
+		await assertSucceeds(savePlan());
+		await assertSucceeds(setDoc(doc(db('alice'), 'users/alice/trainingSetups/primary'), setup()));
+		await assertSucceeds(
+			setDoc(doc(db('alice'), 'users/alice/exerciseFlags/push-up'), flag()),
+		);
+
+		await assertFails(deleteDoc(planRef('alice')));
+		await assertFails(deleteDoc(doc(db('alice'), 'users/alice/exerciseFlags/push-up')));
+		await assertFails(deleteDoc(doc(db('alice'), 'users/alice')));
+	});
+
+	it('lets the owner delete everything once deletion is requested, profile last', async () => {
+		await seedAlice();
+		await assertSucceeds(savePlan());
+		await assertSucceeds(setDoc(doc(db('alice'), 'users/alice/trainingSetups/primary'), setup()));
+		await assertSucceeds(
+			setDoc(doc(db('alice'), 'users/alice/exerciseFlags/push-up'), flag()),
+		);
+		await assertSucceeds(
+			updateDoc(doc(db('alice'), 'users/alice'), {
+				deletionRequestedAt: serverTimestamp(),
+				updatedAt: serverTimestamp(),
+			}),
+		);
+
+		await assertSucceeds(deleteDoc(planRef('alice')));
+		await assertSucceeds(deleteDoc(doc(db('alice'), 'users/alice/exerciseFlags/push-up')));
+		await assertSucceeds(deleteDoc(doc(db('alice'), 'users/alice/trainingSetups/primary')));
+		await assertSucceeds(deleteDoc(doc(db('alice'), 'users/alice')));
+	});
+
+	it('does not let another user delete or flag someone else for deletion', async () => {
+		await seedAlice();
+		await assertFails(
+			updateDoc(doc(db('bob'), 'users/alice'), {
+				deletionRequestedAt: serverTimestamp(),
+				updatedAt: serverTimestamp(),
+			}),
+		);
+		await assertFails(deleteDoc(doc(db('bob'), 'users/alice')));
+	});
+
+	it('rejects a deletion marker that is not a timestamp', async () => {
+		await seedAlice();
+		await assertFails(
+			updateDoc(doc(db('alice'), 'users/alice'), {
+				deletionRequestedAt: 'yes',
+				updatedAt: serverTimestamp(),
+			}),
+		);
+	});
+});

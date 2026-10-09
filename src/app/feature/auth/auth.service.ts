@@ -1,9 +1,11 @@
 import { inject, Service, signal } from '@angular/core';
 import {
 	AuthProvider,
+	deleteUser,
 	GoogleAuthProvider,
 	OAuthProvider,
 	onAuthStateChanged,
+	reauthenticateWithPopup,
 	signInWithPopup,
 	signOut,
 	User,
@@ -61,6 +63,31 @@ export class AuthService {
 		this.user.set(credential.user);
 
 		return credential.user;
+	}
+
+	/** Re-checks the user with the provider they signed in with; needed before deleting the account. */
+	async reauthenticate(): Promise<void> {
+		const user = this._firebase.auth?.currentUser;
+
+		if (!user) {
+			throw new Error('No signed-in user.');
+		}
+
+		const provider: SignInProvider =
+			user.providerData[0]?.providerId === 'apple.com' ? 'apple' : 'google';
+
+		await reauthenticateWithPopup(user, _createProvider(provider));
+	}
+
+	/** Deletes the Firebase Auth user. Call only after their data is gone. */
+	async deleteCurrentUser(): Promise<void> {
+		const user = this._firebase.auth?.currentUser;
+
+		if (user) {
+			await deleteUser(user);
+		}
+
+		this.user.set(null);
 	}
 
 	async signOut(): Promise<void> {

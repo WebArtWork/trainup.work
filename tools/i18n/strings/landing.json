@@ -1,0 +1,18 @@
+[
+	{ "ua": "Веб-версія вже доступна · застосунки для телефонів скоро", "en": "Web version available now · phone apps coming soon" },
+	{ "ua": "Відкрити застосунок", "en": "Open the app" },
+	{ "ua": "Ваші дані — під вашим контролем", "en": "Your data stays under your control" },
+	{ "ua": "Ми зберігаємо лише те, що потрібно для плану, не продаємо дані й не показуємо рекламу. Дані лежать у ЄС, а завантажити їх чи видалити акаунт можна в будь-який момент.", "en": "We store only what the plan needs, never sell data and show no ads. Data is kept in the EU, and you can download it or delete your account at any time." },
+	{ "ua": "Часті запитання", "en": "Frequently asked questions" },
+	{ "ua": "Завантажте застосунок", "en": "Get the app" },
+	{ "ua": "Чи потрібен мені ШІ, щоб отримати план?", "en": "Do I need AI to get a plan?" },
+	{ "ua": "Ні. План складає планувальник за чіткими правилами — без промптів і чатів. ШІ лише необов’язкове доповнення, і навіть тоді кожну пропозицію перевіряє той самий валідатор.", "en": "No. A planner builds your plan from clear rules — no prompts or chats. AI is only an optional extra, and even then the same validator checks every proposal." },
+	{ "ua": "Чи підійде TrainUp, якщо в мене мало місця чи немає обладнання?", "en": "Will TrainUp work if I have little space or no equipment?" },
+	{ "ua": "Так. Ви вказуєте, що у вас є і скільки місця, — планувальник підбирає лише ті вправи, які можна виконати саме у вашому просторі.", "en": "Yes. You tell it what you have and how much room there is, and the planner picks only exercises that can be done in your space." },
+	{ "ua": "Що буде, якщо під час тренування з’явиться біль?", "en": "What happens if I feel pain during a workout?" },
+	{ "ua": "Натисніть «Відчуваю біль»: тренування вправи зупиниться, а сама вправа буде призупинена й більше не пропонуватиметься, доки ви її не поверните. Застосунок ніколи не підвищує навантаження через біль.", "en": "Tap “I feel pain”: the exercise stops, is paused, and will not be suggested again until you bring it back. The app never increases load because of pain." },
+	{ "ua": "Чи замінює TrainUp тренера або лікаря?", "en": "Does TrainUp replace a coach or a doctor?" },
+	{ "ua": "Ні. TrainUp не ставить діагнозів і не лікує. За наявності захворювань чи травм порадьтеся з лікарем перед початком тренувань.", "en": "No. TrainUp does not diagnose or treat anything. If you have a medical condition or an injury, talk to a doctor before you start training." },
+	{ "ua": "Які мої дані ви зберігаєте і чи можу я їх видалити?", "en": "What data do you store, and can I delete it?" },
+	{ "ua": "Лише те, що потрібно для плану: профіль, обладнання, простір, обмеження та історію тренувань. Дані зберігаються в ЄС, ви можете завантажити їх або видалити акаунт у будь-який момент.", "en": "Only what the plan needs: your profile, equipment, space, limitations and workout history. Data is stored in the EU, and you can download it or delete your account at any time." }
+]

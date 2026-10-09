@@ -1,9 +1,21 @@
 import { Component } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 
 interface LandingStep {
 	title: string;
 	text: string;
+}
+
+interface LandingFaq {
+	question: string;
+	answer: string;
+}
+
+interface StoreLink {
+	label: string;
+	url: string;
+	icon: string;
 }
 
 interface LandingFeature {
@@ -13,7 +25,7 @@ interface LandingFeature {
 }
 
 @Component({
-	imports: [TranslateDirective],
+	imports: [RouterLink, TranslateDirective],
 	templateUrl: './landing.component.html',
 	styleUrl: './landing.component.scss',
 })
@@ -62,6 +74,32 @@ export class LandingComponent {
 			icon: 'health_and_safety',
 			title: 'Безпека понад усе',
 			text: 'TrainUp не ставить діагнозів і не замінює консультацію лікаря. Якщо з’явився біль — зупиніться: застосунок не підвищуватиме навантаження автоматично.',
+		},
+	];
+
+	/** Add App Store / Google Play listings here once the apps are published; the section stays hidden while empty. */
+	protected readonly storeLinks: StoreLink[] = [];
+
+	protected readonly faq: LandingFaq[] = [
+		{
+			question: 'Чи потрібен мені ШІ, щоб отримати план?',
+			answer: 'Ні. План складає планувальник за чіткими правилами — без промптів і чатів. ШІ лише необов’язкове доповнення, і навіть тоді кожну пропозицію перевіряє той самий валідатор.',
+		},
+		{
+			question: 'Чи підійде TrainUp, якщо в мене мало місця чи немає обладнання?',
+			answer: 'Так. Ви вказуєте, що у вас є і скільки місця, — планувальник підбирає лише ті вправи, які можна виконати саме у вашому просторі.',
+		},
+		{
+			question: 'Що буде, якщо під час тренування з’явиться біль?',
+			answer: 'Натисніть «Відчуваю біль»: тренування вправи зупиниться, а сама вправа буде призупинена й більше не пропонуватиметься, доки ви її не поверните. Застосунок ніколи не підвищує навантаження через біль.',
+		},
+		{
+			question: 'Чи замінює TrainUp тренера або лікаря?',
+			answer: 'Ні. TrainUp не ставить діагнозів і не лікує. За наявності захворювань чи травм порадьтеся з лікарем перед початком тренувань.',
+		},
+		{
+			question: 'Які мої дані ви зберігаєте і чи можу я їх видалити?',
+			answer: 'Лише те, що потрібно для плану: профіль, обладнання, простір, обмеження та історію тренувань. Дані зберігаються в ЄС, ви можете завантажити їх або видалити акаунт у будь-який момент.',
 		},
 	];
 }

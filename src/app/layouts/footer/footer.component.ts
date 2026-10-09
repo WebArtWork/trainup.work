@@ -24,6 +24,14 @@ export class FooterComponent {
 			label: 'Головна',
 			path: '/',
 		},
+		{
+			label: 'Політика конфіденційності',
+			path: '/privacy',
+		},
+		{
+			label: 'Умови користування',
+			path: '/terms',
+		},
 	]);
 	protected readonly companyImage = computed(() => this.company().image || 'logo.png');
 	protected readonly companyImageAlt = computed(() =>

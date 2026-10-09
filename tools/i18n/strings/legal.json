@@ -1,0 +1,290 @@
+[
+	{
+		"ua": "Зв’язок",
+		"en": "Contact"
+	},
+	{
+		"ua": "Питання щодо цієї сторінки та ваших даних: {{email}}",
+		"en": "Questions about this page or your data: {{email}}"
+	},
+	{
+		"ua": "Питання щодо цієї сторінки та ваших даних можна надіслати через сайт trainup.work.",
+		"en": "Questions about this page or your data can be sent through the trainup.work website."
+	},
+	{
+		"ua": "Політика конфіденційності",
+		"en": "Privacy Policy"
+	},
+	{
+		"ua": "Умови користування",
+		"en": "Terms of Use"
+	},
+	{
+		"ua": "Юридична інформація",
+		"en": "Legal information"
+	},
+	{
+		"ua": "На головну",
+		"en": "Back to home"
+	},
+	{
+		"ua": "Політика конфіденційності",
+		"en": "Privacy Policy"
+	},
+	{
+		"ua": "Останнє оновлення: 9 жовтня 2026",
+		"en": "Last updated: 9 October 2026"
+	},
+	{
+		"ua": "TrainUp складає плани тренувань під вашу ціль, обладнання та простір. Щоб це робити, нам потрібні деякі ваші дані. Тут простими словами пояснено, які саме і навіщо.",
+		"en": "TrainUp builds workout plans around your goal, equipment and space. To do that we need some of your data. This page explains in plain language which data, and why."
+	},
+	{
+		"ua": "1. Хто відповідає за ваші дані",
+		"en": "1. Who is responsible for your data"
+	},
+	{
+		"ua": "Власник сервісу TrainUp (далі — «ми») визначає, як і для чого обробляються ваші дані, та відповідає за їх захист.",
+		"en": "The operator of TrainUp (“we”) decides how and why your data is processed and is responsible for protecting it."
+	},
+	{
+		"ua": "2. Які дані ми обробляємо",
+		"en": "2. What data we process"
+	},
+	{
+		"ua": "Ми обробляємо лише те, що потрібно для роботи застосунку:",
+		"en": "We process only what the app needs to work:"
+	},
+	{
+		"ua": "Акаунт: ім’я, email і фото профілю з вашого акаунта Google або Apple.",
+		"en": "Account: name, email and profile photo from your Google or Apple account."
+	},
+	{
+		"ua": "Профіль: ціль, рівень підготовки, графік тренувань, мова та часовий пояс; за бажанням — вік, зріст і вага.",
+		"en": "Profile: goal, fitness level, training schedule, language and time zone; optionally age, height and weight."
+	},
+	{
+		"ua": "Обладнання та простір: що у вас є для тренувань, розміри місця, покриття, висота стелі, обмеження щодо шуму та стрибків.",
+		"en": "Equipment and space: what you train with, the size of your space, surface, ceiling height, noise and jumping restrictions."
+	},
+	{
+		"ua": "Обмеження та біль: ділянки тіла, які потрібно берегти, нотатки до них, а також повідомлення про біль під час тренувань.",
+		"en": "Limitations and pain: body areas to protect, notes about them, and pain you report during workouts."
+	},
+	{
+		"ua": "Плани і тренування: складені плани, відмічені підходи, тривалість, оцінка зусиль (RPE) та ваші нотатки.",
+		"en": "Plans and workouts: generated plans, completed sets, duration, effort rating (RPE) and your notes."
+	},
+	{
+		"ua": "Справи й нагадування: ваші щоденні справи та налаштування нагадувань про тренування.",
+		"en": "To-dos and reminders: your daily tasks and workout reminder settings."
+	},
+	{
+		"ua": "3. Дані про здоров’я",
+		"en": "3. Health-related data"
+	},
+	{
+		"ua": "Відомості про обмеження, біль, вагу та самопочуття можуть вважатися даними про здоров’я — це особлива категорія даних. Ви надаєте їх добровільно й можете пропустити більшість із них. Ми використовуємо їх лише для того, щоб підбирати безпечніші вправи, і лише з вашої згоди, яку ви надаєте, заповнюючи відповідні поля. Згоду можна відкликати в будь-який момент, видаливши ці дані або весь акаунт.",
+		"en": "Information about limitations, pain, weight and how you feel can count as health data, which is a special category. You provide it voluntarily and can skip most of it. We use it only to choose safer exercises, and only with your consent, which you give by filling in the relevant fields. You can withdraw consent at any time by deleting this data or your whole account."
+	},
+	{
+		"ua": "4. Навіщо і на якій підставі",
+		"en": "4. Why and on what basis"
+	},
+	{
+		"ua": "Ми не продаємо ваші дані, не показуємо рекламу і наразі не використовуємо рекламні чи аналітичні трекери.",
+		"en": "We do not sell your data, we do not show ads, and we do not currently use advertising or analytics trackers."
+	},
+	{
+		"ua": "Надання сервісу (виконання угоди): акаунт, складання планів, облік тренувань, справи й нагадування.",
+		"en": "Providing the service (performance of a contract): account, plan generation, workout tracking, to-dos and reminders."
+	},
+	{
+		"ua": "Ваша згода: обробка даних про здоров’я та обмеження.",
+		"en": "Your consent: processing of health data and limitations."
+	},
+	{
+		"ua": "Законний інтерес: безпека акаунтів і запобігання зловживанням.",
+		"en": "Legitimate interest: account security and abuse prevention."
+	},
+	{
+		"ua": "5. Де зберігаються дані і хто їх обробляє",
+		"en": "5. Where data is stored and who processes it"
+	},
+	{
+		"ua": "Вхід і зберігання даних забезпечує Google Firebase (Authentication і Firestore). База даних розташована в Європейському Союзі (Франкфурт, Німеччина). Вхід через Google або Apple обробляється цими компаніями за їхніми власними політиками конфіденційності. Дані кожного користувача ізольовані: правила доступу не дозволяють іншим користувачам їх читати.",
+		"en": "Sign-in and data storage are provided by Google Firebase (Authentication and Firestore). The database is located in the European Union (Frankfurt, Germany). Sign-in with Google or Apple is handled by those companies under their own privacy policies. Each user’s data is isolated: access rules do not allow other users to read it."
+	},
+	{
+		"ua": "Ваш браузер також зберігає на пристрої технічні дані: сесію входу, мову, тему та чернетки (наприклад, незавершене тренування).",
+		"en": "Your browser also stores technical data on your device: your sign-in session, language, theme and drafts (for example an unfinished workout)."
+	},
+	{
+		"ua": "6. Штучний інтелект",
+		"en": "6. Artificial intelligence"
+	},
+	{
+		"ua": "TrainUp працює без ШІ. Якщо ми додамо необов’язкові функції ШІ, до сторонніх провайдерів надсилатиметься лише мінімум даних для складання плану — без імені, email і ваших вільних нотаток — і лише якщо ви ввімкнули цю функцію.",
+		"en": "TrainUp works without AI. If we add optional AI features, only the minimum data needed to build a plan will be sent to third-party providers — never your name, email or free-text notes — and only if you turned the feature on."
+	},
+	{
+		"ua": "7. Як довго ми зберігаємо дані",
+		"en": "7. How long we keep data"
+	},
+	{
+		"ua": "Ми зберігаємо ваші дані, поки у вас є акаунт. Ви можете видалити акаунт і всі пов’язані дані в застосунку: Профіль → Дані та приватність. Видалення незворотне.",
+		"en": "We keep your data while you have an account. You can delete your account and all related data in the app: Profile → Data and privacy. Deletion is permanent."
+	},
+	{
+		"ua": "8. Ваші права",
+		"en": "8. Your rights"
+	},
+	{
+		"ua": "Ви маєте право:",
+		"en": "You have the right to:"
+	},
+	{
+		"ua": "отримати копію своїх даних — кнопка «Завантажити мої дані» в застосунку;",
+		"en": "get a copy of your data — the “Download my data” button in the app;"
+	},
+	{
+		"ua": "виправити дані — у розділі Профіль;",
+		"en": "correct your data — in the Profile section;"
+	},
+	{
+		"ua": "видалити дані й акаунт — Профіль → Дані та приватність;",
+		"en": "delete your data and account — Profile → Data and privacy;"
+	},
+	{
+		"ua": "відкликати згоду та заперечити проти обробки;",
+		"en": "withdraw consent and object to processing;"
+	},
+	{
+		"ua": "подати скаргу до наглядового органу із захисту даних вашої країни.",
+		"en": "lodge a complaint with the data protection authority in your country."
+	},
+	{
+		"ua": "9. Вікові обмеження",
+		"en": "9. Age limit"
+	},
+	{
+		"ua": "TrainUp призначений для користувачів від 16 років. Якщо вам менше, не користуйтеся застосунком.",
+		"en": "TrainUp is intended for users aged 16 and over. If you are younger, please do not use the app."
+	},
+	{
+		"ua": "10. Безпека",
+		"en": "10. Security"
+	},
+	{
+		"ua": "Дані передаються через захищене з’єднання, доступ до них обмежений правилами бази даних. Паролів ми не зберігаємо — вхід виконується через Google або Apple. Жоден сервіс не гарантує абсолютного захисту, тож за підозри на проблему напишіть нам.",
+		"en": "Data travels over a secure connection and access is limited by database rules. We store no passwords — sign-in goes through Google or Apple. No service can promise absolute security, so contact us if you suspect a problem."
+	},
+	{
+		"ua": "11. Зміни політики",
+		"en": "11. Changes to this policy"
+	},
+	{
+		"ua": "Якщо ми суттєво змінимо політику, ми оновимо дату на цій сторінці та повідомимо вас у застосунку.",
+		"en": "If we change this policy in a meaningful way, we will update the date on this page and tell you in the app."
+	},
+	{
+		"ua": "Умови користування",
+		"en": "Terms of Use"
+	},
+	{
+		"ua": "Останнє оновлення: 9 жовтня 2026",
+		"en": "Last updated: 9 October 2026"
+	},
+	{
+		"ua": "Користуючись TrainUp, ви погоджуєтеся з цими умовами. Якщо не погоджуєтеся — будь ласка, не користуйтеся застосунком.",
+		"en": "By using TrainUp you agree to these terms. If you do not agree, please do not use the app."
+	},
+	{
+		"ua": "1. Що таке TrainUp",
+		"en": "1. What TrainUp is"
+	},
+	{
+		"ua": "TrainUp — застосунок, який складає план тренувань за вашою ціллю, рівнем, обладнанням, простором і графіком, веде вас через тренування та враховує ваш відгук.",
+		"en": "TrainUp is an app that builds a workout plan from your goal, level, equipment, space and schedule, guides you through workouts, and takes your feedback into account."
+	},
+	{
+		"ua": "2. Не медична порада",
+		"en": "2. Not medical advice"
+	},
+	{
+		"ua": "TrainUp не ставить діагнозів, не лікує і не замінює консультацію лікаря чи фахівця з фізичної терапії. Перед початком тренувань, особливо за наявності захворювань, травм чи вагітності, порадьтеся з лікарем.",
+		"en": "TrainUp does not diagnose or treat anything and does not replace advice from a doctor or physical therapist. Before you start training, especially if you have a medical condition, an injury or are pregnant, talk to a doctor."
+	},
+	{
+		"ua": "Тренуйтеся лише в безпечному місці та в межах своїх можливостей. Якщо з’явився біль, запаморочення чи інший дискомфорт — негайно зупиніться. Ви тренуєтеся на власну відповідальність.",
+		"en": "Train only in a safe place and within your abilities. If you feel pain, dizziness or other discomfort, stop immediately. You train at your own risk."
+	},
+	{
+		"ua": "3. Хто може користуватися",
+		"en": "3. Who can use it"
+	},
+	{
+		"ua": "Користуватися застосунком можуть особи від 16 років. Ви відповідаєте за правдивість даних, які вводите, і за збереження доступу до свого акаунта Google або Apple.",
+		"en": "The app is for people aged 16 and over. You are responsible for the accuracy of the information you enter and for keeping access to your Google or Apple account secure."
+	},
+	{
+		"ua": "4. Акаунт і дані",
+		"en": "4. Account and data"
+	},
+	{
+		"ua": "Як ми обробляємо ваші дані, описано в Політиці конфіденційності. Ви можете будь-коли завантажити свої дані або видалити акаунт у розділі Профіль → Дані та приватність.",
+		"en": "How we handle your data is described in the Privacy Policy. You can download your data or delete your account at any time in Profile → Data and privacy."
+	},
+	{
+		"ua": "5. Правила користування",
+		"en": "5. Acceptable use"
+	},
+	{
+		"ua": "Не намагайтеся:",
+		"en": "Do not:"
+	},
+	{
+		"ua": "отримати доступ до чужих даних або порушити роботу сервісу;",
+		"en": "access other people’s data or disrupt the service;"
+	},
+	{
+		"ua": "копіювати, продавати чи розповсюджувати вміст застосунку без дозволу;",
+		"en": "copy, sell or redistribute the app’s content without permission;"
+	},
+	{
+		"ua": "використовувати застосунок у незаконних цілях.",
+		"en": "use the app for unlawful purposes."
+	},
+	{
+		"ua": "6. Вміст і права",
+		"en": "6. Content and rights"
+	},
+	{
+		"ua": "Опис вправ, зображення, дизайн і код TrainUp належать нам або використовуються за ліцензією. Ваші дані залишаються вашими; ми використовуємо їх лише для роботи сервісу, як описано в Політиці конфіденційності.",
+		"en": "The exercise descriptions, images, design and code of TrainUp belong to us or are used under licence. Your data remains yours; we use it only to run the service, as described in the Privacy Policy."
+	},
+	{
+		"ua": "7. Доступність і відповідальність",
+		"en": "7. Availability and liability"
+	},
+	{
+		"ua": "Ми прагнемо, щоб сервіс працював стабільно, але не гарантуємо безперебійної роботи чи того, що план підійде саме вам. Наскільки це дозволяє закон, ми не відповідаємо за травми чи збитки, що виникли через користування застосунком. Це не обмежує відповідальність, яку закон не дозволяє обмежувати.",
+		"en": "We aim to keep the service reliable, but we do not guarantee uninterrupted operation or that a plan will suit you. To the extent the law allows, we are not liable for injuries or losses arising from using the app. This does not limit any liability that cannot be limited by law."
+	},
+	{
+		"ua": "8. Припинення користування",
+		"en": "8. Ending use"
+	},
+	{
+		"ua": "Ви можете будь-коли припинити користування та видалити акаунт. Ми можемо обмежити доступ до акаунта, якщо його використовують із порушенням цих умов.",
+		"en": "You can stop using the app and delete your account at any time. We may restrict an account that is used in breach of these terms."
+	},
+	{
+		"ua": "9. Зміни умов",
+		"en": "9. Changes to these terms"
+	},
+	{
+		"ua": "Ми можемо оновлювати ці умови. Дату останнього оновлення вказано вгорі; якщо зміни суттєві, ми повідомимо вас у застосунку.",
+		"en": "We may update these terms. The date of the last update is shown at the top; if changes are significant we will tell you in the app."
+	}
+]

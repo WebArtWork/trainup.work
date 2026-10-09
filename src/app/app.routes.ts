@@ -20,6 +20,18 @@ export const routes: Routes = [
 				loadComponent: () =>
 					import('./pages/landing/landing.component').then((m) => m.LandingComponent),
 			},
+			{
+				path: 'privacy',
+				data: { document: 'privacy', meta: buildRouteMeta(companyProfile, '/privacy') },
+				loadComponent: () =>
+					import('./pages/legal/legal-page.component').then((m) => m.LegalPageComponent),
+			},
+			{
+				path: 'terms',
+				data: { document: 'terms', meta: buildRouteMeta(companyProfile, '/terms') },
+				loadComponent: () =>
+					import('./pages/legal/legal-page.component').then((m) => m.LegalPageComponent),
+			},
 		],
 	},
 	{

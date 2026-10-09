@@ -11,6 +11,8 @@ export const environment: {
 	 * `bundled`: src/data/exercise/exercises.json including drafts, for development before review.
 	 */
 	exerciseSource: 'firestore' | 'bundled';
+	/** Feature flags: expose only what actually works (README §9). */
+	features: FeatureFlags;
 } = {
 	apiUrl: 'https://it.webart.work',
 	appVersion: '1.0.0',
@@ -141,7 +143,21 @@ export const environment: {
 		measurementId: 'G-CHM8EMF4KJ',
 	},
 	exerciseSource: 'firestore',
+	features: {
+		ai: false,
+		aiAppProvided: false,
+		aiApiKey: false,
+	},
 };
+
+export interface FeatureFlags {
+	/** Shows the AI section with its connection methods; off keeps the settings screen rule-based only. */
+	ai: boolean;
+	/** TrainUp's own server-side provider credential (needs a working WAW API endpoint). */
+	aiAppProvided: boolean;
+	/** The user's own provider API key (needs a working WAW API endpoint). */
+	aiApiKey: boolean;
+}
 
 export interface FirebaseConfig {
 	apiKey: string;

@@ -17,6 +17,12 @@ service cloud.firestore {
 			return signedIn() && request.auth.token.admin == true;
 		}
 
+		// Account deletion: the app first stamps `deletionRequestedAt` on the profile; only then may the
+		// owner delete the otherwise immutable documents (sessions, plans, flags) and finally the profile.
+		function deletionRequested(uid) {
+			return get(/databases/$(database)/documents/users/$(uid)).data.get('deletionRequestedAt', null) != null;
+		}
+
 		function optionalNumberInRange(value, min, max) {
 			return value == null || (value is number && value >= min && value <= max);
 		}
@@ -39,8 +45,9 @@ service cloud.firestore {
 					'schemaVersion', 'displayName', 'email', 'photoUrl', 'timeZone', 'language',
 					'goal', 'fitnessLevel', 'age', 'heightCm', 'weightKg',
 					'daysPerWeek', 'sessionMinutes', 'preferredDays',
-					'onboardingCompletedAt', 'createdAt', 'updatedAt'
+					'onboardingCompletedAt', 'createdAt', 'updatedAt', 'deletionRequestedAt'
 				])
+				&& (!('deletionRequestedAt' in data) || data.deletionRequestedAt is timestamp)
 				&& data.schemaVersion is int
 				&& stringUpTo(data.displayName, 200)
 				&& stringUpTo(data.email, 320)
@@ -115,7 +122,7 @@ service cloud.firestore {
 				])
 				&& data.schemaVersion is int
 				&& stringUpTo(data.algorithmVersion, 40)
-				&& data.provenance == 'calculator'
+				&& oneOf(data.provenance, ['calculator', 'ai'])
 				&& isDate(data.startDate)
 				&& data.weeks is int && data.weeks >= 1 && data.weeks <= 12
 				&& data.daysPerWeek is int && data.daysPerWeek >= 1 && data.daysPerWeek <= 7
@@ -208,6 +215,8 @@ service cloud.firestore {
 
 		match /users/{uid} {
 			allow read: if isOwner(uid);
+			// Last step of account deletion, after every subcollection document is gone.
+			allow delete: if isOwner(uid) && deletionRequested(uid);
 			allow create: if isOwner(uid)
 				&& validProfile(request.resource.data)
 				&& request.resource.data.onboardingCompletedAt == null
@@ -223,6 +232,7 @@ service cloud.firestore {
 			// MVP supports a single active setup (README §4.1).
 			match /trainingSetups/{setupId} {
 				allow read: if isOwner(uid);
+				allow delete: if isOwner(uid) && deletionRequested(uid);
 				allow create, update: if isOwner(uid)
 					&& setupId == 'primary'
 					&& validTrainingSetup(request.resource.data);
@@ -230,12 +240,14 @@ service cloud.firestore {
 
 			match /limitations/{area} {
 				allow read: if isOwner(uid);
+				allow delete: if isOwner(uid) && deletionRequested(uid);
 				allow create, update: if isOwner(uid) && validLimitation(request.resource.data, area);
 			}
 
 			// Finished workouts: written once, never changed or deleted (README §6.4, acceptance test 10).
 			match /sessions/{sessionId} {
 				allow read: if isOwner(uid);
+				allow delete: if isOwner(uid) && deletionRequested(uid);
 				allow create: if isOwner(uid)
 					&& validSession(request.resource.data, sessionId)
 					&& exists(/databases/$(database)/documents/users/$(uid)/plans/$(request.resource.data.planId));
@@ -245,6 +257,7 @@ service cloud.firestore {
 			// is the user resuming the exercise. Never deleted, so the history stays.
 			match /exerciseFlags/{exerciseId} {
 				allow read: if isOwner(uid);
+				allow delete: if isOwner(uid) && deletionRequested(uid);
 				allow create: if isOwner(uid)
 					&& validExerciseFlag(request.resource.data, exerciseId)
 					&& request.resource.data.active == true
@@ -287,6 +300,7 @@ service cloud.firestore {
 			// retiring the active plan when a new one replaces it.
 			match /plans/{planId} {
 				allow read: if isOwner(uid);
+				allow delete: if isOwner(uid) && deletionRequested(uid);
 				allow create: if isOwner(uid) && validPlan(request.resource.data);
 				allow update: if isOwner(uid)
 					&& request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status'])

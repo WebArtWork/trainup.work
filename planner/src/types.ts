@@ -317,7 +317,7 @@ export interface PlanInputSnapshot {
 	adjustment?: LoadAdjustment;
 }
 
-export type PlanProvenance = 'calculator';
+export type PlanProvenance = 'calculator' | 'ai';
 
 /** The single plan contract every planning path produces (README §6.1). */
 export interface WorkoutPlan {
