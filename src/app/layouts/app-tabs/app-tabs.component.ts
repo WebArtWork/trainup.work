@@ -47,9 +47,9 @@ interface AppTab {
 })
 export class AppTabsComponent {
 	protected readonly tabs: AppTab[] = [
-		{ path: '/app/today', label: 'Сьогодні', icon: 'today' },
-		{ path: '/app/workout', label: 'Тренування', icon: 'exercise' },
 		{ path: '/app/explore', label: 'Вправи', icon: 'search' },
+		{ path: '/app/workout', label: 'Тренування', icon: 'exercise' },
+		{ path: '/app/today', label: 'Сьогодні', icon: 'today' },
 	];
 
 	constructor() {
