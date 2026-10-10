@@ -26,11 +26,36 @@ import { AiConnectionService } from '../../../feature/ai-connection/ai-connectio
 					<p class="mt-1 text-sm leading-6 text-[var(--c-text)]" translate>
 						Підключіть ChatGPT, Claude чи іншого асистента: він бачитиме ваш план і вправи, зможе змінювати майбутні тренування та створювати власні вправи. Обмеження, обладнання, простір і час тренування він обійти не зможе.
 					</p>
+					<p class="mt-3 text-sm leading-6 text-[var(--c-text)]" translate>
+						У ChatGPT чи Claude додайте MCP-сервер за цією адресою — асистент попросить дозвіл на цій сторінці, токен вставляти не треба.
+					</p>
+					<code class="mt-2 block break-all rounded-lg bg-[var(--c-bg-secondary)] p-3 text-sm">{{ service.mcpUrl }}</code>
 					@if (service.status() === 'active') {
-						<p class="mt-3"><span class="chip chip-success" translate>Підключено</span></p>
+						<p class="mt-3"><span class="chip chip-success" translate>Підключено токеном</span></p>
 					}
 				</div>
 			</div>
+
+			@if (service.connections().length) {
+				<ul class="mt-4 flex flex-col gap-2" [translate]="{ ariaLabel: 'Підключені асистенти' }">
+					@for (item of service.connections(); track item.id) {
+						<li class="flex items-center justify-between gap-3 rounded-lg bg-[var(--c-bg-secondary)] p-3">
+							<span class="min-w-0 truncate text-sm font-semibold text-[var(--c-text-strong)]">
+								{{ item.name ?? item.id }}
+							</span>
+							<button
+								type="button"
+								class="btn"
+								[disabled]="busy()"
+								(click)="disconnectOne(item.id)"
+								translate
+							>
+								Відключити
+							</button>
+						</li>
+					}
+				</ul>
+			}
 
 			@if (token(); as value) {
 				<div class="mt-4" role="status">
@@ -41,13 +66,8 @@ import { AiConnectionService } from '../../../feature/ai-connection/ai-connectio
 						class="mt-2 block break-all rounded-lg bg-[var(--c-bg-secondary)] p-3 text-sm"
 						>{{ value }}</code
 					>
-					<p class="mt-3 text-sm text-[var(--c-text)]" translate>Адреса сервера MCP</p>
-					<code
-						class="mt-1 block break-all rounded-lg bg-[var(--c-bg-secondary)] p-3 text-sm"
-						>{{ service.mcpUrl }}</code
-					>
 					<p class="mt-3 text-sm text-[var(--c-text)]" translate>
-						У налаштуваннях асистента додайте віддалений MCP-сервер з цією адресою та заголовком Authorization: Bearer і токеном.
+						Для асистентів без входу через дозвіл: додайте заголовок Authorization: Bearer з цим токеном.
 					</p>
 					<button type="button" class="btn mt-3" (click)="copy(value)">
 						@if (copied()) {
@@ -70,7 +90,7 @@ import { AiConnectionService } from '../../../feature/ai-connection/ai-connectio
 					@if (service.status() === 'active') {
 						<span translate>Створити новий токен</span>
 					} @else {
-						<span translate>Підключити асистента</span>
+						<span translate>Токен для асистента без дозволу</span>
 					}
 				</button>
 				@if (service.status() === 'active') {
@@ -116,6 +136,10 @@ export class McpConnectionComponent implements OnInit {
 			await this.service.disconnect();
 			this.token.set(null);
 		});
+	}
+
+	protected disconnectOne(id: string) {
+		void this._run(() => this.service.disconnect(id));
 	}
 
 	protected async copy(value: string) {

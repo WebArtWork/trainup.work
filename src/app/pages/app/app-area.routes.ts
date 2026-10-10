@@ -29,6 +29,13 @@ export const APP_AREA_ROUTES: Routes = [
 				canActivate: [authGuard],
 				children: [
 					{
+						// Consent screen for an AI assistant that started OAuth at the WAW API.
+						path: 'connect',
+						data: { meta: appPageMeta('connect') },
+						loadComponent: () =>
+							import('./connect/connect.component').then((m) => m.ConnectComponent),
+					},
+					{
 						path: 'onboarding',
 						data: { meta: appPageMeta('onboarding') },
 						canActivate: [needsOnboardingGuard],

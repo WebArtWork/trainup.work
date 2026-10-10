@@ -17,6 +17,7 @@ const PAGE_TITLES = {
 	profile: 'Профіль',
 	settings: 'Налаштування',
 	'ai-settings': 'Налаштування ШІ',
+	connect: 'Підключення асистента',
 	data: 'Ваші дані',
 	'profile-goal': 'Ваша ціль',
 	'profile-schedule': 'Рівень і графік',

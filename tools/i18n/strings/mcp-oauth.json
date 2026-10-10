@@ -1,0 +1,20 @@
+[
+	{ "ua": "Завантаження…", "en": "Loading…" },
+	{ "ua": "Запит на підключення недійсний", "en": "This connection request is not valid" },
+	{ "ua": "Поверніться до асистента й почніть підключення ще раз.", "en": "Go back to the assistant and start connecting again." },
+	{ "ua": "Дозволити доступ до TrainUp?", "en": "Allow access to TrainUp?" },
+	{ "ua": "Повернення на:", "en": "Returns to:" },
+	{ "ua": "Асистент зможе:", "en": "The assistant will be able to:" },
+	{ "ua": "бачити ваш профіль, план, історію й вправи;", "en": "see your profile, plan, history and exercises;" },
+	{ "ua": "змінювати майбутні тренування та створювати власні вправи.", "en": "change upcoming workouts and create your own exercises." },
+	{ "ua": "Обмеження, обладнання, простір і час тренування асистент обійти не зможе. Доступ можна відкликати в налаштуваннях ШІ.", "en": "The assistant cannot bypass your limitations, equipment, space or session time. You can revoke access in AI settings." },
+	{ "ua": "Не вдалося підключити. Спробуйте ще раз.", "en": "Could not connect. Please try again." },
+	{ "ua": "Дозволити", "en": "Allow" },
+	{ "ua": "Скасувати", "en": "Cancel" },
+	{ "ua": "Підключення асистента", "en": "Assistant connection" },
+	{ "ua": "Підключені асистенти", "en": "Connected assistants" },
+	{ "ua": "У ChatGPT чи Claude додайте MCP-сервер за цією адресою — асистент попросить дозвіл на цій сторінці, токен вставляти не треба.", "en": "In ChatGPT or Claude, add an MCP server with this address - the assistant will ask for your permission here, no token to paste." },
+	{ "ua": "Підключено токеном", "en": "Connected with a token" },
+	{ "ua": "Для асистентів без входу через дозвіл: додайте заголовок Authorization: Bearer з цим токеном.", "en": "For assistants without permission sign-in: add an Authorization: Bearer header with this token." },
+	{ "ua": "Токен для асистента без дозволу", "en": "Token for an assistant without sign-in" }
+]

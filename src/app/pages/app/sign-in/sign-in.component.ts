@@ -3,7 +3,7 @@ import { Router } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { FirebaseError } from 'firebase/app';
 import { AccountService } from '../../../feature/account/account.service';
-import { APP_PATHS } from '../../../feature/auth/auth.guard';
+import { APP_PATHS, takeReturnUrl } from '../../../feature/auth/auth.guard';
 import { AuthService, SignInProvider } from '../../../feature/auth/auth.service';
 
 interface ProviderButton {
@@ -39,7 +39,9 @@ export class SignInComponent {
 
 			await this._accountService.ensureLoaded(user);
 			await this._router.navigateByUrl(
-				this._accountService.isOnboarded() ? APP_PATHS.home : APP_PATHS.onboarding,
+				this._accountService.isOnboarded()
+					? (takeReturnUrl() ?? APP_PATHS.home)
+					: APP_PATHS.onboarding,
 			);
 		} catch (error) {
 			const code = error instanceof FirebaseError ? error.code : '';

@@ -1,0 +1,1044 @@
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "result": {
+    "tools": [
+      {
+        "name": "get_profile",
+        "description": "Returns the user's goal, level, schedule, equipment, active limitations (body areas to protect) and exercises paused after pain. Read it first and respect it when changing workouts.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {},
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "get_active_plan",
+        "description": "Returns the user's active workout plan: upcoming days (index, date, exercises with sets/reps/rest). Days with editable=false are past and cannot be changed.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "fromDate": {
+              "type": "string",
+              "description": "YYYY-MM-DD, default today"
+            },
+            "limit": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 84,
+              "description": "Max days, default 14"
+            }
+          },
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "list_sessions",
+        "description": "Returns the user's finished workouts, newest first: sets done, RPE, pain reports and notes.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "limit": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 50,
+              "description": "Default 10"
+            }
+          },
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "list_exercises",
+        "description": "Searches available exercises: the reviewed TrainUp catalog plus the user's custom exercises. Each result says whether it suits this user (equipment, limitations, paused after pain).",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "query": {
+              "type": "string",
+              "description": "Text to find in name or description"
+            },
+            "category": {
+              "type": "string",
+              "enum": [
+                "strength",
+                "conditioning",
+                "mobility"
+              ]
+            },
+            "movementPattern": {
+              "type": "string",
+              "enum": [
+                "squat",
+                "hinge",
+                "lunge",
+                "push-horizontal",
+                "push-vertical",
+                "pull-horizontal",
+                "pull-vertical",
+                "core",
+                "conditioning",
+                "mobility"
+              ]
+            },
+            "muscle": {
+              "type": "string",
+              "enum": [
+                "quads",
+                "hamstrings",
+                "glutes",
+                "calves",
+                "chest",
+                "back",
+                "shoulders",
+                "biceps",
+                "triceps",
+                "core",
+                "full-body"
+              ]
+            },
+            "source": {
+              "type": "string",
+              "enum": [
+                "all",
+                "catalog",
+                "custom"
+              ],
+              "description": "Default all"
+            },
+            "onlySuitable": {
+              "type": "boolean",
+              "description": "Hide exercises that do not suit this user"
+            },
+            "limit": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "description": "Default 30"
+            }
+          },
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "get_exercise",
+        "description": "Returns the full details of one exercise (steps, warnings, space and equipment needs).",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "create_custom_exercise",
+        "description": "Creates a custom exercise visible only to this user, then usable in workouts. Check list_exercises first to avoid duplicating a catalog exercise. Choose safety fields (contraindicatedAreas, warnings) carefully.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "maxLength": 120
+            },
+            "description": {
+              "type": "string",
+              "maxLength": 1000
+            },
+            "category": {
+              "type": "string",
+              "enum": [
+                "strength",
+                "conditioning",
+                "mobility"
+              ]
+            },
+            "movementPattern": {
+              "type": "string",
+              "enum": [
+                "squat",
+                "hinge",
+                "lunge",
+                "push-horizontal",
+                "push-vertical",
+                "pull-horizontal",
+                "pull-vertical",
+                "core",
+                "conditioning",
+                "mobility"
+              ]
+            },
+            "primaryMuscles": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "quads",
+                  "hamstrings",
+                  "glutes",
+                  "calves",
+                  "chest",
+                  "back",
+                  "shoulders",
+                  "biceps",
+                  "triceps",
+                  "core",
+                  "full-body"
+                ]
+              },
+              "minItems": 1,
+              "maxItems": 4
+            },
+            "secondaryMuscles": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "quads",
+                  "hamstrings",
+                  "glutes",
+                  "calves",
+                  "chest",
+                  "back",
+                  "shoulders",
+                  "biceps",
+                  "triceps",
+                  "core",
+                  "full-body"
+                ]
+              },
+              "maxItems": 4
+            },
+            "equipment": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "mat",
+                  "yoga-blocks",
+                  "dumbbells",
+                  "resistance-bands",
+                  "kettlebell",
+                  "bench",
+                  "pull-up-bar",
+                  "barbell",
+                  "rack",
+                  "jump-rope",
+                  "step-platform",
+                  "cardio-machine"
+                ]
+              },
+              "maxItems": 6,
+              "description": "All needed items; empty or omitted means bodyweight only"
+            },
+            "fitnessLevel": {
+              "type": "string",
+              "enum": [
+                "beginner",
+                "intermediate",
+                "advanced"
+              ],
+              "description": "Default beginner"
+            },
+            "intensityMode": {
+              "type": "string",
+              "enum": [
+                "reps",
+                "time"
+              ]
+            },
+            "defaultSets": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 6
+            },
+            "repsMin": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100
+            },
+            "repsMax": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100
+            },
+            "durationMinSeconds": {
+              "type": "integer",
+              "minimum": 5,
+              "maximum": 600
+            },
+            "durationMaxSeconds": {
+              "type": "integer",
+              "minimum": 5,
+              "maximum": 600
+            },
+            "estimatedSetSeconds": {
+              "type": "integer",
+              "minimum": 5,
+              "maximum": 600,
+              "description": "Typical time of one set"
+            },
+            "restSeconds": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 600
+            },
+            "impactLevel": {
+              "type": "string",
+              "enum": [
+                "none",
+                "low",
+                "high"
+              ],
+              "description": "Default low"
+            },
+            "noiseLevel": {
+              "type": "string",
+              "enum": [
+                "quiet",
+                "moderate",
+                "loud"
+              ],
+              "description": "Default quiet"
+            },
+            "coordinationDifficulty": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 3
+            },
+            "highLoadBodyAreas": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "neck",
+                  "shoulders",
+                  "wrists",
+                  "lower-back",
+                  "hips",
+                  "knees",
+                  "ankles"
+                ]
+              }
+            },
+            "contraindicatedAreas": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "neck",
+                  "shoulders",
+                  "wrists",
+                  "lower-back",
+                  "hips",
+                  "knees",
+                  "ankles"
+                ]
+              },
+              "description": "Body areas where the exercise must never be given to someone with a limitation"
+            },
+            "spaceLengthM": {
+              "type": "number",
+              "minimum": 0.5,
+              "maximum": 10,
+              "description": "Clear floor length needed, default 1.5"
+            },
+            "spaceWidthM": {
+              "type": "number",
+              "minimum": 0.5,
+              "maximum": 10,
+              "description": "Clear floor width needed, default 1"
+            },
+            "overheadHeightM": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Ceiling height needed for overhead movement; null when none"
+            },
+            "needsFloorContact": {
+              "type": "boolean",
+              "description": "Lying, kneeling or hands on the floor"
+            },
+            "needsAnchor": {
+              "type": "boolean",
+              "description": "Needs a fixed anchor such as a door or wall"
+            },
+            "locations": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "home",
+                  "gym",
+                  "outdoors",
+                  "other"
+                ]
+              },
+              "description": "Where it makes sense, default everywhere"
+            },
+            "steps": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "maxLength": 300
+              },
+              "maxItems": 12
+            },
+            "warnings": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "maxLength": 300
+              },
+              "maxItems": 8
+            }
+          },
+          "required": [
+            "name",
+            "category",
+            "movementPattern",
+            "primaryMuscles",
+            "intensityMode",
+            "steps"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "idempotentHint": false,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "update_custom_exercise",
+        "description": "Changes a custom exercise (not a catalog one). Only the fields you pass change.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string",
+              "maxLength": 120
+            },
+            "description": {
+              "type": "string",
+              "maxLength": 1000
+            },
+            "category": {
+              "type": "string",
+              "enum": [
+                "strength",
+                "conditioning",
+                "mobility"
+              ]
+            },
+            "movementPattern": {
+              "type": "string",
+              "enum": [
+                "squat",
+                "hinge",
+                "lunge",
+                "push-horizontal",
+                "push-vertical",
+                "pull-horizontal",
+                "pull-vertical",
+                "core",
+                "conditioning",
+                "mobility"
+              ]
+            },
+            "primaryMuscles": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "quads",
+                  "hamstrings",
+                  "glutes",
+                  "calves",
+                  "chest",
+                  "back",
+                  "shoulders",
+                  "biceps",
+                  "triceps",
+                  "core",
+                  "full-body"
+                ]
+              },
+              "minItems": 1,
+              "maxItems": 4
+            },
+            "secondaryMuscles": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "quads",
+                  "hamstrings",
+                  "glutes",
+                  "calves",
+                  "chest",
+                  "back",
+                  "shoulders",
+                  "biceps",
+                  "triceps",
+                  "core",
+                  "full-body"
+                ]
+              },
+              "maxItems": 4
+            },
+            "equipment": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "mat",
+                  "yoga-blocks",
+                  "dumbbells",
+                  "resistance-bands",
+                  "kettlebell",
+                  "bench",
+                  "pull-up-bar",
+                  "barbell",
+                  "rack",
+                  "jump-rope",
+                  "step-platform",
+                  "cardio-machine"
+                ]
+              },
+              "maxItems": 6,
+              "description": "All needed items; empty or omitted means bodyweight only"
+            },
+            "fitnessLevel": {
+              "type": "string",
+              "enum": [
+                "beginner",
+                "intermediate",
+                "advanced"
+              ],
+              "description": "Default beginner"
+            },
+            "intensityMode": {
+              "type": "string",
+              "enum": [
+                "reps",
+                "time"
+              ]
+            },
+            "defaultSets": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 6
+            },
+            "repsMin": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100
+            },
+            "repsMax": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100
+            },
+            "durationMinSeconds": {
+              "type": "integer",
+              "minimum": 5,
+              "maximum": 600
+            },
+            "durationMaxSeconds": {
+              "type": "integer",
+              "minimum": 5,
+              "maximum": 600
+            },
+            "estimatedSetSeconds": {
+              "type": "integer",
+              "minimum": 5,
+              "maximum": 600,
+              "description": "Typical time of one set"
+            },
+            "restSeconds": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 600
+            },
+            "impactLevel": {
+              "type": "string",
+              "enum": [
+                "none",
+                "low",
+                "high"
+              ],
+              "description": "Default low"
+            },
+            "noiseLevel": {
+              "type": "string",
+              "enum": [
+                "quiet",
+                "moderate",
+                "loud"
+              ],
+              "description": "Default quiet"
+            },
+            "coordinationDifficulty": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 3
+            },
+            "highLoadBodyAreas": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "neck",
+                  "shoulders",
+                  "wrists",
+                  "lower-back",
+                  "hips",
+                  "knees",
+                  "ankles"
+                ]
+              }
+            },
+            "contraindicatedAreas": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "neck",
+                  "shoulders",
+                  "wrists",
+                  "lower-back",
+                  "hips",
+                  "knees",
+                  "ankles"
+                ]
+              },
+              "description": "Body areas where the exercise must never be given to someone with a limitation"
+            },
+            "spaceLengthM": {
+              "type": "number",
+              "minimum": 0.5,
+              "maximum": 10,
+              "description": "Clear floor length needed, default 1.5"
+            },
+            "spaceWidthM": {
+              "type": "number",
+              "minimum": 0.5,
+              "maximum": 10,
+              "description": "Clear floor width needed, default 1"
+            },
+            "overheadHeightM": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Ceiling height needed for overhead movement; null when none"
+            },
+            "needsFloorContact": {
+              "type": "boolean",
+              "description": "Lying, kneeling or hands on the floor"
+            },
+            "needsAnchor": {
+              "type": "boolean",
+              "description": "Needs a fixed anchor such as a door or wall"
+            },
+            "locations": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "home",
+                  "gym",
+                  "outdoors",
+                  "other"
+                ]
+              },
+              "description": "Where it makes sense, default everywhere"
+            },
+            "steps": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "maxLength": 300
+              },
+              "maxItems": 12
+            },
+            "warnings": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "maxLength": 300
+              },
+              "maxItems": 8
+            }
+          },
+          "required": [
+            "id"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "delete_custom_exercise",
+        "description": "Deletes a custom exercise that is not used in the active plan.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": true,
+          "idempotentHint": false,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "upsert_day_exercise",
+        "description": "Adds an exercise to a plan day, or updates its prescription if already there. Refuses unsuitable exercises, past or completed days, duplicates, more than 8 exercises and days over the session time budget.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "dayIndex": {
+              "type": "integer",
+              "minimum": 0,
+              "description": "From get_active_plan"
+            },
+            "exerciseId": {
+              "type": "string"
+            },
+            "sets": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 8,
+              "description": "Defaults to the exercise's own default"
+            },
+            "repsMin": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "description": "Reps-based exercises only"
+            },
+            "repsMax": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "description": "Reps-based exercises only"
+            },
+            "durationSeconds": {
+              "type": "integer",
+              "minimum": 5,
+              "maximum": 600,
+              "description": "Time-based exercises only"
+            },
+            "restSeconds": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 600
+            },
+            "targetRpe": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10,
+              "description": "Target exertion, default 7"
+            }
+          },
+          "required": [
+            "dayIndex",
+            "exerciseId"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "remove_day_exercise",
+        "description": "Removes an exercise from a plan day. A day must keep at least one exercise.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "dayIndex": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "exerciseId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "dayIndex",
+            "exerciseId"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": true,
+          "idempotentHint": false,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "set_day_exercises",
+        "description": "Replaces the whole exercise list of a plan day (1-8 exercises, same rules as upsert_day_exercise).",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "dayIndex": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "exercises": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 8,
+              "items": {
+                "type": "object",
+                "properties": {
+                  "exerciseId": {
+                    "type": "string"
+                  },
+                  "sets": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 8,
+                    "description": "Defaults to the exercise's own default"
+                  },
+                  "repsMin": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 100,
+                    "description": "Reps-based exercises only"
+                  },
+                  "repsMax": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 100,
+                    "description": "Reps-based exercises only"
+                  },
+                  "durationSeconds": {
+                    "type": "integer",
+                    "minimum": 5,
+                    "maximum": 600,
+                    "description": "Time-based exercises only"
+                  },
+                  "restSeconds": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 600
+                  },
+                  "targetRpe": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 10,
+                    "description": "Target exertion, default 7"
+                  }
+                },
+                "required": [
+                  "exerciseId"
+                ],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": [
+            "dayIndex",
+            "exercises"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "move_day",
+        "description": "Moves an upcoming workout to another date that has no workout yet.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "dayIndex": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "date": {
+              "type": "string",
+              "description": "YYYY-MM-DD"
+            }
+          },
+          "required": [
+            "dayIndex",
+            "date"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "add_day",
+        "description": "Adds an extra workout on a free upcoming date inside the plan's weeks, with 1-8 exercises (same rules as set_day_exercises).",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "date": {
+              "type": "string",
+              "description": "YYYY-MM-DD"
+            },
+            "exercises": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 8,
+              "items": {
+                "type": "object",
+                "properties": {
+                  "exerciseId": {
+                    "type": "string"
+                  },
+                  "sets": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 8,
+                    "description": "Defaults to the exercise's own default"
+                  },
+                  "repsMin": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 100,
+                    "description": "Reps-based exercises only"
+                  },
+                  "repsMax": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 100,
+                    "description": "Reps-based exercises only"
+                  },
+                  "durationSeconds": {
+                    "type": "integer",
+                    "minimum": 5,
+                    "maximum": 600,
+                    "description": "Time-based exercises only"
+                  },
+                  "restSeconds": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 600
+                  },
+                  "targetRpe": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 10,
+                    "description": "Target exertion, default 7"
+                  }
+                },
+                "required": [
+                  "exerciseId"
+                ],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": [
+            "date",
+            "exercises"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "idempotentHint": false,
+          "openWorldHint": false
+        }
+      },
+      {
+        "name": "remove_day",
+        "description": "Removes an upcoming workout that is not finished. Prefer move_day when the user only wants a different date.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "dayIndex": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          "required": [
+            "dayIndex"
+          ],
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": true,
+          "idempotentHint": false,
+          "openWorldHint": false
+        }
+      }
+    ]
+  }
+}

@@ -563,5 +563,22 @@
 	"Create a new token",
 	"Connect an assistant",
 	"Disconnect",
-	"A new token revokes the previous one. The assistant's changes appear in the app after it refreshes."
+	"A new token revokes the previous one. The assistant's changes appear in the app after it refreshes.",
+	"Loading…",
+	"This connection request is not valid",
+	"Go back to the assistant and start connecting again.",
+	"Allow access to TrainUp?",
+	"Returns to:",
+	"The assistant will be able to:",
+	"see your profile, plan, history and exercises;",
+	"change upcoming workouts and create your own exercises.",
+	"The assistant cannot bypass your limitations, equipment, space or session time. You can revoke access in AI settings.",
+	"Could not connect. Please try again.",
+	"Allow",
+	"Assistant connection",
+	"Connected assistants",
+	"In ChatGPT or Claude, add an MCP server with this address - the assistant will ask for your permission here, no token to paste.",
+	"Connected with a token",
+	"For assistants without permission sign-in: add an Authorization: Bearer header with this token.",
+	"Token for an assistant without sign-in"
 ]
