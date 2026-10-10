@@ -550,5 +550,18 @@
 	"Only what the plan needs: your profile, equipment, space, limitations and workout history. Data is stored in the EU, and you can download it or delete your account at any time.",
 	"Build a plan for your space",
 	"Choose your goal, level, schedule, equipment and free space. TrainUp builds an achievable programme and adapts later sessions to how you feel.",
-	"The web version is available now, phone apps are coming soon"
+	"The web version is available now, phone apps are coming soon",
+	"AI assistant (MCP)",
+	"Connect ChatGPT, Claude or another assistant: it sees your plan and exercises, can change upcoming workouts and create your own exercises. It cannot bypass your limitations, equipment, space or session time.",
+	"Connected",
+	"Copy the token now - it cannot be shown again",
+	"MCP server address",
+	"In your assistant's settings, add a remote MCP server with this address and an Authorization: Bearer header holding the token.",
+	"Copied",
+	"Copy token",
+	"That did not work. Please try again.",
+	"Create a new token",
+	"Connect an assistant",
+	"Disconnect",
+	"A new token revokes the previous one. The assistant's changes appear in the app after it refreshes."
 ]

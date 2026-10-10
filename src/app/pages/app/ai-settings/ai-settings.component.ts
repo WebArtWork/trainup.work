@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { environment } from '../../../../environments/environment';
+import { McpConnectionComponent } from './mcp-connection.component';
 
 interface AiMode {
 	id: 'rules' | 'app-provided' | 'api-key';
@@ -15,7 +16,7 @@ interface AiMode {
  * planner is always on; AI methods appear once their feature flag is enabled.
  */
 @Component({
-	imports: [TranslateDirective],
+	imports: [McpConnectionComponent, TranslateDirective],
 	template: `
 		<header>
 			<p class="text-sm leading-6 text-[var(--c-text)]" translate>
@@ -52,6 +53,8 @@ interface AiMode {
 				</li>
 			}
 		</ul>
+
+		<app-mcp-connection />
 
 		@if (!aiAvailable) {
 			<p class="mt-6 text-sm leading-6 text-[var(--c-text-muted)]" translate>

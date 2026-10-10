@@ -27,6 +27,21 @@ export class ExerciseCatalogService {
 
 	private _loading: Promise<void> | null = null;
 
+	/**
+	 * The user's own exercises (created through the AI assistant connection) share the catalog's
+	 * shape and ids start with `custom-`; they are only ever read from the user's own documents.
+	 */
+	isCustom(id: string): boolean {
+		return id.startsWith('custom-');
+	}
+
+	/** Reloads the catalog and the user's exercises, e.g. after the assistant changed them. */
+	refresh(): Promise<void> {
+		this._loading = null;
+
+		return this.ensureLoaded();
+	}
+
 	ensureLoaded(): Promise<void> {
 		this._loading ??= this._load().catch((error: unknown) => {
 			this._loading = null;
@@ -40,10 +55,11 @@ export class ExerciseCatalogService {
 	private async _load() {
 		this.error.set(false);
 
-		const exercises =
-			environment.exerciseSource === 'bundled'
-				? await loadBundledCatalog()
-				: await this._loadPublished();
+		const [catalog, custom] = await Promise.all([
+			environment.exerciseSource === 'bundled' ? loadBundledCatalog() : this._loadPublished(),
+			this._loadCustom(),
+		]);
+		const exercises = [...catalog, ...custom];
 
 		this.exercises.set(
 			exercises
@@ -70,5 +86,29 @@ export class ExerciseCatalogService {
 		);
 
 		return snapshot.docs.map((doc) => doc.data() as Exercise);
+	}
+
+	/** A failure here must not hide the shared catalog, so it only logs. */
+	private async _loadCustom(): Promise<Exercise[]> {
+		const db = this._firebase.firestore;
+		const uid = this._firebase.auth?.currentUser?.uid;
+
+		if (!db || !uid) {
+			return [];
+		}
+
+		try {
+			const snapshot = await getDocs(collection(db, 'users', uid, 'customExercises'));
+
+			return snapshot.docs.map((doc) => {
+				const { createdAt: _createdAt, updatedAt: _updatedAt, custom: _custom, ...exercise } = doc.data();
+
+				return exercise as Exercise;
+			});
+		} catch (error) {
+			console.error(error);
+
+			return [];
+		}
 	}
 }

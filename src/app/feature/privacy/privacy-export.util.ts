@@ -5,6 +5,7 @@ export const USER_DATA_COLLECTIONS = [
 	'plans',
 	'sessions',
 	'exerciseFlags',
+	'customExercises',
 	'todos',
 	'reminders',
 ] as const;

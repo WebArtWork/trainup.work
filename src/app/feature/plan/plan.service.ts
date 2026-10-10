@@ -95,6 +95,16 @@ export class PlanService {
 		return this._loading;
 	}
 
+	/** Reads the active plan again; the AI assistant can change it while the app is open. */
+	async refresh(): Promise<void> {
+		if (!this._uid) {
+			return;
+		}
+
+		this._loading = this._load();
+		await this._loading;
+	}
+
 	reset() {
 		this._uid = null;
 		this._loading = null;

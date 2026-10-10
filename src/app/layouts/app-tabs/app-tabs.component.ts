@@ -2,6 +2,8 @@ import { Component, DestroyRef, inject } from '@angular/core';
 import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { OfflineBannerComponent } from '../../ui/offline-banner/offline-banner.component';
+import { ExerciseCatalogService } from '../../feature/exercise/exercise-catalog.service';
+import { PlanService } from '../../feature/plan/plan.service';
 import { ReminderService } from '../../feature/reminder/reminder.service';
 
 interface AppTab {
@@ -58,5 +60,22 @@ export class AppTabsComponent {
 
 		reminders.ensureLoaded().catch((error: unknown) => console.error(error));
 		inject(DestroyRef).onDestroy(() => reminders.stop());
+
+		// The AI assistant edits the plan and custom exercises on the server; pick the changes up
+		// when the user comes back to the app.
+		const plan = inject(PlanService);
+		const catalog = inject(ExerciseCatalogService);
+		const onVisible = () => {
+			if (document.visibilityState === 'visible') {
+				Promise.all([plan.refresh(), catalog.refresh()]).catch((error: unknown) =>
+					console.error(error),
+				);
+			}
+		};
+
+		document.addEventListener('visibilitychange', onVisible);
+		inject(DestroyRef).onDestroy(() =>
+			document.removeEventListener('visibilitychange', onVisible),
+		);
 	}
 }

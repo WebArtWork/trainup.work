@@ -1,0 +1,15 @@
+[
+	{ "ua": "ШІ-асистент (MCP)", "en": "AI assistant (MCP)" },
+	{ "ua": "Підключіть ChatGPT, Claude чи іншого асистента: він бачитиме ваш план і вправи, зможе змінювати майбутні тренування та створювати власні вправи. Обмеження, обладнання, простір і час тренування він обійти не зможе.", "en": "Connect ChatGPT, Claude or another assistant: it sees your plan and exercises, can change upcoming workouts and create your own exercises. It cannot bypass your limitations, equipment, space or session time." },
+	{ "ua": "Підключено", "en": "Connected" },
+	{ "ua": "Скопіюйте токен зараз — повторно його не показати", "en": "Copy the token now - it cannot be shown again" },
+	{ "ua": "Адреса сервера MCP", "en": "MCP server address" },
+	{ "ua": "У налаштуваннях асистента додайте віддалений MCP-сервер з цією адресою та заголовком Authorization: Bearer і токеном.", "en": "In your assistant's settings, add a remote MCP server with this address and an Authorization: Bearer header holding the token." },
+	{ "ua": "Скопійовано", "en": "Copied" },
+	{ "ua": "Копіювати токен", "en": "Copy token" },
+	{ "ua": "Не вдалося виконати дію. Спробуйте ще раз.", "en": "That did not work. Please try again." },
+	{ "ua": "Створити новий токен", "en": "Create a new token" },
+	{ "ua": "Підключити асистента", "en": "Connect an assistant" },
+	{ "ua": "Відключити", "en": "Disconnect" },
+	{ "ua": "Новий токен скасовує попередній. Зміни асистента з’являються в застосунку після оновлення.", "en": "A new token revokes the previous one. The assistant's changes appear in the app after it refreshes." }
+]

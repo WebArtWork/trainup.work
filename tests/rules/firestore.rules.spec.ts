@@ -456,6 +456,33 @@ describe('server-owned collections', () => {
 	});
 });
 
+describe('custom exercises', () => {
+	beforeEach(async () => {
+		await env.withSecurityRulesDisabled(async (context) => {
+			const admin = context.firestore() as unknown as Firestore;
+
+			await setDoc(doc(admin, 'users/alice/customExercises/custom-wall-sit-a1b2c3'), {
+				name: 'Wall sit',
+			});
+		});
+	});
+
+	it('lets only the owner read them', async () => {
+		const path = 'users/alice/customExercises/custom-wall-sit-a1b2c3';
+
+		await assertSucceeds(getDoc(doc(db('alice'), path)));
+		await assertFails(getDoc(doc(db('bob'), path)));
+	});
+
+	it('keeps them server-written: clients cannot create, change or delete them', async () => {
+		const path = 'users/alice/customExercises/custom-wall-sit-a1b2c3';
+
+		await assertFails(setDoc(doc(db('alice'), 'users/alice/customExercises/custom-x-000000'), { name: 'x' }));
+		await assertFails(setDoc(doc(db('alice'), path), { name: 'changed' }));
+		await assertFails(deleteDoc(doc(db('alice'), path)));
+	});
+});
+
 describe('exercises', () => {
 	beforeEach(async () => {
 		await env.withSecurityRulesDisabled(async (context) => {

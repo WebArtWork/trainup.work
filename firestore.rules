@@ -308,6 +308,13 @@ service cloud.firestore {
 					&& request.resource.data.status == 'superseded';
 			}
 
+			// The user's own exercises, created through the MCP server (WAW API); clients only read them.
+			match /customExercises/{exerciseId} {
+				allow read: if isOwner(uid);
+				allow delete: if isOwner(uid) && deletionRequested(uid);
+				allow write: if false;
+			}
+
 			// AI connections hold secret references managed by the server; clients only read status.
 			match /aiConnections/{connectionId} {
 				allow read: if isOwner(uid);
