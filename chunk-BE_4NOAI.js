@@ -1,0 +1,1 @@
+import{St as p,c as FA,jt as wn}from"./chunk-DF_Z53eq.js";import{t as a}from"./main-X65ZW2DJ.js";function c(){let r=p(FA).language;return wn(()=>a.languages.find(a=>a.code===r())?.htmlLang??`uk`)}export{c as t};
