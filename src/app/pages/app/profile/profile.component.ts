@@ -160,6 +160,7 @@ export class ProfileComponent {
 	protected readonly links = [
 		{ path: '/app/reminders', label: 'Нагадування', icon: 'notifications' },
 		{ path: '/app/todos', label: 'Справи', icon: 'checklist' },
+		{ path: '/app/store/orders', label: 'Мої замовлення', icon: 'receipt_long' },
 		{ path: '/app/history', label: 'Історія тренувань', icon: 'history' },
 		{ path: '/app/settings', label: 'Налаштування', icon: 'settings' },
 		{ path: '/app/data', label: 'Дані та приватність', icon: 'shield_lock' },

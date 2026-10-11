@@ -1,0 +1,82 @@
+[
+	{
+		"id": "dumbbells-5kg",
+		"name": "Гантелі 5 кг (пара)",
+		"description": "Неопренове покриття, зручний хват. Підходять для початкового й середнього рівня.",
+		"price": 1199,
+		"stock": 18,
+		"icon": "fitness_center",
+		"image": null,
+		"equipment": { "type": "dumbbells", "weightsKg": [5] }
+	},
+	{
+		"id": "dumbbells-10kg",
+		"name": "Гантелі 10 кг (пара)",
+		"description": "Важчі гантелі для жимів, тяг і присідань, коли базові вправи стають легкими.",
+		"price": 2099,
+		"stock": 12,
+		"icon": "fitness_center",
+		"image": null,
+		"equipment": { "type": "dumbbells", "weightsKg": [10] }
+	},
+	{
+		"id": "resistance-bands",
+		"name": "Набір еспандерів-стрічок (3 рівні)",
+		"description": "Легка, середня й сильна стрічки: для розминки, сідниць, спини та плечей.",
+		"price": 449,
+		"stock": 40,
+		"icon": "gesture",
+		"image": null,
+		"equipment": { "type": "resistance-bands", "resistances": ["light", "medium", "heavy"] }
+	},
+	{
+		"id": "kettlebell-12kg",
+		"name": "Гиря 12 кг",
+		"description": "Цільнолита гиря для махів, присідань і тяг. Компактна й універсальна.",
+		"price": 1099,
+		"stock": 15,
+		"icon": "exercise",
+		"image": null,
+		"equipment": { "type": "kettlebell", "weightsKg": [12] }
+	},
+	{
+		"id": "bench-adjustable",
+		"name": "Лава з регульованою спинкою",
+		"description": "Кілька положень спинки для жимів, тяг однією рукою та вправ на трицепс.",
+		"price": 3499,
+		"stock": 6,
+		"icon": "airline_seat_flat",
+		"image": null,
+		"equipment": { "type": "bench", "adjustable": true }
+	},
+	{
+		"id": "pull-up-bar",
+		"name": "Турнік у дверний проріз",
+		"description": "Для підтягувань і висів. Перед використанням переконайтеся, що кріплення надійне.",
+		"price": 899,
+		"stock": 14,
+		"icon": "horizontal_rule",
+		"image": null,
+		"equipment": { "type": "pull-up-bar" }
+	},
+	{
+		"id": "jump-rope",
+		"name": "Скакалка швидкісна",
+		"description": "Легка скакалка з підшипниками для кардіо та розминки.",
+		"price": 249,
+		"stock": 50,
+		"icon": "cable",
+		"image": null,
+		"equipment": { "type": "jump-rope" }
+	},
+	{
+		"id": "step-platform",
+		"name": "Степ-платформа",
+		"description": "Регульована висота, нековзна поверхня. Для кардіо та вправ на ноги.",
+		"price": 1299,
+		"stock": 9,
+		"icon": "stairs",
+		"image": null,
+		"equipment": { "type": "step-platform" }
+	}
+]

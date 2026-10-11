@@ -1,6 +1,8 @@
 import { Component, computed, inject, signal } from '@angular/core';
-import { RouterLink } from '@angular/router';
-import type { ExerciseCategory } from '@trainup/planner';
+import { toSignal } from '@angular/core/rxjs-interop';
+import { ActivatedRoute, RouterLink } from '@angular/router';
+import { map } from 'rxjs';
+import type { Exercise, ExerciseCategory } from '@trainup/planner';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
 import { injectSuitability } from '../../../feature/exercise/exercise-suitability';
@@ -18,6 +20,13 @@ type CategoryFilter = ExerciseCategory | 'all';
 export class ExploreComponent {
 	private readonly _suitability = injectSuitability();
 
+	private readonly _equipmentFilter = toSignal(
+		inject(ActivatedRoute).queryParamMap.pipe(
+			map((params) => (params.get('equipment') ?? '').split(',').filter(Boolean)),
+		),
+		{ initialValue: [] as string[] },
+	);
+
 	protected readonly catalog = inject(ExerciseCatalogService);
 	protected readonly state = signal<'loading' | 'ready' | 'error'>('loading');
 	protected readonly search = signal('');
@@ -34,6 +43,7 @@ export class ExploreComponent {
 	protected readonly items = computed(() => {
 		const search = this.search().trim().toLocaleLowerCase('uk');
 		const category = this.category();
+		const equipment = this._equipmentFilter();
 
 		return this.catalog
 			.exercises()
@@ -41,6 +51,7 @@ export class ExploreComponent {
 			.filter(
 				({ exercise, suitable }) =>
 					(category === 'all' || exercise.category === category) &&
+					(!equipment.length || this._usesEquipment(exercise, equipment)) &&
 					(!this.suitableOnly() || suitable) &&
 					(!search || exercise.name.toLocaleLowerCase('uk').includes(search)),
 			);
@@ -50,6 +61,14 @@ export class ExploreComponent {
 		this.catalog.ensureLoaded().then(
 			() => this.state.set('ready'),
 			() => this.state.set('error'),
+		);
+	}
+
+	protected readonly equipmentFiltered = computed(() => this._equipmentFilter().length > 0);
+
+	private _usesEquipment(exercise: Exercise, types: string[]): boolean {
+		return exercise.equipmentRequired.some((group) =>
+			group.anyOf.some((type) => types.includes(type)),
 		);
 	}
 

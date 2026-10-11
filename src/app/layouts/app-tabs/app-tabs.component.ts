@@ -26,7 +26,7 @@ interface AppTab {
 			[translate]="{ ariaLabel: 'Основна навігація' }"
 		>
 			<ul
-				class="surface-raised mx-auto grid max-w-md grid-cols-3 gap-1 p-1.5 dark:bg-[var(--c-bg-secondary)]/85 dark:backdrop-blur-xl"
+				class="surface-raised mx-auto grid max-w-md grid-cols-4 gap-1 p-1.5 dark:bg-[var(--c-bg-secondary)]/85 dark:backdrop-blur-xl"
 			>
 				@for (tab of tabs; track tab.path) {
 					<li>
@@ -49,6 +49,7 @@ interface AppTab {
 })
 export class AppTabsComponent {
 	protected readonly tabs: AppTab[] = [
+		{ path: '/app/store', label: 'Магазин', icon: 'storefront' },
 		{ path: '/app/explore', label: 'Вправи', icon: 'search' },
 		{ path: '/app/workout', label: 'Тренування', icon: 'exercise' },
 		{ path: '/app/today', label: 'Сьогодні', icon: 'today' },

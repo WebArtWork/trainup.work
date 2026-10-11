@@ -582,3 +582,47 @@ describe('account deletion', () => {
 		);
 	});
 });
+
+describe('users/{uid}/orders', () => {
+	const order = (id: string, changes: Record<string, unknown> = {}) => ({
+		id,
+		schemaVersion: 1,
+		status: 'new',
+		delivery: 'Нова пошта',
+		date: '2026-10-11T10:00:00.000Z',
+		name: 'Олена Коваль',
+		phone: '+380501112233',
+		city: 'Київ',
+		cityRef: 'city-ref',
+		address: '№1: вул. Прикладна, 1',
+		warehouseRef: 'warehouse-ref',
+		comment: '',
+		payment: 'cod',
+		items: [{ productId: 'yoga-mat', name: 'Килимок', quantity: 1, price: 549, equipment: { type: 'mat' } }],
+		total: 549,
+		...changes,
+	});
+	const ref = (uid: string, id = 'ORD-123-456') => doc(db(uid), `users/${uid}/orders/${id}`);
+
+	it('lets the owner create and read a new order, and nobody else', async () => {
+		await assertSucceeds(setDoc(ref('alice'), order('ORD-123-456')));
+		await assertSucceeds(getDoc(ref('alice')));
+		await assertFails(getDoc(doc(db('bob'), 'users/alice/orders/ORD-123-456')));
+		await assertFails(setDoc(doc(db('bob'), 'users/alice/orders/ORD-111-222'), order('ORD-111-222')));
+	});
+
+	it('rejects orders that are not new, mismatched, malformed or empty', async () => {
+		await assertFails(setDoc(ref('alice'), order('ORD-123-456', { status: 'done' })));
+		await assertFails(setDoc(ref('alice'), order('ORD-999-999')));
+		await assertFails(setDoc(ref('alice', 'bad-id'), order('bad-id')));
+		await assertFails(setDoc(ref('alice'), order('ORD-123-456', { items: [] })));
+		await assertFails(setDoc(ref('alice'), order('ORD-123-456', { payment: 'bitcoin' })));
+		await assertFails(setDoc(ref('alice'), order('ORD-123-456', { extra: true })));
+	});
+
+	it('does not let clients edit an order', async () => {
+		await assertSucceeds(setDoc(ref('alice'), order('ORD-123-456')));
+		await assertFails(updateDoc(ref('alice'), { status: 'done' }));
+		await assertFails(deleteDoc(ref('alice')));
+	});
+});

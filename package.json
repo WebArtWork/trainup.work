@@ -48,6 +48,7 @@
 	},
 	"overrides": {
 		"esbuild": "0.28.2",
-		"@hono/node-server": "2.1.4"
+		"@hono/node-server": "2.1.4",
+		"@grpc/grpc-js": "1.14.6"
 	}
 }

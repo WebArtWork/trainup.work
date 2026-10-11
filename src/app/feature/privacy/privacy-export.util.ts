@@ -8,6 +8,7 @@ export const USER_DATA_COLLECTIONS = [
 	'customExercises',
 	'todos',
 	'reminders',
+	'orders',
 ] as const;
 
 export type UserDataCollection = (typeof USER_DATA_COLLECTIONS)[number];
