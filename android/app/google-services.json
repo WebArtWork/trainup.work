@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "663824678144",
+    "project_id": "train-up-work",
+    "storage_bucket": "train-up-work.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663824678144:android:38bfe3af38b0e85cda47e5",
+        "android_client_info": {
+          "package_name": "work.trainup.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663824678144-b8htrsthldlb8to8kmul4fvmv1kreulu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3D6H46lwawOkXAgIGrLMkxpecorB8x4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663824678144-b8htrsthldlb8to8kmul4fvmv1kreulu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663824678144-hnfdnkkja1stsr5v9vppco212hlleo6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "work.trainup.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
