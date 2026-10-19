@@ -341,6 +341,14 @@ body {
 			outline: none;
 			box-shadow: var(--focus-ring);
 		}
+
+		/* Current page in a link list: plain text, not clickable. */
+		&.link-active {
+			color: var(--c-text-strong);
+			text-decoration-color: transparent;
+			pointer-events: none;
+			cursor: default;
+		}
 	}
 
 	/* ---- progress ring (set --value 0-100 inline) ---- */

@@ -7,7 +7,7 @@ import {
 
 import { provideHttpClient, withFetch } from '@angular/common/http';
 import { provideClientHydration, withEventReplay } from '@angular/platform-browser';
-import { provideRouter, withRouterConfig } from '@angular/router';
+import { provideRouter, withInMemoryScrolling, withRouterConfig } from '@angular/router';
 import {
 	buildAbsoluteUrl,
 	buildSeoTitleSuffix,
@@ -52,7 +52,12 @@ export const appConfig: ApplicationConfig = {
 		}),
 		provideNgxUi(themeConfig),
 		// Child routes inherit parent `data.meta`, so `/app/**` pages stay noindex.
-		provideRouter(routes, withRouterConfig({ paramsInheritanceStrategy: 'always' })),
+		// Scroll to the top on navigation; Back/Forward restores the previous position.
+		provideRouter(
+			routes,
+			withRouterConfig({ paramsInheritanceStrategy: 'always' }),
+			withInMemoryScrolling({ scrollPositionRestoration: 'enabled', anchorScrolling: 'enabled' }),
+		),
 		provideClientHydration(withEventReplay()),
 		provideTranslate({
 			defaultLanguage: environment.defaultLanguage,

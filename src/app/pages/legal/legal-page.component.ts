@@ -1,12 +1,12 @@
 import { Component, inject } from '@angular/core';
-import { ActivatedRoute, RouterLink } from '@angular/router';
+import { ActivatedRoute, RouterLink, RouterLinkActive } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { CompanyService } from '../../feature/company/company.service';
 import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 
 /** Privacy policy and terms of use. The route's `data.document` picks the text. */
 @Component({
-	imports: [RouterLink, TranslateDirective],
+	imports: [RouterLink, RouterLinkActive, TranslateDirective],
 	template: `
 		<article class="page-wrap max-w-[65ch] py-10 sm:py-14">
 			<h1
@@ -66,10 +66,22 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 				class="mt-12 flex flex-wrap gap-x-6 gap-y-1 border-t border-[var(--c-border)] pt-4 text-sm font-semibold"
 				[translate]="{ ariaLabel: 'Юридична інформація' }"
 			>
-				<a class="link inline-flex min-h-11 items-center" routerLink="/privacy" translate>
+				<a
+					class="link inline-flex min-h-11 items-center"
+					routerLink="/privacy"
+					routerLinkActive="link-active"
+					ariaCurrentWhenActive="page"
+					translate
+				>
 					Політика конфіденційності
 				</a>
-				<a class="link inline-flex min-h-11 items-center" routerLink="/terms" translate>
+				<a
+					class="link inline-flex min-h-11 items-center"
+					routerLink="/terms"
+					routerLinkActive="link-active"
+					ariaCurrentWhenActive="page"
+					translate
+				>
 					Умови користування
 				</a>
 				<a class="link inline-flex min-h-11 items-center" routerLink="/" translate>
