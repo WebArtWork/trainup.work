@@ -24,6 +24,13 @@ export const APP_AREA_ROUTES: Routes = [
 					import('./sign-in/sign-in.component').then((m) => m.SignInComponent),
 			},
 			{
+				// Catalog admin: signs in with email/password on the page itself, so no auth guards.
+				path: 'admin',
+				data: { meta: appPageMeta('admin') },
+				loadComponent: () =>
+					import('./admin/admin.component').then((m) => m.AdminComponent),
+			},
+			{
 				// Parent guard finishes loading the account before child guards check onboarding.
 				path: '',
 				canActivate: [authGuard],

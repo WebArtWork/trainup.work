@@ -506,6 +506,13 @@ describe('exercises', () => {
 		);
 		await assertSucceeds(getDoc(doc(db('admin', { admin: true }), 'exercises/draft')));
 	});
+
+	it('lets the listed admin UID manage the catalog', async () => {
+		const adminUid = '764p8BWj8tYkwy2fhVKorOih8Xi1';
+
+		await assertSucceeds(setDoc(doc(db(adminUid), 'exercises/new'), { status: 'published' }));
+		await assertSucceeds(getDoc(doc(db(adminUid), 'exercises/draft')));
+	});
 });
 
 describe('account deletion', () => {

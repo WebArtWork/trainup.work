@@ -6,6 +6,8 @@ export const environment: {
 	defaultLanguage: string;
 	languages: AppLanguage[];
 	firebase: FirebaseConfig;
+	/** Email/password accounts that may open /app/admin. Must match isAdmin() in firestore.rules. */
+	adminUids: string[];
 	/** Sign in with Apple JS on the web (see AppleSignInConfig). */
 	appleSignIn: AppleSignInConfig;
 	/**
@@ -144,6 +146,7 @@ export const environment: {
 		appId: '1:663824678144:web:b22a21e128645d8dda47e5',
 		measurementId: 'G-CHM8EMF4KJ',
 	},
+	adminUids: ['764p8BWj8tYkwy2fhVKorOih8Xi1'],
 	appleSignIn: {
 		// Services ID from Firebase Console → Authentication → Sign-in method → Apple.
 		// Empty falls back to Firebase's popup, which fails in iOS Safari.

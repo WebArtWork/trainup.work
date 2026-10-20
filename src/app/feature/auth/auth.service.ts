@@ -11,6 +11,7 @@ import {
 	reauthenticateWithCredential,
 	reauthenticateWithPopup,
 	signInWithCredential,
+	signInWithEmailAndPassword,
 	signInWithPopup,
 	signOut,
 	User,
@@ -79,6 +80,21 @@ export class AuthService {
 		const result = credential
 			? await signInWithCredential(auth, credential)
 			: await signInWithPopup(auth, _createProvider(provider));
+
+		this.user.set(result.user);
+
+		return result.user;
+	}
+
+	/** Admin accounts only (/app/admin); regular users sign in with Google or Apple. */
+	async signInWithEmail(email: string, password: string): Promise<User> {
+		const auth = this._firebase.auth;
+
+		if (!auth) {
+			throw new Error('Firebase Auth is only available in the browser.');
+		}
+
+		const result = await signInWithEmailAndPassword(auth, email, password);
 
 		this.user.set(result.user);
 

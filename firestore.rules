@@ -13,8 +13,12 @@ service cloud.firestore {
 			return signedIn() && request.auth.uid == uid;
 		}
 
+		// Catalog admins: the `admin` custom claim (set with the Admin SDK) or an email/password account
+		// listed here by UID, which signs in on /app/admin. Keep in sync with environment.adminUids.
 		function isAdmin() {
-			return signedIn() && request.auth.token.admin == true;
+			return signedIn()
+				&& (request.auth.token.admin == true
+					|| request.auth.uid in ['764p8BWj8tYkwy2fhVKorOih8Xi1']);
 		}
 
 		// Account deletion: the app first stamps `deletionRequestedAt` on the profile; only then may the
