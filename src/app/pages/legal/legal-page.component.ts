@@ -4,7 +4,7 @@ import { TranslateDirective } from '@wawjs/ngx-translate';
 import { CompanyService } from '../../feature/company/company.service';
 import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 
-/** Privacy policy and terms of use. The route's `data.document` picks the text. */
+/** Privacy policy, terms of use and account-deletion instructions. The route's `data.document` picks the text. */
 @Component({
 	imports: [RouterLink, RouterLinkActive, TranslateDirective],
 	template: `
@@ -83,6 +83,15 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 					translate
 				>
 					Умови користування
+				</a>
+				<a
+					class="link inline-flex min-h-11 items-center"
+					routerLink="/delete-account"
+					routerLinkActive="link-active"
+					ariaCurrentWhenActive="page"
+					translate
+				>
+					Видалення акаунта
 				</a>
 				<a class="link inline-flex min-h-11 items-center" routerLink="/" translate>
 					На головну

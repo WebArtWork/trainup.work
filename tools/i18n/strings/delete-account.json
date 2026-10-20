@@ -1,0 +1,94 @@
+[
+	{
+		"ua": "Видалення акаунта",
+		"en": "Account deletion"
+	},
+	{
+		"ua": "Видалення акаунта TrainUp",
+		"en": "Deleting your TrainUp account"
+	},
+	{
+		"ua": "Останнє оновлення: 20 жовтня 2026",
+		"en": "Last updated: 20 October 2026"
+	},
+	{
+		"ua": "Тут пояснено, як видалити ваш акаунт TrainUp і всі пов’язані з ним дані. Встановлювати застосунок для цього не обов’язково: те саме можна зробити на сайті trainup.work.",
+		"en": "This page explains how to delete your TrainUp account and all data linked to it. You don't need the app installed: you can do the same on the trainup.work website."
+	},
+	{
+		"ua": "1. Як видалити акаунт",
+		"en": "1. How to delete your account"
+	},
+	{
+		"ua": "Відкрийте застосунок TrainUp або сайт trainup.work/app і увійдіть через Google чи Apple — так само, як входили раніше.",
+		"en": "Open the TrainUp app or trainup.work/app and sign in with Google or Apple, the same way you signed in before."
+	},
+	{
+		"ua": "Перейдіть у Профіль → Дані та приватність.",
+		"en": "Go to Profile → Data and privacy."
+	},
+	{
+		"ua": "У блоці «Видалити акаунт» відмітьте «Я розумію, що видалення не можна скасувати» і натисніть «Видалити акаунт і дані».",
+		"en": "In the \"Delete account\" section, tick \"I understand that deletion cannot be undone\" and tap \"Delete account and data\"."
+	},
+	{
+		"ua": "Ще раз підтвердьте вхід через Google чи Apple. Після цього акаунт і дані буде видалено.",
+		"en": "Confirm your sign-in with Google or Apple once more. Your account and data are then deleted."
+	},
+	{
+		"ua": "2. Що буде видалено",
+		"en": "2. What is deleted"
+	},
+	{
+		"ua": "Акаунт: ім’я, email і фото профілю.",
+		"en": "Account: name, email and profile photo."
+	},
+	{
+		"ua": "Профіль: ціль, рівень підготовки, графік, вік, зріст і вага.",
+		"en": "Profile: goal, fitness level, schedule, age, height and weight."
+	},
+	{
+		"ua": "Обладнання та простір для тренувань.",
+		"en": "Equipment and workout space."
+	},
+	{
+		"ua": "Обмеження, нотатки про біль і самопочуття.",
+		"en": "Limitations and notes about pain and how you feel."
+	},
+	{
+		"ua": "Плани, історія тренувань, оцінки зусиль і нотатки.",
+		"en": "Plans, workout history, effort ratings and notes."
+	},
+	{
+		"ua": "Справи, нагадування та власні вправи.",
+		"en": "To-dos, reminders and custom exercises."
+	},
+	{
+		"ua": "Замовлення в магазині разом з іменем, телефоном і адресою доставки.",
+		"en": "Store orders, including name, phone number and delivery address."
+	},
+	{
+		"ua": "3. Що зберігається і як довго",
+		"en": "3. What is kept, and for how long"
+	},
+	{
+		"ua": "Усі перелічені дані видаляються одразу після підтвердження. Після цього ми їх не зберігаємо, і відновити акаунт неможливо.",
+		"en": "All of the data above is deleted immediately after you confirm. We don't keep it afterwards, and the account cannot be restored."
+	},
+	{
+		"ua": "Перед видаленням ви можете завантажити копію своїх даних: Профіль → Дані та приватність → «Завантажити мої дані».",
+		"en": "Before deleting, you can download a copy of your data: Profile → Data and privacy → \"Download my data\"."
+	},
+	{
+		"ua": "4. Якщо ви не можете увійти",
+		"en": "4. If you can't sign in"
+	},
+	{
+		"ua": "Якщо у вас більше немає доступу до акаунта Google чи Apple, з яким ви входили, напишіть нам (контакти нижче). Вкажіть email цього акаунта — ми видалимо акаунт і дані протягом 30 днів і повідомимо вас.",
+		"en": "If you no longer have access to the Google or Apple account you signed in with, contact us (details below). Include that account's email, and we will delete your account and data within 30 days and let you know."
+	},
+	{
+		"ua": "Як видалити акаунт TrainUp і всі пов’язані з ним дані — у застосунку або на сайті.",
+		"en": "How to delete your TrainUp account and all data linked to it, in the app or on the website."
+	}
+]

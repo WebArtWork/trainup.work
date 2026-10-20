@@ -32,6 +32,16 @@ export const routes: Routes = [
 				loadComponent: () =>
 					import('./pages/legal/legal-page.component').then((m) => m.LegalPageComponent),
 			},
+			{
+				// Public account-deletion instructions; Google Play requires a URL that works signed out.
+				path: 'delete-account',
+				data: {
+					document: 'delete-account',
+					meta: buildRouteMeta(companyProfile, '/delete-account'),
+				},
+				loadComponent: () =>
+					import('./pages/legal/legal-page.component').then((m) => m.LegalPageComponent),
+			},
 		],
 	},
 	{

@@ -32,6 +32,10 @@ export class FooterComponent {
 			label: 'Умови користування',
 			path: '/terms',
 		},
+		{
+			label: 'Видалення акаунта',
+			path: '/delete-account',
+		},
 	]);
 	protected readonly companyImage = computed(() => this.company().image || 'logo.png');
 	protected readonly companyImageAlt = computed(() =>
