@@ -23,10 +23,12 @@ export class SignInComponent {
 	private readonly _accountService = inject(AccountService);
 	private readonly _router = inject(Router);
 
-	protected readonly providers: ProviderButton[] = [
-		{ provider: 'google', label: 'Увійти через Google', icon: 'google' },
-		{ provider: 'apple', label: 'Увійти через Apple', icon: 'apple' },
-	];
+	protected readonly providers: ProviderButton[] = (
+		[
+			{ provider: 'google', label: 'Увійти через Google', icon: 'google' },
+			{ provider: 'apple', label: 'Увійти через Apple', icon: 'apple' },
+		] satisfies ProviderButton[]
+	).filter((button) => this._authService.isAvailable(button.provider));
 	protected readonly pending = signal<SignInProvider | null>(null);
 	protected readonly error = signal<string | null>(null);
 

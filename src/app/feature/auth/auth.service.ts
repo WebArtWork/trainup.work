@@ -1,16 +1,22 @@
 import { inject, Service, signal } from '@angular/core';
+import { Capacitor } from '@capacitor/core';
+import { FirebaseError } from 'firebase/app';
 import {
+	AuthCredential,
 	AuthProvider,
 	deleteUser,
 	GoogleAuthProvider,
 	OAuthProvider,
 	onAuthStateChanged,
+	reauthenticateWithCredential,
 	reauthenticateWithPopup,
+	signInWithCredential,
 	signInWithPopup,
 	signOut,
 	User,
 } from 'firebase/auth';
 import { FirebaseService } from '../firebase/firebase.service';
+import { hasAppleWebSignIn, signInWithAppleWeb } from './apple-web-sign-in';
 
 export type SignInProvider = 'google' | 'apple';
 
@@ -57,6 +63,11 @@ export class AuthService {
 		return this.user() ?? null;
 	}
 
+	/** Apple has no Firebase JS credential on Android: the native SDK keeps the token to itself. */
+	isAvailable(provider: SignInProvider): boolean {
+		return provider !== 'apple' || Capacitor.getPlatform() !== 'android';
+	}
+
 	async signIn(provider: SignInProvider): Promise<User> {
 		const auth = this._firebase.auth;
 
@@ -64,11 +75,14 @@ export class AuthService {
 			throw new Error('Firebase Auth is only available in the browser.');
 		}
 
-		const credential = await signInWithPopup(auth, _createProvider(provider));
+		const credential = await _getCredential(provider);
+		const result = credential
+			? await signInWithCredential(auth, credential)
+			: await signInWithPopup(auth, _createProvider(provider));
 
-		this.user.set(credential.user);
+		this.user.set(result.user);
 
-		return credential.user;
+		return result.user;
 	}
 
 	/** Re-checks the user with the provider they signed in with; needed before deleting the account. */
@@ -81,8 +95,13 @@ export class AuthService {
 
 		const provider: SignInProvider =
 			user.providerData[0]?.providerId === 'apple.com' ? 'apple' : 'google';
+		const credential = await _getCredential(provider);
 
-		await reauthenticateWithPopup(user, _createProvider(provider));
+		if (credential) {
+			await reauthenticateWithCredential(user, credential);
+		} else {
+			await reauthenticateWithPopup(user, _createProvider(provider));
+		}
 	}
 
 	/** Deletes the Firebase Auth user. Call only after their data is gone. */
@@ -93,6 +112,7 @@ export class AuthService {
 			await deleteUser(user);
 		}
 
+		await _signOutNative();
 		this.user.set(null);
 	}
 
@@ -103,8 +123,65 @@ export class AuthService {
 			await signOut(auth);
 		}
 
+		await _signOutNative();
 		this.user.set(null);
 	}
+}
+
+/**
+ * Native apps can't use Firebase's popup: Google blocks sign-in inside a WebView. The native
+ * plugin signs in with the platform SDK only (`skipNativeAuth`), and the JS SDK, which Firestore
+ * uses, signs in with the returned token. Web Apple uses Apple's JS SDK (see apple-web-sign-in.ts).
+ * `null` means the Firebase popup is fine (web Google, or web Apple without a Services ID).
+ */
+async function _getCredential(provider: SignInProvider): Promise<AuthCredential | null> {
+	if (!Capacitor.isNativePlatform()) {
+		if (provider === 'apple' && hasAppleWebSignIn()) {
+			const { idToken, rawNonce } = await signInWithAppleWeb();
+
+			return new OAuthProvider('apple.com').credential({ idToken, rawNonce });
+		}
+
+		return null;
+	}
+
+	const { FirebaseAuthentication } = await import('@capacitor-firebase/authentication');
+
+	try {
+		if (provider === 'apple') {
+			const result = await FirebaseAuthentication.signInWithApple({ skipNativeAuth: true });
+
+			return new OAuthProvider('apple.com').credential({
+				idToken: result.credential?.idToken,
+				rawNonce: result.credential?.nonce,
+			});
+		}
+
+		const result = await FirebaseAuthentication.signInWithGoogle({ skipNativeAuth: true });
+
+		return GoogleAuthProvider.credential(
+			result.credential?.idToken,
+			result.credential?.accessToken,
+		);
+	} catch (error) {
+		// Native SDKs report a closed sheet as an error message, not a Firebase code.
+		if (/cancel/i.test(String((error as { message?: unknown } | null)?.message ?? error))) {
+			throw new FirebaseError('auth/popup-closed-by-user', 'Sign-in cancelled.');
+		}
+
+		throw error;
+	}
+}
+
+/** Clears the native Google session too, so the next sign-in offers the account picker. */
+async function _signOutNative(): Promise<void> {
+	if (!Capacitor.isNativePlatform()) {
+		return;
+	}
+
+	const { FirebaseAuthentication } = await import('@capacitor-firebase/authentication');
+
+	await FirebaseAuthentication.signOut().catch(() => undefined);
 }
 
 function _createProvider(provider: SignInProvider): AuthProvider {

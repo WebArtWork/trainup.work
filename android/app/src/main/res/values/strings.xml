@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Train UpWork</string>
-    <string name="title_activity_main">Train UpWork</string>
+    <string name="app_name">TrainUp</string>
+    <string name="title_activity_main">TrainUp</string>
     <string name="package_name">work.trainup.app</string>
     <string name="custom_url_scheme">work.trainup.app</string>
 </resources>

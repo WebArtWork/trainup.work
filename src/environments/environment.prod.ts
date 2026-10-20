@@ -6,6 +6,8 @@ export const environment: {
 	defaultLanguage: string;
 	languages: AppLanguage[];
 	firebase: FirebaseConfig;
+	/** Sign in with Apple JS on the web (see AppleSignInConfig). */
+	appleSignIn: AppleSignInConfig;
 	/**
 	 * `firestore`: published exercises only (production).
 	 * `bundled`: src/data/exercise/exercises.json including drafts, for development before review.
@@ -142,6 +144,12 @@ export const environment: {
 		appId: '1:663824678144:web:b22a21e128645d8dda47e5',
 		measurementId: 'G-CHM8EMF4KJ',
 	},
+	appleSignIn: {
+		// Services ID from Firebase Console → Authentication → Sign-in method → Apple.
+		// Empty falls back to Firebase's popup, which fails in iOS Safari.
+		servicesId: '',
+		redirectUri: 'https://trainup.work/app/sign-in',
+	},
 	exerciseSource: 'firestore',
 	features: {
 		ai: false,
@@ -167,6 +175,16 @@ export interface FirebaseConfig {
 	messagingSenderId: string;
 	appId: string;
 	measurementId: string;
+}
+
+/**
+ * Apple's form_post response to `<project>.firebaseapp.com/__/auth/handler` loses its state in
+ * iOS Safari, so the web build signs in with Apple's own JS SDK and hands the ID token to Firebase.
+ * The Services ID must list trainup.work as a domain and `redirectUri` as a return URL.
+ */
+export interface AppleSignInConfig {
+	servicesId: string;
+	redirectUri: string;
 }
 
 export interface AppLanguage {
