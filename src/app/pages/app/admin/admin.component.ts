@@ -8,7 +8,7 @@ import {
 } from '../../../feature/admin/exercise-publisher.service';
 import { AuthService } from '../../../feature/auth/auth.service';
 
-type Task = 'sign-in' | 'compare' | 'publish';
+type Task = 'sign-in' | 'reset' | 'compare' | 'publish';
 
 /**
  * Catalog admin: signs in with an email/password account listed in environment.adminUids (and in
@@ -62,6 +62,20 @@ type Task = 'sign-in' | 'compare' | 'publish';
 					>
 						Увійти
 					</button>
+					<button
+						class="link self-center text-sm font-semibold"
+						type="button"
+						[disabled]="busy() !== null"
+						[attr.aria-busy]="busy() === 'reset'"
+						(click)="resetPassword()"
+					>
+						Забули пароль?
+					</button>
+					@if (message(); as text) {
+						<p class="text-sm leading-6 text-[var(--c-success)]" role="status">
+							{{ text }}
+						</p>
+					}
 				</form>
 			} @else if (!isAdmin()) {
 				<div class="surface-raised p-5 sm:p-6">
@@ -191,6 +205,23 @@ export class AdminComponent implements OnInit {
 		});
 	}
 
+	protected async resetPassword() {
+		const email = this.email.trim();
+
+		if (!email) {
+			this.error.set('Введіть email, і ми надішлемо на нього посилання для зміни пароля.');
+			return;
+		}
+
+		await this._run('reset', async () => {
+			await this._authService.sendPasswordReset(email);
+			// Firebase doesn't reveal whether the account exists, so the message can't either.
+			this.message.set(
+				`Якщо акаунт ${email} існує, на нього надіслано лист із посиланням для зміни пароля. Перевірте також «Спам».`,
+			);
+		});
+	}
+
 	protected async signOut() {
 		this.diff.set(null);
 		this.message.set(null);
@@ -236,8 +267,9 @@ function _errorMessage(error: unknown): string {
 		case 'auth/invalid-credential':
 		case 'auth/wrong-password':
 		case 'auth/user-not-found':
-		case 'auth/invalid-email':
 			return 'Невірний email або пароль.';
+		case 'auth/invalid-email':
+			return 'Перевірте email: схоже, в ньому помилка.';
 		case 'auth/too-many-requests':
 			return 'Забагато спроб. Спробуйте трохи пізніше.';
 		case 'permission-denied':
