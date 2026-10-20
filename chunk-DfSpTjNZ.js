@@ -1,0 +1,1 @@
+import{Qt as g,jt as bT}from"./chunk-DfcIeFhK.js";import{v as jl}from"./chunk-D_oYZauo.js";import{t as a}from"./main-YYX3OS2Q.js";function c(){let r=g(jl).language;return bT(()=>a.languages.find(a=>a.code===r())?.htmlLang??`uk`)}export{c as t};
