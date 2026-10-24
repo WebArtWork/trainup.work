@@ -36,6 +36,10 @@ export class FooterComponent {
 			label: 'Видалення акаунта',
 			path: '/delete-account',
 		},
+		{
+			label: 'Підтримка',
+			path: '/support',
+		},
 	]);
 	protected readonly companyImage = computed(() => this.company().image || 'logo.png');
 	protected readonly companyImageAlt = computed(() =>

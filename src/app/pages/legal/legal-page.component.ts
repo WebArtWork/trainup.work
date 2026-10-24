@@ -1,10 +1,10 @@
 import { Component, inject } from '@angular/core';
 import { ActivatedRoute, RouterLink, RouterLinkActive } from '@angular/router';
-import { TranslateDirective } from '@wawjs/ngx-translate';
+import { TranslateDirective, TranslateService } from '@wawjs/ngx-translate';
 import { CompanyService } from '../../feature/company/company.service';
 import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 
-/** Privacy policy, terms of use and account-deletion instructions. The route's `data.document` picks the text. */
+/** Privacy policy, terms of use, account-deletion instructions and support. The route's `data.document` picks the text. */
 @Component({
 	imports: [RouterLink, RouterLinkActive, TranslateDirective],
 	template: `
@@ -31,8 +31,12 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 						{{ section.title }}
 					</h2>
 					@for (paragraph of section.paragraphs ?? []; track paragraph) {
-						<p class="mt-3 text-base leading-8 text-[var(--c-text)]" [translate]="paragraph">
-							{{ paragraph }}
+						<p
+							class="mt-3 text-base leading-8 text-[var(--c-text)]"
+							[translate]="paragraph"
+							[vars]="{ email: company().email }"
+						>
+							{{ withEmail(paragraph) }}
 						</p>
 					}
 					@if (section.items?.length) {
@@ -53,7 +57,7 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 						[translate]="text.contactWithEmail"
 						[vars]="{ email: company().email }"
 					>
-						{{ text.contactWithEmail }}
+						{{ withEmail(text.contactWithEmail) }}
 					</p>
 				} @else {
 					<p class="mt-3 text-base leading-8 text-[var(--c-text)]" translate>
@@ -93,6 +97,15 @@ import { LEGAL_DOCUMENTS, LEGAL_TEXT, LegalDocumentId } from './legal.content';
 				>
 					Видалення акаунта
 				</a>
+				<a
+					class="link inline-flex min-h-11 items-center"
+					routerLink="/support"
+					routerLinkActive="link-active"
+					ariaCurrentWhenActive="page"
+					translate
+				>
+					Підтримка
+				</a>
 				<a class="link inline-flex min-h-11 items-center" routerLink="/" translate>
 					На головну
 				</a>
@@ -105,4 +118,11 @@ export class LegalPageComponent {
 	protected readonly doc =
 		LEGAL_DOCUMENTS[inject(ActivatedRoute).snapshot.data['document'] as LegalDocumentId];
 	protected readonly company = inject(CompanyService).company;
+
+	private readonly _translateService = inject(TranslateService);
+
+	/** The directive only interpolates in the browser; prerendered HTML needs the email filled in too. */
+	protected withEmail(text: string): string {
+		return this._translateService.interpolate(text, { email: this.company().email });
+	}
 }

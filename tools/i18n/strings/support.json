@@ -1,0 +1,90 @@
+[
+	{
+		"ua": "Підтримка",
+		"en": "Support"
+	},
+	{
+		"ua": "Підтримка TrainUp",
+		"en": "TrainUp support"
+	},
+	{
+		"ua": "Останнє оновлення: 24 жовтня 2026",
+		"en": "Last updated: 24 October 2026"
+	},
+	{
+		"ua": "Маєте питання, знайшли помилку чи щось не працює? Напишіть нам — ми допоможемо. Нижче зібрано відповіді на найчастіші питання.",
+		"en": "Have a question, found a bug or something isn't working? Write to us and we'll help. Answers to the most common questions are below."
+	},
+	{
+		"ua": "1. Як з нами зв’язатися",
+		"en": "1. How to contact us"
+	},
+	{
+		"ua": "Напишіть на {{email}}. Ми відповідаємо протягом 2 робочих днів.",
+		"en": "Email us at {{email}}. We reply within 2 business days."
+	},
+	{
+		"ua": "Опишіть, що сталося, і вкажіть пристрій (iPhone чи Android), версію застосунку та email акаунта, з яким ви входите. Скриншот допоможе розібратися швидше.",
+		"en": "Describe what happened and include your device (iPhone or Android), the app version and the email of the account you sign in with. A screenshot helps us sort it out faster."
+	},
+	{
+		"ua": "2. Вхід в акаунт",
+		"en": "2. Signing in"
+	},
+	{
+		"ua": "TrainUp працює з акаунтом Google або Apple — окремий пароль не потрібен.",
+		"en": "TrainUp uses your Google or Apple account — no separate password is needed."
+	},
+	{
+		"ua": "Входьте тим самим способом, що й першого разу. Інакше буде створено новий порожній акаунт.",
+		"en": "Sign in the same way you did the first time. Otherwise a new, empty account is created."
+	},
+	{
+		"ua": "3. План тренувань",
+		"en": "3. Your workout plan"
+	},
+	{
+		"ua": "Щоб змінити ціль, графік, обладнання чи простір, відкрийте Профіль і відредагуйте потрібний розділ, а потім оновіть план на екрані «Сьогодні».",
+		"en": "To change your goal, schedule, equipment or space, open Profile and edit that section, then update your plan on the Today screen."
+	},
+	{
+		"ua": "Якщо вправа викликає біль, позначте це під час тренування — TrainUp призупинить її і запропонує оновити план.",
+		"en": "If an exercise causes pain, mark it during the workout — TrainUp pauses it and suggests updating your plan."
+	},
+	{
+		"ua": "4. Магазин і замовлення",
+		"en": "4. Store and orders"
+	},
+	{
+		"ua": "Магазин доставляє обладнання по Україні Новою поштою з оплатою при отриманні.",
+		"en": "The store delivers equipment within Ukraine via Nova Poshta, paid on delivery."
+	},
+	{
+		"ua": "Статус замовлення — у розділі «Мої замовлення». Щоб змінити або скасувати замовлення, напишіть нам і вкажіть його номер.",
+		"en": "Order status is in My orders. To change or cancel an order, write to us with the order number."
+	},
+	{
+		"ua": "5. Ваші дані та видалення акаунта",
+		"en": "5. Your data and account deletion"
+	},
+	{
+		"ua": "Копія даних: Профіль → Дані та приватність → «Завантажити мої дані».",
+		"en": "Copy of your data: Profile → Data & privacy → Download my data."
+	},
+	{
+		"ua": "Видалення акаунта: Профіль → Дані та приватність → «Видалити акаунт і дані». Докладніше — на сторінці «Видалення акаунта».",
+		"en": "Delete your account: Profile → Data & privacy → Delete account and data. More details are on the Account deletion page."
+	},
+	{
+		"ua": "6. Про застосунок",
+		"en": "6. About the app"
+	},
+	{
+		"ua": "TrainUp безкоштовний, без реклами й покупок у застосунку. Він не є медичним застосунком і не замінює консультацію лікаря.",
+		"en": "TrainUp is free, with no ads and no in-app purchases. It is not a medical app and does not replace advice from a doctor."
+	},
+	{
+		"ua": "Як зв’язатися з TrainUp і відповіді на часті питання: вхід, план тренувань, замовлення, дані та видалення акаунта.",
+		"en": "How to contact TrainUp, plus answers to common questions: signing in, your workout plan, orders, data and account deletion."
+	}
+]

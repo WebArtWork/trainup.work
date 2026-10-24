@@ -42,6 +42,13 @@ export const routes: Routes = [
 				loadComponent: () =>
 					import('./pages/legal/legal-page.component').then((m) => m.LegalPageComponent),
 			},
+			{
+				// Public support contacts and FAQ; the App Store requires a Support URL.
+				path: 'support',
+				data: { document: 'support', meta: buildRouteMeta(companyProfile, '/support') },
+				loadComponent: () =>
+					import('./pages/legal/legal-page.component').then((m) => m.LegalPageComponent),
+			},
 		],
 	},
 	{
