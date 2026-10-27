@@ -51,7 +51,7 @@ export const appConfig: ApplicationConfig = {
 			siteUrl: companyProfile.siteUrl,
 		}),
 		provideNgxUi(themeConfig),
-		// Child routes inherit parent `data.meta`, so `/app/**` pages stay noindex.
+		// Child routes inherit parent `data.meta`, so `/**` pages stay noindex.
 		// Scroll to the top on navigation; Back/Forward restores the previous position.
 		provideRouter(
 			routes,

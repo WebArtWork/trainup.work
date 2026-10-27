@@ -3,7 +3,7 @@ import { RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
-/** Unknown `/app/**` address, shown inside the tab layout so navigation stays available. */
+/** Unknown `/**` address, shown inside the tab layout so navigation stays available. */
 @Component({
 	imports: [RouterLink, StateMessageComponent, TranslateDirective],
 	template: `
@@ -14,7 +14,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 		>
 			<a
 				class="btn btn-primary btn-lg"
-				routerLink="/app/today"
+				routerLink="/today"
 				translate
 			>
 				Перейти на «Сьогодні»

@@ -12,7 +12,6 @@ export function validatePlan(plan: WorkoutPlan, input: PlannerInput): PlanViolat
 		profile: input.profile,
 		setup: input.setup,
 		limitations: input.limitations,
-		allowedStatuses: input.allowedStatuses ?? ['published'],
 		pausedExerciseIds: input.pausedExerciseIds ?? [],
 	};
 	const budgetSeconds = input.profile.sessionMinutes * 60;

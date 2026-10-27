@@ -34,7 +34,7 @@ import { EXCLUSION_REASONS, INFEASIBILITY_MESSAGES } from '../../plan.const';
 							@if (reason.section) {
 								<a
 									class="theme-focus inline-flex min-h-11 items-center gap-1 rounded-full px-3 font-semibold text-[var(--c-primary-text)] hover:bg-[var(--c-bg-tertiary)]"
-									[routerLink]="['/app/profile', reason.section]"
+									[routerLink]="['/profile', reason.section]"
 								>
 									<span class="material-symbols-outlined text-[18px]" aria-hidden="true">tune</span>
 									<span translate>Змінити</span>
@@ -56,7 +56,6 @@ export class PlanInfeasibilityComponent {
 	protected readonly message = computed(() => INFEASIBILITY_MESSAGES[this.infeasibility().code]);
 	protected readonly reasons = computed(() =>
 		this.infeasibility()
-			.topReasons.filter(({ reason }) => reason !== 'not-published')
-			.map(({ reason, count }) => ({ ...EXCLUSION_REASONS[reason], count })),
+			.topReasons.map(({ reason, count }) => ({ ...EXCLUSION_REASONS[reason], count })),
 	);
 }

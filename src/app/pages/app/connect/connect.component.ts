@@ -133,7 +133,7 @@ export class ConnectComponent implements OnInit {
 
 			window.location.assign(url.toString());
 		} else {
-			void this._router.navigateByUrl('/app/today');
+			void this._router.navigateByUrl('/today');
 		}
 	}
 

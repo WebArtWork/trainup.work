@@ -48,7 +48,7 @@ interface SavedCheckout {
 					title="Кошик порожній"
 					text="Додайте обладнання з магазину, щоб оформити замовлення."
 				>
-					<a class="btn btn-primary mt-4" routerLink="/app/store" translate>До магазину</a>
+					<a class="btn btn-primary mt-4" routerLink="/store" translate>До магазину</a>
 				</app-state-message>
 			} @else {
 				<form class="flex flex-col gap-4" (submit)="submit($event)">
@@ -240,7 +240,7 @@ export class CheckoutComponent {
 			this._save();
 			this.cart.clear();
 			await this._addToEquipment(lines.map(({ product }) => product.equipment));
-			await this._router.navigate(['/app/store/orders', order.id]);
+			await this._router.navigate(['/store/orders', order.id]);
 		} catch {
 			this.error.set('Не вдалося оформити замовлення. Спробуйте ще раз.');
 		} finally {

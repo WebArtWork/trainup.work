@@ -40,6 +40,7 @@ export class AccountService {
 	readonly setup = signal<TrainingSetup | null>(null);
 	readonly limitations = signal<Limitation[]>([]);
 
+	readonly medications = computed(() => this.profile()?.medications ?? '');
 	readonly activeLimitations = computed(() =>
 		this.limitations().filter((limitation) => limitation.active),
 	);
@@ -72,12 +73,14 @@ export class AccountService {
 		profile: ProfileInput,
 		setup: TrainingSetupInput,
 		limitations: LimitationInput[],
+		medications = '',
 	): Promise<void> {
 		const { db, uid } = this._context();
 		const batch = writeBatch(db);
 
 		batch.update(doc(db, 'users', uid), {
 			...pickProfileInput(profile),
+			medications: medications.trim(),
 			onboardingCompletedAt: serverTimestamp(),
 			updatedAt: serverTimestamp(),
 		});
@@ -108,10 +111,14 @@ export class AccountService {
 		await this._reload();
 	}
 
-	async saveLimitations(limitations: LimitationInput[]): Promise<void> {
+	async saveLimitations(limitations: LimitationInput[], medications = ''): Promise<void> {
 		const { db, uid } = this._context();
 		const batch = writeBatch(db);
 
+		batch.update(doc(db, 'users', uid), {
+			medications: medications.trim(),
+			updatedAt: serverTimestamp(),
+		});
 		this._writeLimitations(batch, db, uid, limitations);
 
 		await batch.commit();

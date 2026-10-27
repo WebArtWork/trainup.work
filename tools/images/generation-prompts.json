@@ -149,6 +149,13 @@
 				"file": "src/assets/seo/not-found.jpg",
 				"label": "Page not found",
 				"scene": "A teal magnifying glass over a missing cream calendar tile and a coral curved path pointing back home."
+			},
+			{
+				"id": "connect",
+				"file": "src/assets/seo/connect.jpg",
+				"label": "Connect assistant",
+				"scene": "Two substantial interlocking teal and coral chain links beside a small cream consent card with a teal shield and coral checkmark, with a small teal dumbbell.",
+				"prompt": "Use case: ads-marketing. Asset type: TrainUp page Open Graph / SEO share image. Create one landscape 1200:630 composition matching an existing premium dimensional editorial illustration series. Warm cream #fff8f0 background, coral #d6410f, deep teal #0b6b5f and navy accents, soft dimensional shading, restrained geometry, matte low-poly sculptural objects. Large bold rounded modern sans-serif exact text \"TrainUp\" on the left, Train in deep navy and Up in coral. Smaller exact label \"Connect assistant\" below, in navy. On the right, two substantial interlocking teal and coral chain links beside a small cream consent card with a teal shield and coral checkmark, with a small teal dumbbell. Communicate permission-based connection of an assistant to a workout planner. Generous margins, keep all content within central 85 percent, clean high-contrast typography at thumbnail size. Only text \"TrainUp\" and \"Connect assistant\". No other text, no watermark, no interface screenshot, no third party logos."
 			}
 		]
 	},

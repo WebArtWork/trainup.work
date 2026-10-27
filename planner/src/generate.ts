@@ -18,7 +18,7 @@ import type {
 	Weekday,
 } from './types';
 
-export const ALGORITHM_VERSION = 'calculator-1.0.0';
+export const ALGORITHM_VERSION = 'calculator-1.1.0';
 export const PLAN_SCHEMA_VERSION = 1;
 export const DEFAULT_PLAN_WEEKS = 4;
 /** Moving between exercises, setting up equipment. */
@@ -73,6 +73,13 @@ const SESSION_SLOTS: Record<Goal, MovementPattern[]> = {
 	],
 };
 
+/** Accessory slots, tried only after both passes over the compound slots. */
+const ACCESSORY_SLOTS: Record<Goal, MovementPattern[]> = {
+	'build-strength': ['isolation', 'isolation'],
+	'general-fitness': ['isolation'],
+	'improve-conditioning': [],
+};
+
 const CATEGORY_FIT: Record<Goal, Record<ExerciseCategory, number>> = {
 	'build-strength': { strength: 3, conditioning: 1, mobility: 0.5 },
 	'general-fitness': { strength: 2, conditioning: 2, mobility: 1.5 },
@@ -125,7 +132,6 @@ export function generatePlan(input: PlannerInput): PlanResult {
 		profile,
 		setup,
 		limitations,
-		allowedStatuses: input.allowedStatuses ?? ['published'],
 		pausedExerciseIds: input.pausedExerciseIds ?? [],
 	});
 	const adjustment = input.adjustment ?? 'keep';
@@ -242,8 +248,8 @@ function _buildSession(
 	const session: Exercise[] = [];
 	let seconds = 0;
 
-	// Second pass fills leftover time with other exercises for the same patterns.
-	const slots = [...SESSION_SLOTS[goal], ...SESSION_SLOTS[goal]];
+	// Second pass fills leftover time with other exercises for the same patterns; accessories go last.
+	const slots = [...SESSION_SLOTS[goal], ...SESSION_SLOTS[goal], ...ACCESSORY_SLOTS[goal]];
 
 	for (const pattern of slots) {
 		if (session.length >= MAX_EXERCISES_PER_DAY) {

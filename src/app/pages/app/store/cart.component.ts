@@ -17,7 +17,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 					title="Кошик порожній"
 					text="Додайте обладнання з магазину, щоб оформити замовлення."
 				>
-					<a class="btn btn-primary mt-4" routerLink="/app/store" translate>До магазину</a>
+					<a class="btn btn-primary mt-4" routerLink="/store" translate>До магазину</a>
 				</app-state-message>
 			} @else {
 				<ul class="flex flex-col gap-3">
@@ -33,7 +33,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 							<div class="flex min-w-0 flex-1 flex-col gap-2">
 								<a
 									class="theme-focus text-sm font-semibold leading-5 text-[var(--c-text-strong)]"
-									[routerLink]="['/app/store', line.product.id]"
+									[routerLink]="['/store', line.product.id]"
 									[translate]="line.product.name"
 								>
 									{{ line.product.name }}
@@ -94,7 +94,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 					<p class="text-xs leading-5 text-[var(--c-text-muted)]" translate>
 						Вартість доставки Новою поштою оплачується за тарифами перевізника.
 					</p>
-					<a class="btn btn-primary btn-lg btn-block" routerLink="/app/store/checkout" translate>
+					<a class="btn btn-primary btn-lg btn-block" routerLink="/store/checkout" translate>
 						Оформити замовлення
 					</a>
 				</section>

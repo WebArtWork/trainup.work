@@ -134,7 +134,7 @@
 													}
 												</ol>
 												@if (!isDone && day.date >= today) {
-													<a class="btn btn-primary mt-2" [routerLink]="['/app/workout', day.index]">
+													<a class="btn btn-primary mt-2" [routerLink]="['/workout', day.index]">
 														<span class="material-symbols-outlined text-[18px]" aria-hidden="true">
 															play_arrow
 														</span>
@@ -183,7 +183,7 @@
 					title="Плану ще немає"
 					text="Складіть план на сторінці «Сьогодні»."
 				>
-					<a class="btn btn-outline" routerLink="/app/today" translate>
+					<a class="btn btn-outline" routerLink="/today" translate>
 						До сторінки «Сьогодні»
 					</a>
 				</app-state-message>

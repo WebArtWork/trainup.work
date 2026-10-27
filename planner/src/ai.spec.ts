@@ -52,9 +52,6 @@ function exercise(id: string, pattern: MovementPattern, overrides: Partial<Exerc
 		imageUrl: null,
 		steps: ['step'],
 		techniqueNotes: [],
-		status: 'published',
-		reviewedBy: 'Reviewer',
-		reviewedAt: '2026-10-01',
 		version: 1,
 		...overrides,
 	};

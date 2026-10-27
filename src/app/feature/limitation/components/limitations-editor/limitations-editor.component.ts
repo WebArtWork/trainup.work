@@ -6,6 +6,7 @@ import {
 	BodyArea,
 	LIMITATION_NOTE_MAX_LENGTH,
 	LimitationInput,
+	MEDICATIONS_MAX_LENGTH,
 } from '../../limitation.interface';
 
 @Component({
@@ -68,14 +69,34 @@ import {
 					></textarea>
 				</label>
 			}
+
+			<label class="surface flex flex-col gap-1.5 p-4 sm:p-5">
+				<span class="font-display text-lg text-[var(--c-text-strong)]" translate>
+					Ліки, які ви приймаєте
+				</span>
+				<span class="text-sm text-[var(--c-text)]" translate>
+					Необов’язково. Це лише ваша нотатка: вона не змінює план, тож за потреби
+					порадьтеся з лікарем.
+				</span>
+				<textarea
+					class="field min-h-20 py-3"
+					rows="2"
+					[maxLength]="medicationsMaxLength"
+					[value]="medications()"
+					[translate]="{ placeholder: 'Наприклад, ліки від тиску, інгалятор' }"
+					(input)="medications.set($any($event.target).value)"
+				></textarea>
+			</label>
 		</div>
 	`,
 })
 export class LimitationsEditorComponent {
 	readonly limitations = model.required<LimitationInput[]>();
+	readonly medications = model('');
 
 	protected readonly areaOptions = BODY_AREA_OPTIONS;
 	protected readonly noteMaxLength = LIMITATION_NOTE_MAX_LENGTH;
+	protected readonly medicationsMaxLength = MEDICATIONS_MAX_LENGTH;
 	protected readonly selectedAreas = computed(
 		() => new Set(this.limitations().map((limitation) => limitation.area)),
 	);

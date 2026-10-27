@@ -111,8 +111,8 @@ export class SettingsComponent {
 	);
 	protected readonly mode = computed(() => this._themeService.mode() ?? 'light');
 	protected readonly links: SettingsLink[] = [
-		{ path: '/app/settings/ai', label: 'Штучний інтелект', icon: 'auto_awesome' },
-		{ path: '/app/data', label: 'Дані та приватність', icon: 'shield_lock' },
+		{ path: '/settings/ai', label: 'Штучний інтелект', icon: 'auto_awesome' },
+		{ path: '/data', label: 'Дані та приватність', icon: 'shield_lock' },
 	];
 
 	protected async setLanguage(code: string) {

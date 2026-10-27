@@ -68,7 +68,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 							<span translate>У кошик</span>
 						</button>
 						@if (inCart()) {
-							<a class="btn btn-outline btn-block" routerLink="/app/store/cart">
+							<a class="btn btn-outline btn-block" routerLink="/store/cart">
 								<span translate>Перейти до кошика</span>
 								<span>· {{ inCart() }}</span>
 							</a>
@@ -83,7 +83,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 					title="Товар не знайдено"
 					text="Можливо, посилання застаріле."
 				>
-					<a class="btn btn-primary mt-4" routerLink="/app/store" translate>До магазину</a>
+					<a class="btn btn-primary mt-4" routerLink="/store" translate>До магазину</a>
 				</app-state-message>
 			}
 		</div>

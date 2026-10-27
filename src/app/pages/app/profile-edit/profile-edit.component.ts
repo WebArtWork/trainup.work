@@ -23,7 +23,7 @@ import { SpaceEditorComponent } from '../../../feature/training-setup/components
 import { EMPTY_TRAINING_SETUP_INPUT } from '../../../feature/training-setup/training-setup.const';
 import { TrainingSetupInput } from '../../../feature/training-setup/training-setup.interface';
 
-const PROFILE_PATH = '/app/profile';
+const PROFILE_PATH = '/profile';
 
 @Component({
 	imports: [
@@ -57,6 +57,7 @@ export class ProfileEditComponent {
 	protected readonly limitations = signal<LimitationInput[]>(
 		this._accountService.activeLimitations().map(({ area, note }) => ({ area, note })),
 	);
+	protected readonly medications = signal(this._accountService.medications());
 	protected readonly saving = signal(false);
 	protected readonly error = signal(false);
 
@@ -71,7 +72,7 @@ export class ProfileEditComponent {
 			case 'space':
 				return isSpaceComplete(this.setup());
 			case 'limitations':
-				return isLimitationsComplete(this.limitations());
+				return isLimitationsComplete(this.limitations(), this.medications());
 		}
 	});
 
@@ -94,7 +95,7 @@ export class ProfileEditComponent {
 					await this._accountService.saveSetup(this.setup());
 					break;
 				case 'limitations':
-					await this._accountService.saveLimitations(this.limitations());
+					await this._accountService.saveLimitations(this.limitations(), this.medications());
 					break;
 			}
 

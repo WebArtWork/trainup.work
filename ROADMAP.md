@@ -14,17 +14,17 @@ Phases have no dates yet. Add them once team capacity is known.
 | Firestore database      | `(default)` exists in Frankfurt (`europe-west3`); empty                                                   |
 | Firestore rules         | Field validation for all collections in use, 26 emulator tests; **not deployed yet** (`npm run rules`)   |
 | App (README §13)        | Phases 1–3 code done (onboarding, planner, workouts, feedback, to-dos, reminders); awaiting end-to-end check. Phases 4–5 open |
-| Exercise catalog        | 48 **draft** exercises in `src/data/exercise/exercises.json`, unreviewed, no images; `npm run seed` syncs to Firestore |
+| Exercise catalog        | 48 exercises in `src/data/exercise/exercises.json`, bundled with the app, no images |
 
 ## Critical path
 
 ```text
 Phase 0 decisions ─► Phase 1 foundation ─► Phase 2 planner + catalog ─► Phase 3 feedback ─► Phase 4 AI ─► Phase 5 release
                                                ▲
-Exercise content (reviewed metadata + licensed images) ─┘  start in Phase 0, needed by Phase 2
+Exercise content (metadata + licensed images) ─┘  start in Phase 0, needed by Phase 2
 ```
 
-The exercise catalog is the longest lead item: 40–60 exercises with reviewed metadata and licensed images.
+The exercise catalog is the longest lead item: 40–60 exercises with metadata and licensed images.
 It doesn't depend on any code, so start it immediately.
 
 ## Phase 0: Decisions and setup
@@ -34,14 +34,14 @@ It doesn't depend on any code, so start it immediately.
 | Topic             | Decision                                                                                                  |
 | ----------------- | --------------------------------------------------------------------------------------------------------- |
 | App location      | This repo. Web first; Capacitor Android/iOS platforms are added later (Phase 5)                           |
-| App URL           | `trainup.work/app/**`, client-rendered. The prerendered landing page stays at `/`                         |
+| App URL           | `trainup.work/today` and friends, client-rendered. The prerendered landing page stays at `/`            |
 | Sign-in           | Google and Apple (an Apple Developer account already exists). No email/password at launch               |
 | Firestore         | Existing `(default)` database in Frankfurt (`europe-west3`)                                               |
 | Server            | **No Cloud Functions.** The existing WAW Node.js API (`environment.apiUrl`) hosts TrainUp endpoints. It verifies Firebase ID tokens and writes through `firebase-admin` |
 | Firebase plan     | No Blaze upgrade needed for functions                                                                     |
 | Exercise content  | Written in-house; images commissioned so they share one visual style                                      |
 | Planning (Phase 2) | The app generates and validates plans with the shared `planner/` and saves them to Firestore itself. Rules check the plan shape; per-exercise checks rely on `validatePlan()` in the client. This deviates from README §12 (server validation) until a WAW API endpoint takes over |
-| Seed data         | `src/data/` is the source of truth for Firestore-managed content; `npm run seed` uploads it with the Admin SDK |
+| Catalog           | `src/data/exercise/exercises.json` is bundled with the app; our expert edits it through git. No admin page, no approval flow |
 
 ### Remaining setup
 
@@ -55,7 +55,7 @@ It doesn't depend on any code, so start it immediately.
 - [ ] WAW API: add `firebase-admin` with a service account for `train-up-work`, plus a middleware that
       verifies Firebase ID tokens. Keep the service-account key in server secrets only.
 - [ ] Set up the Firebase Emulator Suite (Auth + Firestore) so the rules can be tested locally.
-- [ ] Exercise content: name the writer, the qualified professional who reviews it, and the illustrator.
+- [ ] Exercise content: name the writer, the expert who maintains it, and the illustrator.
       Agree on the image style and license terms (TrainUp must own or hold full rights).
 - [ ] Fix README §8 and §15: they say Angular 21 (the stack is 22) and assume Cloud Functions (now the WAW
       API).
@@ -66,12 +66,12 @@ It doesn't depend on any code, so start it immediately.
 
 Code is in place (2026-10-08); the end-to-end check waits on Phase 0 setup.
 
-- [x] App shell under `/app` in this repo:
-    - `app/**` is `RenderMode.Client` in `app.routes.server.ts`; only the landing page is prerendered.
-    - `/app` routes are lazy-loaded, so Firebase stays out of the landing page bundle.
-    - `/app` pages are `noindex` and not in the sitemap.
+- [x] App shell at the site root (`/today`, `/workout`, ...) in this repo:
+    - Only the landing and legal pages are prerendered; every other path is `RenderMode.Client` in `app.routes.server.ts`.
+    - The app routes are lazy-loaded, so Firebase stays out of the landing page bundle.
+    - App pages are `noindex` and not in the sitemap. Signed-in users opening `/` go to `/today`.
     - Bottom navigation (Today / Workout / Explore / Profile) with the existing translation setup.
-    - GitHub Pages serves `index.csr.html` as `404.html`, so `/app` deep links load.
+    - GitHub Pages serves `index.csr.html` as `404.html`, so deep links load.
 - [x] Firebase Auth (Google, Apple popups) with route guards. `users/{uid}` is created on first sign-in.
 - [x] Typed domain models with schema versions: profile, training setup, limitations.
 - [x] Onboarding wizard: goal, level and schedule, equipment, space, restrictions, review. The draft
@@ -92,14 +92,13 @@ Test 12 is covered by the rules tests; the "Done when" flow still needs the end-
 
 ## Phase 2: Planner engine, catalog, workouts (README Milestone 2)
 
-Code is in place (2026-10-08). Plans can be built and run end to end in development with the draft
-catalog; production needs reviewed, published exercises first.
+Code is in place (2026-10-08). Plans can be built and run end to end with the bundled catalog.
 
 **2a. Planner engine** (`planner/`, plain TypeScript, no Angular or Firebase)
 
 - [x] Hard filters: equipment (incl. secure pull-up bar, adjustable bench), floor size in either
       orientation, ceiling clearance, surface, jumping, noise, floor contact, anchor, location,
-      limitations, level and coordination, incomplete metadata, unpublished status.
+      limitations, level and coordination, incomplete metadata.
 - [x] Time budgeting sized by the heaviest week, goal-based movement-pattern sessions, scoring for goal
       fit, variety and recovery spacing, 4-week plan with a week-4 deload; no weights prescribed.
 - [x] Explained infeasibility (`missing-goal-or-level`, `no-eligible-exercises`, `too-few-exercises`,
@@ -111,14 +110,11 @@ catalog; production needs reviewed, published exercises first.
 
 **2b. Catalog**
 
-- [x] 48 draft exercises in `src/data/exercise/exercises.json` (metadata decided per exercise; text
-      written by an agent). Status `draft`, `reviewedBy` empty, no images.
-- [x] `npm run seed`: validates the catalog, then upserts it to Firestore (`--dry-run`, `--prune`).
-      Needs a service-account key (see `tools/seed/seed.mjs`).
+- [x] 48 exercises in `src/data/exercise/exercises.json`, bundled with the app (metadata decided per
+      exercise; text written by an agent), no images. All are shown; our expert approves the content
+      outside the app, so there are no draft or published states.
 - [x] Explore: search, category filter, "suits me" filter using the planner's own rules; detail page
       shows technique, needs, and why an exercise doesn't suit the user.
-- [ ] Professional review of every exercise, then set `status: "published"`, `reviewedBy`,
-      `reviewedAt` and run `npm run seed`. Until then production shows "catalog is being prepared".
 - [ ] Commissioned images (`imageUrl`); translations of exercise text (currently Ukrainian only).
 
 **2c. Workout execution**

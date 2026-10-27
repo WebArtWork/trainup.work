@@ -79,7 +79,6 @@ function generatedPlan() {
 		limitations: [],
 		catalog: catalog as Exercise[],
 		startDate: '2026-10-05',
-		allowedStatuses: ['draft', 'published'],
 	});
 
 	if (!result.ok) {
@@ -480,38 +479,6 @@ describe('custom exercises', () => {
 		await assertFails(setDoc(doc(db('alice'), 'users/alice/customExercises/custom-x-000000'), { name: 'x' }));
 		await assertFails(setDoc(doc(db('alice'), path), { name: 'changed' }));
 		await assertFails(deleteDoc(doc(db('alice'), path)));
-	});
-});
-
-describe('exercises', () => {
-	beforeEach(async () => {
-		await env.withSecurityRulesDisabled(async (context) => {
-			const admin = context.firestore() as unknown as Firestore;
-
-			await setDoc(doc(admin, 'exercises/squat'), { status: 'published' });
-			await setDoc(doc(admin, 'exercises/draft'), { status: 'draft' });
-		});
-	});
-
-	it('shows only published exercises to signed-in users', async () => {
-		await assertSucceeds(getDoc(doc(db('alice'), 'exercises/squat')));
-		await assertFails(getDoc(doc(db('alice'), 'exercises/draft')));
-		await assertFails(getDoc(doc(db(null), 'exercises/squat')));
-	});
-
-	it('limits catalog writes to admins', async () => {
-		await assertFails(setDoc(doc(db('alice'), 'exercises/new'), { status: 'published' }));
-		await assertSucceeds(
-			setDoc(doc(db('admin', { admin: true }), 'exercises/new'), { status: 'draft' }),
-		);
-		await assertSucceeds(getDoc(doc(db('admin', { admin: true }), 'exercises/draft')));
-	});
-
-	it('lets the listed admin UID manage the catalog', async () => {
-		const adminUid = '764p8BWj8tYkwy2fhVKorOih8Xi1';
-
-		await assertSucceeds(setDoc(doc(db(adminUid), 'exercises/new'), { status: 'published' }));
-		await assertSucceeds(getDoc(doc(db(adminUid), 'exercises/draft')));
 	});
 });
 

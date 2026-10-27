@@ -106,7 +106,10 @@ export type MuscleGroup =
 	| 'core'
 	| 'full-body';
 
-/** Used to build balanced sessions: each session fills movement-pattern slots. */
+/**
+ * Used to build balanced sessions: each session fills movement-pattern slots. `isolation` covers
+ * single-joint accessories (curls, raises, extensions) that only fill time left after compound slots.
+ */
 export type MovementPattern =
 	| 'squat'
 	| 'hinge'
@@ -117,7 +120,8 @@ export type MovementPattern =
 	| 'pull-vertical'
 	| 'core'
 	| 'conditioning'
-	| 'mobility';
+	| 'mobility'
+	| 'isolation';
 
 export type ExerciseCategory = 'strength' | 'conditioning' | 'mobility';
 
@@ -128,8 +132,6 @@ export type NoiseLevel = 'quiet' | 'moderate' | 'loud';
 export type AxialLoad = 'none' | 'low' | 'moderate' | 'high';
 
 export type IntensityMode = 'reps' | 'time';
-
-export type ExerciseStatus = 'draft' | 'published' | 'archived';
 
 /**
  * Equipment the exercise needs: every group must be satisfied, and a group is satisfied by any one
@@ -197,11 +199,6 @@ export interface Exercise {
 	imageUrl: string | null;
 	steps: string[];
 	techniqueNotes: string[];
-	status: ExerciseStatus;
-	/** Name of the qualified reviewer; required before publishing. */
-	reviewedBy: string | null;
-	/** ISO date of the review. */
-	reviewedAt: string | null;
 	/** Incremented on every content change; plans keep the version they were built with. */
 	version: number;
 }
@@ -218,8 +215,6 @@ export interface PlannerInput {
 	catalog: Exercise[];
 	/** First day of the plan, `YYYY-MM-DD` in the user's local calendar. */
 	startDate: string;
-	/** Which exercise statuses may be used. Production: `['published']` only. */
-	allowedStatuses?: ExerciseStatus[];
 	weeks?: number;
 	/** Exercises the user reported pain in; excluded until the user explicitly resumes them. */
 	pausedExerciseIds?: string[];
@@ -250,7 +245,6 @@ export interface AdjustmentRecommendation {
 }
 
 export type ExclusionReason =
-	| 'not-published'
 	| 'incomplete-metadata'
 	| 'missing-equipment'
 	| 'pull-up-bar-not-secure'

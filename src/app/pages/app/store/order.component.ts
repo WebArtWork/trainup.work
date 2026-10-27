@@ -24,7 +24,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 					title="Замовлення не знайдено"
 					text="Можливо, посилання застаріле."
 				>
-					<a class="btn btn-primary mt-4" routerLink="/app/store/orders" translate>
+					<a class="btn btn-primary mt-4" routerLink="/store/orders" translate>
 						До замовлень
 					</a>
 				</app-state-message>
@@ -91,7 +91,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 				<p class="surface-inset p-4 text-sm leading-6 text-[var(--c-text)]" translate>
 					Придбане обладнання вже додано до вашого списку. Нові вправи з’являться у «Вправах».
 				</p>
-				<a class="btn btn-primary btn-lg btn-block" routerLink="/app/explore"
+				<a class="btn btn-primary btn-lg btn-block" routerLink="/explore"
 					[queryParams]="{ equipment: equipmentTypes() }"
 					translate
 				>

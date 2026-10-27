@@ -24,7 +24,7 @@
 					@if (equipmentFiltered()) {
 						<div class="surface-inset flex items-center justify-between gap-3 px-4 py-2 text-sm">
 							<span class="text-[var(--c-text-strong)]" translate>Вправи з вашого замовлення</span>
-							<a class="link inline-flex min-h-11 items-center" routerLink="/app/explore" translate>
+							<a class="link inline-flex min-h-11 items-center" routerLink="/explore" translate>
 								Показати всі
 							</a>
 						</div>
@@ -76,7 +76,7 @@
 							<li class="flex">
 								<a
 									class="surface theme-focus group flex w-full flex-col overflow-hidden transition-transform hover:-translate-y-0.5"
-									[routerLink]="['/app/explore', item.exercise.id]"
+									[routerLink]="['/explore', item.exercise.id]"
 								>
 									<span
 										class="relative flex aspect-[4/3] items-center justify-center bg-[var(--c-bg-tertiary)]"

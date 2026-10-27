@@ -7,20 +7,19 @@
 		"build:seo": "npm run build && node tools/seo/generate-static-seo.mjs",
 		"rules": "firebase deploy --only firestore:rules --project train-up-work",
 		"test": "vitest run --config vitest.config.mts",
-		"test:rules": "firebase emulators:exec --only firestore --project demo-trainup \"vitest run --config vitest.rules.config.mts\"",
-		"seed": "vitest run --config vitest.config.mts planner/src/catalog.spec.ts && node tools/seed/seed.mjs"
+		"test:rules": "firebase emulators:exec --only firestore --project demo-trainup \"vitest run --config vitest.rules.config.mts\""
 	},
 	"dependencies": {
-		"@angular/aria": "^22.2.2",
-		"@angular/cdk": "^22.2.2",
-		"@angular/common": "22.2.1",
-		"@angular/compiler": "22.2.1",
-		"@angular/core": "22.2.1",
-		"@angular/forms": "22.2.1",
-		"@angular/platform-browser": "22.2.1",
-		"@angular/platform-server": "22.2.1",
-		"@angular/router": "22.2.1",
-		"@angular/ssr": "22.2.2",
+		"@angular/aria": "^22.2.4",
+		"@angular/cdk": "^22.2.4",
+		"@angular/common": "22.2.3",
+		"@angular/compiler": "22.2.3",
+		"@angular/core": "22.2.3",
+		"@angular/forms": "22.2.3",
+		"@angular/platform-browser": "22.2.3",
+		"@angular/platform-server": "22.2.3",
+		"@angular/router": "22.2.3",
+		"@angular/ssr": "22.2.4",
 		"@capacitor-firebase/authentication": "^8.5.2",
 		"@capacitor/android": "^8.5.3",
 		"@capacitor/core": "^8.5.3",
@@ -30,27 +29,26 @@
 		"@wawjs/ngx-translate": "22.0.9",
 		"@wawjs/ngx-ui": "22.0.9",
 		"chart.js": "^4.5.1",
-		"express": "5.1.0",
+		"express": "5.3.0",
 		"firebase": "^13.0.0",
-		"rxjs": "7.8.0",
-		"tslib": "2.3.0"
+		"rxjs": "7.8.2",
+		"tslib": "2.8.1"
 	},
 	"devDependencies": {
-		"@angular/build": "22.2.2",
-		"@angular/cli": "22.2.2",
-		"@angular/compiler-cli": "22.2.1",
+		"@angular/build": "22.2.4",
+		"@angular/cli": "22.2.4",
+		"@angular/compiler-cli": "22.2.3",
 		"@capacitor/cli": "^8.5.3",
 		"@firebase/rules-unit-testing": "^6.0.0",
-		"@tailwindcss/postcss": "4.1.12",
-		"@types/express": "5.0.1",
+		"@tailwindcss/postcss": "4.3.3",
+		"@types/express": "5.0.6",
 		"@types/node": "25.9.3",
-		"firebase-admin": "^14.5.0",
-		"ng-packagr": "22.2.4",
-		"postcss": "8.5.26",
-		"prettier": "3.8.1",
-		"tailwindcss": "4.1.12",
+		"ng-packagr": "22.2.5",
+		"postcss": "8.5.32",
+		"prettier": "3.9.10",
+		"tailwindcss": "4.3.3",
 		"typescript": "6.0.3",
-		"vitest": "5.0.3"
+		"vitest": "5.0.5"
 	},
 	"overrides": {
 		"esbuild": "0.28.2",
@@ -58,6 +56,11 @@
 		"@grpc/grpc-js": "1.14.6",
 		"@capacitor-firebase/authentication": {
 			"firebase": "$firebase"
+		},
+		"vite": "8.3.5",
+		"zod": "4.6.7",
+		"xcode": {
+			"uuid": "11.1.1"
 		}
 	}
 }

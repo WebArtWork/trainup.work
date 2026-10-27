@@ -80,8 +80,8 @@ Payments, subscriptions, live chat, social feed, leaderboards, wearables, camera
 
 1. Open **Profile → AI**.
 2. See available supported methods (app-provided AI, supported account integration, or API-key connection if implemented).
-3. AI can explain or suggest modifications to the program using approved exercise IDs and the user's preferences.
-4. Deterministic server-side validation must approve the final plan before saving it. If AI is unavailable or invalid, fall back to the rule-based plan.
+3. AI can explain or suggest modifications to the program using catalog exercise IDs and the user's preferences.
+4. The final plan must pass deterministic server-side validation before it is saved. If AI is unavailable or invalid, fall back to the rule-based plan.
 
 ## 4. Equipment and workout space — key differentiation
 
@@ -142,7 +142,7 @@ A spatial incompatibility is a **hard constraint**, not a preference that AI may
 
 ## 5. Exercise catalog
 
-Seed a small **curated initial catalog of approximately 40–60 exercises** to support the MVP goals. All records must have reviewed technique instructions and appropriate licensing for images.
+Seed a small **curated initial catalog of approximately 40–60 exercises** to support the MVP goals. All records must have technique instructions and appropriate licensing for images.
 
 Minimum data per exercise:
 
@@ -159,7 +159,6 @@ Minimum data per exercise:
 | `estimatedSetSeconds`, `restSeconds`               | Time budgeting                                    |
 | `defaultSets`, `repRange`, `intensityMode`         | Generator starting parameters                     |
 | `imageUrl`, `steps`, `techniqueNotes`              | Visual guidance                                   |
-| `status`, `reviewedBy`, `reviewedAt`               | Content quality and publication controls          |
 
 Exercises with incomplete required metadata must not be auto-selected. Images must be self-owned, permissively licensed, or explicitly licensed; preserve attribution when required.
 
@@ -171,7 +170,7 @@ All planning paths must produce the same versioned **WorkoutPlan** structure: st
 
 ### 6.2 Deterministic generator (always available)
 
-1. Read validated user profile, active equipment, space, limitations, schedule, and approved exercise catalog.
+1. Read validated user profile, active equipment, space, limitations, schedule, and exercise catalog.
 2. **Hard-filter** incompatible exercises:
     - Missing required equipment or fixture.
     - Inadequate usable dimensions, ceiling clearance, or floor/surface compatibility.
@@ -188,11 +187,11 @@ Do not prescribe a one-repetition maximum (1RM) weight based solely on age, heig
 
 ### 6.3 AI-assisted mode
 
-AI may improve goal interpretation, choose **from approved catalog exercise IDs**, draft readable explanations, and suggest a program. AI does **not** get unilateral authority to introduce exercises, modify safety constraints, prescribe unsupported loads, or overwrite data.
+AI may improve goal interpretation, choose **from catalog exercise IDs**, draft readable explanations, and suggest a program. AI does **not** get unilateral authority to introduce exercises, modify safety constraints, prescribe unsupported loads, or overwrite data.
 
 Server flow:
 
-1. Fetch a minimized user context and approved exercise candidates.
+1. Fetch a minimized user context and eligible exercise candidates.
 2. Ask the selected AI provider for a **strict structured response** containing candidate exercise IDs, intended scheduling, and explanations.
 3. Parse and validate types and allowed IDs.
 4. Run exactly the same deterministic safety/space/time validator as the non-AI flow.
@@ -276,7 +275,7 @@ Use typed documents, stable IDs, migrations/schema versions, server timestamps, 
 | `users/{uid}`                      | Basic profile, goals, fitness level, locale/time zone, settings                                     |
 | `users/{uid}/trainingSetups/{id}`  | Equipment inventory, location, dimensions, surface, clearance/noise/impact preferences, active flag |
 | `users/{uid}/limitations/{id}`     | User-reported restrictions, affected area, dates, active flag; minimal sensitive data               |
-| `exercises/{id}`                   | Reviewed metadata, equipment and spatial requirements, image, instructions, tags                    |
+| `src/data/exercise/exercises.json` | Bundled catalog (not in Firestore): metadata, equipment and spatial requirements, image, instructions, tags |
 | `users/{uid}/plans/{planId}`       | Generated schedule, revision, calculator/AI provenance, input snapshots, validation status          |
 | `users/{uid}/sessions/{sessionId}` | Planned vs actual sets/reps, completion, RPE, pain flags, timestamps                                |
 | `users/{uid}/todos/{todoId}`       | Title, due date, completion, optionally linked workout                                              |
@@ -296,11 +295,11 @@ Keep an exercise snapshot/version reference in saved plans so catalog edits do n
 
 ## 12. Security, privacy and safe behavior
 
-- Firestore and Storage access rules enforce per-user ownership; exercise publishing requires admin privileges.
+- Firestore and Storage access rules enforce per-user ownership; the exercise catalog ships with the app, so clients never write it.
 - Validate authorization and all plan constraints on the server; do not trust the client's claims about validation or exercise IDs.
 - Minimize health-related information, provide clear consent and deletion/export paths, and avoid uploading unnecessary personal details to AI providers.
 - Use quotas, rate limits, spending alerts, AI timeouts, idempotent plan generation, and structured error logging without sensitive prompt/profile content.
-- Published exercise metadata and instructions should be reviewed by appropriately qualified fitness/health professionals where needed.
+- Exercise metadata and instructions are maintained by our expert in `src/data/exercise/exercises.json`.
 - Do not promise to prevent injuries or provide medical treatment. If a reported symptom creates uncertainty, prefer pausing/asking for professional guidance over a confident automatic substitute.
 - Basic accessibility and internationalization support from the start; keep UI copy in translation files.
 
@@ -319,7 +318,7 @@ Keep an exercise snapshot/version reference in saved plans so catalog edits do n
 
 ### Milestone 2 — Catalog and deterministic training
 
-- [ ] Seed 40–60 reviewed exercise entries with valid metadata and licensed placeholder/media assets.
+- [ ] Add 40–60 exercise entries with valid metadata and licensed placeholder/media assets.
 - [ ] Implement browse/search/filter catalog.
 - [ ] Implement generator, time budgeting, constraint validator, and reproducible plan revisions.
 - [ ] Create plan preview, Today's workout, workout execution, session summary and history.

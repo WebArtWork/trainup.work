@@ -14,7 +14,6 @@ export interface ExclusionReasonInfo {
 }
 
 export const EXCLUSION_REASONS: Record<ExclusionReason, ExclusionReasonInfo> = {
-	'not-published': { label: 'Вправа ще проходить перевірку', section: null },
 	'incomplete-metadata': { label: 'Опис вправи ще неповний', section: null },
 	'missing-equipment': { label: 'Бракує потрібного обладнання', section: 'equipment' },
 	'pull-up-bar-not-secure': { label: 'Турнік не закріплено надійно', section: 'equipment' },
@@ -52,6 +51,7 @@ export const MOVEMENT_PATTERN_LABELS: Record<MovementPattern, string> = {
 	core: 'М’язи кора',
 	conditioning: 'Кардіо',
 	mobility: 'Рухливість',
+	isolation: 'Ізольовані вправи',
 };
 
 export const MUSCLE_LABELS: Record<MuscleGroup, string> = {

@@ -1,14 +1,12 @@
 import { computed, inject, Service, signal } from '@angular/core';
-import type { Exercise, ExerciseStatus } from '@trainup/planner';
-import { collection, getDocs, query, where } from 'firebase/firestore';
-import { environment } from '../../../environments/environment';
+import type { Exercise } from '@trainup/planner';
+import { collection, getDocs } from 'firebase/firestore';
 import { FirebaseService } from '../firebase/firebase.service';
 import { loadBundledCatalog } from './bundled-catalog';
 import { EXERCISE_IMAGES } from './exercise-images';
 
 /**
- * The exercise catalog. Production reads only published (reviewed) exercises from Firestore;
- * development uses the bundled src/data catalog including drafts (see `environment.exerciseSource`).
+ * The exercise catalog: the bundled src/data catalog plus the user's own exercises.
  */
 @Service()
 export class ExerciseCatalogService {
@@ -17,10 +15,6 @@ export class ExerciseCatalogService {
 	readonly exercises = signal<Exercise[]>([]);
 	readonly loaded = signal(false);
 	readonly error = signal(false);
-	/** Statuses the planner may use with the current source. */
-	readonly allowedStatuses: ExerciseStatus[] =
-		environment.exerciseSource === 'bundled' ? ['draft', 'published'] : ['published'];
-	readonly usesDrafts = environment.exerciseSource === 'bundled';
 	readonly byId = computed(
 		() => new Map(this.exercises().map((exercise) => [exercise.id, exercise] as const)),
 	);
@@ -56,14 +50,13 @@ export class ExerciseCatalogService {
 		this.error.set(false);
 
 		const [catalog, custom] = await Promise.all([
-			environment.exerciseSource === 'bundled' ? loadBundledCatalog() : this._loadPublished(),
+			loadBundledCatalog(),
 			this._loadCustom(),
 		]);
 		const exercises = [...catalog, ...custom];
 
 		this.exercises.set(
 			exercises
-				.filter((exercise) => this.allowedStatuses.includes(exercise.status))
 				.map((exercise) => ({
 					...exercise,
 					imageUrl: exercise.imageUrl || EXERCISE_IMAGES[exercise.id] || null,
@@ -71,21 +64,6 @@ export class ExerciseCatalogService {
 				.sort((a, b) => a.name.localeCompare(b.name, 'uk')),
 		);
 		this.loaded.set(true);
-	}
-
-	private async _loadPublished(): Promise<Exercise[]> {
-		const db = this._firebase.firestore;
-
-		if (!db) {
-			return [];
-		}
-
-		// The `status` filter is required: rules only allow reading published exercises.
-		const snapshot = await getDocs(
-			query(collection(db, 'exercises'), where('status', '==', 'published')),
-		);
-
-		return snapshot.docs.map((doc) => doc.data() as Exercise);
 	}
 
 	/** A failure here must not hide the shared catalog, so it only logs. */

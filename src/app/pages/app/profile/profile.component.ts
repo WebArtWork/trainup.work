@@ -60,6 +60,7 @@ import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-fla
 					[profile]="profile"
 					[setup]="setup()"
 					[limitations]="limitations()"
+					[medications]="medications()"
 					(edit)="edit($event)"
 				/>
 			</div>
@@ -155,15 +156,16 @@ export class ProfileComponent {
 		() => this._accountService.setup() ?? EMPTY_TRAINING_SETUP_INPUT,
 	);
 	protected readonly limitations = this._accountService.activeLimitations;
+	protected readonly medications = this._accountService.medications;
 	protected readonly signingOut = signal(false);
 	protected readonly resuming = signal<string | null>(null);
 	protected readonly links = [
-		{ path: '/app/reminders', label: 'Нагадування', icon: 'notifications' },
-		{ path: '/app/todos', label: 'Справи', icon: 'checklist' },
-		{ path: '/app/store/orders', label: 'Мої замовлення', icon: 'receipt_long' },
-		{ path: '/app/history', label: 'Історія тренувань', icon: 'history' },
-		{ path: '/app/settings', label: 'Налаштування', icon: 'settings' },
-		{ path: '/app/data', label: 'Дані та приватність', icon: 'shield_lock' },
+		{ path: '/reminders', label: 'Нагадування', icon: 'notifications' },
+		{ path: '/todos', label: 'Справи', icon: 'checklist' },
+		{ path: '/store/orders', label: 'Мої замовлення', icon: 'receipt_long' },
+		{ path: '/history', label: 'Історія тренувань', icon: 'history' },
+		{ path: '/settings', label: 'Налаштування', icon: 'settings' },
+		{ path: '/data', label: 'Дані та приватність', icon: 'shield_lock' },
 	];
 
 	private readonly _flags = inject(ExerciseFlagService);
@@ -196,7 +198,7 @@ export class ProfileComponent {
 	}
 
 	protected edit(section: AccountSection) {
-		void this._router.navigate(['/app/profile', section]);
+		void this._router.navigate(['/profile', section]);
 	}
 
 	protected async signOut() {

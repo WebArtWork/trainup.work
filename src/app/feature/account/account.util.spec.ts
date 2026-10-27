@@ -115,6 +115,8 @@ describe('isLimitationsComplete', () => {
 		expect(isLimitationsComplete([])).toBe(true);
 		expect(isLimitationsComplete([{ area: 'knees', note: 'біль при присіданні' }])).toBe(true);
 		expect(isLimitationsComplete([{ area: 'knees', note: 'x'.repeat(301) }])).toBe(false);
+		expect(isLimitationsComplete([], 'x'.repeat(500))).toBe(true);
+		expect(isLimitationsComplete([], 'x'.repeat(501))).toBe(false);
 	});
 });
 

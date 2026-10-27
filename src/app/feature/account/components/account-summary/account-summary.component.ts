@@ -61,6 +61,7 @@ export class AccountSummaryComponent {
 	readonly profile = input.required<ProfileInput>();
 	readonly setup = input.required<TrainingSetupInput>();
 	readonly limitations = input.required<LimitationInput[]>();
+	readonly medications = input('');
 	readonly edit = output<AccountSection>();
 
 	protected readonly sections = computed<SummarySection[]>(() => {
@@ -170,18 +171,27 @@ export class AccountSummaryComponent {
 
 	private _limitationLines(): SummaryLine[] {
 		const limitations = this.limitations();
+		const medications = this.medications().trim();
+		const medicationLines: SummaryLine[] = medications
+			? [{ label: 'Ліки', values: [{ text: medications, translate: false }] }]
+			: [];
 
 		if (!limitations.length) {
-			return [{ label: 'Обмеження', values: [{ text: 'Немає', translate: true }] }];
+			return [
+				{ label: 'Обмеження', values: [{ text: 'Немає', translate: true }] },
+				...medicationLines,
+			];
 		}
 
-		return limitations.map((limitation) => ({
+		const lines: SummaryLine[] = limitations.map((limitation) => ({
 			label:
 				BODY_AREA_OPTIONS.find((option) => option.value === limitation.area)?.label ?? '',
 			values: limitation.note.trim()
 				? [{ text: limitation.note.trim(), translate: false }]
 				: [],
 		}));
+
+		return [...lines, ...medicationLines];
 	}
 }
 

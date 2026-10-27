@@ -10,9 +10,7 @@ import {
 	onAuthStateChanged,
 	reauthenticateWithCredential,
 	reauthenticateWithPopup,
-	sendPasswordResetEmail,
 	signInWithCredential,
-	signInWithEmailAndPassword,
 	signInWithPopup,
 	signOut,
 	User,
@@ -85,32 +83,6 @@ export class AuthService {
 		this.user.set(result.user);
 
 		return result.user;
-	}
-
-	/** Admin accounts only (/app/admin); regular users sign in with Google or Apple. */
-	async signInWithEmail(email: string, password: string): Promise<User> {
-		const auth = this._firebase.auth;
-
-		if (!auth) {
-			throw new Error('Firebase Auth is only available in the browser.');
-		}
-
-		const result = await signInWithEmailAndPassword(auth, email, password);
-
-		this.user.set(result.user);
-
-		return result.user;
-	}
-
-	/** Admin accounts only: emails a link to set a new password. */
-	async sendPasswordReset(email: string): Promise<void> {
-		const auth = this._firebase.auth;
-
-		if (!auth) {
-			throw new Error('Firebase Auth is only available in the browser.');
-		}
-
-		await sendPasswordResetEmail(auth, email);
 	}
 
 	/** Re-checks the user with the provider they signed in with; needed before deleting the account. */

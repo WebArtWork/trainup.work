@@ -4,9 +4,9 @@ import { AccountService } from '../account/account.service';
 import { AuthService } from './auth.service';
 
 export const APP_PATHS = {
-	signIn: '/app/sign-in',
-	onboarding: '/app/onboarding',
-	home: '/app/today',
+	signIn: '/sign-in',
+	onboarding: '/onboarding',
+	home: '/today',
 };
 
 const RETURN_URL_KEY = 'trainup.returnUrl';
@@ -18,7 +18,7 @@ export function takeReturnUrl(): string | null {
 
 		sessionStorage.removeItem(RETURN_URL_KEY);
 
-		return url?.startsWith('/app/connect') ? url : null;
+		return url?.startsWith('/connect') ? url : null;
 	} catch {
 		return null;
 	}
@@ -31,7 +31,7 @@ export const authGuard: CanActivateFn = async (_route, state) => {
 	const user = await inject(AuthService).whenReady();
 
 	if (!user) {
-		if (state.url.startsWith('/app/connect')) {
+		if (state.url.startsWith('/connect')) {
 			try {
 				sessionStorage.setItem(RETURN_URL_KEY, state.url);
 			} catch {
