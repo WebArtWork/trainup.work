@@ -1,4 +1,8 @@
-import { LIMITATION_NOTE_MAX_LENGTH, LimitationInput } from '../limitation/limitation.interface';
+import {
+	LIMITATION_NOTE_MAX_LENGTH,
+	LimitationInput,
+	MEDICATIONS_MAX_LENGTH,
+} from '../limitation/limitation.interface';
 import { PROFILE_LIMITS } from '../profile/profile.const';
 import { ProfileInput } from '../profile/profile.interface';
 import { SPACE_LIMITS } from '../training-setup/training-setup.const';
@@ -46,8 +50,14 @@ export function isSpaceComplete(setup: TrainingSetupInput): boolean {
 	);
 }
 
-export function isLimitationsComplete(limitations: LimitationInput[]): boolean {
-	return limitations.every((limitation) => limitation.note.length <= LIMITATION_NOTE_MAX_LENGTH);
+export function isLimitationsComplete(
+	limitations: LimitationInput[],
+	medications = '',
+): boolean {
+	return (
+		medications.length <= MEDICATIONS_MAX_LENGTH &&
+		limitations.every((limitation) => limitation.note.length <= LIMITATION_NOTE_MAX_LENGTH)
+	);
 }
 
 export function pickProfileInput(profile: ProfileInput): ProfileInput {

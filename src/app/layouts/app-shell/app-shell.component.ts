@@ -6,7 +6,7 @@ import { AccountService } from '../../feature/account/account.service';
 import { PageTitleService } from './page-title.service';
 import { TopbarComponent } from '../topbar/topbar.component';
 
-/** Signed-in app frame under `/app`: shared topbar, no marketing footer. */
+/** Signed-in app frame: shared topbar, no marketing footer. */
 @Component({
 	imports: [RouterOutlet, TopbarComponent],
 	template: `

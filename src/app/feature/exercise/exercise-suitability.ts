@@ -25,7 +25,6 @@ export function injectSuitability() {
 					profile: { fitnessLevel: profile.fitnessLevel },
 					setup: pickSetupInput(setup),
 					limitations: account.activeLimitations().map((limitation) => limitation.area),
-					allowedStatuses: catalog.allowedStatuses,
 					pausedExerciseIds: flags.pausedIds(),
 				}
 			: null;

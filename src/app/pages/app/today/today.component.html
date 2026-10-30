@@ -58,7 +58,7 @@
 						</h2>
 					}
 					<app-session-card [day]="day" [progress]="progress()">
-						<a class="btn btn-primary btn-lg btn-block" [routerLink]="['/app/workout', day.index]">
+						<a class="btn btn-primary btn-lg btn-block" [routerLink]="['/workout', day.index]">
 							<span class="material-symbols-outlined text-[24px]" aria-hidden="true">play_arrow</span>
 							<span translate>Почати тренування</span>
 						</a>
@@ -151,7 +151,7 @@
 						<h2 id="today-todos-title" class="font-display text-xl text-[var(--c-text-strong)]" translate>
 							Справи на сьогодні
 						</h2>
-						<a class="link inline-flex min-h-11 items-center text-sm font-semibold" routerLink="/app/todos" translate>
+						<a class="link inline-flex min-h-11 items-center text-sm font-semibold" routerLink="/todos" translate>
 							Усі справи
 						</a>
 					</div>
@@ -159,11 +159,11 @@
 				</section>
 
 				<nav class="grid grid-cols-2 gap-3" [translate]="{ ariaLabel: 'План і історія' }">
-					<a class="btn btn-outline" routerLink="/app/plan">
+					<a class="btn btn-outline" routerLink="/plan">
 						<span class="material-symbols-outlined text-[20px]" aria-hidden="true">calendar_month</span>
 						<span translate>Весь план</span>
 					</a>
-					<a class="btn btn-outline" routerLink="/app/history">
+					<a class="btn btn-outline" routerLink="/history">
 						<span class="material-symbols-outlined text-[20px]" aria-hidden="true">history</span>
 						<span translate>Історія</span>
 					</a>
@@ -171,7 +171,7 @@
 
 				<a
 					class="surface theme-focus flex min-h-12 items-center gap-3 px-4 py-3 text-sm"
-					routerLink="/app/reminders"
+					routerLink="/reminders"
 				>
 					<span class="material-symbols-outlined text-[20px] text-[var(--c-primary-text)]" aria-hidden="true">
 						notifications

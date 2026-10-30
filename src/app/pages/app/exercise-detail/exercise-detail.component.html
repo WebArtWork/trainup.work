@@ -42,14 +42,6 @@
 					<li class="chip" [translate]="info.level">{{ info.level }}</li>
 				</ul>
 
-				@if (item.status !== 'published') {
-					<p
-						class="surface-inset mt-4 flex items-start gap-2 p-3 text-xs leading-5 text-[var(--c-text-muted)]"
-					>
-						<span class="material-symbols-outlined text-[18px]" aria-hidden="true">edit_note</span>
-						<span translate>Чернетка: опис ще не перевірив фахівець.</span>
-					</p>
-				}
 
 				@if (reasons().length) {
 					<section class="surface mt-5 border-[var(--c-warning)] p-4">
@@ -66,7 +58,7 @@
 									@if (reason.section) {
 										<a
 											class="link theme-focus inline-flex min-h-11 items-center gap-1 rounded-full px-3 font-semibold"
-											[routerLink]="['/app/profile', reason.section]"
+											[routerLink]="['/profile', reason.section]"
 										>
 											<span translate>Змінити</span>
 										</a>

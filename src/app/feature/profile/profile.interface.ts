@@ -23,6 +23,8 @@ export interface UserProfile extends ProfileInput {
 	displayName: string;
 	email: string;
 	photoUrl: string;
+	/** Optional free-text list of medications. Shown back to the user, never used by the planner. */
+	medications?: string;
 	timeZone: string;
 	language: string;
 	onboardingCompletedAt: Timestamp | null;

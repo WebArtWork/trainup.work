@@ -31,7 +31,6 @@ const PAGE_TITLES = {
 	'store-checkout': 'Оформлення замовлення',
 	'store-orders': 'Мої замовлення',
 	'store-order': 'Замовлення',
-	admin: 'Адміністрування',
 } as const;
 
 /** Store pages share one social image until they get their own. */
@@ -42,7 +41,6 @@ const IMAGE_PAGE: Partial<Record<keyof typeof PAGE_TITLES, string>> = {
 	'store-checkout': 'explore',
 	'store-orders': 'explore',
 	'store-order': 'explore',
-	admin: 'data',
 };
 
 export function appPageMeta(page: keyof typeof PAGE_TITLES) {

@@ -45,9 +45,6 @@ function exercise(id: string, pattern: MovementPattern, overrides: Partial<Exerc
 		imageUrl: null,
 		steps: ['step'],
 		techniqueNotes: [],
-		status: 'published',
-		reviewedBy: 'Reviewer',
-		reviewedAt: '2026-10-01',
 		version: 1,
 		...overrides,
 	};
@@ -98,7 +95,6 @@ const CATALOG: Exercise[] = [
 	}),
 	exercise('stretch', 'mobility', { defaultSets: 2 }),
 	exercise('burpee', 'conditioning', { fitnessLevel: 'advanced', coordinationDifficulty: 3 }),
-	exercise('draft-move', 'squat', { status: 'draft', reviewedBy: null, reviewedAt: null }),
 ];
 
 const OPEN_SETUP: TrainingSetupInput = {
@@ -157,7 +153,6 @@ function reasonsFor(id: string, planInput: PlannerInput) {
 		profile: planInput.profile,
 		setup: planInput.setup,
 		limitations: planInput.limitations,
-		allowedStatuses: planInput.allowedStatuses ?? ['published'],
 	});
 }
 
@@ -296,9 +291,15 @@ describe('generatePlan', () => {
 		expect(generatePlan(input())).toEqual(generatePlan(input()));
 	});
 
-	it('uses only published exercises by default', () => {
-		expect(reasonsFor('draft-move', input())).toEqual(['not-published']);
-		expect(reasonsFor('draft-move', input({ allowedStatuses: ['draft', 'published'] }))).toEqual([]);
+	it('plans isolation exercises only after the compound slots, never in place of them', () => {
+		const compound = CATALOG.filter((item) => ['squat', 'push-up', 'bridge', 'db-row'].includes(item.id));
+		const catalog = [...compound, exercise('curl', 'isolation', { equipmentRequired: [{ anyOf: ['dumbbells'] }] })];
+		const strength = (sessionMinutes: number) =>
+			input({ catalog, profile: { ...input().profile, goal: 'build-strength', sessionMinutes } });
+		const result = generatePlan(strength(90));
+
+		expect(plannedIds(strength(15))).not.toContain('curl');
+		expect(result.ok && result.plan.days.every((day) => day.exercises.at(-1)?.exerciseId === 'curl')).toBe(true);
 	});
 
 	it('respects fitness level', () => {
@@ -374,11 +375,8 @@ describe('validatePlan', () => {
 });
 
 describe('validateExercise', () => {
-	it('accepts complete metadata and requires a review before publishing', () => {
+	it('accepts complete metadata', () => {
 		expect(validateExercise(CATALOG[0]!)).toEqual([]);
-		expect(validateExercise({ ...CATALOG[0]!, reviewedBy: null })).toContain(
-			'published exercises need a review',
-		);
 	});
 
 	it('never selects exercises with incomplete metadata', () => {
@@ -387,7 +385,6 @@ describe('validateExercise', () => {
 			profile: { fitnessLevel: 'advanced' },
 			setup: OPEN_SETUP,
 			limitations: [],
-			allowedStatuses: ['published'],
 		});
 
 		expect(result.eligible).toEqual([]);

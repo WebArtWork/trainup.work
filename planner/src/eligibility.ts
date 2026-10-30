@@ -6,7 +6,6 @@ import type {
 	EquipmentType,
 	ExclusionReason,
 	Exercise,
-	ExerciseStatus,
 	FitnessLevel,
 	FloorPreset,
 	PlannerProfile,
@@ -34,7 +33,6 @@ export interface EligibilityContext {
 	profile: Pick<PlannerProfile, 'fitnessLevel'>;
 	setup: TrainingSetupInput;
 	limitations: BodyArea[];
-	allowedStatuses: ExerciseStatus[];
 	/** Exercises paused after reported pain; only the user can resume them. */
 	pausedExerciseIds?: string[];
 }
@@ -63,10 +61,6 @@ export function exclusionReasons(exercise: Exercise, context: EligibilityContext
 	const reasons: ExclusionReason[] = [];
 	const { setup, limitations } = context;
 	const space = exercise.minimumSpace;
-
-	if (!context.allowedStatuses.includes(exercise.status)) {
-		reasons.push('not-published');
-	}
 
 	if (context.pausedExerciseIds?.includes(exercise.id)) {
 		reasons.push('paused-after-pain');

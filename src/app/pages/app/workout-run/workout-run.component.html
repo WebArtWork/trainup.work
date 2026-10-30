@@ -17,7 +17,7 @@
 			title="Тренування не знайдено"
 			text="Можливо, план оновився. Відкрийте наступне тренування на сторінці «Сьогодні»."
 		>
-			<a class="btn btn-outline" routerLink="/app/today" translate>До сторінки «Сьогодні»</a>
+			<a class="btn btn-outline" routerLink="/today" translate>До сторінки «Сьогодні»</a>
 		</app-state-message>
 	}
 	@case ('done-before') {
@@ -26,7 +26,7 @@
 			title="Це тренування вже виконано"
 			text="Результат збережено в історії й більше не змінюється."
 		>
-			<a class="btn btn-outline" routerLink="/app/history" translate>Відкрити історію</a>
+			<a class="btn btn-outline" routerLink="/history" translate>Відкрити історію</a>
 		</app-state-message>
 	}
 	@case ('run') {
@@ -444,7 +444,7 @@
 			title="Тренування збережено"
 			text="Чудова робота! Результат уже в історії."
 		>
-			<a class="btn btn-primary btn-lg" routerLink="/app/today" translate>До сторінки «Сьогодні»</a>
+			<a class="btn btn-primary btn-lg" routerLink="/today" translate>До сторінки «Сьогодні»</a>
 		</app-state-message>
 	}
 	@default never;

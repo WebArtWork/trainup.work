@@ -34,6 +34,7 @@ interface OnboardingDraft {
 	profile: ProfileInput;
 	setup: TrainingSetupInput;
 	limitations: LimitationInput[];
+	medications?: string;
 }
 
 const STEPS: OnboardingStep[] = [...ACCOUNT_SECTIONS.map((section) => section.id), 'review'];
@@ -72,6 +73,7 @@ export class OnboardingComponent {
 	);
 	protected readonly setup = signal<TrainingSetupInput>(EMPTY_TRAINING_SETUP_INPUT);
 	protected readonly limitations = signal<LimitationInput[]>([]);
+	protected readonly medications = signal('');
 	protected readonly saving = signal(false);
 	protected readonly error = signal(false);
 	protected readonly restored = signal(false);
@@ -105,6 +107,7 @@ export class OnboardingComponent {
 				profile: this.profile(),
 				setup: this.setup(),
 				limitations: this.limitations(),
+				medications: this.medications(),
 			};
 
 			if (this.restored()) {
@@ -142,6 +145,7 @@ export class OnboardingComponent {
 				this.profile(),
 				this.setup(),
 				this.limitations(),
+				this.medications(),
 			);
 			await this._storeService.remove(this._draftKey);
 			await this._router.navigateByUrl(APP_PATHS.home);
@@ -169,7 +173,7 @@ export class OnboardingComponent {
 			case 'space':
 				return isSpaceComplete(this.setup());
 			case 'limitations':
-				return isLimitationsComplete(this.limitations());
+				return isLimitationsComplete(this.limitations(), this.medications());
 		}
 	}
 
@@ -180,6 +184,7 @@ export class OnboardingComponent {
 			this.profile.set({ ...EMPTY_PROFILE_INPUT, ...draft.profile });
 			this.setup.set({ ...EMPTY_TRAINING_SETUP_INPUT, ...draft.setup });
 			this.limitations.set(draft.limitations ?? []);
+			this.medications.set(draft.medications ?? '');
 			this.step.set(draft.step);
 		}
 

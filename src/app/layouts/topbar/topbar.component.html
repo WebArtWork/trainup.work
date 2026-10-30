@@ -38,7 +38,7 @@
 
 		<div class="flex items-center gap-2 sm:gap-3">
 			@if (cta()) {
-				<a class="btn btn-primary btn-sm max-sm:hidden" routerLink="/app">
+				<a class="btn btn-primary btn-sm max-sm:hidden" routerLink="/today">
 					<span translate>Відкрити застосунок</span>
 				</a>
 			}
@@ -46,7 +46,7 @@
 			@if (profile(); as account) {
 				<a
 					class="icon-btn overflow-hidden"
-					routerLink="/app/profile"
+					routerLink="/profile"
 					routerLinkActive="ring-2 ring-[var(--c-primary)]"
 					[translate]="{ ariaLabel: 'Профіль' }"
 				>

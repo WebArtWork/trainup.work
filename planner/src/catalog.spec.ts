@@ -98,8 +98,6 @@ describe('exercise catalog (src/data/exercise/exercises.json)', () => {
 						limitations: [],
 						catalog,
 						startDate: '2026-10-05',
-						// Drafts are allowed here: this checks catalog coverage, not publication.
-						allowedStatuses: ['draft', 'published'],
 					};
 					const result = generatePlan(input);
 

@@ -39,7 +39,6 @@ const baseInput = (overrides: Partial<PlannerInput> = {}): PlannerInput => ({
 	limitations: [],
 	catalog,
 	startDate: '2026-10-05',
-	allowedStatuses: ['draft', 'published'],
 	...overrides,
 });
 
@@ -124,7 +123,6 @@ describe('paused exercises (acceptance 11)', () => {
 				profile: { fitnessLevel: 'intermediate' },
 				setup: baseInput().setup,
 				limitations: [],
-				allowedStatuses: ['draft', 'published'],
 				pausedExerciseIds: [pausedId],
 			}),
 		).toContain('paused-after-pain');

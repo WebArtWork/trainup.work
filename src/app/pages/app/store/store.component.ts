@@ -15,11 +15,11 @@ import { STORE_PRODUCTS } from '../../../feature/store/store.data';
 			</p>
 
 			<div class="flex flex-wrap gap-2">
-				<a class="btn btn-outline btn-sm" routerLink="/app/store/orders">
+				<a class="btn btn-outline btn-sm" routerLink="/store/orders">
 					<span class="material-symbols-outlined text-[20px]" aria-hidden="true">receipt_long</span>
 					<span translate>Мої замовлення</span>
 				</a>
-				<a class="btn btn-primary btn-sm" routerLink="/app/store/cart">
+				<a class="btn btn-primary btn-sm" routerLink="/store/cart">
 					<span class="material-symbols-outlined text-[20px]" aria-hidden="true">shopping_cart</span>
 					<span translate>Кошик</span>
 					@if (cart.count()) {
@@ -33,7 +33,7 @@ import { STORE_PRODUCTS } from '../../../feature/store/store.data';
 					<li class="surface flex flex-col overflow-hidden">
 						<a
 							class="theme-focus flex flex-1 flex-col"
-							[routerLink]="['/app/store', product.id]"
+							[routerLink]="['/store', product.id]"
 						>
 							<span
 								class="surface-inset relative m-2 flex aspect-[4/3] items-center justify-center text-[var(--c-primary-text)]"

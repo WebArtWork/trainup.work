@@ -9,7 +9,7 @@ import {
 	onboardedGuard,
 } from '../../feature/auth/auth.guard';
 
-/** `/app/**` routes, lazy-loaded from app.routes.ts. */
+/** `/**` routes, lazy-loaded from app.routes.ts. */
 export const APP_AREA_ROUTES: Routes = [
 	{
 		path: '',
@@ -22,13 +22,6 @@ export const APP_AREA_ROUTES: Routes = [
 				canActivate: [guestGuard],
 				loadComponent: () =>
 					import('./sign-in/sign-in.component').then((m) => m.SignInComponent),
-			},
-			{
-				// Catalog admin: signs in with email/password on the page itself, so no auth guards.
-				path: 'admin',
-				data: { meta: appPageMeta('admin') },
-				loadComponent: () =>
-					import('./admin/admin.component').then((m) => m.AdminComponent),
 			},
 			{
 				// Parent guard finishes loading the account before child guards check onboarding.
@@ -59,7 +52,6 @@ export const APP_AREA_ROUTES: Routes = [
 								(m) => m.AppTabsComponent,
 							),
 						children: [
-							{ path: '', pathMatch: 'full', redirectTo: 'today' },
 							{
 								path: 'today',
 								data: { meta: appPageMeta('today'), barTitle: true },
@@ -211,7 +203,7 @@ export const APP_AREA_ROUTES: Routes = [
 								canActivate: [
 									(route) =>
 										isAccountSection(route.paramMap.get('section')) ||
-										inject(Router).parseUrl('/app/profile'),
+										inject(Router).parseUrl('/profile'),
 								],
 								loadComponent: () =>
 									import('./profile-edit/profile-edit.component').then(

@@ -30,7 +30,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 							title="Замовлень ще немає"
 							text="Тут з’являться ваші покупки."
 						>
-							<a class="btn btn-primary mt-4" routerLink="/app/store" translate>До магазину</a>
+							<a class="btn btn-primary mt-4" routerLink="/store" translate>До магазину</a>
 						</app-state-message>
 					} @else {
 						<ul class="flex flex-col gap-3">
@@ -38,7 +38,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 								<li>
 									<a
 										class="surface theme-focus flex flex-col gap-2 p-4 hover:bg-[var(--c-bg-tertiary)]"
-										[routerLink]="['/app/store/orders', order.id]"
+										[routerLink]="['/store/orders', order.id]"
 									>
 										<span class="flex items-center justify-between gap-2">
 											<span class="font-semibold text-[var(--c-text-strong)]">№ {{ order.id }}</span>

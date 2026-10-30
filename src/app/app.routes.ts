@@ -1,6 +1,7 @@
 import { Routes } from '@angular/router';
 import { buildRouteMeta } from '@wawjs/ngx-default';
 import { companyProfile } from './feature/company/company.data';
+import { landingGuard } from './feature/auth/landing.guard';
 import { MarketingLayoutComponent } from './layouts/marketing/marketing-layout.component';
 
 export const routes: Routes = [
@@ -17,6 +18,7 @@ export const routes: Routes = [
 						titleSuffix: '',
 					},
 				},
+				canActivate: [landingGuard],
 				loadComponent: () =>
 					import('./pages/landing/landing.component').then((m) => m.LandingComponent),
 			},
@@ -53,7 +55,8 @@ export const routes: Routes = [
 	},
 	{
 		// Signed-in app: lazy (keeps Firebase out of the landing bundle), client-rendered, never indexed.
-		path: 'app',
+		// Declared after the marketing pages, so `/`, `/privacy` and friends keep matching first.
+		path: '',
 		data: {
 			meta: {
 				title: 'TrainUp',
@@ -62,9 +65,5 @@ export const routes: Routes = [
 			},
 		},
 		loadChildren: () => import('./pages/app/app-area.routes').then((m) => m.APP_AREA_ROUTES),
-	},
-	{
-		path: '**',
-		redirectTo: '',
 	},
 ];

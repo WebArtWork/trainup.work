@@ -672,7 +672,7 @@
 	"Last updated: 20 October 2026",
 	"This page explains how to delete your TrainUp account and all data linked to it. You don't need the app installed: you can do the same on the trainup.work website.",
 	"1. How to delete your account",
-	"Open the TrainUp app or trainup.work/app and sign in with Google or Apple, the same way you signed in before.",
+	"Open the TrainUp app or trainup.work and sign in with Google or Apple, the same way you signed in before.",
 	"Go to Profile → Data and privacy.",
 	"In the \"Delete account\" section, tick \"I understand that deletion cannot be undone\" and tap \"Delete account and data\".",
 	"Confirm your sign-in with Google or Apple once more. Your account and data are then deleted.",
@@ -711,5 +711,10 @@
 	"Delete your account: Profile → Data & privacy → Delete account and data. More details are on the Account deletion page.",
 	"6. About the app",
 	"TrainUp is free, with no ads and no in-app purchases. It is not a medical app and does not replace advice from a doctor.",
-	"How to contact TrainUp, plus answers to common questions: signing in, your workout plan, orders, data and account deletion."
+	"How to contact TrainUp, plus answers to common questions: signing in, your workout plan, orders, data and account deletion.",
+	"Medications you take",
+	"Optional. This is just your own note: it does not change the plan, so talk to your doctor if needed.",
+	"For example, blood pressure pills, an inhaler",
+	"Medications",
+	"Isoleringsövningar"
 ]

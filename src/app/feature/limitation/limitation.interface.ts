@@ -32,3 +32,6 @@ export const BODY_AREA_OPTIONS: ChoiceOption<BodyArea>[] = [
 ];
 
 export const LIMITATION_NOTE_MAX_LENGTH = 300;
+
+/** Free-text list of medications, kept as `medications` on the `users/{uid}` document. */
+export const MEDICATIONS_MAX_LENGTH = 500;

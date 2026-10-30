@@ -29,7 +29,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 						<app-session-card [day]="day" [limit]="20">
 							<a
 								class="btn btn-primary btn-lg btn-block"
-								[routerLink]="['/app/workout', day.index]"
+								[routerLink]="['/workout', day.index]"
 							>
 								<span class="material-symbols-outlined text-[24px]" aria-hidden="true">
 									play_arrow
@@ -45,7 +45,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 						>
 							<a
 								class="btn btn-outline"
-								routerLink="/app/today"
+								routerLink="/today"
 								translate
 							>
 								До сторінки «Сьогодні»

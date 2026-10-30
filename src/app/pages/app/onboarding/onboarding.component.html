@@ -65,13 +65,14 @@
 				<app-space-editor [(setup)]="setup" />
 			}
 			@case ('limitations') {
-				<app-limitations-editor [(limitations)]="limitations" />
+				<app-limitations-editor [(limitations)]="limitations" [(medications)]="medications" />
 			}
 			@case ('review') {
 				<app-account-summary
 					[profile]="profile()"
 					[setup]="setup()"
 					[limitations]="limitations()"
+					[medications]="medications()"
 					(edit)="edit($event)"
 				/>
 			}

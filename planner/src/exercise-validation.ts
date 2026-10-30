@@ -11,9 +11,9 @@ const PATTERNS = [
 	'core',
 	'conditioning',
 	'mobility',
+	'isolation',
 ];
 const LEVELS = ['beginner', 'intermediate', 'advanced'];
-const STATUSES = ['draft', 'published', 'archived'];
 
 /**
  * Metadata problems that make an exercise unsafe to auto-select (README §5). An empty list means
@@ -32,7 +32,6 @@ export function validateExercise(exercise: Exercise): string[] {
 	check(!!exercise.description?.trim(), 'description is required');
 	check(PATTERNS.includes(exercise.movementPattern), 'unknown movementPattern');
 	check(LEVELS.includes(exercise.fitnessLevel), 'unknown fitnessLevel');
-	check(STATUSES.includes(exercise.status), 'unknown status');
 	check(Array.isArray(exercise.primaryMuscles) && exercise.primaryMuscles.length > 0, 'primaryMuscles required');
 	check(Array.isArray(exercise.equipmentRequired), 'equipmentRequired must be a list');
 	check(
@@ -79,10 +78,6 @@ export function validateExercise(exercise: Exercise): string[] {
 
 	check(Array.isArray(exercise.steps) && exercise.steps.length > 0, 'steps are required');
 	check(Number.isInteger(exercise.version) && exercise.version >= 1, 'version must be a positive integer');
-
-	if (exercise.status === 'published') {
-		check(!!exercise.reviewedBy?.trim() && !!exercise.reviewedAt, 'published exercises need a review');
-	}
 
 	return issues;
 }
