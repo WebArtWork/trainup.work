@@ -1,0 +1,1938 @@
+{
+	"bodyweight-squat": {
+		"name": "Knäböj med kroppsvikt",
+		"description": "Grundläggande knäböj utan extra belastning. Tränar framsida lår och skinkor och utvecklar rörelsekontroll i knän och höfter.",
+		"steps": [
+			"Ställ dig med fötterna i axelbredd.",
+			"För höfterna bakåt och böj knäna så att du sjunker ned.",
+			"Gå ned till ett bekvämt djup med rak rygg.",
+			"Tryck ifrån med fötterna och återgå till startpositionen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Knäna rör sig i tårnas riktning.",
+			"Lyft inte hälarna från golvet."
+		]
+	},
+	"split-squat": {
+		"name": "Split squat",
+		"description": "Knäböj i utfallsposition. Tränar framsida lår och skinkor på ett ben i taget och förbättrar balansen.",
+		"steps": [
+			"Ställ dig i ett brett utfallssteg: ett ben framför och det andra bakom.",
+			"Sänk dig rakt ned och böj båda knäna.",
+			"Res dig genom att trycka ifrån med det främre benet.",
+			"Gör alla repetitioner och byt sedan ben."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Håll överkroppen upprätt.",
+			"Kroppsvikten ligger mest på det främre benet."
+		]
+	},
+	"reverse-lunge": {
+		"name": "Bakåtutfall",
+		"description": "Utfall med steg bakåt. Tränar framsida lår och skinkor och utvecklar balans och koordination.",
+		"steps": [
+			"Stå rakt med fötterna i höftbredd.",
+			"Ta ett steg bakåt och sänk dig genom att böja båda knäna.",
+			"Tryck ifrån med det främre benet och återgå till startpositionen.",
+			"Växla ben eller gör alla repetitioner på en sida."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Ta steget bakåt kontrollerat, utan ryck.",
+			"Håll överkroppen rak."
+		]
+	},
+	"glute-bridge": {
+		"name": "Skinkbro",
+		"description": "Höftlyft från liggande på rygg. Tränar skinkorna och baksidan av låren.",
+		"steps": [
+			"Ligg på rygg med böjda knän och fötterna i golvet.",
+			"Spänn skinkorna och lyft höfterna uppåt.",
+			"Håll kvar en sekund i toppläget.",
+			"Sänk långsamt höfterna mot golvet."
+		],
+		"warnings": [
+			"Avbryt övningen om du känner smärta i ländryggen."
+		],
+		"techniqueNotes": [
+			"Svanka inte i ländryggen i toppläget.",
+			"Tryck hälarna i golvet."
+		]
+	},
+	"single-leg-glute-bridge": {
+		"name": "Skinkbro på ett ben",
+		"description": "Svårare variant av skinkbron med stöd på ett ben. Tränar skinkorna och baksidan av låren och förbättrar bäckenets stabilitet.",
+		"steps": [
+			"Ligg på rygg med böjda knän och fötterna i golvet.",
+			"Sträck ut ena benet och lyft det från golvet.",
+			"Lyft höfterna genom att trycka ifrån med hälen på stödbenet.",
+			"Sänk dig långsamt. Byt ben efter setet."
+		],
+		"warnings": [
+			"Avbryt övningen om du känner smärta i ländryggen."
+		],
+		"techniqueNotes": [
+			"Håll bäckenet i våg, låt det inte tippa åt sidan.",
+			"Rör dig långsamt och kontrollerat."
+		]
+	},
+	"knee-push-up": {
+		"name": "Armhävningar på knä",
+		"description": "Lättare variant av armhävningar med stöd på knäna. Tränar bröstmusklerna och triceps.",
+		"steps": [
+			"Ställ dig på knä med handflatorna i golvet, något bredare än axlarna.",
+			"Räta ut kroppen från knä till huvud.",
+			"Böj armarna och sänk bröstet mot golvet.",
+			"Tryck ifrån och sträck ut armarna."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i handlederna eller axlarna."
+		],
+		"techniqueNotes": [
+			"Armbågarna i cirka 45° vinkel mot kroppen.",
+			"Sjunk inte ihop i ländryggen."
+		]
+	},
+	"push-up": {
+		"name": "Armhävningar",
+		"description": "Klassiska armhävningar från golvet. Tränar bröstmusklerna, triceps och bålens stabiliserande muskler.",
+		"steps": [
+			"Ta plankposition med handflatorna något bredare än axlarna.",
+			"Räta ut kroppen från hälar till huvud.",
+			"Böj armarna och sänk bröstet mot golvet.",
+			"Tryck ifrån och sträck ut armarna."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i handlederna eller axlarna."
+		],
+		"techniqueNotes": [
+			"Håll magen och skinkorna spända.",
+			"Armbågarna i cirka 45° vinkel mot kroppen."
+		]
+	},
+	"wall-push-up": {
+		"name": "Armhävningar mot vägg",
+		"description": "Den lättaste varianten av armhävningar med stöd mot en vägg. Tränar bröstmusklerna och triceps med minimal belastning.",
+		"steps": [
+			"Stå vänd mot väggen på en armlängds avstånd.",
+			"Placera handflatorna mot väggen i axelhöjd.",
+			"Böj armarna och för bröstet närmare väggen.",
+			"Tryck ifrån och återgå till startpositionen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Håll kroppen rak som en planka.",
+			"Ju längre från väggen fötterna står, desto svårare blir det."
+		]
+	},
+	"pike-push-up": {
+		"name": "Pike push-up",
+		"description": "Armhävning med uppskjuten höft som flyttar belastningen till axlarna. Tränar axelmusklerna och triceps.",
+		"steps": [
+			"Ta plankposition och lyft höfterna så att kroppen bildar ett omvänt ”V”.",
+			"Böj armarna och sänk huvudet mot golvet mellan händerna.",
+			"Tryck ifrån och sträck ut armarna.",
+			"Håll höfterna högt under hela setet."
+		],
+		"warnings": [
+			"Sänk dig långsamt och vila inte huvudet mot golvet.",
+			"Avbryt övningen om du får ont i axlarna, handlederna eller nacken."
+		],
+		"techniqueNotes": [
+			"Armbågarna pekar bakåt, inte ut åt sidorna.",
+			"Blicken riktas mot golvet mellan händerna."
+		]
+	},
+	"plank": {
+		"name": "Plankan",
+		"description": "Statiskt håll med stöd på underarmarna. Tränar bålmusklerna och överkroppens stabilitet.",
+		"steps": [
+			"Ta position på underarmarna med armbågarna under axlarna.",
+			"Sträck ut benen och räta ut kroppen från hälar till huvud.",
+			"Spänn magen och skinkorna.",
+			"Håll positionen under den angivna tiden och andas jämnt."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i axlarna eller ländryggen."
+		],
+		"techniqueNotes": [
+			"Lyft eller sänk inte höfterna.",
+			"Håll inte andan."
+		]
+	},
+	"side-plank": {
+		"name": "Sidoplanka",
+		"description": "Statiskt håll på sidan med stöd på underarmen. Tränar sneda magmuskler och bålens stabiliserande muskler.",
+		"steps": [
+			"Ligg på sidan med armbågen under axeln.",
+			"Placera fötterna på varandra eller en framför den andra.",
+			"Lyft höfterna så att kroppen bildar en rak linje.",
+			"Håll positionen under den angivna tiden och byt sedan sida."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i axeln."
+		],
+		"techniqueNotes": [
+			"Låt inte höfterna sjunka.",
+			"Håll nacken i linje med kroppen."
+		]
+	},
+	"dead-bug": {
+		"name": "Dead bug",
+		"description": "Växelvis utsträckning av motsatt arm och ben liggande på rygg. Tränar de djupa bålmusklerna och kontrollen över ländryggens position.",
+		"steps": [
+			"Ligg på rygg med armarna sträckta uppåt och benen böjda i rät vinkel.",
+			"Sänk långsamt motsatt arm och ben mot golvet.",
+			"För tillbaka dem till startpositionen.",
+			"Upprepa med det andra paret av arm och ben."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Tryck ländryggen mot golvet.",
+			"Rör dig långsamt och andas ut när du sänker."
+		]
+	},
+	"bird-dog": {
+		"name": "Bird dog",
+		"description": "Växelvis utsträckning av motsatt arm och ben på alla fyra. Tränar bålmusklerna, skinkorna och koordinationen.",
+		"steps": [
+			"Gå ned på knä och händer med händerna under axlarna och knäna under höfterna.",
+			"Sträck samtidigt ut ena armen framåt och motsatt ben bakåt.",
+			"Håll kvar en sekund.",
+			"Återgå till startpositionen och byt sida."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i handlederna."
+		],
+		"techniqueNotes": [
+			"Håll ryggen rak, svanka inte.",
+			"Bäckenet förblir parallellt med golvet."
+		]
+	},
+	"superman": {
+		"name": "Superman",
+		"description": "Samtidig lyftning av armar och ben liggande på mage. Tränar ryggmusklerna och skinkorna.",
+		"steps": [
+			"Ligg på mage med armarna sträckta framåt.",
+			"Lyft samtidigt armar, bröst och ben en bit från golvet.",
+			"Håll kvar i 1–2 sekunder.",
+			"Sänk dig långsamt."
+		],
+		"warnings": [
+			"Lyft inte ryckigt eller för högt.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Blicken nedåt, nacken i linje med ryggen.",
+			"Rör dig mjukt, utan ryck."
+		]
+	},
+	"wall-sit": {
+		"name": "Väggsittning",
+		"description": "Statiskt håll i sittande position med ryggen mot en vägg. Tränar framsida lår och benens uthållighet.",
+		"steps": [
+			"Ställ dig med ryggen mot väggen och fötterna ungefär en halv meter från den.",
+			"Glid med ryggen nedåt tills knäna är böjda i en bekväm vinkel.",
+			"Håll positionen under den angivna tiden.",
+			"Res dig långsamt upp."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Knäna är över fotlederna och går inte förbi tårna.",
+			"Ryggen ligger helt an mot väggen."
+		]
+	},
+	"jumping-jacks": {
+		"name": "Jumping jacks",
+		"description": "Hopp med samtidig isärföring av armar och ben. Utvecklar konditionen och värmer upp hela kroppen.",
+		"steps": [
+			"Stå rakt med samlade ben och armarna längs sidorna.",
+			"Hoppa isär med benen och lyft armarna över huvudet.",
+			"Hoppa tillbaka till startpositionen.",
+			"Fortsätt i jämnt tempo under den angivna tiden."
+		],
+		"warnings": [
+			"Landa mjukt på främre delen av foten.",
+			"Avbryt övningen om du får ont i knäna eller fotlederna."
+		],
+		"techniqueNotes": [
+			"Knäna är lätt böjda vid landning.",
+			"Andas jämnt."
+		]
+	},
+	"step-jacks": {
+		"name": "Step jacks",
+		"description": "Stötfri variant av jumping jacks: steg åt sidan med armarna lyfta över huvudet. Värmer upp kroppen och höjer pulsen utan hopp.",
+		"steps": [
+			"Stå rakt med samlade ben och armarna längs sidorna.",
+			"Ta ett steg åt sidan och lyft samtidigt armarna över huvudet.",
+			"För ihop benen och sänk armarna.",
+			"Växla sida i jämnt tempo."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Håll ett tempo som höjer pulsen måttligt.",
+			"Stig ned mjukt."
+		]
+	},
+	"high-knees": {
+		"name": "Höga knän",
+		"description": "Löpning på stället med höga knälyft. Utvecklar konditionen och snabbheten i benen.",
+		"steps": [
+			"Stå rakt med fötterna i höftbredd.",
+			"Börja springa på stället och lyft knäna ungefär till höftnivå.",
+			"Låt armarna arbeta i takt med benen.",
+			"Fortsätt under den angivna tiden."
+		],
+		"warnings": [
+			"Landa mjukt på främre delen av foten.",
+			"Avbryt övningen om du får ont i knäna eller fotlederna."
+		],
+		"techniqueNotes": [
+			"Håll överkroppen upprätt.",
+			"Luta dig inte bakåt."
+		]
+	},
+	"march-in-place": {
+		"name": "Marsch på stället",
+		"description": "Gång på stället med aktivt armarbete. Lätt, stötfri konditionsövning för uppvärmning och för att höja pulsen.",
+		"steps": [
+			"Stå rakt med armarna böjda i armbågarna.",
+			"Lyft knäna växelvis och marschera på stället.",
+			"Låt armarna arbeta i takt med stegen.",
+			"Håll ett jämnt tempo under den angivna tiden."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Håll ryggen rak.",
+			"För att göra det svårare, lyft knäna högre eller öka tempot."
+		]
+	},
+	"mountain-climbers": {
+		"name": "Mountain climbers",
+		"description": "Växelvis knädrag mot bröstet i plankposition. Utvecklar uthålligheten och tränar bålmusklerna.",
+		"steps": [
+			"Ta plankposition med händerna under axlarna.",
+			"Dra ena knäet mot bröstet.",
+			"För tillbaka benet och dra det andra knäet framåt.",
+			"Växla ben i snabbt men kontrollerat tempo."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i handlederna eller axlarna."
+		],
+		"techniqueNotes": [
+			"Lyft inte höfterna högt.",
+			"Håll axlarna över händerna."
+		]
+	},
+	"burpee": {
+		"name": "Burpee",
+		"description": "Sammansatt övning: knäböj, plankposition, återgång och hopp uppåt. Utvecklar den allmänna uthålligheten och belastar hela kroppen.",
+		"steps": [
+			"Gå ned i knäböj och sätt handflatorna i golvet.",
+			"Skjut benen bakåt till plankposition.",
+			"För tillbaka fötterna mot händerna och res dig upp.",
+			"Gör ett litet hopp uppåt med armarna över huvudet."
+		],
+		"warnings": [
+			"Landa mjukt och svanka inte i plankpositionen.",
+			"Avbryt övningen om du får ont i lederna eller ryggen."
+		],
+		"techniqueNotes": [
+			"Håll kroppen rak i plankpositionen.",
+			"Behåll kontrollen i stället för att ha maximal fart."
+		]
+	},
+	"squat-jump": {
+		"name": "Knäböjshopp",
+		"description": "Knäböj med ett explosivt hopp uppåt. Utvecklar benstyrkan och explosiviteten.",
+		"steps": [
+			"Ställ dig med fötterna i axelbredd.",
+			"Gå ned i knäböj till ett bekvämt djup.",
+			"Hoppa explosivt uppåt.",
+			"Landa mjukt och gå direkt ned i nästa knäböj."
+		],
+		"warnings": [
+			"Landa mjukt med böjda ben.",
+			"Avbryt övningen om du får ont i knäna eller fotlederna."
+		],
+		"techniqueNotes": [
+			"Knäna rör sig i tårnas riktning.",
+			"Landningen är tyst och kontrollerad."
+		]
+	},
+	"cat-cow": {
+		"name": "Katt-ko",
+		"description": "Mjuk växling mellan rundad och svankad rygg på alla fyra. Förbättrar ryggradens rörlighet.",
+		"steps": [
+			"Gå ned på knä och händer med händerna under axlarna.",
+			"Svanka ryggen på inandningen och lyft blicken.",
+			"Runda ryggen på utandningen och sänk huvudet.",
+			"Upprepa mjukt i andningens rytm."
+		],
+		"warnings": [
+			"Rör dig inom ett bekvämt rörelseomfång och avbryt om du får ont."
+		],
+		"techniqueNotes": [
+			"Rörelsen går från bäckenet till huvudet.",
+			"Ta det lugnt."
+		]
+	},
+	"kneeling-hip-flexor-stretch": {
+		"name": "Höftböjarstretch på knä",
+		"description": "Stretch av framsidan av låret i utfallsposition på knä. Förbättrar höftledens rörlighet.",
+		"steps": [
+			"Gå ned på ett knä med det andra benet framför, böjt i rät vinkel.",
+			"Spänn skinkan på det ben som står på knä.",
+			"För långsamt höften framåt tills du känner en stretch.",
+			"Håll positionen under den angivna tiden och byt ben."
+		],
+		"warnings": [
+			"Lägg något mjukt under knäet och avbryt om du får ont."
+		],
+		"techniqueNotes": [
+			"Svanka inte i ländryggen.",
+			"Stretchen ska kännas måttlig, utan smärta."
+		]
+	},
+	"arm-circles": {
+		"name": "Armcirklar",
+		"description": "Cirkelrörelser med raka armar. Värmer upp axlederna och förbättrar deras rörlighet.",
+		"steps": [
+			"Stå rakt och sträck ut armarna åt sidorna.",
+			"Gör små cirklar med armarna framåt.",
+			"Öka gradvis cirklarnas storlek.",
+			"Byt riktning efter halva tiden."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Axlarna är sänkta, dra dem inte mot öronen.",
+			"Rör dig mjukt."
+		]
+	},
+	"open-book-rotation": {
+		"name": "Open book-rotation",
+		"description": "Rotation av bröstryggen liggande på sidan. Förbättrar rörligheten i bröstrygg och axlar.",
+		"steps": [
+			"Ligg på sidan med böjda knän och armarna framför dig.",
+			"För den övre armen i en båge åt motsatt håll och rotera bröstkorgen.",
+			"Följ handen med blicken.",
+			"För tillbaka armen. Byt sida efter setet."
+		],
+		"warnings": [
+			"Rör dig inom ett bekvämt rörelseomfång och avbryt om du får ont."
+		],
+		"techniqueNotes": [
+			"Knäna förblir tillsammans mot golvet.",
+			"Andas lugnt."
+		]
+	},
+	"goblet-squat": {
+		"name": "Goblet squat",
+		"description": "Knäböj med en hantel eller kettlebell vid bröstet. Tränar framsida lår och skinkor och hjälper dig att hålla överkroppen upprätt.",
+		"steps": [
+			"Håll hanteln eller kettlebellen lodrätt vid bröstet.",
+			"Ställ dig med fötterna något bredare än axlarna.",
+			"Gå ned i knäböj med bröstet lyft.",
+			"Res dig genom att trycka ifrån med fötterna."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna eller ryggen."
+		],
+		"techniqueNotes": [
+			"Armbågarna rör sig mellan knäna.",
+			"Ryggen är rak under hela rörelsen."
+		]
+	},
+	"dumbbell-romanian-deadlift": {
+		"name": "Raka marklyft med hantlar",
+		"description": "Framåtlutning med hantlar där rörelsen sker i höftlederna. Tränar baksidan av låren och skinkorna.",
+		"steps": [
+			"Stå rakt med hantlarna framför låren.",
+			"Böj knäna lätt och för höfterna bakåt.",
+			"Sänk hantlarna längs benen tills du känner en stretch i baksidan av låren.",
+			"Gå upp igen genom att föra höfterna framåt."
+		],
+		"warnings": [
+			"Runda inte ryggen. Välj en vikt som låter dig behålla tekniken.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Ryggen är rak och hantlarna nära benen.",
+			"Rörelsen utgår från höfterna, inte från ryggen."
+		]
+	},
+	"one-arm-dumbbell-row": {
+		"name": "Enarmsrodd med hantel",
+		"description": "Rodd med hantel mot midjan i framåtlutad position med stöd av ena handen. Tränar ryggmusklerna och biceps.",
+		"steps": [
+			"Luta dig framåt och stöd den fria handen mot låret eller ett stabilt underlag.",
+			"Ta hanteln med armen utsträckt under axeln.",
+			"Dra hanteln mot midjan och för armbågen bakåt.",
+			"Sänk långsamt. Byt arm efter setet."
+		],
+		"warnings": [
+			"Håll ryggen rak och avbryt om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Rotera inte överkroppen under draget.",
+			"För skulderbladet mot ryggraden."
+		]
+	},
+	"dumbbell-floor-press": {
+		"name": "Hantelpress på golvet",
+		"description": "Press med hantlar liggande på golvet med begränsat rörelseomfång. Tränar bröstmusklerna och triceps.",
+		"steps": [
+			"Ligg på rygg med böjda knän och hantlarna i händerna vid bröstet.",
+			"Pressa hantlarna uppåt över bröstet.",
+			"Sänk långsamt tills axlarna nuddar golvet.",
+			"Upprepa pressen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Armbågarna i cirka 45° vinkel mot kroppen.",
+			"Sänk hantlarna kontrollerat, utan att slå i golvet."
+		]
+	},
+	"dumbbell-bench-press": {
+		"name": "Hantelpress på bänk",
+		"description": "Press med hantlar liggande på en plan bänk. Tränar bröstmusklerna och triceps.",
+		"steps": [
+			"Ligg på bänken med fötterna i golvet och hantlarna vid bröstet.",
+			"Pressa hantlarna uppåt över bröstet.",
+			"Sänk dem långsamt till brösthöjd.",
+			"Upprepa pressen."
+		],
+		"warnings": [
+			"Välj en vikt som du kan sänka kontrollerat.",
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Skulderbladen är ihopdragna och pressade mot bänken.",
+			"Studsa inte hantlarna mot bröstet."
+		]
+	},
+	"incline-dumbbell-press": {
+		"name": "Hantelpress i lutande bänk",
+		"description": "Press med hantlar liggande på en bänk med upphöjt ryggstöd. Tränar övre delen av bröstmusklerna och främre axeln.",
+		"steps": [
+			"Ställ in ryggstödet i en måttlig lutning.",
+			"Sätt dig på bänken med ryggen mot stödet och hantlarna vid bröstet.",
+			"Pressa hantlarna uppåt över övre delen av bröstet.",
+			"Sänk långsamt och upprepa."
+		],
+		"warnings": [
+			"Se till att ryggstödet är ordentligt fastlåst.",
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Skulderbladen är ihopdragna och pressade mot bänken.",
+			"Rör dig kontrollerat genom hela rörelsen."
+		]
+	},
+	"dumbbell-shoulder-press": {
+		"name": "Axelpress med hantlar",
+		"description": "Press med hantlar uppåt stående. Tränar axelmusklerna och triceps.",
+		"steps": [
+			"Stå rakt med hantlarna i axelhöjd.",
+			"Spänn magen och skinkorna.",
+			"Pressa hantlarna uppåt över huvudet.",
+			"Sänk långsamt till axelhöjd."
+		],
+		"warnings": [
+			"Svanka inte i ländryggen under pressen.",
+			"Avbryt övningen om du får ont i axlarna, nacken eller ryggen."
+		],
+		"techniqueNotes": [
+			"Revbenen är nedåt och överkroppen stabil.",
+			"Sträck inte huvudet bakåt."
+		]
+	},
+	"dumbbell-reverse-lunge": {
+		"name": "Bakåtutfall med hantlar",
+		"description": "Utfall med steg bakåt och hantlar i händerna. Tränar framsida lår och skinkor med extra belastning.",
+		"steps": [
+			"Stå rakt med hantlarna i nedsänkta armar.",
+			"Ta ett steg bakåt och sänk dig genom att böja båda knäna.",
+			"Tryck ifrån med det främre benet och återgå till startpositionen.",
+			"Växla ben eller gör alla repetitioner på en sida."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Håll överkroppen upprätt.",
+			"Axlarna är sänkta och hantlarna svänger inte."
+		]
+	},
+	"farmer-carry": {
+		"name": "Bondpromenad",
+		"description": "Gång med hantlar eller kettlebells i nedsänkta armar. Tränar bålmusklerna, greppet och den allmänna stabiliteten.",
+		"steps": [
+			"Ta hantlar eller kettlebells i båda händerna.",
+			"Res dig upp med axlarna sänkta och bakåtdragna.",
+			"Gå med korta, jämna steg under den angivna tiden.",
+			"Ställ ned vikterna försiktigt på golvet."
+		],
+		"warnings": [
+			"Lyft och ställ ned vikterna med rak rygg.",
+			"Avbryt övningen om du får ont i ryggen eller handlederna."
+		],
+		"techniqueNotes": [
+			"Luta dig inte åt sidan mot vikten.",
+			"Håll magen spänd."
+		]
+	},
+	"kettlebell-swing": {
+		"name": "Kettlebellsving",
+		"description": "Dynamisk sving med kettlebell där rörelsen sker i höftlederna. Utvecklar kraften i skinkor och baksida lår samt uthålligheten.",
+		"steps": [
+			"Ställ dig med fötterna något bredare än axlarna och kettlebellen framför dig.",
+			"Luta dig framåt med rak rygg och för kettlebellen bakåt mellan benen.",
+			"Driv höfterna snabbt framåt så att kettlebellen når brösthöjd.",
+			"Låt kettlebellen sjunka och upprepa rörelsen."
+		],
+		"warnings": [
+			"Se till att det inte finns människor eller föremål i närheten.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Rörelsen utgår från höfterna, armarna håller bara i kettlebellen.",
+			"Ryggen är rak i nedre läget."
+		]
+	},
+	"kettlebell-deadlift": {
+		"name": "Marklyft med kettlebell",
+		"description": "Lyft av kettlebell från golvet där rörelsen sker i höftlederna. Tränar skinkorna och baksidan av låren och lär dig att lyfta rätt.",
+		"steps": [
+			"Ställ dig över kettlebellen med fötterna i höftbredd.",
+			"För höfterna bakåt, böj knäna och ta tag i handtaget.",
+			"Res dig upp genom att föra höfterna framåt.",
+			"Sänk kettlebellen till golvet med samma rörelse."
+		],
+		"warnings": [
+			"Runda inte ryggen under lyftet.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Ryggen är rak och blicken framåt.",
+			"Kettlebellen rör sig nära kroppen."
+		]
+	},
+	"band-pull-apart": {
+		"name": "Band pull-apart",
+		"description": "Utdragning av ett gummiband med raka armar framför bröstet. Tränar övre ryggens muskler och bakre axeln.",
+		"steps": [
+			"Håll gummibandet med båda händerna i axelbredd framför bröstet.",
+			"För armarna isär åt sidorna så att bandet sträcks.",
+			"Dra ihop skulderbladen i ändläget.",
+			"För långsamt tillbaka armarna till startpositionen."
+		],
+		"warnings": [
+			"Kontrollera att gummibandet inte är skadat innan övningen."
+		],
+		"techniqueNotes": [
+			"Axlarna är sänkta, lyft dem inte mot öronen.",
+			"Armarna är nästan raka under hela rörelsen."
+		]
+	},
+	"band-row": {
+		"name": "Rodd med gummiband",
+		"description": "Rodd med ett fastsatt gummiband mot midjan. Tränar ryggmusklerna och biceps.",
+		"steps": [
+			"Fäst gummibandet i midjehöjd i ett stabilt fäste.",
+			"Ta tag i ändarna och backa tills bandet är spänt.",
+			"Dra händerna mot midjan och för armbågarna bakåt.",
+			"För långsamt tillbaka armarna framåt."
+		],
+		"warnings": [
+			"Kontrollera att fästet är stabilt och att gummibandet inte är skadat."
+		],
+		"techniqueNotes": [
+			"Dra ihop skulderbladen i ändläget.",
+			"Överkroppen är stilla, luta dig inte bakåt."
+		]
+	},
+	"band-lat-pulldown": {
+		"name": "Raka nedtag med gummiband",
+		"description": "Nedtag av ett gummiband som är fäst högt upp, mot bröstet. Tränar de breda ryggmusklerna och biceps.",
+		"steps": [
+			"Fäst gummibandet ovanför huvudet i ett stabilt fäste.",
+			"Ta tag i ändarna med armarna sträckta uppåt.",
+			"Dra armbågarna nedåt mot sidorna och för händerna närmare bröstet.",
+			"För långsamt tillbaka armarna uppåt."
+		],
+		"warnings": [
+			"Kontrollera att det övre fästet är stabilt och att gummibandet inte är skadat.",
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Sänk skulderbladen nedåt före draget.",
+			"Gunga inte med överkroppen."
+		]
+	},
+	"pull-up": {
+		"name": "Pull-ups",
+		"description": "Uppdragning av kroppen i en stång tills hakan är i höjd med stången. Tränar ryggmusklerna och biceps.",
+		"steps": [
+			"Ta tag i stången med ett grepp något bredare än axlarna.",
+			"Häng med raka armar och sänkta skulderblad.",
+			"Dra dig upp tills hakan är över stången.",
+			"Sänk dig långsamt tillbaka till raka armar."
+		],
+		"warnings": [
+			"Använd bara en stång som sitter stadigt.",
+			"Avbryt övningen om du får ont i axlarna eller handlederna."
+		],
+		"techniqueNotes": [
+			"Gunga inte och rycka inte.",
+			"Sänk dig kontrollerat."
+		]
+	},
+	"dead-hang": {
+		"name": "Häng i stång",
+		"description": "Statiskt häng i en stång med raka armar. Stärker greppet och axelgördelns muskler.",
+		"steps": [
+			"Ta tag i stången med ett grepp i axelbredd.",
+			"Häng försiktigt med raka armar.",
+			"Håll positionen under den angivna tiden och andas jämnt.",
+			"Stig försiktigt ned på golvet."
+		],
+		"warnings": [
+			"Använd bara en stång som sitter stadigt.",
+			"Avbryt övningen om du får ont i axlarna eller handlederna."
+		],
+		"techniqueNotes": [
+			"Spänn axlarna lätt, häng inte helt passivt.",
+			"Gunga inte."
+		]
+	},
+	"hanging-knee-raise": {
+		"name": "Hängande knälyft",
+		"description": "Knädrag mot bröstet hängande i en stång. Tränar magmusklerna och greppet.",
+		"steps": [
+			"Häng i stången med raka armar.",
+			"Spänn magen och dra knäna mot bröstet.",
+			"Håll kvar en sekund.",
+			"Sänk benen långsamt utan att gunga."
+		],
+		"warnings": [
+			"Använd bara en stång som sitter stadigt.",
+			"Avbryt övningen om du får ont i axlarna eller ländryggen."
+		],
+		"techniqueNotes": [
+			"Rör dig utan ryck och gungning.",
+			"Rulla bäckenet lätt uppåt i toppläget."
+		]
+	},
+	"jump-rope": {
+		"name": "Hopprep",
+		"description": "Rytmiska hopp över ett hopprep. Utvecklar konditionen, koordinationen och vadmusklernas styrka.",
+		"steps": [
+			"Ta tag i repets handtag med repet bakom hälarna.",
+			"Snurra repet med handlederna.",
+			"Gör låga hopp när repet passerar under fötterna.",
+			"Håll ett jämnt tempo under den angivna tiden."
+		],
+		"warnings": [
+			"Hoppa lågt och landa mjukt på främre delen av foten.",
+			"Avbryt övningen om du får ont i knäna eller fotlederna."
+		],
+		"techniqueNotes": [
+			"Armbågarna nära kroppen.",
+			"Knäna är lätt böjda."
+		]
+	},
+	"step-up": {
+		"name": "Step-ups",
+		"description": "Upptrappning på en stabil plattform med ett ben i taget. Tränar framsida lår och skinkor.",
+		"steps": [
+			"Ställ dig framför plattformen.",
+			"Sätt hela foten från ena benet på den.",
+			"Res dig upp genom att trycka ifrån med benet på plattformen.",
+			"Gå långsamt ned och upprepa. Byt ben efter setet."
+		],
+		"warnings": [
+			"Se till att plattformen står stabilt och inte glider.",
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Tryck inte ifrån med det nedre benet.",
+			"Knäet rör sig i tåns riktning."
+		]
+	},
+	"barbell-back-squat": {
+		"name": "Knäböj med skivstång",
+		"description": "Knäböj med skivstång på övre delen av ryggen. Bygger styrka i framsida lår, skinkor och hela kroppen.",
+		"steps": [
+			"Lägg stången på övre delen av ryggen och lyft av den från stället.",
+			"Backa ett steg med fötterna i axelbredd eller något bredare.",
+			"Gå ned i knäböj till ett bekvämt djup med rak rygg.",
+			"Res dig upp och ställ tillbaka stången i stället efter setet."
+		],
+		"warnings": [
+			"Ställ in säkerhetsstöden i stället och arbeta med en vikt du kontrollerar.",
+			"Avbryt övningen om du får ont i knäna, ryggen eller axlarna."
+		],
+		"techniqueNotes": [
+			"Spänn bålen före varje repetition.",
+			"Knäna rör sig i tårnas riktning."
+		]
+	},
+	"barbell-deadlift": {
+		"name": "Marklyft med skivstång",
+		"description": "Lyft av skivstång från golvet till stående. Bygger styrka i baksida lår, skinkor och rygg.",
+		"steps": [
+			"Ställ dig så att stången är över mitten av foten.",
+			"För höfterna bakåt, böj knäna och ta tag i stången.",
+			"Res dig upp med stången nära benen.",
+			"Sänk stången till golvet med samma rörelse."
+		],
+		"warnings": [
+			"Runda inte ryggen och arbeta med en vikt du kontrollerar.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Ryggen är rak och bålen spänd.",
+			"Tryck ifrån golvet med benen, dra inte med ryggen."
+		]
+	},
+	"cardio-machine-intervals": {
+		"name": "Intervaller på konditionsmaskin",
+		"description": "Intervallträning på motionscykel, crosstrainer eller annan konditionsmaskin. Utvecklar konditionen.",
+		"steps": [
+			"Värm upp några minuter i lugnt tempo.",
+			"Öka tempot eller motståndet under intervallens angivna tid.",
+			"Fortsätt röra dig i lugnt tempo under vilan.",
+			"Upprepa intervallen det angivna antalet gånger."
+		],
+		"warnings": [
+			"Läs maskinens instruktioner innan du använder den.",
+			"Sänk tempot eller avbryt om du blir yr eller får ont."
+		],
+		"techniqueNotes": [
+			"Intensiteten ska kännas tydligt men vara kontrollerad.",
+			"Håll en rak hållning."
+		]
+	},
+	"jump-rope-boxer-step": {
+		"name": "Boxarsteg med hopprep",
+		"description": "Låga hopp med hopprep där vikten växlar mellan benen. Enklare än hopp med båda fötterna.",
+		"steps": [
+			"Ta tag i repets handtag med repet bakom hälarna.",
+			"Snurra repet med handlederna.",
+			"För lätt över vikten från ett ben till det andra, som om du gick på stället.",
+			"Håll ett jämnt tempo under den angivna tiden."
+		],
+		"warnings": [
+			"Hoppa lågt och landa mjukt på främre delen av foten.",
+			"Avbryt övningen om du får ont i fotlederna."
+		],
+		"techniqueNotes": [
+			"Hoppet är bara några centimeter över golvet.",
+			"Armbågarna nära kroppen."
+		]
+	},
+	"jump-rope-side-to-side": {
+		"name": "Hopprep sida till sida",
+		"description": "Hopp med båda fötterna och en liten förflyttning åt vänster och höger. Ger mer belastning på vaderna och tränar koordinationen.",
+		"steps": [
+			"Ta tag i repets handtag med samlade ben.",
+			"Hoppa över repet och förflytta dig lite åt vänster.",
+			"Vid nästa hopp förflyttar du dig åt höger.",
+			"Håll rytmen och landa mjukt."
+		],
+		"warnings": [
+			"Se till att du har tillräckligt med utrymme och att underlaget inte är halt.",
+			"Avbryt övningen om du får ont i knäna eller fotlederna."
+		],
+		"techniqueNotes": [
+			"Förflyttningen är liten, inte bredare än fötterna.",
+			"Knäna är lätt böjda."
+		]
+	},
+	"jump-rope-high-knees": {
+		"name": "Löpning med hopprep",
+		"description": "Löpning på stället över ett hopprep med knälyft. Intensiv konditionsövning för uthållighet.",
+		"steps": [
+			"Ta tag i repets handtag med repet bakom hälarna.",
+			"Spring på stället och låt repet passera under foten vid varje steg.",
+			"Lyft knäna till höftnivå.",
+			"Håll tempot under den angivna tiden."
+		],
+		"warnings": [
+			"Gör den bara efter uppvärmning.",
+			"Avbryt övningen om du får ont i knäna, höfterna eller fotlederna."
+		],
+		"techniqueNotes": [
+			"Överkroppen är rak, luta dig inte bakåt.",
+			"Landningen är mjuk, på främre delen av foten."
+		]
+	},
+	"lateral-step-up": {
+		"name": "Sidledes step-up",
+		"description": "Upptrappning på en plattform med sidan mot den. Belastar skinkorna och lårmusklerna ur en annan vinkel än en vanlig step-up.",
+		"steps": [
+			"Ställ dig med sidan mot plattformen och det närmaste benet på den.",
+			"Räta ut benet och kliv upp på plattformen.",
+			"Gå kontrollerat ned igen.",
+			"Gör klart setet på ett ben och byt sedan ben."
+		],
+		"warnings": [
+			"Se till att plattformen står stabilt och inte glider.",
+			"Avbryt övningen om du får ont i knäna eller höfterna."
+		],
+		"techniqueNotes": [
+			"Stödbenet gör jobbet, det andra bara nuddar.",
+			"Knäet faller inte inåt."
+		]
+	},
+	"step-platform-push-up": {
+		"name": "Armhävningar med händerna på step",
+		"description": "Armhävningar med händerna på en plattform. Lättare version av klassiska armhävningar för nybörjare.",
+		"steps": [
+			"Placera händerna på plattformen något bredare än axlarna med kroppen i en rak linje.",
+			"Böj armbågarna och sänk bröstet mot plattformen.",
+			"Tryck ifrån och räta ut armarna.",
+			"Håll bålen spänd."
+		],
+		"warnings": [
+			"Plattformen ska stå stabilt, helst på ett halkfritt underlag.",
+			"Avbryt övningen om du får ont i handlederna eller axlarna."
+		],
+		"techniqueNotes": [
+			"Svanka inte i ländryggen.",
+			"Armbågarna i cirka 45° vinkel mot överkroppen."
+		]
+	},
+	"step-platform-calf-raise": {
+		"name": "Vadlyft på step",
+		"description": "Tåhävningar från kanten av en plattform för större rörelseomfång. Stärker vadmusklerna.",
+		"steps": [
+			"Ställ dig med framfötterna på plattformens kant och hälarna i luften.",
+			"Sänk långsamt hälarna under plattformens nivå.",
+			"Res dig så högt som möjligt upp på tå.",
+			"Upprepa utan ryck."
+		],
+		"warnings": [
+			"Håll i en vägg eller ett stöd för balansen.",
+			"Avbryt övningen om du får ont i fotlederna eller hälsenan."
+		],
+		"techniqueNotes": [
+			"Rörelsen är långsam: 2 sekunder upp, 2 sekunder ned.",
+			"Knäna är nästan raka."
+		]
+	},
+	"step-platform-reverse-lunge": {
+		"name": "Bakåtutfall från step",
+		"description": "Steg bakåt från en plattform in i ett utfall. Ger större rörelseomfång för skinkor och lår.",
+		"steps": [
+			"Ställ dig på plattformen med fötterna i höftbredd.",
+			"Ta ett steg bakåt med ena benet ned på golvet.",
+			"Sänk dig i utfallet, det främre benet stannar på plattformen.",
+			"Återgå till startpositionen och byt ben."
+		],
+		"warnings": [
+			"Se till att plattformen står stabilt och inte glider.",
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Överkroppen är upprätt.",
+			"Den främre hälen pressas mot plattformen."
+		]
+	},
+	"step-platform-taps": {
+		"name": "Step taps",
+		"description": "Snabba växelvisa tryck med fötterna mot plattformen. Lätt konditionsövning för uppvärmning och uthållighet.",
+		"steps": [
+			"Ställ dig framför plattformen.",
+			"Nudda plattformen med höger fot och sedan med vänster.",
+			"Rör dig snabbt och lätt, utan att kliva upp med hela foten.",
+			"Håll rytmen under den angivna tiden."
+		],
+		"warnings": [
+			"Plattformen ska stå stabilt.",
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Ryggen är rak och armarna arbetar i takt.",
+			"Rörelserna är lätta, utan stötar."
+		]
+	},
+	"bench-dip": {
+		"name": "Bänkdips",
+		"description": "Tricepsdips med händerna på en bänk bakom ryggen.",
+		"steps": [
+			"Sätt dig på bänkens kant med händerna bredvid höfterna.",
+			"Skjut dig framåt och håll i bänken med händerna.",
+			"Böj armbågarna till ungefär 90°.",
+			"Räta ut armarna och gå upp igen."
+		],
+		"warnings": [
+			"Gå inte djupt ned om du känner obehag i axlarna.",
+			"Bänken ska stå stabilt.",
+			"Avbryt övningen om du får ont i axlarna eller handlederna."
+		],
+		"techniqueNotes": [
+			"Armbågarna pekar bakåt, inte ut åt sidorna.",
+			"Lyft inte axlarna mot öronen."
+		]
+	},
+	"bulgarian-split-squat": {
+		"name": "Bulgarisk split squat",
+		"description": "Knäböj på ett ben med det bakre benet på en bänk. Belastar skinkorna och låren hårt.",
+		"steps": [
+			"Ställ dig med ryggen mot bänken och lägg ovansidan av ena foten på bänken.",
+			"Sänk dig genom att böja det främre benet.",
+			"Res dig genom att trycka ifrån med hälen på det främre benet.",
+			"Gör alla repetitioner och byt sedan ben."
+		],
+		"warnings": [
+			"Bänken ska vara stabil. Välj ett avstånd så att knäet inte går förbi foten.",
+			"Avbryt övningen om du får ont i knäna eller höfterna."
+		],
+		"techniqueNotes": [
+			"Överkroppen lutar lätt framåt.",
+			"Huvuddelen av vikten ligger på det främre benet."
+		]
+	},
+	"bench-hip-thrust": {
+		"name": "Hip thrust mot bänk",
+		"description": "Höftlyft med skulderbladen mot en bänk. Huvudövningen för skinkorna.",
+		"steps": [
+			"Sätt dig på golvet med ryggen mot bänken och skulderbladen vid bänkens kant.",
+			"Böj knäna med fötterna i golvet.",
+			"Lyft höfterna tills bål och lår bildar en rak linje.",
+			"Håll kvar en stund och sänk dig."
+		],
+		"warnings": [
+			"Bänken ska stå stilla, helst mot en vägg.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Hakan är lätt indragen mot bröstet.",
+			"Svanka inte i toppläget."
+		]
+	},
+	"chest-supported-dumbbell-row": {
+		"name": "Hantelrodd med bröststöd",
+		"description": "Rodd med hantlar liggande med bröstet mot en lutande bänk. Avlastar ländryggen och koncentrerar belastningen på ryggen.",
+		"steps": [
+			"Ligg med bröstet mot bänken och en hantel i varje hand.",
+			"Dra hantlarna mot sidorna av bålen och för ihop skulderbladen.",
+			"Håll kvar en stund.",
+			"Sänk hantlarna kontrollerat."
+		],
+		"warnings": [
+			"Bänken ska stå stabilt.",
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Huvudet är i linje med ryggraden.",
+			"Gunga inte med överkroppen."
+		]
+	},
+	"kettlebell-single-arm-row": {
+		"name": "Enarmsrodd med kettlebell",
+		"description": "Rodd med kettlebell i framåtlutad position med stöd av den fria handen. Stärker ryggen och biceps.",
+		"steps": [
+			"Luta dig framåt med rak rygg och stöd den fria handen mot låret.",
+			"Ta kettlebellen med den andra handen.",
+			"Dra kettlebellen mot midjan och för ihop skulderbladet.",
+			"Sänk kettlebellen långsamt."
+		],
+		"warnings": [
+			"Håll ryggen rak.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Armbågen rör sig längs bålen.",
+			"Blicken är riktad mot golvet."
+		]
+	},
+	"kettlebell-overhead-press": {
+		"name": "Axelpress med kettlebell",
+		"description": "Press med kettlebell stående med en arm. Stärker axlarna, triceps och bålen.",
+		"steps": [
+			"Lyft kettlebellen till axeln med armbågen mot kroppen.",
+			"Spänn magen och skinkorna.",
+			"Räta ut armen uppåt över huvudet.",
+			"För långsamt tillbaka kettlebellen till axeln."
+		],
+		"warnings": [
+			"Se till att det finns tillräckligt med utrymme ovanför dig.",
+			"Avbryt övningen om du får ont i axlarna, nacken eller ländryggen."
+		],
+		"techniqueNotes": [
+			"Svanka inte i ländryggen.",
+			"Handleden är rak och kettlebellen vilar mot underarmen."
+		]
+	},
+	"kettlebell-halo": {
+		"name": "Kettlebell halo",
+		"description": "Cirkelrörelser med en kettlebell runt huvudet. Värmer upp axlarna och tränar bålens stabilitet.",
+		"steps": [
+			"Stå rakt och håll kettlebellen upp och ned vid bröstet.",
+			"För kettlebellen runt huvudet åt ena hållet.",
+			"För tillbaka den till bröstet.",
+			"Upprepa åt andra hållet."
+		],
+		"warnings": [
+			"Använd en lätt kettlebell.",
+			"Håll i kettlebellen ordentligt så att du inte slår dig.",
+			"Avbryt övningen om du får ont i axlarna eller nacken."
+		],
+		"techniqueNotes": [
+			"Bålen är stilla, bara armarna arbetar.",
+			"Armbågarna nära huvudet."
+		]
+	},
+	"kettlebell-sumo-deadlift": {
+		"name": "Sumomarklyft med kettlebell",
+		"description": "Marklyft av kettlebell med bred benställning. Belastar skinkorna och insidan av låren.",
+		"steps": [
+			"Ställ dig brett med tårna utåt och kettlebellen mellan fötterna.",
+			"För höfterna bakåt och ta tag i kettlebellen.",
+			"Res dig upp genom att trycka ifrån golvet med benen.",
+			"Sänk långsamt kettlebellen."
+		],
+		"warnings": [
+			"Runda inte ryggen.",
+			"Avbryt övningen om du får ont i ländryggen eller höfterna."
+		],
+		"techniqueNotes": [
+			"Knäna rör sig i tårnas riktning.",
+			"Ryggen är rak under hela rörelsen."
+		]
+	},
+	"kettlebell-reverse-lunge": {
+		"name": "Bakåtutfall med kettlebell",
+		"description": "Bakåtutfall med kettlebell vid bröstet. Ger extra belastning på benen och skinkorna.",
+		"steps": [
+			"Håll kettlebellen vid bröstet med båda händerna.",
+			"Ta ett steg bakåt och sänk dig i utfallet.",
+			"Tryck ifrån med det främre benet och återgå.",
+			"Byt ben."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Överkroppen är upprätt.",
+			"Den främre hälen pressas mot golvet."
+		]
+	},
+	"band-squat": {
+		"name": "Knäböj med gummiband",
+		"description": "Knäböj med ett band under fötterna. Bandet ger motstånd när du reser dig.",
+		"steps": [
+			"Ställ dig på mitten av bandet och håll ändarna i axelhöjd.",
+			"Gå ned i knäböj och för höfterna bakåt.",
+			"Res dig genom att räta ut benen.",
+			"Släpp inte bandet hastigt."
+		],
+		"warnings": [
+			"Kontrollera att bandet inte är skadat.",
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Knäna i tårnas riktning.",
+			"Ryggen är rak."
+		]
+	},
+	"band-chest-press": {
+		"name": "Bröstpress med gummiband",
+		"description": "Press med band framför dig stående. Tränar bröstet och triceps utan hantlar.",
+		"steps": [
+			"Lägg bandet runt ryggen under skulderbladen med ändarna i händerna.",
+			"Böj armbågarna så att händerna är i brösthöjd.",
+			"Sträck ut armarna framåt.",
+			"Återgå långsamt."
+		],
+		"warnings": [
+			"Kontrollera att bandet inte är skadat och sitter stadigt bakom ryggen.",
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Armbågarna är något under axlarna.",
+			"Överkroppen är stilla."
+		]
+	},
+	"band-overhead-press": {
+		"name": "Axelpress med gummiband",
+		"description": "Press med band uppåt stående på bandet. Stärker axlarna och triceps.",
+		"steps": [
+			"Ställ dig på bandet och håll ändarna i axelhöjd.",
+			"Räta ut armarna uppåt över huvudet.",
+			"Sänk dem långsamt till axlarna.",
+			"Svanka inte i ländryggen."
+		],
+		"warnings": [
+			"Se till att det finns tillräckligt med utrymme ovanför dig.",
+			"Avbryt övningen om du får ont i axlarna eller nacken."
+		],
+		"techniqueNotes": [
+			"Magen är spänd.",
+			"Armarna rör sig lodrätt."
+		]
+	},
+	"band-good-morning": {
+		"name": "Good morning med gummiband",
+		"description": "Framåtlutning av bålen med rak rygg, bandet över axlarna och under fötterna. Lär ut höftledsrörelsen.",
+		"steps": [
+			"Ställ dig på bandet och lägg den andra änden över axlarna.",
+			"För höfterna bakåt och luta bålen framåt med rak rygg.",
+			"Gå ned tills du känner en stretch i baksidan av låren.",
+			"Res dig upp genom att driva höfterna framåt."
+		],
+		"warnings": [
+			"Runda inte ryggen.",
+			"Kontrollera att bandet är ordentligt fäst.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Knäna är lätt böjda.",
+			"Blicken är riktad nedåt och framåt."
+		]
+	},
+	"band-bicep-curl": {
+		"name": "Bicepscurl med gummiband",
+		"description": "Armflexion för biceps med bandets motstånd.",
+		"steps": [
+			"Ställ dig på bandet med ändarna i händerna och handflatorna framåt.",
+			"Böj armbågarna och lyft händerna mot axlarna.",
+			"Håll kvar en stund.",
+			"Sänk armarna långsamt."
+		],
+		"warnings": [
+			"Kontrollera att bandet inte är skadat."
+		],
+		"techniqueNotes": [
+			"Armbågarna är mot sidorna.",
+			"Överkroppen gungar inte."
+		]
+	},
+	"scapular-pull-up": {
+		"name": "Skulderbladsdrag i stång",
+		"description": "Lyft och sänkning av skulderbladen hängande utan att böja armarna. Förbereder axlarna för pull-ups.",
+		"steps": [
+			"Häng i stången med raka armar.",
+			"Sänk axlarna och dra ihop skulderbladen så att kroppen lyfts några centimeter.",
+			"Återgå långsamt till hänget.",
+			"Böj inte armbågarna."
+		],
+		"warnings": [
+			"Använd bara en stång som sitter stadigt.",
+			"Avbryt övningen om du får ont i axlarna eller handlederna."
+		],
+		"techniqueNotes": [
+			"Rörelsen är liten och sker bara i skulderbladen.",
+			"Kroppen gungar inte."
+		]
+	},
+	"negative-pull-up": {
+		"name": "Negativa pull-ups",
+		"description": "Långsam sänkning från överläget i en pull-up. Hjälper dig att lära dig göra pull-ups.",
+		"steps": [
+			"Ställ dig på en stol och ta tag i stången med hakan över den.",
+			"Ta bort stödet.",
+			"Sänk dig långsamt tills armarna är raka (3–5 sekunder).",
+			"Gå tillbaka till stolen och upprepa."
+		],
+		"warnings": [
+			"Använd bara en stång som sitter stadigt.",
+			"Använd en stol för att komma upp i överläget.",
+			"Avbryt övningen om du får ont i axlarna eller handlederna."
+		],
+		"techniqueNotes": [
+			"Sänk dig kontrollerat, släpp dig inte.",
+			"Skulderbladen förblir sänkta."
+		]
+	},
+	"chin-up": {
+		"name": "Chins",
+		"description": "Uppdragning med handflatorna mot dig. Engagerar biceps mer än en vanlig pull-up.",
+		"steps": [
+			"Ta tag i stången med underhandsgrepp i axelbredd.",
+			"Dra dig upp tills hakan är över stången.",
+			"Håll kvar en stund.",
+			"Sänk dig långsamt till hänget."
+		],
+		"warnings": [
+			"Använd bara en stång som sitter stadigt.",
+			"Avbryt övningen om du får ont i axlarna, armbågarna eller handlederna."
+		],
+		"techniqueNotes": [
+			"Gunga inte.",
+			"Armbågarna rör sig nedåt och mot bålen."
+		]
+	},
+	"hanging-leg-raise": {
+		"name": "Hängande benlyft",
+		"description": "Lyft av raka ben hängande i en stång. Svårare version för magmusklerna.",
+		"steps": [
+			"Häng i stången.",
+			"Spänn magen och lyft de raka benen till höftnivå.",
+			"Håll kvar en stund.",
+			"Sänk benen långsamt."
+		],
+		"warnings": [
+			"Använd bara en stång som sitter stadigt.",
+			"Gunga inte, lyft benen långsamt.",
+			"Avbryt övningen om du får ont i axlarna eller ländryggen."
+		],
+		"techniqueNotes": [
+			"Bäckenet är lätt uppåtvridet.",
+			"Ingen gungning av kroppen."
+		]
+	},
+	"dumbbell-lateral-raise": {
+		"name": "Hantellyft åt sidan",
+		"description": "Lyft av hantlar åt sidan till axelhöjd. Utvecklar de mittersta delarna av axelmusklerna.",
+		"steps": [
+			"Stå rakt med hantlarna vid sidorna.",
+			"Böj armbågarna lätt och lyft armarna åt sidorna till axelhöjd.",
+			"Sänk armarna långsamt.",
+			"Lyft inte axlarna mot öronen."
+		],
+		"warnings": [
+			"Välj lätta hantlar.",
+			"Avbryt övningen om du får ont i axlarna eller nacken."
+		],
+		"techniqueNotes": [
+			"Armbågarna är något högre än händerna.",
+			"Överkroppen är stilla."
+		]
+	},
+	"dumbbell-bicep-curl": {
+		"name": "Bicepscurl med hantlar",
+		"description": "Klassisk armflexion för biceps stående.",
+		"steps": [
+			"Stå rakt med hantlarna i nedsänkta armar och handflatorna framåt.",
+			"Böj armbågarna och lyft hantlarna mot axlarna.",
+			"Håll kvar en stund.",
+			"Sänk hantlarna långsamt."
+		],
+		"warnings": [
+			"Välj en vikt som inte tvingar dig att gunga med överkroppen."
+		],
+		"techniqueNotes": [
+			"Armbågarna är mot sidorna.",
+			"Luta dig inte bakåt."
+		]
+	},
+	"dumbbell-overhead-triceps-extension": {
+		"name": "Triceps-extension med hantel över huvudet",
+		"description": "Armsträckning med en hantel bakom huvudet. Isolerar triceps.",
+		"steps": [
+			"Stå rakt och håll en hantel över huvudet med båda händerna.",
+			"Böj armbågarna och sänk hanteln bakom huvudet.",
+			"Räta ut armarna uppåt.",
+			"Håll armbågarna nära huvudet."
+		],
+		"warnings": [
+			"Håll hanteln med båda händerna.",
+			"Avbryt övningen om du får ont i axlarna, armbågarna eller nacken."
+		],
+		"techniqueNotes": [
+			"Armbågarna går inte isär åt sidorna.",
+			"Magen är spänd."
+		]
+	},
+	"dumbbell-sumo-squat": {
+		"name": "Sumoböj med hantel",
+		"description": "Knäböj med bred benställning och en hantel mellan benen. Fokus på skinkorna och insidan av låren.",
+		"steps": [
+			"Ställ dig brett med tårna utåt och håll hanteln med båda händerna nedtill.",
+			"Gå ned i knäböj med knäna i tårnas riktning.",
+			"Res dig genom att trycka ifrån golvet med benen.",
+			"Håll överkroppen upprätt."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna eller höfterna."
+		],
+		"techniqueNotes": [
+			"Ryggen är rak.",
+			"Knäna faller inte inåt."
+		]
+	},
+	"dumbbell-glute-bridge": {
+		"name": "Skinkbro med hantel",
+		"description": "Skinkbro med en hantel på höfterna. Ger extra belastning på skinkorna.",
+		"steps": [
+			"Ligg på rygg med böjda knän och hanteln på höfterna.",
+			"Lyft höfterna så att kroppen bildar en rak linje.",
+			"Håll kvar en stund.",
+			"Sänk dig långsamt."
+		],
+		"warnings": [
+			"Håll hanteln stadigt.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Svanka inte i ländryggen.",
+			"Hälarna pressas mot golvet."
+		]
+	},
+	"dumbbell-bent-over-row": {
+		"name": "Framåtlutad hantelrodd",
+		"description": "Rodd med två hantlar mot midjan i framåtlutad position. Stärker ryggen och biceps.",
+		"steps": [
+			"Luta dig framåt med rak rygg och hantlarna i nedsänkta armar.",
+			"Dra hantlarna mot sidorna och för ihop skulderbladen.",
+			"Håll kvar en stund.",
+			"Sänk hantlarna långsamt."
+		],
+		"warnings": [
+			"Håll ryggen rak.",
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Knäna är lätt böjda.",
+			"För armbågarna längs bålen."
+		]
+	},
+	"towel-row": {
+		"name": "Handduksrodd",
+		"description": "Rodd med den egna kroppsvikten i en handduk som är fäst i ett stadigt stöd. Tränar ryggmusklerna och biceps utan utrustning.",
+		"steps": [
+			"Lägg en kraftig handduk runt ett stadigt stöd i midjehöjd och ta tag i båda ändarna.",
+			"Luta dig bakåt med raka armar och fötterna närmare stödet.",
+			"Dra bröstet mot händerna och för armbågarna bakåt.",
+			"Räta långsamt ut armarna och återgå till startpositionen."
+		],
+		"warnings": [
+			"Fäst handduken bara i ett stadigt stöd: en stabil pelare, ett räcke eller handtaget på en stängd dörr som öppnas bort från dig.",
+			"Kontrollera att handduken är stark och inte glider ur händerna."
+		],
+		"techniqueNotes": [
+			"Håll kroppen rak från huvud till hälar.",
+			"Ju närmare stödet fötterna står, desto svårare blir övningen."
+		]
+	},
+	"inverted-table-row": {
+		"name": "Rodd under bord",
+		"description": "Horisontell uppdragning liggande under ett stabilt bord. Tränar ryggmusklerna, biceps och bakre axeln.",
+		"steps": [
+			"Ligg på rygg under bordet så att bröstet är under bordsskivans kant.",
+			"Ta tag i bordsskivans kant med ett grepp i axelbredd.",
+			"Spänn magen och skinkorna och dra bröstet mot bordets kant.",
+			"Sänk dig långsamt tills armarna är helt raka."
+		],
+		"warnings": [
+			"Använd bara ett tungt, stabilt bord som inte välter och som klarar din vikt.",
+			"Ta tag i bordsskivans kant, inte i glas eller sköra delar."
+		],
+		"techniqueNotes": [
+			"Kroppen är rak från axlar till hälar och höfterna sjunker inte.",
+			"För att göra övningen lättare, böj knäna och ha fötterna i golvet."
+		]
+	},
+	"prone-y-t-w-raise": {
+		"name": "Y-T-W-lyft på mage",
+		"description": "Armlyft i tre positioner liggande på mage. Tränar övre delen av ryggen och skulderbladens stabiliserande muskler.",
+		"steps": [
+			"Ligg på mage med pannan över golvet och armarna sträckta framåt.",
+			"Lyft armarna i ett Y, håll kvar en sekund och sänk.",
+			"För ut armarna åt sidorna i ett T, lyft och sänk.",
+			"Böj armbågarna i ett W, dra ihop skulderbladen, lyft och sänk armarna. Det är en repetition."
+		],
+		"warnings": [
+			"Sträck inte huvudet bakåt.",
+			"Avbryt övningen om du får ont i axlarna eller nacken."
+		],
+		"techniqueNotes": [
+			"Rörelsen utgår från skulderbladen, inte från ländryggen.",
+			"Tummarna pekar uppåt."
+		]
+	},
+	"reverse-snow-angel": {
+		"name": "Omvänd snöängel",
+		"description": "Mjuk armrörelse från låren till huvudet liggande på mage. Tränar övre delen av ryggen och axlarnas rörlighet.",
+		"steps": [
+			"Ligg på mage med armarna längs kroppen och handflatorna mot låren.",
+			"Lyft armarna från golvet och dra ihop skulderbladen.",
+			"För långsamt armarna i en båge åt sidorna ända upp till huvudet.",
+			"För tillbaka armarna till låren längs samma väg utan att nudda golvet."
+		],
+		"warnings": [
+			"Sträck inte huvudet bakåt.",
+			"Avbryt övningen om du får ont i axlarna eller nacken."
+		],
+		"techniqueNotes": [
+			"Håll armarna hela tiden en bit över golvet.",
+			"Svanka inte i ländryggen, håll skinkorna spända."
+		]
+	},
+	"leg-press": {
+		"name": "Benpress i maskin",
+		"description": "Press av en plattform med benen sittande. Tränar framsida lår och skinkor utan belastning på ryggraden och är lämplig för nybörjare.",
+		"steps": [
+			"Sätt dig i maskinen, tryck ländryggen mot ryggstödet och ha fötterna på plattformen i axelbredd.",
+			"Lossa spärrarna och böj långsamt knäna till ett bekvämt djup.",
+			"Räta ut benen medan du andas ut, men lås inte knäna helt.",
+			"Sätt tillbaka spärrarna när setet är klart."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Ländryggen lyfter inte från ryggstödet.",
+			"Knäna rör sig i tårnas riktning."
+		]
+	},
+	"machine-chest-press": {
+		"name": "Bröstpress i maskin",
+		"description": "Press med handtag från bröstet sittande. Lär ut pressrörelsen på ett säkert sätt och tränar bröstet, axlarna och triceps.",
+		"steps": [
+			"Justera sätet så att handtagen är i höjd med mitten av bröstet.",
+			"Ta tag i handtagen och pressa skulderbladen mot ryggstödet.",
+			"Räta ut armarna framåt medan du andas ut, utan att låsa armbågarna helt.",
+			"För långsamt tillbaka handtagen och känn hur bröstet stretchas."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Axlarna lyfts inte mot öronen."
+		]
+	},
+	"machine-shoulder-press": {
+		"name": "Axelpress i maskin",
+		"description": "Vertikal press sittande i maskin. Tränar axlarna och triceps med stöd för ryggen.",
+		"steps": [
+			"Ställ in sätet så att handtagen är i axelhöjd.",
+			"Tryck ryggen mot ryggstödet och ta tag i handtagen.",
+			"Räta ut armarna uppåt medan du andas ut.",
+			"Sänk långsamt handtagen till axelhöjd."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Svanka inte i ländryggen."
+		]
+	},
+	"seated-cable-row": {
+		"name": "Sittande kabelrodd",
+		"description": "Horisontell rodd med kabelmaskinens handtag. Tränar ryggen och bakre axeln och lär ut att dra ihop skulderbladen.",
+		"steps": [
+			"Sätt dig, placera fötterna mot stöden och ta tag i handtaget med rak rygg.",
+			"Dra handtaget mot magen och dra ihop skulderbladen.",
+			"Stanna en stund i ändläget.",
+			"För långsamt tillbaka armarna framåt utan att runda ryggen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Överkroppen är nästan stilla.",
+			"Armbågarna rör sig längs kroppen."
+		]
+	},
+	"lat-pulldown-machine": {
+		"name": "Latsdrag i maskin",
+		"description": "Drag av ett brett handtag mot bröstet sittande. Förbereder för pull-ups och tränar de breda ryggmusklerna.",
+		"steps": [
+			"Fäst låren under dynorna och ta tag i handtaget bredare än axlarna.",
+			"Luta dig lätt bakåt och dra handtaget mot övre delen av bröstet.",
+			"Dra ihop skulderbladen och stanna en stund.",
+			"För långsamt tillbaka handtaget uppåt."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Dra med armbågarna, inte med händerna."
+		]
+	},
+	"leg-curl-machine": {
+		"name": "Bencurl i maskin",
+		"description": "Isolerad benböjning liggande eller sittande. Tränar baksidan av låren.",
+		"steps": [
+			"Justera dynan så att den ligger över hälarna.",
+			"Böj benen medan du andas ut och dra hälarna mot skinkorna.",
+			"Stanna en stund i toppläget.",
+			"Räta långsamt ut benen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Höfterna lyfter inte från bänken."
+		]
+	},
+	"leg-extension-machine": {
+		"name": "Benspark i maskin",
+		"description": "Isolerad benextension sittande. Tränar framsida lår.",
+		"steps": [
+			"Justera ryggstödet och dynan över underbenen.",
+			"Räta ut benen medan du andas ut.",
+			"Stanna en stund i toppläget.",
+			"Sänk långsamt benen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Rörelserna är mjuka, utan ryck."
+		]
+	},
+	"cable-triceps-pushdown": {
+		"name": "Tricepspress i kabel",
+		"description": "Armsträckning nedåt i den övre kabeln. Tränar triceps isolerat.",
+		"steps": [
+			"Ställ dig framför kabeln och ta tag i handtaget med armbågarna mot sidorna.",
+			"Räta ut armarna nedåt medan du andas ut.",
+			"Stanna en stund i nedre läget.",
+			"För långsamt tillbaka handtaget till brösthöjd."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Armbågarna rör sig inte."
+		]
+	},
+	"cable-biceps-curl": {
+		"name": "Bicepscurl i nedre kabel",
+		"description": "Armflexion stående vid den nedre kabeln. Tränar biceps isolerat.",
+		"steps": [
+			"Ställ dig framför den nedre kabeln och ta tag i handtaget med handflatorna uppåt.",
+			"Böj armarna mot axlarna medan du andas ut.",
+			"Stanna en stund i toppläget.",
+			"Räta långsamt ut armarna."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Armbågarna är mot sidorna och överkroppen är stilla."
+		]
+	},
+	"cable-face-pull": {
+		"name": "Face pull i kabel",
+		"description": "Drag av ett repgrepp mot ansiktet. Stärker bakre axeln och musklerna mellan skulderbladen och är bra för hållningen.",
+		"steps": [
+			"Fäst repet i kabeln i ansiktshöjd och ta ett steg bakåt.",
+			"Dra repet mot ansiktet och för armbågarna ut åt sidorna.",
+			"Dra ihop skulderbladen och stanna en stund.",
+			"För långsamt tillbaka armarna framåt."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Vikten är lätt och rörelsen kontrollerad."
+		]
+	},
+	"cable-woodchop": {
+		"name": "Woodchop i kabel",
+		"description": "Diagonal rotation av bålen med kabelmaskinens handtag. Tränar sneda magmuskler och lär ut hur kraft överförs genom bålen.",
+		"steps": [
+			"Ställ dig med sidan mot kabeln och ta tag i handtaget med båda händerna.",
+			"Dra handtaget diagonalt nedåt och rotera bålen.",
+			"Håll armarna nästan raka och rotera med bröstkorgen.",
+			"För långsamt tillbaka handtaget och upprepa, byt sedan sida."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Rör bålen, inte bara armarna."
+		]
+	},
+	"barbell-bench-press": {
+		"name": "Bänkpress med skivstång",
+		"description": "Klassisk press med skivstång på en plan bänk. Huvudövningen för bröst, axlar och triceps.",
+		"steps": [
+			"Ligg på bänken med fötterna i golvet, skulderbladen ihopdragna och ögonen under stången.",
+			"Lyft av stången och sänk den till mitten av bröstet.",
+			"Pressa stången uppåt medan du andas ut tills armarna är raka.",
+			"Sätt tillbaka stången i stället när setet är klart."
+		],
+		"warnings": [
+			"Pressa inte stången utan säkring i gymmet och avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Ha en spotter eller använd säkerhetsstöd.",
+			"Handlederna är över armbågarna."
+		]
+	},
+	"barbell-bent-over-row": {
+		"name": "Framåtlutad rodd med skivstång",
+		"description": "Rodd med skivstång mot magen i framåtlutad position. Tränar hela ryggen, bakre axeln och biceps.",
+		"steps": [
+			"Ställ dig med fötterna i axelbredd och ta tag i stången med ett grepp något bredare än axlarna.",
+			"Luta dig framåt med rak rygg och lätt böjda knän.",
+			"Dra stången mot nedre delen av magen.",
+			"Sänk stången långsamt utan att runda ryggen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Ryggen är rak under hela rörelsen."
+		]
+	},
+	"barbell-overhead-press": {
+		"name": "Axelpress med skivstång stående",
+		"description": "Press med skivstång över huvudet stående. Bygger styrka i axlarna och övre delen av ryggen och kräver en stabil bål.",
+		"steps": [
+			"Ta stången vid nyckelbenen med ett grepp något bredare än axlarna.",
+			"Spänn magen och skinkorna och pressa stången uppåt medan du andas ut.",
+			"I slutet går huvudet lite framåt och stången är över mitten av foten.",
+			"Sänk långsamt stången till nyckelbenen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i axlarna eller ländryggen."
+		],
+		"techniqueNotes": [
+			"Svanka inte i ländryggen."
+		]
+	},
+	"barbell-romanian-deadlift": {
+		"name": "Raka marklyft med skivstång",
+		"description": "Marklyft med raka ben. Tränar baksidan av låren och skinkorna och lär ut höftledsrörelsen.",
+		"steps": [
+			"Ställ dig med stången i händerna och lätt böjda knän.",
+			"För höfterna bakåt och låt stången följa benen.",
+			"Sänk den under knäna med bibehållen rak rygg.",
+			"Återgå till startpositionen medan du andas ut och driver höfterna framåt."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i ländryggen."
+		],
+		"techniqueNotes": [
+			"Rörelsen utgår från höfterna, inte från ryggen."
+		]
+	},
+	"treadmill-incline-walk": {
+		"name": "Uppförsgång på löpband",
+		"description": "Rask gång på löpband med lutning. Stötfri konditionsträning för uthållighet och benen.",
+		"steps": [
+			"Ställ in en lutning på 4–8 % och en bekväm, rask gånghastighet.",
+			"Håll överkroppen rak utan att stödja dig på handtagen.",
+			"Gå i jämnt tempo under den tid som behövs.",
+			"Sänk hastigheten och lutningen på slutet för återhämtning."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Andningen förblir jämn och du kan prata i korta meningar."
+		]
+	},
+	"easy-run-intervals": {
+		"name": "Lugn löpning med intervaller",
+		"description": "Växling mellan lugn löpning och gång. Utvecklar hjärtats och andningens uthållighet utan hård belastning.",
+		"steps": [
+			"Värm upp en minut med rask gång.",
+			"Spring i bekvämt tempo under den angivna tiden.",
+			"Gå över till gång för återhämtning.",
+			"Upprepa växlingen enligt antalet set."
+		],
+		"warnings": [
+			"Avbryt löpningen om du får ont i fotlederna eller knäna."
+		],
+		"techniqueNotes": [
+			"Tempot gör att du kan andas genom näsan eller prata i korta meningar."
+		]
+	},
+	"sprint-intervals": {
+		"name": "Sprintintervaller",
+		"description": "Korta accelerationer i full fart med full vila. Utvecklar kraft och snabbhetsuthållighet.",
+		"steps": [
+			"Värm upp ordentligt och spring några lätta accelerationer.",
+			"Accelerera till en hastighet på cirka 90 % av maxfart.",
+			"Efter accelerationen går du tillbaka och återhämtar dig helt.",
+			"Upprepa enligt antalet set."
+		],
+		"warnings": [
+			"Gör inte övningen på halt underlag och avbryt om du får ont i knäna eller fotlederna."
+		],
+		"techniqueNotes": [
+			"Luta överkroppen framåt och använd armarna."
+		]
+	},
+	"brisk-walk-intervals": {
+		"name": "Intervaller med rask gång",
+		"description": "Växling mellan rask och lugn gång utomhus. Lämpar sig för att komma igång och för återhämtning.",
+		"steps": [
+			"Gå lugnt en minut som uppvärmning.",
+			"Gå rask med böjda armar som svingar.",
+			"Gå över till ett lugnt steg för återhämtning.",
+			"Upprepa växlingen."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Rask gång: andningen är snabbare men du kan fortfarande prata."
+		]
+	},
+	"walking-lunge": {
+		"name": "Gående utfall",
+		"description": "Utfall med förflyttning framåt. Tränar benen och skinkorna och lär ut balans.",
+		"steps": [
+			"Stå rakt med händerna på höfterna eller längs sidorna.",
+			"Ta ett långt steg framåt och sänk dig med båda knäna böjda till 90°.",
+			"Tryck ifrån med det främre benet och för det bakre benet fram till det främre steget.",
+			"Fortsätt och växla ben."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Det främre knäet är över fotleden."
+		]
+	},
+	"bear-crawl": {
+		"name": "Björnkrypning",
+		"description": "Förflyttning på fyra stödpunkter med lyfta knän. Stärker axlarna, bålen och benen och utvecklar koordinationen.",
+		"steps": [
+			"Ställ dig på händer och fötter med knäna 5 cm över marken.",
+			"För samtidigt fram motsatt arm och ben.",
+			"Håll ryggen rak och höfterna låga.",
+			"Rör dig under den angivna tiden och gå sedan på samma sätt bakåt."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i handlederna."
+		],
+		"techniqueNotes": [
+			"Rörelserna är långsamma och kontrollerade."
+		]
+	},
+	"broad-jump": {
+		"name": "Längdhopp från stående",
+		"description": "Explosivt hopp framåt med båda fötterna. Utvecklar benkraften och koordinationen.",
+		"steps": [
+			"Stå med fötterna i axelbredd och för armarna bakåt.",
+			"Tryck ifrån, svinga armarna framåt och hoppa så långt du kan.",
+			"Landa mjukt med böjda knän.",
+			"Stanna, hitta balansen och upprepa."
+		],
+		"warnings": [
+			"Gör inte övningen på halt underlag och avbryt om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Mjuk landning på hela foten."
+		]
+	},
+	"skater-jumps": {
+		"name": "Skaterhopp",
+		"description": "Sidledes hopp från ben till ben. Tränar balans, ben och uthållighet.",
+		"steps": [
+			"Stå på ett ben och för det andra bakåt.",
+			"Hoppa åt sidan till det andra benet och svinga med armarna.",
+			"Stanna en stund och håll balansen.",
+			"Hoppa tillbaka och fortsätt under den angivna tiden."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna eller fotlederna."
+		],
+		"techniqueNotes": [
+			"Mjuk landning, knäet bakom tårna."
+		]
+	},
+	"shuttle-run": {
+		"name": "Skyttellöpning",
+		"description": "Löpning mellan två punkter med riktningsändring. Utvecklar reaktionsförmågan och uthålligheten.",
+		"steps": [
+			"Markera två punkter på 3 m avstånd från varandra.",
+			"Spring till den andra punkten och nudda marken med handen.",
+			"Vänd snabbt och spring tillbaka.",
+			"Upprepa under den angivna tiden."
+		],
+		"warnings": [
+			"Gör inte övningen på halt underlag."
+		],
+		"techniqueNotes": [
+			"Vänd med böjda knän, låt inte benet svinga ut."
+		]
+	},
+	"stair-climb": {
+		"name": "Trappklättring",
+		"description": "Snabb uppstigning i trappa eller i en brant backe. Kondition och träning av ben och skinkor.",
+		"steps": [
+			"Ställ dig vid trappans eller backens början.",
+			"Gå uppför i rask takt och sätt hela foten på trappsteget.",
+			"Gå uppför under den angivna tiden och gå sedan långsamt ned.",
+			"Upprepa enligt antalet set."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Nedgången är lugn, håll i räcket vid behov."
+		]
+	},
+	"park-bench-step-up": {
+		"name": "Step-up på parkbänk",
+		"description": "Uppsteg på en stabil bänk med ett ben. Tränar framsida lår och skinkor.",
+		"steps": [
+			"Kontrollera att bänken är stabil och ställ dig framför den.",
+			"Sätt ena foten på bänken och res dig genom att räta ut benen.",
+			"Gå långsamt ned och behåll kontrollen.",
+			"Gör klart setet och byt ben."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i knäna."
+		],
+		"techniqueNotes": [
+			"Tryck med benet på bänken, studsa inte upp från marken."
+		]
+	},
+	"park-bench-incline-push-up": {
+		"name": "Armhävningar mot bänk",
+		"description": "Armhävningar med händerna på en bänk. Lättare variant för bröst, axlar och triceps.",
+		"steps": [
+			"Placera handflatorna på kanten av en stabil bänk med kroppen i en linje.",
+			"Böj armbågarna och sänk bröstet mot bänken.",
+			"Tryck ifrån medan du andas ut tills armarna är raka.",
+			"Håll bålen spänd under hela rörelsen."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i handlederna."
+		],
+		"techniqueNotes": [
+			"Armbågarna i cirka 45° vinkel mot bålen."
+		]
+	},
+	"australian-pull-up": {
+		"name": "Australian pull-up",
+		"description": "Uppdragning av kroppen mot en låg stång liggande under den. Tränar ryggen och biceps och är lättare än en vanlig pull-up.",
+		"steps": [
+			"Ställ dig under en låg, kraftig stång och ta tag i den med ett grepp bredare än axlarna.",
+			"Sträck ut kroppen i en rak linje med hälarna i marken.",
+			"Dra bröstet mot stången och dra ihop skulderbladen.",
+			"Sänk dig långsamt tills armarna är nästan raka."
+		],
+		"warnings": [
+			"Se till att stången är stadig och avbryt övningen om du får ont i axlarna."
+		],
+		"techniqueNotes": [
+			"Kroppen förblir rak och höfterna sjunker inte."
+		]
+	},
+	"outdoor-plank-shoulder-taps": {
+		"name": "Planka med axelnuddar",
+		"description": "Planka med växelvisa nuddar mot axeln. Tränar bålen och axlarnas stabilitet.",
+		"steps": [
+			"Ta position i hög planka med fötterna något bredare än axlarna.",
+			"Nudda vänster axel med höger hand utan att vicka med höfterna.",
+			"För tillbaka handen och nudda med den andra.",
+			"Fortsätt växla under den angivna tiden."
+		],
+		"warnings": [
+			"Avbryt övningen om du får ont i handlederna."
+		],
+		"techniqueNotes": [
+			"Höfterna rör sig nästan inte."
+		]
+	}
+}

@@ -1,0 +1,1938 @@
+{
+	"bodyweight-squat": {
+		"name": "Squat au poids du corps",
+		"description": "Squat de base sans charge. Travaille les quadriceps et les fessiers, et développe le contrôle du mouvement aux genoux et aux hanches.",
+		"steps": [
+			"Placez vos pieds à la largeur des épaules.",
+			"Poussez le bassin vers l’arrière et fléchissez les genoux en descendant.",
+			"Descendez jusqu’à une profondeur confortable en gardant le dos droit.",
+			"Poussez dans vos pieds et revenez à la position de départ."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Les genoux vont dans l’axe des orteils.",
+			"Ne décollez pas les talons du sol."
+		]
+	},
+	"split-squat": {
+		"name": "Squat bulgare sans appui (split squat)",
+		"description": "Squat en position de grande fente. Travaille les quadriceps et les fessiers de chaque jambe séparément et améliore l’équilibre.",
+		"steps": [
+			"Placez-vous en grande fente : une jambe devant, l’autre derrière.",
+			"Descendez à la verticale en fléchissant les deux genoux.",
+			"Remontez en poussant avec la jambe avant.",
+			"Faites toutes les répétitions, puis changez de jambe."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Gardez le buste droit.",
+			"Le poids du corps repose surtout sur la jambe avant."
+		]
+	},
+	"reverse-lunge": {
+		"name": "Fentes arrière",
+		"description": "Fente avec un pas en arrière. Travaille les quadriceps et les fessiers, et développe l’équilibre et la coordination.",
+		"steps": [
+			"Tenez-vous droit, pieds écartés à la largeur des hanches.",
+			"Faites un pas en arrière et descendez en fléchissant les deux genoux.",
+			"Poussez avec la jambe avant et revenez à la position de départ.",
+			"Alternez les jambes ou faites toutes les répétitions du même côté."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Faites le pas en arrière de façon contrôlée, sans à-coup.",
+			"Gardez le buste droit."
+		]
+	},
+	"glute-bridge": {
+		"name": "Pont fessier",
+		"description": "Montée du bassin allongé sur le dos. Travaille les fessiers et l’arrière des cuisses.",
+		"steps": [
+			"Allongez-vous sur le dos, genoux fléchis, pieds au sol.",
+			"Contractez les fessiers et montez le bassin.",
+			"Marquez une seconde de pause en haut.",
+			"Redescendez lentement le bassin au sol."
+		],
+		"warnings": [
+			"Arrêtez l’exercice si vous ressentez une douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Ne cambrez pas le bas du dos en haut du mouvement.",
+			"Poussez dans le sol avec les talons."
+		]
+	},
+	"single-leg-glute-bridge": {
+		"name": "Pont fessier unilatéral",
+		"description": "Variante plus difficile du pont fessier, en appui sur une seule jambe. Travaille les fessiers et l’arrière des cuisses et améliore la stabilité du bassin.",
+		"steps": [
+			"Allongez-vous sur le dos, genoux fléchis, pieds au sol.",
+			"Tendez une jambe et levez-la au-dessus du sol.",
+			"Montez le bassin en poussant avec le talon de la jambe d’appui.",
+			"Redescendez lentement ; après la série, changez de jambe."
+		],
+		"warnings": [
+			"Arrêtez l’exercice si vous ressentez une douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Gardez le bassin horizontal, sans le laisser basculer.",
+			"Bougez lentement et de façon contrôlée."
+		]
+	},
+	"knee-push-up": {
+		"name": "Pompes sur les genoux",
+		"description": "Variante facilitée des pompes, en appui sur les genoux. Travaille les pectoraux et les triceps.",
+		"steps": [
+			"Mettez-vous à genoux, mains au sol un peu plus larges que les épaules.",
+			"Alignez le corps des genoux à la tête.",
+			"Fléchissez les bras et descendez la poitrine vers le sol.",
+			"Poussez et tendez les bras."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux poignets ou aux épaules."
+		],
+		"techniqueNotes": [
+			"Coudes à environ 45° du buste.",
+			"Ne creusez pas le bas du dos."
+		]
+	},
+	"push-up": {
+		"name": "Pompes",
+		"description": "Pompes classiques au sol. Travaillent les pectoraux, les triceps et les stabilisateurs du tronc.",
+		"steps": [
+			"Prenez la position de planche, mains un peu plus larges que les épaules.",
+			"Alignez le corps des talons à la tête.",
+			"Fléchissez les bras et descendez la poitrine vers le sol.",
+			"Poussez et tendez les bras."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux poignets ou aux épaules."
+		],
+		"techniqueNotes": [
+			"Gardez les abdominaux et les fessiers contractés.",
+			"Coudes à environ 45° du buste."
+		]
+	},
+	"wall-push-up": {
+		"name": "Pompes contre le mur",
+		"description": "Variante la plus facile des pompes, en appui contre un mur. Travaille les pectoraux et les triceps avec une charge minimale.",
+		"steps": [
+			"Placez-vous face au mur, à une longueur de bras.",
+			"Appuyez les paumes contre le mur à hauteur des épaules.",
+			"Fléchissez les bras et rapprochez la poitrine du mur.",
+			"Poussez et revenez à la position de départ."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Gardez le corps droit comme une planche.",
+			"Plus les pieds sont loin du mur, plus c’est difficile."
+		]
+	},
+	"pike-push-up": {
+		"name": "Pompes en pike",
+		"description": "Pompes avec le bassin relevé, qui déplacent la charge vers les épaules. Travaillent les deltoïdes et les triceps.",
+		"steps": [
+			"Prenez la position de planche et montez le bassin pour former un « V » inversé.",
+			"Fléchissez les bras et descendez la tête vers le sol, entre les mains.",
+			"Poussez et tendez les bras.",
+			"Gardez le bassin haut pendant toute la série."
+		],
+		"warnings": [
+			"Descendez lentement et ne posez pas la tête au sol.",
+			"Arrêtez l’exercice en cas de douleur aux épaules, aux poignets ou au cou."
+		],
+		"techniqueNotes": [
+			"Les coudes pointent vers l’arrière, pas sur les côtés.",
+			"Regardez le sol entre vos mains."
+		]
+	},
+	"plank": {
+		"name": "Gainage (planche)",
+		"description": "Maintien statique du corps en appui sur les avant-bras. Travaille les muscles du tronc et sa stabilité.",
+		"steps": [
+			"Placez-vous en appui sur les avant-bras, coudes sous les épaules.",
+			"Tendez les jambes et alignez le corps des talons à la tête.",
+			"Contractez les abdominaux et les fessiers.",
+			"Maintenez la position le temps indiqué en respirant régulièrement."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au bas du dos."
+		],
+		"techniqueNotes": [
+			"Ne montez pas et ne baissez pas le bassin.",
+			"Ne retenez pas votre respiration."
+		]
+	},
+	"side-plank": {
+		"name": "Gainage latéral",
+		"description": "Maintien statique du corps sur le côté, en appui sur l’avant-bras. Travaille les obliques et les stabilisateurs du tronc.",
+		"steps": [
+			"Allongez-vous sur le côté, coude sous l’épaule.",
+			"Placez les pieds l’un sur l’autre ou l’un devant l’autre.",
+			"Montez le bassin pour aligner le corps.",
+			"Maintenez la position le temps indiqué, puis changez de côté."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur à l’épaule."
+		],
+		"techniqueNotes": [
+			"Ne laissez pas le bassin s’affaisser.",
+			"Gardez le cou dans l’alignement du corps."
+		]
+	},
+	"dead-bug": {
+		"name": "Dead bug",
+		"description": "Extension alternée du bras et de la jambe opposés, allongé sur le dos. Travaille les muscles profonds du tronc et le contrôle de la position lombaire.",
+		"steps": [
+			"Allongez-vous sur le dos, bras tendus vers le haut, jambes fléchies à angle droit.",
+			"Abaissez lentement le bras et la jambe opposés vers le sol.",
+			"Revenez à la position de départ.",
+			"Recommencez avec l’autre bras et l’autre jambe."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Plaquez le bas du dos au sol.",
+			"Bougez lentement et expirez pendant la descente."
+		]
+	},
+	"bird-dog": {
+		"name": "Bird dog",
+		"description": "Extension alternée du bras et de la jambe opposés, en appui à quatre pattes. Travaille les muscles du tronc, les fessiers et la coordination.",
+		"steps": [
+			"Placez-vous à quatre pattes, mains sous les épaules, genoux sous les hanches.",
+			"Tendez en même temps un bras vers l’avant et la jambe opposée vers l’arrière.",
+			"Marquez une seconde de pause.",
+			"Revenez à la position de départ et changez de côté."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux poignets."
+		],
+		"techniqueNotes": [
+			"Gardez le dos droit, sans le creuser.",
+			"Le bassin reste parallèle au sol."
+		]
+	},
+	"superman": {
+		"name": "Superman",
+		"description": "Levée simultanée des bras et des jambes, allongé sur le ventre. Travaille les muscles du dos et les fessiers.",
+		"steps": [
+			"Allongez-vous sur le ventre, bras tendus vers l’avant.",
+			"Soulevez légèrement en même temps les bras, la poitrine et les jambes.",
+			"Maintenez 1–2 secondes.",
+			"Redescendez lentement."
+		],
+		"warnings": [
+			"Ne montez pas brusquement ni trop haut.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Regardez vers le bas, le cou dans l’alignement du dos.",
+			"Bougez en douceur, sans à-coups."
+		]
+	},
+	"wall-sit": {
+		"name": "Chaise contre le mur",
+		"description": "Maintien statique de la position assise le dos contre un mur. Travaille les quadriceps et l’endurance des jambes.",
+		"steps": [
+			"Placez-vous dos au mur, pieds à environ un demi-mètre de celui-ci.",
+			"Faites glisser le dos vers le bas jusqu’à ce que les genoux soient fléchis à un angle confortable.",
+			"Maintenez la position le temps indiqué.",
+			"Remontez lentement."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Les genoux sont au-dessus des chevilles, sans dépasser les orteils.",
+			"Le dos est entièrement plaqué contre le mur."
+		]
+	},
+	"jumping-jacks": {
+		"name": "Jumping jacks",
+		"description": "Sauts avec écartement simultané des bras et des jambes. Développent l’endurance cardio-vasculaire et échauffent tout le corps.",
+		"steps": [
+			"Tenez-vous droit, pieds joints, bras le long du corps.",
+			"Écartez les jambes en sautant et levez les bras au-dessus de la tête.",
+			"Revenez en sautant à la position de départ.",
+			"Poursuivez à rythme régulier le temps indiqué."
+		],
+		"warnings": [
+			"Réceptionnez-vous en douceur sur l’avant du pied.",
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux chevilles."
+		],
+		"techniqueNotes": [
+			"Gardez les genoux légèrement fléchis à la réception.",
+			"Respirez régulièrement."
+		]
+	},
+	"step-jacks": {
+		"name": "Jumping jacks sans impact",
+		"description": "Variante sans impact des jumping jacks : un pas sur le côté avec les bras levés au-dessus de la tête. Échauffe le corps et augmente le rythme cardiaque sans sauts.",
+		"steps": [
+			"Tenez-vous droit, pieds joints, bras le long du corps.",
+			"Faites un pas sur le côté en levant en même temps les bras au-dessus de la tête.",
+			"Ramenez le pied et baissez les bras.",
+			"Alternez les côtés à rythme régulier."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Gardez un rythme qui fait monter modérément votre pouls.",
+			"Posez les pieds en douceur."
+		]
+	},
+	"high-knees": {
+		"name": "Course sur place genoux hauts",
+		"description": "Course sur place avec montée haute des genoux. Développe l’endurance cardio-vasculaire et la vitesse des jambes.",
+		"steps": [
+			"Tenez-vous droit, pieds écartés à la largeur des hanches.",
+			"Commencez à courir sur place en montant les genoux à peu près à hauteur des hanches.",
+			"Balancez les bras en rythme avec les jambes.",
+			"Poursuivez le temps indiqué."
+		],
+		"warnings": [
+			"Réceptionnez-vous en douceur sur l’avant du pied.",
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux chevilles."
+		],
+		"techniqueNotes": [
+			"Gardez le buste droit.",
+			"Ne vous penchez pas en arrière."
+		]
+	},
+	"march-in-place": {
+		"name": "Marche sur place",
+		"description": "Marche sur place avec un mouvement actif des bras. Exercice cardio léger et sans impact pour s’échauffer et augmenter le rythme cardiaque.",
+		"steps": [
+			"Tenez-vous droit, bras fléchis aux coudes.",
+			"Montez les genoux l’un après l’autre en marchant sur place.",
+			"Balancez les bras en rythme avec les pas.",
+			"Gardez un rythme régulier le temps indiqué."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Gardez le dos droit.",
+			"Pour corser l’exercice, montez les genoux plus haut ou accélérez le rythme."
+		]
+	},
+	"mountain-climbers": {
+		"name": "Mountain climbers",
+		"description": "Montées alternées des genoux vers la poitrine en position de planche. Développent l’endurance et travaillent les muscles du tronc.",
+		"steps": [
+			"Prenez la position de planche, mains sous les épaules.",
+			"Ramenez un genou vers la poitrine.",
+			"Remettez la jambe en arrière et ramenez l’autre genou.",
+			"Alternez les jambes à un rythme rapide mais contrôlé."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux poignets ou aux épaules."
+		],
+		"techniqueNotes": [
+			"Ne montez pas le bassin trop haut.",
+			"Gardez les épaules au-dessus des mains."
+		]
+	},
+	"burpee": {
+		"name": "Burpee",
+		"description": "Exercice complet : squat, planche, retour et saut vertical. Développe l’endurance générale et sollicite tout le corps.",
+		"steps": [
+			"Accroupissez-vous et posez les mains au sol.",
+			"Envoyez les jambes en arrière en position de planche.",
+			"Ramenez les pieds vers les mains et redressez-vous.",
+			"Faites un petit saut vers le haut, bras au-dessus de la tête."
+		],
+		"warnings": [
+			"Réceptionnez-vous en douceur et ne creusez pas le bas du dos en position de planche.",
+			"Arrêtez l’exercice en cas de douleur aux articulations ou au dos."
+		],
+		"techniqueNotes": [
+			"En position de planche, gardez le corps aligné.",
+			"Privilégiez le contrôle plutôt que la vitesse maximale."
+		]
+	},
+	"squat-jump": {
+		"name": "Squats sautés",
+		"description": "Squat avec un saut explosif vers le haut. Développe la force des jambes et l’explosivité.",
+		"steps": [
+			"Placez-vous debout, pieds à la largeur des épaules.",
+			"Descendez en squat jusqu’à une profondeur confortable.",
+			"Sautez de façon explosive vers le haut.",
+			"Réceptionnez-vous en douceur et enchaînez aussitôt avec un squat."
+		],
+		"warnings": [
+			"Réceptionnez-vous en douceur, jambes fléchies.",
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux chevilles."
+		],
+		"techniqueNotes": [
+			"Les genoux vont dans l’axe des orteils.",
+			"La réception est silencieuse et contrôlée."
+		]
+	},
+	"cat-cow": {
+		"name": "Chat-vache",
+		"description": "Alternance fluide de dos rond et de dos creux à quatre pattes. Améliore la mobilité de la colonne vertébrale.",
+		"steps": [
+			"Placez-vous à quatre pattes, mains sous les épaules.",
+			"En inspirant, creusez le dos et levez le regard.",
+			"En expirant, arrondissez le dos et baissez la tête.",
+			"Répétez en douceur, au rythme de la respiration."
+		],
+		"warnings": [
+			"Restez dans une amplitude confortable et arrêtez en cas de douleur."
+		],
+		"techniqueNotes": [
+			"Le mouvement part du bassin et remonte jusqu’à la tête.",
+			"Ne vous pressez pas."
+		]
+	},
+	"kneeling-hip-flexor-stretch": {
+		"name": "Étirement des fléchisseurs de hanche à genoux",
+		"description": "Étirement de l’avant de la cuisse en position de fente, un genou au sol. Améliore la mobilité de l’articulation de la hanche.",
+		"steps": [
+			"Mettez un genou au sol, l’autre jambe devant, fléchie à angle droit.",
+			"Contractez le fessier de la jambe qui est au sol.",
+			"Avancez doucement le bassin jusqu’à sentir l’étirement.",
+			"Maintenez la position le temps indiqué, puis changez de jambe."
+		],
+		"warnings": [
+			"Placez quelque chose de moelleux sous le genou ; arrêtez en cas de douleur."
+		],
+		"techniqueNotes": [
+			"Ne creusez pas le bas du dos.",
+			"L’étirement doit être modéré, sans douleur."
+		]
+	},
+	"arm-circles": {
+		"name": "Cercles de bras",
+		"description": "Rotations circulaires des bras tendus. Échauffent les articulations des épaules et améliorent leur mobilité.",
+		"steps": [
+			"Tenez-vous droit et écartez les bras sur les côtés.",
+			"Faites de petits cercles vers l’avant avec les bras.",
+			"Augmentez progressivement l’amplitude.",
+			"À la moitié du temps, changez de sens."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Gardez les épaules basses, sans les remonter vers les oreilles.",
+			"Bougez en douceur."
+		]
+	},
+	"open-book-rotation": {
+		"name": "Rotation « livre ouvert »",
+		"description": "Rotation de la colonne thoracique allongé sur le côté. Améliore la mobilité du haut du dos et des épaules.",
+		"steps": [
+			"Allongez-vous sur le côté, genoux fléchis, bras tendus devant vous.",
+			"Faites passer le bras du dessus en arc de cercle vers l’autre côté en ouvrant la poitrine.",
+			"Suivez votre main du regard.",
+			"Ramenez le bras ; après la série, changez de côté."
+		],
+		"warnings": [
+			"Restez dans une amplitude confortable et arrêtez en cas de douleur."
+		],
+		"techniqueNotes": [
+			"Les genoux restent ensemble au sol.",
+			"Respirez calmement."
+		]
+	},
+	"goblet-squat": {
+		"name": "Goblet squat",
+		"description": "Squat avec un haltère ou un kettlebell tenu contre la poitrine. Travaille les quadriceps et les fessiers et aide à garder le buste vertical.",
+		"steps": [
+			"Tenez un haltère ou un kettlebell à la verticale contre la poitrine.",
+			"Placez les pieds un peu plus larges que les épaules.",
+			"Descendez en squat en gardant la poitrine haute.",
+			"Remontez en poussant dans vos pieds."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux ou au dos."
+		],
+		"techniqueNotes": [
+			"Les coudes passent entre les genoux.",
+			"Le dos reste droit pendant tout le mouvement."
+		]
+	},
+	"dumbbell-romanian-deadlift": {
+		"name": "Soulevé de terre roumain aux haltères",
+		"description": "Flexion du buste vers l’avant avec des haltères, par un mouvement des hanches. Travaille l’arrière des cuisses et les fessiers.",
+		"steps": [
+			"Tenez-vous droit, haltères devant les cuisses.",
+			"Fléchissez légèrement les genoux et poussez le bassin vers l’arrière.",
+			"Descendez les haltères le long des jambes jusqu’à sentir l’étirement de l’arrière des cuisses.",
+			"Remontez en poussant le bassin vers l’avant."
+		],
+		"warnings": [
+			"N’arrondissez pas le dos ; choisissez une charge avec laquelle vous gardez la bonne technique.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Dos droit, haltères près des jambes.",
+			"Le mouvement vient du bassin, pas du dos."
+		]
+	},
+	"one-arm-dumbbell-row": {
+		"name": "Rowing haltère à un bras",
+		"description": "Tirage d’un haltère vers la taille, buste penché, avec appui d’une main. Travaille les muscles du dos et les biceps.",
+		"steps": [
+			"Penchez-vous en avant, la main libre en appui sur la cuisse ou sur un support stable.",
+			"Prenez l’haltère, bras tendu sous l’épaule.",
+			"Tirez l’haltère vers la taille en menant le coude vers l’arrière.",
+			"Redescendez lentement ; après la série, changez de bras."
+		],
+		"warnings": [
+			"Gardez le dos droit ; arrêtez en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Ne tournez pas le buste pendant le tirage.",
+			"Rapprochez l’omoplate de la colonne."
+		]
+	},
+	"dumbbell-floor-press": {
+		"name": "Développé couché aux haltères au sol",
+		"description": "Poussée d’haltères vers le haut, allongé au sol, avec une amplitude réduite. Travaille les pectoraux et les triceps.",
+		"steps": [
+			"Allongez-vous sur le dos, genoux fléchis, haltères dans les mains près de la poitrine.",
+			"Poussez les haltères vers le haut au-dessus de la poitrine.",
+			"Redescendez lentement jusqu’à ce que les coudes touchent le sol.",
+			"Répétez la poussée."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Coudes à environ 45° du buste.",
+			"Redescendez les haltères de façon contrôlée, sans les laisser claquer au sol."
+		]
+	},
+	"dumbbell-bench-press": {
+		"name": "Développé couché aux haltères",
+		"description": "Poussée d’haltères vers le haut, allongé sur un banc plat. Travaille les pectoraux et les triceps.",
+		"steps": [
+			"Allongez-vous sur le banc, pieds au sol, haltères près de la poitrine.",
+			"Poussez les haltères vers le haut au-dessus de la poitrine.",
+			"Redescendez-les lentement à hauteur de la poitrine.",
+			"Répétez la poussée."
+		],
+		"warnings": [
+			"Choisissez une charge que vous pouvez redescendre de façon contrôlée.",
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Omoplates rapprochées et plaquées contre le banc.",
+			"Ne faites pas rebondir les haltères sur la poitrine."
+		]
+	},
+	"incline-dumbbell-press": {
+		"name": "Développé incliné aux haltères",
+		"description": "Poussée d’haltères allongé sur un banc au dossier relevé. Travaille le haut des pectoraux et les deltoïdes antérieurs.",
+		"steps": [
+			"Réglez le dossier du banc à une inclinaison modérée.",
+			"Asseyez-vous sur le banc, dos plaqué, haltères près de la poitrine.",
+			"Poussez les haltères vers le haut au-dessus du haut de la poitrine.",
+			"Redescendez lentement et répétez."
+		],
+		"warnings": [
+			"Vérifiez que le dossier du banc est bien verrouillé.",
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Omoplates rapprochées et plaquées contre le banc.",
+			"Bougez de façon contrôlée sur toute l’amplitude."
+		]
+	},
+	"dumbbell-shoulder-press": {
+		"name": "Développé épaules aux haltères",
+		"description": "Poussée d’haltères vers le haut en position debout. Travaille les deltoïdes et les triceps.",
+		"steps": [
+			"Tenez-vous droit, haltères à hauteur des épaules.",
+			"Contractez les abdominaux et les fessiers.",
+			"Poussez les haltères vers le haut au-dessus de la tête.",
+			"Redescendez lentement à hauteur des épaules."
+		],
+		"warnings": [
+			"Ne creusez pas le bas du dos pendant la poussée.",
+			"Arrêtez l’exercice en cas de douleur aux épaules, au cou ou au dos."
+		],
+		"techniqueNotes": [
+			"Les côtes restent basses, le tronc stable.",
+			"Ne rejetez pas la tête en arrière."
+		]
+	},
+	"dumbbell-reverse-lunge": {
+		"name": "Fentes arrière aux haltères",
+		"description": "Fente avec un pas en arrière, haltères en mains. Travaille les quadriceps et les fessiers avec une charge supplémentaire.",
+		"steps": [
+			"Tenez-vous droit, haltères dans les mains, bras le long du corps.",
+			"Faites un pas en arrière et descendez en fléchissant les deux genoux.",
+			"Poussez avec la jambe avant et revenez à la position de départ.",
+			"Alternez les jambes ou faites toutes les répétitions du même côté."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Gardez le buste droit.",
+			"Épaules basses, haltères sans balancement."
+		]
+	},
+	"farmer-carry": {
+		"name": "Marche du fermier",
+		"description": "Marche avec des haltères ou des kettlebells dans les mains, bras le long du corps. Travaille les muscles du tronc, la prise et la stabilité générale.",
+		"steps": [
+			"Prenez un haltère ou un kettlebell dans chaque main.",
+			"Redressez-vous, épaules basses et en arrière.",
+			"Marchez à petits pas réguliers le temps indiqué.",
+			"Reposez prudemment la charge au sol."
+		],
+		"warnings": [
+			"Soulevez et reposez la charge en gardant le dos droit.",
+			"Arrêtez l’exercice en cas de douleur au dos ou aux poignets."
+		],
+		"techniqueNotes": [
+			"Ne vous penchez pas du côté de la charge.",
+			"Gardez les abdominaux contractés."
+		]
+	},
+	"kettlebell-swing": {
+		"name": "Swing au kettlebell",
+		"description": "Balancement dynamique du kettlebell par un mouvement des hanches. Développe la puissance des fessiers et de l’arrière des cuisses, ainsi que l’endurance.",
+		"steps": [
+			"Placez-vous debout, pieds un peu plus larges que les épaules, kettlebell devant vous.",
+			"Penchez-vous en gardant le dos droit et passez le kettlebell vers l’arrière, entre les jambes.",
+			"Projetez vivement le bassin vers l’avant pour que le kettlebell monte à hauteur de la poitrine.",
+			"Laissez le kettlebell redescendre et répétez le mouvement."
+		],
+		"warnings": [
+			"Assurez-vous qu’il n’y a ni personne ni objet autour de vous.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Le mouvement vient du bassin, les bras ne font que tenir le kettlebell.",
+			"Dos droit en bas du mouvement."
+		]
+	},
+	"kettlebell-deadlift": {
+		"name": "Soulevé de terre au kettlebell",
+		"description": "Levée du kettlebell depuis le sol par un mouvement des hanches. Travaille les fessiers, l’arrière des cuisses et apprend à soulever correctement une charge.",
+		"steps": [
+			"Placez-vous au-dessus du kettlebell, pieds à la largeur des hanches.",
+			"Poussez le bassin vers l’arrière, fléchissez les genoux et saisissez la poignée.",
+			"Redressez-vous en poussant le bassin vers l’avant.",
+			"Reposez le kettlebell au sol par le même mouvement."
+		],
+		"warnings": [
+			"N’arrondissez pas le dos pendant la levée.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Dos droit, regard devant vous.",
+			"Le kettlebell reste près du corps."
+		]
+	},
+	"band-pull-apart": {
+		"name": "Écarté avec élastique (pull-apart)",
+		"description": "Étirement d’un élastique à bras tendus devant la poitrine. Travaille les muscles du haut du dos et les deltoïdes postérieurs.",
+		"steps": [
+			"Tenez l’élastique à deux mains, à la largeur des épaules, devant la poitrine.",
+			"Écartez les bras sur les côtés en étirant l’élastique.",
+			"Rapprochez les omoplates en fin de mouvement.",
+			"Ramenez lentement les bras à la position de départ."
+		],
+		"warnings": [
+			"Avant l’exercice, vérifiez que l’élastique n’est pas abîmé."
+		],
+		"techniqueNotes": [
+			"Épaules basses, ne les remontez pas vers les oreilles.",
+			"Les bras restent presque tendus pendant tout le mouvement."
+		]
+	},
+	"band-row": {
+		"name": "Rowing avec élastique",
+		"description": "Tirage vers la taille d’un élastique fixé. Travaille les muscles du dos et les biceps.",
+		"steps": [
+			"Fixez l’élastique à hauteur de la taille sur un support solide.",
+			"Saisissez les extrémités et reculez jusqu’à ce que l’élastique soit tendu.",
+			"Tirez les mains vers la taille en menant les coudes vers l’arrière.",
+			"Ramenez lentement les bras vers l’avant."
+		],
+		"warnings": [
+			"Vérifiez que la fixation est solide et que l’élastique n’est pas abîmé."
+		],
+		"techniqueNotes": [
+			"Rapprochez les omoplates en fin de mouvement.",
+			"Le buste reste immobile, ne vous penchez pas en arrière."
+		]
+	},
+	"band-lat-pulldown": {
+		"name": "Tirage vertical avec élastique",
+		"description": "Tirage vers la poitrine d’un élastique fixé en hauteur. Travaille les grands dorsaux et les biceps.",
+		"steps": [
+			"Fixez l’élastique au-dessus de la tête sur un support solide.",
+			"Saisissez les extrémités, bras tendus vers le haut.",
+			"Tirez les coudes vers le bas, le long du corps, en rapprochant les mains de la poitrine.",
+			"Ramenez lentement les bras vers le haut."
+		],
+		"warnings": [
+			"Vérifiez que la fixation en hauteur est solide et que l’élastique n’est pas abîmé.",
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Abaissez les omoplates avant de tirer.",
+			"Ne balancez pas le buste."
+		]
+	},
+	"pull-up": {
+		"name": "Tractions",
+		"description": "Traction du corps sur une barre jusqu’à hauteur du menton. Travaille les muscles du dos et les biceps.",
+		"steps": [
+			"Saisissez la barre, mains un peu plus larges que les épaules.",
+			"Suspendez-vous à bras tendus, omoplates abaissées.",
+			"Tirez-vous jusqu’à ce que le menton passe au-dessus de la barre.",
+			"Redescendez lentement jusqu’à avoir les bras tendus."
+		],
+		"warnings": [
+			"Utilisez uniquement une barre solidement installée.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou aux poignets."
+		],
+		"techniqueNotes": [
+			"Ne vous balancez pas et évitez les à-coups.",
+			"Redescendez de façon contrôlée."
+		]
+	},
+	"dead-hang": {
+		"name": "Suspension à la barre",
+		"description": "Suspension statique à une barre, bras tendus. Renforce la prise et les muscles de la ceinture scapulaire.",
+		"steps": [
+			"Saisissez la barre, mains à la largeur des épaules.",
+			"Suspendez-vous prudemment, bras tendus.",
+			"Maintenez la position le temps indiqué en respirant régulièrement.",
+			"Reposez-vous prudemment au sol."
+		],
+		"warnings": [
+			"Utilisez uniquement une barre solidement installée.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou aux poignets."
+		],
+		"techniqueNotes": [
+			"Engagez légèrement les épaules, ne vous laissez pas pendre passivement.",
+			"Ne vous balancez pas."
+		]
+	},
+	"hanging-knee-raise": {
+		"name": "Relevés de genoux suspendu",
+		"description": "Montée des genoux vers la poitrine en suspension à la barre. Travaille les abdominaux et la prise.",
+		"steps": [
+			"Suspendez-vous à la barre, bras tendus.",
+			"Contractez les abdominaux et ramenez les genoux vers la poitrine.",
+			"Marquez une seconde de pause.",
+			"Redescendez lentement les jambes sans balancer."
+		],
+		"warnings": [
+			"Utilisez uniquement une barre solidement installée.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au bas du dos."
+		],
+		"techniqueNotes": [
+			"Bougez sans à-coups ni élan.",
+			"Enroulez légèrement le bassin en haut du mouvement."
+		]
+	},
+	"jump-rope": {
+		"name": "Corde à sauter",
+		"description": "Sauts rythmés par-dessus une corde. Développent l’endurance cardio-vasculaire, la coordination et la force des mollets.",
+		"steps": [
+			"Prenez les poignées, la corde derrière les talons.",
+			"Faites tourner la corde avec les poignets.",
+			"Faites de petits sauts quand la corde passe sous les pieds.",
+			"Gardez un rythme régulier le temps indiqué."
+		],
+		"warnings": [
+			"Sautez peu haut et réceptionnez-vous en douceur sur l’avant du pied.",
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux chevilles."
+		],
+		"techniqueNotes": [
+			"Coudes près du corps.",
+			"Genoux légèrement fléchis."
+		]
+	},
+	"step-up": {
+		"name": "Montées sur plateforme (step-up)",
+		"description": "Montée sur une plateforme stable, une jambe après l’autre. Travaille les quadriceps et les fessiers.",
+		"steps": [
+			"Placez-vous face à la plateforme.",
+			"Posez tout le pied d’une jambe dessus.",
+			"Montez en poussant avec la jambe posée sur la plateforme.",
+			"Redescendez lentement et répétez ; changez de jambe après la série."
+		],
+		"warnings": [
+			"Assurez-vous que la plateforme est stable et ne glisse pas.",
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Ne vous aidez pas de la jambe du bas.",
+			"Le genou va dans l’axe de l’orteil."
+		]
+	},
+	"barbell-back-squat": {
+		"name": "Squat avec barre sur le dos",
+		"description": "Squat avec une barre posée sur le haut du dos. Développe la force des quadriceps, des fessiers et de tout le corps.",
+		"steps": [
+			"Placez la barre sur le haut du dos et dégagez-la du support.",
+			"Reculez, pieds à la largeur des épaules ou un peu plus larges.",
+			"Descendez en squat jusqu’à une profondeur confortable en gardant le dos droit.",
+			"Remontez et, après la série, reposez la barre sur le support."
+		],
+		"warnings": [
+			"Réglez les sécurités du rack et travaillez avec une charge que vous maîtrisez.",
+			"Arrêtez l’exercice en cas de douleur aux genoux, au dos ou aux épaules."
+		],
+		"techniqueNotes": [
+			"Gainez le tronc avant chaque répétition.",
+			"Les genoux vont dans l’axe des orteils."
+		]
+	},
+	"barbell-deadlift": {
+		"name": "Soulevé de terre à la barre",
+		"description": "Levée de la barre depuis le sol jusqu’à la position debout. Développe la force de l’arrière des cuisses, des fessiers et du dos.",
+		"steps": [
+			"Placez-vous de sorte que la barre soit au-dessus du milieu des pieds.",
+			"Poussez le bassin vers l’arrière, fléchissez les genoux et saisissez la barre.",
+			"Redressez-vous en gardant la barre près des jambes.",
+			"Reposez la barre au sol par le même mouvement."
+		],
+		"warnings": [
+			"N’arrondissez pas le dos ; travaillez avec une charge que vous maîtrisez.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Dos droit, tronc gainé.",
+			"Poussez le sol avec les jambes au lieu de tirer avec le dos."
+		]
+	},
+	"cardio-machine-intervals": {
+		"name": "Intervalles sur machine de cardio",
+		"description": "Travail par intervalles sur un vélo, un elliptique ou une autre machine de cardio. Développe l’endurance cardio-vasculaire.",
+		"steps": [
+			"Échauffez-vous quelques minutes à allure légère.",
+			"Augmentez le rythme ou la résistance pendant la durée de l’intervalle.",
+			"Pendant la récupération, continuez à bouger à allure légère.",
+			"Répétez l’intervalle le nombre de fois indiqué."
+		],
+		"warnings": [
+			"Lisez le mode d’emploi de la machine avant de l’utiliser.",
+			"Ralentissez ou arrêtez-vous en cas de vertige ou de douleur."
+		],
+		"techniqueNotes": [
+			"L’intensité doit être perceptible mais contrôlée.",
+			"Gardez une posture droite."
+		]
+	},
+	"jump-rope-boxer-step": {
+		"name": "Pas de boxeur à la corde",
+		"description": "Petits sauts à la corde avec transfert du poids d’un pied sur l’autre. Plus simple que les sauts à pieds joints.",
+		"steps": [
+			"Prenez les poignées, la corde derrière les talons.",
+			"Faites tourner la corde avec les poignets.",
+			"Transférez légèrement le poids d’un pied sur l’autre, comme si vous marchiez sur place.",
+			"Gardez un rythme régulier le temps indiqué."
+		],
+		"warnings": [
+			"Sautez peu haut et réceptionnez-vous en douceur sur l’avant du pied.",
+			"Arrêtez l’exercice en cas de douleur aux chevilles."
+		],
+		"techniqueNotes": [
+			"Le saut ne dépasse que de quelques centimètres le sol.",
+			"Coudes près du corps."
+		]
+	},
+	"jump-rope-side-to-side": {
+		"name": "Sauts à la corde latéraux",
+		"description": "Sauts à pieds joints avec un petit déplacement à gauche et à droite. Ajoutent de la charge aux mollets et travaillent la coordination.",
+		"steps": [
+			"Prenez les poignées, pieds joints.",
+			"Sautez par-dessus la corde en vous décalant légèrement vers la gauche.",
+			"Au saut suivant, décalez-vous vers la droite.",
+			"Gardez le rythme et réceptionnez-vous en douceur."
+		],
+		"warnings": [
+			"Assurez-vous d’avoir assez de place et que la surface n’est pas glissante.",
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux chevilles."
+		],
+		"techniqueNotes": [
+			"Le déplacement est petit, pas plus large que les pieds.",
+			"Genoux légèrement fléchis."
+		]
+	},
+	"jump-rope-high-knees": {
+		"name": "Course à la corde",
+		"description": "Course sur place avec passage de la corde et montée des genoux. Exercice cardio intense pour l’endurance.",
+		"steps": [
+			"Prenez les poignées, la corde derrière les talons.",
+			"Courez sur place en faisant passer la corde sous le pied à chaque pas.",
+			"Montez les genoux à hauteur des hanches.",
+			"Gardez le rythme le temps indiqué."
+		],
+		"warnings": [
+			"À faire uniquement après un échauffement.",
+			"Arrêtez l’exercice en cas de douleur aux genoux, aux hanches ou aux chevilles."
+		],
+		"techniqueNotes": [
+			"Buste droit, ne vous penchez pas en arrière.",
+			"Réception douce, sur l’avant du pied."
+		]
+	},
+	"lateral-step-up": {
+		"name": "Montée latérale sur step",
+		"description": "Montée sur une plateforme de côté. Sollicite les fessiers et les cuisses sous un autre angle que la montée classique.",
+		"steps": [
+			"Placez-vous de côté par rapport à la plateforme, le pied proche posé dessus.",
+			"Tendez la jambe pour monter sur la plateforme.",
+			"Redescendez de façon contrôlée.",
+			"Terminez les séries sur une jambe, puis changez de jambe."
+		],
+		"warnings": [
+			"Assurez-vous que la plateforme est stable et ne glisse pas.",
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux hanches."
+		],
+		"techniqueNotes": [
+			"La jambe d’appui travaille, l’autre ne fait que toucher.",
+			"Le genou ne rentre pas vers l’intérieur."
+		]
+	},
+	"step-platform-push-up": {
+		"name": "Pompes avec mains sur step",
+		"description": "Pompes avec les mains posées sur une plateforme. Version facilitée des pompes classiques pour les débutants.",
+		"steps": [
+			"Posez les mains sur la plateforme, un peu plus larges que les épaules, corps en ligne droite.",
+			"Fléchissez les coudes en descendant la poitrine vers la plateforme.",
+			"Poussez en tendant les bras.",
+			"Gardez le tronc gainé."
+		],
+		"warnings": [
+			"La plateforme doit être stable, de préférence sur une surface antidérapante.",
+			"Arrêtez l’exercice en cas de douleur aux poignets ou aux épaules."
+		],
+		"techniqueNotes": [
+			"Ne creusez pas le bas du dos.",
+			"Coudes à environ 45° du buste."
+		]
+	},
+	"step-platform-calf-raise": {
+		"name": "Montées sur pointes sur step",
+		"description": "Montées sur la pointe des pieds depuis le bord d’une plateforme pour une plus grande amplitude. Renforce les mollets.",
+		"steps": [
+			"Placez l’avant des pieds au bord de la plateforme, talons dans le vide.",
+			"Descendez lentement les talons sous le niveau de la plateforme.",
+			"Montez le plus haut possible sur les pointes.",
+			"Répétez sans à-coups."
+		],
+		"warnings": [
+			"Tenez-vous à un mur ou à un support pour l’équilibre.",
+			"Arrêtez l’exercice en cas de douleur aux chevilles ou au tendon d’Achille."
+		],
+		"techniqueNotes": [
+			"Mouvement lent : 2 secondes en montant, 2 en descendant.",
+			"Genoux presque tendus."
+		]
+	},
+	"step-platform-reverse-lunge": {
+		"name": "Fente arrière depuis un step",
+		"description": "Pas en arrière depuis une plateforme pour enchaîner sur une fente. Amplitude accrue pour les fessiers et les cuisses.",
+		"steps": [
+			"Montez sur la plateforme, pieds à la largeur des hanches.",
+			"Faites un pas en arrière avec une jambe, jusqu’au sol.",
+			"Descendez en fente, la jambe avant reste sur la plateforme.",
+			"Revenez à la position de départ et changez de jambe."
+		],
+		"warnings": [
+			"Assurez-vous que la plateforme est stable et ne glisse pas.",
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Buste vertical.",
+			"Le talon avant reste plaqué sur la plateforme."
+		]
+	},
+	"step-platform-taps": {
+		"name": "Touches de step",
+		"description": "Touches rapides et alternées de la plateforme avec les pieds. Exercice cardio léger pour l’échauffement et l’endurance.",
+		"steps": [
+			"Placez-vous face à la plateforme.",
+			"Touchez la plateforme du pied droit, puis du pied gauche.",
+			"Bougez vite et légèrement, sans poser tout le pied.",
+			"Gardez le rythme le temps indiqué."
+		],
+		"warnings": [
+			"La plateforme doit être stable.",
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Dos droit, les bras suivent le rythme.",
+			"Mouvements légers, sans impact."
+		]
+	},
+	"bench-dip": {
+		"name": "Dips sur banc",
+		"description": "Dips pour les triceps, mains en appui sur un banc derrière vous.",
+		"steps": [
+			"Asseyez-vous au bord du banc, mains à côté des cuisses.",
+			"Avancez les fesses en vous tenant au banc avec les mains.",
+			"Fléchissez les coudes jusqu’à environ 90°.",
+			"Tendez les bras et remontez."
+		],
+		"warnings": [
+			"Ne descendez pas trop bas si vous ressentez une gêne aux épaules.",
+			"Le banc doit être stable.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou aux poignets."
+		],
+		"techniqueNotes": [
+			"Les coudes pointent vers l’arrière, pas sur les côtés.",
+			"Ne remontez pas les épaules vers les oreilles."
+		]
+	},
+	"bulgarian-split-squat": {
+		"name": "Squat bulgare",
+		"description": "Squat sur une jambe, l’autre pied posé sur un banc derrière vous. Sollicite fortement les fessiers et les cuisses.",
+		"steps": [
+			"Placez-vous dos au banc et posez le dessus du pied d’une jambe dessus.",
+			"Descendez en fléchissant la jambe avant.",
+			"Remontez en poussant avec le talon de la jambe avant.",
+			"Faites toutes les répétitions, puis changez de jambe."
+		],
+		"warnings": [
+			"Le banc doit être stable ; réglez la distance pour que le genou ne dépasse pas le pied.",
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux hanches."
+		],
+		"techniqueNotes": [
+			"Le buste est légèrement penché vers l’avant.",
+			"Le poids du corps repose surtout sur la jambe avant."
+		]
+	},
+	"bench-hip-thrust": {
+		"name": "Hip thrust sur banc",
+		"description": "Montée du bassin avec les omoplates en appui sur un banc. Exercice de référence pour les fessiers.",
+		"steps": [
+			"Asseyez-vous au sol, dos contre le banc, omoplates au bord du banc.",
+			"Fléchissez les genoux, pieds au sol.",
+			"Montez le bassin jusqu’à ce que le tronc et les cuisses soient alignés.",
+			"Marquez une courte pause, puis redescendez."
+		],
+		"warnings": [
+			"Le banc doit être immobile, de préférence contre un mur.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Le menton est légèrement rentré vers la poitrine.",
+			"Ne cambrez pas le bas du dos en haut du mouvement."
+		]
+	},
+	"chest-supported-dumbbell-row": {
+		"name": "Rowing haltères buste appuyé sur banc",
+		"description": "Tirage d’haltères, allongé sur le ventre sur un banc incliné. Décharge le bas du dos et concentre l’effort sur le dos.",
+		"steps": [
+			"Allongez-vous poitrine contre le banc, un haltère dans chaque main.",
+			"Tirez les haltères vers les côtés du tronc en rapprochant les omoplates.",
+			"Marquez une courte pause.",
+			"Redescendez les haltères de façon contrôlée."
+		],
+		"warnings": [
+			"Le banc doit être stable.",
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"La tête prolonge la ligne de la colonne.",
+			"Ne balancez pas le buste."
+		]
+	},
+	"kettlebell-single-arm-row": {
+		"name": "Rowing kettlebell à un bras",
+		"description": "Tirage du kettlebell, buste penché, l’autre main en appui. Renforce le dos et les biceps.",
+		"steps": [
+			"Penchez-vous en avant, dos droit, la main libre en appui sur la cuisse.",
+			"Prenez le kettlebell de l’autre main.",
+			"Tirez le kettlebell vers la taille en rapprochant l’omoplate.",
+			"Redescendez lentement le kettlebell."
+		],
+		"warnings": [
+			"Gardez le dos droit.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Le coude se déplace le long du tronc.",
+			"Le regard est dirigé vers le sol."
+		]
+	},
+	"kettlebell-overhead-press": {
+		"name": "Développé kettlebell au-dessus de la tête",
+		"description": "Poussée du kettlebell debout, à un bras. Renforce les épaules, les triceps et le tronc.",
+		"steps": [
+			"Amenez le kettlebell à l’épaule, coude plaqué contre le buste.",
+			"Contractez les abdominaux et les fessiers.",
+			"Tendez le bras vers le haut au-dessus de la tête.",
+			"Ramenez lentement le kettlebell à l’épaule."
+		],
+		"warnings": [
+			"Assurez-vous d’avoir assez de place au-dessus de vous.",
+			"Arrêtez l’exercice en cas de douleur aux épaules, au cou ou au bas du dos."
+		],
+		"techniqueNotes": [
+			"Ne creusez pas le bas du dos.",
+			"Le poignet est droit, le kettlebell repose sur l’avant-bras."
+		]
+	},
+	"kettlebell-halo": {
+		"name": "Halo au kettlebell",
+		"description": "Mouvement circulaire du kettlebell autour de la tête. Échauffe les épaules et travaille la stabilité du tronc.",
+		"steps": [
+			"Tenez-vous droit, kettlebell retourné (fond vers le haut) contre la poitrine.",
+			"Faites passer le kettlebell autour de la tête dans un sens.",
+			"Ramenez-le contre la poitrine.",
+			"Recommencez dans l’autre sens."
+		],
+		"warnings": [
+			"Utilisez un kettlebell léger.",
+			"Tenez-le fermement pour ne pas vous frapper.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au cou."
+		],
+		"techniqueNotes": [
+			"Le tronc reste immobile, seuls les bras travaillent.",
+			"Les coudes restent près de la tête."
+		]
+	},
+	"kettlebell-sumo-deadlift": {
+		"name": "Soulevé de terre sumo au kettlebell",
+		"description": "Soulevé du kettlebell avec un écart de jambes large. Sollicite les fessiers et l’intérieur des cuisses.",
+		"steps": [
+			"Placez-vous jambes écartées, pointes de pieds vers l’extérieur, kettlebell entre les pieds.",
+			"Poussez le bassin vers l’arrière et saisissez le kettlebell.",
+			"Redressez-vous en poussant le sol avec les jambes.",
+			"Reposez lentement le kettlebell."
+		],
+		"warnings": [
+			"N’arrondissez pas le dos.",
+			"Arrêtez l’exercice en cas de douleur lombaire ou aux hanches."
+		],
+		"techniqueNotes": [
+			"Les genoux vont dans l’axe des orteils.",
+			"Le dos reste droit pendant tout le mouvement."
+		]
+	},
+	"kettlebell-reverse-lunge": {
+		"name": "Fente arrière au kettlebell",
+		"description": "Fente arrière avec un kettlebell contre la poitrine. Ajoute de la charge pour les jambes et les fessiers.",
+		"steps": [
+			"Tenez le kettlebell contre la poitrine à deux mains.",
+			"Faites un pas en arrière et descendez en fente.",
+			"Poussez avec la jambe avant et revenez.",
+			"Changez de jambe."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Buste vertical.",
+			"Le talon avant reste plaqué au sol."
+		]
+	},
+	"band-squat": {
+		"name": "Squat avec élastique",
+		"description": "Squat avec un élastique sous les pieds. L’élastique ajoute de la résistance à la remontée.",
+		"steps": [
+			"Placez-vous debout sur le milieu de l’élastique, extrémités tenues à hauteur des épaules.",
+			"Descendez en squat en poussant le bassin vers l’arrière.",
+			"Remontez en tendant les jambes.",
+			"Ne relâchez pas l’élastique brusquement."
+		],
+		"warnings": [
+			"Vérifiez que l’élastique n’est pas abîmé.",
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Les genoux vont dans l’axe des orteils.",
+			"Dos droit."
+		]
+	},
+	"band-chest-press": {
+		"name": "Développé couché avec élastique",
+		"description": "Poussée de l’élastique devant soi, debout. Travaille les pectoraux et les triceps sans haltères.",
+		"steps": [
+			"Passez l’élastique dans le dos, sous les omoplates, extrémités dans les mains.",
+			"Fléchissez les coudes, mains à hauteur de la poitrine.",
+			"Tendez les bras vers l’avant.",
+			"Revenez lentement."
+		],
+		"warnings": [
+			"Vérifiez que l’élastique n’est pas abîmé et qu’il est bien en place dans le dos.",
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Les coudes sont un peu sous le niveau des épaules.",
+			"Le buste reste immobile."
+		]
+	},
+	"band-overhead-press": {
+		"name": "Développé épaules avec élastique",
+		"description": "Poussée de l’élastique vers le haut, debout dessus. Renforce les épaules et les triceps.",
+		"steps": [
+			"Placez-vous debout sur l’élastique, extrémités tenues à hauteur des épaules.",
+			"Tendez les bras vers le haut au-dessus de la tête.",
+			"Redescendez-les lentement jusqu’aux épaules.",
+			"Ne creusez pas le bas du dos."
+		],
+		"warnings": [
+			"Assurez-vous d’avoir assez de place au-dessus de vous.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au cou."
+		],
+		"techniqueNotes": [
+			"Abdominaux contractés.",
+			"Les bras se déplacent à la verticale."
+		]
+	},
+	"band-good-morning": {
+		"name": "Good morning avec élastique",
+		"description": "Flexion du buste, dos droit, élastique sur les épaules et sous les pieds. Apprend le mouvement de charnière de hanche.",
+		"steps": [
+			"Placez-vous debout sur l’élastique et posez l’autre extrémité sur les épaules.",
+			"Poussez le bassin vers l’arrière en penchant le buste, dos droit.",
+			"Descendez jusqu’à sentir l’étirement de l’arrière des cuisses.",
+			"Redressez-vous en poussant le bassin vers l’avant."
+		],
+		"warnings": [
+			"N’arrondissez pas le dos.",
+			"Vérifiez que l’élastique est bien fixé.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Genoux légèrement fléchis.",
+			"Le regard est dirigé vers le bas et l’avant."
+		]
+	},
+	"band-bicep-curl": {
+		"name": "Curl biceps avec élastique",
+		"description": "Flexion des bras pour les biceps avec la résistance d’un élastique.",
+		"steps": [
+			"Placez-vous debout sur l’élastique, extrémités dans les mains, paumes vers l’avant.",
+			"Fléchissez les coudes en montant les mains vers les épaules.",
+			"Marquez une courte pause.",
+			"Redescendez lentement les bras."
+		],
+		"warnings": [
+			"Vérifiez que l’élastique n’est pas abîmé."
+		],
+		"techniqueNotes": [
+			"Coudes plaqués contre les côtés.",
+			"Le buste ne se balance pas."
+		]
+	},
+	"scapular-pull-up": {
+		"name": "Tractions scapulaires",
+		"description": "Montée et descente des omoplates en suspension, sans fléchir les bras. Prépare les épaules aux tractions.",
+		"steps": [
+			"Suspendez-vous à la barre, bras tendus.",
+			"Abaissez les épaules et rapprochez les omoplates, ce qui soulève le corps de quelques centimètres.",
+			"Revenez lentement en suspension.",
+			"Ne fléchissez pas les coudes."
+		],
+		"warnings": [
+			"Utilisez uniquement une barre solidement installée.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou aux poignets."
+		],
+		"techniqueNotes": [
+			"Le mouvement est petit, uniquement au niveau des omoplates.",
+			"Le corps ne se balance pas."
+		]
+	},
+	"negative-pull-up": {
+		"name": "Tractions négatives",
+		"description": "Descente lente depuis la position haute de la traction. Aide à apprendre à faire des tractions.",
+		"steps": [
+			"Montez sur une chaise et saisissez la barre, menton au-dessus.",
+			"Retirez l’appui.",
+			"Descendez lentement jusqu’à ce que les bras soient tendus (3–5 secondes).",
+			"Remontez sur la chaise et répétez."
+		],
+		"warnings": [
+			"Utilisez uniquement une barre solidement installée.",
+			"Utilisez une chaise pour atteindre la position haute.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou aux poignets."
+		],
+		"techniqueNotes": [
+			"Descendez de façon contrôlée, sans vous laisser tomber.",
+			"Les omoplates restent abaissées."
+		]
+	},
+	"chin-up": {
+		"name": "Tractions en supination",
+		"description": "Tractions avec les paumes vers soi. Sollicitent davantage les biceps que les tractions classiques.",
+		"steps": [
+			"Saisissez la barre en supination, mains à la largeur des épaules.",
+			"Tirez-vous jusqu’à ce que le menton passe au-dessus de la barre.",
+			"Marquez une courte pause.",
+			"Redescendez lentement en suspension."
+		],
+		"warnings": [
+			"Utilisez uniquement une barre solidement installée.",
+			"Arrêtez l’exercice en cas de douleur aux épaules, aux coudes ou aux poignets."
+		],
+		"techniqueNotes": [
+			"Ne vous balancez pas.",
+			"Les coudes descendent vers le bas et vers le tronc."
+		]
+	},
+	"hanging-leg-raise": {
+		"name": "Relevés de jambes tendues suspendu",
+		"description": "Montée des jambes tendues en suspension à la barre. Version plus difficile pour les abdominaux.",
+		"steps": [
+			"Suspendez-vous à la barre.",
+			"Contractez les abdominaux et montez les jambes tendues à hauteur du bassin.",
+			"Marquez une courte pause.",
+			"Redescendez lentement les jambes."
+		],
+		"warnings": [
+			"Utilisez uniquement une barre solidement installée.",
+			"Ne vous balancez pas, montez les jambes lentement.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au bas du dos."
+		],
+		"techniqueNotes": [
+			"Le bassin est légèrement basculé vers l’arrière.",
+			"Sans balancement du corps."
+		]
+	},
+	"dumbbell-lateral-raise": {
+		"name": "Élévations latérales aux haltères",
+		"description": "Levée des haltères sur les côtés jusqu’à hauteur des épaules. Développe les faisceaux moyens des deltoïdes.",
+		"steps": [
+			"Tenez-vous droit, haltères le long du corps.",
+			"Fléchissez légèrement les coudes et levez les bras sur les côtés jusqu’à hauteur des épaules.",
+			"Redescendez lentement les bras.",
+			"Ne remontez pas les épaules vers les oreilles."
+		],
+		"warnings": [
+			"Choisissez des haltères légers.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au cou."
+		],
+		"techniqueNotes": [
+			"Les coudes sont un peu plus hauts que les mains.",
+			"Le buste reste immobile."
+		]
+	},
+	"dumbbell-bicep-curl": {
+		"name": "Curl biceps aux haltères",
+		"description": "Curl classique pour les biceps, debout.",
+		"steps": [
+			"Tenez-vous droit, haltères dans les mains, bras le long du corps, paumes vers l’avant.",
+			"Fléchissez les coudes en montant les haltères vers les épaules.",
+			"Marquez une courte pause.",
+			"Redescendez lentement les haltères."
+		],
+		"warnings": [
+			"Choisissez une charge qui ne vous oblige pas à balancer le buste."
+		],
+		"techniqueNotes": [
+			"Coudes plaqués contre les côtés.",
+			"Ne vous penchez pas en arrière."
+		]
+	},
+	"dumbbell-overhead-triceps-extension": {
+		"name": "Extension triceps à l’haltère derrière la tête",
+		"description": "Extension des bras avec un haltère derrière la tête. Isole les triceps.",
+		"steps": [
+			"Tenez-vous droit, haltère tenu à deux mains au-dessus de la tête.",
+			"Fléchissez les coudes en descendant l’haltère derrière la tête.",
+			"Tendez les bras vers le haut.",
+			"Gardez les coudes près de la tête."
+		],
+		"warnings": [
+			"Tenez l’haltère à deux mains.",
+			"Arrêtez l’exercice en cas de douleur aux épaules, aux coudes ou au cou."
+		],
+		"techniqueNotes": [
+			"Les coudes ne s’écartent pas sur les côtés.",
+			"Abdominaux contractés."
+		]
+	},
+	"dumbbell-sumo-squat": {
+		"name": "Squat sumo à l’haltère",
+		"description": "Squat avec un écart de jambes large et un haltère entre les jambes. Accent sur les fessiers et l’intérieur des cuisses.",
+		"steps": [
+			"Placez-vous jambes écartées, pointes de pieds vers l’extérieur, haltère tenu à deux mains devant vous, bras tendus vers le bas.",
+			"Descendez en squat, genoux dans l’axe des orteils.",
+			"Remontez en poussant le sol avec les jambes.",
+			"Gardez le buste vertical."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux hanches."
+		],
+		"techniqueNotes": [
+			"Dos droit.",
+			"Les genoux ne rentrent pas vers l’intérieur."
+		]
+	},
+	"dumbbell-glute-bridge": {
+		"name": "Pont fessier avec haltère",
+		"description": "Pont fessier avec un haltère posé sur le bassin. Ajoute de la charge pour les fessiers.",
+		"steps": [
+			"Allongez-vous sur le dos, genoux fléchis, haltère sur le bassin.",
+			"Montez le bassin pour aligner le corps.",
+			"Marquez une courte pause.",
+			"Redescendez lentement."
+		],
+		"warnings": [
+			"Tenez bien l’haltère.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Ne cambrez pas le bas du dos.",
+			"Les talons restent plaqués au sol."
+		]
+	},
+	"dumbbell-bent-over-row": {
+		"name": "Rowing buste penché aux haltères",
+		"description": "Tirage de deux haltères vers la taille, buste penché. Renforce le dos et les biceps.",
+		"steps": [
+			"Penchez-vous en avant, dos droit, haltères dans les mains, bras tendus vers le bas.",
+			"Tirez les haltères vers les côtés en rapprochant les omoplates.",
+			"Marquez une courte pause.",
+			"Redescendez lentement les haltères."
+		],
+		"warnings": [
+			"Gardez le dos droit.",
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Genoux légèrement fléchis.",
+			"Menez les coudes le long du tronc."
+		]
+	},
+	"towel-row": {
+		"name": "Rowing à la serviette",
+		"description": "Tirage du corps avec une serviette fixée à un support solide. Travaille les muscles du dos et les biceps sans matériel.",
+		"steps": [
+			"Passez une serviette solide autour d’un support stable à hauteur de la taille et saisissez les deux extrémités.",
+			"Penchez-vous en arrière, bras tendus, pieds plus près du support.",
+			"Tirez la poitrine vers les mains en menant les coudes vers l’arrière.",
+			"Tendez lentement les bras et revenez à la position de départ."
+		],
+		"warnings": [
+			"Fixez la serviette uniquement à un support solide : colonne stable, rampe ou poignée d’une porte fermée qui s’ouvre à l’opposé de vous.",
+			"Vérifiez que la serviette est solide et ne glisse pas de vos mains."
+		],
+		"techniqueNotes": [
+			"Gardez le corps droit de la tête aux talons.",
+			"Plus les pieds sont proches du support, plus l’exercice est difficile."
+		]
+	},
+	"inverted-table-row": {
+		"name": "Rowing sous une table",
+		"description": "Traction horizontale, allongé sous une table solide. Travaille les muscles du dos, les biceps et les deltoïdes postérieurs.",
+		"steps": [
+			"Allongez-vous sur le dos sous la table, la poitrine sous le bord du plateau.",
+			"Saisissez le bord du plateau, mains à la largeur des épaules.",
+			"Contractez les abdominaux et les fessiers, tirez la poitrine vers le bord de la table.",
+			"Redescendez lentement en tendant complètement les bras."
+		],
+		"warnings": [
+			"Utilisez uniquement une table lourde et stable, qui ne basculera pas et supportera votre poids.",
+			"Saisissez le bord du plateau, pas une partie en verre ou fragile."
+		],
+		"techniqueNotes": [
+			"Corps aligné des épaules aux talons, bassin sans affaissement.",
+			"Pour faciliter l’exercice, fléchissez les genoux et posez les pieds au sol."
+		]
+	},
+	"prone-y-t-w-raise": {
+		"name": "Levées de bras Y-T-W sur le ventre",
+		"description": "Levées de bras dans trois positions, allongé sur le ventre. Travaillent le haut du dos et les stabilisateurs des omoplates.",
+		"steps": [
+			"Allongez-vous sur le ventre, front au-dessus du sol, bras tendus vers l’avant.",
+			"Levez les bras en forme de Y, marquez une seconde de pause et redescendez.",
+			"Écartez les bras sur les côtés en forme de T, levez-les et redescendez.",
+			"Fléchissez les coudes en forme de W, rapprochez les omoplates, levez et redescendez les bras. Cela fait une répétition."
+		],
+		"warnings": [
+			"Ne rejetez pas la tête en arrière.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au cou."
+		],
+		"techniqueNotes": [
+			"Le mouvement part des omoplates, pas du bas du dos.",
+			"Les pouces pointent vers le haut."
+		]
+	},
+	"reverse-snow-angel": {
+		"name": "Snow angel inversé",
+		"description": "Mouvement fluide des bras des hanches vers la tête, allongé sur le ventre. Travaille le haut du dos et la mobilité des épaules.",
+		"steps": [
+			"Allongez-vous sur le ventre, bras le long du corps, paumes vers les hanches.",
+			"Soulevez les bras au-dessus du sol et rapprochez les omoplates.",
+			"Faites passer lentement les bras en arc de cercle sur les côtés jusqu’à la tête.",
+			"Ramenez les bras vers les hanches par le même chemin, sans toucher le sol."
+		],
+		"warnings": [
+			"Ne rejetez pas la tête en arrière.",
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au cou."
+		],
+		"techniqueNotes": [
+			"Gardez les bras en permanence un peu au-dessus du sol.",
+			"Ne cambrez pas le bas du dos, fessiers contractés."
+		]
+	},
+	"leg-press": {
+		"name": "Presse à cuisses",
+		"description": "Poussée d’une plateforme avec les jambes, assis. Travaille les quadriceps et les fessiers sans charger la colonne, pratique pour les débutants.",
+		"steps": [
+			"Asseyez-vous dans la machine, bas du dos contre le dossier, pieds sur la plateforme à la largeur des épaules.",
+			"Retirez les sécurités et fléchissez lentement les genoux jusqu’à une profondeur confortable.",
+			"En expirant, tendez les jambes sans verrouiller complètement les genoux.",
+			"Remettez les sécurités en place à la fin de la série."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Le bas du dos ne décolle pas du dossier.",
+			"Les genoux vont dans l’axe des orteils."
+		]
+	},
+	"machine-chest-press": {
+		"name": "Développé couché à la machine",
+		"description": "Poussée des poignées depuis la poitrine, assis. Apprend le mouvement de poussée en sécurité et travaille les pectoraux, les épaules et les triceps.",
+		"steps": [
+			"Réglez le siège pour que les poignées soient à hauteur du milieu de la poitrine.",
+			"Saisissez les poignées et plaquez les omoplates contre le dossier.",
+			"En expirant, tendez les bras vers l’avant sans verrouiller complètement les coudes.",
+			"Ramenez lentement les poignées en sentant l’étirement des pectoraux."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Les épaules ne montent pas vers les oreilles."
+		]
+	},
+	"machine-shoulder-press": {
+		"name": "Développé épaules à la machine",
+		"description": "Poussée verticale, assis dans la machine. Travaille les épaules et les triceps avec un appui pour le dos.",
+		"steps": [
+			"Réglez le siège pour que les poignées soient à hauteur des épaules.",
+			"Plaquez le dos contre le dossier et saisissez les poignées.",
+			"En expirant, tendez les bras vers le haut.",
+			"Redescendez lentement les poignées à hauteur des épaules."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Ne creusez pas le bas du dos."
+		]
+	},
+	"seated-cable-row": {
+		"name": "Rowing à la poulie basse, assis",
+		"description": "Tirage horizontal de la poignée de la poulie. Travaille le dos et les deltoïdes postérieurs, et apprend à rapprocher les omoplates.",
+		"steps": [
+			"Asseyez-vous, posez les pieds sur les appuis et saisissez la poignée en gardant le dos droit.",
+			"Tirez la poignée vers le ventre en rapprochant les omoplates.",
+			"Marquez une pause en position finale.",
+			"Ramenez lentement les bras vers l’avant sans arrondir le dos."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Le buste reste presque immobile.",
+			"Les coudes se déplacent le long du corps."
+		]
+	},
+	"lat-pulldown-machine": {
+		"name": "Tirage vertical à la poulie haute",
+		"description": "Tirage d’une barre large vers la poitrine, assis. Prépare aux tractions et travaille les grands dorsaux.",
+		"steps": [
+			"Bloquez les cuisses sous les rouleaux et saisissez la barre plus large que les épaules.",
+			"Penchez-vous légèrement en arrière et tirez la barre vers le haut de la poitrine.",
+			"Rapprochez les omoplates et marquez une courte pause.",
+			"Ramenez lentement la barre vers le haut."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Tirez avec les coudes, pas avec les mains."
+		]
+	},
+	"leg-curl-machine": {
+		"name": "Leg curl à la machine",
+		"description": "Flexion isolée des jambes, allongé ou assis. Travaille l’arrière des cuisses.",
+		"steps": [
+			"Réglez le rouleau pour qu’il se place au-dessus des talons.",
+			"En expirant, fléchissez les jambes en ramenant les talons vers les fessiers.",
+			"Marquez une courte pause en haut.",
+			"Tendez lentement les jambes."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Le bassin ne décolle pas du banc."
+		]
+	},
+	"leg-extension-machine": {
+		"name": "Leg extension à la machine",
+		"description": "Extension isolée des jambes, assis. Travaille les quadriceps.",
+		"steps": [
+			"Réglez le dossier et placez le rouleau au-dessus des chevilles.",
+			"En expirant, tendez les jambes.",
+			"Marquez une courte pause en haut.",
+			"Redescendez lentement les jambes."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Les mouvements sont fluides, sans à-coups."
+		]
+	},
+	"cable-triceps-pushdown": {
+		"name": "Extension triceps à la poulie",
+		"description": "Extension des bras vers le bas à la poulie haute. Travaille les triceps de façon isolée.",
+		"steps": [
+			"Placez-vous face à la poulie, saisissez la poignée, coudes plaqués contre les côtés.",
+			"En expirant, tendez les bras vers le bas.",
+			"Marquez une courte pause en bas.",
+			"Ramenez lentement la poignée à hauteur de la poitrine."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Les coudes ne bougent pas."
+		]
+	},
+	"cable-biceps-curl": {
+		"name": "Curl biceps à la poulie basse",
+		"description": "Flexion des bras, debout près de la poulie basse. Travaille les biceps de façon isolée.",
+		"steps": [
+			"Placez-vous face à la poulie basse, saisissez la poignée paumes vers le haut.",
+			"En expirant, fléchissez les bras vers les épaules.",
+			"Marquez une courte pause en haut.",
+			"Tendez lentement les bras."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Coudes plaqués contre les côtés, buste immobile."
+		]
+	},
+	"cable-face-pull": {
+		"name": "Face pull à la corde",
+		"description": "Tirage d’une corde vers le visage. Renforce les deltoïdes postérieurs et les muscles entre les omoplates, utile pour la posture.",
+		"steps": [
+			"Fixez la corde à la poulie à hauteur du visage et reculez d’un pas.",
+			"Tirez la corde vers le visage en écartant les coudes sur les côtés.",
+			"Rapprochez les omoplates et marquez une courte pause.",
+			"Ramenez lentement les bras vers l’avant."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"La charge est légère, le mouvement contrôlé."
+		]
+	},
+	"cable-woodchop": {
+		"name": "Woodchop à la poulie",
+		"description": "Rotation diagonale du tronc avec la poignée de la poulie. Travaille les obliques et apprend à transmettre la force à travers le tronc.",
+		"steps": [
+			"Placez-vous de côté par rapport à la poulie, saisissez la poignée à deux mains.",
+			"Tirez la poignée en diagonale vers le bas en tournant le tronc.",
+			"Gardez les bras presque tendus et tournez avec la cage thoracique.",
+			"Ramenez lentement la poignée et répétez, puis changez de côté."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Faites bouger le tronc, pas seulement les bras."
+		]
+	},
+	"barbell-bench-press": {
+		"name": "Développé couché à la barre",
+		"description": "Développé classique à la barre sur un banc plat. Exercice de base pour les pectoraux, les épaules et les triceps.",
+		"steps": [
+			"Allongez-vous sur le banc, pieds au sol, omoplates rapprochées, yeux sous la barre.",
+			"Dégagez la barre et descendez-la au milieu de la poitrine.",
+			"En expirant, poussez la barre vers le haut jusqu’à tendre les bras.",
+			"Reposez la barre sur le support une fois la série terminée."
+		],
+		"warnings": [
+			"Ne poussez pas de barre sans pareur en salle et arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Faites-vous parer ou utilisez les sécurités.",
+			"Poignets au-dessus des coudes."
+		]
+	},
+	"barbell-bent-over-row": {
+		"name": "Rowing barre buste penché",
+		"description": "Tirage de la barre vers le ventre, buste penché. Travaille tout le dos, les deltoïdes postérieurs et les biceps.",
+		"steps": [
+			"Placez-vous debout, pieds à la largeur des épaules, saisissez la barre un peu plus large que les épaules.",
+			"Penchez-vous en avant, dos droit, genoux légèrement fléchis.",
+			"Tirez la barre vers le bas du ventre.",
+			"Redescendez lentement la barre sans arrondir le dos."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Le dos reste droit pendant tout le mouvement."
+		]
+	},
+	"barbell-overhead-press": {
+		"name": "Développé militaire à la barre",
+		"description": "Poussée de la barre au-dessus de la tête, debout. Développe la force des épaules et du haut du dos, et demande un tronc stable.",
+		"steps": [
+			"Prenez la barre à hauteur des clavicules, mains un peu plus larges que les épaules.",
+			"Contractez les abdominaux et les fessiers ; en expirant, poussez la barre vers le haut.",
+			"En fin de mouvement, la tête avance légèrement et la barre est au-dessus du milieu des pieds.",
+			"Redescendez lentement la barre jusqu’aux clavicules."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux épaules ou au bas du dos."
+		],
+		"techniqueNotes": [
+			"Ne creusez pas le bas du dos."
+		]
+	},
+	"barbell-romanian-deadlift": {
+		"name": "Soulevé de terre roumain à la barre",
+		"description": "Soulevé de terre à jambes presque tendues. Travaille l’arrière des cuisses et les fessiers, et apprend le mouvement avec recul du bassin.",
+		"steps": [
+			"Tenez-vous debout avec la barre dans les mains, genoux légèrement fléchis.",
+			"Poussez le bassin vers l’arrière en faisant glisser la barre le long des jambes.",
+			"Descendez-la sous les genoux en gardant le dos droit.",
+			"En expirant, revenez à la position de départ en poussant le bassin vers l’avant."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur lombaire."
+		],
+		"techniqueNotes": [
+			"Le mouvement vient du bassin, pas du dos."
+		]
+	},
+	"treadmill-incline-walk": {
+		"name": "Marche en pente sur tapis",
+		"description": "Marche rapide sur un tapis de course incliné. Effort cardio sans impact pour l’endurance et les jambes.",
+		"steps": [
+			"Réglez une pente de 4–8 % et une vitesse de marche rapide confortable.",
+			"Gardez le buste droit, sans vous appuyer sur les barres.",
+			"Marchez à rythme régulier le temps nécessaire.",
+			"À la fin, réduisez la vitesse et la pente pour récupérer."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"La respiration reste régulière, vous pouvez parler par phrases courtes."
+		]
+	},
+	"easy-run-intervals": {
+		"name": "Course facile par intervalles",
+		"description": "Alternance de course tranquille et de marche. Développe l’endurance du cœur et de la respiration sans effort brutal.",
+		"steps": [
+			"Échauffez-vous une minute en marchant vite.",
+			"Courez à une allure confortable le temps indiqué.",
+			"Passez à la marche pour récupérer.",
+			"Répétez l’alternance selon le nombre de séries."
+		],
+		"warnings": [
+			"Arrêtez de courir en cas de douleur aux chevilles ou aux genoux."
+		],
+		"techniqueNotes": [
+			"L’allure vous permet de respirer par le nez ou de parler par phrases courtes."
+		]
+	},
+	"sprint-intervals": {
+		"name": "Accélérations de sprint",
+		"description": "Courtes accélérations à pleine vitesse avec récupération complète. Développent la puissance et l’endurance de vitesse.",
+		"steps": [
+			"Échauffez-vous bien et faites quelques accélérations légères.",
+			"Accélérez jusqu’à environ 90 % de votre vitesse maximale.",
+			"Après l’accélération, revenez en marchant et récupérez complètement.",
+			"Répétez selon le nombre de séries."
+		],
+		"warnings": [
+			"Ne faites pas l’exercice sur une surface glissante et arrêtez en cas de douleur aux genoux ou aux chevilles."
+		],
+		"techniqueNotes": [
+			"Penchez le buste vers l’avant et utilisez les bras."
+		]
+	},
+	"brisk-walk-intervals": {
+		"name": "Marche rapide par intervalles",
+		"description": "Alternance de marche rapide et de marche tranquille en plein air. Convient pour débuter et pour récupérer.",
+		"steps": [
+			"Marchez tranquillement une minute pour vous échauffer.",
+			"Marchez vite en balançant les bras fléchis.",
+			"Passez à un pas tranquille pour récupérer.",
+			"Répétez l’alternance."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Pas rapide : la respiration s’accélère, mais vous pouvez parler."
+		]
+	},
+	"walking-lunge": {
+		"name": "Fentes marchées",
+		"description": "Fentes avec progression vers l’avant. Travaillent les jambes et les fessiers et apprennent l’équilibre.",
+		"steps": [
+			"Tenez-vous droit, mains sur les hanches ou le long du corps.",
+			"Faites un grand pas en avant et descendez en fléchissant les deux genoux à 90°.",
+			"Poussez avec la jambe avant et ramenez la jambe arrière à hauteur de la jambe avant.",
+			"Continuez en alternant les jambes."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Le genou avant reste au-dessus de la cheville."
+		]
+	},
+	"bear-crawl": {
+		"name": "Marche de l’ours",
+		"description": "Déplacement à quatre appuis, genoux décollés du sol. Renforce les épaules, le tronc et les jambes, et développe la coordination.",
+		"steps": [
+			"Placez-vous sur les mains et les pieds, genoux à 5 cm du sol.",
+			"Avancez en même temps le bras et la jambe opposés.",
+			"Gardez le dos droit et le bassin bas.",
+			"Avancez le temps indiqué, puis revenez en marche arrière."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux poignets."
+		],
+		"techniqueNotes": [
+			"Les mouvements sont lents et contrôlés."
+		]
+	},
+	"broad-jump": {
+		"name": "Saut en longueur sans élan",
+		"description": "Saut explosif vers l’avant à pieds joints. Développe la puissance des jambes et la coordination.",
+		"steps": [
+			"Placez-vous debout, pieds à la largeur des épaules, bras en arrière.",
+			"Poussez en balançant les bras vers l’avant et sautez le plus loin possible.",
+			"Réceptionnez-vous en douceur, genoux fléchis.",
+			"Stabilisez-vous, retrouvez l’équilibre et recommencez."
+		],
+		"warnings": [
+			"Ne faites pas l’exercice sur une surface glissante et arrêtez en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Réception douce sur toute la plante du pied."
+		]
+	},
+	"skater-jumps": {
+		"name": "Sauts de patineur",
+		"description": "Sauts latéraux d’une jambe sur l’autre. Travaillent l’équilibre, les jambes et l’endurance.",
+		"steps": [
+			"Tenez-vous sur une jambe, l’autre ramenée vers l’arrière.",
+			"Sautez sur le côté sur l’autre jambe en balançant les bras.",
+			"Marquez une courte pause en gardant l’équilibre.",
+			"Sautez en sens inverse et poursuivez le temps indiqué."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux ou aux chevilles."
+		],
+		"techniqueNotes": [
+			"Réception douce, genou derrière la pointe du pied."
+		]
+	},
+	"shuttle-run": {
+		"name": "Course navette",
+		"description": "Course entre deux points avec changement de direction. Développe la vitesse de réaction et l’endurance.",
+		"steps": [
+			"Marquez deux points à 3 m l’un de l’autre.",
+			"Courez jusqu’au second point et touchez le sol avec la main.",
+			"Retournez-vous vite et courez en sens inverse.",
+			"Répétez le temps indiqué."
+		],
+		"warnings": [
+			"Ne faites pas l’exercice sur une surface glissante."
+		],
+		"techniqueNotes": [
+			"Retournez-vous en fléchissant les genoux, sans croiser les jambes."
+		]
+	},
+	"stair-climb": {
+		"name": "Montée d’escaliers",
+		"description": "Montée rapide d’escaliers ou d’une pente raide. Cardio et travail des jambes et des fessiers.",
+		"steps": [
+			"Placez-vous au pied des escaliers ou de la pente.",
+			"Montez d’un pas rapide en posant tout le pied sur la marche.",
+			"Montez le temps indiqué, puis redescendez lentement.",
+			"Répétez selon le nombre de séries."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Descendez calmement, tenez-vous à la rampe si nécessaire."
+		]
+	},
+	"park-bench-step-up": {
+		"name": "Montée sur banc de parc",
+		"description": "Montée sur un banc stable, sur une jambe. Travaille les quadriceps et les fessiers.",
+		"steps": [
+			"Vérifiez que le banc est stable et placez-vous devant.",
+			"Posez un pied sur le banc et montez en tendant la jambe.",
+			"Redescendez lentement en contrôlant le mouvement.",
+			"Terminez la série et changez de jambe."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux genoux."
+		],
+		"techniqueNotes": [
+			"Poussez avec la jambe sur le banc, sans prendre appui sur le sol."
+		]
+	},
+	"park-bench-incline-push-up": {
+		"name": "Pompes inclinées sur banc",
+		"description": "Pompes avec les mains en appui sur un banc. Variante facilitée pour les pectoraux, les épaules et les triceps.",
+		"steps": [
+			"Posez les mains sur le bord d’un banc stable, corps en ligne droite.",
+			"Fléchissez les coudes et descendez la poitrine vers le banc.",
+			"En expirant, poussez jusqu’à tendre les bras.",
+			"Gardez le tronc gainé pendant tout le mouvement."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux poignets."
+		],
+		"techniqueNotes": [
+			"Coudes à environ 45° du buste."
+		]
+	},
+	"australian-pull-up": {
+		"name": "Traction australienne",
+		"description": "Traction du corps vers une barre basse, allongé dessous. Travaille le dos et les biceps, plus facile que les tractions.",
+		"steps": [
+			"Placez-vous sous une barre basse et solide et saisissez-la, mains plus larges que les épaules.",
+			"Alignez le corps en ligne droite, talons au sol.",
+			"Tirez la poitrine vers la barre en rapprochant les omoplates.",
+			"Redescendez lentement jusqu’à avoir les bras presque tendus."
+		],
+		"warnings": [
+			"Assurez-vous que la barre est solide et arrêtez l’exercice en cas de douleur aux épaules."
+		],
+		"techniqueNotes": [
+			"Le corps reste droit, le bassin ne s’affaisse pas."
+		]
+	},
+	"outdoor-plank-shoulder-taps": {
+		"name": "Planche avec touches d’épaule",
+		"description": "Planche avec touches alternées de l’épaule. Travaille le tronc et la stabilité des épaules.",
+		"steps": [
+			"Prenez la position de planche haute, pieds un peu plus larges que les épaules.",
+			"Touchez l’épaule gauche avec la main droite sans balancer le bassin.",
+			"Reposez la main et touchez avec l’autre.",
+			"Poursuivez l’alternance le temps indiqué."
+		],
+		"warnings": [
+			"Arrêtez l’exercice en cas de douleur aux poignets."
+		],
+		"techniqueNotes": [
+			"Le bassin ne bouge presque pas."
+		]
+	}
+}

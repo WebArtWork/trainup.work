@@ -1,6 +1,6 @@
 import { Component, computed, inject, input, signal } from '@angular/core';
 import type { Exercise } from '@trainup/planner';
-import { shownTrainer, trainerImage } from '../../feature/trainer/trainer.interface';
+import { exerciseTrainers, shownTrainer, Trainer, trainerImage } from '../../feature/trainer/trainer.interface';
 import { TrainerService } from '../../feature/trainer/trainer.service';
 
 /** Exercise picture for the chosen trainer, with a placeholder when the file is missing. */
@@ -36,12 +36,17 @@ export class ExerciseImageComponent {
 	readonly exercise = input.required<Exercise>();
 	readonly alt = input('');
 	readonly lazy = input(false);
+	/** Show this trainer's picture when the exercise has it, instead of the chosen one. */
+	readonly trainer = input<Trainer | null>(null);
 	readonly iconClass = input('text-[44px]');
 
 	protected readonly failed = signal<string | null>(null);
 	protected readonly src = computed(() => {
 		const exercise = this.exercise();
-		const url = trainerImage(exercise, shownTrainer(exercise, this._trainer.choice()));
+		const own = this.trainer();
+		const trainers = exerciseTrainers(exercise);
+		const who = own && trainers.includes(own) ? own : shownTrainer(exercise, this._trainer.choice());
+		const url = trainerImage(exercise, who);
 
 		return url && url !== this.failed() ? url : null;
 	});

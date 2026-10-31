@@ -1,0 +1,1938 @@
+{
+	"bodyweight-squat": {
+		"name": "Agachamento com peso do corpo",
+		"description": "Agachamento básico sem carga. Trabalha os quadríceps e os glúteos e desenvolve o controlo do movimento nos joelhos e nas ancas.",
+		"steps": [
+			"Fique em pé com os pés à largura dos ombros.",
+			"Empurre a anca para trás e flexione os joelhos, descendo.",
+			"Desça até uma profundidade confortável, mantendo as costas direitas.",
+			"Empurre o chão com os pés e volte à posição inicial."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Os joelhos seguem a direção das pontas dos pés.",
+			"Não levante os calcanhares do chão."
+		]
+	},
+	"split-squat": {
+		"name": "Agachamento split",
+		"description": "Agachamento em posição de passada larga. Trabalha os quadríceps e os glúteos de cada perna em separado e melhora o equilíbrio.",
+		"steps": [
+			"Coloque-se em passada larga: uma perna à frente, a outra atrás.",
+			"Desça na vertical, flexionando ambos os joelhos.",
+			"Suba, empurrando com a perna da frente.",
+			"Faça todas as repetições e troque de perna."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Mantenha o tronco vertical.",
+			"O peso do corpo fica sobretudo na perna da frente."
+		]
+	},
+	"reverse-lunge": {
+		"name": "Passada atrás",
+		"description": "Passada com passo atrás. Trabalha os quadríceps e os glúteos e desenvolve o equilíbrio e a coordenação.",
+		"steps": [
+			"Fique em pé, com os pés à largura das ancas.",
+			"Dê um passo atrás e desça, flexionando ambos os joelhos.",
+			"Empurre com a perna da frente e volte à posição inicial.",
+			"Alterne as pernas ou faça todas as repetições para o mesmo lado."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Dê o passo atrás de forma controlada, sem solavancos.",
+			"Mantenha o tronco direito."
+		]
+	},
+	"glute-bridge": {
+		"name": "Ponte de glúteos",
+		"description": "Elevação da anca deitado de costas. Trabalha os glúteos e a parte posterior da coxa.",
+		"steps": [
+			"Deite-se de costas, com os joelhos flexionados e os pés no chão.",
+			"Contraia os glúteos e eleve a anca.",
+			"Mantenha um segundo no ponto mais alto.",
+			"Baixe lentamente a anca até ao chão."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Não arqueie a zona lombar no ponto mais alto.",
+			"Pressione o chão com os calcanhares."
+		]
+	},
+	"single-leg-glute-bridge": {
+		"name": "Ponte de glúteos a uma perna",
+		"description": "Variante mais difícil da ponte de glúteos, com apoio numa só perna. Trabalha os glúteos e a parte posterior da coxa e melhora a estabilidade da anca.",
+		"steps": [
+			"Deite-se de costas, com os joelhos flexionados e os pés no chão.",
+			"Estique uma perna e levante-a do chão.",
+			"Eleve a anca, empurrando com o calcanhar da perna de apoio.",
+			"Desça lentamente; depois da série, troque de perna."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Mantenha a anca nivelada, sem a inclinar para um lado.",
+			"Mova-se devagar e de forma controlada."
+		]
+	},
+	"knee-push-up": {
+		"name": "Flexões com joelhos apoiados",
+		"description": "Variante mais fácil das flexões, com apoio nos joelhos. Trabalha os peitorais e os tríceps.",
+		"steps": [
+			"Ajoelhe-se, com as palmas no chão um pouco mais afastadas do que os ombros.",
+			"Alinhe o corpo dos joelhos à cabeça.",
+			"Flexione os braços e baixe o peito em direção ao chão.",
+			"Empurre o chão e estique os braços."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos pulsos ou nos ombros."
+		],
+		"techniqueNotes": [
+			"Cotovelos num ângulo de cerca de 45° em relação ao tronco.",
+			"Não deixe a zona lombar descair."
+		]
+	},
+	"push-up": {
+		"name": "Flexões",
+		"description": "Flexões clássicas no chão. Trabalham os peitorais, os tríceps e os estabilizadores do tronco.",
+		"steps": [
+			"Assuma a posição de prancha alta, com as palmas um pouco mais afastadas do que os ombros.",
+			"Alinhe o corpo dos calcanhares à cabeça.",
+			"Flexione os braços e baixe o peito em direção ao chão.",
+			"Empurre o chão e estique os braços."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos pulsos ou nos ombros."
+		],
+		"techniqueNotes": [
+			"Mantenha o abdómen e os glúteos contraídos.",
+			"Cotovelos num ângulo de cerca de 45° em relação ao tronco."
+		]
+	},
+	"wall-push-up": {
+		"name": "Flexões na parede",
+		"description": "Variante mais fácil das flexões, com apoio na parede. Trabalha os peitorais e os tríceps com carga mínima.",
+		"steps": [
+			"Fique de frente para a parede, à distância dos braços esticados.",
+			"Apoie as palmas na parede, à altura dos ombros.",
+			"Flexione os braços e aproxime o peito da parede.",
+			"Empurre a parede e volte à posição inicial."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"Mantenha o corpo direito, como uma tábua.",
+			"Quanto mais afastados os pés da parede, mais difícil."
+		]
+	},
+	"pike-push-up": {
+		"name": "Flexões em pike",
+		"description": "Flexões com a anca elevada, que deslocam a carga para os ombros. Trabalham os deltoides e os tríceps.",
+		"steps": [
+			"Assuma a posição de prancha alta e eleve a anca, formando um «V» invertido.",
+			"Flexione os braços e baixe a cabeça em direção ao chão, entre as mãos.",
+			"Empurre o chão e estique os braços.",
+			"Mantenha a anca alta durante toda a série."
+		],
+		"warnings": [
+			"Desça devagar e não apoie a cabeça no chão.",
+			"Pare o exercício se sentir dor nos ombros, nos pulsos ou no pescoço."
+		],
+		"techniqueNotes": [
+			"Os cotovelos apontam para trás, não para os lados.",
+			"Olhe para o chão, entre as mãos."
+		]
+	},
+	"plank": {
+		"name": "Prancha",
+		"description": "Manutenção estática do corpo em apoio nos antebraços. Trabalha os músculos do tronco e a estabilidade do tronco.",
+		"steps": [
+			"Apoie-se nos antebraços, com os cotovelos debaixo dos ombros.",
+			"Estique as pernas e alinhe o corpo dos calcanhares à cabeça.",
+			"Contraia o abdómen e os glúteos.",
+			"Mantenha a posição durante o tempo indicado, respirando de forma regular."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos ombros ou na zona lombar."
+		],
+		"techniqueNotes": [
+			"Não suba nem baixe a anca.",
+			"Não prenda a respiração."
+		]
+	},
+	"side-plank": {
+		"name": "Prancha lateral",
+		"description": "Manutenção estática do corpo de lado, com apoio no antebraço. Trabalha os oblíquos e os estabilizadores do tronco.",
+		"steps": [
+			"Deite-se de lado, com o cotovelo debaixo do ombro.",
+			"Coloque os pés um sobre o outro ou um à frente do outro.",
+			"Eleve a anca, alinhando o corpo.",
+			"Mantenha a posição durante o tempo indicado e depois troque de lado."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor no ombro."
+		],
+		"techniqueNotes": [
+			"Não deixe a anca descair.",
+			"Mantenha o pescoço alinhado com o corpo."
+		]
+	},
+	"dead-bug": {
+		"name": "Dead bug",
+		"description": "Extensão alternada do braço e da perna opostos, deitado de costas. Trabalha os músculos profundos do tronco e o controlo da posição da zona lombar.",
+		"steps": [
+			"Deite-se de costas, com os braços esticados para cima e as pernas flexionadas a 90°.",
+			"Baixe lentamente o braço e a perna opostos em direção ao chão.",
+			"Volte à posição inicial.",
+			"Repita com o outro par de braço e perna."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Pressione a zona lombar contra o chão.",
+			"Mova-se devagar e expire durante a descida."
+		]
+	},
+	"bird-dog": {
+		"name": "Bird dog",
+		"description": "Extensão alternada do braço e da perna opostos, em apoio nos joelhos e nas mãos. Trabalha os músculos do tronco, os glúteos e a coordenação.",
+		"steps": [
+			"Coloque-se em quatro apoios, com as mãos debaixo dos ombros e os joelhos debaixo das ancas.",
+			"Estique ao mesmo tempo um braço para a frente e a perna oposta para trás.",
+			"Mantenha um segundo.",
+			"Volte à posição inicial e troque de lado."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos pulsos."
+		],
+		"techniqueNotes": [
+			"Mantenha as costas direitas, sem arquear.",
+			"A anca permanece paralela ao chão."
+		]
+	},
+	"superman": {
+		"name": "Superman",
+		"description": "Elevação simultânea dos braços e das pernas, deitado de barriga para baixo. Trabalha os músculos das costas e os glúteos.",
+		"steps": [
+			"Deite-se de barriga para baixo, com os braços esticados à frente.",
+			"Levante ligeiramente, ao mesmo tempo, os braços, o peito e as pernas do chão.",
+			"Mantenha 1–2 segundos.",
+			"Desça lentamente."
+		],
+		"warnings": [
+			"Não suba de forma brusca nem demasiado alto.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Olhe para baixo, com o pescoço alinhado com as costas.",
+			"Mova-se com fluidez, sem solavancos."
+		]
+	},
+	"wall-sit": {
+		"name": "Cadeirinha na parede",
+		"description": "Manutenção estática da posição sentada, com as costas na parede. Trabalha os quadríceps e a resistência das pernas.",
+		"steps": [
+			"Encoste as costas à parede, com os pés a cerca de meio metro dela.",
+			"Deslize as costas para baixo até os joelhos ficarem num ângulo confortável.",
+			"Mantenha a posição durante o tempo indicado.",
+			"Suba lentamente."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Os joelhos ficam por cima dos tornozelos, sem ultrapassar as pontas dos pés.",
+			"As costas totalmente encostadas à parede."
+		]
+	},
+	"jumping-jacks": {
+		"name": "Polichinelos",
+		"description": "Saltos com abertura simultânea dos braços e das pernas. Desenvolvem a resistência cardiovascular e aquecem todo o corpo.",
+		"steps": [
+			"Fique em pé, com os pés juntos e os braços ao longo do corpo.",
+			"Com um salto, afaste as pernas e levante os braços acima da cabeça.",
+			"Com outro salto, volte à posição inicial.",
+			"Continue a um ritmo regular durante o tempo indicado."
+		],
+		"warnings": [
+			"Aterre suavemente na parte da frente do pé.",
+			"Pare o exercício se sentir dor nos joelhos ou nos tornozelos."
+		],
+		"techniqueNotes": [
+			"Os joelhos ligeiramente flexionados na aterragem.",
+			"Respire de forma regular."
+		]
+	},
+	"step-jacks": {
+		"name": "Polichinelos com passo",
+		"description": "Variante sem impacto dos polichinelos: passo para o lado com os braços levantados acima da cabeça. Aquece o corpo e eleva a frequência cardíaca sem saltos.",
+		"steps": [
+			"Fique em pé, com os pés juntos e os braços ao longo do corpo.",
+			"Dê um passo para o lado e levante ao mesmo tempo os braços acima da cabeça.",
+			"Junte o pé e baixe os braços.",
+			"Alterne os lados a um ritmo regular."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Mantenha o ritmo para que a frequência cardíaca suba de forma moderada.",
+			"Pise com suavidade."
+		]
+	},
+	"high-knees": {
+		"name": "Corrida com joelhos altos",
+		"description": "Corrida no lugar com elevação alta dos joelhos. Desenvolve a resistência cardiovascular e a velocidade das pernas.",
+		"steps": [
+			"Fique em pé, com os pés à largura das ancas.",
+			"Comece a correr no lugar, levantando os joelhos até cerca da altura das ancas.",
+			"Mova os braços ao ritmo das pernas.",
+			"Continue durante o tempo indicado."
+		],
+		"warnings": [
+			"Aterre suavemente na parte da frente do pé.",
+			"Pare o exercício se sentir dor nos joelhos ou nos tornozelos."
+		],
+		"techniqueNotes": [
+			"Mantenha o tronco vertical.",
+			"Não se incline para trás."
+		]
+	},
+	"march-in-place": {
+		"name": "Marcha no lugar",
+		"description": "Marcha no lugar com movimento ativo dos braços. Exercício de cardio leve e sem impacto, para aquecer e elevar a frequência cardíaca.",
+		"steps": [
+			"Fique em pé, com os braços flexionados nos cotovelos.",
+			"Levante os joelhos alternadamente, marchando no lugar.",
+			"Mova os braços ao ritmo dos passos.",
+			"Mantenha um ritmo regular durante o tempo indicado."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Mantenha as costas direitas.",
+			"Para aumentar a dificuldade, levante mais os joelhos ou acelere o ritmo."
+		]
+	},
+	"mountain-climbers": {
+		"name": "Escaladores",
+		"description": "Aproximação alternada dos joelhos ao peito em posição de prancha alta. Desenvolve a resistência e trabalha os músculos do tronco.",
+		"steps": [
+			"Assuma a posição de prancha alta, com as mãos debaixo dos ombros.",
+			"Traga um joelho ao peito.",
+			"Volte com a perna para trás e traga o outro joelho.",
+			"Alterne as pernas a um ritmo rápido, mas controlado."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos pulsos ou nos ombros."
+		],
+		"techniqueNotes": [
+			"Não eleve muito a anca.",
+			"Mantenha os ombros por cima das mãos."
+		]
+	},
+	"burpee": {
+		"name": "Burpee",
+		"description": "Exercício completo: agachamento, prancha alta, regresso e salto vertical. Desenvolve a resistência geral e trabalha todo o corpo.",
+		"steps": [
+			"Agache-se e apoie as palmas no chão.",
+			"Lance os pés para trás, para a posição de prancha alta.",
+			"Traga os pés de volta às mãos e levante-se.",
+			"Faça um pequeno salto para cima, com os braços acima da cabeça."
+		],
+		"warnings": [
+			"Aterre suavemente e não arqueie a zona lombar na prancha alta.",
+			"Pare o exercício se sentir dor nas articulações ou nas costas."
+		],
+		"techniqueNotes": [
+			"Na posição de prancha, mantenha o corpo direito.",
+			"Priorize o controlo em vez da velocidade máxima."
+		]
+	},
+	"squat-jump": {
+		"name": "Agachamento com salto",
+		"description": "Agachamento com salto vertical explosivo. Desenvolve a força das pernas e a explosividade.",
+		"steps": [
+			"Fique em pé, com os pés à largura dos ombros.",
+			"Agache-se até uma profundidade confortável.",
+			"Salte para cima de forma explosiva.",
+			"Aterre suavemente e passe logo para o agachamento."
+		],
+		"warnings": [
+			"Aterre suavemente, com as pernas flexionadas.",
+			"Pare o exercício se sentir dor nos joelhos ou nos tornozelos."
+		],
+		"techniqueNotes": [
+			"Os joelhos seguem a direção das pontas dos pés.",
+			"A aterragem é silenciosa e controlada."
+		]
+	},
+	"cat-cow": {
+		"name": "Gato-vaca",
+		"description": "Arredondamento e arqueamento alternados e fluidos da coluna, em apoio nos joelhos e nas mãos. Melhora a mobilidade da coluna.",
+		"steps": [
+			"Coloque-se em quatro apoios, com as mãos debaixo dos ombros.",
+			"Ao inspirar, arqueie as costas e levante o olhar.",
+			"Ao expirar, arredonde as costas e baixe a cabeça.",
+			"Repita com fluidez ao ritmo da respiração."
+		],
+		"warnings": [
+			"Mova-se numa amplitude confortável e pare se sentir dor."
+		],
+		"techniqueNotes": [
+			"O movimento vai da anca à cabeça.",
+			"Não tenha pressa."
+		]
+	},
+	"kneeling-hip-flexor-stretch": {
+		"name": "Alongamento dos flexores da anca de joelhos",
+		"description": "Alongamento da parte da frente da coxa em posição de passada com um joelho no chão. Melhora a mobilidade da articulação da anca.",
+		"steps": [
+			"Apoie um joelho no chão, com a outra perna à frente, flexionada a 90°.",
+			"Contraia o glúteo da perna que está no chão.",
+			"Avance suavemente a anca até sentir o alongamento.",
+			"Mantenha a posição durante o tempo indicado e troque de perna."
+		],
+		"warnings": [
+			"Coloque algo macio debaixo do joelho; pare se sentir dor."
+		],
+		"techniqueNotes": [
+			"Não arqueie a zona lombar.",
+			"O alongamento deve ser moderado, sem dor."
+		]
+	},
+	"arm-circles": {
+		"name": "Círculos com os braços",
+		"description": "Rotações circulares com os braços esticados. Aquecem as articulações dos ombros e melhoram a sua mobilidade.",
+		"steps": [
+			"Fique em pé e abra os braços para os lados.",
+			"Faça pequenos círculos com os braços para a frente.",
+			"Aumente gradualmente a amplitude.",
+			"A meio do tempo, mude de direção."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"Ombros baixos, sem os encolher em direção às orelhas.",
+			"Mova-se com fluidez."
+		]
+	},
+	"open-book-rotation": {
+		"name": "Rotação «livro aberto»",
+		"description": "Rotação da coluna torácica deitado de lado. Melhora a mobilidade da coluna torácica e dos ombros.",
+		"steps": [
+			"Deite-se de lado, com os joelhos flexionados e os braços esticados à frente.",
+			"Leve o braço de cima em arco para o lado oposto, rodando o peito.",
+			"Siga a mão com o olhar.",
+			"Volte com o braço; depois da série, troque de lado."
+		],
+		"warnings": [
+			"Mova-se numa amplitude confortável e pare se sentir dor."
+		],
+		"techniqueNotes": [
+			"Os joelhos permanecem juntos no chão.",
+			"Respire com calma."
+		]
+	},
+	"goblet-squat": {
+		"name": "Agachamento goblet",
+		"description": "Agachamento com um haltere ou kettlebell junto ao peito. Trabalha os quadríceps e os glúteos e ajuda a manter o tronco vertical.",
+		"steps": [
+			"Segure o haltere ou a kettlebell na vertical, junto ao peito.",
+			"Posicione os pés um pouco mais afastados do que os ombros.",
+			"Agache-se, mantendo o peito elevado.",
+			"Suba, empurrando o chão com os pés."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos ou nas costas."
+		],
+		"techniqueNotes": [
+			"Os cotovelos passam entre os joelhos.",
+			"As costas ficam direitas durante todo o movimento."
+		]
+	},
+	"dumbbell-romanian-deadlift": {
+		"name": "Levantamento romeno com halteres",
+		"description": "Inclinação do tronco para a frente com halteres, movendo as ancas. Trabalha a parte posterior da coxa e os glúteos.",
+		"steps": [
+			"Fique em pé, com os halteres à frente das coxas.",
+			"Flexione ligeiramente os joelhos e empurre a anca para trás.",
+			"Desça os halteres ao longo das pernas até sentir o alongamento na parte posterior da coxa.",
+			"Suba, levando a anca para a frente."
+		],
+		"warnings": [
+			"Não arredonde as costas; escolha um peso com o qual mantenha a técnica.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Costas direitas, com os halteres junto às pernas.",
+			"O movimento parte da anca, não das costas."
+		]
+	},
+	"one-arm-dumbbell-row": {
+		"name": "Remada com haltere a uma mão",
+		"description": "Remada com haltere até à cintura, inclinado e com apoio de uma mão. Trabalha os músculos das costas e os bíceps.",
+		"steps": [
+			"Incline-se para a frente, apoiando a mão livre na coxa ou num apoio estável.",
+			"Pegue no haltere, com o braço esticado debaixo do ombro.",
+			"Puxe o haltere até à cintura, levando o cotovelo para trás.",
+			"Desça lentamente; depois da série, troque de braço."
+		],
+		"warnings": [
+			"Mantenha as costas direitas; pare se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Não rode o tronco durante a remada.",
+			"Aproxime a omoplata da coluna."
+		]
+	},
+	"dumbbell-floor-press": {
+		"name": "Press de halteres no chão",
+		"description": "Press de halteres para cima, deitado no chão, com amplitude reduzida. Trabalha os peitorais e os tríceps.",
+		"steps": [
+			"Deite-se de costas, com os joelhos flexionados e os halteres junto ao peito.",
+			"Empurre os halteres para cima, sobre o peito.",
+			"Desça lentamente até os cotovelos tocarem no chão.",
+			"Repita o press."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"Cotovelos num ângulo de cerca de 45° em relação ao tronco.",
+			"Desça os halteres de forma controlada, sem bater no chão."
+		]
+	},
+	"dumbbell-bench-press": {
+		"name": "Press de halteres no banco",
+		"description": "Press de halteres para cima, deitado num banco horizontal. Trabalha os peitorais e os tríceps.",
+		"steps": [
+			"Deite-se no banco, com os pés no chão e os halteres junto ao peito.",
+			"Empurre os halteres para cima, sobre o peito.",
+			"Desça-os lentamente até à altura do peito.",
+			"Repita o press."
+		],
+		"warnings": [
+			"Escolha um peso que consiga baixar de forma controlada.",
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"As omoplatas juntas e firmes contra o banco.",
+			"Não faça ressaltar os halteres no peito."
+		]
+	},
+	"incline-dumbbell-press": {
+		"name": "Press de halteres no banco inclinado",
+		"description": "Press de halteres deitado num banco com o encosto elevado. Trabalha a parte superior dos peitorais e os deltoides anteriores.",
+		"steps": [
+			"Regule o encosto do banco para uma inclinação moderada.",
+			"Sente-se no banco, com as costas apoiadas e os halteres junto ao peito.",
+			"Empurre os halteres para cima, sobre a parte superior do peito.",
+			"Desça lentamente e repita."
+		],
+		"warnings": [
+			"Certifique-se de que o encosto do banco está bem fixo.",
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"As omoplatas juntas e firmes contra o banco.",
+			"Mova-se de forma controlada em toda a amplitude."
+		]
+	},
+	"dumbbell-shoulder-press": {
+		"name": "Press de ombros com halteres",
+		"description": "Press de halteres para cima, em pé. Trabalha os deltoides e os tríceps.",
+		"steps": [
+			"Fique em pé, com os halteres à altura dos ombros.",
+			"Contraia o abdómen e os glúteos.",
+			"Empurre os halteres para cima, acima da cabeça.",
+			"Desça lentamente até à altura dos ombros."
+		],
+		"warnings": [
+			"Não arqueie a zona lombar durante o press.",
+			"Pare o exercício se sentir dor nos ombros, no pescoço ou nas costas."
+		],
+		"techniqueNotes": [
+			"Costelas baixas, tronco estável.",
+			"Não incline a cabeça para trás."
+		]
+	},
+	"dumbbell-reverse-lunge": {
+		"name": "Passada atrás com halteres",
+		"description": "Passada com passo atrás e halteres nas mãos. Trabalha os quadríceps e os glúteos com carga adicional.",
+		"steps": [
+			"Fique em pé, com os halteres nos braços estendidos ao longo do corpo.",
+			"Dê um passo atrás e desça, flexionando ambos os joelhos.",
+			"Empurre com a perna da frente e volte à posição inicial.",
+			"Alterne as pernas ou faça todas as repetições para o mesmo lado."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Mantenha o tronco vertical.",
+			"Ombros baixos, com os halteres sem balançar."
+		]
+	},
+	"farmer-carry": {
+		"name": "Passeio do agricultor",
+		"description": "Caminhada com halteres ou kettlebells nas mãos, com os braços estendidos. Trabalha os músculos do tronco, a preensão e a estabilidade geral.",
+		"steps": [
+			"Pegue nos halteres ou nas kettlebells, uma em cada mão.",
+			"Endireite-se, com os ombros baixos e para trás.",
+			"Caminhe com passos curtos e regulares durante o tempo indicado.",
+			"Pouse o peso no chão com cuidado."
+		],
+		"warnings": [
+			"Levante e pouse o peso com as costas direitas.",
+			"Pare o exercício se sentir dor nas costas ou nos pulsos."
+		],
+		"techniqueNotes": [
+			"Não se incline para o lado do peso.",
+			"Mantenha o abdómen contraído."
+		]
+	},
+	"kettlebell-swing": {
+		"name": "Swing com kettlebell",
+		"description": "Balanço dinâmico da kettlebell, movendo as ancas. Desenvolve a potência dos glúteos e da parte posterior da coxa, bem como a resistência.",
+		"steps": [
+			"Fique com os pés um pouco mais afastados do que os ombros, com a kettlebell à sua frente.",
+			"Incline-se com as costas direitas e leve a kettlebell para trás, entre as pernas.",
+			"Projete bruscamente a anca para a frente para que a kettlebell suba até à altura do peito.",
+			"Deixe a kettlebell descer e repita o movimento."
+		],
+		"warnings": [
+			"Certifique-se de que não há pessoas nem objetos à volta.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"O movimento parte da anca; os braços apenas seguram a kettlebell.",
+			"Costas direitas no ponto mais baixo."
+		]
+	},
+	"kettlebell-deadlift": {
+		"name": "Levantamento terra com kettlebell",
+		"description": "Elevação da kettlebell do chão, movendo as ancas. Trabalha os glúteos e a parte posterior da coxa e ensina a levantar peso corretamente.",
+		"steps": [
+			"Fique sobre a kettlebell, com os pés à largura das ancas.",
+			"Empurre a anca para trás, flexione os joelhos e agarre a pega da kettlebell.",
+			"Endireite-se, levando a anca para a frente.",
+			"Pouse a kettlebell no chão com o mesmo movimento."
+		],
+		"warnings": [
+			"Não arredonde as costas durante a elevação.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Costas direitas, com o olhar em frente.",
+			"A kettlebell move-se junto ao corpo."
+		]
+	},
+	"band-pull-apart": {
+		"name": "Abertura com banda elástica",
+		"description": "Alongamento de uma banda elástica com os braços esticados à frente do peito. Trabalha os músculos da parte superior das costas e os deltoides posteriores.",
+		"steps": [
+			"Segure a banda elástica com as duas mãos, à largura dos ombros, à frente do peito.",
+			"Afaste os braços para os lados, esticando a banda.",
+			"Junte as omoplatas no ponto final.",
+			"Volte lentamente com os braços à posição inicial."
+		],
+		"warnings": [
+			"Antes do exercício, verifique se a banda elástica tem danos."
+		],
+		"techniqueNotes": [
+			"Ombros baixos, sem os levantar em direção às orelhas.",
+			"Braços quase direitos durante todo o movimento."
+		]
+	},
+	"band-row": {
+		"name": "Remada com banda elástica",
+		"description": "Remada com banda elástica fixa até à cintura. Trabalha os músculos das costas e os bíceps.",
+		"steps": [
+			"Fixe a banda elástica à altura da cintura num apoio seguro.",
+			"Agarre as pontas e recue até a banda ficar esticada.",
+			"Puxe as mãos até à cintura, levando os cotovelos para trás.",
+			"Volte lentamente com as mãos para a frente."
+		],
+		"warnings": [
+			"Verifique se a fixação é segura e se a banda não está danificada."
+		],
+		"techniqueNotes": [
+			"Junte as omoplatas no ponto final.",
+			"Tronco imóvel, sem se inclinar para trás."
+		]
+	},
+	"band-lat-pulldown": {
+		"name": "Puxada com banda elástica por cima",
+		"description": "Puxada para baixo, até ao peito, de uma banda elástica fixa no alto. Trabalha os dorsais e os bíceps.",
+		"steps": [
+			"Fixe a banda elástica acima da cabeça num apoio seguro.",
+			"Agarre as pontas, com os braços esticados para cima.",
+			"Puxe os cotovelos para baixo, junto aos lados, aproximando as mãos do peito.",
+			"Volte lentamente com os braços para cima."
+		],
+		"warnings": [
+			"Verifique se a fixação superior é segura e se a banda não está danificada.",
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"Baixe as omoplatas antes de puxar.",
+			"Não balance o tronco."
+		]
+	},
+	"pull-up": {
+		"name": "Elevações na barra",
+		"description": "Elevação do corpo na barra até o queixo ficar à altura da barra. Trabalha os músculos das costas e os bíceps.",
+		"steps": [
+			"Agarre a barra com uma pega um pouco mais larga do que os ombros.",
+			"Fique pendurado com os braços esticados e as omoplatas baixas.",
+			"Puxe-se até o queixo ficar acima da barra.",
+			"Desça lentamente até os braços ficarem esticados."
+		],
+		"warnings": [
+			"Utilize apenas uma barra bem fixada.",
+			"Pare o exercício se sentir dor nos ombros ou nos pulsos."
+		],
+		"techniqueNotes": [
+			"Não balance nem dê solavancos.",
+			"Desça de forma controlada."
+		]
+	},
+	"dead-hang": {
+		"name": "Suspensão na barra",
+		"description": "Suspensão estática na barra, com os braços esticados. Reforça a preensão e os músculos da cintura escapular.",
+		"steps": [
+			"Agarre a barra com uma pega à largura dos ombros.",
+			"Pendure-se com cuidado, com os braços esticados.",
+			"Mantenha a posição durante o tempo indicado, respirando de forma regular.",
+			"Pouse os pés no chão com cuidado."
+		],
+		"warnings": [
+			"Utilize apenas uma barra bem fixada.",
+			"Pare o exercício se sentir dor nos ombros ou nos pulsos."
+		],
+		"techniqueNotes": [
+			"Ative ligeiramente os ombros, sem ficar pendurado de forma passiva.",
+			"Não balance."
+		]
+	},
+	"hanging-knee-raise": {
+		"name": "Elevação de joelhos em suspensão",
+		"description": "Elevação dos joelhos até ao peito, em suspensão na barra. Trabalha os abdominais e a preensão.",
+		"steps": [
+			"Pendure-se na barra, com os braços esticados.",
+			"Contraia o abdómen e leve os joelhos ao peito.",
+			"Mantenha um segundo.",
+			"Baixe lentamente as pernas, sem balançar."
+		],
+		"warnings": [
+			"Utilize apenas uma barra bem fixada.",
+			"Pare o exercício se sentir dor nos ombros ou na zona lombar."
+		],
+		"techniqueNotes": [
+			"Mova-se sem solavancos nem balanços.",
+			"Retroverta ligeiramente a bacia no ponto mais alto."
+		]
+	},
+	"jump-rope": {
+		"name": "Saltos à corda",
+		"description": "Saltos rítmicos por cima da corda. Desenvolvem a resistência cardiovascular, a coordenação e a força dos gémeos.",
+		"steps": [
+			"Segure os manípulos da corda, com a corda atrás dos calcanhares.",
+			"Rode a corda com os pulsos.",
+			"Faça saltos baixos quando a corda passar por baixo dos pés.",
+			"Mantenha um ritmo regular durante o tempo indicado."
+		],
+		"warnings": [
+			"Salte baixo e aterre suavemente na parte da frente do pé.",
+			"Pare o exercício se sentir dor nos joelhos ou nos tornozelos."
+		],
+		"techniqueNotes": [
+			"Cotovelos junto ao corpo.",
+			"Joelhos ligeiramente flexionados."
+		]
+	},
+	"step-up": {
+		"name": "Subida ao degrau",
+		"description": "Subida a uma plataforma estável, alternando as pernas. Trabalha os quadríceps e os glúteos.",
+		"steps": [
+			"Fique de frente para a plataforma.",
+			"Coloque todo o pé de uma perna em cima dela.",
+			"Suba, empurrando com a perna que está na plataforma.",
+			"Desça lentamente e repita; depois da série, troque de perna."
+		],
+		"warnings": [
+			"Certifique-se de que a plataforma é estável e não escorrega.",
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Não se impulsione com a perna que está em baixo.",
+			"O joelho segue a direção da ponta do pé."
+		]
+	},
+	"barbell-back-squat": {
+		"name": "Agachamento com barra às costas",
+		"description": "Agachamento com a barra na parte superior das costas. Desenvolve a força dos quadríceps, dos glúteos e de todo o corpo.",
+		"steps": [
+			"Coloque a barra na parte superior das costas e retire-a do suporte.",
+			"Recue, com os pés à largura dos ombros ou um pouco mais afastados.",
+			"Agache-se até uma profundidade confortável, mantendo as costas direitas.",
+			"Suba e, depois da série, volte a pousar a barra no suporte."
+		],
+		"warnings": [
+			"Regule os apoios de segurança do suporte e trabalhe com um peso que controle.",
+			"Pare o exercício se sentir dor nos joelhos, nas costas ou nos ombros."
+		],
+		"techniqueNotes": [
+			"Contraia o tronco antes de cada repetição.",
+			"Os joelhos seguem a direção das pontas dos pés."
+		]
+	},
+	"barbell-deadlift": {
+		"name": "Levantamento terra com barra",
+		"description": "Elevação da barra do chão até à posição em pé. Desenvolve a força da parte posterior da coxa, dos glúteos e das costas.",
+		"steps": [
+			"Posicione-se com a barra sobre o meio do pé.",
+			"Empurre a anca para trás, flexione os joelhos e agarre a barra.",
+			"Endireite-se, mantendo a barra junto às pernas.",
+			"Pouse a barra no chão com o mesmo movimento."
+		],
+		"warnings": [
+			"Não arredonde as costas; trabalhe com um peso que controle.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Costas direitas, tronco firme.",
+			"Empurre o chão com as pernas, em vez de puxar com as costas."
+		]
+	},
+	"cardio-machine-intervals": {
+		"name": "Intervalos na máquina de cardio",
+		"description": "Trabalho intervalado em bicicleta estática, elíptica ou outra máquina de cardio. Desenvolve a resistência cardiovascular.",
+		"steps": [
+			"Aqueça alguns minutos a um ritmo leve.",
+			"Aumente o ritmo ou a resistência durante o tempo do intervalo.",
+			"Durante o descanso, continue o movimento a um ritmo leve.",
+			"Repita o intervalo o número de vezes indicado."
+		],
+		"warnings": [
+			"Leia as instruções da máquina antes de a utilizar.",
+			"Reduza o ritmo ou pare se sentir tonturas ou dor."
+		],
+		"techniqueNotes": [
+			"A intensidade deve ser notória, mas controlada.",
+			"Mantenha uma postura direita."
+		]
+	},
+	"jump-rope-boxer-step": {
+		"name": "Passo de boxeur com corda",
+		"description": "Saltos baixos com a corda, com transferência alternada do peso de uma perna para a outra. Mais simples do que os saltos com os dois pés.",
+		"steps": [
+			"Segure os manípulos da corda, com a corda atrás dos calcanhares.",
+			"Rode a corda com os pulsos.",
+			"Transfira o peso de uma perna para a outra de forma leve, como se caminhasse no lugar.",
+			"Mantenha um ritmo regular durante o tempo indicado."
+		],
+		"warnings": [
+			"Salte baixo e aterre suavemente na parte da frente do pé.",
+			"Pare o exercício se sentir dor nos tornozelos."
+		],
+		"techniqueNotes": [
+			"O salto é de apenas alguns centímetros acima do chão.",
+			"Cotovelos junto ao corpo."
+		]
+	},
+	"jump-rope-side-to-side": {
+		"name": "Saltos à corda de lado a lado",
+		"description": "Saltos com os dois pés, com um pequeno deslocamento para a esquerda e para a direita. Aumentam a carga nos gémeos e trabalham a coordenação.",
+		"steps": [
+			"Segure os manípulos da corda, com os pés juntos.",
+			"Salte por cima da corda, deslocando-se ligeiramente para a esquerda.",
+			"No salto seguinte, desloque-se para a direita.",
+			"Mantenha o ritmo e aterre suavemente."
+		],
+		"warnings": [
+			"Certifique-se de que há espaço suficiente e de que a superfície não escorrega.",
+			"Pare o exercício se sentir dor nos joelhos ou nos tornozelos."
+		],
+		"techniqueNotes": [
+			"O deslocamento é pequeno, não mais largo do que os pés.",
+			"Joelhos ligeiramente flexionados."
+		]
+	},
+	"jump-rope-high-knees": {
+		"name": "Corrida com corda",
+		"description": "Corrida no lugar com a corda e elevação dos joelhos. Exercício de cardio intenso para a resistência.",
+		"steps": [
+			"Segure os manípulos da corda, com a corda atrás dos calcanhares.",
+			"Corra no lugar, passando a corda por baixo do pé em cada passo.",
+			"Levante os joelhos até à altura das coxas.",
+			"Mantenha o ritmo durante o tempo indicado."
+		],
+		"warnings": [
+			"Faça apenas depois de aquecer.",
+			"Pare o exercício se sentir dor nos joelhos, nas ancas ou nos tornozelos."
+		],
+		"techniqueNotes": [
+			"Tronco direito, sem se inclinar para trás.",
+			"Aterragem suave, na parte da frente do pé."
+		]
+	},
+	"lateral-step-up": {
+		"name": "Subida lateral ao degrau",
+		"description": "Subida a uma plataforma de lado. Trabalha os glúteos e os músculos da coxa num ângulo diferente da subida normal.",
+		"steps": [
+			"Fique de lado para a plataforma, com a perna mais próxima em cima dela.",
+			"Estique a perna ao subir para a plataforma.",
+			"Desça de forma controlada.",
+			"Faça as séries numa perna e depois troque de perna."
+		],
+		"warnings": [
+			"Certifique-se de que a plataforma é estável e não escorrega.",
+			"Pare o exercício se sentir dor nos joelhos ou nas ancas."
+		],
+		"techniqueNotes": [
+			"Trabalha a perna de apoio; a outra apenas toca.",
+			"O joelho não cai para dentro."
+		]
+	},
+	"step-platform-push-up": {
+		"name": "Flexões com apoio no step",
+		"description": "Flexões com as mãos numa plataforma. Versão mais fácil das flexões clássicas, para iniciantes.",
+		"steps": [
+			"Coloque as mãos na plataforma, um pouco mais afastadas do que os ombros, com o corpo em linha reta.",
+			"Flexione os cotovelos, baixando o peito em direção à plataforma.",
+			"Empurre, esticando os braços.",
+			"Mantenha o tronco contraído."
+		],
+		"warnings": [
+			"A plataforma deve estar estável, de preferência numa superfície antiderrapante.",
+			"Pare o exercício se sentir dor nos pulsos ou nos ombros."
+		],
+		"techniqueNotes": [
+			"Não arqueie a zona lombar.",
+			"Cotovelos num ângulo de cerca de 45° em relação ao tronco."
+		]
+	},
+	"step-platform-calf-raise": {
+		"name": "Elevação de gémeos no step",
+		"description": "Elevações nas pontas dos pés, a partir da borda da plataforma, para maior amplitude. Reforça os gémeos.",
+		"steps": [
+			"Fique na borda da plataforma com a parte da frente dos pés, com os calcanhares no ar.",
+			"Baixe lentamente os calcanhares abaixo do nível da plataforma.",
+			"Suba o mais alto possível, nas pontas dos pés.",
+			"Repita sem solavancos."
+		],
+		"warnings": [
+			"Segure-se a uma parede ou a um apoio para manter o equilíbrio.",
+			"Pare o exercício se sentir dor nos tornozelos ou no tendão de Aquiles."
+		],
+		"techniqueNotes": [
+			"Movimento lento: 2 segundos a subir, 2 a descer.",
+			"Joelhos quase direitos."
+		]
+	},
+	"step-platform-reverse-lunge": {
+		"name": "Passada atrás a partir do step",
+		"description": "Passo atrás a partir da plataforma, em passada. Maior amplitude para glúteos e coxas.",
+		"steps": [
+			"Suba para a plataforma, com os pés à largura das ancas.",
+			"Dê um passo atrás com uma perna, para o chão.",
+			"Desça em passada, com a perna da frente a ficar na plataforma.",
+			"Volte à posição inicial e troque de perna."
+		],
+		"warnings": [
+			"Certifique-se de que a plataforma é estável e não escorrega.",
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Tronco vertical.",
+			"O calcanhar da frente bem apoiado na plataforma."
+		]
+	},
+	"step-platform-taps": {
+		"name": "Toques no step",
+		"description": "Toques rápidos e alternados na plataforma com os pés. Exercício de cardio leve, para aquecer e para a resistência.",
+		"steps": [
+			"Fique de frente para a plataforma.",
+			"Toque na plataforma com o pé direito e depois com o esquerdo.",
+			"Mova-se de forma rápida e leve, sem pisar com todo o pé.",
+			"Mantenha o ritmo durante o tempo indicado."
+		],
+		"warnings": [
+			"A plataforma deve estar estável.",
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Costas direitas, com os braços a acompanhar o ritmo.",
+			"Movimentos leves, sem impacto."
+		]
+	},
+	"bench-dip": {
+		"name": "Extensões de tríceps no banco",
+		"description": "Flexões de tríceps com as mãos apoiadas num banco atrás de si.",
+		"steps": [
+			"Sente-se na borda do banco, com as mãos junto às coxas.",
+			"Deslize para a frente, apoiando-se com as mãos no banco.",
+			"Flexione os cotovelos até cerca de 90°.",
+			"Estique os braços e volte a subir."
+		],
+		"warnings": [
+			"Não desça demasiado se sentir desconforto nos ombros.",
+			"O banco deve estar estável.",
+			"Pare o exercício se sentir dor nos ombros ou nos pulsos."
+		],
+		"techniqueNotes": [
+			"Cotovelos a apontar para trás, não para os lados.",
+			"Não levante os ombros em direção às orelhas."
+		]
+	},
+	"bulgarian-split-squat": {
+		"name": "Agachamento búlgaro",
+		"description": "Agachamento numa perna, com a perna de trás apoiada num banco. Trabalha intensamente os glúteos e as coxas.",
+		"steps": [
+			"Fique de costas para o banco e apoie o peito do pé de uma perna no banco.",
+			"Desça, flexionando a perna da frente.",
+			"Suba, empurrando com o calcanhar da perna da frente.",
+			"Faça todas as repetições e depois troque de perna."
+		],
+		"warnings": [
+			"O banco deve estar estável; ajuste a distância para que o joelho não ultrapasse o pé.",
+			"Pare o exercício se sentir dor nos joelhos ou nas ancas."
+		],
+		"techniqueNotes": [
+			"Tronco ligeiramente inclinado para a frente.",
+			"O peso principal fica na perna da frente."
+		]
+	},
+	"bench-hip-thrust": {
+		"name": "Hip thrust no banco",
+		"description": "Elevação da anca com as omoplatas apoiadas num banco. Exercício principal para os glúteos.",
+		"steps": [
+			"Sente-se no chão de costas para o banco, com as omoplatas na borda do banco.",
+			"Flexione os joelhos, com os pés no chão.",
+			"Eleve a anca até o tronco e as coxas ficarem em linha.",
+			"Mantenha um instante e desça."
+		],
+		"warnings": [
+			"O banco deve estar imóvel, de preferência encostado a uma parede.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Queixo ligeiramente encostado ao peito.",
+			"Não arqueie a zona lombar no topo."
+		]
+	},
+	"chest-supported-dumbbell-row": {
+		"name": "Remada com halteres com apoio no banco",
+		"description": "Remada com halteres deitado de peito num banco inclinado. Alivia a zona lombar e concentra a carga nas costas.",
+		"steps": [
+			"Deite-se de peito no banco, com um haltere em cada mão.",
+			"Puxe os halteres para os lados do tronco, juntando as omoplatas.",
+			"Mantenha um instante.",
+			"Baixe os halteres de forma controlada."
+		],
+		"warnings": [
+			"O banco deve estar estável.",
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"A cabeça prolonga a linha da coluna.",
+			"Não balance o tronco."
+		]
+	},
+	"kettlebell-single-arm-row": {
+		"name": "Remada com kettlebell a uma mão",
+		"description": "Remada com kettlebell inclinado, com apoio da mão livre. Reforça as costas e o bíceps.",
+		"steps": [
+			"Incline-se para a frente com as costas direitas, apoiando a mão livre na coxa.",
+			"Pegue na kettlebell com a outra mão.",
+			"Puxe a kettlebell até à cintura, juntando a omoplata.",
+			"Baixe a kettlebell lentamente."
+		],
+		"warnings": [
+			"Mantenha as costas direitas.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"O cotovelo move-se ao longo do tronco.",
+			"O olhar dirige-se ao chão."
+		]
+	},
+	"kettlebell-overhead-press": {
+		"name": "Press de kettlebell por cima da cabeça",
+		"description": "Press de kettlebell em pé, com uma mão. Reforça os ombros, o tríceps e o tronco.",
+		"steps": [
+			"Leve a kettlebell ao ombro, com o cotovelo junto ao tronco.",
+			"Contraia o abdómen e os glúteos.",
+			"Estique o braço para cima, acima da cabeça.",
+			"Volte lentamente com a kettlebell ao ombro."
+		],
+		"warnings": [
+			"Certifique-se de que tem espaço suficiente por cima de si.",
+			"Pare o exercício se sentir dor nos ombros, no pescoço ou na zona lombar."
+		],
+		"techniqueNotes": [
+			"Não arqueie a zona lombar.",
+			"Pulso direito, com a kettlebell apoiada no antebraço."
+		]
+	},
+	"kettlebell-halo": {
+		"name": "Halo com kettlebell",
+		"description": "Movimentos circulares da kettlebell à volta da cabeça. Aquece os ombros e trabalha a estabilidade do tronco.",
+		"steps": [
+			"Fique em pé e segure a kettlebell de cabeça para baixo, junto ao peito.",
+			"Passe a kettlebell à volta da cabeça numa direção.",
+			"Volte a trazê-la ao peito.",
+			"Repita na direção oposta."
+		],
+		"warnings": [
+			"Utilize uma kettlebell leve.",
+			"Segure a kettlebell com firmeza para não se magoar.",
+			"Pare o exercício se sentir dor nos ombros ou no pescoço."
+		],
+		"techniqueNotes": [
+			"Tronco imóvel, apenas os braços trabalham.",
+			"Cotovelos junto à cabeça."
+		]
+	},
+	"kettlebell-sumo-deadlift": {
+		"name": "Levantamento terra sumo com kettlebell",
+		"description": "Levantamento da kettlebell com os pés bem afastados. Trabalha os glúteos e a parte interna das coxas.",
+		"steps": [
+			"Fique com os pés bem afastados e as pontas dos pés abertas, com a kettlebell entre os pés.",
+			"Empurre a anca para trás e agarre a kettlebell.",
+			"Endireite-se, empurrando o chão com as pernas.",
+			"Baixe a kettlebell lentamente."
+		],
+		"warnings": [
+			"Não arredonde as costas.",
+			"Pare o exercício se sentir dor na zona lombar ou nas ancas."
+		],
+		"techniqueNotes": [
+			"Os joelhos seguem a direção das pontas dos pés.",
+			"Costas direitas durante todo o movimento."
+		]
+	},
+	"kettlebell-reverse-lunge": {
+		"name": "Passada atrás com kettlebell",
+		"description": "Passada atrás com a kettlebell junto ao peito. Aumenta a carga nas pernas e nos glúteos.",
+		"steps": [
+			"Segure a kettlebell junto ao peito com as duas mãos.",
+			"Dê um passo atrás e desça em passada.",
+			"Empurre com a perna da frente e volte.",
+			"Troque de perna."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Tronco vertical.",
+			"O calcanhar da frente bem apoiado no chão."
+		]
+	},
+	"band-squat": {
+		"name": "Agachamento com banda elástica",
+		"description": "Agachamento com a banda por baixo dos pés. A banda aumenta a resistência durante a subida.",
+		"steps": [
+			"Pise o meio da banda e segure as pontas à altura dos ombros.",
+			"Agache-se, empurrando a anca para trás.",
+			"Suba, esticando as pernas.",
+			"Não solte a banda de forma brusca."
+		],
+		"warnings": [
+			"Verifique se a banda não está danificada.",
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Joelhos na direção das pontas dos pés.",
+			"Costas direitas."
+		]
+	},
+	"band-chest-press": {
+		"name": "Press de peito com banda elástica",
+		"description": "Press da banda à frente, em pé. Trabalha o peito e o tríceps sem halteres.",
+		"steps": [
+			"Passe a banda atrás das costas, abaixo das omoplatas, com as pontas nas mãos.",
+			"Flexione os cotovelos, com as mãos à altura do peito.",
+			"Estique os braços para a frente.",
+			"Volte lentamente."
+		],
+		"warnings": [
+			"Verifique se a banda não está danificada e se está bem posicionada atrás das costas.",
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"Cotovelos ligeiramente abaixo dos ombros.",
+			"Tronco imóvel."
+		]
+	},
+	"band-overhead-press": {
+		"name": "Press de ombros com banda elástica",
+		"description": "Press da banda para cima, em pé sobre ela. Reforça os ombros e o tríceps.",
+		"steps": [
+			"Pise a banda e segure as pontas à altura dos ombros.",
+			"Estique os braços para cima, acima da cabeça.",
+			"Baixe-os lentamente até aos ombros.",
+			"Não arqueie a zona lombar."
+		],
+		"warnings": [
+			"Certifique-se de que tem espaço suficiente por cima de si.",
+			"Pare o exercício se sentir dor nos ombros ou no pescoço."
+		],
+		"techniqueNotes": [
+			"Abdómen contraído.",
+			"Os braços movem-se na vertical."
+		]
+	},
+	"band-good-morning": {
+		"name": "Good morning com banda elástica",
+		"description": "Inclinações do tronco com as costas direitas, com a banda nos ombros e por baixo dos pés. Ensina o movimento de dobradiça da anca.",
+		"steps": [
+			"Pise a banda e coloque a outra ponta nos ombros.",
+			"Empurre a anca para trás, inclinando o tronco com as costas direitas.",
+			"Desça até sentir o alongamento na parte posterior das coxas.",
+			"Endireite-se, levando a anca para a frente."
+		],
+		"warnings": [
+			"Não arredonde as costas.",
+			"Verifique se a banda está bem fixa.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Joelhos ligeiramente flexionados.",
+			"O olhar dirige-se para baixo e em frente."
+		]
+	},
+	"band-bicep-curl": {
+		"name": "Flexão de bíceps com banda elástica",
+		"description": "Flexão dos braços para o bíceps, com a resistência da banda.",
+		"steps": [
+			"Pise a banda, com as pontas nas mãos e as palmas para a frente.",
+			"Flexione os cotovelos, levando as mãos aos ombros.",
+			"Mantenha um instante.",
+			"Baixe lentamente os braços."
+		],
+		"warnings": [
+			"Verifique se a banda não está danificada."
+		],
+		"techniqueNotes": [
+			"Cotovelos junto aos lados do tronco.",
+			"O tronco não balança."
+		]
+	},
+	"scapular-pull-up": {
+		"name": "Elevações escapulares",
+		"description": "Elevação e descida das omoplatas em suspensão, sem flexionar os braços. Prepara os ombros para as elevações na barra.",
+		"steps": [
+			"Pendure-se na barra, com os braços esticados.",
+			"Baixe os ombros e junte as omoplatas, elevando o corpo alguns centímetros.",
+			"Volte lentamente à suspensão.",
+			"Não flexione os cotovelos."
+		],
+		"warnings": [
+			"Utilize apenas uma barra bem fixada.",
+			"Pare o exercício se sentir dor nos ombros ou nos pulsos."
+		],
+		"techniqueNotes": [
+			"O movimento é pequeno, apenas nas omoplatas.",
+			"O corpo não balança."
+		]
+	},
+	"negative-pull-up": {
+		"name": "Elevações negativas",
+		"description": "Descida lenta a partir da posição alta da elevação. Ajuda a aprender a fazer elevações.",
+		"steps": [
+			"Suba para uma cadeira e agarre a barra, com o queixo acima dela.",
+			"Retire o apoio.",
+			"Desça lentamente até os braços ficarem esticados (3–5 segundos).",
+			"Volte para a cadeira e repita."
+		],
+		"warnings": [
+			"Utilize apenas uma barra bem fixada.",
+			"Use uma cadeira para chegar à posição alta.",
+			"Pare o exercício se sentir dor nos ombros ou nos pulsos."
+		],
+		"techniqueNotes": [
+			"Desça de forma controlada, sem cair.",
+			"As omoplatas ficam baixas."
+		]
+	},
+	"chin-up": {
+		"name": "Elevações com pega supinada",
+		"description": "Elevações com as palmas voltadas para si. Trabalham mais o bíceps do que as elevações normais.",
+		"steps": [
+			"Agarre a barra com uma pega supinada, à largura dos ombros.",
+			"Puxe-se até o queixo ficar acima da barra.",
+			"Mantenha um instante.",
+			"Desça lentamente até à suspensão."
+		],
+		"warnings": [
+			"Utilize apenas uma barra bem fixada.",
+			"Pare o exercício se sentir dor nos ombros, nos cotovelos ou nos pulsos."
+		],
+		"techniqueNotes": [
+			"Não balance.",
+			"Os cotovelos movem-se para baixo e em direção ao tronco."
+		]
+	},
+	"hanging-leg-raise": {
+		"name": "Elevação de pernas esticadas em suspensão",
+		"description": "Elevação das pernas esticadas em suspensão na barra. Versão mais difícil para os abdominais.",
+		"steps": [
+			"Pendure-se na barra.",
+			"Contraia o abdómen e eleve as pernas esticadas até à altura da bacia.",
+			"Mantenha um instante.",
+			"Baixe lentamente as pernas."
+		],
+		"warnings": [
+			"Utilize apenas uma barra bem fixada.",
+			"Não balance; levante as pernas devagar.",
+			"Pare o exercício se sentir dor nos ombros ou na zona lombar."
+		],
+		"techniqueNotes": [
+			"Bacia ligeiramente retrovertida.",
+			"Sem balançar o corpo."
+		]
+	},
+	"dumbbell-lateral-raise": {
+		"name": "Elevação lateral com halteres",
+		"description": "Elevação dos halteres para os lados, até à altura dos ombros. Desenvolve a porção média dos deltoides.",
+		"steps": [
+			"Fique em pé, com os halteres ao lado do corpo.",
+			"Flexione ligeiramente os cotovelos e levante os braços para os lados, até à altura dos ombros.",
+			"Baixe lentamente os braços.",
+			"Não levante os ombros em direção às orelhas."
+		],
+		"warnings": [
+			"Escolha halteres leves.",
+			"Pare o exercício se sentir dor nos ombros ou no pescoço."
+		],
+		"techniqueNotes": [
+			"Cotovelos ligeiramente acima das mãos.",
+			"Tronco imóvel."
+		]
+	},
+	"dumbbell-bicep-curl": {
+		"name": "Flexão de bíceps com halteres",
+		"description": "Flexão clássica dos braços para o bíceps, em pé.",
+		"steps": [
+			"Fique em pé, com os halteres nos braços estendidos e as palmas para a frente.",
+			"Flexione os cotovelos, levando os halteres aos ombros.",
+			"Mantenha um instante.",
+			"Baixe lentamente os halteres."
+		],
+		"warnings": [
+			"Escolha um peso com o qual não precise de balançar o tronco."
+		],
+		"techniqueNotes": [
+			"Cotovelos junto aos lados do tronco.",
+			"Não se incline para trás."
+		]
+	},
+	"dumbbell-overhead-triceps-extension": {
+		"name": "Extensão de tríceps com haltere por cima da cabeça",
+		"description": "Extensão dos braços com um haltere atrás da cabeça. Isola o tríceps.",
+		"steps": [
+			"Fique em pé e segure o haltere com as duas mãos acima da cabeça.",
+			"Flexione os cotovelos, baixando o haltere para trás da cabeça.",
+			"Estique os braços para cima.",
+			"Mantenha os cotovelos junto à cabeça."
+		],
+		"warnings": [
+			"Segure o haltere com as duas mãos.",
+			"Pare o exercício se sentir dor nos ombros, nos cotovelos ou no pescoço."
+		],
+		"techniqueNotes": [
+			"Os cotovelos não se abrem para os lados.",
+			"Abdómen contraído."
+		]
+	},
+	"dumbbell-sumo-squat": {
+		"name": "Agachamento sumo com haltere",
+		"description": "Agachamento com os pés bem afastados e um haltere entre as pernas. Dá ênfase aos glúteos e à parte interna das coxas.",
+		"steps": [
+			"Fique com os pés bem afastados e as pontas dos pés abertas, segurando o haltere com as duas mãos, em baixo.",
+			"Agache-se, com os joelhos na direção das pontas dos pés.",
+			"Suba, empurrando o chão com as pernas.",
+			"Mantenha o tronco vertical."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos ou nas ancas."
+		],
+		"techniqueNotes": [
+			"Costas direitas.",
+			"Os joelhos não caem para dentro."
+		]
+	},
+	"dumbbell-glute-bridge": {
+		"name": "Ponte de glúteos com haltere",
+		"description": "Ponte de glúteos com um haltere sobre a bacia. Aumenta a carga nos glúteos.",
+		"steps": [
+			"Deite-se de costas, com os joelhos flexionados e o haltere sobre a bacia.",
+			"Eleve a anca, alinhando o corpo.",
+			"Mantenha um instante.",
+			"Desça lentamente."
+		],
+		"warnings": [
+			"Segure o haltere com firmeza.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Não arqueie a zona lombar.",
+			"Calcanhares bem apoiados no chão."
+		]
+	},
+	"dumbbell-bent-over-row": {
+		"name": "Remada inclinada com halteres",
+		"description": "Remada com dois halteres até à cintura, inclinado. Reforça as costas e o bíceps.",
+		"steps": [
+			"Incline-se para a frente com as costas direitas, com os halteres nos braços estendidos.",
+			"Puxe os halteres para os lados, juntando as omoplatas.",
+			"Mantenha um instante.",
+			"Baixe lentamente os halteres."
+		],
+		"warnings": [
+			"Mantenha as costas direitas.",
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Joelhos ligeiramente flexionados.",
+			"Conduza os cotovelos ao longo do tronco."
+		]
+	},
+	"towel-row": {
+		"name": "Remada com toalha",
+		"description": "Remada puxando o próprio corpo com uma toalha presa a um apoio seguro. Trabalha os músculos das costas e os bíceps sem equipamento.",
+		"steps": [
+			"Passe uma toalha resistente à volta de um apoio seguro, à altura da cintura, e agarre as duas pontas.",
+			"Incline-se para trás com os braços esticados, com os pés mais perto do apoio.",
+			"Puxe o peito até às mãos, levando os cotovelos para trás.",
+			"Estique lentamente os braços e volte à posição inicial."
+		],
+		"warnings": [
+			"Prenda a toalha apenas a um apoio seguro: um pilar estável, um corrimão ou o puxador de uma porta fechada que abra para o lado oposto ao seu.",
+			"Verifique se a toalha é resistente e não escorrega das mãos."
+		],
+		"techniqueNotes": [
+			"Mantenha o corpo direito, da cabeça aos calcanhares.",
+			"Quanto mais perto dos pés do apoio, mais difícil o exercício."
+		]
+	},
+	"inverted-table-row": {
+		"name": "Remada invertida sob a mesa",
+		"description": "Elevação horizontal deitado debaixo de uma mesa resistente. Trabalha os músculos das costas, os bíceps e os deltoides posteriores.",
+		"steps": [
+			"Deite-se de costas debaixo da mesa, com o peito por baixo da borda do tampo.",
+			"Agarre a borda do tampo com uma pega à largura dos ombros.",
+			"Contraia o abdómen e os glúteos e puxe o peito até à borda da mesa.",
+			"Desça lentamente, esticando totalmente os braços."
+		],
+		"warnings": [
+			"Utilize apenas uma mesa pesada e estável, que não tombe e aguente o seu peso.",
+			"Agarre a borda do tampo, e não o vidro nem elementos frágeis."
+		],
+		"techniqueNotes": [
+			"Corpo direito dos ombros aos calcanhares, sem deixar a anca descair.",
+			"Para facilitar o exercício, flexione os joelhos e apoie os pés no chão."
+		]
+	},
+	"prone-y-t-w-raise": {
+		"name": "Elevações Y-T-W de barriga para baixo",
+		"description": "Elevações dos braços em três posições, deitado de barriga para baixo. Trabalha a parte superior das costas e os estabilizadores das omoplatas.",
+		"steps": [
+			"Deite-se de barriga para baixo, com a testa acima do chão e os braços esticados à frente.",
+			"Levante os braços em forma de Y, mantenha um segundo e baixe.",
+			"Abra os braços para os lados em forma de T, levante e baixe.",
+			"Flexione os cotovelos em forma de W, junte as omoplatas, levante e baixe os braços. Isto é uma repetição."
+		],
+		"warnings": [
+			"Não incline a cabeça para trás.",
+			"Pare o exercício se sentir dor nos ombros ou no pescoço."
+		],
+		"techniqueNotes": [
+			"O movimento parte das omoplatas, e não da zona lombar.",
+			"Os polegares apontam para cima."
+		]
+	},
+	"reverse-snow-angel": {
+		"name": "Anjo na neve invertido",
+		"description": "Movimento fluido dos braços, das ancas à cabeça, deitado de barriga para baixo. Trabalha a parte superior das costas e a mobilidade dos ombros.",
+		"steps": [
+			"Deite-se de barriga para baixo, com os braços ao longo do corpo e as palmas voltadas para as coxas.",
+			"Levante os braços do chão e junte as omoplatas.",
+			"Descreva lentamente um arco com os braços para os lados, até à cabeça.",
+			"Pelo mesmo caminho, volte com os braços às coxas, sem tocar no chão."
+		],
+		"warnings": [
+			"Não incline a cabeça para trás.",
+			"Pare o exercício se sentir dor nos ombros ou no pescoço."
+		],
+		"techniqueNotes": [
+			"Mantenha os braços sempre ligeiramente acima do chão.",
+			"Não arqueie a zona lombar, com os glúteos contraídos."
+		]
+	},
+	"leg-press": {
+		"name": "Prensa de pernas",
+		"description": "Empurrar a plataforma com as pernas, sentado. Trabalha os quadríceps e os glúteos sem carga na coluna, adequado para iniciantes.",
+		"steps": [
+			"Sente-se na máquina, com a zona lombar encostada ao encosto e os pés na plataforma, à largura dos ombros.",
+			"Solte os apoios e flexione lentamente os joelhos até uma profundidade confortável.",
+			"Ao expirar, estique as pernas, sem bloquear totalmente os joelhos.",
+			"No fim da série, volte a colocar os apoios no lugar."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"A zona lombar não se descola do encosto.",
+			"Os joelhos seguem a direção das pontas dos pés."
+		]
+	},
+	"machine-chest-press": {
+		"name": "Press de peito na máquina",
+		"description": "Empurrar as pegas a partir do peito, sentado. Ensina o movimento de press com segurança e trabalha o peito, os ombros e o tríceps.",
+		"steps": [
+			"Regule o assento para que as pegas fiquem à altura do meio do peito.",
+			"Agarre as pegas e encoste as omoplatas ao encosto.",
+			"Ao expirar, estique os braços para a frente, sem bloquear totalmente os cotovelos.",
+			"Volte lentamente com as pegas, sentindo o alongamento do peito."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"Os ombros não sobem em direção às orelhas."
+		]
+	},
+	"machine-shoulder-press": {
+		"name": "Press de ombros na máquina",
+		"description": "Press vertical sentado na máquina. Trabalha os ombros e o tríceps, com apoio para as costas.",
+		"steps": [
+			"Regule o assento para que as pegas fiquem à altura dos ombros.",
+			"Encoste as costas ao encosto e agarre as pegas.",
+			"Ao expirar, estique os braços para cima.",
+			"Baixe lentamente as pegas até à altura dos ombros."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"Não arqueie a zona lombar."
+		]
+	},
+	"seated-cable-row": {
+		"name": "Remada sentado na polia",
+		"description": "Remada horizontal com a pega da polia. Trabalha as costas e os deltoides posteriores e ensina a juntar as omoplatas.",
+		"steps": [
+			"Sente-se, apoie os pés nos apoios e agarre a pega com as costas direitas.",
+			"Puxe a pega até ao abdómen, juntando as omoplatas.",
+			"Pare um instante no ponto final.",
+			"Volte lentamente com os braços para a frente, sem arredondar as costas."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"O tronco fica quase imóvel.",
+			"Os cotovelos movem-se ao longo do corpo."
+		]
+	},
+	"lat-pulldown-machine": {
+		"name": "Puxada na polia alta",
+		"description": "Puxada de uma pega larga até ao peito, sentado. Prepara para as elevações na barra e trabalha os dorsais.",
+		"steps": [
+			"Fixe as coxas debaixo dos rolos e agarre a pega mais larga do que os ombros.",
+			"Incline-se ligeiramente para trás e puxe a pega até à parte superior do peito.",
+			"Junte as omoplatas e pare um instante.",
+			"Volte lentamente com a pega para cima."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Puxe com os cotovelos, e não com as mãos."
+		]
+	},
+	"leg-curl-machine": {
+		"name": "Flexão de pernas na máquina",
+		"description": "Flexão isolada das pernas, deitado ou sentado. Trabalha a parte posterior da coxa.",
+		"steps": [
+			"Regule o rolo para que fique por cima dos calcanhares.",
+			"Ao expirar, flexione as pernas, levando os calcanhares aos glúteos.",
+			"Pare um instante no ponto mais alto.",
+			"Estique lentamente as pernas."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"A anca não se descola do banco."
+		]
+	},
+	"leg-extension-machine": {
+		"name": "Extensão de pernas na máquina",
+		"description": "Extensão isolada das pernas, sentado. Trabalha os quadríceps.",
+		"steps": [
+			"Regule o encosto e o rolo por cima das canelas.",
+			"Ao expirar, estique as pernas.",
+			"Pare um instante no ponto mais alto.",
+			"Baixe lentamente as pernas."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Movimentos fluidos, sem solavancos."
+		]
+	},
+	"cable-triceps-pushdown": {
+		"name": "Extensão de tríceps na polia",
+		"description": "Extensão dos braços para baixo na polia alta. Trabalha o tríceps de forma isolada.",
+		"steps": [
+			"Fique de frente para a polia, agarre a pega, com os cotovelos junto aos lados do tronco.",
+			"Ao expirar, estique os braços para baixo.",
+			"Pare um instante em baixo.",
+			"Volte lentamente com a pega até à altura do peito."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Os cotovelos não se movem."
+		]
+	},
+	"cable-biceps-curl": {
+		"name": "Flexão de bíceps na polia baixa",
+		"description": "Flexão dos braços em pé, junto à polia baixa. Trabalha o bíceps de forma isolada.",
+		"steps": [
+			"Fique de frente para a polia baixa, agarre a pega com as palmas para cima.",
+			"Ao expirar, flexione os braços até aos ombros.",
+			"Pare um instante no topo.",
+			"Estique lentamente os braços."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Cotovelos junto aos lados do tronco, tronco imóvel."
+		]
+	},
+	"cable-face-pull": {
+		"name": "Face pull na polia",
+		"description": "Puxada da corda até à altura do rosto. Reforça os deltoides posteriores e os músculos entre as omoplatas, útil para a postura.",
+		"steps": [
+			"Fixe a corda na polia à altura do rosto e dê um passo atrás.",
+			"Puxe a corda em direção ao rosto, abrindo os cotovelos para os lados.",
+			"Junte as omoplatas e pare um instante.",
+			"Volte lentamente com os braços para a frente."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Peso leve, movimento controlado."
+		]
+	},
+	"cable-woodchop": {
+		"name": "Woodchop na polia",
+		"description": "Rotação diagonal do tronco com a pega da polia. Trabalha os oblíquos e ensina a transmitir força através do tronco.",
+		"steps": [
+			"Fique de lado para a polia e agarre a pega com as duas mãos.",
+			"Puxe a pega na diagonal, para baixo, rodando o tronco.",
+			"Mantenha os braços quase esticados e rode a partir da caixa torácica.",
+			"Volte lentamente com a pega e repita; depois troque de lado."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Mova o tronco, e não apenas os braços."
+		]
+	},
+	"barbell-bench-press": {
+		"name": "Press de barra no banco",
+		"description": "Press clássico com barra no banco horizontal. Exercício principal para o peito, os ombros e o tríceps.",
+		"steps": [
+			"Deite-se no banco, com os pés no chão, as omoplatas juntas e os olhos por baixo da barra.",
+			"Retire a barra e baixe-a até ao meio do peito.",
+			"Ao expirar, empurre a barra para cima até esticar os braços.",
+			"Pouse a barra no suporte quando terminar a série."
+		],
+		"warnings": [
+			"No ginásio, não faça press com barra sem segurança, e pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"Peça a alguém que o auxilie ou utilize os apoios de segurança.",
+			"Pulsos por cima dos cotovelos."
+		]
+	},
+	"barbell-bent-over-row": {
+		"name": "Remada inclinada com barra",
+		"description": "Remada com barra até ao abdómen, inclinado. Trabalha todas as costas, os deltoides posteriores e o bíceps.",
+		"steps": [
+			"Fique com os pés à largura dos ombros e agarre a barra com uma pega um pouco mais larga do que os ombros.",
+			"Incline-se para a frente com as costas direitas, com os joelhos ligeiramente flexionados.",
+			"Puxe a barra até à parte inferior do abdómen.",
+			"Baixe lentamente a barra, sem arredondar as costas."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"Costas direitas durante todo o movimento."
+		]
+	},
+	"barbell-overhead-press": {
+		"name": "Press de barra em pé",
+		"description": "Press da barra por cima da cabeça, em pé. Desenvolve a força dos ombros e da parte superior das costas e exige um tronco estável.",
+		"steps": [
+			"Segure a barra à altura das clavículas, com uma pega um pouco mais larga do que os ombros.",
+			"Contraia o abdómen e os glúteos e, ao expirar, empurre a barra para cima.",
+			"No fim, a cabeça passa ligeiramente para a frente, com a barra sobre o meio do pé.",
+			"Baixe lentamente a barra até às clavículas."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos ombros ou na zona lombar."
+		],
+		"techniqueNotes": [
+			"Não arqueie a zona lombar."
+		]
+	},
+	"barbell-romanian-deadlift": {
+		"name": "Levantamento romeno com barra",
+		"description": "Levantamento com as pernas quase esticadas. Trabalha a parte posterior da coxa e os glúteos e ensina o movimento com recuo da anca.",
+		"steps": [
+			"Fique com a barra nas mãos e os joelhos ligeiramente flexionados.",
+			"Empurre a anca para trás, conduzindo a barra ao longo das pernas.",
+			"Baixe-a abaixo dos joelhos, mantendo as costas direitas.",
+			"Ao expirar, volte à posição inicial, levando a anca para a frente."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor na zona lombar."
+		],
+		"techniqueNotes": [
+			"O movimento parte da anca, e não das costas."
+		]
+	},
+	"treadmill-incline-walk": {
+		"name": "Caminhada inclinada na passadeira",
+		"description": "Caminhada rápida na passadeira com inclinação. Cardio sem impacto para a resistência e para as pernas.",
+		"steps": [
+			"Regule a inclinação para 4–8% e uma caminhada rápida e confortável.",
+			"Mantenha o tronco direito, sem se apoiar nos corrimões.",
+			"Caminhe a um ritmo estável durante o tempo necessário.",
+			"No fim, reduza a velocidade e a inclinação para recuperar."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"A respiração mantém-se regular e consegue falar em frases curtas."
+		]
+	},
+	"easy-run-intervals": {
+		"name": "Corrida leve em intervalos",
+		"description": "Alternância entre corrida tranquila e caminhada. Desenvolve a resistência do coração e da respiração sem carga brusca.",
+		"steps": [
+			"Aqueça um minuto com uma caminhada rápida.",
+			"Corra a um ritmo confortável durante o tempo indicado.",
+			"Passe a caminhar para recuperar.",
+			"Repita a alternância de acordo com o número de séries."
+		],
+		"warnings": [
+			"Pare de correr se sentir dor nos tornozelos ou nos joelhos."
+		],
+		"techniqueNotes": [
+			"O ritmo permite respirar pelo nariz ou falar em frases curtas."
+		]
+	},
+	"sprint-intervals": {
+		"name": "Sprints em intervalos",
+		"description": "Acelerações curtas à velocidade máxima, com descanso completo. Desenvolvem a potência e a resistência de velocidade.",
+		"steps": [
+			"Aqueça bem e faça algumas acelerações leves.",
+			"Acelere até cerca de 90% da velocidade máxima.",
+			"Depois da aceleração, volte a caminhar e recupere totalmente.",
+			"Repita de acordo com o número de séries."
+		],
+		"warnings": [
+			"Não faça em superfícies escorregadias e pare o exercício se sentir dor nos joelhos ou nos tornozelos."
+		],
+		"techniqueNotes": [
+			"Incline o tronco para a frente e use os braços."
+		]
+	},
+	"brisk-walk-intervals": {
+		"name": "Caminhada rápida em intervalos",
+		"description": "Alternância entre caminhada rápida e caminhada tranquila ao ar livre. Adequado para começar e para recuperar.",
+		"steps": [
+			"Caminhe com calma durante um minuto para aquecer.",
+			"Caminhe depressa, balançando os braços flexionados.",
+			"Passe a um passo tranquilo para recuperar.",
+			"Repita a alternância."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Passo rápido: respiração acelerada, mas consegue falar."
+		]
+	},
+	"walking-lunge": {
+		"name": "Passadas em caminhada",
+		"description": "Passadas com avanço para a frente. Trabalham as pernas e os glúteos e ensinam o equilíbrio.",
+		"steps": [
+			"Fique em pé, com as mãos na cintura ou ao longo do corpo.",
+			"Dê um passo largo para a frente e desça, flexionando ambos os joelhos até 90°.",
+			"Empurre com a perna da frente e traga a de trás até ao passo da frente.",
+			"Continue, alternando as pernas."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"O joelho da frente fica por cima do tornozelo."
+		]
+	},
+	"bear-crawl": {
+		"name": "Caminhada de urso",
+		"description": "Deslocamento em quatro apoios, com os joelhos levantados. Reforça os ombros, o tronco e as pernas e desenvolve a coordenação.",
+		"steps": [
+			"Apoie-se nas palmas e nos pés, com os joelhos 5 cm acima do chão.",
+			"Avance ao mesmo tempo o braço e a perna opostos.",
+			"Mantenha as costas direitas e a anca baixa.",
+			"Desloque-se durante o tempo indicado e depois volte da mesma forma para trás."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos pulsos."
+		],
+		"techniqueNotes": [
+			"Movimentos lentos e controlados."
+		]
+	},
+	"broad-jump": {
+		"name": "Salto em comprimento a pés juntos",
+		"description": "Salto explosivo para a frente, com os dois pés. Desenvolve a potência das pernas e a coordenação.",
+		"steps": [
+			"Fique com os pés à largura dos ombros e leve os braços para trás.",
+			"Impulsione-se, balançando os braços para a frente, e salte o mais longe possível.",
+			"Aterre suavemente, com os joelhos flexionados.",
+			"Pare, recupere o equilíbrio e repita."
+		],
+		"warnings": [
+			"Não faça em superfícies escorregadias e pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Aterragem suave, com todo o pé no chão."
+		]
+	},
+	"skater-jumps": {
+		"name": "Saltos de patinador",
+		"description": "Saltos laterais de uma perna para a outra. Trabalham o equilíbrio, as pernas e a resistência.",
+		"steps": [
+			"Apoie-se numa perna e leve a outra para trás.",
+			"Salte para o lado, para a outra perna, balançando os braços.",
+			"Pare um instante, mantendo o equilíbrio.",
+			"Salte de volta e continue durante o tempo indicado."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos ou nos tornozelos."
+		],
+		"techniqueNotes": [
+			"Aterragem suave, com o joelho por trás da ponta do pé."
+		]
+	},
+	"shuttle-run": {
+		"name": "Corrida de vaivém",
+		"description": "Corrida entre dois pontos com mudança de direção. Desenvolve a velocidade de reação e a resistência.",
+		"steps": [
+			"Marque dois pontos a 3 m de distância um do outro.",
+			"Corra até ao segundo ponto e toque no chão com a mão.",
+			"Rode rapidamente e corra de volta.",
+			"Repita durante o tempo indicado."
+		],
+		"warnings": [
+			"Não faça em superfícies escorregadias."
+		],
+		"techniqueNotes": [
+			"Rode com os joelhos flexionados, sem cruzar a perna."
+		]
+	},
+	"stair-climb": {
+		"name": "Subida de escadas",
+		"description": "Subida rápida de escadas ou de uma encosta íngreme. Cardio e trabalho para as pernas e os glúteos.",
+		"steps": [
+			"Fique junto à base das escadas ou da encosta.",
+			"Suba a passo rápido, apoiando todo o pé no degrau.",
+			"Suba durante o tempo indicado e depois desça devagar.",
+			"Repita de acordo com o número de séries."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"A descida é tranquila; se necessário, segure-se ao corrimão."
+		]
+	},
+	"park-bench-step-up": {
+		"name": "Subida ao banco de jardim",
+		"description": "Subida a um banco estável, numa perna. Trabalha os quadríceps e os glúteos.",
+		"steps": [
+			"Verifique se o banco é estável e fique de frente para ele.",
+			"Coloque um pé no banco e suba, esticando a perna.",
+			"Desça devagar, controlando o movimento.",
+			"Termine a série e troque de perna."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos joelhos."
+		],
+		"techniqueNotes": [
+			"Empurre com a perna que está no banco, e não com o chão."
+		]
+	},
+	"park-bench-incline-push-up": {
+		"name": "Flexões com apoio no banco de jardim",
+		"description": "Flexões com as mãos apoiadas num banco. Variante mais fácil para o peito, os ombros e o tríceps.",
+		"steps": [
+			"Coloque as palmas na borda de um banco estável, com o corpo em linha reta.",
+			"Flexione os cotovelos e baixe o peito até ao banco.",
+			"Ao expirar, empurre até esticar os braços.",
+			"Mantenha o tronco contraído durante todo o movimento."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos pulsos."
+		],
+		"techniqueNotes": [
+			"Cotovelos num ângulo de cerca de 45° em relação ao tronco."
+		]
+	},
+	"australian-pull-up": {
+		"name": "Remada australiana",
+		"description": "Elevação do corpo até uma barra baixa, deitado por baixo dela. Trabalha as costas e o bíceps, mais fácil do que as elevações na barra.",
+		"steps": [
+			"Fique debaixo de uma barra baixa e resistente e agarre-a com uma pega mais larga do que os ombros.",
+			"Estique o corpo em linha reta, com os calcanhares no chão.",
+			"Puxe o peito até à barra, juntando as omoplatas.",
+			"Desça lentamente até os braços ficarem quase esticados."
+		],
+		"warnings": [
+			"Certifique-se de que a barra é resistente e pare o exercício se sentir dor nos ombros."
+		],
+		"techniqueNotes": [
+			"O corpo mantém-se direito, sem deixar a anca descair."
+		]
+	},
+	"outdoor-plank-shoulder-taps": {
+		"name": "Prancha com toques nos ombros",
+		"description": "Prancha com toques alternados no ombro. Trabalha o tronco e a estabilidade dos ombros.",
+		"steps": [
+			"Assuma a posição de prancha alta, com os pés um pouco mais afastados do que os ombros.",
+			"Toque com a mão direita no ombro esquerdo, sem balançar a anca.",
+			"Volte com a mão e toque com a outra.",
+			"Continue a alternar durante o tempo indicado."
+		],
+		"warnings": [
+			"Pare o exercício se sentir dor nos pulsos."
+		],
+		"techniqueNotes": [
+			"A anca quase não se move."
+		]
+	}
+}

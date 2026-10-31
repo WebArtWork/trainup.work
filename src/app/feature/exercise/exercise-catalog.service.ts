@@ -1,25 +1,55 @@
-import { computed, inject, Service, signal } from '@angular/core';
+import { computed, effect, inject, Service, signal } from '@angular/core';
 import type { Exercise } from '@trainup/planner';
+import { LanguageService } from '@wawjs/ngx-translate';
 import { collection, getDocs } from 'firebase/firestore';
 import { FirebaseService } from '../firebase/firebase.service';
-import { loadBundledCatalog } from './bundled-catalog';
+import { injectLocale } from '../plan/locale';
+import {
+	ExerciseTranslation,
+	loadBundledCatalog,
+	loadExerciseTranslations,
+} from './bundled-catalog';
 import { EXERCISE_IMAGES } from './exercise-images';
 
 /**
  * The exercise catalog: the bundled src/data catalog plus the user's own exercises.
+ * `exercises` is shown in the active language; `source` keeps the catalog as written.
  */
 @Service()
 export class ExerciseCatalogService {
 	private readonly _firebase = inject(FirebaseService);
+	private readonly _language = inject(LanguageService).language;
+	private readonly _locale = injectLocale();
 
-	readonly exercises = signal<Exercise[]>([]);
+	/** The catalog as written, Ukrainian text included. The planner reads this so plans do not depend on the language. */
+	readonly source = signal<Exercise[]>([]);
 	readonly loaded = signal(false);
 	readonly error = signal(false);
+	readonly exercises = computed(() => {
+		const translations = this._translations();
+
+		return this.source()
+			.map((exercise) => ({ ...exercise, ...translations[exercise.id] }))
+			.sort((a, b) => a.name.localeCompare(b.name, this._locale()));
+	});
 	readonly byId = computed(
 		() => new Map(this.exercises().map((exercise) => [exercise.id, exercise] as const)),
 	);
 
+	private readonly _translations = signal<Record<string, ExerciseTranslation>>({});
 	private _loading: Promise<void> | null = null;
+
+	constructor() {
+		effect(() => {
+			const language = this._language();
+
+			void loadExerciseTranslations(language).then((translations) => {
+				if (this._language() === language) {
+					this._translations.set(translations);
+				}
+			});
+		});
+	}
 
 	/**
 	 * The user's own exercises (created through the AI assistant connection) share the catalog's
@@ -55,13 +85,11 @@ export class ExerciseCatalogService {
 		]);
 		const exercises = [...catalog, ...custom];
 
-		this.exercises.set(
-			exercises
-				.map((exercise) => ({
-					...exercise,
-					imageUrl: exercise.imageUrl || EXERCISE_IMAGES[exercise.id] || null,
-				}))
-				.sort((a, b) => a.name.localeCompare(b.name, 'uk')),
+		this.source.set(
+			exercises.map((exercise) => ({
+				...exercise,
+				imageUrl: exercise.imageUrl || EXERCISE_IMAGES[exercise.id] || null,
+			})),
 		);
 		this.loaded.set(true);
 	}

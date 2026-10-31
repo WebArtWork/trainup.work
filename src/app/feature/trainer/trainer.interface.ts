@@ -39,6 +39,24 @@ export function trainerImage(exercise: Exercise, trainer: Trainer): string | nul
 }
 
 /**
+ * Which trainer shows each exercise in a list. A chosen trainer shows everything; with "all" the
+ * trainers take turns by position (first, second, first, second...), and an exercise only one of
+ * them does keeps its own trainer.
+ */
+export function assignTrainers<T extends { exercise: Exercise }>(
+	items: T[],
+	choice: TrainerChoice,
+): (T & { trainer: Trainer })[] {
+	return items.map((item, index) => {
+		const turn: Trainer = index % 2 === 0 ? 'female' : 'male';
+		const trainers = exerciseTrainers(item.exercise);
+		const wanted = choice === 'all' ? turn : choice;
+
+		return { ...item, trainer: trainers.includes(wanted) ? wanted : trainers[0]! };
+	});
+}
+
+/**
  * Orders exercises one by one across the trainers, so the list starts with the first trainer's
  * exercise, then the second trainer's, and so on. Exercises both trainers do come last in turn.
  */

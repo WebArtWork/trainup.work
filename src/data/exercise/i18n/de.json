@@ -1,0 +1,1938 @@
+{
+	"bodyweight-squat": {
+		"name": "Kniebeuge mit Körpergewicht",
+		"description": "Grundlegende Kniebeuge ohne Zusatzgewicht. Trainiert Quadrizeps und Gesäßmuskulatur und entwickelt die Bewegungskontrolle in Knien und Hüften.",
+		"steps": [
+			"Stell dich schulterbreit hin.",
+			"Schiebe das Becken nach hinten und beuge die Knie, während du dich nach unten senkst.",
+			"Gehe bis zu einer angenehmen Tiefe, den Rücken dabei gerade.",
+			"Drücke dich mit den Füßen ab und kehre in die Ausgangsposition zurück."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie bewegen sich in Richtung der Zehenspitzen.",
+			"Hebe die Fersen nicht vom Boden ab."
+		]
+	},
+	"split-squat": {
+		"name": "Split Squat",
+		"description": "Kniebeuge in weiter Schrittstellung. Trainiert Quadrizeps und Gesäßmuskulatur jedes Beins einzeln und verbessert das Gleichgewicht.",
+		"steps": [
+			"Gehe in eine weite Schrittstellung: ein Bein vorne, das andere hinten.",
+			"Senke dich senkrecht nach unten und beuge dabei beide Knie.",
+			"Richte dich auf, indem du dich mit dem vorderen Bein abdrückst.",
+			"Mache alle Wiederholungen und wechsle dann die Beine."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Halte den Oberkörper aufrecht.",
+			"Das Körpergewicht liegt hauptsächlich auf dem vorderen Bein."
+		]
+	},
+	"reverse-lunge": {
+		"name": "Ausfallschritt rückwärts",
+		"description": "Ausfallschritt mit einem Schritt nach hinten. Trainiert Quadrizeps und Gesäßmuskulatur und entwickelt Gleichgewicht und Koordination.",
+		"steps": [
+			"Stell dich aufrecht hin, die Füße hüftbreit.",
+			"Mache einen Schritt nach hinten und senke dich ab, indem du beide Knie beugst.",
+			"Drücke dich mit dem vorderen Bein ab und kehre in die Ausgangsposition zurück.",
+			"Wechsle die Beine ab oder mache alle Wiederholungen auf einer Seite."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Mache den Schritt nach hinten kontrolliert, ohne Ruck.",
+			"Halte den Oberkörper gerade."
+		]
+	},
+	"glute-bridge": {
+		"name": "Glute Bridge",
+		"description": "Becken heben aus der Rückenlage. Trainiert die Gesäßmuskulatur und die Oberschenkelrückseite.",
+		"steps": [
+			"Lege dich auf den Rücken, beuge die Knie, die Füße stehen auf dem Boden.",
+			"Spanne das Gesäß an und hebe das Becken nach oben.",
+			"Halte die obere Position eine Sekunde lang.",
+			"Senke das Becken langsam auf den Boden ab."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn du Schmerzen im unteren Rücken spürst."
+		],
+		"techniqueNotes": [
+			"Mache am höchsten Punkt kein Hohlkreuz.",
+			"Drücke die Fersen in den Boden."
+		]
+	},
+	"single-leg-glute-bridge": {
+		"name": "Glute Bridge einbeinig",
+		"description": "Anspruchsvollere Variante der Glute Bridge mit Stütze auf einem Bein. Trainiert die Gesäßmuskulatur und die Oberschenkelrückseite und verbessert die Stabilität des Beckens.",
+		"steps": [
+			"Lege dich auf den Rücken, beuge die Knie, die Füße stehen auf dem Boden.",
+			"Strecke ein Bein aus und hebe es vom Boden ab.",
+			"Hebe das Becken, indem du dich mit der Ferse des Standbeins abdrückst.",
+			"Senke dich langsam ab; wechsle nach dem Satz die Beine."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn du Schmerzen im unteren Rücken spürst."
+		],
+		"techniqueNotes": [
+			"Halte das Becken gerade und kippe es nicht seitlich.",
+			"Bewege dich langsam und kontrolliert."
+		]
+	},
+	"knee-push-up": {
+		"name": "Liegestütze auf den Knien",
+		"description": "Erleichterte Variante der Liegestütze mit Stütze auf den Knien. Trainiert die Brustmuskulatur und den Trizeps.",
+		"steps": [
+			"Gehe in den Kniestand, die Hände stehen etwas weiter als schulterbreit auf dem Boden.",
+			"Bringe den Körper von den Knien bis zum Kopf in eine Linie.",
+			"Beuge die Arme und senke die Brust zum Boden.",
+			"Drücke dich ab und strecke die Arme."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Handgelenken oder Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen zeigen in einem Winkel von etwa 45° zum Oberkörper.",
+			"Lass den unteren Rücken nicht durchhängen."
+		]
+	},
+	"push-up": {
+		"name": "Liegestütze",
+		"description": "Klassische Liegestütze vom Boden. Trainieren die Brustmuskulatur, den Trizeps und die Rumpfstabilisatoren.",
+		"steps": [
+			"Gehe in die Liegestützposition, die Hände etwas weiter als schulterbreit.",
+			"Bringe den Körper von den Fersen bis zum Kopf in eine Linie.",
+			"Beuge die Arme und senke die Brust zum Boden.",
+			"Drücke dich ab und strecke die Arme."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Handgelenken oder Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Halte Bauch und Gesäß angespannt.",
+			"Die Ellbogen zeigen in einem Winkel von etwa 45° zum Oberkörper."
+		]
+	},
+	"wall-push-up": {
+		"name": "Liegestütze an der Wand",
+		"description": "Leichteste Variante der Liegestütze mit Stütze an der Wand. Trainiert die Brustmuskulatur und den Trizeps bei minimaler Belastung.",
+		"steps": [
+			"Stell dich mit dem Gesicht zur Wand, eine Armlänge entfernt.",
+			"Stütze die Handflächen auf Schulterhöhe an der Wand ab.",
+			"Beuge die Arme und bringe die Brust näher an die Wand.",
+			"Drücke dich ab und kehre in die Ausgangsposition zurück."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Halte den Körper gerade wie ein Brett.",
+			"Je weiter die Füße von der Wand entfernt sind, desto schwerer wird es."
+		]
+	},
+	"pike-push-up": {
+		"name": "Pike-Liegestütze",
+		"description": "Liegestütze mit erhöhtem Becken, die die Belastung auf die Schultern verlagern. Trainieren die Schultermuskulatur und den Trizeps.",
+		"steps": [
+			"Gehe in die Liegestützposition und hebe das Becken, sodass ein umgekehrtes „V“ entsteht.",
+			"Beuge die Arme und senke den Kopf zwischen den Händen in Richtung Boden.",
+			"Drücke dich ab und strecke die Arme.",
+			"Halte das Becken während des gesamten Satzes oben."
+		],
+		"warnings": [
+			"Senke dich langsam ab und stütze den Kopf nicht auf dem Boden ab.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern, Handgelenken oder im Nacken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen zeigen nach hinten, nicht zur Seite.",
+			"Der Blick geht auf den Boden zwischen den Händen."
+		]
+	},
+	"plank": {
+		"name": "Plank (Unterarmstütz)",
+		"description": "Statisches Halten des Körpers im Unterarmstütz. Trainiert die Rumpfmuskulatur und die Stabilität des Oberkörpers.",
+		"steps": [
+			"Gehe in den Unterarmstütz, die Ellbogen unter den Schultern.",
+			"Strecke die Beine und bringe den Körper von den Fersen bis zum Kopf in eine Linie.",
+			"Spanne Bauch und Gesäß an.",
+			"Halte die Position für die vorgegebene Zeit und atme dabei gleichmäßig."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Hebe das Becken nicht an und lass es nicht absacken.",
+			"Halte nicht die Luft an."
+		]
+	},
+	"side-plank": {
+		"name": "Seitstütz",
+		"description": "Statisches Halten des Körpers seitlich mit Stütze auf dem Unterarm. Trainiert die schrägen Bauchmuskeln und die Rumpfstabilisatoren.",
+		"steps": [
+			"Lege dich auf die Seite, der Ellbogen liegt unter der Schulter.",
+			"Stelle die Füße übereinander oder einen vor den anderen.",
+			"Hebe das Becken und bringe den Körper in eine Linie.",
+			"Halte die Position für die vorgegebene Zeit und wechsle dann die Seite."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in der Schulter auftreten."
+		],
+		"techniqueNotes": [
+			"Lass das Becken nicht durchhängen.",
+			"Halte den Hals in einer Linie mit dem Körper."
+		]
+	},
+	"dead-bug": {
+		"name": "Dead Bug",
+		"description": "Abwechselndes Strecken von gegenüberliegendem Arm und Bein in Rückenlage. Trainiert die tiefe Rumpfmuskulatur und die Kontrolle der Position des unteren Rückens.",
+		"steps": [
+			"Lege dich auf den Rücken, strecke die Arme nach oben und beuge die Beine im rechten Winkel.",
+			"Senke gegenüberliegenden Arm und Bein langsam zum Boden ab.",
+			"Bringe sie zurück in die Ausgangsposition.",
+			"Wiederhole mit dem anderen Paar aus Arm und Bein."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Drücke den unteren Rücken gegen den Boden.",
+			"Bewege dich langsam und atme beim Absenken aus."
+		]
+	},
+	"bird-dog": {
+		"name": "Bird Dog",
+		"description": "Abwechselndes Ausstrecken von gegenüberliegendem Arm und Bein im Vierfüßlerstand. Trainiert die Rumpfmuskulatur, das Gesäß und die Koordination.",
+		"steps": [
+			"Gehe in den Vierfüßlerstand, die Hände unter den Schultern, die Knie unter den Hüften.",
+			"Strecke gleichzeitig einen Arm nach vorne und das gegenüberliegende Bein nach hinten aus.",
+			"Halte die Position eine Sekunde lang.",
+			"Kehre in die Ausgangsposition zurück und wechsle die Seite."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Halte den Rücken gerade, kein Hohlkreuz.",
+			"Das Becken bleibt parallel zum Boden."
+		]
+	},
+	"superman": {
+		"name": "Superman",
+		"description": "Gleichzeitiges Heben von Armen und Beinen in Bauchlage. Trainiert die Rückenmuskulatur und das Gesäß.",
+		"steps": [
+			"Lege dich auf den Bauch, die Arme nach vorne gestreckt.",
+			"Hebe gleichzeitig Arme, Brust und Beine leicht vom Boden ab.",
+			"Halte die Position 1–2 Sekunden.",
+			"Senke dich langsam ab."
+		],
+		"warnings": [
+			"Hebe dich nicht ruckartig und nicht zu hoch an.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Blick geht nach unten, der Hals bleibt in einer Linie mit dem Rücken.",
+			"Bewege dich gleichmäßig, ohne Ruck."
+		]
+	},
+	"wall-sit": {
+		"name": "Wandsitzen",
+		"description": "Statisches Halten der Sitzposition mit dem Rücken an der Wand. Trainiert den Quadrizeps und die Beinausdauer.",
+		"steps": [
+			"Stell dich mit dem Rücken zur Wand, die Füße etwa einen halben Meter von ihr entfernt.",
+			"Rutsche mit dem Rücken nach unten, bis die Knie in einem angenehmen Winkel gebeugt sind.",
+			"Halte die Position für die vorgegebene Zeit.",
+			"Richte dich langsam wieder auf."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie stehen über den Knöcheln und gehen nicht über die Zehenspitzen hinaus.",
+			"Der Rücken liegt vollständig an der Wand an."
+		]
+	},
+	"jumping-jacks": {
+		"name": "Hampelmänner",
+		"description": "Sprünge mit gleichzeitigem Spreizen von Armen und Beinen. Verbessern die Herz-Kreislauf-Ausdauer und wärmen den ganzen Körper auf.",
+		"steps": [
+			"Stell dich aufrecht hin, die Beine zusammen, die Arme am Körper.",
+			"Springe mit gespreizten Beinen und hebe die Arme über den Kopf.",
+			"Springe zurück in die Ausgangsposition.",
+			"Mache die vorgegebene Zeit in gleichmäßigem Tempo weiter."
+		],
+		"warnings": [
+			"Lande weich auf dem Vorderfuß.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie sind bei der Landung leicht gebeugt.",
+			"Atme gleichmäßig."
+		]
+	},
+	"step-jacks": {
+		"name": "Step Jacks",
+		"description": "Stoßfreie Variante der Hampelmänner: Schritt zur Seite mit Armen über dem Kopf. Wärmt den Körper auf und erhöht den Puls ohne Sprünge.",
+		"steps": [
+			"Stell dich aufrecht hin, die Beine zusammen, die Arme am Körper.",
+			"Mache einen Schritt zur Seite und hebe gleichzeitig die Arme über den Kopf.",
+			"Stelle das Bein wieder bei und senke die Arme.",
+			"Wechsle die Seiten in gleichmäßigem Tempo."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Halte das Tempo so, dass der Puls moderat ansteigt.",
+			"Setze die Füße weich auf."
+		]
+	},
+	"high-knees": {
+		"name": "Kniehebelauf",
+		"description": "Laufen auf der Stelle mit hohem Anheben der Knie. Verbessert die Herz-Kreislauf-Ausdauer und die Schnelligkeit der Beine.",
+		"steps": [
+			"Stell dich aufrecht hin, die Füße hüftbreit.",
+			"Beginne auf der Stelle zu laufen und hebe die Knie etwa bis auf Hüfthöhe.",
+			"Bewege die Arme im Takt der Beine.",
+			"Mache die vorgegebene Zeit weiter."
+		],
+		"warnings": [
+			"Lande weich auf dem Vorderfuß.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Halte den Oberkörper aufrecht.",
+			"Lehne dich nicht nach hinten."
+		]
+	},
+	"march-in-place": {
+		"name": "Marschieren auf der Stelle",
+		"description": "Gehen auf der Stelle mit aktiver Armarbeit. Leichte, stoßfreie Cardio-Übung zum Aufwärmen und zur Pulserhöhung.",
+		"steps": [
+			"Stell dich aufrecht hin, die Arme in den Ellbogen gebeugt.",
+			"Hebe abwechselnd die Knie und marschiere auf der Stelle.",
+			"Bewege die Arme im Takt der Schritte.",
+			"Halte die vorgegebene Zeit ein gleichmäßiges Tempo."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Halte den Rücken gerade.",
+			"Für mehr Schwierigkeit hebe die Knie höher oder erhöhe das Tempo."
+		]
+	},
+	"mountain-climbers": {
+		"name": "Mountain Climbers",
+		"description": "Abwechselndes Heranziehen der Knie zur Brust in der Liegestützposition. Verbessert die Ausdauer und trainiert die Rumpfmuskulatur.",
+		"steps": [
+			"Gehe in die Liegestützposition, die Hände unter den Schultern.",
+			"Ziehe ein Knie zur Brust.",
+			"Bringe das Bein zurück und ziehe das andere Knie heran.",
+			"Wechsle die Beine in schnellem, aber kontrolliertem Tempo."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Handgelenken oder Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Hebe das Becken nicht hoch an.",
+			"Halte die Schultern über den Händen."
+		]
+	},
+	"burpee": {
+		"name": "Burpee",
+		"description": "Komplexe Übung: Kniebeuge, Liegestützposition, Rückkehr und Sprung nach oben. Verbessert die allgemeine Ausdauer und belastet den ganzen Körper.",
+		"steps": [
+			"Gehe in die Hocke und setze die Hände auf den Boden.",
+			"Springe oder steige mit den Füßen nach hinten in die Liegestützposition.",
+			"Bringe die Füße zu den Händen und richte dich auf.",
+			"Mache einen kleinen Sprung nach oben mit den Armen über dem Kopf."
+		],
+		"warnings": [
+			"Lande weich und mache in der Liegestützposition kein Hohlkreuz.",
+			"Brich die Übung ab, wenn Schmerzen in den Gelenken oder im Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Halte den Körper in der Stützposition gerade.",
+			"Achte auf Kontrolle statt auf maximale Geschwindigkeit."
+		]
+	},
+	"squat-jump": {
+		"name": "Sprung-Kniebeuge",
+		"description": "Kniebeuge mit explosivem Sprung nach oben. Entwickelt Beinkraft und Explosivität.",
+		"steps": [
+			"Stell dich schulterbreit hin.",
+			"Gehe bis zu einer angenehmen Tiefe in die Kniebeuge.",
+			"Springe explosiv nach oben.",
+			"Lande weich und gehe sofort wieder in die Kniebeuge."
+		],
+		"warnings": [
+			"Lande weich auf gebeugten Beinen.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie bewegen sich in Richtung der Zehenspitzen.",
+			"Die Landung ist leise und kontrolliert."
+		]
+	},
+	"cat-cow": {
+		"name": "Katze-Kuh",
+		"description": "Fließendes, abwechselndes Runden und Durchstrecken des Rückens im Vierfüßlerstand. Verbessert die Beweglichkeit der Wirbelsäule.",
+		"steps": [
+			"Gehe in den Vierfüßlerstand, die Hände unter den Schultern.",
+			"Atme ein, mache den Rücken hohl und hebe den Blick.",
+			"Atme aus, runde den Rücken und senke den Kopf.",
+			"Wiederhole fließend im Rhythmus der Atmung."
+		],
+		"warnings": [
+			"Bewege dich in einem angenehmen Bewegungsumfang und brich ab, wenn Schmerzen auftreten."
+		],
+		"techniqueNotes": [
+			"Die Bewegung geht vom Becken bis zum Kopf.",
+			"Beeile dich nicht."
+		]
+	},
+	"kneeling-hip-flexor-stretch": {
+		"name": "Dehnung der Hüftbeuger im Kniestand",
+		"description": "Dehnung der Oberschenkelvorderseite in der Ausfallschrittposition auf dem Knie. Verbessert die Beweglichkeit des Hüftgelenks.",
+		"steps": [
+			"Gehe auf ein Knie, das andere Bein steht vorne und ist im rechten Winkel gebeugt.",
+			"Spanne das Gesäß des Beins an, das auf dem Knie steht.",
+			"Schiebe das Becken sanft nach vorne, bis du eine Dehnung spürst.",
+			"Halte die Position für die vorgegebene Zeit und wechsle dann das Bein."
+		],
+		"warnings": [
+			"Lege etwas Weiches unter das Knie; brich ab, wenn Schmerzen auftreten."
+		],
+		"techniqueNotes": [
+			"Mache kein Hohlkreuz.",
+			"Die Dehnung sollte moderat sein, ohne Schmerzen."
+		]
+	},
+	"arm-circles": {
+		"name": "Armkreisen",
+		"description": "Kreisende Bewegungen mit gestreckten Armen. Wärmen die Schultergelenke auf und verbessern ihre Beweglichkeit.",
+		"steps": [
+			"Stell dich aufrecht hin und strecke die Arme seitlich aus.",
+			"Mache kleine Kreise mit den Armen nach vorne.",
+			"Vergrößere den Bewegungsumfang nach und nach.",
+			"Wechsle nach der Hälfte der Zeit die Richtung."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Die Schultern bleiben unten, ziehe sie nicht zu den Ohren.",
+			"Bewege dich gleichmäßig."
+		]
+	},
+	"open-book-rotation": {
+		"name": "Open-Book-Rotation",
+		"description": "Drehung der Brustwirbelsäule in Seitenlage. Verbessert die Beweglichkeit der Brustwirbelsäule und der Schultern.",
+		"steps": [
+			"Lege dich auf die Seite, beuge die Knie und strecke die Arme vor dir aus.",
+			"Führe den oberen Arm im Bogen zur anderen Seite und drehe dabei die Brust auf.",
+			"Folge der Hand mit dem Blick.",
+			"Bringe den Arm zurück; wechsle nach dem Satz die Seite."
+		],
+		"warnings": [
+			"Bewege dich in einem angenehmen Bewegungsumfang und brich ab, wenn Schmerzen auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie bleiben zusammen auf dem Boden.",
+			"Atme ruhig."
+		]
+	},
+	"goblet-squat": {
+		"name": "Goblet Squat",
+		"description": "Kniebeuge mit einer Kurzhantel oder Kettlebell vor der Brust. Trainiert Quadrizeps und Gesäß und hilft, den Oberkörper aufrecht zu halten.",
+		"steps": [
+			"Halte eine Kurzhantel oder Kettlebell senkrecht vor der Brust.",
+			"Stell dich etwas weiter als schulterbreit hin.",
+			"Gehe in die Kniebeuge und halte dabei die Brust oben.",
+			"Richte dich auf, indem du dich mit den Füßen abdrückst."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder im Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen bewegen sich zwischen den Knien.",
+			"Der Rücken bleibt während der gesamten Bewegung gerade."
+		]
+	},
+	"dumbbell-romanian-deadlift": {
+		"name": "Rumänisches Kreuzheben mit Kurzhanteln",
+		"description": "Vorbeuge mit Kurzhanteln durch Bewegung in den Hüftgelenken. Trainiert die Oberschenkelrückseite und das Gesäß.",
+		"steps": [
+			"Stell dich aufrecht hin, die Kurzhanteln vor den Oberschenkeln.",
+			"Beuge die Knie leicht und schiebe das Becken nach hinten.",
+			"Senke die Kurzhanteln an den Beinen entlang ab, bis du eine Dehnung in der Oberschenkelrückseite spürst.",
+			"Komme wieder nach oben, indem du das Becken nach vorne schiebst."
+		],
+		"warnings": [
+			"Runde den Rücken nicht; wähle ein Gewicht, mit dem du die Technik halten kannst.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Rücken ist gerade, die Kurzhanteln bleiben nah an den Beinen.",
+			"Die Bewegung kommt aus dem Becken, nicht aus dem Rücken."
+		]
+	},
+	"one-arm-dumbbell-row": {
+		"name": "Einarmiges Kurzhantelrudern",
+		"description": "Rudern mit der Kurzhantel zur Hüfte in der Vorbeuge mit Handstütze. Trainiert die Rückenmuskulatur und den Bizeps.",
+		"steps": [
+			"Beuge dich nach vorne und stütze die freie Hand auf dem Oberschenkel oder einer stabilen Unterlage ab.",
+			"Nimm die Kurzhantel, der Arm hängt gestreckt unter der Schulter.",
+			"Ziehe die Kurzhantel zur Hüfte und führe den Ellbogen dabei nach hinten.",
+			"Senke sie langsam ab; wechsle nach dem Satz den Arm."
+		],
+		"warnings": [
+			"Halte den Rücken gerade; brich ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Drehe den Oberkörper beim Ziehen nicht mit.",
+			"Ziehe das Schulterblatt zur Wirbelsäule."
+		]
+	},
+	"dumbbell-floor-press": {
+		"name": "Kurzhantel-Floor-Press",
+		"description": "Drücken der Kurzhanteln nach oben in Rückenlage auf dem Boden mit begrenztem Bewegungsumfang. Trainiert die Brustmuskulatur und den Trizeps.",
+		"steps": [
+			"Lege dich auf den Rücken, beuge die Knie, die Kurzhanteln in den Händen neben der Brust.",
+			"Drücke die Kurzhanteln über der Brust nach oben.",
+			"Senke langsam ab, bis die Oberarme den Boden berühren.",
+			"Wiederhole das Drücken."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen zeigen in einem Winkel von etwa 45° zum Oberkörper.",
+			"Senke die Kurzhanteln kontrolliert ab, ohne sie auf den Boden fallen zu lassen."
+		]
+	},
+	"dumbbell-bench-press": {
+		"name": "Kurzhantel-Bankdrücken",
+		"description": "Drücken der Kurzhanteln nach oben in Rückenlage auf einer flachen Bank. Trainiert die Brustmuskulatur und den Trizeps.",
+		"steps": [
+			"Lege dich auf die Bank, die Füße stehen auf dem Boden, die Kurzhanteln neben der Brust.",
+			"Drücke die Kurzhanteln über der Brust nach oben.",
+			"Senke sie langsam bis auf Brusthöhe ab.",
+			"Wiederhole das Drücken."
+		],
+		"warnings": [
+			"Wähle ein Gewicht, das du kontrolliert absenken kannst.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Die Schulterblätter sind zusammengezogen und an die Bank gedrückt.",
+			"Lass die Kurzhanteln nicht von der Brust abprallen."
+		]
+	},
+	"incline-dumbbell-press": {
+		"name": "Schrägbankdrücken mit Kurzhanteln",
+		"description": "Drücken der Kurzhanteln auf einer Bank mit erhöhter Rückenlehne. Trainiert den oberen Teil der Brustmuskulatur und die vorderen Schultern.",
+		"steps": [
+			"Stelle die Rückenlehne der Bank auf einen mäßigen Neigungswinkel ein.",
+			"Setze dich auf die Bank, der Rücken liegt an, die Kurzhanteln neben der Brust.",
+			"Drücke die Kurzhanteln über dem oberen Teil der Brust nach oben.",
+			"Senke langsam ab und wiederhole."
+		],
+		"warnings": [
+			"Vergewissere dich, dass die Rückenlehne der Bank sicher fixiert ist.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Die Schulterblätter sind zusammengezogen und an die Bank gedrückt.",
+			"Bewege dich im gesamten Bewegungsumfang kontrolliert."
+		]
+	},
+	"dumbbell-shoulder-press": {
+		"name": "Kurzhantel-Schulterdrücken",
+		"description": "Drücken der Kurzhanteln nach oben im Stehen. Trainiert die Schultermuskulatur und den Trizeps.",
+		"steps": [
+			"Stell dich aufrecht hin, die Kurzhanteln auf Schulterhöhe.",
+			"Spanne Bauch und Gesäß an.",
+			"Drücke die Kurzhanteln über den Kopf nach oben.",
+			"Senke sie langsam bis auf Schulterhöhe ab."
+		],
+		"warnings": [
+			"Mache beim Drücken kein Hohlkreuz.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern, im Nacken oder im Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Rippen sind unten, der Oberkörper stabil.",
+			"Lege den Kopf nicht in den Nacken."
+		]
+	},
+	"dumbbell-reverse-lunge": {
+		"name": "Ausfallschritt rückwärts mit Kurzhanteln",
+		"description": "Ausfallschritt mit einem Schritt nach hinten und Kurzhanteln in den Händen. Trainiert Quadrizeps und Gesäßmuskulatur mit zusätzlicher Last.",
+		"steps": [
+			"Stell dich aufrecht hin, die Kurzhanteln in den herabhängenden Händen.",
+			"Mache einen Schritt nach hinten und senke dich ab, indem du beide Knie beugst.",
+			"Drücke dich mit dem vorderen Bein ab und kehre in die Ausgangsposition zurück.",
+			"Wechsle die Beine ab oder mache alle Wiederholungen auf einer Seite."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Halte den Oberkörper aufrecht.",
+			"Die Schultern sind unten, die Kurzhanteln schwingen nicht."
+		]
+	},
+	"farmer-carry": {
+		"name": "Farmer's Walk",
+		"description": "Gehen mit Kurzhanteln oder Kettlebells in den herabhängenden Händen. Trainiert die Rumpfmuskulatur, den Griff und die allgemeine Stabilität.",
+		"steps": [
+			"Nimm Kurzhanteln oder Kettlebells in beide Hände.",
+			"Richte dich auf, die Schultern sind unten und nach hinten gezogen.",
+			"Gehe die vorgegebene Zeit mit kurzen, gleichmäßigen Schritten.",
+			"Stelle das Gewicht vorsichtig auf dem Boden ab."
+		],
+		"warnings": [
+			"Hebe und senke das Gewicht mit geradem Rücken.",
+			"Brich die Übung ab, wenn Schmerzen im Rücken oder in den Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Neige dich nicht zur Seite des Gewichts.",
+			"Halte den Bauch angespannt."
+		]
+	},
+	"kettlebell-swing": {
+		"name": "Kettlebell Swing",
+		"description": "Dynamisches Schwingen der Kettlebell durch Bewegung in den Hüftgelenken. Entwickelt die Kraft von Gesäß und Oberschenkelrückseite sowie die Ausdauer.",
+		"steps": [
+			"Stell dich etwas weiter als schulterbreit hin, die Kettlebell steht vor dir.",
+			"Beuge dich mit geradem Rücken nach vorne und schwinge die Kettlebell zwischen den Beinen nach hinten.",
+			"Schiebe das Becken kraftvoll nach vorne, sodass die Kettlebell bis auf Brusthöhe steigt.",
+			"Lass die Kettlebell nach unten schwingen und wiederhole die Bewegung."
+		],
+		"warnings": [
+			"Vergewissere dich, dass sich keine Menschen und Gegenstände in der Nähe befinden.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Bewegung kommt aus dem Becken, die Arme halten die Kettlebell nur.",
+			"Der Rücken ist am tiefsten Punkt gerade."
+		]
+	},
+	"kettlebell-deadlift": {
+		"name": "Kreuzheben mit Kettlebell",
+		"description": "Anheben der Kettlebell vom Boden durch Bewegung in den Hüftgelenken. Trainiert Gesäß und Oberschenkelrückseite und lehrt das richtige Heben von Gewicht.",
+		"steps": [
+			"Stell dich über die Kettlebell, die Füße hüftbreit.",
+			"Schiebe das Becken nach hinten, beuge die Knie und greife den Griff der Kettlebell.",
+			"Richte dich auf, indem du das Becken nach vorne schiebst.",
+			"Senke die Kettlebell mit derselben Bewegung wieder auf den Boden ab."
+		],
+		"warnings": [
+			"Runde den Rücken beim Anheben nicht.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Rücken ist gerade, der Blick geht nach vorne.",
+			"Die Kettlebell bewegt sich nah am Körper."
+		]
+	},
+	"band-pull-apart": {
+		"name": "Band Pull-Apart",
+		"description": "Auseinanderziehen eines Gummibands mit gestreckten Armen vor der Brust. Trainiert die obere Rückenmuskulatur und die hinteren Schultern.",
+		"steps": [
+			"Nimm das Band schulterbreit in beide Hände vor der Brust.",
+			"Ziehe die Arme zur Seite auseinander und dehne dabei das Band.",
+			"Ziehe am Endpunkt die Schulterblätter zusammen.",
+			"Bringe die Arme langsam zurück in die Ausgangsposition."
+		],
+		"warnings": [
+			"Prüfe das Band vor der Übung auf Beschädigungen."
+		],
+		"techniqueNotes": [
+			"Die Schultern bleiben unten, ziehe sie nicht zu den Ohren.",
+			"Die Arme sind während der gesamten Bewegung fast gestreckt."
+		]
+	},
+	"band-row": {
+		"name": "Rudern mit dem Band",
+		"description": "Rudern mit einem befestigten Band zur Hüfte. Trainiert die Rückenmuskulatur und den Bizeps.",
+		"steps": [
+			"Befestige das Band auf Hüfthöhe an einem stabilen Halt.",
+			"Nimm die Enden in die Hände und gehe zurück, bis das Band gespannt ist.",
+			"Ziehe die Hände zur Hüfte und führe die Ellbogen dabei nach hinten.",
+			"Bringe die Hände langsam wieder nach vorne."
+		],
+		"warnings": [
+			"Prüfe, ob die Befestigung sicher und das Band unbeschädigt ist."
+		],
+		"techniqueNotes": [
+			"Ziehe am Endpunkt die Schulterblätter zusammen.",
+			"Der Oberkörper bleibt ruhig, lehne dich nicht nach hinten."
+		]
+	},
+	"band-lat-pulldown": {
+		"name": "Latziehen mit dem Band",
+		"description": "Ziehen eines oben befestigten Bands nach unten zur Brust. Trainiert die breiten Rückenmuskeln und den Bizeps.",
+		"steps": [
+			"Befestige das Band oberhalb des Kopfes an einem stabilen Halt.",
+			"Nimm die Enden in die Hände, die Arme sind nach oben gestreckt.",
+			"Ziehe die Ellbogen nach unten zu den Seiten und bringe die Hände dabei zur Brust.",
+			"Bringe die Hände langsam wieder nach oben."
+		],
+		"warnings": [
+			"Prüfe, ob die obere Befestigung sicher und das Band unbeschädigt ist.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Senke die Schulterblätter vor dem Ziehen nach unten.",
+			"Schaukle nicht mit dem Oberkörper."
+		]
+	},
+	"pull-up": {
+		"name": "Klimmzug",
+		"description": "Hochziehen des Körpers an der Stange bis auf Kinnhöhe. Trainiert die Rückenmuskulatur und den Bizeps.",
+		"steps": [
+			"Greife die Stange etwas weiter als schulterbreit.",
+			"Hänge mit gestreckten Armen und senke die Schulterblätter.",
+			"Ziehe dich hoch, bis das Kinn über der Stange ist.",
+			"Senke dich langsam ab, bis die Arme wieder gestreckt sind."
+		],
+		"warnings": [
+			"Verwende nur eine sicher angebrachte Stange.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Schaukle nicht und mache keine ruckartigen Bewegungen.",
+			"Senke dich kontrolliert ab."
+		]
+	},
+	"dead-hang": {
+		"name": "Hängen an der Stange",
+		"description": "Statisches Hängen an der Stange mit gestreckten Armen. Stärkt den Griff und die Muskulatur des Schultergürtels.",
+		"steps": [
+			"Greife die Stange schulterbreit.",
+			"Hänge dich vorsichtig mit gestreckten Armen an.",
+			"Halte die Position für die vorgegebene Zeit und atme dabei gleichmäßig.",
+			"Stelle dich vorsichtig wieder auf den Boden."
+		],
+		"warnings": [
+			"Verwende nur eine sicher angebrachte Stange.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Spanne die Schultern leicht an, hänge nicht passiv durch.",
+			"Schaukle nicht."
+		]
+	},
+	"hanging-knee-raise": {
+		"name": "Kniehebe im Hang",
+		"description": "Heranziehen der Knie zur Brust im Hang an der Stange. Trainiert die Bauchmuskulatur und den Griff.",
+		"steps": [
+			"Hänge mit gestreckten Armen an der Stange.",
+			"Spanne den Bauch an und ziehe die Knie zur Brust.",
+			"Halte die Position eine Sekunde lang.",
+			"Senke die Beine langsam ab, ohne zu schaukeln."
+		],
+		"warnings": [
+			"Verwende nur eine sicher angebrachte Stange.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Bewege dich ohne Ruck und Schwung.",
+			"Kippe das Becken am höchsten Punkt leicht auf."
+		]
+	},
+	"jump-rope": {
+		"name": "Seilspringen",
+		"description": "Rhythmisches Springen über das Seil. Verbessert die Herz-Kreislauf-Ausdauer, die Koordination und die Kraft der Wadenmuskulatur.",
+		"steps": [
+			"Nimm die Griffe des Seils, das Seil liegt hinter den Fersen.",
+			"Drehe das Seil aus den Handgelenken.",
+			"Springe niedrig, wenn das Seil unter den Füßen durchläuft.",
+			"Halte die vorgegebene Zeit einen gleichmäßigen Rhythmus."
+		],
+		"warnings": [
+			"Springe niedrig und lande weich auf dem Vorderfuß.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen bleiben nah am Körper.",
+			"Die Knie sind leicht gebeugt."
+		]
+	},
+	"step-up": {
+		"name": "Step-up",
+		"description": "Abwechselndes Aufsteigen auf eine stabile Plattform mit jedem Bein. Trainiert Quadrizeps und Gesäßmuskulatur.",
+		"steps": [
+			"Stell dich vor die Plattform.",
+			"Setze den ganzen Fuß eines Beins darauf.",
+			"Steige auf, indem du dich mit dem Bein auf der Plattform abdrückst.",
+			"Steige langsam ab und wiederhole; wechsle nach dem Satz das Bein."
+		],
+		"warnings": [
+			"Vergewissere dich, dass die Plattform stabil steht und nicht rutscht.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Drücke dich nicht mit dem unteren Bein ab.",
+			"Das Knie bewegt sich in Richtung der Zehenspitze."
+		]
+	},
+	"barbell-back-squat": {
+		"name": "Kniebeuge mit Langhantel im Nacken",
+		"description": "Kniebeuge mit der Langhantel auf dem oberen Rücken. Entwickelt die Kraft von Quadrizeps, Gesäß und dem ganzen Körper.",
+		"steps": [
+			"Lege die Langhantel auf den oberen Rücken und hebe sie aus dem Ständer.",
+			"Gehe einen Schritt zurück, die Füße schulterbreit oder etwas weiter.",
+			"Gehe bis zu einer angenehmen Tiefe in die Kniebeuge und halte den Rücken dabei gerade.",
+			"Richte dich auf und lege die Langhantel nach dem Satz wieder in den Ständer."
+		],
+		"warnings": [
+			"Stelle die Sicherheitsablagen des Ständers ein und arbeite mit einem Gewicht, das du kontrollieren kannst.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien, im Rücken oder in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Spanne den Rumpf vor jeder Wiederholung an.",
+			"Die Knie bewegen sich in Richtung der Zehenspitzen."
+		]
+	},
+	"barbell-deadlift": {
+		"name": "Kreuzheben mit Langhantel",
+		"description": "Anheben der Langhantel vom Boden bis in den Stand. Entwickelt die Kraft von Oberschenkelrückseite, Gesäß und Rücken.",
+		"steps": [
+			"Stell dich so hin, dass die Stange über der Mitte des Fußes ist.",
+			"Schiebe das Becken nach hinten, beuge die Knie und greife die Stange.",
+			"Richte dich auf und halte die Stange dabei nah an den Beinen.",
+			"Senke die Langhantel mit derselben Bewegung wieder auf den Boden ab."
+		],
+		"warnings": [
+			"Runde den Rücken nicht; arbeite mit einem Gewicht, das du kontrollieren kannst.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Rücken ist gerade, der Rumpf angespannt.",
+			"Drücke den Boden mit den Beinen weg, statt mit dem Rücken zu ziehen."
+		]
+	},
+	"cardio-machine-intervals": {
+		"name": "Intervalle am Cardiogerät",
+		"description": "Intervalltraining auf dem Ergometer, dem Crosstrainer oder einem anderen Cardiogerät. Verbessert die Herz-Kreislauf-Ausdauer.",
+		"steps": [
+			"Wärme dich einige Minuten in lockerem Tempo auf.",
+			"Erhöhe für die vorgegebene Intervallzeit das Tempo oder den Widerstand.",
+			"Bewege dich in der Erholungsphase weiter in lockerem Tempo.",
+			"Wiederhole das Intervall die vorgegebene Anzahl von Malen."
+		],
+		"warnings": [
+			"Lies vor der Benutzung die Anleitung des Geräts.",
+			"Reduziere das Tempo oder höre auf, wenn Schwindel oder Schmerzen auftreten."
+		],
+		"techniqueNotes": [
+			"Die Intensität sollte spürbar, aber kontrollierbar sein.",
+			"Halte eine gerade Haltung."
+		]
+	},
+	"jump-rope-boxer-step": {
+		"name": "Boxerschritt mit Seil",
+		"description": "Niedrige Sprünge mit dem Seil und abwechselndem Gewichtsverlagern von einem Bein auf das andere. Einfacher als Sprünge auf beiden Beinen.",
+		"steps": [
+			"Nimm die Griffe des Seils, das Seil liegt hinter den Fersen.",
+			"Drehe das Seil aus den Handgelenken.",
+			"Verlagere das Gewicht leicht von einem Bein auf das andere, als würdest du auf der Stelle gehen.",
+			"Halte die vorgegebene Zeit einen gleichmäßigen Rhythmus."
+		],
+		"warnings": [
+			"Springe niedrig und lande weich auf dem Vorderfuß.",
+			"Brich die Übung ab, wenn Schmerzen in den Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Sprung geht nur wenige Zentimeter über den Boden.",
+			"Die Ellbogen bleiben nah am Körper."
+		]
+	},
+	"jump-rope-side-to-side": {
+		"name": "Seilspringen seitlich hin und her",
+		"description": "Sprünge auf beiden Beinen mit leichter Verschiebung nach links und rechts. Erhöhen die Belastung der Waden und trainieren die Koordination.",
+		"steps": [
+			"Nimm die Griffe des Seils, die Beine sind zusammen.",
+			"Springe über das Seil und verschiebe dich dabei leicht nach links.",
+			"Verschiebe dich beim nächsten Sprung nach rechts.",
+			"Halte den Rhythmus und lande weich."
+		],
+		"warnings": [
+			"Vergewissere dich, dass genug Platz ist und der Untergrund nicht rutscht.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Verschiebung ist klein, nicht breiter als die Füße.",
+			"Die Knie sind leicht gebeugt."
+		]
+	},
+	"jump-rope-high-knees": {
+		"name": "Laufen mit Seil",
+		"description": "Laufen auf der Stelle über das Seil mit angehobenen Knien. Intensive Cardio-Übung für die Ausdauer.",
+		"steps": [
+			"Nimm die Griffe des Seils, das Seil liegt hinter den Fersen.",
+			"Laufe auf der Stelle und lass bei jedem Schritt das Seil unter dem Fuß durchlaufen.",
+			"Hebe die Knie bis auf Hüfthöhe.",
+			"Halte das Tempo für die vorgegebene Zeit."
+		],
+		"warnings": [
+			"Mache die Übung nur nach dem Aufwärmen.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien, Hüften oder Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Oberkörper ist gerade, lehne dich nicht nach hinten.",
+			"Die Landung ist weich, auf dem Vorderfuß."
+		]
+	},
+	"lateral-step-up": {
+		"name": "Seitlicher Step-up",
+		"description": "Aufsteigen auf eine Plattform seitlich zu ihr. Belastet Gesäß und Oberschenkelmuskulatur aus einem anderen Winkel als der normale Step-up.",
+		"steps": [
+			"Stell dich seitlich zur Plattform, das nähere Bein steht darauf.",
+			"Strecke das Bein und steige auf die Plattform.",
+			"Gehe kontrolliert wieder nach unten.",
+			"Beende die Sätze auf einem Bein und wechsle dann das Bein."
+		],
+		"warnings": [
+			"Vergewissere dich, dass die Plattform stabil steht und nicht rutscht.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Hüften auftreten."
+		],
+		"techniqueNotes": [
+			"Das Standbein arbeitet, das andere berührt nur.",
+			"Das Knie fällt nicht nach innen."
+		]
+	},
+	"step-platform-push-up": {
+		"name": "Liegestütze mit Händen auf dem Step",
+		"description": "Liegestütze mit den Händen auf einer Plattform. Erleichterte Version der klassischen Liegestütze für Anfänger.",
+		"steps": [
+			"Lege die Hände etwas weiter als schulterbreit auf die Plattform, der Körper bildet eine gerade Linie.",
+			"Beuge die Ellbogen und senke die Brust zur Plattform.",
+			"Drücke dich ab und strecke die Arme.",
+			"Halte den Rumpf angespannt."
+		],
+		"warnings": [
+			"Die Plattform muss stabil stehen, am besten auf einem rutschfesten Untergrund.",
+			"Brich die Übung ab, wenn Schmerzen in den Handgelenken oder Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Mache kein Hohlkreuz.",
+			"Die Ellbogen zeigen in einem Winkel von etwa 45° zum Oberkörper."
+		]
+	},
+	"step-platform-calf-raise": {
+		"name": "Wadenheben auf dem Step",
+		"description": "Wadenheben von der Kante einer Plattform für einen größeren Bewegungsumfang. Kräftigt die Wadenmuskulatur.",
+		"steps": [
+			"Stell dich mit dem Vorderfuß auf die Kante der Plattform, die Fersen hängen in der Luft.",
+			"Senke die Fersen langsam unter das Niveau der Plattform.",
+			"Hebe dich so hoch wie möglich auf die Zehenspitzen.",
+			"Wiederhole ohne Ruck."
+		],
+		"warnings": [
+			"Halte dich zum Gleichgewicht an einer Wand oder einem Ständer fest.",
+			"Brich die Übung ab, wenn Schmerzen in den Sprunggelenken oder der Achillessehne auftreten."
+		],
+		"techniqueNotes": [
+			"Die Bewegung ist langsam: 2 Sekunden nach oben, 2 nach unten.",
+			"Die Knie sind fast gestreckt."
+		]
+	},
+	"step-platform-reverse-lunge": {
+		"name": "Ausfallschritt rückwärts vom Step",
+		"description": "Schritt nach hinten von der Plattform in den Ausfallschritt. Größerer Bewegungsumfang für Gesäß und Oberschenkel.",
+		"steps": [
+			"Stell dich auf die Plattform, die Füße hüftbreit.",
+			"Mache mit einem Bein einen Schritt nach hinten auf den Boden.",
+			"Senke dich in den Ausfallschritt, das vordere Bein bleibt auf der Plattform.",
+			"Kehre in die Ausgangsposition zurück und wechsle das Bein."
+		],
+		"warnings": [
+			"Vergewissere dich, dass die Plattform stabil steht und nicht rutscht.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Der Oberkörper bleibt aufrecht.",
+			"Die vordere Ferse bleibt fest auf der Plattform."
+		]
+	},
+	"step-platform-taps": {
+		"name": "Step-Taps",
+		"description": "Schnelles, abwechselndes Antippen der Plattform mit den Füßen. Leichte Cardio-Übung zum Aufwärmen und für die Ausdauer.",
+		"steps": [
+			"Stell dich vor die Plattform.",
+			"Tippe die Plattform mit dem rechten Fuß an, dann mit dem linken.",
+			"Bewege dich schnell und leicht, ohne mit dem ganzen Fuß aufzutreten.",
+			"Halte den Rhythmus für die vorgegebene Zeit."
+		],
+		"warnings": [
+			"Die Plattform muss stabil stehen.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Der Rücken ist gerade, die Arme arbeiten im Takt mit.",
+			"Die Bewegungen sind leicht, ohne Stöße."
+		]
+	},
+	"bench-dip": {
+		"name": "Dips an der Bank",
+		"description": "Trizeps-Dips mit Handstütze auf einer Bank hinter dem Rücken.",
+		"steps": [
+			"Setze dich auf die Kante der Bank, die Hände neben den Oberschenkeln.",
+			"Rutsche nach vorne und halte dich mit den Händen an der Bank fest.",
+			"Beuge die Ellbogen bis etwa 90°.",
+			"Strecke die Arme und komme wieder nach oben."
+		],
+		"warnings": [
+			"Gehe nicht tief hinunter, wenn du ein Unbehagen in den Schultern spürst.",
+			"Die Bank muss stabil stehen.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen zeigen nach hinten, nicht zur Seite.",
+			"Ziehe die Schultern nicht zu den Ohren."
+		]
+	},
+	"bulgarian-split-squat": {
+		"name": "Bulgarian Split Squat",
+		"description": "Einbeinige Kniebeuge mit dem hinteren Fuß auf einer Bank. Belastet Gesäß und Oberschenkel stark.",
+		"steps": [
+			"Stell dich mit dem Rücken zur Bank und lege den Fußrücken eines Beins darauf.",
+			"Senke dich ab, indem du das vordere Bein beugst.",
+			"Komme wieder nach oben, indem du dich mit der Ferse des vorderen Beins abdrückst.",
+			"Mache alle Wiederholungen und wechsle dann das Bein."
+		],
+		"warnings": [
+			"Die Bank muss stabil stehen; wähle den Abstand so, dass das Knie nicht über den Fuß hinausgeht.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Hüften auftreten."
+		],
+		"techniqueNotes": [
+			"Der Oberkörper ist leicht nach vorne geneigt.",
+			"Das Hauptgewicht liegt auf dem vorderen Bein."
+		]
+	},
+	"bench-hip-thrust": {
+		"name": "Hip Thrust an der Bank",
+		"description": "Becken heben mit den Schulterblättern auf einer Bank. Die Hauptübung für das Gesäß.",
+		"steps": [
+			"Setze dich mit dem Rücken zur Bank auf den Boden, die Schulterblätter liegen an der Kante der Bank.",
+			"Beuge die Knie, die Füße stehen auf dem Boden.",
+			"Hebe das Becken, bis Oberkörper und Oberschenkel eine Linie bilden.",
+			"Halte kurz an und senke dich ab."
+		],
+		"warnings": [
+			"Die Bank muss fest stehen, am besten an einer Wand.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Das Kinn ist leicht zur Brust gezogen.",
+			"Mache oben kein Hohlkreuz."
+		]
+	},
+	"chest-supported-dumbbell-row": {
+		"name": "Kurzhantelrudern mit Brustauflage",
+		"description": "Rudern mit Kurzhanteln, mit der Brust auf einer Schrägbank liegend. Entlastet den unteren Rücken und konzentriert die Belastung auf den Rücken.",
+		"steps": [
+			"Lege dich mit der Brust auf die Bank, in jeder Hand eine Kurzhantel.",
+			"Ziehe die Kurzhanteln zu den Seiten des Oberkörpers und ziehe dabei die Schulterblätter zusammen.",
+			"Halte kurz an.",
+			"Senke die Kurzhanteln kontrolliert ab."
+		],
+		"warnings": [
+			"Die Bank muss stabil stehen.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Der Kopf verlängert die Linie der Wirbelsäule.",
+			"Schaukle nicht mit dem Oberkörper."
+		]
+	},
+	"kettlebell-single-arm-row": {
+		"name": "Einarmiges Kettlebell-Rudern",
+		"description": "Rudern mit der Kettlebell in der Vorbeuge mit Stütze der freien Hand. Kräftigt Rücken und Bizeps.",
+		"steps": [
+			"Beuge dich mit geradem Rücken nach vorne und stütze die freie Hand auf dem Oberschenkel ab.",
+			"Nimm die Kettlebell in die andere Hand.",
+			"Ziehe die Kettlebell zur Hüfte und ziehe dabei das Schulterblatt zusammen.",
+			"Senke die Kettlebell langsam ab."
+		],
+		"warnings": [
+			"Halte den Rücken gerade.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Ellbogen bewegt sich am Oberkörper entlang.",
+			"Der Blick geht zum Boden."
+		]
+	},
+	"kettlebell-overhead-press": {
+		"name": "Kettlebell-Schulterdrücken",
+		"description": "Drücken der Kettlebell im Stehen mit einem Arm. Kräftigt Schultern, Trizeps und Rumpf.",
+		"steps": [
+			"Hebe die Kettlebell zur Schulter, der Ellbogen liegt am Oberkörper an.",
+			"Spanne Bauch und Gesäß an.",
+			"Strecke den Arm nach oben über den Kopf.",
+			"Bringe die Kettlebell langsam zurück zur Schulter."
+		],
+		"warnings": [
+			"Vergewissere dich, dass über dir genug Platz ist.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern, im Nacken oder im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Mache kein Hohlkreuz.",
+			"Das Handgelenk ist gerade, die Kettlebell liegt auf dem Unterarm."
+		]
+	},
+	"kettlebell-halo": {
+		"name": "Kettlebell Halo",
+		"description": "Kreisende Bewegungen der Kettlebell um den Kopf. Wärmt die Schultern auf und trainiert die Rumpfstabilität.",
+		"steps": [
+			"Stell dich aufrecht hin und halte die Kettlebell mit dem Boden nach oben vor der Brust.",
+			"Führe die Kettlebell in eine Richtung um den Kopf.",
+			"Bringe sie zurück zur Brust.",
+			"Wiederhole in die andere Richtung."
+		],
+		"warnings": [
+			"Verwende eine leichte Kettlebell.",
+			"Halte die Kettlebell fest, damit du dich nicht verletzt.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im Nacken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Oberkörper bleibt ruhig, nur die Arme arbeiten.",
+			"Die Ellbogen bleiben nah am Kopf."
+		]
+	},
+	"kettlebell-sumo-deadlift": {
+		"name": "Sumo-Kreuzheben mit Kettlebell",
+		"description": "Kreuzheben mit der Kettlebell in weitem Stand. Belastet Gesäß und Oberschenkelinnenseiten.",
+		"steps": [
+			"Stell dich breit hin, die Zehenspitzen zeigen nach außen, die Kettlebell steht zwischen den Füßen.",
+			"Schiebe das Becken nach hinten und greife die Kettlebell.",
+			"Richte dich auf und drücke den Boden mit den Beinen weg.",
+			"Senke die Kettlebell langsam ab."
+		],
+		"warnings": [
+			"Runde den Rücken nicht.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken oder in den Hüften auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie bewegen sich in Richtung der Zehenspitzen.",
+			"Der Rücken bleibt während der gesamten Bewegung gerade."
+		]
+	},
+	"kettlebell-reverse-lunge": {
+		"name": "Ausfallschritt rückwärts mit Kettlebell",
+		"description": "Ausfallschritt rückwärts mit der Kettlebell vor der Brust. Erhöht die Belastung für Beine und Gesäß.",
+		"steps": [
+			"Halte die Kettlebell mit beiden Händen vor der Brust.",
+			"Mache einen Schritt nach hinten und senke dich in den Ausfallschritt.",
+			"Drücke dich mit dem vorderen Bein ab und kehre zurück.",
+			"Wechsle das Bein."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Der Oberkörper bleibt aufrecht.",
+			"Die vordere Ferse bleibt fest auf dem Boden."
+		]
+	},
+	"band-squat": {
+		"name": "Kniebeuge mit Band",
+		"description": "Kniebeuge mit einem Band unter den Füßen. Das Band erhöht den Widerstand beim Aufrichten.",
+		"steps": [
+			"Stell dich auf die Mitte des Bands und halte die Enden auf Schulterhöhe.",
+			"Gehe in die Kniebeuge und schiebe das Becken dabei nach hinten.",
+			"Richte dich auf, indem du die Beine streckst.",
+			"Lass das Band nicht ruckartig los."
+		],
+		"warnings": [
+			"Prüfe, ob das Band unbeschädigt ist.",
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie zeigen in Richtung der Zehenspitzen.",
+			"Der Rücken ist gerade."
+		]
+	},
+	"band-chest-press": {
+		"name": "Brustdrücken mit dem Band",
+		"description": "Drücken des Bands nach vorne im Stehen. Trainiert Brust und Trizeps ohne Kurzhanteln.",
+		"steps": [
+			"Lege das Band hinter dem Rücken unterhalb der Schulterblätter herum, die Enden in den Händen.",
+			"Beuge die Ellbogen, die Hände sind auf Brusthöhe.",
+			"Strecke die Arme nach vorne.",
+			"Kehre langsam zurück."
+		],
+		"warnings": [
+			"Prüfe, ob das Band unbeschädigt ist und sicher hinter dem Rücken liegt.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen sind etwas unterhalb der Schultern.",
+			"Der Oberkörper bleibt ruhig."
+		]
+	},
+	"band-overhead-press": {
+		"name": "Schulterdrücken mit dem Band",
+		"description": "Drücken des Bands nach oben, während du darauf stehst. Kräftigt Schultern und Trizeps.",
+		"steps": [
+			"Stell dich auf das Band und halte die Enden auf Schulterhöhe.",
+			"Strecke die Arme nach oben über den Kopf.",
+			"Senke sie langsam wieder bis zu den Schultern.",
+			"Mache kein Hohlkreuz."
+		],
+		"warnings": [
+			"Vergewissere dich, dass über dir genug Platz ist.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im Nacken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Bauch ist angespannt.",
+			"Die Arme bewegen sich senkrecht."
+		]
+	},
+	"band-good-morning": {
+		"name": "Good Morning mit dem Band",
+		"description": "Vorbeugen des Oberkörpers mit geradem Rücken, das Band liegt auf den Schultern und unter den Füßen. Lehrt die Hüftbeugebewegung.",
+		"steps": [
+			"Stell dich auf das Band und lege das andere Ende auf die Schultern.",
+			"Schiebe das Becken nach hinten und neige den Oberkörper mit geradem Rücken nach vorne.",
+			"Gehe, bis du eine Dehnung in der Oberschenkelrückseite spürst.",
+			"Richte dich auf, indem du das Becken nach vorne schiebst."
+		],
+		"warnings": [
+			"Runde den Rücken nicht.",
+			"Prüfe, ob das Band sicher befestigt ist.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie sind leicht gebeugt.",
+			"Der Blick geht nach unten und vorne."
+		]
+	},
+	"band-bicep-curl": {
+		"name": "Bizeps-Curl mit dem Band",
+		"description": "Beugen der Arme für den Bizeps gegen den Widerstand des Bands.",
+		"steps": [
+			"Stell dich auf das Band, die Enden in den Händen, die Handflächen zeigen nach vorne.",
+			"Beuge die Ellbogen und hebe die Hände zu den Schultern.",
+			"Halte kurz an.",
+			"Senke die Arme langsam ab."
+		],
+		"warnings": [
+			"Prüfe, ob das Band unbeschädigt ist."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen liegen an den Seiten an.",
+			"Der Oberkörper schaukelt nicht."
+		]
+	},
+	"scapular-pull-up": {
+		"name": "Scapular Pull-up",
+		"description": "Heben und Senken der Schulterblätter im Hang ohne die Arme zu beugen. Bereitet die Schultern auf Klimmzüge vor.",
+		"steps": [
+			"Hänge mit gestreckten Armen an der Stange.",
+			"Senke die Schultern nach unten und ziehe die Schulterblätter zusammen, sodass sich der Körper um einige Zentimeter hebt.",
+			"Kehre langsam in den Hang zurück.",
+			"Beuge die Ellbogen nicht."
+		],
+		"warnings": [
+			"Verwende nur eine sicher angebrachte Stange.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Bewegung ist klein und findet nur in den Schulterblättern statt.",
+			"Der Körper schaukelt nicht."
+		]
+	},
+	"negative-pull-up": {
+		"name": "Negative Klimmzüge",
+		"description": "Langsames Ablassen aus der oberen Position des Klimmzugs. Hilft, Klimmzüge zu lernen.",
+		"steps": [
+			"Stelle dich auf einen Stuhl und greife die Stange, das Kinn ist über ihr.",
+			"Nimm die Unterstützung weg.",
+			"Lasse dich langsam ab, bis die Arme gestreckt sind (3–5 Sekunden).",
+			"Stelle dich wieder auf den Stuhl und wiederhole."
+		],
+		"warnings": [
+			"Verwende nur eine sicher angebrachte Stange.",
+			"Benutze einen Stuhl, um die obere Position einzunehmen.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Lasse dich kontrolliert ab, ohne zu fallen.",
+			"Die Schulterblätter bleiben gesenkt."
+		]
+	},
+	"chin-up": {
+		"name": "Klimmzug im Untergriff",
+		"description": "Klimmzug mit den Handflächen zu dir. Beansprucht den Bizeps stärker als der normale Klimmzug.",
+		"steps": [
+			"Greife die Stange im Untergriff schulterbreit.",
+			"Ziehe dich hoch, bis das Kinn über der Stange ist.",
+			"Halte kurz an.",
+			"Senke dich langsam in den Hang ab."
+		],
+		"warnings": [
+			"Verwende nur eine sicher angebrachte Stange.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern, Ellbogen oder Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Schaukle nicht.",
+			"Die Ellbogen bewegen sich nach unten und zum Oberkörper."
+		]
+	},
+	"hanging-leg-raise": {
+		"name": "Beinheben im Hang",
+		"description": "Heben der gestreckten Beine im Hang an der Stange. Anspruchsvollere Version für die Bauchmuskulatur.",
+		"steps": [
+			"Hänge dich an die Stange.",
+			"Spanne den Bauch an und hebe die gestreckten Beine bis auf Beckenhöhe.",
+			"Halte kurz an.",
+			"Senke die Beine langsam ab."
+		],
+		"warnings": [
+			"Verwende nur eine sicher angebrachte Stange.",
+			"Schaukle nicht, hebe die Beine langsam.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Das Becken ist leicht aufgekippt.",
+			"Ohne Schaukeln des Körpers."
+		]
+	},
+	"dumbbell-lateral-raise": {
+		"name": "Seitheben mit Kurzhanteln",
+		"description": "Heben der Kurzhanteln zur Seite bis auf Schulterhöhe. Entwickelt den mittleren Teil der Schultermuskulatur.",
+		"steps": [
+			"Stell dich aufrecht hin, die Kurzhanteln an den Seiten.",
+			"Beuge die Ellbogen leicht und hebe die Arme seitlich bis auf Schulterhöhe.",
+			"Senke die Arme langsam ab.",
+			"Ziehe die Schultern nicht zu den Ohren."
+		],
+		"warnings": [
+			"Wähle leichte Kurzhanteln.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im Nacken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen sind etwas höher als die Hände.",
+			"Der Oberkörper bleibt ruhig."
+		]
+	},
+	"dumbbell-bicep-curl": {
+		"name": "Bizeps-Curl mit Kurzhanteln",
+		"description": "Klassisches Beugen der Arme für den Bizeps im Stehen.",
+		"steps": [
+			"Stell dich aufrecht hin, die Kurzhanteln in den herabhängenden Händen, die Handflächen zeigen nach vorne.",
+			"Beuge die Ellbogen und hebe die Kurzhanteln zu den Schultern.",
+			"Halte kurz an.",
+			"Senke die Kurzhanteln langsam ab."
+		],
+		"warnings": [
+			"Wähle ein Gewicht, bei dem du den Oberkörper nicht mitschwingen musst."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen liegen an den Seiten an.",
+			"Lehne dich nicht nach hinten."
+		]
+	},
+	"dumbbell-overhead-triceps-extension": {
+		"name": "Trizepsstrecken mit Kurzhantel über Kopf",
+		"description": "Strecken der Arme mit einer Kurzhantel hinter dem Kopf. Isoliert den Trizeps.",
+		"steps": [
+			"Stell dich aufrecht hin und halte eine Kurzhantel mit beiden Händen über dem Kopf.",
+			"Beuge die Ellbogen und senke die Kurzhantel hinter den Kopf.",
+			"Strecke die Arme nach oben.",
+			"Halte die Ellbogen nah am Kopf."
+		],
+		"warnings": [
+			"Halte die Kurzhantel mit beiden Händen.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern, Ellbogen oder im Nacken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen weichen nicht zur Seite aus.",
+			"Der Bauch ist angespannt."
+		]
+	},
+	"dumbbell-sumo-squat": {
+		"name": "Sumo-Kniebeuge mit Kurzhantel",
+		"description": "Kniebeuge im weiten Stand mit einer Kurzhantel zwischen den Beinen. Betont Gesäß und Oberschenkelinnenseiten.",
+		"steps": [
+			"Stell dich breit hin, die Zehenspitzen zeigen nach außen, halte die Kurzhantel mit beiden Händen unten.",
+			"Gehe in die Kniebeuge, die Knie zeigen in Richtung der Zehenspitzen.",
+			"Richte dich auf und drücke den Boden mit den Beinen weg.",
+			"Halte den Oberkörper aufrecht."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Hüften auftreten."
+		],
+		"techniqueNotes": [
+			"Der Rücken ist gerade.",
+			"Die Knie fallen nicht nach innen."
+		]
+	},
+	"dumbbell-glute-bridge": {
+		"name": "Glute Bridge mit Kurzhantel",
+		"description": "Glute Bridge mit einer Kurzhantel auf dem Becken. Erhöht die Belastung für das Gesäß.",
+		"steps": [
+			"Lege dich auf den Rücken, die Knie sind gebeugt, die Kurzhantel liegt auf dem Becken.",
+			"Hebe das Becken und bringe den Körper in eine Linie.",
+			"Halte kurz an.",
+			"Senke dich langsam ab."
+		],
+		"warnings": [
+			"Halte die Kurzhantel fest.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Mache kein Hohlkreuz.",
+			"Die Fersen sind fest auf den Boden gedrückt."
+		]
+	},
+	"dumbbell-bent-over-row": {
+		"name": "Vorgebeugtes Kurzhantelrudern",
+		"description": "Rudern mit zwei Kurzhanteln zur Hüfte in der Vorbeuge. Kräftigt Rücken und Bizeps.",
+		"steps": [
+			"Beuge dich mit geradem Rücken nach vorne, die Kurzhanteln hängen in den Händen.",
+			"Ziehe die Kurzhanteln zu den Seiten und ziehe dabei die Schulterblätter zusammen.",
+			"Halte kurz an.",
+			"Senke die Kurzhanteln langsam ab."
+		],
+		"warnings": [
+			"Halte den Rücken gerade.",
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Knie sind leicht gebeugt.",
+			"Führe die Ellbogen am Oberkörper entlang."
+		]
+	},
+	"towel-row": {
+		"name": "Handtuchrudern",
+		"description": "Ziehen des eigenen Körpers am Handtuch, das an einem festen Halt befestigt ist. Trainiert Rückenmuskulatur und Bizeps ohne Geräte.",
+		"steps": [
+			"Lege ein festes Handtuch auf Hüfthöhe um einen stabilen Halt und greife beide Enden.",
+			"Lehne dich mit gestreckten Armen nach hinten, die Füße näher am Halt.",
+			"Ziehe die Brust zu den Händen und führe die Ellbogen dabei nach hinten.",
+			"Strecke die Arme langsam und kehre in die Ausgangsposition zurück."
+		],
+		"warnings": [
+			"Befestige das Handtuch nur an einem sicheren Halt: einer stabilen Säule, einem Geländer oder dem Griff einer geschlossenen Tür, die sich von dir weg öffnet.",
+			"Prüfe, ob das Handtuch fest ist und dir nicht aus den Händen rutscht."
+		],
+		"techniqueNotes": [
+			"Halte den Körper vom Kopf bis zu den Fersen gerade.",
+			"Je näher die Füße am Halt sind, desto schwerer wird die Übung."
+		]
+	},
+	"inverted-table-row": {
+		"name": "Rudern unter dem Tisch",
+		"description": "Horizontaler Klimmzug in Rückenlage unter einem stabilen Tisch. Trainiert Rückenmuskulatur, Bizeps und hintere Schultern.",
+		"steps": [
+			"Lege dich auf den Rücken unter den Tisch, sodass die Brust unter der Tischkante ist.",
+			"Greife die Tischkante schulterbreit.",
+			"Spanne Bauch und Gesäß an und ziehe die Brust zur Tischkante.",
+			"Senke dich langsam ab, bis die Arme vollständig gestreckt sind."
+		],
+		"warnings": [
+			"Verwende nur einen schweren, stabilen Tisch, der nicht umkippt und dein Gewicht trägt.",
+			"Greife die Tischkante, nicht Glas oder empfindliche Teile."
+		],
+		"techniqueNotes": [
+			"Der Körper ist von den Schultern bis zu den Fersen gerade, das Becken hängt nicht durch.",
+			"Für eine leichtere Variante beuge die Knie und stelle die Füße auf den Boden."
+		]
+	},
+	"prone-y-t-w-raise": {
+		"name": "Y-T-W-Heben in Bauchlage",
+		"description": "Heben der Arme in drei Positionen in Bauchlage. Trainiert den oberen Rücken und die Schulterblattstabilisatoren.",
+		"steps": [
+			"Lege dich auf den Bauch, die Stirn schwebt über dem Boden, die Arme sind nach vorne gestreckt.",
+			"Hebe die Arme in Y-Form, halte eine Sekunde und senke sie ab.",
+			"Strecke die Arme in T-Form zur Seite, hebe sie und senke sie ab.",
+			"Beuge die Ellbogen in W-Form, ziehe die Schulterblätter zusammen, hebe die Arme und senke sie ab. Das ist eine Wiederholung."
+		],
+		"warnings": [
+			"Lege den Kopf nicht in den Nacken.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im Nacken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Bewegung kommt aus den Schulterblättern, nicht aus dem unteren Rücken.",
+			"Die Daumen zeigen nach oben."
+		]
+	},
+	"reverse-snow-angel": {
+		"name": "Umgekehrter Schneeengel",
+		"description": "Fließende Armbewegung von den Oberschenkeln bis zum Kopf in Bauchlage. Trainiert den oberen Rücken und die Schulterbeweglichkeit.",
+		"steps": [
+			"Lege dich auf den Bauch, die Arme liegen am Körper, die Handflächen zeigen zu den Oberschenkeln.",
+			"Hebe die Arme vom Boden ab und ziehe die Schulterblätter zusammen.",
+			"Führe die Arme langsam im Bogen seitlich bis zum Kopf.",
+			"Bringe die Arme auf demselben Weg zurück zu den Oberschenkeln, ohne den Boden zu berühren."
+		],
+		"warnings": [
+			"Lege den Kopf nicht in den Nacken.",
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im Nacken auftreten."
+		],
+		"techniqueNotes": [
+			"Halte die Arme die ganze Zeit etwas über dem Boden.",
+			"Mache im unteren Rücken kein Hohlkreuz, das Gesäß ist angespannt."
+		]
+	},
+	"leg-press": {
+		"name": "Beinpresse",
+		"description": "Drücken der Plattform mit den Beinen im Sitzen. Trainiert Quadrizeps und Gesäßmuskulatur ohne Belastung der Wirbelsäule, gut für Anfänger.",
+		"steps": [
+			"Setze dich ins Gerät, drücke den unteren Rücken an die Lehne, die Füße stehen schulterbreit auf der Plattform.",
+			"Löse die Sicherungen und beuge die Knie langsam bis zu einer angenehmen Tiefe.",
+			"Strecke beim Ausatmen die Beine, ohne die Knie ganz durchzudrücken.",
+			"Setze die Sicherungen nach dem Satz wieder ein."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Der untere Rücken löst sich nicht von der Lehne.",
+			"Die Knie bewegen sich in Richtung der Zehenspitzen."
+		]
+	},
+	"machine-chest-press": {
+		"name": "Brustpresse am Gerät",
+		"description": "Drücken der Griffe von der Brust im Sitzen. Lehrt die Drückbewegung sicher und trainiert Brust, Schultern und Trizeps.",
+		"steps": [
+			"Stelle den Sitz so ein, dass die Griffe auf Höhe der Brustmitte sind.",
+			"Greife die Griffe und drücke die Schulterblätter an die Lehne.",
+			"Strecke beim Ausatmen die Arme nach vorne, ohne die Ellbogen ganz durchzudrücken.",
+			"Führe die Griffe langsam zurück und spüre die Dehnung der Brust."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Die Schultern wandern nicht zu den Ohren."
+		]
+	},
+	"machine-shoulder-press": {
+		"name": "Schulterpresse am Gerät",
+		"description": "Vertikales Drücken im Sitzen am Gerät. Trainiert Schultern und Trizeps mit Rückenstütze.",
+		"steps": [
+			"Stelle den Sitz so ein, dass die Griffe auf Schulterhöhe sind.",
+			"Drücke den Rücken an die Lehne und greife die Griffe.",
+			"Strecke beim Ausatmen die Arme nach oben.",
+			"Senke die Griffe langsam bis auf Schulterhöhe ab."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Mache kein Hohlkreuz."
+		]
+	},
+	"seated-cable-row": {
+		"name": "Rudern am Kabelzug im Sitzen",
+		"description": "Horizontales Ziehen des Kabelzuggriffs. Trainiert Rücken und hintere Schultern und lehrt, die Schulterblätter zusammenzuziehen.",
+		"steps": [
+			"Setze dich, stelle die Füße auf die Fußstützen und greife den Griff mit geradem Rücken.",
+			"Ziehe den Griff zum Bauch und ziehe dabei die Schulterblätter zusammen.",
+			"Halte am Endpunkt kurz an.",
+			"Bringe die Arme langsam nach vorne zurück, ohne den Rücken zu runden."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Oberkörper bleibt fast unbeweglich.",
+			"Die Ellbogen bewegen sich am Körper entlang."
+		]
+	},
+	"lat-pulldown-machine": {
+		"name": "Latzug am Gerät",
+		"description": "Ziehen einer breiten Stange zur Brust im Sitzen. Bereitet auf Klimmzüge vor und trainiert die breiten Rückenmuskeln.",
+		"steps": [
+			"Fixiere die Oberschenkel unter den Polstern und greife die Stange breiter als schulterbreit.",
+			"Lehne dich leicht nach hinten und ziehe die Stange zur oberen Brust.",
+			"Ziehe die Schulterblätter zusammen und halte kurz an.",
+			"Führe die Stange langsam wieder nach oben."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Ziehe mit den Ellbogen, nicht mit den Händen."
+		]
+	},
+	"leg-curl-machine": {
+		"name": "Beinbeuger am Gerät",
+		"description": "Isoliertes Beugen der Beine im Liegen oder Sitzen. Trainiert die Oberschenkelrückseite.",
+		"steps": [
+			"Stelle das Polster so ein, dass es über den Fersen liegt.",
+			"Beuge beim Ausatmen die Beine und ziehe die Fersen zum Gesäß.",
+			"Halte am höchsten Punkt kurz an.",
+			"Strecke die Beine langsam wieder aus."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Das Becken hebt sich nicht von der Bank ab."
+		]
+	},
+	"leg-extension-machine": {
+		"name": "Beinstrecker am Gerät",
+		"description": "Isoliertes Strecken der Beine im Sitzen. Trainiert den Quadrizeps.",
+		"steps": [
+			"Stelle die Rückenlehne und das Polster über den Unterschenkeln ein.",
+			"Strecke beim Ausatmen die Beine.",
+			"Halte am höchsten Punkt kurz an.",
+			"Senke die Beine langsam ab."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Die Bewegungen sind fließend, ohne Ruck."
+		]
+	},
+	"cable-triceps-pushdown": {
+		"name": "Trizepsdrücken am Kabelzug",
+		"description": "Strecken der Arme nach unten am oberen Kabelzug. Trainiert den Trizeps isoliert.",
+		"steps": [
+			"Stell dich vor den Kabelzug, greife den Griff, die Ellbogen liegen an den Seiten an.",
+			"Strecke beim Ausatmen die Arme nach unten.",
+			"Halte unten kurz an.",
+			"Führe den Griff langsam bis auf Brusthöhe zurück."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Die Ellbogen bewegen sich nicht."
+		]
+	},
+	"cable-biceps-curl": {
+		"name": "Bizeps-Curl am unteren Kabelzug",
+		"description": "Beugen der Arme im Stehen am unteren Kabelzug. Trainiert den Bizeps isoliert.",
+		"steps": [
+			"Stell dich vor den unteren Kabelzug und greife den Griff mit den Handflächen nach oben.",
+			"Beuge beim Ausatmen die Arme bis zu den Schultern.",
+			"Halte oben kurz an.",
+			"Strecke die Arme langsam wieder."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Die Ellbogen liegen an den Seiten an, der Oberkörper bleibt ruhig."
+		]
+	},
+	"cable-face-pull": {
+		"name": "Face Pull am Kabelzug",
+		"description": "Ziehen des Seilgriffs bis auf Gesichtshöhe. Kräftigt die hinteren Schultern und die Muskeln zwischen den Schulterblättern, nützlich für die Haltung.",
+		"steps": [
+			"Befestige das Seil am Kabelzug auf Gesichtshöhe und gehe einen Schritt zurück.",
+			"Ziehe das Seil zum Gesicht und führe die Ellbogen dabei nach außen.",
+			"Ziehe die Schulterblätter zusammen und halte kurz an.",
+			"Bringe die Arme langsam nach vorne zurück."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Das Gewicht ist leicht, die Bewegung kontrolliert."
+		]
+	},
+	"cable-woodchop": {
+		"name": "Woodchop am Kabelzug",
+		"description": "Diagonale Rotation des Oberkörpers mit dem Kabelzuggriff. Trainiert die schrägen Bauchmuskeln und lehrt, Kraft durch den Rumpf zu übertragen.",
+		"steps": [
+			"Stell dich seitlich zum Kabelzug und greife den Griff mit beiden Händen.",
+			"Ziehe den Griff diagonal nach unten und drehe dabei den Oberkörper.",
+			"Halte die Arme fast gestreckt und rotiere mit dem Brustkorb.",
+			"Führe den Griff langsam zurück und wiederhole, wechsle dann die Seite."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Bewege den Oberkörper, nicht nur die Arme."
+		]
+	},
+	"barbell-bench-press": {
+		"name": "Bankdrücken mit Langhantel",
+		"description": "Klassisches Drücken der Langhantel auf der flachen Bank. Die Hauptübung für Brust, Schultern und Trizeps.",
+		"steps": [
+			"Lege dich auf die Bank, die Füße stehen auf dem Boden, die Schulterblätter sind zusammengezogen, die Augen sind unter der Stange.",
+			"Nimm die Langhantel ab und senke sie bis zur Brustmitte.",
+			"Drücke die Langhantel beim Ausatmen nach oben, bis die Arme gestreckt sind.",
+			"Lege die Langhantel nach dem Satz in den Ständer."
+		],
+		"warnings": [
+			"Drücke im Fitnessstudio nicht ohne Sicherung und brich ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Nimm einen Spotter oder verwende Sicherheitsablagen.",
+			"Die Handgelenke sind über den Ellbogen."
+		]
+	},
+	"barbell-bent-over-row": {
+		"name": "Vorgebeugtes Langhantelrudern",
+		"description": "Ziehen der Langhantel zum Bauch in der Vorbeuge. Trainiert den ganzen Rücken, die hinteren Schultern und den Bizeps.",
+		"steps": [
+			"Stell dich schulterbreit hin und greife die Stange etwas weiter als schulterbreit.",
+			"Beuge dich mit geradem Rücken nach vorne, die Knie sind leicht gebeugt.",
+			"Ziehe die Langhantel zum unteren Bauch.",
+			"Senke die Langhantel langsam ab, ohne den Rücken zu runden."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Der Rücken ist während der gesamten Bewegung gerade."
+		]
+	},
+	"barbell-overhead-press": {
+		"name": "Langhantel-Schulterdrücken im Stehen",
+		"description": "Drücken der Langhantel über den Kopf im Stehen. Entwickelt die Kraft von Schultern und oberem Rücken und erfordert einen stabilen Rumpf.",
+		"steps": [
+			"Nimm die Langhantel auf Schlüsselbeinhöhe, die Hände etwas weiter als schulterbreit.",
+			"Spanne Bauch und Gesäß an und drücke die Langhantel beim Ausatmen nach oben.",
+			"Am Ende geht der Kopf leicht nach vorne, die Stange ist über der Mitte der Füße.",
+			"Senke die Langhantel langsam zu den Schlüsselbeinen ab."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Schultern oder im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Mache kein Hohlkreuz."
+		]
+	},
+	"barbell-romanian-deadlift": {
+		"name": "Rumänisches Kreuzheben mit Langhantel",
+		"description": "Kreuzheben mit fast gestreckten Beinen. Trainiert Oberschenkelrückseite und Gesäß und lehrt die Bewegung mit zurückgeschobenem Becken.",
+		"steps": [
+			"Stell dich mit der Langhantel in den Händen hin, die Knie sind leicht gebeugt.",
+			"Schiebe das Becken nach hinten und führe die Langhantel an den Beinen entlang.",
+			"Senke sie unter die Knie und halte dabei den Rücken gerade.",
+			"Kehre beim Ausatmen in die Ausgangsposition zurück, indem du das Becken nach vorne schiebst."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen im unteren Rücken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Bewegung kommt aus dem Becken, nicht aus dem Rücken."
+		]
+	},
+	"treadmill-incline-walk": {
+		"name": "Gehen mit Steigung auf dem Laufband",
+		"description": "Zügiges Gehen auf dem Laufband mit Steigung. Stoßfreie Cardio-Belastung für Ausdauer und Beine.",
+		"steps": [
+			"Stelle eine Steigung von 4–8 % und ein angenehmes zügiges Gehtempo ein.",
+			"Halte den Oberkörper gerade und stütze dich nicht auf den Handläufen ab.",
+			"Gehe die vorgegebene Zeit in gleichmäßigem Tempo.",
+			"Verringere am Ende Geschwindigkeit und Steigung zur Erholung."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Die Atmung bleibt gleichmäßig, du kannst in kurzen Sätzen sprechen."
+		]
+	},
+	"easy-run-intervals": {
+		"name": "Lockerer Intervalllauf",
+		"description": "Wechsel zwischen ruhigem Laufen und Gehen. Entwickelt die Herz- und Atemausdauer ohne abrupte Belastung.",
+		"steps": [
+			"Wärme dich eine Minute mit zügigem Gehen auf.",
+			"Laufe die vorgegebene Zeit in angenehmem Tempo.",
+			"Gehe zur Erholung wieder über.",
+			"Wiederhole den Wechsel entsprechend der Anzahl der Sätze."
+		],
+		"warnings": [
+			"Brich den Lauf ab, wenn Schmerzen in den Sprunggelenken oder Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Das Tempo erlaubt es, durch die Nase zu atmen oder in kurzen Sätzen zu sprechen."
+		]
+	},
+	"sprint-intervals": {
+		"name": "Sprint-Intervalle",
+		"description": "Kurze Beschleunigungen mit voller Geschwindigkeit und vollständiger Pause. Entwickeln Schnellkraft und Schnelligkeitsausdauer.",
+		"steps": [
+			"Wärme dich gut auf und laufe einige lockere Steigerungsläufe.",
+			"Beschleunige auf etwa 90 % der Höchstgeschwindigkeit.",
+			"Gehe nach dem Sprint im Schritttempo zurück und erhole dich vollständig.",
+			"Wiederhole entsprechend der Anzahl der Sätze."
+		],
+		"warnings": [
+			"Mache die Übung nicht auf rutschigem Untergrund und brich ab, wenn Schmerzen in den Knien oder Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Neige den Oberkörper nach vorne und arbeite mit den Armen mit."
+		]
+	},
+	"brisk-walk-intervals": {
+		"name": "Intervalle im zügigen Gehen",
+		"description": "Wechsel zwischen zügigem und ruhigem Gehen an der frischen Luft. Geeignet für den Einstieg und die Erholung.",
+		"steps": [
+			"Gehe eine Minute lang ruhig zum Aufwärmen.",
+			"Gehe zügig und schwinge die gebeugten Arme mit.",
+			"Wechsle zur Erholung in ruhiges Gehen.",
+			"Wiederhole den Wechsel."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Zügiger Schritt: Die Atmung ist beschleunigt, aber du kannst sprechen."
+		]
+	},
+	"walking-lunge": {
+		"name": "Gehende Ausfallschritte",
+		"description": "Ausfallschritte mit Fortbewegung nach vorne. Trainieren Beine und Gesäß und schulen das Gleichgewicht.",
+		"steps": [
+			"Stell dich aufrecht hin, die Hände an der Hüfte oder am Körper.",
+			"Mache einen weiten Schritt nach vorne und senke dich ab, beide Knie auf 90° gebeugt.",
+			"Drücke dich mit dem vorderen Bein ab und ziehe das hintere Bein neben das vordere.",
+			"Mache weiter und wechsle dabei die Beine ab."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Das vordere Knie ist über dem Knöchel."
+		]
+	},
+	"bear-crawl": {
+		"name": "Bärengang",
+		"description": "Fortbewegung auf allen vieren mit angehobenen Knien. Kräftigt Schultern, Rumpf und Beine und entwickelt die Koordination.",
+		"steps": [
+			"Gehe auf Hände und Füße, die Knie schweben 5 cm über dem Boden.",
+			"Setze gleichzeitig gegenüberliegenden Arm und Bein nach vorne.",
+			"Halte den Rücken gerade, das Becken tief.",
+			"Bewege dich die vorgegebene Zeit vorwärts, dann ebenso rückwärts."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Bewegungen sind langsam und kontrolliert."
+		]
+	},
+	"broad-jump": {
+		"name": "Standweitsprung",
+		"description": "Explosiver Sprung nach vorne von beiden Beinen. Entwickelt die Schnellkraft der Beine und die Koordination.",
+		"steps": [
+			"Stell dich schulterbreit hin, die Arme nach hinten geführt.",
+			"Drücke dich ab, schwinge die Arme nach vorne und springe so weit wie möglich.",
+			"Lande weich mit gebeugten Knien.",
+			"Bleibe stehen, finde dein Gleichgewicht und wiederhole."
+		],
+		"warnings": [
+			"Mache die Übung nicht auf rutschigem Untergrund und brich ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Weiche Landung auf dem ganzen Fuß."
+		]
+	},
+	"skater-jumps": {
+		"name": "Skater-Sprünge",
+		"description": "Seitliche Sprünge von einem Bein auf das andere. Trainieren Gleichgewicht, Beine und Ausdauer.",
+		"steps": [
+			"Stell dich auf ein Bein, das andere ist nach hinten geführt.",
+			"Springe seitlich auf das andere Bein und schwinge dabei die Arme mit.",
+			"Bleibe kurz stehen und halte das Gleichgewicht.",
+			"Springe zurück und mache die vorgegebene Zeit weiter."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien oder Sprunggelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Weiche Landung, das Knie bleibt hinter der Zehenspitze."
+		]
+	},
+	"shuttle-run": {
+		"name": "Pendellauf",
+		"description": "Laufen zwischen zwei Punkten mit Richtungswechsel. Entwickelt Reaktionsschnelligkeit und Ausdauer.",
+		"steps": [
+			"Markiere zwei Punkte im Abstand von 3 m.",
+			"Laufe zum zweiten Punkt und berühre den Boden mit der Hand.",
+			"Drehe dich schnell um und laufe zurück.",
+			"Wiederhole für die vorgegebene Zeit."
+		],
+		"warnings": [
+			"Mache die Übung nicht auf rutschigem Untergrund."
+		],
+		"techniqueNotes": [
+			"Drehe dich mit gebeugten Knien um, das Bein wird nicht ausgeschwungen."
+		]
+	},
+	"stair-climb": {
+		"name": "Treppensteigen",
+		"description": "Schnelles Steigen auf Treppen oder an einem steilen Hang. Cardio und Training für Beine und Gesäß.",
+		"steps": [
+			"Stell dich an den Fuß der Treppe oder des Hangs.",
+			"Steige im zügigen Schritt hinauf und setze den ganzen Fuß auf die Stufe.",
+			"Steige die vorgegebene Zeit hinauf und gehe dann langsam wieder hinunter.",
+			"Wiederhole entsprechend der Anzahl der Sätze."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Der Abstieg ist ruhig, halte dich bei Bedarf am Geländer fest."
+		]
+	},
+	"park-bench-step-up": {
+		"name": "Step-up auf die Parkbank",
+		"description": "Aufsteigen auf eine stabile Bank auf einem Bein. Trainiert Quadrizeps und Gesäßmuskulatur.",
+		"steps": [
+			"Prüfe, ob die Bank stabil ist, und stell dich davor.",
+			"Setze einen Fuß auf die Bank und steige auf, indem du das Bein streckst.",
+			"Steige langsam wieder hinunter und kontrolliere die Bewegung.",
+			"Beende den Satz und wechsle das Bein."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Knien auftreten."
+		],
+		"techniqueNotes": [
+			"Drücke dich mit dem Bein auf der Bank hoch, nicht mit dem Bein am Boden."
+		]
+	},
+	"park-bench-incline-push-up": {
+		"name": "Liegestütze an der Parkbank",
+		"description": "Liegestütze mit den Händen auf einer Bank. Erleichterte Variante für Brust, Schultern und Trizeps.",
+		"steps": [
+			"Setze die Handflächen auf die Kante einer stabilen Bank, der Körper bildet eine Linie.",
+			"Beuge die Ellbogen und senke die Brust zur Bank.",
+			"Drücke dich beim Ausatmen ab, bis die Arme gestreckt sind.",
+			"Halte den Rumpf während der gesamten Bewegung angespannt."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Die Ellbogen zeigen in einem Winkel von etwa 45° zum Oberkörper."
+		]
+	},
+	"australian-pull-up": {
+		"name": "Australian Pull-up",
+		"description": "Hochziehen des Körpers zu einer niedrigen Stange, darunter liegend. Trainiert Rücken und Bizeps, leichter als der Klimmzug.",
+		"steps": [
+			"Stell dich unter eine niedrige, feste Stange und greife sie breiter als schulterbreit.",
+			"Strecke den Körper in eine gerade Linie, die Fersen bleiben auf dem Boden.",
+			"Ziehe die Brust zur Stange und ziehe dabei die Schulterblätter zusammen.",
+			"Senke dich langsam ab, bis die Arme fast gestreckt sind."
+		],
+		"warnings": [
+			"Vergewissere dich, dass die Stange fest ist, und brich ab, wenn Schmerzen in den Schultern auftreten."
+		],
+		"techniqueNotes": [
+			"Der Körper bleibt gerade, das Becken hängt nicht durch."
+		]
+	},
+	"outdoor-plank-shoulder-taps": {
+		"name": "Plank mit Schulter-Taps",
+		"description": "Plank mit abwechselndem Antippen der Schulter. Trainiert den Rumpf und die Schulterstabilität.",
+		"steps": [
+			"Gehe in die hohe Plank-Position, die Füße etwas weiter als schulterbreit.",
+			"Tippe mit der rechten Hand die linke Schulter an, ohne das Becken zu schaukeln.",
+			"Bringe die Hand zurück und tippe mit der anderen an.",
+			"Wechsle für die vorgegebene Zeit weiter ab."
+		],
+		"warnings": [
+			"Brich die Übung ab, wenn Schmerzen in den Handgelenken auftreten."
+		],
+		"techniqueNotes": [
+			"Das Becken bewegt sich kaum."
+		]
+	}
+}

@@ -4,12 +4,13 @@ Created with the built-in Imagegen tool. The prompt set is recorded in
 `generation-prompts.json` and `generation-prompts-2026-10-31.json`; exercise prompts
 expand the catalog's name, steps, and technique notes.
 Product prompts are recorded in `product-generation-prompts-2026-10-31.json`.
+Final visual corrections are recorded in `generation-revisions-2026-10-31.json`.
 
 - `src/assets/seo/`: 34 page covers, JPEG, 1200 × 630.
 - `src/assets/exercises/`: 113 female exercise illustrations, JPEG, 960 × 600.
 - `src/assets/exercises/male/`: 113 male exercise illustrations, JPEG, 960 × 600.
 - `src/assets/products/`: 46 product illustrations, JPEG, 1200 × 900.
-- Assets publish at `/seo/` and `/exercises/` through the existing Angular build.
+- Assets publish at `/seo/`, `/exercises/`, and `/products/` through the Angular build.
 
 Company data supplies the public pages' social images. App route metadata supplies
 the private pages' images and retains `noindex, nofollow`. Exercise detail routes

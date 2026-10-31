@@ -21,6 +21,8 @@ interface Block {
 	value: string;
 	unit: string;
 	caption: string;
+	/** Shown before the caption when set, e.g. the number of weigh-ins. */
+	count?: number;
 }
 
 /** Row order of the grids: this week, month, year, then last week, month, year. */
@@ -95,7 +97,7 @@ const BLOCKS: { period: PeriodKey; which: 'current' | 'previous'; label: string 
 											}}</span>
 										}
 									</span>
-									<span class="text-xs text-[var(--c-text-muted)]">{{ block.caption }}</span>
+									<span class="text-xs text-[var(--c-text-muted)]">{{ block.count ? block.count + ' ' : '' }}<span [translate]="block.caption">{{ block.caption }}</span></span>
 								</li>
 							}
 						</ul>
@@ -159,7 +161,8 @@ export class DashboardComponent {
 				label,
 				value: mean === null ? '—' : mean.toLocaleString('uk', { minimumFractionDigits: 1 }),
 				unit: mean === null ? '' : 'кг',
-				caption: kg.length ? `${kg.length} ${kg.length === 1 ? 'запис' : 'записів'}` : 'Немає записів',
+				caption: kg.length === 1 ? 'запис' : kg.length ? 'записів' : 'Немає записів',
+				count: kg.length,
 			};
 		}),
 	);

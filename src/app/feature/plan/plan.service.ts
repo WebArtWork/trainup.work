@@ -205,7 +205,7 @@ export class PlanService {
 
 		return {
 			...snapshot,
-			catalog: this._catalog.exercises(),
+			catalog: this._catalog.source(),
 			startDate: localToday(),
 			pausedExerciseIds: this._flags.pausedIds(),
 			adjustment: this.suggestedAdjustment(),

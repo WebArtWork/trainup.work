@@ -1,0 +1,1938 @@
+{
+	"bodyweight-squat": {
+		"name": "Przysiad z własnym ciężarem",
+		"description": "Podstawowy przysiad bez obciążenia. Trenuje czworogłowe uda i pośladki, rozwija kontrolę ruchu w kolanach i biodrach.",
+		"steps": [
+			"Stań w rozkroku na szerokość barków.",
+			"Odsuń biodra do tyłu i ugnij kolana, schodząc w dół.",
+			"Zejdź do wygodnej głębokości, utrzymując proste plecy.",
+			"Odepchnij się stopami i wróć do pozycji wyjściowej."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Kolana podążają w kierunku palców stóp.",
+			"Nie odrywaj pięt od podłogi."
+		]
+	},
+	"split-squat": {
+		"name": "Przysiad split",
+		"description": "Przysiad w pozycji wykroku. Trenuje czworogłowe uda i pośladki każdej nogi osobno oraz poprawia równowagę.",
+		"steps": [
+			"Przyjmij pozycję wykroku: jedna noga z przodu, druga z tyłu.",
+			"Opuść się pionowo w dół, uginając oba kolana.",
+			"Wstań, odpychając się przednią nogą.",
+			"Wykonaj wszystkie powtórzenia i zmień nogi."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Utrzymuj tułów w pionie.",
+			"Ciężar ciała spoczywa głównie na przedniej nodze."
+		]
+	},
+	"reverse-lunge": {
+		"name": "Wykroki w tył",
+		"description": "Wykrok z krokiem w tył. Trenuje czworogłowe uda i pośladki, rozwija równowagę i koordynację.",
+		"steps": [
+			"Stań prosto, stopy na szerokość bioder.",
+			"Zrób krok w tył i opuść się, uginając oba kolana.",
+			"Odepchnij się przednią nogą i wróć do pozycji wyjściowej.",
+			"Zmieniaj nogi lub wykonaj wszystkie powtórzenia na jedną stronę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Krok w tył wykonuj kontrolowanie, bez szarpnięcia.",
+			"Utrzymuj tułów prosto."
+		]
+	},
+	"glute-bridge": {
+		"name": "Mostek biodrowy",
+		"description": "Unoszenie bioder w leżeniu na plecach. Trenuje pośladki i tylną część ud.",
+		"steps": [
+			"Połóż się na plecach, ugnij kolana, stopy oparte na podłodze.",
+			"Napnij pośladki i unieś biodra w górę.",
+			"Zatrzymaj się na sekundę w górnym punkcie.",
+			"Powoli opuść biodra na podłogę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Nie wyginaj lędźwi w górnym punkcie.",
+			"Dociskaj podłogę piętami."
+		]
+	},
+	"single-leg-glute-bridge": {
+		"name": "Mostek biodrowy na jednej nodze",
+		"description": "Trudniejszy wariant mostka biodrowego z podporem na jednej nodze. Trenuje pośladki i tylną część ud, poprawia stabilność miednicy.",
+		"steps": [
+			"Połóż się na plecach, ugnij kolana, stopy oparte na podłodze.",
+			"Wyprostuj jedną nogę i unieś ją nad podłogą.",
+			"Unieś biodra, odpychając się piętą nogi podporowej.",
+			"Powoli opuść się; po serii zmień nogę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Utrzymuj miednicę prosto, bez przekrzywiania.",
+			"Poruszaj się powoli i kontrolowanie."
+		]
+	},
+	"knee-push-up": {
+		"name": "Pompki na kolanach",
+		"description": "Łatwiejszy wariant pompek z podporem na kolanach. Trenuje mięśnie piersiowe i tricepsy.",
+		"steps": [
+			"Uklęknij, dłonie na podłodze nieco szerzej niż barki.",
+			"Wyprostuj ciało od kolan do głowy.",
+			"Ugnij ramiona i opuść klatkę piersiową ku podłodze.",
+			"Odepchnij się i wyprostuj ramiona."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból nadgarstków lub barków."
+		],
+		"techniqueNotes": [
+			"Łokcie pod kątem około 45° do tułowia.",
+			"Nie zapadaj się w odcinku lędźwiowym."
+		]
+	},
+	"push-up": {
+		"name": "Pompki",
+		"description": "Klasyczne pompki od podłogi. Trenują mięśnie piersiowe, tricepsy i stabilizatory tułowia.",
+		"steps": [
+			"Przyjmij pozycję podporu przodem, dłonie nieco szerzej niż barki.",
+			"Wyprostuj ciało od pięt do głowy.",
+			"Ugnij ramiona i opuść klatkę piersiową ku podłodze.",
+			"Odepchnij się i wyprostuj ramiona."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból nadgarstków lub barków."
+		],
+		"techniqueNotes": [
+			"Utrzymuj napięty brzuch i pośladki.",
+			"Łokcie pod kątem około 45° do tułowia."
+		]
+	},
+	"wall-push-up": {
+		"name": "Pompki przy ścianie",
+		"description": "Najłatwiejszy wariant pompek z podporem o ścianę. Trenuje mięśnie piersiowe i tricepsy przy minimalnym obciążeniu.",
+		"steps": [
+			"Stań twarzą do ściany w odległości wyprostowanych ramion.",
+			"Oprzyj dłonie o ścianę na wysokości barków.",
+			"Ugnij ramiona i przybliż klatkę piersiową do ściany.",
+			"Odepchnij się i wróć do pozycji wyjściowej."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Utrzymuj ciało proste jak deska.",
+			"Im dalej stopy od ściany, tym trudniej."
+		]
+	},
+	"pike-push-up": {
+		"name": "Pompki w pozycji „szczupak”",
+		"description": "Pompki z uniesionymi biodrami, które przenoszą obciążenie na barki. Trenują mięśnie naramienne i tricepsy.",
+		"steps": [
+			"Przyjmij podpór przodem i unieś biodra, tworząc odwróconą literę „V”.",
+			"Ugnij ramiona i opuść głowę ku podłodze między dłońmi.",
+			"Odepchnij się i wyprostuj ramiona.",
+			"Utrzymuj biodra wysoko przez całą serię."
+		],
+		"warnings": [
+			"Opuszczaj się powoli i nie opieraj głowy na podłodze.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków, nadgarstków lub szyi."
+		],
+		"techniqueNotes": [
+			"Łokcie skierowane do tyłu, a nie na boki.",
+			"Wzrok na podłodze między dłońmi."
+		]
+	},
+	"plank": {
+		"name": "Deska",
+		"description": "Statyczne utrzymanie ciała w podporze na przedramionach. Trenuje mięśnie core i stabilność tułowia.",
+		"steps": [
+			"Przyjmij podpór na przedramionach, łokcie pod barkami.",
+			"Wyprostuj nogi i ustaw ciało w linii od pięt do głowy.",
+			"Napnij brzuch i pośladki.",
+			"Utrzymuj pozycję przez zadany czas, oddychając równomiernie."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub dolnego odcinka pleców."
+		],
+		"techniqueNotes": [
+			"Nie unoś ani nie opuszczaj bioder.",
+			"Nie wstrzymuj oddechu."
+		]
+	},
+	"side-plank": {
+		"name": "Deska boczna",
+		"description": "Statyczne utrzymanie ciała bokiem z podporem na przedramieniu. Trenuje mięśnie skośne brzucha i stabilizatory tułowia.",
+		"steps": [
+			"Połóż się na boku, łokieć pod barkiem.",
+			"Ułóż stopy jedna na drugiej lub jedną przed drugą.",
+			"Unieś biodra, ustawiając ciało w jednej linii.",
+			"Utrzymuj pozycję przez zadany czas, potem zmień stronę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból barku."
+		],
+		"techniqueNotes": [
+			"Nie pozwól, by biodra opadały.",
+			"Utrzymuj szyję w jednej linii z ciałem."
+		]
+	},
+	"dead-bug": {
+		"name": "Martwy żuk",
+		"description": "Naprzemienne prostowanie przeciwległej ręki i nogi w leżeniu na plecach. Trenuje głębokie mięśnie core i kontrolę pozycji dolnego odcinka pleców.",
+		"steps": [
+			"Połóż się na plecach, ramiona wyciągnij w górę, nogi ugnij pod kątem prostym.",
+			"Powoli opuść przeciwległą rękę i nogę ku podłodze.",
+			"Wróć do pozycji wyjściowej.",
+			"Powtórz z drugą parą ręki i nogi."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Dociskaj lędźwie do podłogi.",
+			"Poruszaj się powoli, wydychaj powietrze przy opuszczaniu."
+		]
+	},
+	"bird-dog": {
+		"name": "Ptak-pies",
+		"description": "Naprzemienne wyciąganie przeciwległej ręki i nogi w podporze klęcznym. Trenuje mięśnie core, pośladki i koordynację.",
+		"steps": [
+			"Przyjmij pozycję na czworakach: dłonie pod barkami, kolana pod biodrami.",
+			"Jednocześnie wyciągnij jedną rękę do przodu i przeciwległą nogę do tyłu.",
+			"Zatrzymaj się na sekundę.",
+			"Wróć do pozycji wyjściowej i zmień stronę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból nadgarstków."
+		],
+		"techniqueNotes": [
+			"Utrzymuj proste plecy, nie wyginaj ich.",
+			"Miednica pozostaje równolegle do podłogi."
+		]
+	},
+	"superman": {
+		"name": "Superman",
+		"description": "Jednoczesne unoszenie rąk i nóg w leżeniu na brzuchu. Trenuje mięśnie grzbietu i pośladki.",
+		"steps": [
+			"Połóż się na brzuchu, ramiona wyciągnij przed siebie.",
+			"Jednocześnie unieś lekko ręce, klatkę piersiową i nogi nad podłogę.",
+			"Zatrzymaj się na 1–2 sekundy.",
+			"Powoli opuść się."
+		],
+		"warnings": [
+			"Nie unoś się gwałtownie ani zbyt wysoko.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Wzrok skierowany w dół, szyja w jednej linii z plecami.",
+			"Poruszaj się płynnie, bez szarpnięć."
+		]
+	},
+	"wall-sit": {
+		"name": "Krzesełko przy ścianie",
+		"description": "Statyczne utrzymanie pozycji siedzącej plecami do ściany. Trenuje czworogłowe uda i wytrzymałość nóg.",
+		"steps": [
+			"Stań plecami do ściany, stopy w odległości około pół metra od niej.",
+			"Zsuwaj się plecami w dół, aż kolana ugną się pod wygodnym kątem.",
+			"Utrzymuj pozycję przez zadany czas.",
+			"Powoli wstań."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Kolana nad kostkami, nie wychodzą przed palce stóp.",
+			"Plecy całkowicie dociśnięte do ściany."
+		]
+	},
+	"jumping-jacks": {
+		"name": "Pajacyki",
+		"description": "Skoki z jednoczesnym rozstawianiem rąk i nóg. Rozwijają wytrzymałość sercowo-naczyniową i rozgrzewają całe ciało.",
+		"steps": [
+			"Stań prosto, nogi razem, ręce wzdłuż ciała.",
+			"Skokiem rozstaw nogi i unieś ręce nad głowę.",
+			"Skokiem wróć do pozycji wyjściowej.",
+			"Kontynuuj w równym tempie przez zadany czas."
+		],
+		"warnings": [
+			"Ląduj delikatnie na przedniej części stopy.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Kolana lekko ugięte podczas lądowania.",
+			"Oddychaj równomiernie."
+		]
+	},
+	"step-jacks": {
+		"name": "Pajacyki krokowe",
+		"description": "Bezudarowy wariant pajacyków: krok w bok z uniesieniem rąk nad głowę. Rozgrzewa ciało i podnosi tętno bez skoków.",
+		"steps": [
+			"Stań prosto, nogi razem, ręce wzdłuż ciała.",
+			"Zrób krok w bok i jednocześnie unieś ręce nad głowę.",
+			"Dostaw nogę i opuść ręce.",
+			"Zmieniaj strony w równym tempie."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Utrzymuj tempo, aby tętno rosło umiarkowanie.",
+			"Stawiaj kroki miękko."
+		]
+	},
+	"high-knees": {
+		"name": "Bieg z wysokim unoszeniem kolan",
+		"description": "Bieg w miejscu z wysokim unoszeniem kolan. Rozwija wytrzymałość sercowo-naczyniową i szybkość nóg.",
+		"steps": [
+			"Stań prosto, stopy na szerokość bioder.",
+			"Zacznij biec w miejscu, unosząc kolana mniej więcej do wysokości bioder.",
+			"Pracuj rękami w rytm nóg.",
+			"Kontynuuj przez zadany czas."
+		],
+		"warnings": [
+			"Ląduj delikatnie na przedniej części stopy.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Utrzymuj tułów w pionie.",
+			"Nie odchylaj się do tyłu."
+		]
+	},
+	"march-in-place": {
+		"name": "Marsz w miejscu",
+		"description": "Chód w miejscu z aktywną pracą rąk. Lekkie ćwiczenie cardio bez uderzeń, na rozgrzewkę i podniesienie tętna.",
+		"steps": [
+			"Stań prosto, ręce ugięte w łokciach.",
+			"Naprzemiennie unoś kolana, maszerując w miejscu.",
+			"Pracuj rękami w rytm kroków.",
+			"Utrzymuj równe tempo przez zadany czas."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Utrzymuj proste plecy.",
+			"Aby utrudnić, unoś kolana wyżej lub przyspiesz tempo."
+		]
+	},
+	"mountain-climbers": {
+		"name": "Wspinaczka górska",
+		"description": "Naprzemienne przyciąganie kolan do klatki piersiowej w podporze przodem. Rozwija wytrzymałość i trenuje mięśnie core.",
+		"steps": [
+			"Przyjmij podpór przodem, dłonie pod barkami.",
+			"Przyciągnij jedno kolano do klatki piersiowej.",
+			"Wróć nogą do tyłu i przyciągnij drugie kolano.",
+			"Zmieniaj nogi w szybkim, ale kontrolowanym tempie."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból nadgarstków lub barków."
+		],
+		"techniqueNotes": [
+			"Nie unoś wysoko bioder.",
+			"Barki trzymaj nad dłońmi."
+		]
+	},
+	"burpee": {
+		"name": "Burpees",
+		"description": "Ćwiczenie złożone: przysiad, podpór przodem, powrót i wyskok w górę. Rozwija ogólną wytrzymałość i obciąża całe ciało.",
+		"steps": [
+			"Przykucnij i połóż dłonie na podłodze.",
+			"Wyrzuć nogi do tyłu w podpór przodem.",
+			"Przyciągnij nogi do rąk i wyprostuj się.",
+			"Wykonaj niewielki wyskok w górę z rękami nad głową."
+		],
+		"warnings": [
+			"Ląduj delikatnie i nie wyginaj lędźwi w podporze przodem.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból stawów lub pleców."
+		],
+		"techniqueNotes": [
+			"W pozycji podporu utrzymuj ciało prosto.",
+			"Stawiaj na kontrolę, a nie na maksymalną szybkość."
+		]
+	},
+	"squat-jump": {
+		"name": "Przysiad z wyskokiem",
+		"description": "Przysiad z dynamicznym wyskokiem w górę. Rozwija siłę nóg i dynamikę.",
+		"steps": [
+			"Stań w rozkroku na szerokość barków.",
+			"Zrób przysiad do wygodnej głębokości.",
+			"Dynamicznie wyskocz w górę.",
+			"Wyląduj miękko i od razu przejdź do przysiadu."
+		],
+		"warnings": [
+			"Ląduj miękko na ugiętych nogach.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Kolana podążają w kierunku palców stóp.",
+			"Lądowanie ciche i kontrolowane."
+		]
+	},
+	"cat-cow": {
+		"name": "Kot-krowa",
+		"description": "Płynne, naprzemienne zaokrąglanie i wyginanie pleców w podporze klęcznym. Poprawia ruchomość kręgosłupa.",
+		"steps": [
+			"Przyjmij pozycję na czworakach, dłonie pod barkami.",
+			"Na wdechu wygnij plecy i unieś wzrok.",
+			"Na wydechu zaokrąglij plecy, opuszczając głowę.",
+			"Powtarzaj płynnie w rytmie oddechu."
+		],
+		"warnings": [
+			"Poruszaj się w wygodnym zakresie i przerwij, jeśli pojawi się ból."
+		],
+		"techniqueNotes": [
+			"Ruch przebiega od miednicy do głowy.",
+			"Nie spiesz się."
+		]
+	},
+	"kneeling-hip-flexor-stretch": {
+		"name": "Rozciąganie zginaczy bioder w klęku",
+		"description": "Rozciąganie przodu uda w pozycji wykroku na kolanie. Poprawia ruchomość stawu biodrowego.",
+		"steps": [
+			"Uklęknij na jednym kolanie, druga noga z przodu ugięta pod kątem prostym.",
+			"Napnij pośladek nogi, która klęczy.",
+			"Płynnie przesuń biodra do przodu aż do uczucia rozciągania.",
+			"Utrzymaj pozycję przez zadany czas i zmień nogę."
+		],
+		"warnings": [
+			"Podłóż pod kolano coś miękkiego; przerwij, jeśli pojawi się ból."
+		],
+		"techniqueNotes": [
+			"Nie wyginaj lędźwi.",
+			"Rozciąganie ma być umiarkowane, bez bólu."
+		]
+	},
+	"arm-circles": {
+		"name": "Krążenia ramion",
+		"description": "Okrężne ruchy wyprostowanych rąk. Rozgrzewa stawy barkowe i poprawia ich ruchomość.",
+		"steps": [
+			"Stań prosto i rozłóż ręce na boki.",
+			"Wykonuj małe kółka rękami do przodu.",
+			"Stopniowo zwiększaj zakres ruchu.",
+			"W połowie czasu zmień kierunek."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Barki opuszczone, nie podciągaj ich do uszu.",
+			"Poruszaj się płynnie."
+		]
+	},
+	"open-book-rotation": {
+		"name": "Rotacja „otwarta książka”",
+		"description": "Skręt odcinka piersiowego kręgosłupa w leżeniu na boku. Poprawia ruchomość odcinka piersiowego i barków.",
+		"steps": [
+			"Połóż się na boku, ugnij kolana, ręce wyciągnij przed siebie.",
+			"Poprowadź górną rękę łukiem na przeciwną stronę, skręcając klatkę piersiową.",
+			"Śledź wzrokiem rękę.",
+			"Wróć ręką; po serii zmień bok."
+		],
+		"warnings": [
+			"Poruszaj się w wygodnym zakresie i przerwij, jeśli pojawi się ból."
+		],
+		"techniqueNotes": [
+			"Kolana pozostają razem na podłodze.",
+			"Oddychaj spokojnie."
+		]
+	},
+	"goblet-squat": {
+		"name": "Przysiad goblet",
+		"description": "Przysiad z hantlą lub kettlebellem trzymanym przy klatce piersiowej. Trenuje czworogłowe uda i pośladki oraz pomaga utrzymać tułów w pionie.",
+		"steps": [
+			"Trzymaj hantlę lub kettlebell pionowo przy klatce piersiowej.",
+			"Stań w rozkroku nieco szerszym niż barki.",
+			"Zrób przysiad, utrzymując klatkę piersiową uniesioną.",
+			"Wstań, odpychając się stopami."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub pleców."
+		],
+		"techniqueNotes": [
+			"Łokcie przesuwają się między kolanami.",
+			"Plecy proste przez cały ruch."
+		]
+	},
+	"dumbbell-romanian-deadlift": {
+		"name": "Martwy ciąg rumuński z hantlami",
+		"description": "Skłon w przód z hantlami z ruchem w stawach biodrowych. Trenuje tylną część ud i pośladki.",
+		"steps": [
+			"Stań prosto, hantle przed udami.",
+			"Lekko ugnij kolana i odsuń biodra do tyłu.",
+			"Opuszczaj hantle wzdłuż nóg do uczucia rozciągania tylnej części ud.",
+			"Wróć w górę, wypychając biodra do przodu."
+		],
+		"warnings": [
+			"Nie zaokrąglaj pleców; dobierz ciężar, przy którym zachowasz technikę.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Plecy proste, hantle blisko nóg.",
+			"Ruch wychodzi z bioder, a nie z pleców."
+		]
+	},
+	"one-arm-dumbbell-row": {
+		"name": "Wiosłowanie hantlą jedną ręką",
+		"description": "Przyciąganie hantli do pasa w pochyleniu z podporem ręką. Trenuje mięśnie grzbietu i bicepsy.",
+		"steps": [
+			"Pochyl się do przodu, wolną ręką oprzyj się o udo lub stabilne podparcie.",
+			"Chwyć hantlę, ramię wyprostowane pod barkiem.",
+			"Przyciągnij hantlę do pasa, prowadząc łokieć do tyłu.",
+			"Powoli opuść; po serii zmień rękę."
+		],
+		"warnings": [
+			"Utrzymuj proste plecy; przerwij, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Nie skręcaj tułowia podczas przyciągania.",
+			"Przyciągaj łopatkę do kręgosłupa."
+		]
+	},
+	"dumbbell-floor-press": {
+		"name": "Wyciskanie hantli leżąc na podłodze",
+		"description": "Wyciskanie hantli w górę w leżeniu na podłodze z ograniczonym zakresem ruchu. Trenuje mięśnie piersiowe i tricepsy.",
+		"steps": [
+			"Połóż się na plecach, ugnij kolana, hantle w dłoniach przy klatce piersiowej.",
+			"Wyciśnij hantle w górę nad klatką piersiową.",
+			"Powoli opuszczaj, aż barki dotkną podłogi.",
+			"Powtórz wyciskanie."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Łokcie pod kątem około 45° do tułowia.",
+			"Opuszczaj hantle kontrolowanie, bez uderzania o podłogę."
+		]
+	},
+	"dumbbell-bench-press": {
+		"name": "Wyciskanie hantli leżąc na ławce",
+		"description": "Wyciskanie hantli w górę w leżeniu na ławce poziomej. Trenuje mięśnie piersiowe i tricepsy.",
+		"steps": [
+			"Połóż się na ławce, stopy na podłodze, hantle przy klatce piersiowej.",
+			"Wyciśnij hantle w górę nad klatką piersiową.",
+			"Powoli opuść je do poziomu klatki piersiowej.",
+			"Powtórz wyciskanie."
+		],
+		"warnings": [
+			"Dobierz ciężar, który możesz kontrolowanie opuścić.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Łopatki ściągnięte i dociśnięte do ławki.",
+			"Nie odbijaj hantli od klatki piersiowej."
+		]
+	},
+	"incline-dumbbell-press": {
+		"name": "Wyciskanie hantli na ławce skośnej",
+		"description": "Wyciskanie hantli w leżeniu na ławce z uniesionym oparciem. Trenuje górną część mięśni piersiowych i przednie aktony naramienne.",
+		"steps": [
+			"Ustaw oparcie ławki pod umiarkowanym kątem.",
+			"Usiądź na ławce, plecy dociśnięte, hantle przy klatce piersiowej.",
+			"Wyciśnij hantle w górę nad górną częścią klatki piersiowej.",
+			"Powoli opuść i powtórz."
+		],
+		"warnings": [
+			"Upewnij się, że oparcie ławki jest pewnie zablokowane.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Łopatki ściągnięte i dociśnięte do ławki.",
+			"Poruszaj się kontrolowanie w pełnym zakresie ruchu."
+		]
+	},
+	"dumbbell-shoulder-press": {
+		"name": "Wyciskanie hantli nad głową",
+		"description": "Wyciskanie hantli w górę w staniu. Trenuje mięśnie naramienne i tricepsy.",
+		"steps": [
+			"Stań prosto, hantle na wysokości barków.",
+			"Napnij brzuch i pośladki.",
+			"Wyciśnij hantle w górę nad głowę.",
+			"Powoli opuść do wysokości barków."
+		],
+		"warnings": [
+			"Nie wyginaj lędźwi podczas wyciskania.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków, szyi lub pleców."
+		],
+		"techniqueNotes": [
+			"Żebra opuszczone, tułów stabilny.",
+			"Nie odchylaj głowy do tyłu."
+		]
+	},
+	"dumbbell-reverse-lunge": {
+		"name": "Wykroki w tył z hantlami",
+		"description": "Wykrok z krokiem w tył z hantlami w dłoniach. Trenuje czworogłowe uda i pośladki z dodatkowym obciążeniem.",
+		"steps": [
+			"Stań prosto z hantlami w opuszczonych rękach.",
+			"Zrób krok w tył i opuść się, uginając oba kolana.",
+			"Odepchnij się przednią nogą i wróć do pozycji wyjściowej.",
+			"Zmieniaj nogi lub wykonaj wszystkie powtórzenia na jedną stronę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Utrzymuj tułów w pionie.",
+			"Barki opuszczone, hantle się nie bujają."
+		]
+	},
+	"farmer-carry": {
+		"name": "Spacer farmera",
+		"description": "Chód z hantlami lub kettlebellami w opuszczonych rękach. Trenuje mięśnie core, chwyt i ogólną stabilność.",
+		"steps": [
+			"Weź hantle lub kettlebelle w obie ręce.",
+			"Wyprostuj się, barki opuszczone i odciągnięte do tyłu.",
+			"Idź krótkimi, równymi krokami przez zadany czas.",
+			"Ostrożnie odłóż ciężar na podłogę."
+		],
+		"warnings": [
+			"Podnoś i odkładaj ciężar z prostymi plecami.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból pleców lub nadgarstków."
+		],
+		"techniqueNotes": [
+			"Nie przechylaj się w stronę ciężaru.",
+			"Utrzymuj napięty brzuch."
+		]
+	},
+	"kettlebell-swing": {
+		"name": "Wymachy kettlebell",
+		"description": "Dynamiczny wymach kettlebell z ruchem w stawach biodrowych. Rozwija moc pośladków i tylnej części ud oraz wytrzymałość.",
+		"steps": [
+			"Stań w rozkroku nieco szerszym niż barki, kettlebell przed sobą.",
+			"Pochyl się z prostymi plecami i zamachnij kettlebell do tyłu między nogami.",
+			"Dynamicznie wypchnij biodra do przodu, aby kettlebell uniósł się do wysokości klatki piersiowej.",
+			"Pozwól kettlebell opaść i powtórz ruch."
+		],
+		"warnings": [
+			"Upewnij się, że wokół nie ma ludzi ani przedmiotów.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Ruch wychodzi z bioder, ręce tylko trzymają kettlebell.",
+			"Plecy proste w dolnym punkcie."
+		]
+	},
+	"kettlebell-deadlift": {
+		"name": "Martwy ciąg z kettlebell",
+		"description": "Podnoszenie kettlebell z podłogi z ruchem w stawach biodrowych. Trenuje pośladki, tylną część ud i uczy prawidłowego podnoszenia ciężarów.",
+		"steps": [
+			"Stań nad kettlebell, stopy na szerokość bioder.",
+			"Odsuń biodra do tyłu, ugnij kolana i chwyć za uchwyt kettlebell.",
+			"Wyprostuj się, wypychając biodra do przodu.",
+			"Odłóż kettlebell na podłogę tym samym ruchem."
+		],
+		"warnings": [
+			"Nie zaokrąglaj pleców podczas podnoszenia.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Plecy proste, wzrok przed siebie.",
+			"Kettlebell porusza się blisko ciała."
+		]
+	},
+	"band-pull-apart": {
+		"name": "Rozciąganie gumy na boki",
+		"description": "Rozciąganie gumy oporowej prostymi rękami przed klatką piersiową. Trenuje mięśnie górnej części pleców i tylne aktony naramienne.",
+		"steps": [
+			"Chwyć gumę obiema rękami na szerokość barków przed klatką piersiową.",
+			"Rozsuń ręce na boki, rozciągając gumę.",
+			"Ściągnij łopatki w końcowym punkcie.",
+			"Powoli wróć rękami do pozycji wyjściowej."
+		],
+		"warnings": [
+			"Przed ćwiczeniem sprawdź, czy guma nie jest uszkodzona."
+		],
+		"techniqueNotes": [
+			"Barki opuszczone, nie unoś ich do uszu.",
+			"Ręce prawie proste przez cały ruch."
+		]
+	},
+	"band-row": {
+		"name": "Wiosłowanie z gumą",
+		"description": "Przyciąganie zamocowanej gumy do pasa. Trenuje mięśnie grzbietu i bicepsy.",
+		"steps": [
+			"Zamocuj gumę na wysokości pasa o stabilne podparcie.",
+			"Chwyć końce i cofnij się do napięcia gumy.",
+			"Przyciągnij ręce do pasa, prowadząc łokcie do tyłu.",
+			"Powoli wróć rękami do przodu."
+		],
+		"warnings": [
+			"Sprawdź, czy mocowanie jest pewne, a guma nieuszkodzona."
+		],
+		"techniqueNotes": [
+			"Ściągaj łopatki w końcowym punkcie.",
+			"Tułów nieruchomy, nie odchylaj się do tyłu."
+		]
+	},
+	"band-lat-pulldown": {
+		"name": "Ściąganie gumy z góry",
+		"description": "Ściąganie gumy zamocowanej wysoko w dół do klatki piersiowej. Trenuje najszersze mięśnie grzbietu i bicepsy.",
+		"steps": [
+			"Zamocuj gumę nad głową o stabilne podparcie.",
+			"Chwyć końce, ręce wyciągnięte w górę.",
+			"Pociągnij łokcie w dół do boków, przybliżając ręce do klatki piersiowej.",
+			"Powoli wróć rękami w górę."
+		],
+		"warnings": [
+			"Sprawdź, czy górne mocowanie jest pewne, a guma nieuszkodzona.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Przed ruchem opuść łopatki w dół.",
+			"Nie bujaj tułowiem."
+		]
+	},
+	"pull-up": {
+		"name": "Podciąganie",
+		"description": "Podciąganie ciała na drążku do wysokości brody. Trenuje mięśnie grzbietu i bicepsy.",
+		"steps": [
+			"Chwyć drążek chwytem nieco szerszym niż barki.",
+			"Zwiśnij na prostych rękach z opuszczonymi łopatkami.",
+			"Podciągnij się, aż broda znajdzie się nad drążkiem.",
+			"Powoli opuść się do prostych rąk."
+		],
+		"warnings": [
+			"Korzystaj tylko z pewnie zamocowanego drążka.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub nadgarstków."
+		],
+		"techniqueNotes": [
+			"Nie bujaj się i nie szarp.",
+			"Opuszczaj się kontrolowanie."
+		]
+	},
+	"dead-hang": {
+		"name": "Zwis na drążku",
+		"description": "Statyczny zwis na drążku na prostych rękach. Wzmacnia chwyt i mięśnie obręczy barkowej.",
+		"steps": [
+			"Chwyć drążek chwytem na szerokość barków.",
+			"Ostrożnie zwiśnij na prostych rękach.",
+			"Utrzymuj pozycję przez zadany czas, oddychając równomiernie.",
+			"Ostrożnie stań na podłodze."
+		],
+		"warnings": [
+			"Korzystaj tylko z pewnie zamocowanego drążka.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub nadgarstków."
+		],
+		"techniqueNotes": [
+			"Lekko napnij barki, nie zwisaj biernie.",
+			"Nie bujaj się."
+		]
+	},
+	"hanging-knee-raise": {
+		"name": "Unoszenie kolan w zwisie",
+		"description": "Przyciąganie kolan do klatki piersiowej w zwisie na drążku. Trenuje mięśnie brzucha i chwyt.",
+		"steps": [
+			"Zwiśnij na drążku na prostych rękach.",
+			"Napnij brzuch i przyciągnij kolana do klatki piersiowej.",
+			"Zatrzymaj się na sekundę.",
+			"Powoli opuść nogi bez bujania."
+		],
+		"warnings": [
+			"Korzystaj tylko z pewnie zamocowanego drążka.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub dolnego odcinka pleców."
+		],
+		"techniqueNotes": [
+			"Poruszaj się bez szarpnięć i wymachów.",
+			"Lekko podwiń miednicę w górnym punkcie."
+		]
+	},
+	"jump-rope": {
+		"name": "Skakanka",
+		"description": "Rytmiczne skoki przez skakankę. Rozwijają wytrzymałość sercowo-naczyniową, koordynację i siłę łydek.",
+		"steps": [
+			"Weź rączki skakanki, skakanka za piętami.",
+			"Obracaj skakankę nadgarstkami.",
+			"Wykonuj niskie skoki, gdy skakanka przechodzi pod stopami.",
+			"Utrzymuj równy rytm przez zadany czas."
+		],
+		"warnings": [
+			"Skacz nisko i ląduj miękko na przedniej części stopy.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Łokcie blisko ciała.",
+			"Kolana lekko ugięte."
+		]
+	},
+	"step-up": {
+		"name": "Wejścia na podwyższenie",
+		"description": "Wchodzenie na stabilną platformę naprzemiennie każdą nogą. Trenuje czworogłowe uda i pośladki.",
+		"steps": [
+			"Stań przed platformą.",
+			"Postaw na niej całą stopę jednej nogi.",
+			"Wstań, odpychając się nogą stojącą na platformie.",
+			"Powoli zejdź i powtórz; po serii zmień nogę."
+		],
+		"warnings": [
+			"Upewnij się, że platforma jest stabilna i się nie ślizga.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Nie odpychaj się dolną nogą.",
+			"Kolano porusza się w kierunku palców stopy."
+		]
+	},
+	"barbell-back-squat": {
+		"name": "Przysiad ze sztangą na plecach",
+		"description": "Przysiad ze sztangą na górnej części pleców. Rozwija siłę czworogłowych ud, pośladków i całego ciała.",
+		"steps": [
+			"Połóż sztangę na górnej części pleców i zdejmij ją ze stojaka.",
+			"Cofnij się, stopy na szerokość barków lub nieco szerzej.",
+			"Zrób przysiad do wygodnej głębokości, utrzymując proste plecy.",
+			"Wstań i po serii odłóż sztangę na stojak."
+		],
+		"warnings": [
+			"Ustaw bezpieczne ograniczniki stojaka i pracuj z ciężarem, który kontrolujesz.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan, pleców lub barków."
+		],
+		"techniqueNotes": [
+			"Napnij tułów przed każdym powtórzeniem.",
+			"Kolana podążają w kierunku palców stóp."
+		]
+	},
+	"barbell-deadlift": {
+		"name": "Martwy ciąg ze sztangą",
+		"description": "Podnoszenie sztangi z podłogi do pozycji stojącej. Rozwija siłę tylnej części ud, pośladków i pleców.",
+		"steps": [
+			"Stań tak, aby gryf znajdował się nad środkiem stopy.",
+			"Odsuń biodra do tyłu, ugnij kolana i chwyć gryf.",
+			"Wyprostuj się, trzymając gryf blisko nóg.",
+			"Odłóż sztangę na podłogę tym samym ruchem."
+		],
+		"warnings": [
+			"Nie zaokrąglaj pleców; pracuj z ciężarem, który kontrolujesz.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Plecy proste, tułów napięty.",
+			"Dociskaj podłogę nogami, a nie ciągnij plecami."
+		]
+	},
+	"cardio-machine-intervals": {
+		"name": "Interwały na urządzeniu cardio",
+		"description": "Praca interwałowa na rowerze stacjonarnym, orbitreku lub innym urządzeniu cardio. Rozwija wytrzymałość sercowo-naczyniową.",
+		"steps": [
+			"Rozgrzej się kilka minut w lekkim tempie.",
+			"Zwiększ tempo lub opór na zadany czas interwału.",
+			"Podczas odpoczynku kontynuuj ruch w lekkim tempie.",
+			"Powtórz interwał zadaną liczbę razy."
+		],
+		"warnings": [
+			"Przed użyciem zapoznaj się z instrukcją urządzenia.",
+			"Zmniejsz tempo lub przerwij, jeśli pojawią się zawroty głowy lub ból."
+		],
+		"techniqueNotes": [
+			"Intensywność ma być wyraźna, ale kontrolowana.",
+			"Utrzymuj prawidłową postawę."
+		]
+	},
+	"jump-rope-boxer-step": {
+		"name": "Krok bokserski ze skakanką",
+		"description": "Niskie skoki ze skakanką z naprzemiennym przenoszeniem ciężaru z nogi na nogę. Łatwiejsze niż skoki na obu nogach.",
+		"steps": [
+			"Weź rączki skakanki, skakanka za piętami.",
+			"Obracaj skakankę nadgarstkami.",
+			"Lekko przenoś ciężar z jednej nogi na drugą, jak przy marszu w miejscu.",
+			"Utrzymuj równy rytm przez zadany czas."
+		],
+		"warnings": [
+			"Skacz nisko i ląduj miękko na przedniej części stopy.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Skok tylko na kilka centymetrów nad podłogą.",
+			"Łokcie blisko ciała."
+		]
+	},
+	"jump-rope-side-to-side": {
+		"name": "Skoki ze skakanką z boku na bok",
+		"description": "Skoki na obu nogach z niewielkim przesunięciem w lewo i w prawo. Zwiększają obciążenie łydek i trenują koordynację.",
+		"steps": [
+			"Weź rączki skakanki, nogi razem.",
+			"Przeskakuj przez skakankę, lekko przesuwając się w lewo.",
+			"Przy następnym skoku przesuń się w prawo.",
+			"Utrzymuj rytm i ląduj miękko."
+		],
+		"warnings": [
+			"Upewnij się, że masz dość miejsca, a powierzchnia się nie ślizga.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Przesunięcie niewielkie, nie szersze niż stopy.",
+			"Kolana lekko ugięte."
+		]
+	},
+	"jump-rope-high-knees": {
+		"name": "Bieg ze skakanką",
+		"description": "Bieg w miejscu przez skakankę z unoszeniem kolan. Intensywne ćwiczenie cardio na wytrzymałość.",
+		"steps": [
+			"Weź rączki skakanki, skakanka za piętami.",
+			"Biegnij w miejscu, przepuszczając skakankę pod stopą przy każdym kroku.",
+			"Unoś kolana do wysokości bioder.",
+			"Utrzymuj tempo przez zadany czas."
+		],
+		"warnings": [
+			"Wykonuj wyłącznie po rozgrzewce.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan, bioder lub stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Tułów prosty, nie odchylaj się do tyłu.",
+			"Lądowanie miękkie, na przedniej części stopy."
+		]
+	},
+	"lateral-step-up": {
+		"name": "Boczne wejścia na podwyższenie",
+		"description": "Wchodzenie na platformę bokiem do niej. Obciąża pośladki i mięśnie ud pod innym kątem niż zwykłe wejście.",
+		"steps": [
+			"Stań bokiem do platformy, bliższa noga na niej.",
+			"Wyprostuj nogę, wchodząc na platformę.",
+			"Kontrolowanie opuść się z powrotem.",
+			"Skończ serie na jednej nodze, potem zmień nogę."
+		],
+		"warnings": [
+			"Upewnij się, że platforma jest stabilna i się nie ślizga.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub bioder."
+		],
+		"techniqueNotes": [
+			"Pracuje noga podporowa, druga tylko dotyka.",
+			"Kolano nie zapada się do środka."
+		]
+	},
+	"step-platform-push-up": {
+		"name": "Pompki z podporem na stepie",
+		"description": "Pompki z rękami na platformie. Łatwiejsza wersja klasycznych pompek dla początkujących.",
+		"steps": [
+			"Połóż ręce na platformie nieco szerzej niż barki, ciało w prostej linii.",
+			"Ugnij łokcie, opuszczając klatkę piersiową ku platformie.",
+			"Odepchnij się, prostując ramiona.",
+			"Utrzymuj napięty tułów."
+		],
+		"warnings": [
+			"Platforma powinna stać stabilnie, najlepiej na antypoślizgowej powierzchni.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból nadgarstków lub barków."
+		],
+		"techniqueNotes": [
+			"Nie wyginaj lędźwi.",
+			"Łokcie pod kątem około 45° do tułowia."
+		]
+	},
+	"step-platform-calf-raise": {
+		"name": "Wspięcia na palce na stepie",
+		"description": "Wspięcia na palce z krawędzi platformy dla większego zakresu ruchu. Wzmacniają mięśnie łydek.",
+		"steps": [
+			"Stań na krawędzi platformy przednią częścią stóp, pięty w powietrzu.",
+			"Powoli opuść pięty poniżej poziomu platformy.",
+			"Wespnij się jak najwyżej na palce.",
+			"Powtórz bez szarpnięć."
+		],
+		"warnings": [
+			"Przytrzymaj się ściany lub słupka dla równowagi.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból stawów skokowych lub ścięgna Achillesa."
+		],
+		"techniqueNotes": [
+			"Ruch powolny: 2 sekundy w górę, 2 w dół.",
+			"Kolana prawie proste."
+		]
+	},
+	"step-platform-reverse-lunge": {
+		"name": "Wykrok w tył ze stepa",
+		"description": "Krok w tył z platformy do wykroku. Zwiększony zakres ruchu dla pośladków i ud.",
+		"steps": [
+			"Stań na platformie, nogi na szerokość bioder.",
+			"Zrób krok jedną nogą w tył na podłogę.",
+			"Opuść się do wykroku, przednia noga pozostaje na platformie.",
+			"Wróć do pozycji wyjściowej i zmień nogę."
+		],
+		"warnings": [
+			"Upewnij się, że platforma jest stabilna i się nie ślizga.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Tułów w pionie.",
+			"Przednia pięta dociśnięta do platformy."
+		]
+	},
+	"step-platform-taps": {
+		"name": "Dotknięcia stepa",
+		"description": "Szybkie, naprzemienne dotykanie platformy stopami. Lekkie ćwiczenie cardio na rozgrzewkę i wytrzymałość.",
+		"steps": [
+			"Stań przed platformą.",
+			"Dotknij platformy prawą stopą, potem lewą.",
+			"Poruszaj się szybko i lekko, nie stawiając całej stopy.",
+			"Utrzymuj rytm przez zadany czas."
+		],
+		"warnings": [
+			"Platforma powinna stać stabilnie.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Plecy proste, ręce pracują w rytm.",
+			"Ruchy lekkie, bez uderzeń."
+		]
+	},
+	"bench-dip": {
+		"name": "Pompki tylne na ławce",
+		"description": "Pompki na triceps z podporem rąk na ławce za plecami.",
+		"steps": [
+			"Usiądź na brzegu ławki, ręce obok bioder.",
+			"Zsuń się do przodu, trzymając się rękami ławki.",
+			"Ugnij łokcie do około 90°.",
+			"Wyprostuj ramiona i wróć w górę."
+		],
+		"warnings": [
+			"Nie opuszczaj się głęboko, jeśli czujesz dyskomfort w barkach.",
+			"Ławka powinna stać stabilnie.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub nadgarstków."
+		],
+		"techniqueNotes": [
+			"Łokcie skierowane do tyłu, nie na boki.",
+			"Nie unoś barków do uszu."
+		]
+	},
+	"bulgarian-split-squat": {
+		"name": "Przysiad bułgarski",
+		"description": "Przysiad na jednej nodze z tylną nogą na ławce. Mocno obciąża pośladki i uda.",
+		"steps": [
+			"Stań tyłem do ławki, połóż wierzch stopy jednej nogi na ławce.",
+			"Opuść się, uginając przednią nogę.",
+			"Wstań, odpychając się piętą przedniej nogi.",
+			"Wykonaj wszystkie powtórzenia, potem zmień nogę."
+		],
+		"warnings": [
+			"Ławka musi być stabilna; dobierz odległość tak, aby kolano nie wychodziło przed stopę.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub bioder."
+		],
+		"techniqueNotes": [
+			"Tułów lekko pochylony do przodu.",
+			"Główny ciężar na przedniej nodze."
+		]
+	},
+	"bench-hip-thrust": {
+		"name": "Hip thrust z ławki",
+		"description": "Unoszenie bioder z podporem łopatek na ławce. Podstawowe ćwiczenie na pośladki.",
+		"steps": [
+			"Usiądź na podłodze plecami do ławki, łopatki na krawędzi ławki.",
+			"Ugnij kolana, stopy na podłodze.",
+			"Unieś biodra, aż tułów i uda utworzą jedną linię.",
+			"Zatrzymaj się na chwilę i opuść się."
+		],
+		"warnings": [
+			"Ławka musi być nieruchoma, najlepiej oparta o ścianę.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Broda lekko przyciągnięta do klatki piersiowej.",
+			"Nie wyginaj lędźwi w górze."
+		]
+	},
+	"chest-supported-dumbbell-row": {
+		"name": "Wiosłowanie hantlami z podporem na ławce",
+		"description": "Przyciąganie hantli w leżeniu klatką piersiową na ławce skośnej. Odciąża dolny odcinek pleców i skupia obciążenie na grzbiecie.",
+		"steps": [
+			"Połóż się klatką piersiową na ławce, w każdej ręce hantla.",
+			"Przyciągnij hantle do boków tułowia, ściągając łopatki.",
+			"Zatrzymaj się na chwilę.",
+			"Kontrolowanie opuść hantle."
+		],
+		"warnings": [
+			"Ławka powinna stać stabilnie.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Głowa stanowi przedłużenie linii kręgosłupa.",
+			"Nie bujaj tułowiem."
+		]
+	},
+	"kettlebell-single-arm-row": {
+		"name": "Wiosłowanie kettlebell jedną ręką",
+		"description": "Przyciąganie kettlebell w pochyleniu z podporem wolnej ręki. Wzmacnia plecy i biceps.",
+		"steps": [
+			"Pochyl się do przodu z prostymi plecami, wolną ręką oprzyj się o udo.",
+			"Chwyć kettlebell drugą ręką.",
+			"Przyciągnij kettlebell do pasa, ściągając łopatkę.",
+			"Powoli opuść kettlebell."
+		],
+		"warnings": [
+			"Utrzymuj proste plecy.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Łokieć porusza się wzdłuż tułowia.",
+			"Wzrok skierowany w podłogę."
+		]
+	},
+	"kettlebell-overhead-press": {
+		"name": "Wyciskanie kettlebell nad głową",
+		"description": "Wyciskanie kettlebell w staniu jedną ręką. Wzmacnia barki, triceps i core.",
+		"steps": [
+			"Unieś kettlebell do barku, łokieć przyciśnięty do tułowia.",
+			"Napnij brzuch i pośladki.",
+			"Wyprostuj rękę w górę nad głowę.",
+			"Powoli opuść kettlebell do barku."
+		],
+		"warnings": [
+			"Upewnij się, że nad Tobą jest dość miejsca.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków, szyi lub pleców."
+		],
+		"techniqueNotes": [
+			"Nie wyginaj lędźwi.",
+			"Nadgarstek prosty, kettlebell spoczywa na przedramieniu."
+		]
+	},
+	"kettlebell-halo": {
+		"name": "Halo z kettlebell",
+		"description": "Okrężne ruchy kettlebell wokół głowy. Rozgrzewa barki i angażuje stabilność core.",
+		"steps": [
+			"Stań prosto, trzymaj kettlebell dnem do góry przy klatce piersiowej.",
+			"Poprowadź kettlebell wokół głowy w jednym kierunku.",
+			"Wróć nim do klatki piersiowej.",
+			"Powtórz w drugim kierunku."
+		],
+		"warnings": [
+			"Użyj lekkiego kettlebell.",
+			"Trzymaj kettlebell mocno, aby się nie uderzyć.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub szyi."
+		],
+		"techniqueNotes": [
+			"Tułów nieruchomy, pracują tylko ręce.",
+			"Łokcie blisko głowy."
+		]
+	},
+	"kettlebell-sumo-deadlift": {
+		"name": "Martwy ciąg sumo z kettlebell",
+		"description": "Ciąg kettlebell w szerokim rozkroku. Obciąża pośladki i wewnętrzną część ud.",
+		"steps": [
+			"Stań szeroko, palce stóp skierowane na zewnątrz, kettlebell między stopami.",
+			"Odsuń biodra do tyłu i chwyć kettlebell.",
+			"Wyprostuj się, dociskając podłogę nogami.",
+			"Powoli opuść kettlebell."
+		],
+		"warnings": [
+			"Nie zaokrąglaj pleców.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców lub bioder."
+		],
+		"techniqueNotes": [
+			"Kolana podążają w kierunku palców stóp.",
+			"Plecy proste przez cały ruch."
+		]
+	},
+	"kettlebell-reverse-lunge": {
+		"name": "Wykrok w tył z kettlebell",
+		"description": "Wykrok w tył z kettlebell przy klatce piersiowej. Zwiększa obciążenie nóg i pośladków.",
+		"steps": [
+			"Trzymaj kettlebell przy klatce piersiowej obiema rękami.",
+			"Zrób krok w tył i opuść się do wykroku.",
+			"Odepchnij się przednią nogą i wróć.",
+			"Zmień nogę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Tułów w pionie.",
+			"Przednia pięta dociśnięta do podłogi."
+		]
+	},
+	"band-squat": {
+		"name": "Przysiad z gumą",
+		"description": "Przysiad z gumą pod stopami. Guma dodaje oporu podczas wstawania.",
+		"steps": [
+			"Stań na środku gumy, końce trzymaj na wysokości barków.",
+			"Zrób przysiad, odsuwając biodra do tyłu.",
+			"Wstań, prostując nogi.",
+			"Nie puszczaj gumy gwałtownie."
+		],
+		"warnings": [
+			"Sprawdź, czy guma nie jest uszkodzona.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Kolana w kierunku palców stóp.",
+			"Plecy proste."
+		]
+	},
+	"band-chest-press": {
+		"name": "Wyciskanie gumy sprzed klatki piersiowej",
+		"description": "Wyciskanie gumy przed sobą w staniu. Trenuje klatkę piersiową i triceps bez hantli.",
+		"steps": [
+			"Przełóż gumę za plecami poniżej łopatek, końce w dłoniach.",
+			"Ugnij łokcie, ręce na wysokości klatki piersiowej.",
+			"Wyprostuj ręce do przodu.",
+			"Powoli wróć."
+		],
+		"warnings": [
+			"Sprawdź, czy guma nie jest uszkodzona i pewnie leży za plecami.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Łokcie nieco poniżej barków.",
+			"Tułów nieruchomy."
+		]
+	},
+	"band-overhead-press": {
+		"name": "Wyciskanie gumy nad głową",
+		"description": "Wyciskanie gumy w górę w staniu na niej. Wzmacnia barki i triceps.",
+		"steps": [
+			"Stań na gumie, końce trzymaj na wysokości barków.",
+			"Wyprostuj ręce w górę nad głowę.",
+			"Powoli opuść je do barków.",
+			"Nie wyginaj lędźwi."
+		],
+		"warnings": [
+			"Upewnij się, że nad Tobą jest dość miejsca.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub szyi."
+		],
+		"techniqueNotes": [
+			"Brzuch napięty.",
+			"Ręce poruszają się pionowo."
+		]
+	},
+	"band-good-morning": {
+		"name": "Skłony z gumą",
+		"description": "Skłony tułowia z prostymi plecami, guma na barkach i pod stopami. Uczy ruchu „zawiasu” w biodrach.",
+		"steps": [
+			"Stań na gumie, drugi koniec połóż na barkach.",
+			"Odsuń biodra do tyłu, pochylając tułów z prostymi plecami.",
+			"Opuść się do uczucia rozciągnięcia tylnej części ud.",
+			"Wyprostuj się, wypychając biodra do przodu."
+		],
+		"warnings": [
+			"Nie zaokrąglaj pleców.",
+			"Sprawdź, czy guma jest pewnie zamocowana.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Kolana lekko ugięte.",
+			"Wzrok skierowany w dół i do przodu."
+		]
+	},
+	"band-bicep-curl": {
+		"name": "Uginanie ramion z gumą",
+		"description": "Uginanie ramion na biceps z oporem gumy.",
+		"steps": [
+			"Stań na gumie, końce w dłoniach, dłonie do przodu.",
+			"Ugnij łokcie, unosząc ręce do barków.",
+			"Zatrzymaj się na chwilę.",
+			"Powoli opuść ręce."
+		],
+		"warnings": [
+			"Sprawdź, czy guma nie jest uszkodzona."
+		],
+		"techniqueNotes": [
+			"Łokcie przyciśnięte do boków.",
+			"Tułów się nie buja."
+		]
+	},
+	"scapular-pull-up": {
+		"name": "Podciąganie łopatkowe",
+		"description": "Unoszenie i opuszczanie łopatek w zwisie bez uginania rąk. Przygotowuje barki do podciągania.",
+		"steps": [
+			"Zwiśnij na drążku, ręce proste.",
+			"Opuść barki w dół i ściągnij łopatki, unosząc ciało o kilka centymetrów.",
+			"Powoli wróć do zwisu.",
+			"Nie uginaj łokci."
+		],
+		"warnings": [
+			"Korzystaj tylko z pewnie zamocowanego drążka.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub nadgarstków."
+		],
+		"techniqueNotes": [
+			"Ruch niewielki, tylko w łopatkach.",
+			"Ciało się nie buja."
+		]
+	},
+	"negative-pull-up": {
+		"name": "Podciąganie negatywne",
+		"description": "Powolne opuszczanie z górnej pozycji podciągnięcia. Pomaga nauczyć się podciągać.",
+		"steps": [
+			"Stań na krześle i chwyć drążek, broda nad nim.",
+			"Zabierz podparcie.",
+			"Powoli opuszczaj się, aż ręce się wyprostują (3–5 sekund).",
+			"Wróć na krzesło i powtórz."
+		],
+		"warnings": [
+			"Korzystaj tylko z pewnie zamocowanego drążka.",
+			"Użyj krzesła, aby zająć górną pozycję.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub nadgarstków."
+		],
+		"techniqueNotes": [
+			"Opuszczaj się kontrolowanie, bez spadania.",
+			"Łopatki pozostają opuszczone."
+		]
+	},
+	"chin-up": {
+		"name": "Podciąganie podchwytem",
+		"description": "Podciąganie z dłońmi zwróconymi do siebie. Mocniej angażuje biceps niż zwykłe podciąganie.",
+		"steps": [
+			"Chwyć drążek podchwytem na szerokość barków.",
+			"Podciągnij się, aż broda znajdzie się nad drążkiem.",
+			"Zatrzymaj się na chwilę.",
+			"Powoli opuść się do zwisu."
+		],
+		"warnings": [
+			"Korzystaj tylko z pewnie zamocowanego drążka.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków, łokci lub nadgarstków."
+		],
+		"techniqueNotes": [
+			"Nie bujaj się.",
+			"Łokcie poruszają się w dół i do tułowia."
+		]
+	},
+	"hanging-leg-raise": {
+		"name": "Unoszenie prostych nóg w zwisie",
+		"description": "Unoszenie prostych nóg w zwisie na drążku. Trudniejsza wersja na mięśnie brzucha.",
+		"steps": [
+			"Zwiśnij na drążku.",
+			"Napnij brzuch i unieś proste nogi do poziomu bioder.",
+			"Zatrzymaj się na chwilę.",
+			"Powoli opuść nogi."
+		],
+		"warnings": [
+			"Korzystaj tylko z pewnie zamocowanego drążka.",
+			"Nie bujaj się, unoś nogi powoli.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub dolnego odcinka pleców."
+		],
+		"techniqueNotes": [
+			"Miednica lekko podwinięta.",
+			"Bez bujania ciałem."
+		]
+	},
+	"dumbbell-lateral-raise": {
+		"name": "Unoszenie hantli bokiem",
+		"description": "Unoszenie hantli bokiem do wysokości barków. Rozwija środkowe części mięśni naramiennych.",
+		"steps": [
+			"Stań prosto, hantle po bokach.",
+			"Lekko ugnij łokcie i unieś ręce na boki do wysokości barków.",
+			"Powoli opuść ręce.",
+			"Nie unoś barków do uszu."
+		],
+		"warnings": [
+			"Wybierz lekkie hantle.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub szyi."
+		],
+		"techniqueNotes": [
+			"Łokcie nieco wyżej niż nadgarstki.",
+			"Tułów nieruchomy."
+		]
+	},
+	"dumbbell-bicep-curl": {
+		"name": "Uginanie ramion z hantlami",
+		"description": "Klasyczne uginanie ramion na biceps w staniu.",
+		"steps": [
+			"Stań prosto, hantle w opuszczonych rękach, dłonie do przodu.",
+			"Ugnij łokcie, unosząc hantle do barków.",
+			"Zatrzymaj się na chwilę.",
+			"Powoli opuść hantle."
+		],
+		"warnings": [
+			"Dobieraj ciężar, przy którym nie musisz bujać tułowiem."
+		],
+		"techniqueNotes": [
+			"Łokcie przyciśnięte do boków.",
+			"Nie odchylaj się do tyłu."
+		]
+	},
+	"dumbbell-overhead-triceps-extension": {
+		"name": "Wyciskanie francuskie z hantlą",
+		"description": "Prostowanie rąk z hantlą za głową. Izoluje triceps.",
+		"steps": [
+			"Stań prosto, obiema rękami trzymaj hantlę nad głową.",
+			"Ugnij łokcie, opuszczając hantlę za głowę.",
+			"Wyprostuj ręce w górę.",
+			"Łokcie trzymaj blisko głowy."
+		],
+		"warnings": [
+			"Trzymaj hantlę obiema rękami.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków, łokci lub szyi."
+		],
+		"techniqueNotes": [
+			"Łokcie nie rozchodzą się na boki.",
+			"Brzuch napięty."
+		]
+	},
+	"dumbbell-sumo-squat": {
+		"name": "Przysiad sumo z hantlą",
+		"description": "Przysiad w szerokim rozkroku z hantlą między nogami. Nacisk na pośladki i wewnętrzną część ud.",
+		"steps": [
+			"Stań szeroko, palce stóp skierowane na zewnątrz, hantlę trzymaj obiema rękami nisko.",
+			"Zrób przysiad, kolana w kierunku palców stóp.",
+			"Wstań, dociskając podłogę nogami.",
+			"Utrzymuj tułów w pionie."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub bioder."
+		],
+		"techniqueNotes": [
+			"Plecy proste.",
+			"Kolana nie zapadają się do środka."
+		]
+	},
+	"dumbbell-glute-bridge": {
+		"name": "Mostek biodrowy z hantlą",
+		"description": "Mostek biodrowy z hantlą na biodrach. Zwiększa obciążenie pośladków.",
+		"steps": [
+			"Połóż się na plecach, kolana ugięte, hantla na biodrach.",
+			"Unieś biodra, prostując ciało w jednej linii.",
+			"Zatrzymaj się na chwilę.",
+			"Powoli opuść się."
+		],
+		"warnings": [
+			"Trzymaj hantlę mocno.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Nie wyginaj lędźwi.",
+			"Pięty dociśnięte do podłogi."
+		]
+	},
+	"dumbbell-bent-over-row": {
+		"name": "Wiosłowanie hantlami w pochyleniu",
+		"description": "Przyciąganie dwóch hantli do pasa w pochyleniu. Wzmacnia plecy i biceps.",
+		"steps": [
+			"Pochyl się do przodu z prostymi plecami, hantle w opuszczonych rękach.",
+			"Przyciągnij hantle do boków, ściągając łopatki.",
+			"Zatrzymaj się na chwilę.",
+			"Powoli opuść hantle."
+		],
+		"warnings": [
+			"Utrzymuj proste plecy.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Kolana lekko ugięte.",
+			"Łokcie prowadź wzdłuż tułowia."
+		]
+	},
+	"towel-row": {
+		"name": "Przyciąganie na ręczniku",
+		"description": "Przyciąganie własnego ciała za ręcznik zamocowany na pewnym podparciu. Trenuje mięśnie grzbietu i bicepsy bez sprzętu.",
+		"steps": [
+			"Owiń mocny ręcznik wokół pewnego podparcia na wysokości pasa i chwyć oba końce.",
+			"Odchyl się do tyłu na prostych rękach, stopy bliżej podparcia.",
+			"Przyciągnij klatkę piersiową do rąk, prowadząc łokcie do tyłu.",
+			"Powoli wyprostuj ręce i wróć do pozycji wyjściowej."
+		],
+		"warnings": [
+			"Mocuj ręcznik tylko na pewnym podparciu: stabilnej kolumnie, poręczy lub klamce zamkniętych drzwi, które otwierają się od Ciebie.",
+			"Sprawdź, czy ręcznik jest mocny i nie wyślizguje się z rąk."
+		],
+		"techniqueNotes": [
+			"Utrzymuj ciało proste od głowy do pięt.",
+			"Im bliżej podparcia stopy, tym trudniejsze ćwiczenie."
+		]
+	},
+	"inverted-table-row": {
+		"name": "Przyciąganie pod stołem",
+		"description": "Poziome podciąganie w leżeniu pod mocnym stołem. Trenuje mięśnie grzbietu, bicepsy i tylne aktony naramienne.",
+		"steps": [
+			"Połóż się na plecach pod stołem tak, aby klatka piersiowa znajdowała się pod krawędzią blatu.",
+			"Chwyć krawędź blatu chwytem na szerokość barków.",
+			"Napnij brzuch i pośladki, przyciągnij klatkę piersiową do krawędzi stołu.",
+			"Powoli opuść się, całkowicie prostując ręce."
+		],
+		"warnings": [
+			"Używaj wyłącznie ciężkiego, stabilnego stołu, który się nie przewróci i utrzyma Twoją wagę.",
+			"Chwytaj krawędź blatu, a nie szkło ani skomplikowane elementy."
+		],
+		"techniqueNotes": [
+			"Ciało proste od barków do pięt, biodra nie opadają.",
+			"Aby ułatwić ćwiczenie, ugnij kolana i oprzyj stopy na podłodze."
+		]
+	},
+	"prone-y-t-w-raise": {
+		"name": "Unoszenie rąk Y-T-W w leżeniu",
+		"description": "Unoszenie rąk w trzech pozycjach w leżeniu na brzuchu. Trenuje górną część pleców i stabilizatory łopatek.",
+		"steps": [
+			"Połóż się na brzuchu, czoło nad podłogą, ręce wyciągnięte przed siebie.",
+			"Unieś ręce w kształt litery Y, zatrzymaj się na sekundę i opuść.",
+			"Rozłóż ręce na boki w kształt litery T, unieś i opuść.",
+			"Ugnij łokcie w kształt litery W, ściągnij łopatki, unieś i opuść ręce. To jedno powtórzenie."
+		],
+		"warnings": [
+			"Nie odchylaj głowy do tyłu.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub szyi."
+		],
+		"techniqueNotes": [
+			"Ruch wychodzi z łopatek, a nie z lędźwi.",
+			"Kciuki skierowane w górę."
+		]
+	},
+	"reverse-snow-angel": {
+		"name": "Odwrócony „orzeł śnieżny”",
+		"description": "Płynny ruch rąk od bioder do głowy w leżeniu na brzuchu. Trenuje górną część pleców i ruchomość barków.",
+		"steps": [
+			"Połóż się na brzuchu, ręce wzdłuż ciała, dłonie zwrócone ku biodrom.",
+			"Unieś ręce nad podłogę i ściągnij łopatki.",
+			"Powoli poprowadź ręce łukiem na boki aż do głowy.",
+			"Tą samą drogą wróć rękami do bioder, nie dotykając podłogi."
+		],
+		"warnings": [
+			"Nie odchylaj głowy do tyłu.",
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub szyi."
+		],
+		"techniqueNotes": [
+			"Utrzymuj ręce cały czas lekko nad podłogą.",
+			"Nie wyginaj lędźwi, pośladki napięte."
+		]
+	},
+	"leg-press": {
+		"name": "Wyciskanie nogami na suwnicy",
+		"description": "Wyciskanie platformy nogami w siadzie. Trenuje czworogłowe uda i pośladki bez obciążenia kręgosłupa, wygodne dla początkujących.",
+		"steps": [
+			"Usiądź w maszynie, dociśnij lędźwie do oparcia, stopy na platformie na szerokość barków.",
+			"Zwolnij ograniczniki i powoli ugnij kolana do wygodnej głębokości.",
+			"Wydychając powietrze, wyprostuj nogi, nie prostując kolan całkowicie.",
+			"Po zakończeniu serii wróć z ogranicznikami na miejsce."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Lędźwie nie odrywają się od oparcia.",
+			"Kolana podążają w kierunku palców stóp."
+		]
+	},
+	"machine-chest-press": {
+		"name": "Wyciskanie na klatkę w maszynie",
+		"description": "Wyciskanie uchwytów sprzed klatki piersiowej w siadzie. Bezpiecznie uczy ruchu wyciskania i trenuje klatkę piersiową, barki i triceps.",
+		"steps": [
+			"Wyreguluj siedzisko tak, aby uchwyty znajdowały się na wysokości środka klatki piersiowej.",
+			"Chwyć uchwyty i dociśnij łopatki do oparcia.",
+			"Wydychając powietrze, wyprostuj ręce do przodu, nie blokując całkowicie łokci.",
+			"Powoli wróć uchwytami, czując rozciąganie klatki piersiowej."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Barki nie unoszą się do uszu."
+		]
+	},
+	"machine-shoulder-press": {
+		"name": "Wyciskanie nad głową w maszynie",
+		"description": "Pionowe wyciskanie w siadzie w maszynie. Trenuje barki i triceps z podparciem pleców.",
+		"steps": [
+			"Ustaw siedzisko tak, aby uchwyty znajdowały się na wysokości barków.",
+			"Dociśnij plecy do oparcia i chwyć uchwyty.",
+			"Wydychając powietrze, wyprostuj ręce w górę.",
+			"Powoli opuść uchwyty do wysokości barków."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Nie wyginaj lędźwi."
+		]
+	},
+	"seated-cable-row": {
+		"name": "Przyciąganie wyciągu siedząc",
+		"description": "Poziome przyciąganie uchwytu wyciągu. Trenuje plecy i tylne aktony naramienne, uczy ściągania łopatek.",
+		"steps": [
+			"Usiądź, oprzyj stopy na podpórkach, chwyć uchwyt z prostymi plecami.",
+			"Przyciągnij uchwyt do brzucha, ściągając łopatki.",
+			"Zatrzymaj się na chwilę w skrajnym punkcie.",
+			"Powoli wróć rękami do przodu, nie zaokrąglając pleców."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Tułów prawie nieruchomy.",
+			"Łokcie poruszają się wzdłuż ciała."
+		]
+	},
+	"lat-pulldown-machine": {
+		"name": "Ściąganie drążka wyciągu górnego",
+		"description": "Ściąganie szerokiego uchwytu do klatki piersiowej w siadzie. Przygotowuje do podciągania i trenuje najszersze mięśnie grzbietu.",
+		"steps": [
+			"Zablokuj uda pod wałkami, chwyć uchwyt szerzej niż barki.",
+			"Lekko odchyl się do tyłu i pociągnij uchwyt do górnej części klatki piersiowej.",
+			"Ściągnij łopatki i zatrzymaj się na chwilę.",
+			"Powoli wróć uchwytem w górę."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Ciągnij łokciami, a nie dłońmi."
+		]
+	},
+	"leg-curl-machine": {
+		"name": "Uginanie nóg w maszynie",
+		"description": "Izolowane uginanie nóg w leżeniu lub siedzeniu. Trenuje tylną część ud.",
+		"steps": [
+			"Ustaw wałek tak, aby znajdował się nad piętami.",
+			"Wydychając powietrze, ugnij nogi, przyciągając pięty do pośladków.",
+			"Zatrzymaj się na chwilę w górnym punkcie.",
+			"Powoli wyprostuj nogi."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Miednica nie odrywa się od ławki."
+		]
+	},
+	"leg-extension-machine": {
+		"name": "Prostowanie nóg w maszynie",
+		"description": "Izolowane prostowanie nóg w siadzie. Trenuje czworogłowe uda.",
+		"steps": [
+			"Ustaw oparcie i wałek nad podudziami.",
+			"Wydychając powietrze, wyprostuj nogi.",
+			"Zatrzymaj się na chwilę w górnym punkcie.",
+			"Powoli opuść nogi."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Ruchy płynne, bez szarpnięć."
+		]
+	},
+	"cable-triceps-pushdown": {
+		"name": "Prostowanie rąk na wyciągu",
+		"description": "Prostowanie rąk w dół na wyciągu górnym. Izolowanie trenuje triceps.",
+		"steps": [
+			"Stań przed wyciągiem, chwyć uchwyt, łokcie przyciśnięte do boków.",
+			"Wydychając powietrze, wyprostuj ręce w dół.",
+			"Zatrzymaj się na chwilę na dole.",
+			"Powoli wróć uchwytem do wysokości klatki piersiowej."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Łokcie się nie poruszają."
+		]
+	},
+	"cable-biceps-curl": {
+		"name": "Uginanie ramion na wyciągu dolnym",
+		"description": "Uginanie ramion w staniu przy wyciągu dolnym. Izolowanie trenuje biceps.",
+		"steps": [
+			"Stań przed wyciągiem dolnym, chwyć uchwyt dłońmi do góry.",
+			"Wydychając powietrze, ugnij ręce do barków.",
+			"Zatrzymaj się na chwilę u góry.",
+			"Powoli wyprostuj ręce."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Łokcie przyciśnięte do boków, tułów nieruchomy."
+		]
+	},
+	"cable-face-pull": {
+		"name": "Przyciąganie liny do twarzy",
+		"description": "Przyciąganie uchwytu linowego do wysokości twarzy. Wzmacnia tylne aktony naramienne i mięśnie między łopatkami, przydatne dla postawy.",
+		"steps": [
+			"Zamocuj linę na wyciągu na wysokości twarzy i cofnij się o krok.",
+			"Przyciągnij linę do twarzy, rozsuwając łokcie na boki.",
+			"Ściągnij łopatki i zatrzymaj się na chwilę.",
+			"Powoli wróć rękami do przodu."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Ciężar lekki, ruch kontrolowany."
+		]
+	},
+	"cable-woodchop": {
+		"name": "Rąbanie drewna na wyciągu",
+		"description": "Skośna rotacja tułowia z uchwytem wyciągu. Trenuje mięśnie skośne brzucha i uczy przenoszenia siły przez tułów.",
+		"steps": [
+			"Stań bokiem do wyciągu, chwyć uchwyt obiema rękami.",
+			"Pociągnij uchwyt po przekątnej w dół, obracając tułów.",
+			"Utrzymuj ręce prawie proste, obracaj się klatką piersiową.",
+			"Powoli wróć uchwytem i powtórz, potem zmień stronę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Poruszaj tułowiem, a nie tylko rękami."
+		]
+	},
+	"barbell-bench-press": {
+		"name": "Wyciskanie sztangi leżąc",
+		"description": "Klasyczne wyciskanie sztangi na ławce poziomej. Podstawowe ćwiczenie na klatkę piersiową, barki i triceps.",
+		"steps": [
+			"Połóż się na ławce, stopy na podłodze, łopatki ściągnięte, oczy pod gryfem.",
+			"Zdejmij sztangę i opuść ją do środka klatki piersiowej.",
+			"Wydychając powietrze, wyciśnij sztangę w górę do wyprostowania rąk.",
+			"Odłóż sztangę na stojaki po zakończeniu serii."
+		],
+		"warnings": [
+			"Nie wyciskaj sztangi bez asekuracji na siłowni i przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Poproś o asekurację lub korzystaj z ograniczników.",
+			"Nadgarstki nad łokciami."
+		]
+	},
+	"barbell-bent-over-row": {
+		"name": "Wiosłowanie sztangą w pochyleniu",
+		"description": "Przyciąganie sztangi do brzucha w pochyleniu. Trenuje cały grzbiet, tylne aktony naramienne i biceps.",
+		"steps": [
+			"Stań w rozkroku na szerokość barków, chwyć gryf chwytem nieco szerszym niż barki.",
+			"Pochyl się do przodu z prostymi plecami, kolana lekko ugięte.",
+			"Przyciągnij sztangę do dolnej części brzucha.",
+			"Powoli opuść sztangę, nie zaokrąglając pleców."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Plecy proste przez cały ruch."
+		]
+	},
+	"barbell-overhead-press": {
+		"name": "Wyciskanie sztangi stojąc",
+		"description": "Wyciskanie sztangi nad głową w staniu. Rozwija siłę barków i górnej części pleców, wymaga stabilnego tułowia.",
+		"steps": [
+			"Weź sztangę na wysokość obojczyków chwytem nieco szerszym niż barki.",
+			"Napnij brzuch i pośladki, wydychając powietrze, wyciśnij sztangę w górę.",
+			"Na końcu głowa przechodzi lekko do przodu, sztanga nad środkiem stopy.",
+			"Powoli opuść sztangę do obojczyków."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból barków lub dolnego odcinka pleców."
+		],
+		"techniqueNotes": [
+			"Nie wyginaj lędźwi."
+		]
+	},
+	"barbell-romanian-deadlift": {
+		"name": "Martwy ciąg rumuński ze sztangą",
+		"description": "Ciąg na prostych nogach. Trenuje tylną część ud i pośladki, uczy ruchu z odsunięciem bioder.",
+		"steps": [
+			"Stań ze sztangą w rękach, kolana lekko ugięte.",
+			"Odsuwaj biodra do tyłu, prowadząc sztangę wzdłuż nóg.",
+			"Opuść ją poniżej kolan, zachowując proste plecy.",
+			"Wydychając powietrze, wróć do pozycji wyjściowej, wypychając biodra do przodu."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból w dolnym odcinku pleców."
+		],
+		"techniqueNotes": [
+			"Ruch wychodzi z bioder, a nie z pleców."
+		]
+	},
+	"treadmill-incline-walk": {
+		"name": "Marsz pod górę na bieżni",
+		"description": "Szybki marsz na bieżni z nachyleniem. Obciążenie cardio bez uderzeń, na wytrzymałość i nogi.",
+		"steps": [
+			"Ustaw nachylenie 4–8% i wygodne, szybkie tempo marszu.",
+			"Utrzymuj tułów prosto, nie opierając się o poręcze.",
+			"Idź w stałym tempie przez potrzebny czas.",
+			"Na końcu zmniejsz prędkość i nachylenie, aby się wyciszyć."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Oddech pozostaje równy, możesz mówić krótkimi zdaniami."
+		]
+	},
+	"easy-run-intervals": {
+		"name": "Lekki bieg interwałowy",
+		"description": "Naprzemienny spokojny bieg i marsz. Rozwija wytrzymałość serca i oddechu bez gwałtownego obciążenia.",
+		"steps": [
+			"Rozgrzej się minutę szybkim marszem.",
+			"Biegnij w wygodnym tempie przez zadany czas.",
+			"Przejdź do marszu, aby odpocząć.",
+			"Powtórz naprzemienne odcinki zgodnie z liczbą serii."
+		],
+		"warnings": [
+			"Przerwij bieg, jeśli pojawi się ból stawów skokowych lub kolan."
+		],
+		"techniqueNotes": [
+			"Tempo pozwala oddychać nosem lub mówić krótkimi zdaniami."
+		]
+	},
+	"sprint-intervals": {
+		"name": "Sprinty interwałowe",
+		"description": "Krótkie przyspieszenia z pełną prędkością z pełnym odpoczynkiem. Rozwijają moc i wytrzymałość szybkościową.",
+		"steps": [
+			"Dobrze się rozgrzej i wykonaj kilka lekkich przyspieszeń.",
+			"Przyspiesz do prędkości około 90% maksimum.",
+			"Po przyspieszeniu wróć krokiem i w pełni odpocznij.",
+			"Powtórz zgodnie z liczbą serii."
+		],
+		"warnings": [
+			"Nie wykonuj na śliskiej powierzchni i przerwij ćwiczenie, jeśli pojawi się ból kolan lub stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Pochyl tułów do przodu i pracuj rękami."
+		]
+	},
+	"brisk-walk-intervals": {
+		"name": "Szybki marsz interwałowy",
+		"description": "Naprzemienny szybki i spokojny marsz na świeżym powietrzu. Odpowiedni na początek i do regeneracji.",
+		"steps": [
+			"Idź spokojnie minutę na rozgrzewkę.",
+			"Idź szybko, energicznie machając ugiętymi rękami.",
+			"Przejdź do spokojnego kroku, aby odpocząć.",
+			"Powtórz naprzemienne odcinki."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Szybki krok: oddech przyspieszony, ale możesz mówić."
+		]
+	},
+	"walking-lunge": {
+		"name": "Wykroki w marszu",
+		"description": "Wykroki z przemieszczaniem się do przodu. Trenują nogi i pośladki oraz uczą równowagi.",
+		"steps": [
+			"Stań prosto, ręce na biodrach lub wzdłuż ciała.",
+			"Zrób szeroki krok do przodu i opuść się, uginając oba kolana do 90°.",
+			"Odepchnij się przednią nogą i dostaw tylną do przedniej.",
+			"Kontynuuj, zmieniając nogi."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Przednie kolano nad kostką."
+		]
+	},
+	"bear-crawl": {
+		"name": "Czołganie niedźwiedzia",
+		"description": "Ruch na czterech podporach z uniesionymi kolanami. Wzmacnia barki, core i nogi, rozwija koordynację.",
+		"steps": [
+			"Przyjmij pozycję na dłoniach i stopach, kolana 5 cm nad ziemią.",
+			"Jednocześnie przestawiaj przeciwległą rękę i nogę do przodu.",
+			"Utrzymuj proste plecy, biodra nisko.",
+			"Poruszaj się przez zadany czas, potem tak samo do tyłu."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból nadgarstków."
+		],
+		"techniqueNotes": [
+			"Ruchy powolne i kontrolowane."
+		]
+	},
+	"broad-jump": {
+		"name": "Skok w dal z miejsca",
+		"description": "Dynamiczny skok do przodu z obu nóg. Rozwija moc nóg i koordynację.",
+		"steps": [
+			"Stań w rozkroku na szerokość barków, odciągnij ręce do tyłu.",
+			"Odepchnij się, zamachnąwszy rękami do przodu, i skocz jak najdalej.",
+			"Wyląduj miękko na ugiętych kolanach.",
+			"Zatrzymaj się, odzyskaj równowagę i powtórz."
+		],
+		"warnings": [
+			"Nie wykonuj na śliskiej powierzchni i przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Miękkie lądowanie na całej stopie."
+		]
+	},
+	"skater-jumps": {
+		"name": "Skoki łyżwiarza",
+		"description": "Skoki boczne z nogi na nogę. Trenują równowagę, nogi i wytrzymałość.",
+		"steps": [
+			"Stań na jednej nodze, drugą odstaw do tyłu.",
+			"Skocz w bok na drugą nogę, machając rękami.",
+			"Zatrzymaj się na chwilę, utrzymując równowagę.",
+			"Skocz z powrotem i kontynuuj przez zadany czas."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan lub stawów skokowych."
+		],
+		"techniqueNotes": [
+			"Miękkie lądowanie, kolano za palcami stopy."
+		]
+	},
+	"shuttle-run": {
+		"name": "Bieg wahadłowy",
+		"description": "Bieg między dwoma punktami ze zmianą kierunku. Rozwija szybkość reakcji i wytrzymałość.",
+		"steps": [
+			"Zaznacz dwa punkty w odległości 3 m od siebie.",
+			"Przebiegnij do drugiego punktu i dotknij ziemi ręką.",
+			"Szybko zawróć i biegnij z powrotem.",
+			"Powtarzaj przez zadany czas."
+		],
+		"warnings": [
+			"Nie wykonuj na śliskiej powierzchni."
+		],
+		"techniqueNotes": [
+			"Zawracaj z ugiętymi kolanami, noga nie jest wyrzucana na bok."
+		]
+	},
+	"stair-climb": {
+		"name": "Wbieganie po schodach",
+		"description": "Szybkie wchodzenie po schodach lub stromym zboczu. Cardio i trening nóg oraz pośladków.",
+		"steps": [
+			"Stań u podstawy schodów lub zbocza.",
+			"Wchodź szybkim krokiem, stawiając na stopniu całą stopę.",
+			"Wchodź przez zadany czas, potem schodź powoli.",
+			"Powtórz zgodnie z liczbą serii."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Schodzenie spokojne, w razie potrzeby trzymaj się poręczy."
+		]
+	},
+	"park-bench-step-up": {
+		"name": "Wejścia na ławkę w parku",
+		"description": "Wejście na stabilną ławkę na jednej nodze. Trenuje czworogłowe uda i pośladki.",
+		"steps": [
+			"Sprawdź, czy ławka jest stabilna, i stań przed nią.",
+			"Postaw jedną stopę na ławce i wstań, prostując nogę.",
+			"Zejdź powoli, kontrolując ruch.",
+			"Skończ serię i zmień nogę."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból kolan."
+		],
+		"techniqueNotes": [
+			"Odpychaj się nogą stojącą na ławce, a nie od ziemi."
+		]
+	},
+	"park-bench-incline-push-up": {
+		"name": "Pompki z podporem na ławce",
+		"description": "Pompki z podporem rąk na ławce. Łatwiejszy wariant na klatkę piersiową, barki i triceps.",
+		"steps": [
+			"Połóż dłonie na krawędzi stabilnej ławki, ciało w jednej linii.",
+			"Ugnij łokcie i opuść klatkę piersiową ku ławce.",
+			"Wydychając powietrze, odepchnij się do wyprostowania rąk.",
+			"Utrzymuj napięty tułów przez cały ruch."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból nadgarstków."
+		],
+		"techniqueNotes": [
+			"Łokcie pod kątem około 45° do tułowia."
+		]
+	},
+	"australian-pull-up": {
+		"name": "Przyciąganie pod niskim drążkiem",
+		"description": "Przyciąganie ciała do niskiego drążka w leżeniu pod nim. Trenuje plecy i biceps, łatwiejsze niż podciąganie.",
+		"steps": [
+			"Stań pod niskim, mocnym drążkiem i chwyć go chwytem szerszym niż barki.",
+			"Wyprostuj ciało w jednej linii, pięty na ziemi.",
+			"Przyciągnij klatkę piersiową do drążka, ściągając łopatki.",
+			"Powoli opuść się do prawie prostych rąk."
+		],
+		"warnings": [
+			"Upewnij się, że drążek jest mocny, i przerwij ćwiczenie, jeśli pojawi się ból barków."
+		],
+		"techniqueNotes": [
+			"Ciało pozostaje proste, biodra nie opadają."
+		]
+	},
+	"outdoor-plank-shoulder-taps": {
+		"name": "Deska z dotykaniem barków",
+		"description": "Deska z naprzemiennym dotykaniem barku. Trenuje core i stabilność barków.",
+		"steps": [
+			"Przyjmij pozycję wysokiej deski, stopy nieco szerzej niż barki.",
+			"Dotknij prawą ręką lewego barku, nie bujając biodrami.",
+			"Wróć ręką i dotknij drugą.",
+			"Kontynuuj naprzemiennie przez zadany czas."
+		],
+		"warnings": [
+			"Przerwij ćwiczenie, jeśli pojawi się ból nadgarstków."
+		],
+		"techniqueNotes": [
+			"Biodra prawie się nie poruszają."
+		]
+	}
+}

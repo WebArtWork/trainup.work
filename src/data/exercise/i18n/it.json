@@ -1,0 +1,1938 @@
+{
+	"bodyweight-squat": {
+		"name": "Squat a corpo libero",
+		"description": "Squat base senza sovraccarico. Allena quadricipiti e glutei e sviluppa il controllo del movimento di ginocchia e anche.",
+		"steps": [
+			"Mettiti in piedi con i piedi alla larghezza delle spalle.",
+			"Porta il bacino indietro e piega le ginocchia, scendendo.",
+			"Scendi fino a una profondità comoda, mantenendo la schiena dritta.",
+			"Spingi con i piedi e torna alla posizione di partenza."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Le ginocchia si muovono in direzione delle punte dei piedi.",
+			"Non staccare i talloni dal pavimento."
+		]
+	},
+	"split-squat": {
+		"name": "Split squat",
+		"description": "Squat in posizione di affondo statico. Allena quadricipiti e glutei di ogni gamba separatamente e migliora l’equilibrio.",
+		"steps": [
+			"Mettiti in posizione di passo ampio: una gamba avanti, l’altra dietro.",
+			"Scendi in verticale piegando entrambe le ginocchia.",
+			"Risali spingendo con la gamba anteriore.",
+			"Esegui tutte le ripetizioni e poi cambia gamba."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Mantieni il busto in verticale.",
+			"Il peso del corpo è soprattutto sulla gamba anteriore."
+		]
+	},
+	"reverse-lunge": {
+		"name": "Affondi indietro",
+		"description": "Affondo con passo indietro. Allena quadricipiti e glutei e sviluppa equilibrio e coordinazione.",
+		"steps": [
+			"Mettiti in piedi, piedi alla larghezza dei fianchi.",
+			"Fai un passo indietro e scendi piegando entrambe le ginocchia.",
+			"Spingi con la gamba anteriore e torna alla posizione di partenza.",
+			"Alterna le gambe oppure esegui tutte le ripetizioni da un lato."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Fai il passo indietro in modo controllato, senza strappi.",
+			"Mantieni il busto dritto."
+		]
+	},
+	"glute-bridge": {
+		"name": "Ponte per i glutei",
+		"description": "Sollevamento del bacino da sdraiati sulla schiena. Allena i glutei e la parte posteriore della coscia.",
+		"steps": [
+			"Sdraiati sulla schiena, piega le ginocchia, piedi a terra.",
+			"Contrai i glutei e solleva il bacino.",
+			"Mantieni la posizione per un secondo nel punto più alto.",
+			"Abbassa lentamente il bacino a terra."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se senti dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Non inarcare la zona lombare nel punto più alto.",
+			"Spingi i talloni contro il pavimento."
+		]
+	},
+	"single-leg-glute-bridge": {
+		"name": "Ponte per i glutei su una gamba",
+		"description": "Variante più difficile del ponte per i glutei con appoggio su una gamba. Allena i glutei e la parte posteriore della coscia e migliora la stabilità del bacino.",
+		"steps": [
+			"Sdraiati sulla schiena, piega le ginocchia, piedi a terra.",
+			"Distendi una gamba e sollevala da terra.",
+			"Solleva il bacino spingendo con il tallone della gamba d’appoggio.",
+			"Scendi lentamente; dopo la serie cambia gamba."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se senti dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Mantieni il bacino in piano, senza inclinarlo.",
+			"Muoviti lentamente e in modo controllato."
+		]
+	},
+	"knee-push-up": {
+		"name": "Piegamenti sulle ginocchia",
+		"description": "Variante facilitata dei piegamenti con appoggio sulle ginocchia. Allena i pettorali e i tricipiti.",
+		"steps": [
+			"Mettiti in ginocchio, mani a terra leggermente più larghe delle spalle.",
+			"Allinea il corpo dalle ginocchia alla testa.",
+			"Piega le braccia e abbassa il petto verso il pavimento.",
+			"Spingi e distendi le braccia."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore ai polsi o alle spalle."
+		],
+		"techniqueNotes": [
+			"Gomiti a circa 45° rispetto al busto.",
+			"Non lasciare cedere la zona lombare."
+		]
+	},
+	"push-up": {
+		"name": "Piegamenti sulle braccia",
+		"description": "Classici piegamenti da terra. Allenano i pettorali, i tricipiti e gli stabilizzatori del busto.",
+		"steps": [
+			"Assumi la posizione di plank alto, mani leggermente più larghe delle spalle.",
+			"Allinea il corpo dai talloni alla testa.",
+			"Piega le braccia e abbassa il petto verso il pavimento.",
+			"Spingi e distendi le braccia."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore ai polsi o alle spalle."
+		],
+		"techniqueNotes": [
+			"Mantieni addominali e glutei contratti.",
+			"Gomiti a circa 45° rispetto al busto."
+		]
+	},
+	"wall-push-up": {
+		"name": "Piegamenti al muro",
+		"description": "La variante più facile dei piegamenti, con appoggio al muro. Allena i pettorali e i tricipiti con un carico minimo.",
+		"steps": [
+			"Mettiti di fronte al muro a una distanza pari alla lunghezza delle braccia tese.",
+			"Appoggia i palmi al muro all’altezza delle spalle.",
+			"Piega le braccia e avvicina il petto al muro.",
+			"Spingi e torna alla posizione di partenza."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Mantieni il corpo dritto come una tavola.",
+			"Più i piedi sono lontani dal muro, più l’esercizio è difficile."
+		]
+	},
+	"pike-push-up": {
+		"name": "Piegamenti pike",
+		"description": "Piegamenti con il bacino sollevato che spostano il carico sulle spalle. Allenano i deltoidi e i tricipiti.",
+		"steps": [
+			"Assumi la posizione di plank alto e solleva il bacino, formando una «V» rovesciata.",
+			"Piega le braccia e abbassa la testa verso il pavimento, tra le mani.",
+			"Spingi e distendi le braccia.",
+			"Mantieni il bacino alto per tutta la serie."
+		],
+		"warnings": [
+			"Scendi lentamente e non appoggiare la testa a terra.",
+			"Interrompi l’esercizio se compare dolore alle spalle, ai polsi o al collo."
+		],
+		"techniqueNotes": [
+			"I gomiti puntano indietro, non di lato.",
+			"Lo sguardo è rivolto al pavimento, tra le mani."
+		]
+	},
+	"plank": {
+		"name": "Plank",
+		"description": "Mantenimento statico del corpo in appoggio sugli avambracci. Allena i muscoli del core e la stabilità del busto.",
+		"steps": [
+			"Mettiti in appoggio sugli avambracci, gomiti sotto le spalle.",
+			"Distendi le gambe e allinea il corpo dai talloni alla testa.",
+			"Contrai addominali e glutei.",
+			"Mantieni la posizione per il tempo indicato, respirando in modo regolare."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle spalle o alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Non alzare né abbassare il bacino.",
+			"Non trattenere il respiro."
+		]
+	},
+	"side-plank": {
+		"name": "Plank laterale",
+		"description": "Mantenimento statico del corpo di lato con appoggio sull’avambraccio. Allena gli obliqui e gli stabilizzatori del busto.",
+		"steps": [
+			"Sdraiati su un fianco, gomito sotto la spalla.",
+			"Appoggia i piedi uno sull’altro o uno davanti all’altro.",
+			"Solleva il bacino, allineando il corpo.",
+			"Mantieni la posizione per il tempo indicato, poi cambia lato."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alla spalla."
+		],
+		"techniqueNotes": [
+			"Non lasciare cedere il bacino.",
+			"Mantieni il collo in linea con il corpo."
+		]
+	},
+	"dead-bug": {
+		"name": "Dead bug",
+		"description": "Estensione alternata di braccio e gamba opposti da sdraiati sulla schiena. Allena i muscoli profondi del core e il controllo della posizione lombare.",
+		"steps": [
+			"Sdraiati sulla schiena, braccia tese verso l’alto, gambe piegate ad angolo retto.",
+			"Abbassa lentamente braccio e gamba opposti verso il pavimento.",
+			"Riportali alla posizione di partenza.",
+			"Ripeti con l’altra coppia di braccio e gamba."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Mantieni la zona lombare premuta a terra.",
+			"Muoviti lentamente ed espira mentre abbassi."
+		]
+	},
+	"bird-dog": {
+		"name": "Bird dog",
+		"description": "Estensione alternata di braccio e gamba opposti in appoggio su mani e ginocchia. Allena i muscoli del core, i glutei e la coordinazione.",
+		"steps": [
+			"Mettiti a quattro zampe, mani sotto le spalle, ginocchia sotto i fianchi.",
+			"Estendi contemporaneamente un braccio in avanti e la gamba opposta indietro.",
+			"Mantieni la posizione per un secondo.",
+			"Torna alla posizione di partenza e cambia lato."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore ai polsi."
+		],
+		"techniqueNotes": [
+			"Mantieni la schiena dritta, senza inarcarla.",
+			"Il bacino resta parallelo al pavimento."
+		]
+	},
+	"superman": {
+		"name": "Superman",
+		"description": "Sollevamento simultaneo di braccia e gambe da proni. Allena i muscoli della schiena e i glutei.",
+		"steps": [
+			"Sdraiati a pancia in giù, braccia distese in avanti.",
+			"Solleva contemporaneamente un poco braccia, petto e gambe da terra.",
+			"Mantieni la posizione per 1–2 secondi.",
+			"Scendi lentamente."
+		],
+		"warnings": [
+			"Non sollevarti con uno scatto né troppo in alto.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Sguardo verso il basso, collo in linea con la schiena.",
+			"Muoviti con fluidità, senza strappi."
+		]
+	},
+	"wall-sit": {
+		"name": "Sedia al muro",
+		"description": "Mantenimento statico della posizione seduta con la schiena contro il muro. Allena i quadricipiti e la resistenza delle gambe.",
+		"steps": [
+			"Mettiti con la schiena al muro, piedi a circa mezzo metro da esso.",
+			"Scivola con la schiena verso il basso finché le ginocchia non formano un angolo comodo.",
+			"Mantieni la posizione per il tempo indicato.",
+			"Risali lentamente."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Le ginocchia sono sopra le caviglie e non superano le punte dei piedi.",
+			"La schiena è completamente appoggiata al muro."
+		]
+	},
+	"jumping-jacks": {
+		"name": "Jumping jack",
+		"description": "Salti con apertura contemporanea di braccia e gambe. Sviluppano la resistenza cardiovascolare e riscaldano tutto il corpo.",
+		"steps": [
+			"Mettiti in piedi, gambe unite, braccia lungo i fianchi.",
+			"Con un salto allarga le gambe e solleva le braccia sopra la testa.",
+			"Con un salto torna alla posizione di partenza.",
+			"Continua a ritmo costante per il tempo indicato."
+		],
+		"warnings": [
+			"Atterra con dolcezza sull’avampiede.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle caviglie."
+		],
+		"techniqueNotes": [
+			"Ginocchia leggermente piegate all’atterraggio.",
+			"Respira in modo regolare."
+		]
+	},
+	"step-jacks": {
+		"name": "Jumping jack a passi",
+		"description": "Variante senza impatto dei jumping jack: passo laterale con le braccia sopra la testa. Riscalda il corpo e aumenta la frequenza cardiaca senza salti.",
+		"steps": [
+			"Mettiti in piedi, gambe unite, braccia lungo i fianchi.",
+			"Fai un passo laterale e solleva contemporaneamente le braccia sopra la testa.",
+			"Riavvicina il piede e abbassa le braccia.",
+			"Alterna i lati a ritmo costante."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Mantieni un ritmo che faccia salire il battito in modo moderato.",
+			"Appoggia i piedi con dolcezza."
+		]
+	},
+	"high-knees": {
+		"name": "Corsa sul posto con ginocchia alte",
+		"description": "Corsa sul posto con le ginocchia sollevate in alto. Sviluppa la resistenza cardiovascolare e la rapidità delle gambe.",
+		"steps": [
+			"Mettiti in piedi, piedi alla larghezza dei fianchi.",
+			"Inizia a correre sul posto sollevando le ginocchia circa all’altezza dei fianchi.",
+			"Muovi le braccia a tempo con le gambe.",
+			"Continua per il tempo indicato."
+		],
+		"warnings": [
+			"Atterra con dolcezza sull’avampiede.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle caviglie."
+		],
+		"techniqueNotes": [
+			"Mantieni il busto in verticale.",
+			"Non inclinarti all’indietro."
+		]
+	},
+	"march-in-place": {
+		"name": "Marcia sul posto",
+		"description": "Camminata sul posto con movimento attivo delle braccia. Esercizio cardio leggero e senza impatto per il riscaldamento e per aumentare la frequenza cardiaca.",
+		"steps": [
+			"Mettiti in piedi, braccia piegate ai gomiti.",
+			"Solleva alternativamente le ginocchia, marciando sul posto.",
+			"Muovi le braccia a tempo con i passi.",
+			"Mantieni un ritmo costante per il tempo indicato."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Mantieni la schiena dritta.",
+			"Per renderlo più difficile, solleva di più le ginocchia o accelera il ritmo."
+		]
+	},
+	"mountain-climbers": {
+		"name": "Mountain climber",
+		"description": "Avvicinamento alternato delle ginocchia al petto in posizione di plank alto. Sviluppa la resistenza e allena i muscoli del core.",
+		"steps": [
+			"Assumi la posizione di plank alto, mani sotto le spalle.",
+			"Porta un ginocchio verso il petto.",
+			"Riporta la gamba indietro e porta l’altro ginocchio al petto.",
+			"Alterna le gambe a un ritmo veloce ma controllato."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore ai polsi o alle spalle."
+		],
+		"techniqueNotes": [
+			"Non sollevare troppo il bacino.",
+			"Tieni le spalle sopra le mani."
+		]
+	},
+	"burpee": {
+		"name": "Burpee",
+		"description": "Esercizio completo: accosciata, plank alto, ritorno e salto verso l’alto. Sviluppa la resistenza generale e coinvolge tutto il corpo.",
+		"steps": [
+			"Accosciati e appoggia i palmi a terra.",
+			"Porta i piedi indietro in posizione di plank alto.",
+			"Riporta i piedi verso le mani e rialzati.",
+			"Esegui un piccolo salto verso l’alto con le braccia sopra la testa."
+		],
+		"warnings": [
+			"Atterra con dolcezza e non inarcare la zona lombare nel plank alto.",
+			"Interrompi l’esercizio se compare dolore alle articolazioni o alla schiena."
+		],
+		"techniqueNotes": [
+			"Nella posizione di plank mantieni il corpo dritto.",
+			"Cerca il controllo, non la massima velocità."
+		]
+	},
+	"squat-jump": {
+		"name": "Squat jump",
+		"description": "Squat con salto esplosivo verso l’alto. Sviluppa la forza delle gambe e l’esplosività.",
+		"steps": [
+			"Mettiti in piedi, piedi alla larghezza delle spalle.",
+			"Esegui uno squat fino a una profondità comoda.",
+			"Salta in modo esplosivo verso l’alto.",
+			"Atterra con dolcezza e passa subito allo squat successivo."
+		],
+		"warnings": [
+			"Atterra con dolcezza sulle gambe piegate.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle caviglie."
+		],
+		"techniqueNotes": [
+			"Le ginocchia si muovono in direzione delle punte dei piedi.",
+			"L’atterraggio è silenzioso e controllato."
+		]
+	},
+	"cat-cow": {
+		"name": "Gatto-mucca",
+		"description": "Alternanza fluida di inarcamento e arrotondamento della schiena in appoggio su mani e ginocchia. Migliora la mobilità della colonna vertebrale.",
+		"steps": [
+			"Mettiti a quattro zampe, mani sotto le spalle.",
+			"Inspirando inarca la schiena e alza lo sguardo.",
+			"Espirando arrotonda la schiena, abbassando la testa.",
+			"Ripeti in modo fluido seguendo il ritmo del respiro."
+		],
+		"warnings": [
+			"Muoviti in un’ampiezza comoda e interrompi se compare dolore."
+		],
+		"techniqueNotes": [
+			"Il movimento parte dal bacino e arriva alla testa.",
+			"Non avere fretta."
+		]
+	},
+	"kneeling-hip-flexor-stretch": {
+		"name": "Stretching dei flessori dell’anca in ginocchio",
+		"description": "Allungamento della parte anteriore della coscia in posizione di affondo con un ginocchio a terra. Migliora la mobilità dell’articolazione dell’anca.",
+		"steps": [
+			"Mettiti con un ginocchio a terra, l’altra gamba davanti piegata ad angolo retto.",
+			"Contrai il gluteo della gamba che sta a terra.",
+			"Spingi dolcemente il bacino in avanti fino a sentire l’allungamento.",
+			"Mantieni la posizione per il tempo indicato e poi cambia gamba."
+		],
+		"warnings": [
+			"Metti qualcosa di morbido sotto il ginocchio; interrompi se compare dolore."
+		],
+		"techniqueNotes": [
+			"Non inarcare la zona lombare.",
+			"L’allungamento deve essere moderato, senza dolore."
+		]
+	},
+	"arm-circles": {
+		"name": "Cerchi con le braccia",
+		"description": "Rotazioni circolari con le braccia tese. Riscaldano le articolazioni delle spalle e ne migliorano la mobilità.",
+		"steps": [
+			"Mettiti in piedi e allarga le braccia ai lati.",
+			"Esegui piccoli cerchi con le braccia in avanti.",
+			"Aumenta gradualmente l’ampiezza.",
+			"A metà del tempo cambia direzione."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Spalle abbassate, non portarle verso le orecchie.",
+			"Muoviti con fluidità."
+		]
+	},
+	"open-book-rotation": {
+		"name": "Rotazione «open book»",
+		"description": "Rotazione della colonna dorsale da sdraiati su un fianco. Migliora la mobilità della zona dorsale e delle spalle.",
+		"steps": [
+			"Sdraiati su un fianco, ginocchia piegate, braccia distese davanti a te.",
+			"Porta il braccio superiore ad arco dal lato opposto, ruotando il petto.",
+			"Segui la mano con lo sguardo.",
+			"Riporta il braccio indietro; dopo la serie cambia lato."
+		],
+		"warnings": [
+			"Muoviti in un’ampiezza comoda e interrompi se compare dolore."
+		],
+		"techniqueNotes": [
+			"Le ginocchia restano unite a terra.",
+			"Respira con calma."
+		]
+	},
+	"goblet-squat": {
+		"name": "Goblet squat",
+		"description": "Squat con un manubrio o una kettlebell tenuti al petto. Allena quadricipiti e glutei e aiuta a mantenere il busto in verticale.",
+		"steps": [
+			"Tieni il manubrio o la kettlebell in verticale vicino al petto.",
+			"Mettiti in piedi con i piedi leggermente più larghi delle spalle.",
+			"Scendi nello squat mantenendo il petto alto.",
+			"Risali spingendo con i piedi."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alla schiena."
+		],
+		"techniqueNotes": [
+			"I gomiti si muovono tra le ginocchia.",
+			"La schiena resta dritta per tutto il movimento."
+		]
+	},
+	"dumbbell-romanian-deadlift": {
+		"name": "Stacco rumeno con manubri",
+		"description": "Flessione in avanti con i manubri, con il movimento che parte dalle anche. Allena la parte posteriore della coscia e i glutei.",
+		"steps": [
+			"Mettiti in piedi con i manubri davanti alle cosce.",
+			"Piega leggermente le ginocchia e porta il bacino indietro.",
+			"Abbassa i manubri lungo le gambe fino a sentire l’allungamento della parte posteriore della coscia.",
+			"Risali portando il bacino in avanti."
+		],
+		"warnings": [
+			"Non arrotondare la schiena; scegli un peso con cui mantieni la tecnica.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Schiena dritta, manubri vicini alle gambe.",
+			"Il movimento parte dal bacino, non dalla schiena."
+		]
+	},
+	"one-arm-dumbbell-row": {
+		"name": "Rematore con manubrio a un braccio",
+		"description": "Tirata del manubrio verso la vita in posizione inclinata, con appoggio su una mano. Allena i muscoli della schiena e i bicipiti.",
+		"steps": [
+			"Inclinati in avanti, appoggiando la mano libera su una coscia o su un sostegno stabile.",
+			"Prendi il manubrio, con il braccio disteso sotto la spalla.",
+			"Tira il manubrio verso la vita, portando il gomito indietro.",
+			"Abbassalo lentamente; dopo la serie cambia braccio."
+		],
+		"warnings": [
+			"Mantieni la schiena dritta; interrompi se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Non ruotare il busto durante la tirata.",
+			"Avvicina la scapola alla colonna."
+		]
+	},
+	"dumbbell-floor-press": {
+		"name": "Distensioni con manubri a terra",
+		"description": "Distensione dei manubri verso l’alto da sdraiati sul pavimento, con ampiezza di movimento limitata. Allena i pettorali e i tricipiti.",
+		"steps": [
+			"Sdraiati sulla schiena, ginocchia piegate, manubri in mano vicino al petto.",
+			"Spingi i manubri verso l’alto sopra il petto.",
+			"Abbassa lentamente finché le spalle non toccano il pavimento.",
+			"Ripeti la spinta."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Gomiti a circa 45° rispetto al busto.",
+			"Abbassa i manubri in modo controllato, senza urtare il pavimento."
+		]
+	},
+	"dumbbell-bench-press": {
+		"name": "Panca piana con manubri",
+		"description": "Distensione dei manubri verso l’alto da sdraiati su una panca piana. Allena i pettorali e i tricipiti.",
+		"steps": [
+			"Sdraiati sulla panca, piedi a terra, manubri vicino al petto.",
+			"Spingi i manubri verso l’alto sopra il petto.",
+			"Abbassali lentamente fino all’altezza del petto.",
+			"Ripeti la spinta."
+		],
+		"warnings": [
+			"Scegli un peso che riesci ad abbassare in modo controllato.",
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Scapole addotte e premute contro la panca.",
+			"Non far rimbalzare i manubri sul petto."
+		]
+	},
+	"incline-dumbbell-press": {
+		"name": "Panca inclinata con manubri",
+		"description": "Distensione dei manubri da sdraiati su una panca con lo schienale inclinato. Allena la parte alta dei pettorali e i deltoidi anteriori.",
+		"steps": [
+			"Imposta lo schienale della panca a un’inclinazione moderata.",
+			"Siediti sulla panca con la schiena appoggiata, manubri vicino al petto.",
+			"Spingi i manubri verso l’alto sopra la parte alta del petto.",
+			"Abbassa lentamente e ripeti."
+		],
+		"warnings": [
+			"Assicurati che lo schienale della panca sia ben bloccato.",
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Scapole addotte e premute contro la panca.",
+			"Muoviti in modo controllato su tutta l’ampiezza."
+		]
+	},
+	"dumbbell-shoulder-press": {
+		"name": "Lento avanti con manubri",
+		"description": "Distensione dei manubri sopra la testa in piedi. Allena i deltoidi e i tricipiti.",
+		"steps": [
+			"Mettiti in piedi, manubri all’altezza delle spalle.",
+			"Contrai addominali e glutei.",
+			"Spingi i manubri verso l’alto sopra la testa.",
+			"Abbassa lentamente fino all’altezza delle spalle."
+		],
+		"warnings": [
+			"Non inarcare la zona lombare durante la spinta.",
+			"Interrompi l’esercizio se compare dolore alle spalle, al collo o alla schiena."
+		],
+		"techniqueNotes": [
+			"Costole abbassate, busto stabile.",
+			"Non inclinare la testa all’indietro."
+		]
+	},
+	"dumbbell-reverse-lunge": {
+		"name": "Affondi indietro con manubri",
+		"description": "Affondo con passo indietro con i manubri in mano. Allena quadricipiti e glutei con un sovraccarico aggiuntivo.",
+		"steps": [
+			"Mettiti in piedi con i manubri nelle mani lungo i fianchi.",
+			"Fai un passo indietro e scendi piegando entrambe le ginocchia.",
+			"Spingi con la gamba anteriore e torna alla posizione di partenza.",
+			"Alterna le gambe oppure esegui tutte le ripetizioni da un lato."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Mantieni il busto in verticale.",
+			"Spalle abbassate, i manubri non oscillano."
+		]
+	},
+	"farmer-carry": {
+		"name": "Farmer’s walk",
+		"description": "Camminata con manubri o kettlebell nelle mani lungo i fianchi. Allena i muscoli del core, la presa e la stabilità generale.",
+		"steps": [
+			"Prendi manubri o kettlebell in entrambe le mani.",
+			"Raddrizzati, con le spalle abbassate e portate indietro.",
+			"Cammina a passi corti e regolari per il tempo indicato.",
+			"Appoggia con cautela il peso a terra."
+		],
+		"warnings": [
+			"Solleva e appoggia il peso con la schiena dritta.",
+			"Interrompi l’esercizio se compare dolore alla schiena o ai polsi."
+		],
+		"techniqueNotes": [
+			"Non inclinarti verso il lato del peso.",
+			"Mantieni gli addominali contratti."
+		]
+	},
+	"kettlebell-swing": {
+		"name": "Swing con kettlebell",
+		"description": "Oscillazione dinamica della kettlebell con il movimento che parte dalle anche. Sviluppa la potenza di glutei e parte posteriore della coscia e la resistenza.",
+		"steps": [
+			"Mettiti in piedi con i piedi leggermente più larghi delle spalle, la kettlebell davanti a te.",
+			"Inclinati in avanti con la schiena dritta e porta la kettlebell indietro tra le gambe.",
+			"Spingi con forza il bacino in avanti per far salire la kettlebell all’altezza del petto.",
+			"Lascia scendere la kettlebell e ripeti il movimento."
+		],
+		"warnings": [
+			"Assicurati che intorno non ci siano persone o oggetti.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Il movimento parte dal bacino, le braccia si limitano a tenere la kettlebell.",
+			"Schiena dritta nel punto più basso."
+		]
+	},
+	"kettlebell-deadlift": {
+		"name": "Stacco con kettlebell",
+		"description": "Sollevamento della kettlebell da terra con il movimento che parte dalle anche. Allena glutei e parte posteriore della coscia e insegna a sollevare correttamente un peso.",
+		"steps": [
+			"Mettiti sopra la kettlebell, piedi alla larghezza dei fianchi.",
+			"Porta il bacino indietro, piega le ginocchia e afferra il manico della kettlebell.",
+			"Raddrizzati portando il bacino in avanti.",
+			"Abbassa la kettlebell a terra con lo stesso movimento."
+		],
+		"warnings": [
+			"Non arrotondare la schiena durante il sollevamento.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Schiena dritta, sguardo davanti a te.",
+			"La kettlebell si muove vicino al corpo."
+		]
+	},
+	"band-pull-apart": {
+		"name": "Band pull-apart",
+		"description": "Allungamento di un elastico con le braccia tese davanti al petto. Allena i muscoli della parte alta della schiena e i deltoidi posteriori.",
+		"steps": [
+			"Prendi l’elastico con entrambe le mani, alla larghezza delle spalle, davanti al petto.",
+			"Allarga le braccia ai lati, allungando l’elastico.",
+			"Avvicina le scapole nel punto finale.",
+			"Riporta lentamente le braccia alla posizione di partenza."
+		],
+		"warnings": [
+			"Prima dell’esercizio controlla che l’elastico non sia danneggiato."
+		],
+		"techniqueNotes": [
+			"Spalle abbassate, non portarle verso le orecchie.",
+			"Le braccia restano quasi tese per tutto il movimento."
+		]
+	},
+	"band-row": {
+		"name": "Rematore con elastico",
+		"description": "Tirata verso la vita di un elastico fissato. Allena i muscoli della schiena e i bicipiti.",
+		"steps": [
+			"Fissa l’elastico all’altezza della vita a un sostegno sicuro.",
+			"Afferra le estremità e indietreggia fino a mettere in tensione l’elastico.",
+			"Tira le mani verso la vita, portando i gomiti indietro.",
+			"Riporta lentamente le mani in avanti."
+		],
+		"warnings": [
+			"Verifica che il fissaggio sia sicuro e che l’elastico non sia danneggiato."
+		],
+		"techniqueNotes": [
+			"Avvicina le scapole nel punto finale.",
+			"Il busto resta fermo, non inclinarti all’indietro."
+		]
+	},
+	"band-lat-pulldown": {
+		"name": "Lat machine con elastico",
+		"description": "Tirata verso il petto di un elastico fissato in alto. Allena i dorsali e i bicipiti.",
+		"steps": [
+			"Fissa l’elastico sopra la testa a un sostegno sicuro.",
+			"Afferra le estremità, con le braccia tese verso l’alto.",
+			"Tira i gomiti verso i fianchi, avvicinando le mani al petto.",
+			"Riporta lentamente le braccia verso l’alto."
+		],
+		"warnings": [
+			"Verifica che il fissaggio in alto sia sicuro e che l’elastico non sia danneggiato.",
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Abbassa le scapole prima della tirata.",
+			"Non dondolare con il busto."
+		]
+	},
+	"pull-up": {
+		"name": "Trazioni alla sbarra",
+		"description": "Trazione del corpo alla sbarra fino all’altezza del mento. Allena i muscoli della schiena e i bicipiti.",
+		"steps": [
+			"Afferra la sbarra con una presa leggermente più larga delle spalle.",
+			"Resta appeso a braccia tese, con le scapole abbassate.",
+			"Tirati su finché il mento non supera la sbarra.",
+			"Scendi lentamente fino ad avere le braccia tese."
+		],
+		"warnings": [
+			"Usa solo una sbarra installata in modo sicuro.",
+			"Interrompi l’esercizio se compare dolore alle spalle o ai polsi."
+		],
+		"techniqueNotes": [
+			"Non dondolare e non usare strappi.",
+			"Scendi in modo controllato."
+		]
+	},
+	"dead-hang": {
+		"name": "Sospensione alla sbarra",
+		"description": "Sospensione statica alla sbarra a braccia tese. Rafforza la presa e i muscoli del cingolo scapolare.",
+		"steps": [
+			"Afferra la sbarra con una presa alla larghezza delle spalle.",
+			"Appenditi con cautela a braccia tese.",
+			"Mantieni la posizione per il tempo indicato, respirando in modo regolare.",
+			"Scendi a terra con cautela."
+		],
+		"warnings": [
+			"Usa solo una sbarra installata in modo sicuro.",
+			"Interrompi l’esercizio se compare dolore alle spalle o ai polsi."
+		],
+		"techniqueNotes": [
+			"Contrai leggermente le spalle, non pendere in modo passivo.",
+			"Non dondolare."
+		]
+	},
+	"hanging-knee-raise": {
+		"name": "Sollevamento delle ginocchia alla sbarra",
+		"description": "Avvicinamento delle ginocchia al petto restando appesi alla sbarra. Allena gli addominali e la presa.",
+		"steps": [
+			"Appenditi alla sbarra a braccia tese.",
+			"Contrai gli addominali e porta le ginocchia al petto.",
+			"Mantieni la posizione per un secondo.",
+			"Abbassa lentamente le gambe senza dondolare."
+		],
+		"warnings": [
+			"Usa solo una sbarra installata in modo sicuro.",
+			"Interrompi l’esercizio se compare dolore alle spalle o alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Muoviti senza strappi e oscillazioni.",
+			"Arrotonda leggermente il bacino nel punto più alto."
+		]
+	},
+	"jump-rope": {
+		"name": "Salto con la corda",
+		"description": "Salti ritmici sopra la corda. Sviluppano la resistenza cardiovascolare, la coordinazione e la forza dei polpacci.",
+		"steps": [
+			"Prendi le impugnature della corda, con la corda dietro i talloni.",
+			"Fai ruotare la corda con i polsi.",
+			"Esegui piccoli salti quando la corda passa sotto i piedi.",
+			"Mantieni un ritmo costante per il tempo indicato."
+		],
+		"warnings": [
+			"Salta in basso e atterra con dolcezza sull’avampiede.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle caviglie."
+		],
+		"techniqueNotes": [
+			"Gomiti vicini al corpo.",
+			"Ginocchia leggermente piegate."
+		]
+	},
+	"step-up": {
+		"name": "Step-up",
+		"description": "Salita alternata su una piattaforma stabile con ciascuna gamba. Allena quadricipiti e glutei.",
+		"steps": [
+			"Mettiti di fronte alla piattaforma.",
+			"Appoggia sopra tutto il piede di una gamba.",
+			"Sali spingendo con la gamba appoggiata sulla piattaforma.",
+			"Scendi lentamente e ripeti; dopo la serie cambia gamba."
+		],
+		"warnings": [
+			"Assicurati che la piattaforma sia stabile e non scivoli.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Non spingere con la gamba che resta in basso.",
+			"Il ginocchio si muove in direzione della punta del piede."
+		]
+	},
+	"barbell-back-squat": {
+		"name": "Squat con bilanciere",
+		"description": "Squat con il bilanciere sulla parte alta della schiena. Sviluppa la forza di quadricipiti, glutei e di tutto il corpo.",
+		"steps": [
+			"Appoggia il bilanciere sulla parte alta della schiena e staccalo dal rack.",
+			"Fai un passo indietro, con i piedi alla larghezza delle spalle o un po’ più larghi.",
+			"Scendi nello squat fino a una profondità comoda, mantenendo la schiena dritta.",
+			"Risali e, dopo la serie, riponi il bilanciere sul rack."
+		],
+		"warnings": [
+			"Imposta i fermi di sicurezza del rack e usa un peso che controlli.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia, alla schiena o alle spalle."
+		],
+		"techniqueNotes": [
+			"Contrai il core prima di ogni ripetizione.",
+			"Le ginocchia si muovono in direzione delle punte dei piedi."
+		]
+	},
+	"barbell-deadlift": {
+		"name": "Stacco da terra con bilanciere",
+		"description": "Sollevamento del bilanciere da terra fino alla posizione eretta. Sviluppa la forza della parte posteriore della coscia, dei glutei e della schiena.",
+		"steps": [
+			"Mettiti in modo che il bilanciere sia sopra la metà del piede.",
+			"Porta il bacino indietro, piega le ginocchia e afferra il bilanciere.",
+			"Raddrizzati, mantenendo il bilanciere vicino alle gambe.",
+			"Abbassa il bilanciere a terra con lo stesso movimento."
+		],
+		"warnings": [
+			"Non arrotondare la schiena; usa un peso che controlli.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Schiena dritta, core contratto.",
+			"Spingi il pavimento con le gambe, non tirare con la schiena."
+		]
+	},
+	"cardio-machine-intervals": {
+		"name": "Intervalli alla macchina cardio",
+		"description": "Lavoro a intervalli su cyclette, ellittica o un’altra macchina cardio. Sviluppa la resistenza cardiovascolare.",
+		"steps": [
+			"Scaldati per qualche minuto a ritmo leggero.",
+			"Aumenta il ritmo o la resistenza per la durata dell’intervallo.",
+			"Durante il recupero continua a muoverti a ritmo leggero.",
+			"Ripeti l’intervallo il numero di volte indicato."
+		],
+		"warnings": [
+			"Leggi le istruzioni della macchina prima di usarla.",
+			"Riduci il ritmo o fermati se compaiono vertigini o dolore."
+		],
+		"techniqueNotes": [
+			"L’intensità deve essere percepibile ma controllata.",
+			"Mantieni una postura corretta."
+		]
+	},
+	"jump-rope-boxer-step": {
+		"name": "Passo del pugile con la corda",
+		"description": "Salti bassi con la corda con spostamento alternato del peso da una gamba all’altra. Più semplice dei salti a piedi uniti.",
+		"steps": [
+			"Prendi le impugnature della corda, con la corda dietro i talloni.",
+			"Fai ruotare la corda con i polsi.",
+			"Sposta leggermente il peso da una gamba all’altra, come se camminassi sul posto.",
+			"Mantieni un ritmo costante per il tempo indicato."
+		],
+		"warnings": [
+			"Salta in basso e atterra con dolcezza sull’avampiede.",
+			"Interrompi l’esercizio se compare dolore alle caviglie."
+		],
+		"techniqueNotes": [
+			"Il salto è di pochi centimetri da terra.",
+			"Gomiti vicini al corpo."
+		]
+	},
+	"jump-rope-side-to-side": {
+		"name": "Salto con la corda da lato a lato",
+		"description": "Salti a piedi uniti con un piccolo spostamento a sinistra e a destra. Aumentano il carico sui polpacci e allenano la coordinazione.",
+		"steps": [
+			"Prendi le impugnature della corda, con i piedi uniti.",
+			"Salta sopra la corda spostandoti leggermente a sinistra.",
+			"Al salto successivo spostati a destra.",
+			"Mantieni il ritmo e atterra con dolcezza."
+		],
+		"warnings": [
+			"Assicurati di avere abbastanza spazio e che la superficie non sia scivolosa.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle caviglie."
+		],
+		"techniqueNotes": [
+			"Lo spostamento è piccolo, non più largo dei piedi.",
+			"Ginocchia leggermente piegate."
+		]
+	},
+	"jump-rope-high-knees": {
+		"name": "Corsa con la corda",
+		"description": "Corsa sul posto con la corda e ginocchia alte. Esercizio cardio intenso per la resistenza.",
+		"steps": [
+			"Prendi le impugnature della corda, con la corda dietro i talloni.",
+			"Corri sul posto, facendo passare la corda sotto il piede a ogni passo.",
+			"Solleva le ginocchia all’altezza dei fianchi.",
+			"Mantieni il ritmo per il tempo indicato."
+		],
+		"warnings": [
+			"Eseguilo solo dopo il riscaldamento.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia, alle anche o alle caviglie."
+		],
+		"techniqueNotes": [
+			"Busto dritto, non inclinarti all’indietro.",
+			"Atterraggio morbido sull’avampiede."
+		]
+	},
+	"lateral-step-up": {
+		"name": "Step-up laterale",
+		"description": "Salita su una piattaforma restando di lato. Allena glutei e muscoli della coscia da un’angolazione diversa rispetto allo step-up normale.",
+		"steps": [
+			"Mettiti di lato rispetto alla piattaforma, con la gamba più vicina sopra di essa.",
+			"Distendi la gamba salendo sulla piattaforma.",
+			"Scendi di nuovo in modo controllato.",
+			"Completa le serie su una gamba, poi cambia gamba."
+		],
+		"warnings": [
+			"Assicurati che la piattaforma sia stabile e non scivoli.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle anche."
+		],
+		"techniqueNotes": [
+			"Lavora la gamba d’appoggio, l’altra si limita a toccare.",
+			"Il ginocchio non cede verso l’interno."
+		]
+	},
+	"step-platform-push-up": {
+		"name": "Piegamenti con mani sullo step",
+		"description": "Piegamenti con le mani su una piattaforma. Versione facilitata dei piegamenti classici, adatta ai principianti.",
+		"steps": [
+			"Appoggia le mani sulla piattaforma, leggermente più larghe delle spalle, con il corpo in linea retta.",
+			"Piega i gomiti abbassando il petto verso la piattaforma.",
+			"Spingi, distendendo le braccia.",
+			"Mantieni il core contratto."
+		],
+		"warnings": [
+			"La piattaforma deve essere stabile, meglio su una superficie antiscivolo.",
+			"Interrompi l’esercizio se compare dolore ai polsi o alle spalle."
+		],
+		"techniqueNotes": [
+			"Non inarcare la zona lombare.",
+			"Gomiti a circa 45° rispetto al busto."
+		]
+	},
+	"step-platform-calf-raise": {
+		"name": "Calf raise sullo step",
+		"description": "Sollevamenti sulle punte dal bordo di una piattaforma per una maggiore ampiezza di movimento. Rafforza i polpacci.",
+		"steps": [
+			"Mettiti sul bordo della piattaforma con l’avampiede, talloni nel vuoto.",
+			"Abbassa lentamente i talloni sotto il livello della piattaforma.",
+			"Sali il più possibile sulle punte.",
+			"Ripeti senza strappi."
+		],
+		"warnings": [
+			"Tieniti a un muro o a un sostegno per l’equilibrio.",
+			"Interrompi l’esercizio se compare dolore alle caviglie o al tendine d’Achille."
+		],
+		"techniqueNotes": [
+			"Movimento lento: 2 secondi in salita, 2 in discesa.",
+			"Ginocchia quasi tese."
+		]
+	},
+	"step-platform-reverse-lunge": {
+		"name": "Affondo indietro dallo step",
+		"description": "Passo indietro dalla piattaforma in affondo. Ampiezza maggiore per glutei e cosce.",
+		"steps": [
+			"Mettiti sulla piattaforma, piedi alla larghezza dei fianchi.",
+			"Fai un passo indietro con una gamba, a terra.",
+			"Scendi in affondo, con la gamba anteriore che resta sulla piattaforma.",
+			"Torna alla posizione di partenza e cambia gamba."
+		],
+		"warnings": [
+			"Assicurati che la piattaforma sia stabile e non scivoli.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Busto in verticale.",
+			"Il tallone anteriore resta premuto sulla piattaforma."
+		]
+	},
+	"step-platform-taps": {
+		"name": "Tocchi sullo step",
+		"description": "Tocchi rapidi e alternati della piattaforma con i piedi. Esercizio cardio leggero per il riscaldamento e la resistenza.",
+		"steps": [
+			"Mettiti di fronte alla piattaforma.",
+			"Tocca la piattaforma con il piede destro, poi con il sinistro.",
+			"Muoviti in modo rapido e leggero, senza appoggiare tutto il piede.",
+			"Mantieni il ritmo per il tempo indicato."
+		],
+		"warnings": [
+			"La piattaforma deve essere stabile.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Schiena dritta, le braccia lavorano a tempo.",
+			"Movimenti leggeri, senza colpi."
+		]
+	},
+	"bench-dip": {
+		"name": "Dip su panca",
+		"description": "Piegamenti per i tricipiti con le mani appoggiate a una panca dietro di te.",
+		"steps": [
+			"Siediti sul bordo della panca, con le mani accanto ai fianchi.",
+			"Scivola in avanti, restando appoggiato con le mani alla panca.",
+			"Piega i gomiti fino a circa 90°.",
+			"Distendi le braccia e risali."
+		],
+		"warnings": [
+			"Non scendere troppo se senti fastidio alle spalle.",
+			"La panca deve essere stabile.",
+			"Interrompi l’esercizio se compare dolore alle spalle o ai polsi."
+		],
+		"techniqueNotes": [
+			"I gomiti puntano indietro, non di lato.",
+			"Non portare le spalle verso le orecchie."
+		]
+	},
+	"bulgarian-split-squat": {
+		"name": "Squat bulgaro",
+		"description": "Squat su una gamba con la gamba posteriore appoggiata su una panca. Carica molto glutei e cosce.",
+		"steps": [
+			"Mettiti di spalle alla panca e appoggia il collo del piede di una gamba su di essa.",
+			"Scendi piegando la gamba anteriore.",
+			"Risali spingendo con il tallone della gamba anteriore.",
+			"Esegui tutte le ripetizioni, poi cambia gamba."
+		],
+		"warnings": [
+			"La panca deve essere stabile; scegli la distanza in modo che il ginocchio non superi il piede.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle anche."
+		],
+		"techniqueNotes": [
+			"Busto leggermente inclinato in avanti.",
+			"Il peso è soprattutto sulla gamba anteriore."
+		]
+	},
+	"bench-hip-thrust": {
+		"name": "Hip thrust su panca",
+		"description": "Sollevamento del bacino con le scapole appoggiate a una panca. Esercizio fondamentale per i glutei.",
+		"steps": [
+			"Siediti a terra di spalle alla panca, con le scapole sul bordo della panca.",
+			"Piega le ginocchia, piedi a terra.",
+			"Solleva il bacino finché busto e cosce non formano un’unica linea.",
+			"Mantieni la posizione un istante e scendi."
+		],
+		"warnings": [
+			"La panca deve essere ferma, meglio se contro un muro.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Mento leggermente accostato al petto.",
+			"Non inarcare la zona lombare in alto."
+		]
+	},
+	"chest-supported-dumbbell-row": {
+		"name": "Rematore con manubri con petto appoggiato",
+		"description": "Tirata dei manubri da sdraiati a pancia in giù su una panca inclinata. Scarica la zona lombare e concentra il carico sulla schiena.",
+		"steps": [
+			"Sdraiati con il petto sulla panca, un manubrio in ogni mano.",
+			"Tira i manubri verso i fianchi del busto, avvicinando le scapole.",
+			"Mantieni la posizione un istante.",
+			"Abbassa i manubri in modo controllato."
+		],
+		"warnings": [
+			"La panca deve essere stabile.",
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"La testa prosegue la linea della colonna.",
+			"Non dondolare con il busto."
+		]
+	},
+	"kettlebell-single-arm-row": {
+		"name": "Rematore con kettlebell a un braccio",
+		"description": "Tirata della kettlebell in posizione inclinata con appoggio della mano libera. Rafforza la schiena e i bicipiti.",
+		"steps": [
+			"Inclinati in avanti con la schiena dritta, appoggia la mano libera su una coscia.",
+			"Prendi la kettlebell con l’altra mano.",
+			"Tira la kettlebell verso la vita, avvicinando la scapola.",
+			"Abbassa la kettlebell lentamente."
+		],
+		"warnings": [
+			"Mantieni la schiena dritta.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Il gomito si muove lungo il busto.",
+			"Lo sguardo è rivolto al pavimento."
+		]
+	},
+	"kettlebell-overhead-press": {
+		"name": "Lento avanti con kettlebell",
+		"description": "Distensione della kettlebell in piedi con un braccio. Rafforza le spalle, i tricipiti e il core.",
+		"steps": [
+			"Porta la kettlebell alla spalla, con il gomito vicino al busto.",
+			"Contrai addominali e glutei.",
+			"Distendi il braccio verso l’alto sopra la testa.",
+			"Riporta lentamente la kettlebell alla spalla."
+		],
+		"warnings": [
+			"Assicurati di avere spazio sufficiente sopra di te.",
+			"Interrompi l’esercizio se compare dolore alle spalle, al collo o alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Non inarcare la zona lombare.",
+			"Polso dritto, la kettlebell poggia sull’avambraccio."
+		]
+	},
+	"kettlebell-halo": {
+		"name": "Halo con kettlebell",
+		"description": "Movimento circolare della kettlebell intorno alla testa. Riscalda le spalle e lavora sulla stabilità del core.",
+		"steps": [
+			"Mettiti in piedi e tieni la kettlebell capovolta, vicino al petto.",
+			"Fai passare la kettlebell intorno alla testa in una direzione.",
+			"Riportala al petto.",
+			"Ripeti nella direzione opposta."
+		],
+		"warnings": [
+			"Usa una kettlebell leggera.",
+			"Tienila saldamente per non colpirti.",
+			"Interrompi l’esercizio se compare dolore alle spalle o al collo."
+		],
+		"techniqueNotes": [
+			"Il busto resta fermo, lavorano solo le braccia.",
+			"Gomiti vicini alla testa."
+		]
+	},
+	"kettlebell-sumo-deadlift": {
+		"name": "Stacco sumo con kettlebell",
+		"description": "Stacco della kettlebell con i piedi ben larghi. Carica i glutei e la parte interna delle cosce.",
+		"steps": [
+			"Mettiti con i piedi larghi e le punte in fuori, la kettlebell tra i piedi.",
+			"Porta il bacino indietro e afferra la kettlebell.",
+			"Raddrizzati spingendo il pavimento con le gambe.",
+			"Abbassa lentamente la kettlebell."
+		],
+		"warnings": [
+			"Non arrotondare la schiena.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare o alle anche."
+		],
+		"techniqueNotes": [
+			"Le ginocchia si muovono in direzione delle punte dei piedi.",
+			"Schiena dritta per tutto il movimento."
+		]
+	},
+	"kettlebell-reverse-lunge": {
+		"name": "Affondo indietro con kettlebell",
+		"description": "Affondo indietro con la kettlebell vicino al petto. Aggiunge carico a gambe e glutei.",
+		"steps": [
+			"Tieni la kettlebell vicino al petto con entrambe le mani.",
+			"Fai un passo indietro e scendi in affondo.",
+			"Spingi con la gamba anteriore e torna su.",
+			"Cambia gamba."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Busto in verticale.",
+			"Il tallone anteriore resta premuto a terra."
+		]
+	},
+	"band-squat": {
+		"name": "Squat con elastico",
+		"description": "Squat con l’elastico sotto i piedi. L’elastico aggiunge resistenza durante la risalita.",
+		"steps": [
+			"Mettiti sul centro dell’elastico, tieni le estremità all’altezza delle spalle.",
+			"Scendi nello squat, portando il bacino indietro.",
+			"Risali distendendo le gambe.",
+			"Non lasciare andare l’elastico di colpo."
+		],
+		"warnings": [
+			"Verifica che l’elastico non sia danneggiato.",
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Ginocchia in direzione delle punte dei piedi.",
+			"Schiena dritta."
+		]
+	},
+	"band-chest-press": {
+		"name": "Chest press con elastico",
+		"description": "Spinta dell’elastico davanti a sé in piedi. Allena il petto e i tricipiti senza manubri.",
+		"steps": [
+			"Fai passare l’elastico dietro la schiena sotto le scapole, con le estremità nelle mani.",
+			"Piega i gomiti, con le mani all’altezza del petto.",
+			"Distendi le braccia in avanti.",
+			"Torna lentamente indietro."
+		],
+		"warnings": [
+			"Verifica che l’elastico non sia danneggiato e stia saldo dietro la schiena.",
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Gomiti leggermente sotto le spalle.",
+			"Il busto resta fermo."
+		]
+	},
+	"band-overhead-press": {
+		"name": "Lento avanti con elastico",
+		"description": "Spinta dell’elastico verso l’alto stando in piedi su di esso. Rafforza le spalle e i tricipiti.",
+		"steps": [
+			"Mettiti sull’elastico, tieni le estremità all’altezza delle spalle.",
+			"Distendi le braccia verso l’alto sopra la testa.",
+			"Abbassale lentamente fino alle spalle.",
+			"Non inarcare la zona lombare."
+		],
+		"warnings": [
+			"Assicurati di avere spazio sufficiente sopra di te.",
+			"Interrompi l’esercizio se compare dolore alle spalle o al collo."
+		],
+		"techniqueNotes": [
+			"Addominali contratti.",
+			"Le braccia si muovono in verticale."
+		]
+	},
+	"band-good-morning": {
+		"name": "Good morning con elastico",
+		"description": "Flessioni del busto con la schiena dritta, con l’elastico sulle spalle e sotto i piedi. Insegna il movimento di cerniera dell’anca.",
+		"steps": [
+			"Mettiti sull’elastico e appoggia l’altra estremità sulle spalle.",
+			"Porta il bacino indietro, inclinando il busto con la schiena dritta.",
+			"Scendi fino a sentire l’allungamento nella parte posteriore delle cosce.",
+			"Raddrizzati spingendo il bacino in avanti."
+		],
+		"warnings": [
+			"Non arrotondare la schiena.",
+			"Verifica che l’elastico sia ben fissato.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Ginocchia leggermente piegate.",
+			"Lo sguardo è rivolto in basso e in avanti."
+		]
+	},
+	"band-bicep-curl": {
+		"name": "Curl per bicipiti con elastico",
+		"description": "Flessione delle braccia per i bicipiti con la resistenza dell’elastico.",
+		"steps": [
+			"Mettiti sull’elastico, con le estremità nelle mani e i palmi in avanti.",
+			"Piega i gomiti, portando le mani alle spalle.",
+			"Mantieni la posizione un istante.",
+			"Abbassa lentamente le braccia."
+		],
+		"warnings": [
+			"Verifica che l’elastico non sia danneggiato."
+		],
+		"techniqueNotes": [
+			"Gomiti vicini ai fianchi.",
+			"Il busto non dondola."
+		]
+	},
+	"scapular-pull-up": {
+		"name": "Trazioni scapolari",
+		"description": "Sollevamento e abbassamento delle scapole in sospensione senza piegare le braccia. Prepara le spalle alle trazioni.",
+		"steps": [
+			"Appenditi alla sbarra a braccia tese.",
+			"Abbassa le spalle e avvicina le scapole, sollevando il corpo di qualche centimetro.",
+			"Torna lentamente in sospensione.",
+			"Non piegare i gomiti."
+		],
+		"warnings": [
+			"Usa solo una sbarra installata in modo sicuro.",
+			"Interrompi l’esercizio se compare dolore alle spalle o ai polsi."
+		],
+		"techniqueNotes": [
+			"Il movimento è piccolo, solo nelle scapole.",
+			"Il corpo non dondola."
+		]
+	},
+	"negative-pull-up": {
+		"name": "Trazioni negative",
+		"description": "Discesa lenta dalla posizione alta della trazione. Aiuta a imparare a fare le trazioni.",
+		"steps": [
+			"Sali su una sedia e afferra la sbarra, con il mento sopra di essa.",
+			"Togli l’appoggio.",
+			"Scendi lentamente finché le braccia non sono tese (3–5 secondi).",
+			"Torna sulla sedia e ripeti."
+		],
+		"warnings": [
+			"Usa solo una sbarra installata in modo sicuro.",
+			"Usa la sedia per raggiungere la posizione alta.",
+			"Interrompi l’esercizio se compare dolore alle spalle o ai polsi."
+		],
+		"techniqueNotes": [
+			"Scendi in modo controllato, senza cadere.",
+			"Le scapole restano abbassate."
+		]
+	},
+	"chin-up": {
+		"name": "Trazioni a presa supina",
+		"description": "Trazioni con i palmi rivolti verso di sé. Coinvolgono i bicipiti più delle trazioni normali.",
+		"steps": [
+			"Afferra la sbarra con presa supina alla larghezza delle spalle.",
+			"Tirati su finché il mento non supera la sbarra.",
+			"Mantieni la posizione un istante.",
+			"Scendi lentamente in sospensione."
+		],
+		"warnings": [
+			"Usa solo una sbarra installata in modo sicuro.",
+			"Interrompi l’esercizio se compare dolore alle spalle, ai gomiti o ai polsi."
+		],
+		"techniqueNotes": [
+			"Non dondolare.",
+			"I gomiti si muovono verso il basso e verso il busto."
+		]
+	},
+	"hanging-leg-raise": {
+		"name": "Sollevamento delle gambe tese alla sbarra",
+		"description": "Sollevamento delle gambe tese restando appesi alla sbarra. Versione più difficile per gli addominali.",
+		"steps": [
+			"Appenditi alla sbarra.",
+			"Contrai gli addominali e solleva le gambe tese fino all’altezza del bacino.",
+			"Mantieni la posizione un istante.",
+			"Abbassa lentamente le gambe."
+		],
+		"warnings": [
+			"Usa solo una sbarra installata in modo sicuro.",
+			"Non dondolare, solleva le gambe lentamente.",
+			"Interrompi l’esercizio se compare dolore alle spalle o alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Bacino leggermente retroverso.",
+			"Senza far dondolare il corpo."
+		]
+	},
+	"dumbbell-lateral-raise": {
+		"name": "Alzate laterali con manubri",
+		"description": "Sollevamento dei manubri di lato fino all’altezza delle spalle. Sviluppa il fascio medio dei deltoidi.",
+		"steps": [
+			"Mettiti in piedi, manubri lungo i fianchi.",
+			"Piega leggermente i gomiti e solleva le braccia di lato fino all’altezza delle spalle.",
+			"Abbassa lentamente le braccia.",
+			"Non portare le spalle verso le orecchie."
+		],
+		"warnings": [
+			"Scegli manubri leggeri.",
+			"Interrompi l’esercizio se compare dolore alle spalle o al collo."
+		],
+		"techniqueNotes": [
+			"Gomiti leggermente più alti dei polsi.",
+			"Il busto resta fermo."
+		]
+	},
+	"dumbbell-bicep-curl": {
+		"name": "Curl per bicipiti con manubri",
+		"description": "Classico curl per i bicipiti in piedi.",
+		"steps": [
+			"Mettiti in piedi, manubri nelle mani lungo i fianchi, palmi in avanti.",
+			"Piega i gomiti, portando i manubri alle spalle.",
+			"Mantieni la posizione un istante.",
+			"Abbassa lentamente i manubri."
+		],
+		"warnings": [
+			"Scegli un peso con cui non devi dondolare con il busto."
+		],
+		"techniqueNotes": [
+			"Gomiti vicini ai fianchi.",
+			"Non inclinarti all’indietro."
+		]
+	},
+	"dumbbell-overhead-triceps-extension": {
+		"name": "Estensioni per i tricipiti con manubrio",
+		"description": "Estensione delle braccia con un manubrio dietro la testa. Isola i tricipiti.",
+		"steps": [
+			"Mettiti in piedi e tieni un manubrio con entrambe le mani sopra la testa.",
+			"Piega i gomiti, abbassando il manubrio dietro la testa.",
+			"Distendi le braccia verso l’alto.",
+			"Tieni i gomiti vicini alla testa."
+		],
+		"warnings": [
+			"Tieni il manubrio con entrambe le mani.",
+			"Interrompi l’esercizio se compare dolore alle spalle, ai gomiti o al collo."
+		],
+		"techniqueNotes": [
+			"I gomiti non si aprono ai lati.",
+			"Addominali contratti."
+		]
+	},
+	"dumbbell-sumo-squat": {
+		"name": "Squat sumo con manubrio",
+		"description": "Squat con i piedi larghi e un manubrio tra le gambe. Lavora soprattutto su glutei e parte interna delle cosce.",
+		"steps": [
+			"Mettiti con i piedi larghi e le punte in fuori, tieni il manubrio con entrambe le mani in basso.",
+			"Scendi nello squat, con le ginocchia in direzione delle punte dei piedi.",
+			"Risali spingendo il pavimento con le gambe.",
+			"Mantieni il busto in verticale."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle anche."
+		],
+		"techniqueNotes": [
+			"Schiena dritta.",
+			"Le ginocchia non cedono verso l’interno."
+		]
+	},
+	"dumbbell-glute-bridge": {
+		"name": "Ponte per i glutei con manubrio",
+		"description": "Ponte per i glutei con un manubrio sul bacino. Aumenta il carico sui glutei.",
+		"steps": [
+			"Sdraiati sulla schiena, ginocchia piegate, manubrio sul bacino.",
+			"Solleva il bacino, allineando il corpo.",
+			"Mantieni la posizione un istante.",
+			"Scendi lentamente."
+		],
+		"warnings": [
+			"Tieni saldamente il manubrio.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Non inarcare la zona lombare.",
+			"Talloni premuti a terra."
+		]
+	},
+	"dumbbell-bent-over-row": {
+		"name": "Rematore con manubri",
+		"description": "Tirata di due manubri verso la vita in posizione inclinata. Rafforza la schiena e i bicipiti.",
+		"steps": [
+			"Inclinati in avanti con la schiena dritta, manubri nelle mani con le braccia distese.",
+			"Tira i manubri verso i fianchi, avvicinando le scapole.",
+			"Mantieni la posizione un istante.",
+			"Abbassa lentamente i manubri."
+		],
+		"warnings": [
+			"Mantieni la schiena dritta.",
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Ginocchia leggermente piegate.",
+			"Porta i gomiti lungo il busto."
+		]
+	},
+	"towel-row": {
+		"name": "Rematore con asciugamano",
+		"description": "Tirata del proprio corpo con un asciugamano fissato a un sostegno sicuro. Allena i muscoli della schiena e i bicipiti senza attrezzatura.",
+		"steps": [
+			"Avvolgi un asciugamano resistente intorno a un sostegno sicuro all’altezza della vita e afferra entrambe le estremità.",
+			"Inclinati all’indietro a braccia tese, con i piedi più vicini al sostegno.",
+			"Tira il petto verso le mani, portando i gomiti indietro.",
+			"Distendi lentamente le braccia e torna alla posizione di partenza."
+		],
+		"warnings": [
+			"Fissa l’asciugamano solo a un sostegno sicuro: una colonna stabile, una ringhiera o la maniglia di una porta chiusa che si apre verso l’esterno rispetto a te.",
+			"Verifica che l’asciugamano sia resistente e non scivoli dalle mani."
+		],
+		"techniqueNotes": [
+			"Mantieni il corpo dritto dalla testa ai talloni.",
+			"Più i piedi sono vicini al sostegno, più l’esercizio è difficile."
+		]
+	},
+	"inverted-table-row": {
+		"name": "Rematore sotto il tavolo",
+		"description": "Trazione orizzontale da sdraiati sotto un tavolo robusto. Allena i muscoli della schiena, i bicipiti e i deltoidi posteriori.",
+		"steps": [
+			"Sdraiati sulla schiena sotto il tavolo, con il petto sotto il bordo del piano.",
+			"Afferra il bordo del piano con una presa alla larghezza delle spalle.",
+			"Contrai addominali e glutei e tira il petto verso il bordo del tavolo.",
+			"Scendi lentamente, distendendo completamente le braccia."
+		],
+		"warnings": [
+			"Usa solo un tavolo pesante e stabile, che non si ribalti e regga il tuo peso.",
+			"Afferra il bordo del piano, non il vetro né elementi fragili."
+		],
+		"techniqueNotes": [
+			"Corpo dritto dalle spalle ai talloni, il bacino non cede.",
+			"Per facilitare l’esercizio, piega le ginocchia e appoggia i piedi a terra."
+		]
+	},
+	"prone-y-t-w-raise": {
+		"name": "Sollevamenti Y-T-W da proni",
+		"description": "Sollevamenti delle braccia in tre posizioni da sdraiati a pancia in giù. Allenano la parte alta della schiena e gli stabilizzatori delle scapole.",
+		"steps": [
+			"Sdraiati a pancia in giù, fronte sopra il pavimento, braccia distese in avanti.",
+			"Solleva le braccia a formare una Y, mantieni per un secondo e abbassa.",
+			"Allarga le braccia ai lati a formare una T, solleva e abbassa.",
+			"Piega i gomiti a formare una W, avvicina le scapole, solleva e abbassa le braccia. Questa è una ripetizione."
+		],
+		"warnings": [
+			"Non inclinare la testa all’indietro.",
+			"Interrompi l’esercizio se compare dolore alle spalle o al collo."
+		],
+		"techniqueNotes": [
+			"Il movimento parte dalle scapole, non dalla zona lombare.",
+			"I pollici sono rivolti verso l’alto."
+		]
+	},
+	"reverse-snow-angel": {
+		"name": "Snow angel inverso",
+		"description": "Movimento fluido delle braccia dai fianchi alla testa da sdraiati a pancia in giù. Allena la parte alta della schiena e la mobilità delle spalle.",
+		"steps": [
+			"Sdraiati a pancia in giù, braccia lungo il corpo con i palmi verso i fianchi.",
+			"Solleva le braccia da terra e avvicina le scapole.",
+			"Porta lentamente le braccia ad arco ai lati fino alla testa.",
+			"Riporta le braccia ai fianchi lungo lo stesso percorso, senza toccare il pavimento."
+		],
+		"warnings": [
+			"Non inclinare la testa all’indietro.",
+			"Interrompi l’esercizio se compare dolore alle spalle o al collo."
+		],
+		"techniqueNotes": [
+			"Tieni le braccia sempre leggermente sopra il pavimento.",
+			"Non inarcare la zona lombare, glutei contratti."
+		]
+	},
+	"leg-press": {
+		"name": "Leg press",
+		"description": "Spinta della piattaforma con le gambe da seduti. Allena quadricipiti e glutei senza caricare la colonna, comoda per i principianti.",
+		"steps": [
+			"Siediti nella macchina, premi la zona lombare contro lo schienale, piedi sulla piattaforma alla larghezza delle spalle.",
+			"Sblocca i fermi e piega lentamente le ginocchia fino a una profondità comoda.",
+			"Espirando, distendi le gambe senza estendere completamente le ginocchia.",
+			"Riporta i fermi in posizione al termine della serie."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"La zona lombare non si stacca dallo schienale.",
+			"Le ginocchia si muovono in direzione delle punte dei piedi."
+		]
+	},
+	"machine-chest-press": {
+		"name": "Chest press alla macchina",
+		"description": "Spinta delle impugnature dal petto da seduti. Insegna in sicurezza il movimento di spinta e allena petto, spalle e tricipiti.",
+		"steps": [
+			"Regola il sedile in modo che le impugnature siano all’altezza della metà del petto.",
+			"Afferra le impugnature e premi le scapole contro lo schienale.",
+			"Espirando, distendi le braccia in avanti senza bloccare completamente i gomiti.",
+			"Riporta lentamente le impugnature indietro, sentendo l’allungamento del petto."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Le spalle non salgono verso le orecchie."
+		]
+	},
+	"machine-shoulder-press": {
+		"name": "Shoulder press alla macchina",
+		"description": "Spinta verticale da seduti alla macchina. Allena spalle e tricipiti con il supporto per la schiena.",
+		"steps": [
+			"Regola il sedile in modo che le impugnature siano all’altezza delle spalle.",
+			"Premi la schiena contro lo schienale e afferra le impugnature.",
+			"Espirando, distendi le braccia verso l’alto.",
+			"Abbassa lentamente le impugnature fino all’altezza delle spalle."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Non inarcare la zona lombare."
+		]
+	},
+	"seated-cable-row": {
+		"name": "Pulley basso da seduti",
+		"description": "Tirata orizzontale dell’impugnatura del cavo. Allena la schiena e i deltoidi posteriori e insegna ad avvicinare le scapole.",
+		"steps": [
+			"Siediti, appoggia i piedi sulle pedane e afferra l’impugnatura con la schiena dritta.",
+			"Tira l’impugnatura verso l’addome, avvicinando le scapole.",
+			"Fermati un istante nel punto finale.",
+			"Riporta lentamente le braccia in avanti, senza arrotondare la schiena."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Il busto resta quasi fermo.",
+			"I gomiti si muovono lungo il corpo."
+		]
+	},
+	"lat-pulldown-machine": {
+		"name": "Lat machine",
+		"description": "Tirata di un’impugnatura larga verso il petto da seduti. Prepara alle trazioni e allena i dorsali.",
+		"steps": [
+			"Blocca le cosce sotto i rulli, afferra l’impugnatura più larga delle spalle.",
+			"Inclinati leggermente all’indietro e tira l’impugnatura verso la parte alta del petto.",
+			"Avvicina le scapole e fermati un istante.",
+			"Riporta lentamente l’impugnatura verso l’alto."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Tira con i gomiti, non con le mani."
+		]
+	},
+	"leg-curl-machine": {
+		"name": "Leg curl alla macchina",
+		"description": "Flessione isolata delle gambe da sdraiati o da seduti. Allena la parte posteriore della coscia.",
+		"steps": [
+			"Regola il rullo in modo che sia sopra i talloni.",
+			"Espirando, piega le gambe, portando i talloni verso i glutei.",
+			"Fermati un istante nel punto più alto.",
+			"Distendi lentamente le gambe."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Il bacino non si stacca dalla panca."
+		]
+	},
+	"leg-extension-machine": {
+		"name": "Leg extension alla macchina",
+		"description": "Estensione isolata delle gambe da seduti. Allena i quadricipiti.",
+		"steps": [
+			"Regola lo schienale e il rullo sopra le caviglie.",
+			"Espirando, distendi le gambe.",
+			"Fermati un istante nel punto più alto.",
+			"Abbassa lentamente le gambe."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Movimenti fluidi, senza strappi."
+		]
+	},
+	"cable-triceps-pushdown": {
+		"name": "Pushdown per i tricipiti ai cavi",
+		"description": "Estensione delle braccia verso il basso al cavo alto. Allena in modo isolato i tricipiti.",
+		"steps": [
+			"Mettiti di fronte al cavo, afferra l’impugnatura con i gomiti vicini ai fianchi.",
+			"Espirando, distendi le braccia verso il basso.",
+			"Fermati un istante in basso.",
+			"Riporta lentamente l’impugnatura all’altezza del petto."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"I gomiti non si muovono."
+		]
+	},
+	"cable-biceps-curl": {
+		"name": "Curl per bicipiti al cavo basso",
+		"description": "Flessione delle braccia in piedi accanto al cavo basso. Allena in modo isolato i bicipiti.",
+		"steps": [
+			"Mettiti di fronte al cavo basso, afferra l’impugnatura con i palmi verso l’alto.",
+			"Espirando, piega le braccia verso le spalle.",
+			"Fermati un istante in alto.",
+			"Distendi lentamente le braccia."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Gomiti vicini ai fianchi, busto fermo."
+		]
+	},
+	"cable-face-pull": {
+		"name": "Face pull ai cavi",
+		"description": "Tirata di una corda verso l’altezza del viso. Rafforza i deltoidi posteriori e i muscoli tra le scapole, utile per la postura.",
+		"steps": [
+			"Fissa la corda al cavo all’altezza del viso e fai un passo indietro.",
+			"Tira la corda verso il viso, allargando i gomiti ai lati.",
+			"Avvicina le scapole e fermati un istante.",
+			"Riporta lentamente le braccia in avanti."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Peso leggero, movimento controllato."
+		]
+	},
+	"cable-woodchop": {
+		"name": "Woodchop ai cavi",
+		"description": "Rotazione diagonale del busto con l’impugnatura del cavo. Allena gli obliqui e insegna a trasmettere la forza attraverso il core.",
+		"steps": [
+			"Mettiti di lato rispetto al cavo, afferra l’impugnatura con entrambe le mani.",
+			"Tira l’impugnatura in diagonale verso il basso, ruotando il busto.",
+			"Tieni le braccia quasi tese, ruota con la cassa toracica.",
+			"Riporta lentamente l’impugnatura e ripeti, poi cambia lato."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Muovi il busto, non solo le braccia."
+		]
+	},
+	"barbell-bench-press": {
+		"name": "Panca piana con bilanciere",
+		"description": "Classica distensione con il bilanciere su panca piana. Esercizio fondamentale per petto, spalle e tricipiti.",
+		"steps": [
+			"Sdraiati sulla panca, piedi a terra, scapole addotte, occhi sotto il bilanciere.",
+			"Stacca il bilanciere e abbassalo fino alla metà del petto.",
+			"Espirando, spingi il bilanciere verso l’alto fino a distendere le braccia.",
+			"Riponi il bilanciere sui supporti quando hai finito la serie."
+		],
+		"warnings": [
+			"Non spingere il bilanciere senza assistenza in palestra e interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Fatti assistere da un compagno oppure usa i fermi di sicurezza.",
+			"Polsi sopra i gomiti."
+		]
+	},
+	"barbell-bent-over-row": {
+		"name": "Rematore con bilanciere",
+		"description": "Tirata del bilanciere verso l’addome in posizione inclinata. Allena tutta la schiena, i deltoidi posteriori e i bicipiti.",
+		"steps": [
+			"Mettiti con i piedi alla larghezza delle spalle, afferra il bilanciere con una presa leggermente più larga delle spalle.",
+			"Inclinati in avanti con la schiena dritta, ginocchia leggermente piegate.",
+			"Tira il bilanciere verso la parte bassa dell’addome.",
+			"Abbassa lentamente il bilanciere, senza arrotondare la schiena."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Schiena dritta per tutto il movimento."
+		]
+	},
+	"barbell-overhead-press": {
+		"name": "Lento avanti con bilanciere",
+		"description": "Distensione del bilanciere sopra la testa in piedi. Sviluppa la forza di spalle e parte alta della schiena, richiede un core stabile.",
+		"steps": [
+			"Prendi il bilanciere all’altezza delle clavicole con una presa leggermente più larga delle spalle.",
+			"Contrai addominali e glutei e, espirando, spingi il bilanciere verso l’alto.",
+			"Alla fine la testa passa leggermente in avanti, con il bilanciere sopra la metà del piede.",
+			"Abbassa lentamente il bilanciere fino alle clavicole."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle spalle o alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Non inarcare la zona lombare."
+		]
+	},
+	"barbell-romanian-deadlift": {
+		"name": "Stacco rumeno con bilanciere",
+		"description": "Stacco a gambe quasi tese. Allena la parte posteriore della coscia e i glutei e insegna il movimento con il bacino portato indietro.",
+		"steps": [
+			"Mettiti in piedi con il bilanciere in mano, ginocchia leggermente piegate.",
+			"Porta il bacino indietro, facendo scorrere il bilanciere lungo le gambe.",
+			"Abbassalo sotto le ginocchia, mantenendo la schiena dritta.",
+			"Espirando, torna alla posizione di partenza, spingendo il bacino in avanti."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alla zona lombare."
+		],
+		"techniqueNotes": [
+			"Il movimento parte dal bacino, non dalla schiena."
+		]
+	},
+	"treadmill-incline-walk": {
+		"name": "Camminata in salita sul tapis roulant",
+		"description": "Camminata veloce sul tapis roulant con inclinazione. Lavoro cardio senza impatto per la resistenza e le gambe.",
+		"steps": [
+			"Imposta un’inclinazione del 4–8% e una camminata veloce comoda.",
+			"Mantieni il busto dritto, senza appoggiarti ai corrimano.",
+			"Cammina a un ritmo costante per il tempo richiesto.",
+			"Alla fine riduci la velocità e l’inclinazione per recuperare."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Il respiro resta regolare, riesci a parlare con frasi brevi."
+		]
+	},
+	"easy-run-intervals": {
+		"name": "Corsa leggera a intervalli",
+		"description": "Alternanza di corsa tranquilla e camminata. Sviluppa la resistenza del cuore e della respirazione senza carichi bruschi.",
+		"steps": [
+			"Scaldati per un minuto con una camminata veloce.",
+			"Corri a un ritmo comodo per il tempo indicato.",
+			"Passa alla camminata per recuperare.",
+			"Ripeti l’alternanza per il numero di serie."
+		],
+		"warnings": [
+			"Interrompi la corsa se compare dolore alle caviglie o alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Il ritmo permette di respirare con il naso o di parlare con frasi brevi."
+		]
+	},
+	"sprint-intervals": {
+		"name": "Allunghi di sprint",
+		"description": "Brevi accelerazioni a piena velocità con recupero completo. Sviluppano la potenza e la resistenza alla velocità.",
+		"steps": [
+			"Scaldati bene e fai qualche allungo leggero.",
+			"Accelera fino a circa il 90% della velocità massima.",
+			"Dopo l’accelerazione torna camminando e recupera completamente.",
+			"Ripeti per il numero di serie."
+		],
+		"warnings": [
+			"Non eseguirlo su superfici scivolose e interrompi l’esercizio se compare dolore alle ginocchia o alle caviglie."
+		],
+		"techniqueNotes": [
+			"Inclina il busto in avanti e muovi le braccia."
+		]
+	},
+	"brisk-walk-intervals": {
+		"name": "Camminata veloce a intervalli",
+		"description": "Alternanza di camminata veloce e tranquilla all’aria aperta. Adatta per iniziare e per il recupero.",
+		"steps": [
+			"Cammina con calma per un minuto per scaldarti.",
+			"Cammina veloce, muovendo le braccia piegate.",
+			"Passa a un passo tranquillo per recuperare.",
+			"Ripeti l’alternanza."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Passo veloce: respiro accelerato, ma riesci a parlare."
+		]
+	},
+	"walking-lunge": {
+		"name": "Affondi camminati",
+		"description": "Affondi con avanzamento. Allenano le gambe e i glutei e insegnano l’equilibrio.",
+		"steps": [
+			"Mettiti in piedi, mani sui fianchi o lungo il corpo.",
+			"Fai un ampio passo in avanti e scendi, piegando entrambe le ginocchia a 90°.",
+			"Spingi con la gamba anteriore e porta la posteriore accanto a quella davanti.",
+			"Continua alternando le gambe."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Il ginocchio anteriore resta sopra la caviglia."
+		]
+	},
+	"bear-crawl": {
+		"name": "Bear crawl",
+		"description": "Movimento a quattro appoggi con le ginocchia sollevate. Rafforza spalle, core e gambe e sviluppa la coordinazione.",
+		"steps": [
+			"Mettiti su mani e piedi, con le ginocchia a 5 cm da terra.",
+			"Sposta contemporaneamente in avanti braccio e gamba opposti.",
+			"Mantieni la schiena dritta e il bacino basso.",
+			"Avanza per il tempo indicato, poi torna indietro nello stesso modo."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore ai polsi."
+		],
+		"techniqueNotes": [
+			"Movimenti lenti e controllati."
+		]
+	},
+	"broad-jump": {
+		"name": "Salto in lungo da fermo",
+		"description": "Salto esplosivo in avanti a piedi uniti. Sviluppa la potenza delle gambe e la coordinazione.",
+		"steps": [
+			"Mettiti con i piedi alla larghezza delle spalle, porta le braccia indietro.",
+			"Spingi, facendo oscillare le braccia in avanti, e salta il più lontano possibile.",
+			"Atterra con dolcezza sulle ginocchia piegate.",
+			"Fermati, recupera l’equilibrio e ripeti."
+		],
+		"warnings": [
+			"Non eseguirlo su superfici scivolose e interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Atterraggio morbido su tutto il piede."
+		]
+	},
+	"skater-jumps": {
+		"name": "Skater jump",
+		"description": "Salti laterali da una gamba all’altra. Allenano l’equilibrio, le gambe e la resistenza.",
+		"steps": [
+			"Mettiti su una gamba, porta l’altra indietro.",
+			"Salta di lato sull’altra gamba, facendo oscillare le braccia.",
+			"Fermati un istante, mantenendo l’equilibrio.",
+			"Salta di nuovo indietro e continua per il tempo indicato."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia o alle caviglie."
+		],
+		"techniqueNotes": [
+			"Atterraggio morbido, ginocchio dietro la punta del piede."
+		]
+	},
+	"shuttle-run": {
+		"name": "Navetta",
+		"description": "Corsa tra due punti con cambio di direzione. Sviluppa la rapidità di reazione e la resistenza.",
+		"steps": [
+			"Segna due punti a 3 m di distanza l’uno dall’altro.",
+			"Corri fino al secondo punto e tocca terra con la mano.",
+			"Gira rapidamente e corri indietro.",
+			"Ripeti per il tempo indicato."
+		],
+		"warnings": [
+			"Non eseguirla su superfici scivolose."
+		],
+		"techniqueNotes": [
+			"Gira con le ginocchia piegate, senza far incrociare i piedi."
+		]
+	},
+	"stair-climb": {
+		"name": "Salita delle scale",
+		"description": "Salita veloce di scale o di un pendio ripido. Cardio e allenamento per gambe e glutei.",
+		"steps": [
+			"Mettiti alla base delle scale o del pendio.",
+			"Sali a passo veloce, appoggiando tutto il piede sul gradino.",
+			"Sali per il tempo indicato, poi scendi lentamente.",
+			"Ripeti per il numero di serie."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Scendi con calma, tieniti al corrimano se necessario."
+		]
+	},
+	"park-bench-step-up": {
+		"name": "Step-up sulla panchina del parco",
+		"description": "Salita su una panchina stabile su una gamba. Allena quadricipiti e glutei.",
+		"steps": [
+			"Verifica che la panchina sia stabile e mettiti di fronte a essa.",
+			"Appoggia un piede sulla panchina e sali distendendo la gamba.",
+			"Scendi lentamente, controllando il movimento.",
+			"Termina la serie e cambia gamba."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore alle ginocchia."
+		],
+		"techniqueNotes": [
+			"Spingi con la gamba sulla panchina, non darti la spinta da terra."
+		]
+	},
+	"park-bench-incline-push-up": {
+		"name": "Piegamenti sulla panchina",
+		"description": "Piegamenti con le mani appoggiate a una panchina. Variante facilitata per petto, spalle e tricipiti.",
+		"steps": [
+			"Appoggia i palmi sul bordo di una panchina stabile, con il corpo in linea retta.",
+			"Piega i gomiti e abbassa il petto verso la panchina.",
+			"Espirando, spingi fino a distendere le braccia.",
+			"Mantieni il core contratto per tutto il movimento."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore ai polsi."
+		],
+		"techniqueNotes": [
+			"Gomiti a circa 45° rispetto al busto."
+		]
+	},
+	"australian-pull-up": {
+		"name": "Trazioni australiane",
+		"description": "Trazione del corpo a una sbarra bassa da sdraiati sotto di essa. Allena la schiena e i bicipiti, più facile delle trazioni normali.",
+		"steps": [
+			"Mettiti sotto una sbarra bassa e robusta e afferrala con una presa più larga delle spalle.",
+			"Allinea il corpo in linea retta, talloni a terra.",
+			"Tira il petto verso la sbarra, avvicinando le scapole.",
+			"Scendi lentamente fino ad avere le braccia quasi tese."
+		],
+		"warnings": [
+			"Assicurati che la sbarra sia robusta e interrompi l’esercizio se compare dolore alle spalle."
+		],
+		"techniqueNotes": [
+			"Il corpo resta dritto, il bacino non cede."
+		]
+	},
+	"outdoor-plank-shoulder-taps": {
+		"name": "Plank con tocchi alle spalle",
+		"description": "Plank con tocchi alternati alla spalla. Allena il core e la stabilità delle spalle.",
+		"steps": [
+			"Assumi la posizione di plank alto, con i piedi leggermente più larghi delle spalle.",
+			"Tocca con la mano destra la spalla sinistra, senza far dondolare il bacino.",
+			"Riporta la mano e tocca con l’altra.",
+			"Continua l’alternanza per il tempo indicato."
+		],
+		"warnings": [
+			"Interrompi l’esercizio se compare dolore ai polsi."
+		],
+		"techniqueNotes": [
+			"Il bacino si muove appena."
+		]
+	}
+}

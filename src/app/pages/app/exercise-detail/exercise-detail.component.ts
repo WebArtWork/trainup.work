@@ -22,7 +22,12 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 export class ExerciseDetailComponent {
 	private readonly _catalog = inject(ExerciseCatalogService);
 	private readonly _suitability = injectSuitability();
-	private readonly _id = inject(ActivatedRoute).snapshot.paramMap.get('id');
+	private readonly _route = inject(ActivatedRoute).snapshot;
+	private readonly _id = this._route.paramMap.get('id');
+	/** The trainer whose card opened this page, so the picture matches the list. */
+	protected readonly trainer = ((value) => (value === 'female' || value === 'male' ? value : null))(
+		this._route.queryParamMap.get('trainer'),
+	);
 
 	protected readonly state = signal<'loading' | 'ready' | 'error'>('loading');
 	protected readonly exercise = computed(() => this._catalog.byId().get(this._id ?? '') ?? null);

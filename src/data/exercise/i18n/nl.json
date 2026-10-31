@@ -1,0 +1,1938 @@
+{
+	"bodyweight-squat": {
+		"name": "Sentadilla con peso corporal",
+		"description": "Sentadilla básica sin carga. Trabaja los cuádriceps y los glúteos y desarrolla el control del movimiento en rodillas y caderas.",
+		"steps": [
+			"Colócate de pie con los pies a la anchura de los hombros.",
+			"Lleva la cadera hacia atrás y flexiona las rodillas para bajar.",
+			"Baja hasta una profundidad cómoda, manteniendo la espalda recta.",
+			"Empuja con los pies y vuelve a la posición inicial."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Las rodillas se mueven en la dirección de las puntas de los pies.",
+			"No levantes los talones del suelo."
+		]
+	},
+	"split-squat": {
+		"name": "Sentadilla dividida",
+		"description": "Sentadilla en posición de zancada amplia. Trabaja los cuádriceps y los glúteos de cada pierna por separado y mejora el equilibrio.",
+		"steps": [
+			"Colócate en zancada amplia: una pierna delante y la otra detrás.",
+			"Baja en vertical flexionando ambas rodillas.",
+			"Sube empujando con la pierna delantera.",
+			"Haz todas las repeticiones y cambia de pierna."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Mantén el torso vertical.",
+			"El peso del cuerpo recae sobre todo en la pierna delantera."
+		]
+	},
+	"reverse-lunge": {
+		"name": "Zancada hacia atrás",
+		"description": "Zancada con paso hacia atrás. Trabaja los cuádriceps y los glúteos y desarrolla el equilibrio y la coordinación.",
+		"steps": [
+			"Colócate de pie, con los pies a la anchura de las caderas.",
+			"Da un paso hacia atrás y baja flexionando ambas rodillas.",
+			"Empuja con la pierna delantera y vuelve a la posición inicial.",
+			"Alterna las piernas o haz todas las repeticiones con el mismo lado."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Da el paso hacia atrás de forma controlada, sin impulso.",
+			"Mantén el torso recto."
+		]
+	},
+	"glute-bridge": {
+		"name": "Puente de glúteos",
+		"description": "Elevación de la cadera desde la posición tumbado boca arriba. Trabaja los glúteos y la parte posterior del muslo.",
+		"steps": [
+			"Túmbate boca arriba con las rodillas flexionadas y los pies en el suelo.",
+			"Aprieta los glúteos y eleva la cadera.",
+			"Mantén un segundo en la parte alta.",
+			"Baja la cadera al suelo despacio."
+		],
+		"warnings": [
+			"Detén el ejercicio si sientes dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"No arquees la zona lumbar en la parte alta.",
+			"Empuja el suelo con los talones."
+		]
+	},
+	"single-leg-glute-bridge": {
+		"name": "Puente de glúteos a una pierna",
+		"description": "Variante más difícil del puente de glúteos con apoyo en una sola pierna. Trabaja los glúteos y la parte posterior del muslo y mejora la estabilidad de la pelvis.",
+		"steps": [
+			"Túmbate boca arriba con las rodillas flexionadas y los pies en el suelo.",
+			"Estira una pierna y elévala por encima del suelo.",
+			"Eleva la cadera empujando con el talón de la pierna de apoyo.",
+			"Baja despacio; al terminar la serie, cambia de pierna."
+		],
+		"warnings": [
+			"Detén el ejercicio si sientes dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"Mantén la pelvis nivelada, sin inclinarla.",
+			"Muévete despacio y con control."
+		]
+	},
+	"knee-push-up": {
+		"name": "Flexiones con rodillas apoyadas",
+		"description": "Variante más fácil de las flexiones con apoyo en las rodillas. Trabaja los pectorales y los tríceps.",
+		"steps": [
+			"Colócate de rodillas, con las palmas en el suelo algo más separadas que los hombros.",
+			"Alinea el cuerpo desde las rodillas hasta la cabeza.",
+			"Flexiona los brazos y baja el pecho hacia el suelo.",
+			"Empuja y estira los brazos."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las muñecas o los hombros."
+		],
+		"techniqueNotes": [
+			"Los codos forman un ángulo de unos 45° con el torso.",
+			"No dejes caer la zona lumbar."
+		]
+	},
+	"push-up": {
+		"name": "Flexiones",
+		"description": "Flexiones clásicas desde el suelo. Trabajan los pectorales, los tríceps y los estabilizadores del core.",
+		"steps": [
+			"Colócate en posición de plancha con las palmas algo más separadas que los hombros.",
+			"Alinea el cuerpo desde los talones hasta la cabeza.",
+			"Flexiona los brazos y baja el pecho hacia el suelo.",
+			"Empuja y estira los brazos."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las muñecas o los hombros."
+		],
+		"techniqueNotes": [
+			"Mantén el abdomen y los glúteos apretados.",
+			"Los codos forman un ángulo de unos 45° con el torso."
+		]
+	},
+	"wall-push-up": {
+		"name": "Flexiones en la pared",
+		"description": "La variante más fácil de las flexiones, con apoyo en la pared. Trabaja los pectorales y los tríceps con una carga mínima.",
+		"steps": [
+			"Colócate frente a la pared, a la distancia de los brazos estirados.",
+			"Apoya las palmas en la pared a la altura de los hombros.",
+			"Flexiona los brazos y acerca el pecho a la pared.",
+			"Empuja y vuelve a la posición inicial."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en los hombros."
+		],
+		"techniqueNotes": [
+			"Mantén el cuerpo recto, como una tabla.",
+			"Cuanto más lejos de la pared estén los pies, más difícil es."
+		]
+	},
+	"pike-push-up": {
+		"name": "Flexiones en pica",
+		"description": "Flexiones con la cadera elevada que desplazan la carga a los hombros. Trabajan los deltoides y los tríceps.",
+		"steps": [
+			"Colócate en posición de plancha y eleva la cadera, formando una V invertida.",
+			"Flexiona los brazos y baja la cabeza hacia el suelo, entre las manos.",
+			"Empuja y estira los brazos.",
+			"Mantén la cadera alta durante toda la serie."
+		],
+		"warnings": [
+			"Baja despacio y no apoyes la cabeza en el suelo.",
+			"Detén el ejercicio si aparece dolor en los hombros, las muñecas o el cuello."
+		],
+		"techniqueNotes": [
+			"Los codos apuntan hacia atrás, no hacia los lados.",
+			"Mira al suelo, entre las manos."
+		]
+	},
+	"plank": {
+		"name": "Plancha",
+		"description": "Mantenimiento estático del cuerpo apoyado en los antebrazos. Trabaja los músculos del core y la estabilidad del tronco.",
+		"steps": [
+			"Colócate apoyado en los antebrazos, con los codos bajo los hombros.",
+			"Estira las piernas y alinea el cuerpo desde los talones hasta la cabeza.",
+			"Aprieta el abdomen y los glúteos.",
+			"Mantén la posición el tiempo indicado, respirando con regularidad."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en los hombros o la zona lumbar."
+		],
+		"techniqueNotes": [
+			"No subas ni bajes la cadera.",
+			"No contengas la respiración."
+		]
+	},
+	"side-plank": {
+		"name": "Plancha lateral",
+		"description": "Mantenimiento estático del cuerpo de lado, apoyado en el antebrazo. Trabaja los oblicuos y los estabilizadores del core.",
+		"steps": [
+			"Túmbate de lado, con el codo bajo el hombro.",
+			"Coloca los pies uno sobre otro o uno delante del otro.",
+			"Eleva la cadera y alinea el cuerpo en una línea recta.",
+			"Mantén la posición el tiempo indicado y después cambia de lado."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en el hombro."
+		],
+		"techniqueNotes": [
+			"No dejes caer la cadera.",
+			"Mantén el cuello alineado con el cuerpo."
+		]
+	},
+	"dead-bug": {
+		"name": "Bicho muerto",
+		"description": "Extensión alterna del brazo y la pierna contrarios tumbado boca arriba. Trabaja los músculos profundos del core y el control de la posición lumbar.",
+		"steps": [
+			"Túmbate boca arriba, con los brazos estirados hacia arriba y las piernas flexionadas en ángulo recto.",
+			"Baja despacio el brazo y la pierna contrarios hacia el suelo.",
+			"Vuelve a la posición inicial.",
+			"Repite con el otro brazo y la otra pierna."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Mantén la zona lumbar pegada al suelo.",
+			"Muévete despacio y suelta el aire al bajar."
+		]
+	},
+	"bird-dog": {
+		"name": "Pájaro-perro",
+		"description": "Extensión alterna del brazo y la pierna contrarios a cuatro apoyos. Trabaja el core, los glúteos y la coordinación.",
+		"steps": [
+			"Colócate a cuatro apoyos, con las manos bajo los hombros y las rodillas bajo las caderas.",
+			"Estira a la vez un brazo hacia delante y la pierna contraria hacia atrás.",
+			"Mantén un segundo.",
+			"Vuelve a la posición inicial y cambia de lado."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las muñecas."
+		],
+		"techniqueNotes": [
+			"Mantén la espalda recta, sin arquearla.",
+			"La cadera permanece paralela al suelo."
+		]
+	},
+	"superman": {
+		"name": "Superman",
+		"description": "Elevación simultánea de brazos y piernas tumbado boca abajo. Trabaja los músculos de la espalda y los glúteos.",
+		"steps": [
+			"Túmbate boca abajo, con los brazos estirados hacia delante.",
+			"Eleva a la vez un poco los brazos, el pecho y las piernas del suelo.",
+			"Mantén 1–2 segundos.",
+			"Baja despacio."
+		],
+		"warnings": [
+			"No te eleves de golpe ni demasiado alto.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"Mira hacia abajo, con el cuello alineado con la espalda.",
+			"Muévete con fluidez, sin tirones."
+		]
+	},
+	"wall-sit": {
+		"name": "Sentadilla isométrica en la pared",
+		"description": "Mantenimiento estático de la posición sentada con la espalda contra la pared. Trabaja los cuádriceps y la resistencia de las piernas.",
+		"steps": [
+			"Colócate de espaldas a la pared, con los pies a unos cincuenta centímetros de ella.",
+			"Desliza la espalda hacia abajo hasta que las rodillas queden flexionadas en un ángulo cómodo.",
+			"Mantén la posición el tiempo indicado.",
+			"Sube despacio."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Las rodillas quedan sobre los tobillos, sin pasar de las puntas de los pies.",
+			"La espalda está totalmente pegada a la pared."
+		]
+	},
+	"jumping-jacks": {
+		"name": "Jumping jacks",
+		"description": "Saltos abriendo y cerrando brazos y piernas a la vez. Desarrollan la resistencia cardiovascular y calientan todo el cuerpo.",
+		"steps": [
+			"Colócate de pie, con los pies juntos y los brazos a los lados del cuerpo.",
+			"Salta separando las piernas y eleva los brazos sobre la cabeza.",
+			"Salta para volver a la posición inicial.",
+			"Continúa a un ritmo constante durante el tiempo indicado."
+		],
+		"warnings": [
+			"Aterriza con suavidad sobre la parte delantera del pie.",
+			"Detén el ejercicio si aparece dolor en las rodillas o los tobillos."
+		],
+		"techniqueNotes": [
+			"Las rodillas ligeramente flexionadas al aterrizar.",
+			"Respira con regularidad."
+		]
+	},
+	"step-jacks": {
+		"name": "Jumping jacks sin impacto",
+		"description": "Variante sin impacto de los jumping jacks: paso lateral con los brazos elevados sobre la cabeza. Calienta el cuerpo y sube el pulso sin saltos.",
+		"steps": [
+			"Colócate de pie, con los pies juntos y los brazos a los lados del cuerpo.",
+			"Da un paso hacia un lado y eleva a la vez los brazos sobre la cabeza.",
+			"Junta el pie y baja los brazos.",
+			"Alterna los lados a un ritmo constante."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Mantén un ritmo que haga subir el pulso de forma moderada.",
+			"Pisa con suavidad."
+		]
+	},
+	"high-knees": {
+		"name": "Carrera con rodillas altas",
+		"description": "Carrera en el sitio elevando mucho las rodillas. Desarrolla la resistencia cardiovascular y la velocidad de las piernas.",
+		"steps": [
+			"Colócate de pie, con los pies a la anchura de las caderas.",
+			"Empieza a correr en el sitio, elevando las rodillas aproximadamente hasta la altura de las caderas.",
+			"Mueve los brazos al ritmo de las piernas.",
+			"Continúa el tiempo indicado."
+		],
+		"warnings": [
+			"Aterriza con suavidad sobre la parte delantera del pie.",
+			"Detén el ejercicio si aparece dolor en las rodillas o los tobillos."
+		],
+		"techniqueNotes": [
+			"Mantén el torso vertical.",
+			"No te inclines hacia atrás."
+		]
+	},
+	"march-in-place": {
+		"name": "Marcha en el sitio",
+		"description": "Caminata en el sitio con movimiento activo de los brazos. Ejercicio cardiovascular ligero y sin impacto para calentar y subir el pulso.",
+		"steps": [
+			"Colócate de pie, con los codos flexionados.",
+			"Eleva las rodillas alternativamente, marchando en el sitio.",
+			"Mueve los brazos al ritmo de los pasos.",
+			"Mantén un ritmo constante durante el tiempo indicado."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Mantén la espalda recta.",
+			"Para hacerlo más difícil, eleva más las rodillas o acelera el ritmo."
+		]
+	},
+	"mountain-climbers": {
+		"name": "Escaladores",
+		"description": "Acercamiento alterno de las rodillas al pecho en posición de plancha. Desarrolla la resistencia y trabaja los músculos del core.",
+		"steps": [
+			"Colócate en posición de plancha, con las manos bajo los hombros.",
+			"Lleva una rodilla hacia el pecho.",
+			"Devuelve la pierna atrás y lleva la otra rodilla.",
+			"Alterna las piernas a un ritmo rápido pero controlado."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las muñecas o los hombros."
+		],
+		"techniqueNotes": [
+			"No subas mucho la cadera.",
+			"Mantén los hombros sobre las manos."
+		]
+	},
+	"burpee": {
+		"name": "Burpee",
+		"description": "Ejercicio completo: sentadilla, plancha, regreso y salto hacia arriba. Desarrolla la resistencia general y exige a todo el cuerpo.",
+		"steps": [
+			"Ponte en cuclillas y apoya las palmas en el suelo.",
+			"Lleva las piernas hacia atrás hasta la posición de plancha.",
+			"Devuelve los pies hacia las manos y ponte de pie.",
+			"Haz un pequeño salto hacia arriba con los brazos sobre la cabeza."
+		],
+		"warnings": [
+			"Aterriza con suavidad y no arquees la zona lumbar en la plancha.",
+			"Detén el ejercicio si aparece dolor en las articulaciones o la espalda."
+		],
+		"techniqueNotes": [
+			"En la posición de plancha, mantén el cuerpo recto.",
+			"Prioriza el control sobre la velocidad máxima."
+		]
+	},
+	"squat-jump": {
+		"name": "Sentadilla con salto",
+		"description": "Sentadilla con un salto explosivo hacia arriba. Desarrolla la fuerza de las piernas y la explosividad.",
+		"steps": [
+			"Colócate de pie, con los pies a la anchura de los hombros.",
+			"Baja a una profundidad cómoda.",
+			"Salta hacia arriba de forma explosiva.",
+			"Aterriza con suavidad y pasa de inmediato a la sentadilla."
+		],
+		"warnings": [
+			"Aterriza con suavidad sobre las piernas flexionadas.",
+			"Detén el ejercicio si aparece dolor en las rodillas o los tobillos."
+		],
+		"techniqueNotes": [
+			"Las rodillas se mueven en la dirección de las puntas de los pies.",
+			"El aterrizaje es silencioso y controlado."
+		]
+	},
+	"cat-cow": {
+		"name": "Gato-vaca",
+		"description": "Redondeo y arqueo alternos y fluidos de la espalda a cuatro apoyos. Mejora la movilidad de la columna.",
+		"steps": [
+			"Colócate a cuatro apoyos, con las manos bajo los hombros.",
+			"Al inspirar, arquea la espalda y levanta la mirada.",
+			"Al espirar, redondea la espalda y baja la cabeza.",
+			"Repite con fluidez al ritmo de la respiración."
+		],
+		"warnings": [
+			"Muévete en un rango cómodo y detente si aparece dolor."
+		],
+		"techniqueNotes": [
+			"El movimiento va de la pelvis a la cabeza.",
+			"No tengas prisa."
+		]
+	},
+	"kneeling-hip-flexor-stretch": {
+		"name": "Estiramiento de flexores de cadera de rodillas",
+		"description": "Estiramiento de la parte delantera del muslo en posición de zancada con una rodilla en el suelo. Mejora la movilidad de la articulación de la cadera.",
+		"steps": [
+			"Apoya una rodilla en el suelo, con la otra pierna delante flexionada en ángulo recto.",
+			"Aprieta el glúteo de la pierna que está apoyada en el suelo.",
+			"Lleva la cadera hacia delante con suavidad hasta notar el estiramiento.",
+			"Mantén la posición el tiempo indicado y cambia de pierna."
+		],
+		"warnings": [
+			"Pon algo blando bajo la rodilla; detente si aparece dolor."
+		],
+		"techniqueNotes": [
+			"No arquees la zona lumbar.",
+			"El estiramiento debe ser moderado, sin dolor."
+		]
+	},
+	"arm-circles": {
+		"name": "Círculos con los brazos",
+		"description": "Rotaciones circulares con los brazos estirados. Calientan las articulaciones de los hombros y mejoran su movilidad.",
+		"steps": [
+			"Colócate de pie y abre los brazos hacia los lados.",
+			"Haz pequeños círculos con los brazos hacia delante.",
+			"Aumenta poco a poco la amplitud.",
+			"A la mitad del tiempo, cambia el sentido."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en los hombros."
+		],
+		"techniqueNotes": [
+			"Los hombros bajos, sin acercarlos a las orejas.",
+			"Muévete con fluidez."
+		]
+	},
+	"open-book-rotation": {
+		"name": "Rotación «libro abierto»",
+		"description": "Giro de la columna dorsal tumbado de lado. Mejora la movilidad de la zona dorsal y de los hombros.",
+		"steps": [
+			"Túmbate de lado, con las rodillas flexionadas y los brazos estirados delante.",
+			"Lleva el brazo de arriba en arco hacia el lado contrario, girando el pecho.",
+			"Sigue la mano con la mirada.",
+			"Devuelve el brazo; al terminar la serie, cambia de lado."
+		],
+		"warnings": [
+			"Muévete en un rango cómodo y detente si aparece dolor."
+		],
+		"techniqueNotes": [
+			"Las rodillas permanecen juntas en el suelo.",
+			"Respira con calma."
+		]
+	},
+	"goblet-squat": {
+		"name": "Sentadilla goblet",
+		"description": "Sentadilla con una mancuerna o una pesa rusa junto al pecho. Trabaja los cuádriceps y los glúteos y ayuda a mantener el torso vertical.",
+		"steps": [
+			"Sujeta la mancuerna o la pesa rusa en vertical junto al pecho.",
+			"Colócate de pie, con los pies algo más separados que los hombros.",
+			"Baja en sentadilla, manteniendo el pecho alto.",
+			"Sube empujando con los pies."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las rodillas o la espalda."
+		],
+		"techniqueNotes": [
+			"Los codos se mueven entre las rodillas.",
+			"La espalda se mantiene recta durante todo el movimiento."
+		]
+	},
+	"dumbbell-romanian-deadlift": {
+		"name": "Peso muerto rumano con mancuernas",
+		"description": "Inclinación hacia delante con mancuernas moviendo las caderas. Trabaja la parte posterior del muslo y los glúteos.",
+		"steps": [
+			"Colócate de pie con las mancuernas delante de los muslos.",
+			"Flexiona ligeramente las rodillas y lleva la cadera hacia atrás.",
+			"Baja las mancuernas a lo largo de las piernas hasta notar el estiramiento en la parte posterior del muslo.",
+			"Sube llevando la cadera hacia delante."
+		],
+		"warnings": [
+			"No redondees la espalda; elige un peso con el que mantengas la técnica.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"Espalda recta y mancuernas cerca de las piernas.",
+			"El movimiento parte de la cadera, no de la espalda."
+		]
+	},
+	"one-arm-dumbbell-row": {
+		"name": "Remo con mancuerna a una mano",
+		"description": "Remo con mancuerna hacia la cintura, inclinado y con apoyo de una mano. Trabaja los músculos de la espalda y los bíceps.",
+		"steps": [
+			"Inclínate hacia delante, apoyando la mano libre en el muslo o en un soporte estable.",
+			"Toma la mancuerna con el brazo estirado bajo el hombro.",
+			"Lleva la mancuerna hacia la cintura, llevando el codo hacia atrás.",
+			"Baja despacio; al terminar la serie, cambia de brazo."
+		],
+		"warnings": [
+			"Mantén la espalda recta; detente si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"No gires el torso durante el remo.",
+			"Lleva la escápula hacia la columna."
+		]
+	},
+	"dumbbell-floor-press": {
+		"name": "Press de mancuernas en el suelo",
+		"description": "Press de mancuernas hacia arriba tumbado en el suelo, con recorrido limitado. Trabaja los pectorales y los tríceps.",
+		"steps": [
+			"Túmbate boca arriba, con las rodillas flexionadas y las mancuernas junto al pecho.",
+			"Empuja las mancuernas hacia arriba, sobre el pecho.",
+			"Baja despacio hasta que los hombros toquen el suelo.",
+			"Repite el press."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en los hombros."
+		],
+		"techniqueNotes": [
+			"Los codos forman un ángulo de unos 45° con el torso.",
+			"Baja las mancuernas con control, sin golpear el suelo."
+		]
+	},
+	"dumbbell-bench-press": {
+		"name": "Press de banca con mancuernas",
+		"description": "Press de mancuernas hacia arriba tumbado en un banco horizontal. Trabaja los pectorales y los tríceps.",
+		"steps": [
+			"Túmbate en el banco, con los pies en el suelo y las mancuernas junto al pecho.",
+			"Empuja las mancuernas hacia arriba, sobre el pecho.",
+			"Bájalas despacio hasta la altura del pecho.",
+			"Repite el press."
+		],
+		"warnings": [
+			"Elige un peso que puedas bajar con control.",
+			"Detén el ejercicio si aparece dolor en los hombros."
+		],
+		"techniqueNotes": [
+			"Las escápulas juntas y pegadas al banco.",
+			"No rebotes las mancuernas en el pecho."
+		]
+	},
+	"incline-dumbbell-press": {
+		"name": "Press inclinado con mancuernas",
+		"description": "Press de mancuernas tumbado en un banco con el respaldo elevado. Trabaja la parte superior de los pectorales y los deltoides anteriores.",
+		"steps": [
+			"Ajusta el respaldo del banco a una inclinación moderada.",
+			"Siéntate en el banco con la espalda pegada y las mancuernas junto al pecho.",
+			"Empuja las mancuernas hacia arriba, sobre la parte superior del pecho.",
+			"Baja despacio y repite."
+		],
+		"warnings": [
+			"Comprueba que el respaldo del banco esté bien fijado.",
+			"Detén el ejercicio si aparece dolor en los hombros."
+		],
+		"techniqueNotes": [
+			"Las escápulas juntas y pegadas al banco.",
+			"Muévete con control en todo el recorrido."
+		]
+	},
+	"dumbbell-shoulder-press": {
+		"name": "Press de hombros con mancuernas",
+		"description": "Press de mancuernas hacia arriba de pie. Trabaja los deltoides y los tríceps.",
+		"steps": [
+			"Colócate de pie, con las mancuernas a la altura de los hombros.",
+			"Aprieta el abdomen y los glúteos.",
+			"Empuja las mancuernas hacia arriba, sobre la cabeza.",
+			"Baja despacio hasta la altura de los hombros."
+		],
+		"warnings": [
+			"No arquees la zona lumbar durante el press.",
+			"Detén el ejercicio si aparece dolor en los hombros, el cuello o la espalda."
+		],
+		"techniqueNotes": [
+			"Las costillas bajas y el torso estable.",
+			"No eches la cabeza hacia atrás."
+		]
+	},
+	"dumbbell-reverse-lunge": {
+		"name": "Zancada hacia atrás con mancuernas",
+		"description": "Zancada con paso hacia atrás con mancuernas en las manos. Trabaja los cuádriceps y los glúteos con carga adicional.",
+		"steps": [
+			"Colócate de pie con las mancuernas en los brazos estirados hacia abajo.",
+			"Da un paso hacia atrás y baja flexionando ambas rodillas.",
+			"Empuja con la pierna delantera y vuelve a la posición inicial.",
+			"Alterna las piernas o haz todas las repeticiones con el mismo lado."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Mantén el torso vertical.",
+			"Los hombros bajos y las mancuernas sin balancearse."
+		]
+	},
+	"farmer-carry": {
+		"name": "Paseo del granjero",
+		"description": "Caminata con mancuernas o pesas rusas en los brazos estirados hacia abajo. Trabaja los músculos del core, el agarre y la estabilidad general.",
+		"steps": [
+			"Toma las mancuernas o las pesas rusas, una en cada mano.",
+			"Ponte recto, con los hombros bajos y hacia atrás.",
+			"Camina con pasos cortos y regulares durante el tiempo indicado.",
+			"Deja el peso en el suelo con cuidado."
+		],
+		"warnings": [
+			"Levanta y deja el peso con la espalda recta.",
+			"Detén el ejercicio si aparece dolor en la espalda o las muñecas."
+		],
+		"techniqueNotes": [
+			"No te inclines hacia el lado del peso.",
+			"Mantén el abdomen apretado."
+		]
+	},
+	"kettlebell-swing": {
+		"name": "Balanceo con pesa rusa",
+		"description": "Balanceo dinámico de la pesa rusa moviendo las caderas. Desarrolla la potencia de los glúteos y de la parte posterior del muslo, y la resistencia.",
+		"steps": [
+			"Colócate de pie, con los pies algo más separados que los hombros y la pesa rusa delante.",
+			"Inclínate con la espalda recta y lleva la pesa hacia atrás, entre las piernas.",
+			"Lleva la cadera hacia delante con fuerza para que la pesa suba hasta la altura del pecho.",
+			"Deja que la pesa baje y repite el movimiento."
+		],
+		"warnings": [
+			"Asegúrate de que no haya personas ni objetos alrededor.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"El movimiento parte de la cadera; los brazos solo sujetan la pesa.",
+			"Espalda recta en el punto más bajo."
+		]
+	},
+	"kettlebell-deadlift": {
+		"name": "Peso muerto con pesa rusa",
+		"description": "Levantamiento de la pesa rusa desde el suelo moviendo las caderas. Trabaja los glúteos y la parte posterior del muslo y enseña a levantar peso correctamente.",
+		"steps": [
+			"Colócate de pie sobre la pesa rusa, con los pies a la anchura de las caderas.",
+			"Lleva la cadera hacia atrás, flexiona las rodillas y agarra el asa de la pesa.",
+			"Ponte recto llevando la cadera hacia delante.",
+			"Baja la pesa al suelo con el mismo movimiento."
+		],
+		"warnings": [
+			"No redondees la espalda al levantar.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"Espalda recta y mirada al frente.",
+			"La pesa se mueve cerca del cuerpo."
+		]
+	},
+	"band-pull-apart": {
+		"name": "Apertura con banda elástica",
+		"description": "Estiramiento de una banda elástica con los brazos rectos delante del pecho. Trabaja los músculos de la parte superior de la espalda y los deltoides posteriores.",
+		"steps": [
+			"Sujeta la banda con ambas manos a la anchura de los hombros, delante del pecho.",
+			"Abre los brazos hacia los lados, estirando la banda.",
+			"Junta las escápulas en el punto final.",
+			"Devuelve los brazos despacio a la posición inicial."
+		],
+		"warnings": [
+			"Antes del ejercicio, comprueba que la banda no esté dañada."
+		],
+		"techniqueNotes": [
+			"Los hombros bajos, sin subirlos hacia las orejas.",
+			"Los brazos casi rectos durante todo el movimiento."
+		]
+	},
+	"band-row": {
+		"name": "Remo con banda elástica",
+		"description": "Remo con una banda elástica anclada, llevándola hacia la cintura. Trabaja los músculos de la espalda y los bíceps.",
+		"steps": [
+			"Ancla la banda a la altura de la cintura en un punto de apoyo seguro.",
+			"Agarra los extremos y retrocede hasta que la banda se tense.",
+			"Lleva las manos hacia la cintura, llevando los codos hacia atrás.",
+			"Devuelve las manos hacia delante despacio."
+		],
+		"warnings": [
+			"Comprueba que el anclaje sea seguro y que la banda no esté dañada."
+		],
+		"techniqueNotes": [
+			"Junta las escápulas en el punto final.",
+			"El torso se mantiene quieto, sin inclinarte hacia atrás."
+		]
+	},
+	"band-lat-pulldown": {
+		"name": "Jalón con banda elástica",
+		"description": "Jalón hacia el pecho de una banda elástica anclada en la parte alta. Trabaja los dorsales y los bíceps.",
+		"steps": [
+			"Ancla la banda por encima de la cabeza en un punto de apoyo seguro.",
+			"Agarra los extremos con los brazos estirados hacia arriba.",
+			"Lleva los codos hacia abajo, hacia los costados, acercando las manos al pecho.",
+			"Devuelve las manos hacia arriba despacio."
+		],
+		"warnings": [
+			"Comprueba que el anclaje superior sea seguro y que la banda no esté dañada.",
+			"Detén el ejercicio si aparece dolor en los hombros."
+		],
+		"techniqueNotes": [
+			"Baja las escápulas antes de tirar.",
+			"No balancees el torso."
+		]
+	},
+	"pull-up": {
+		"name": "Dominadas",
+		"description": "Elevación del cuerpo en una barra hasta la altura de la barbilla. Trabaja los músculos de la espalda y los bíceps.",
+		"steps": [
+			"Agarra la barra con las manos algo más separadas que los hombros.",
+			"Cuélgate con los brazos estirados y las escápulas bajas.",
+			"Tira hacia arriba hasta que la barbilla quede sobre la barra.",
+			"Baja despacio hasta tener los brazos estirados."
+		],
+		"warnings": [
+			"Usa solo una barra bien instalada.",
+			"Detén el ejercicio si aparece dolor en los hombros o las muñecas."
+		],
+		"techniqueNotes": [
+			"No te balancees ni des tirones.",
+			"Baja con control."
+		]
+	},
+	"dead-hang": {
+		"name": "Suspensión en barra",
+		"description": "Suspensión estática en la barra con los brazos estirados. Fortalece el agarre y los músculos de la cintura escapular.",
+		"steps": [
+			"Agarra la barra con las manos a la anchura de los hombros.",
+			"Cuélgate con cuidado, con los brazos estirados.",
+			"Mantén la posición el tiempo indicado, respirando con regularidad.",
+			"Baja al suelo con cuidado."
+		],
+		"warnings": [
+			"Usa solo una barra bien instalada.",
+			"Detén el ejercicio si aparece dolor en los hombros o las muñecas."
+		],
+		"techniqueNotes": [
+			"Activa ligeramente los hombros, sin colgar de forma pasiva.",
+			"No te balancees."
+		]
+	},
+	"hanging-knee-raise": {
+		"name": "Elevación de rodillas en suspensión",
+		"description": "Elevación de las rodillas hacia el pecho colgado de una barra. Trabaja los abdominales y el agarre.",
+		"steps": [
+			"Cuélgate de la barra con los brazos estirados.",
+			"Aprieta el abdomen y lleva las rodillas hacia el pecho.",
+			"Mantén un segundo.",
+			"Baja las piernas despacio, sin balancearte."
+		],
+		"warnings": [
+			"Usa solo una barra bien instalada.",
+			"Detén el ejercicio si aparece dolor en los hombros o la zona lumbar."
+		],
+		"techniqueNotes": [
+			"Muévete sin tirones ni balanceos.",
+			"Redondea ligeramente la pelvis en la parte alta."
+		]
+	},
+	"jump-rope": {
+		"name": "Saltos a la comba",
+		"description": "Saltos rítmicos sobre una comba. Desarrollan la resistencia cardiovascular, la coordinación y la fuerza de los gemelos.",
+		"steps": [
+			"Toma las asas de la comba, con la cuerda detrás de los talones.",
+			"Haz girar la comba con las muñecas.",
+			"Da saltos bajos cuando la cuerda pase bajo los pies.",
+			"Mantén un ritmo constante durante el tiempo indicado."
+		],
+		"warnings": [
+			"Salta poco y aterriza con suavidad sobre la parte delantera del pie.",
+			"Detén el ejercicio si aparece dolor en las rodillas o los tobillos."
+		],
+		"techniqueNotes": [
+			"Los codos cerca del cuerpo.",
+			"Las rodillas ligeramente flexionadas."
+		]
+	},
+	"step-up": {
+		"name": "Subida al cajón",
+		"description": "Subida a una plataforma estable alternando las piernas. Trabaja los cuádriceps y los glúteos.",
+		"steps": [
+			"Colócate frente a la plataforma.",
+			"Apoya todo el pie de una pierna sobre ella.",
+			"Sube empujando con la pierna que está sobre la plataforma.",
+			"Baja despacio y repite; al terminar la serie, cambia de pierna."
+		],
+		"warnings": [
+			"Asegúrate de que la plataforma sea estable y no resbale.",
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"No te impulses con la pierna de abajo.",
+			"La rodilla se mueve en la dirección de la punta del pie."
+		]
+	},
+	"barbell-back-squat": {
+		"name": "Sentadilla con barra",
+		"description": "Sentadilla con la barra sobre la parte superior de la espalda. Desarrolla la fuerza de los cuádriceps, los glúteos y todo el cuerpo.",
+		"steps": [
+			"Coloca la barra sobre la parte superior de la espalda y sácala del rack.",
+			"Da un paso atrás, con los pies a la anchura de los hombros o algo más.",
+			"Baja en sentadilla hasta una profundidad cómoda, manteniendo la espalda recta.",
+			"Sube y, al terminar la serie, devuelve la barra al rack."
+		],
+		"warnings": [
+			"Coloca los topes de seguridad del rack y trabaja con un peso que controles.",
+			"Detén el ejercicio si aparece dolor en las rodillas, la espalda o los hombros."
+		],
+		"techniqueNotes": [
+			"Activa el core antes de cada repetición.",
+			"Las rodillas se mueven en la dirección de las puntas de los pies."
+		]
+	},
+	"barbell-deadlift": {
+		"name": "Peso muerto con barra",
+		"description": "Levantamiento de la barra desde el suelo hasta la posición de pie. Desarrolla la fuerza de la parte posterior del muslo, los glúteos y la espalda.",
+		"steps": [
+			"Colócate de modo que la barra quede sobre la mitad del pie.",
+			"Lleva la cadera hacia atrás, flexiona las rodillas y agarra la barra.",
+			"Ponte recto, manteniendo la barra cerca de las piernas.",
+			"Baja la barra al suelo con el mismo movimiento."
+		],
+		"warnings": [
+			"No redondees la espalda; trabaja con un peso que controles.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"Espalda recta y core activado.",
+			"Empuja el suelo con las piernas, no tires con la espalda."
+		]
+	},
+	"cardio-machine-intervals": {
+		"name": "Intervalos en máquina de cardio",
+		"description": "Trabajo por intervalos en bicicleta estática, elíptica u otra máquina de cardio. Desarrolla la resistencia cardiovascular.",
+		"steps": [
+			"Calienta unos minutos a un ritmo suave.",
+			"Sube el ritmo o la resistencia durante el tiempo del intervalo.",
+			"Durante el descanso, sigue moviéndote a un ritmo suave.",
+			"Repite el intervalo el número de veces indicado."
+		],
+		"warnings": [
+			"Lee las instrucciones de la máquina antes de usarla.",
+			"Baja el ritmo o detente si aparece mareo o dolor."
+		],
+		"techniqueNotes": [
+			"La intensidad debe notarse, pero ser controlable.",
+			"Mantén una postura recta."
+		]
+	},
+	"jump-rope-boxer-step": {
+		"name": "Paso de boxeador con comba",
+		"description": "Saltos bajos con la comba, pasando el peso de una pierna a otra. Es más sencillo que los saltos con los dos pies.",
+		"steps": [
+			"Toma las asas de la comba, con la cuerda detrás de los talones.",
+			"Haz girar la comba con las muñecas.",
+			"Pasa el peso de una pierna a la otra con ligereza, como si caminaras en el sitio.",
+			"Mantén un ritmo constante durante el tiempo indicado."
+		],
+		"warnings": [
+			"Salta poco y aterriza con suavidad sobre la parte delantera del pie.",
+			"Detén el ejercicio si aparece dolor en los tobillos."
+		],
+		"techniqueNotes": [
+			"El salto es de solo unos centímetros sobre el suelo.",
+			"Los codos cerca del cuerpo."
+		]
+	},
+	"jump-rope-side-to-side": {
+		"name": "Saltos a la comba de lado a lado",
+		"description": "Saltos con los dos pies con un pequeño desplazamiento a izquierda y derecha. Añaden carga a los gemelos y entrenan la coordinación.",
+		"steps": [
+			"Toma las asas de la comba, con los pies juntos.",
+			"Salta sobre la cuerda desplazándote un poco hacia la izquierda.",
+			"En el siguiente salto, desplázate hacia la derecha.",
+			"Mantén el ritmo y aterriza con suavidad."
+		],
+		"warnings": [
+			"Asegúrate de tener espacio suficiente y de que la superficie no resbale.",
+			"Detén el ejercicio si aparece dolor en las rodillas o los tobillos."
+		],
+		"techniqueNotes": [
+			"El desplazamiento es pequeño, no más ancho que los pies.",
+			"Las rodillas ligeramente flexionadas."
+		]
+	},
+	"jump-rope-high-knees": {
+		"name": "Carrera con comba",
+		"description": "Carrera en el sitio saltando la comba y elevando las rodillas. Ejercicio cardiovascular intenso para la resistencia.",
+		"steps": [
+			"Toma las asas de la comba, con la cuerda detrás de los talones.",
+			"Corre en el sitio, pasando la cuerda bajo el pie en cada paso.",
+			"Eleva las rodillas hasta la altura de las caderas.",
+			"Mantén el ritmo durante el tiempo indicado."
+		],
+		"warnings": [
+			"Hazlo solo después de calentar.",
+			"Detén el ejercicio si aparece dolor en las rodillas, las caderas o los tobillos."
+		],
+		"techniqueNotes": [
+			"Torso recto, sin inclinarte hacia atrás.",
+			"Aterrizaje suave, sobre la parte delantera del pie."
+		]
+	},
+	"lateral-step-up": {
+		"name": "Subida lateral al cajón",
+		"description": "Subida a una plataforma de lado. Carga los glúteos y los músculos del muslo desde un ángulo distinto al de la subida normal.",
+		"steps": [
+			"Colócate de lado junto a la plataforma, con el pie más cercano sobre ella.",
+			"Estira la pierna para subir a la plataforma.",
+			"Baja de nuevo con control.",
+			"Termina las series con una pierna y luego cambia de pierna."
+		],
+		"warnings": [
+			"Asegúrate de que la plataforma sea estable y no resbale.",
+			"Detén el ejercicio si aparece dolor en las rodillas o las caderas."
+		],
+		"techniqueNotes": [
+			"Trabaja la pierna de apoyo; la otra solo toca.",
+			"La rodilla no se desplaza hacia dentro."
+		]
+	},
+	"step-platform-push-up": {
+		"name": "Flexiones con manos en plataforma",
+		"description": "Flexiones con las manos sobre una plataforma. Versión más fácil de las flexiones clásicas para principiantes.",
+		"steps": [
+			"Coloca las manos sobre la plataforma algo más separadas que los hombros, con el cuerpo en línea recta.",
+			"Flexiona los codos, bajando el pecho hacia la plataforma.",
+			"Empuja y estira los brazos.",
+			"Mantén el torso firme."
+		],
+		"warnings": [
+			"La plataforma debe estar estable, mejor sobre una superficie antideslizante.",
+			"Detén el ejercicio si aparece dolor en las muñecas o los hombros."
+		],
+		"techniqueNotes": [
+			"No arquees la zona lumbar.",
+			"Los codos forman un ángulo de unos 45° con el tronco."
+		]
+	},
+	"step-platform-calf-raise": {
+		"name": "Elevación de talones en plataforma",
+		"description": "Elevaciones de talones desde el borde de una plataforma para lograr más recorrido. Fortalece los gemelos.",
+		"steps": [
+			"Colócate en el borde de la plataforma con la parte delantera de los pies y los talones en el aire.",
+			"Baja despacio los talones por debajo del nivel de la plataforma.",
+			"Sube lo más alto posible sobre las puntas de los pies.",
+			"Repite sin tirones."
+		],
+		"warnings": [
+			"Agárrate a la pared o a un soporte para mantener el equilibrio.",
+			"Detén el ejercicio si aparece dolor en los tobillos o el tendón de Aquiles."
+		],
+		"techniqueNotes": [
+			"Movimiento lento: 2 segundos hacia arriba y 2 hacia abajo.",
+			"Las rodillas casi rectas."
+		]
+	},
+	"step-platform-reverse-lunge": {
+		"name": "Zancada hacia atrás desde plataforma",
+		"description": "Paso hacia atrás desde la plataforma hasta una zancada. Mayor recorrido para los glúteos y los muslos.",
+		"steps": [
+			"Colócate sobre la plataforma, con los pies a la anchura de las caderas.",
+			"Da un paso atrás con una pierna hasta el suelo.",
+			"Baja en zancada; la pierna delantera permanece sobre la plataforma.",
+			"Vuelve a la posición inicial y cambia de pierna."
+		],
+		"warnings": [
+			"Asegúrate de que la plataforma sea estable y no resbale.",
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Torso vertical.",
+			"El talón delantero pegado a la plataforma."
+		]
+	},
+	"step-platform-taps": {
+		"name": "Toques en la plataforma",
+		"description": "Toques rápidos y alternos sobre la plataforma con los pies. Ejercicio cardiovascular ligero para calentar y mejorar la resistencia.",
+		"steps": [
+			"Colócate frente a la plataforma.",
+			"Toca la plataforma con el pie derecho y después con el izquierdo.",
+			"Muévete rápido y con ligereza, sin pisar con todo el pie.",
+			"Mantén el ritmo durante el tiempo indicado."
+		],
+		"warnings": [
+			"La plataforma debe estar estable.",
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Espalda recta, con los brazos moviéndose al ritmo.",
+			"Movimientos ligeros, sin golpes."
+		]
+	},
+	"bench-dip": {
+		"name": "Fondos en banco",
+		"description": "Fondos para tríceps con las manos apoyadas en un banco detrás de la espalda.",
+		"steps": [
+			"Siéntate en el borde del banco, con las manos junto a los muslos.",
+			"Desplázate hacia delante, sujetándote al banco con las manos.",
+			"Flexiona los codos hasta unos 90°.",
+			"Estira los brazos y vuelve arriba."
+		],
+		"warnings": [
+			"No bajes demasiado si sientes molestias en los hombros.",
+			"El banco debe estar estable.",
+			"Detén el ejercicio si aparece dolor en los hombros o las muñecas."
+		],
+		"techniqueNotes": [
+			"Los codos apuntan hacia atrás, no hacia los lados.",
+			"No subas los hombros hacia las orejas."
+		]
+	},
+	"bulgarian-split-squat": {
+		"name": "Sentadilla búlgara",
+		"description": "Sentadilla a una pierna con la pierna trasera apoyada en un banco. Carga mucho los glúteos y los muslos.",
+		"steps": [
+			"Colócate de espaldas al banco y apoya el empeine de un pie en él.",
+			"Baja flexionando la pierna delantera.",
+			"Sube empujando con el talón de la pierna delantera.",
+			"Haz todas las repeticiones y después cambia de pierna."
+		],
+		"warnings": [
+			"El banco debe ser estable; ajusta la distancia para que la rodilla no pase de la punta del pie.",
+			"Detén el ejercicio si aparece dolor en las rodillas o las caderas."
+		],
+		"techniqueNotes": [
+			"El torso ligeramente inclinado hacia delante.",
+			"El peso recae sobre todo en la pierna delantera."
+		]
+	},
+	"bench-hip-thrust": {
+		"name": "Puente de glúteos en banco",
+		"description": "Elevación de la cadera con las escápulas apoyadas en un banco. Es el ejercicio principal para los glúteos.",
+		"steps": [
+			"Siéntate en el suelo de espaldas al banco, con las escápulas en el borde.",
+			"Flexiona las rodillas, con los pies en el suelo.",
+			"Eleva la cadera hasta que el tronco y los muslos queden en una misma línea.",
+			"Mantén un instante y baja."
+		],
+		"warnings": [
+			"El banco debe estar inmóvil, mejor junto a una pared.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"La barbilla ligeramente pegada al pecho.",
+			"No arquees la zona lumbar arriba."
+		]
+	},
+	"chest-supported-dumbbell-row": {
+		"name": "Remo con mancuernas apoyado en banco",
+		"description": "Remo con mancuernas tumbado con el pecho sobre un banco inclinado. Descarga la zona lumbar y concentra el trabajo en la espalda.",
+		"steps": [
+			"Túmbate con el pecho sobre el banco, con una mancuerna en cada mano.",
+			"Lleva las mancuernas hacia los costados del tronco, juntando las escápulas.",
+			"Mantén un instante.",
+			"Baja las mancuernas con control."
+		],
+		"warnings": [
+			"El banco debe estar estable.",
+			"Detén el ejercicio si aparece dolor en los hombros."
+		],
+		"techniqueNotes": [
+			"La cabeza prolonga la línea de la columna.",
+			"No balancees el torso."
+		]
+	},
+	"kettlebell-single-arm-row": {
+		"name": "Remo con pesa rusa a una mano",
+		"description": "Remo con pesa rusa inclinado, con apoyo de la mano libre. Fortalece la espalda y el bíceps.",
+		"steps": [
+			"Inclínate hacia delante con la espalda recta y apoya la mano libre en el muslo.",
+			"Toma la pesa rusa con la otra mano.",
+			"Lleva la pesa hacia la cintura, juntando la escápula.",
+			"Baja la pesa despacio."
+		],
+		"warnings": [
+			"Mantén la espalda recta.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"El codo se mueve a lo largo del tronco.",
+			"La mirada dirigida al suelo."
+		]
+	},
+	"kettlebell-overhead-press": {
+		"name": "Press de hombros con pesa rusa",
+		"description": "Press de pie con una pesa rusa y un solo brazo. Fortalece los hombros, el tríceps y el core.",
+		"steps": [
+			"Lleva la pesa rusa al hombro, con el codo pegado al torso.",
+			"Aprieta el abdomen y los glúteos.",
+			"Estira el brazo hacia arriba, sobre la cabeza.",
+			"Devuelve la pesa al hombro despacio."
+		],
+		"warnings": [
+			"Asegúrate de tener espacio suficiente por encima de ti.",
+			"Detén el ejercicio si aparece dolor en los hombros, el cuello o la zona lumbar."
+		],
+		"techniqueNotes": [
+			"No arquees la zona lumbar.",
+			"La muñeca recta, con la pesa apoyada en el antebrazo."
+		]
+	},
+	"kettlebell-halo": {
+		"name": "Halo con pesa rusa",
+		"description": "Movimientos circulares de la pesa rusa alrededor de la cabeza. Calienta los hombros y trabaja la estabilidad del core.",
+		"steps": [
+			"Colócate de pie, sujetando la pesa rusa boca abajo junto al pecho.",
+			"Pasa la pesa alrededor de la cabeza en un sentido.",
+			"Devuélvela al pecho.",
+			"Repite en el otro sentido."
+		],
+		"warnings": [
+			"Usa una pesa rusa ligera.",
+			"Sujeta la pesa con firmeza para no golpearte.",
+			"Detén el ejercicio si aparece dolor en los hombros o el cuello."
+		],
+		"techniqueNotes": [
+			"El torso permanece quieto; solo trabajan los brazos.",
+			"Los codos cerca de la cabeza."
+		]
+	},
+	"kettlebell-sumo-deadlift": {
+		"name": "Peso muerto sumo con pesa rusa",
+		"description": "Peso muerto con la pesa rusa y los pies muy separados. Carga los glúteos y la cara interna de los muslos.",
+		"steps": [
+			"Colócate con los pies muy separados y las puntas hacia fuera, con la pesa entre los pies.",
+			"Lleva la cadera hacia atrás y agarra la pesa.",
+			"Ponte recto empujando el suelo con las piernas.",
+			"Baja la pesa despacio."
+		],
+		"warnings": [
+			"No redondees la espalda.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar o las caderas."
+		],
+		"techniqueNotes": [
+			"Las rodillas se mueven en la dirección de las puntas de los pies.",
+			"Espalda recta durante todo el movimiento."
+		]
+	},
+	"kettlebell-reverse-lunge": {
+		"name": "Zancada hacia atrás con pesa rusa",
+		"description": "Zancada hacia atrás con la pesa rusa junto al pecho. Añade carga a las piernas y los glúteos.",
+		"steps": [
+			"Sujeta la pesa rusa junto al pecho con ambas manos.",
+			"Da un paso hacia atrás y baja a la zancada.",
+			"Empuja con la pierna delantera y vuelve.",
+			"Cambia de pierna."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Torso vertical.",
+			"El talón delantero pegado al suelo."
+		]
+	},
+	"band-squat": {
+		"name": "Sentadilla con banda elástica",
+		"description": "Sentadilla con la banda bajo los pies. La banda añade resistencia al subir.",
+		"steps": [
+			"Colócate de pie sobre el centro de la banda y sujeta los extremos a la altura de los hombros.",
+			"Baja en sentadilla llevando la cadera hacia atrás.",
+			"Sube estirando las piernas.",
+			"No sueltes la banda de golpe."
+		],
+		"warnings": [
+			"Comprueba que la banda no esté dañada.",
+			"Detén el ejercicio si aparece dolor en las rodillas."
+		],
+		"techniqueNotes": [
+			"Las rodillas en la dirección de las puntas de los pies.",
+			"Espalda recta."
+		]
+	},
+	"band-chest-press": {
+		"name": "Press de pecho con banda elástica",
+		"description": "Press de la banda hacia delante, de pie. Trabaja el pecho y el tríceps sin mancuernas.",
+		"steps": [
+			"Pasa la banda por la espalda, por debajo de las escápulas, con los extremos en las manos.",
+			"Flexiona los codos, con las manos a la altura del pecho.",
+			"Estira los brazos hacia delante.",
+			"Vuelve despacio."
+		],
+		"warnings": [
+			"Comprueba que la banda no esté dañada y que esté bien colocada en la espalda.",
+			"Detén el ejercicio si aparece dolor en los hombros."
+		],
+		"techniqueNotes": [
+			"Los codos algo por debajo de los hombros.",
+			"El torso permanece quieto."
+		]
+	},
+	"band-overhead-press": {
+		"name": "Press de hombros con banda elástica",
+		"description": "Press de la banda hacia arriba, de pie sobre ella. Fortalece los hombros y el tríceps.",
+		"steps": [
+			"Colócate de pie sobre la banda y sujeta los extremos a la altura de los hombros.",
+			"Estira los brazos hacia arriba, sobre la cabeza.",
+			"Bájalos despacio hasta los hombros.",
+			"No arquees la zona lumbar."
+		],
+		"warnings": [
+			"Asegúrate de tener espacio suficiente por encima de ti.",
+			"Detén el ejercicio si aparece dolor en los hombros o el cuello."
+		],
+		"techniqueNotes": [
+			"Abdomen apretado.",
+			"Los brazos se mueven en vertical."
+		]
+	},
+	"band-good-morning": {
+		"name": "Buenos días con banda elástica",
+		"description": "Inclinaciones del torso con la espalda recta, con la banda sobre los hombros y bajo los pies. Enseña el movimiento de bisagra de cadera.",
+		"steps": [
+			"Colócate de pie sobre la banda y pasa el otro extremo sobre los hombros.",
+			"Lleva la cadera hacia atrás, inclinando el torso con la espalda recta.",
+			"Baja hasta notar el estiramiento en la parte posterior de los muslos.",
+			"Ponte recto llevando la cadera hacia delante."
+		],
+		"warnings": [
+			"No redondees la espalda.",
+			"Comprueba que la banda esté bien sujeta.",
+			"Detén el ejercicio si aparece dolor en la zona lumbar."
+		],
+		"techniqueNotes": [
+			"Las rodillas ligeramente flexionadas.",
+			"La mirada dirigida hacia abajo y al frente."
+		]
+	},
+	"band-bicep-curl": {
+		"name": "Curl de bíceps con banda elástica",
+		"description": "Flexión de brazos para el bíceps con la resistencia de la banda.",
+		"steps": [
+			"Colócate de pie sobre la banda, con los extremos en las manos y las palmas hacia delante.",
+			"Flexiona los codos, llevando las manos hacia los hombros.",
+			"Mantén un instante.",
+			"Baja los brazos despacio."
+		],
+		"warnings": [
+			"Comprueba que la banda no esté dañada."
+		],
+		"techniqueNotes": [
+			"Los codos pegados a los costados.",
+			"El torso no se balancea."
+		]
+	},
+	"scapular-pull-up": {
+		"name": "Dominadas escapulares",
+		"description": "Elevación y descenso de las escápulas colgado, sin flexionar los brazos. Prepara los hombros para las dominadas.",
+		"steps": [
+			"Cuélgate de la barra con los brazos estirados.",
+			"Baja los hombros y junta las escápulas, elevando el cuerpo unos centímetros.",
+			"Vuelve despacio a la suspensión.",
+			"No flexiones los codos."
+		],
+		"warnings": [
+			"Usa solo una barra bien instalada.",
+			"Detén el ejercicio si aparece dolor en los hombros o las muñecas."
+		],
+		"techniqueNotes": [
+			"El movimiento es pequeño, solo en las escápulas.",
+			"El cuerpo no se balancea."
+		]
+	},
+	"negative-pull-up": {
+		"name": "Dominadas negativas",
+		"description": "Descenso lento desde la posición alta de la dominada. Ayuda a aprender a hacer dominadas.",
+		"steps": [
+			"Súbete a una silla y agarra la barra, con la barbilla por encima de ella.",
+			"Quita el apoyo.",
+			"Baja despacio hasta estirar los brazos (3–5 segundos).",
+			"Vuelve a la silla y repite."
+		],
+		"warnings": [
+			"Usa solo una barra bien instalada.",
+			"Usa una silla para llegar a la posición alta.",
+			"Detén el ejercicio si aparece dolor en los hombros o las muñecas."
+		],
+		"techniqueNotes": [
+			"Baja con control, sin dejarte caer.",
+			"Las escápulas permanecen bajas."
+		]
+	},
+	"chin-up": {
+		"name": "Dominadas con agarre supino",
+		"description": "Dominadas con las palmas hacia ti. Trabajan más el bíceps que la dominada normal.",
+		"steps": [
+			"Agarra la barra con agarre supino, a la anchura de los hombros.",
+			"Tira hacia arriba hasta que la barbilla quede sobre la barra.",
+			"Mantén un instante.",
+			"Baja despacio hasta la suspensión."
+		],
+		"warnings": [
+			"Usa solo una barra bien instalada.",
+			"Detén el ejercicio si aparece dolor en los hombros, los codos o las muñecas."
+		],
+		"techniqueNotes": [
+			"No te balancees.",
+			"Los codos se mueven hacia abajo y hacia el tronco."
+		]
+	},
+	"hanging-leg-raise": {
+		"name": "Elevación de piernas rectas en suspensión",
+		"description": "Elevación de las piernas rectas colgado de una barra. Versión más difícil para los abdominales.",
+		"steps": [
+			"Cuélgate de la barra.",
+			"Aprieta el abdomen y eleva las piernas rectas hasta la altura de la pelvis.",
+			"Mantén un instante.",
+			"Baja las piernas despacio."
+		],
+		"warnings": [
+			"Usa solo una barra bien instalada.",
+			"No te balancees; eleva las piernas despacio.",
+			"Detén el ejercicio si aparece dolor en los hombros o la zona lumbar."
+		],
+		"techniqueNotes": [
+			"La pelvis ligeramente retrovertida.",
+			"Sin balancear el cuerpo."
+		]
+	},
+	"dumbbell-lateral-raise": {
+		"name": "Elevaciones laterales con mancuernas",
+		"description": "Elevación de las mancuernas hacia los lados hasta la altura de los hombros. Desarrolla la porción media de los deltoides.",
+		"steps": [
+			"Colócate de pie, con las mancuernas a los lados.",
+			"Flexiona ligeramente los codos y eleva los brazos hacia los lados hasta la altura de los hombros.",
+			"Baja los brazos despacio.",
+			"No subas los hombros hacia las orejas."
+		],
+		"warnings": [
+			"Elige mancuernas ligeras.",
+			"Detén el ejercicio si aparece dolor en los hombros o el cuello."
+		],
+		"techniqueNotes": [
+			"Los codos algo más altos que las manos.",
+			"El torso permanece quieto."
+		]
+	},
+	"dumbbell-bicep-curl": {
+		"name": "Curl de bíceps con mancuernas",
+		"description": "Curl clásico de bíceps de pie.",
+		"steps": [
+			"Colócate de pie, con las mancuernas en los brazos estirados hacia abajo y las palmas hacia delante.",
+			"Flexiona los codos, llevando las mancuernas hacia los hombros.",
+			"Mantén un instante.",
+			"Baja las mancuernas despacio."
+		],
+		"warnings": [
+			"Elige un peso con el que no tengas que balancear el torso."
+		],
+		"techniqueNotes": [
+			"Los codos pegados a los costados.",
+			"No te inclines hacia atrás."
+		]
+	},
+	"dumbbell-overhead-triceps-extension": {
+		"name": "Extensión de tríceps con mancuerna sobre la cabeza",
+		"description": "Extensión de brazos con una mancuerna detrás de la cabeza. Aísla el tríceps.",
+		"steps": [
+			"Colócate de pie, sujetando la mancuerna con ambas manos sobre la cabeza.",
+			"Flexiona los codos, bajando la mancuerna detrás de la cabeza.",
+			"Estira los brazos hacia arriba.",
+			"Mantén los codos cerca de la cabeza."
+		],
+		"warnings": [
+			"Sujeta la mancuerna con ambas manos.",
+			"Detén el ejercicio si aparece dolor en los hombros, los codos o el cuello."
+		],
+		"techniqueNotes": [
+			"Los codos no se abren hacia los lados.",
+			"Abdomen apretado."
+		]
+	},
+	"dumbbell-sumo-squat": {
+		"name": "Sentadilla sumo con mancuerna",
+		"description": "Sentadilla con los pies muy separados y una mancuerna entre las piernas. Pone el énfasis en los glúteos y la cara interna de los muslos.",
+		"steps": [
+			"Colócate con los pies muy separados y las puntas hacia fuera, sujetando la mancuerna con ambas manos abajo.",
+			"Baja en sentadilla, con las rodillas en la dirección de las puntas de los pies.",
+			"Sube empujando el suelo con las piernas.",
+			"Mantén el torso vertical."
+		],
+		"warnings": [
+			"Detén el ejercicio si aparece dolor en las rodillas o las caderas."
+		],
+		"techniqueNotes": [
+			"Espalda recta.",
+			"Las rodillas no se desplazan hacia dentro."
+		]
+	},
+	"dumbbell-glute-bridge": {
+		"name": "Glute bridge met dumbbell",
+		"description": "Glute bridge met een dumbbell op je bekken. Geeft extra belasting op de bilspieren.",
+		"steps": [
+			"Ga op je rug liggen met gebogen knieën en een dumbbell op je bekken.",
+			"Til je bekken op tot je lichaam één lijn vormt.",
+			"Houd even vast.",
+			"Zak langzaam weer omlaag."
+		],
+		"warnings": [
+			"Houd de dumbbell stevig vast.",
+			"Stop met de oefening als je pijn in je onderrug voelt."
+		],
+		"techniqueNotes": [
+			"Zwik je onderrug niet door.",
+			"Je hielen blijven op de grond gedrukt."
+		]
+	},
+	"dumbbell-bent-over-row": {
+		"name": "Voorovergebogen row met dumbbells",
+		"description": "Twee dumbbells naar je middel trekken in voorovergebogen houding. Versterkt de rug en biceps.",
+		"steps": [
+			"Buig voorover met een rechte rug en de dumbbells in je hangende armen.",
+			"Trek de dumbbells naar je zij en breng je schouderbladen samen.",
+			"Houd even vast.",
+			"Laat de dumbbells langzaam zakken."
+		],
+		"warnings": [
+			"Houd je rug recht.",
+			"Stop met de oefening als je pijn in je onderrug voelt."
+		],
+		"techniqueNotes": [
+			"Je knieën zijn licht gebogen.",
+			"Beweeg je ellebogen langs je romp."
+		]
+	},
+	"towel-row": {
+		"name": "Handdoek row",
+		"description": "Je lichaam optrekken aan een handdoek die aan een stevig steunpunt is bevestigd. Traint de rugspieren en biceps zonder uitrusting.",
+		"steps": [
+			"Haal een stevige handdoek om een stevig steunpunt op taillehoogte en pak beide uiteinden vast.",
+			"Leun achterover met gestrekte armen, je voeten dichter bij het steunpunt.",
+			"Trek je borst naar je handen en breng je ellebogen naar achteren.",
+			"Strek je armen langzaam en kom terug in de beginpositie."
+		],
+		"warnings": [
+			"Bevestig de handdoek alleen aan een stevig steunpunt: een stabiele kolom, een trapleuning of de klink van een gesloten deur die van je af opengaat.",
+			"Controleer of de handdoek sterk is en niet uit je handen glipt."
+		],
+		"techniqueNotes": [
+			"Houd je lichaam recht van hoofd tot hielen.",
+			"Hoe dichter je voeten bij het steunpunt staan, hoe zwaarder de oefening."
+		]
+	},
+	"inverted-table-row": {
+		"name": "Tafel row",
+		"description": "Horizontaal optrekken liggend onder een stevige tafel. Traint de rugspieren, biceps en achterste schouderspieren.",
+		"steps": [
+			"Ga op je rug onder de tafel liggen, zodat je borst onder de rand van het tafelblad ligt.",
+			"Pak de rand van het tafelblad vast met een grip op schouderbreedte.",
+			"Span je buik- en bilspieren aan en trek je borst naar de rand van de tafel.",
+			"Zak langzaam omlaag tot je armen helemaal gestrekt zijn."
+		],
+		"warnings": [
+			"Gebruik alleen een zware, stabiele tafel die niet omvalt en je gewicht kan dragen.",
+			"Pak de rand van het tafelblad vast, niet het glas of kwetsbare onderdelen."
+		],
+		"techniqueNotes": [
+			"Je lichaam is recht van schouders tot hielen en je bekken zakt niet door.",
+			"Maak de oefening makkelijker door je knieën te buigen en je voeten op de grond te zetten."
+		]
+	},
+	"prone-y-t-w-raise": {
+		"name": "Y-T-W raise in buikligging",
+		"description": "Armen optillen in drie posities in buikligging. Traint de bovenrug en de stabiliserende spieren van de schouderbladen.",
+		"steps": [
+			"Ga op je buik liggen met je voorhoofd boven de grond en je armen naar voren gestrekt.",
+			"Til je armen op in een Y-vorm, houd een seconde vast en laat zakken.",
+			"Spreid je armen zijwaarts in een T-vorm, til op en laat zakken.",
+			"Buig je ellebogen in een W-vorm, breng je schouderbladen samen, til je armen op en laat zakken. Dat is één herhaling."
+		],
+		"warnings": [
+			"Gooi je hoofd niet naar achteren.",
+			"Stop met de oefening als je pijn in je schouders of nek krijgt."
+		],
+		"techniqueNotes": [
+			"De beweging komt uit je schouderbladen, niet uit je onderrug.",
+			"Je duimen wijzen omhoog."
+		]
+	},
+	"reverse-snow-angel": {
+		"name": "Omgekeerde sneeuwengel",
+		"description": "Een soepele armbeweging van je heupen naar je hoofd in buikligging. Traint de bovenrug en de beweeglijkheid van de schouders.",
+		"steps": [
+			"Ga op je buik liggen met je armen langs je lichaam en je handpalmen naar je bovenbenen.",
+			"Til je armen van de grond en breng je schouderbladen samen.",
+			"Beweeg je armen langzaam in een boog zijwaarts tot boven je hoofd.",
+			"Breng je armen langs dezelfde weg terug naar je bovenbenen zonder de grond aan te raken."
+		],
+		"warnings": [
+			"Gooi je hoofd niet naar achteren.",
+			"Stop met de oefening als je pijn in je schouders of nek krijgt."
+		],
+		"techniqueNotes": [
+			"Houd je armen steeds een stukje boven de grond.",
+			"Zwik je onderrug niet door en houd je bilspieren aangespannen."
+		]
+	},
+	"leg-press": {
+		"name": "Leg press",
+		"description": "Een platform wegduwen met je benen in zittende positie. Traint de quadriceps en bilspieren zonder belasting op de wervelkolom, geschikt voor beginners.",
+		"steps": [
+			"Ga in de machine zitten, druk je onderrug tegen de rugleuning en zet je voeten op schouderbreedte op het platform.",
+			"Haal de vergrendeling eraf en buig je knieën langzaam tot een comfortabele diepte.",
+			"Strek bij het uitademen je benen zonder je knieën helemaal te vergrendelen.",
+			"Zet de vergrendeling terug na de set."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je knieën krijgt."
+		],
+		"techniqueNotes": [
+			"Je onderrug blijft tegen de rugleuning.",
+			"Je knieën bewegen in de richting van je tenen."
+		]
+	},
+	"machine-chest-press": {
+		"name": "Chest press machine",
+		"description": "Handgrepen wegduwen vanaf je borst in zittende positie. Leert je veilig de drukbeweging en traint de borst, schouders en triceps.",
+		"steps": [
+			"Stel de zitting zo in dat de handgrepen op het midden van je borst zitten.",
+			"Pak de handgrepen vast en druk je schouderbladen tegen de rugleuning.",
+			"Strek bij het uitademen je armen naar voren zonder je ellebogen helemaal te vergrendelen.",
+			"Breng de handgrepen langzaam terug en voel de stretch in je borst."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je schouders krijgt."
+		],
+		"techniqueNotes": [
+			"Je schouders gaan niet naar je oren."
+		]
+	},
+	"machine-shoulder-press": {
+		"name": "Shoulder press machine",
+		"description": "Verticaal drukken in zittende positie in de machine. Traint de schouders en triceps met steun voor je rug.",
+		"steps": [
+			"Stel de zitting zo in dat de handgrepen op schouderhoogte zitten.",
+			"Druk je rug tegen de rugleuning en pak de handgrepen vast.",
+			"Strek bij het uitademen je armen omhoog.",
+			"Breng de handgrepen langzaam terug naar schouderhoogte."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je schouders krijgt."
+		],
+		"techniqueNotes": [
+			"Zwik je onderrug niet door."
+		]
+	},
+	"seated-cable-row": {
+		"name": "Zittende kabel row",
+		"description": "Horizontaal trekken aan de handgreep van een kabelstation. Traint de rug en achterste schouderspieren en leert je je schouderbladen samen te brengen.",
+		"steps": [
+			"Ga zitten, zet je voeten op de steunen en pak de handgreep vast met een rechte rug.",
+			"Trek de handgreep naar je buik en breng je schouderbladen samen.",
+			"Pauzeer even in het eindpunt.",
+			"Breng je armen langzaam weer naar voren zonder je rug te ronden."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je onderrug voelt."
+		],
+		"techniqueNotes": [
+			"Je romp blijft vrijwel stil.",
+			"Je ellebogen bewegen langs je lichaam."
+		]
+	},
+	"lat-pulldown-machine": {
+		"name": "Lat pulldown",
+		"description": "Een brede handgreep naar je borst trekken in zittende positie. Bereidt voor op optrekken en traint de brede rugspieren.",
+		"steps": [
+			"Zet je bovenbenen vast onder de kussens en pak de handgreep vast, breder dan je schouders.",
+			"Leun licht achterover en trek de handgreep naar je bovenborst.",
+			"Breng je schouderbladen samen en pauzeer even.",
+			"Breng de handgreep langzaam weer omhoog."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Trek met je ellebogen, niet met je handen."
+		]
+	},
+	"leg-curl-machine": {
+		"name": "Leg curl machine",
+		"description": "Geïsoleerd je benen buigen, liggend of zittend. Traint de hamstrings.",
+		"steps": [
+			"Stel het kussen zo in dat het boven je hielen zit.",
+			"Buig bij het uitademen je benen en trek je hielen naar je billen.",
+			"Pauzeer even in het hoogste punt.",
+			"Strek je benen langzaam weer."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je knieën krijgt."
+		],
+		"techniqueNotes": [
+			"Je bekken komt niet van het bankje."
+		]
+	},
+	"leg-extension-machine": {
+		"name": "Leg extension machine",
+		"description": "Geïsoleerd je benen strekken in zittende positie. Traint de quadriceps.",
+		"steps": [
+			"Stel de rugleuning en het kussen boven je onderbenen in.",
+			"Strek bij het uitademen je benen.",
+			"Pauzeer even in het hoogste punt.",
+			"Laat je benen langzaam zakken."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je knieën krijgt."
+		],
+		"techniqueNotes": [
+			"Beweeg soepel, zonder schokken."
+		]
+	},
+	"cable-triceps-pushdown": {
+		"name": "Triceps pushdown aan de kabel",
+		"description": "Je armen omlaag strekken aan de bovenste kabel. Traint de triceps geïsoleerd.",
+		"steps": [
+			"Ga voor het kabelstation staan, pak de handgreep vast en houd je ellebogen tegen je zij.",
+			"Strek bij het uitademen je armen omlaag.",
+			"Pauzeer even onderaan.",
+			"Breng de handgreep langzaam terug tot borsthoogte."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Je ellebogen bewegen niet."
+		]
+	},
+	"cable-biceps-curl": {
+		"name": "Biceps curl aan de onderste kabel",
+		"description": "Je armen buigen staand bij de onderste kabel. Traint de biceps geïsoleerd.",
+		"steps": [
+			"Ga voor de onderste kabel staan en pak de handgreep vast met je handpalmen omhoog.",
+			"Buig bij het uitademen je armen naar je schouders.",
+			"Pauzeer even bovenaan.",
+			"Strek je armen langzaam weer."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Je ellebogen blijven tegen je zij en je romp staat stil."
+		]
+	},
+	"cable-face-pull": {
+		"name": "Face pull aan de kabel",
+		"description": "Een touwhandgreep naar gezichtshoogte trekken. Versterkt de achterste schouderspieren en de spieren tussen de schouderbladen, goed voor je houding.",
+		"steps": [
+			"Bevestig het touw aan de kabel op gezichtshoogte en zet een stap naar achteren.",
+			"Trek het touw naar je gezicht en spreid je ellebogen zijwaarts.",
+			"Breng je schouderbladen samen en pauzeer even.",
+			"Breng je armen langzaam weer naar voren."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Het gewicht is licht en de beweging gecontroleerd."
+		]
+	},
+	"cable-woodchop": {
+		"name": "Woodchop aan de kabel",
+		"description": "Diagonale draaiing van de romp met de handgreep van een kabelstation. Traint de schuine buikspieren en leert je kracht door je romp over te brengen.",
+		"steps": [
+			"Ga zijwaarts naast het kabelstation staan en pak de handgreep met twee handen vast.",
+			"Trek de handgreep diagonaal omlaag en draai daarbij je romp.",
+			"Houd je armen bijna gestrekt en draai met je borstkas.",
+			"Breng de handgreep langzaam terug en herhaal; wissel daarna van kant."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je onderrug voelt."
+		],
+		"techniqueNotes": [
+			"Beweeg je romp, niet alleen je armen."
+		]
+	},
+	"barbell-bench-press": {
+		"name": "Barbell bench press",
+		"description": "De klassieke bankdrukoefening met een halterstang op een vlakke bank. De basisoefening voor borst, schouders en triceps.",
+		"steps": [
+			"Ga op de bank liggen met je voeten op de grond, je schouderbladen samengebracht en je ogen onder de stang.",
+			"Haal de stang van het rek en laat hem zakken tot het midden van je borst.",
+			"Druk de stang bij het uitademen omhoog tot je armen gestrekt zijn.",
+			"Leg de stang terug op het rek als je de set hebt afgerond."
+		],
+		"warnings": [
+			"Druk in de sportschool niet zonder spotter of veiligheidsstops en stop met de oefening als je pijn in je schouders krijgt."
+		],
+		"techniqueNotes": [
+			"Laat een spotter meekijken of gebruik veiligheidsstops.",
+			"Je polsen staan boven je ellebogen."
+		]
+	},
+	"barbell-bent-over-row": {
+		"name": "Barbell bent-over row",
+		"description": "Een halterstang naar je buik trekken in voorovergebogen houding. Traint de hele rug, de achterste schouderspieren en biceps.",
+		"steps": [
+			"Ga staan met je voeten op schouderbreedte en pak de stang vast met een grip iets breder dan je schouders.",
+			"Buig voorover met een rechte rug en licht gebogen knieën.",
+			"Trek de stang naar je onderbuik.",
+			"Laat de stang langzaam zakken zonder je rug te ronden."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je onderrug voelt."
+		],
+		"techniqueNotes": [
+			"Je rug blijft tijdens de hele beweging recht."
+		]
+	},
+	"barbell-overhead-press": {
+		"name": "Barbell overhead press",
+		"description": "Staand een halterstang boven je hoofd drukken. Ontwikkelt de kracht van de schouders en bovenrug en vraagt om een stabiele romp.",
+		"steps": [
+			"Pak de stang op sleutelbeenhoogte met een grip iets breder dan je schouders.",
+			"Span je buik- en bilspieren aan en druk de stang bij het uitademen omhoog.",
+			"Aan het eind komt je hoofd iets naar voren en hangt de stang boven het midden van je voeten.",
+			"Laat de stang langzaam zakken tot je sleutelbeenderen."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je schouders of onderrug voelt."
+		],
+		"techniqueNotes": [
+			"Zwik je onderrug niet door."
+		]
+	},
+	"barbell-romanian-deadlift": {
+		"name": "Roemeense deadlift met halterstang",
+		"description": "Deadlift met bijna gestrekte benen. Traint de hamstrings en bilspieren en leert je de beweging met je bekken naar achteren.",
+		"steps": [
+			"Ga staan met de stang in je handen en licht gebogen knieën.",
+			"Duw je bekken naar achteren en leid de stang langs je benen.",
+			"Laat hem zakken tot onder je knieën en houd je rug recht.",
+			"Kom bij het uitademen terug in de beginpositie door je bekken naar voren te duwen."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je onderrug voelt."
+		],
+		"techniqueNotes": [
+			"De beweging komt vanuit het bekken, niet vanuit je rug."
+		]
+	},
+	"treadmill-incline-walk": {
+		"name": "Hellend wandelen op de loopband",
+		"description": "Snel wandelen op een loopband met een helling. Cardiobelasting zonder impact voor uithoudingsvermogen en je benen.",
+		"steps": [
+			"Stel een helling van 4–8% in en een comfortabele, stevige wandelsnelheid.",
+			"Houd je romp rechtop en steun niet op de leuningen.",
+			"Loop de benodigde tijd in een stabiel tempo.",
+			"Verlaag aan het eind de snelheid en helling om af te koelen."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Je ademhaling blijft rustig, je kunt nog in korte zinnen praten."
+		]
+	},
+	"easy-run-intervals": {
+		"name": "Rustige hardloopintervallen",
+		"description": "Afwisselend rustig hardlopen en wandelen. Ontwikkelt het uithoudingsvermogen van hart en longen zonder plotselinge belasting.",
+		"steps": [
+			"Warm een minuut op met stevig wandelen.",
+			"Ren de opgegeven tijd in een comfortabel tempo.",
+			"Ga over op wandelen om te herstellen.",
+			"Herhaal de afwisseling voor het aantal sets."
+		],
+		"warnings": [
+			"Stop met rennen als je pijn in je enkels of knieën krijgt."
+		],
+		"techniqueNotes": [
+			"Het tempo laat je toe om door je neus te ademen of in korte zinnen te praten."
+		]
+	},
+	"sprint-intervals": {
+		"name": "Sprintintervallen",
+		"description": "Korte versnellingen op volle snelheid met volledige rust. Ontwikkelen explosiviteit en snelheidsuithoudingsvermogen.",
+		"steps": [
+			"Warm goed op en doe een paar lichte versnellingen.",
+			"Versnel tot ongeveer 90% van je maximale snelheid.",
+			"Loop na de versnelling terug en herstel volledig.",
+			"Herhaal voor het aantal sets."
+		],
+		"warnings": [
+			"Doe de oefening niet op een gladde ondergrond en stop als je pijn in je knieën of enkels krijgt."
+		],
+		"techniqueNotes": [
+			"Leun met je romp naar voren en gebruik je armen."
+		]
+	},
+	"brisk-walk-intervals": {
+		"name": "Stevig wandelen in intervallen",
+		"description": "Afwisselend stevig en rustig wandelen in de buitenlucht. Geschikt om mee te beginnen en om te herstellen.",
+		"steps": [
+			"Loop een minuut rustig om op te warmen.",
+			"Loop stevig door en zwaai met je gebogen armen.",
+			"Ga over op een rustig tempo om te herstellen.",
+			"Herhaal de afwisseling."
+		],
+		"warnings": [],
+		"techniqueNotes": [
+			"Stevig tempo: je ademhaling is sneller, maar je kunt nog praten."
+		]
+	},
+	"walking-lunge": {
+		"name": "Walking lunges",
+		"description": "Lunges met vooruitgang. Trainen de benen en billen en leren je balans.",
+		"steps": [
+			"Ga rechtop staan met je handen op je heupen of langs je lichaam.",
+			"Zet een grote stap naar voren en zak door tot beide knieën 90° gebogen zijn.",
+			"Duw af met je voorste been en breng het achterste been naar de voorste stap.",
+			"Ga door en wissel steeds van been."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je knieën krijgt."
+		],
+		"techniqueNotes": [
+			"De voorste knie staat boven je enkel."
+		]
+	},
+	"bear-crawl": {
+		"name": "Beerkruip",
+		"description": "Voortbewegen op handen en voeten met de knieën omhoog. Versterkt de schouders, romp en benen en ontwikkelt de coördinatie.",
+		"steps": [
+			"Ga op je handen en voeten staan met je knieën 5 cm boven de grond.",
+			"Verplaats tegelijk de tegenovergestelde arm en het tegenovergestelde been naar voren.",
+			"Houd je rug recht en je bekken laag.",
+			"Beweeg de opgegeven tijd vooruit en daarna op dezelfde manier achteruit."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je polsen krijgt."
+		],
+		"techniqueNotes": [
+			"De bewegingen zijn langzaam en gecontroleerd."
+		]
+	},
+	"broad-jump": {
+		"name": "Verspringen vanaf stilstand",
+		"description": "Een explosieve sprong naar voren met beide benen. Ontwikkelt beenkracht en coördinatie.",
+		"steps": [
+			"Ga staan met je voeten op schouderbreedte en zwaai je armen naar achteren.",
+			"Duw af terwijl je je armen naar voren zwaait en spring zo ver mogelijk.",
+			"Land zacht op gebogen knieën.",
+			"Kom tot stilstand, herstel je evenwicht en herhaal."
+		],
+		"warnings": [
+			"Doe de oefening niet op een gladde ondergrond en stop als je pijn in je knieën krijgt."
+		],
+		"techniqueNotes": [
+			"Zachte landing op je hele voet."
+		]
+	},
+	"skater-jumps": {
+		"name": "Skater jumps",
+		"description": "Zijwaartse sprongen van het ene been op het andere. Trainen de balans, de benen en het uithoudingsvermogen.",
+		"steps": [
+			"Ga op één been staan en breng het andere naar achteren.",
+			"Spring zijwaarts op het andere been en zwaai daarbij met je armen.",
+			"Pauzeer even en houd je evenwicht.",
+			"Spring terug en ga door gedurende de opgegeven tijd."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je knieën of enkels krijgt."
+		],
+		"techniqueNotes": [
+			"Zachte landing, je knie blijft achter je tenen."
+		]
+	},
+	"shuttle-run": {
+		"name": "Shuttle run",
+		"description": "Rennen tussen twee punten met een verandering van richting. Ontwikkelt reactiesnelheid en uithoudingsvermogen.",
+		"steps": [
+			"Markeer twee punten op 3 m afstand van elkaar.",
+			"Ren naar het tweede punt en raak de grond aan met je hand.",
+			"Draai snel om en ren terug.",
+			"Herhaal gedurende de opgegeven tijd."
+		],
+		"warnings": [
+			"Doe de oefening niet op een gladde ondergrond."
+		],
+		"techniqueNotes": [
+			"Draai om met gebogen knieën en zonder je been naar buiten te zwaaien."
+		]
+	},
+	"stair-climb": {
+		"name": "Trap oplopen",
+		"description": "Snel een trap of een steile helling oplopen. Cardio en training voor de benen en billen.",
+		"steps": [
+			"Ga onderaan de trap of helling staan.",
+			"Loop in een stevig tempo omhoog en zet je hele voet op de trede.",
+			"Loop de opgegeven tijd omhoog en loop daarna rustig naar beneden.",
+			"Herhaal voor het aantal sets."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je knieën krijgt."
+		],
+		"techniqueNotes": [
+			"Loop rustig naar beneden en houd zo nodig de leuning vast."
+		]
+	},
+	"park-bench-step-up": {
+		"name": "Step-up op een parkbankje",
+		"description": "Op een stabiel bankje stappen met één been. Traint de quadriceps en bilspieren.",
+		"steps": [
+			"Controleer of het bankje stabiel is en ga ervoor staan.",
+			"Zet één voet op het bankje en kom omhoog door je been te strekken.",
+			"Zak langzaam en gecontroleerd weer naar beneden.",
+			"Maak de set af en wissel van been."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je knieën krijgt."
+		],
+		"techniqueNotes": [
+			"Duw met het been op het bankje, niet af van de grond."
+		]
+	},
+	"park-bench-incline-push-up": {
+		"name": "Incline push-up op een bankje",
+		"description": "Push-up met je handen op een bankje. Een makkelijkere variant voor borst, schouders en triceps.",
+		"steps": [
+			"Plaats je handen op de rand van een stabiel bankje, je lichaam vormt één lijn.",
+			"Buig je ellebogen en zak met je borst naar het bankje.",
+			"Duw jezelf bij het uitademen omhoog tot je armen gestrekt zijn.",
+			"Houd je romp tijdens de hele beweging aangespannen."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je polsen krijgt."
+		],
+		"techniqueNotes": [
+			"Je ellebogen maken een hoek van ongeveer 45° met je romp."
+		]
+	},
+	"australian-pull-up": {
+		"name": "Australische pull-up",
+		"description": "Je lichaam optrekken naar een lage stang terwijl je eronder ligt. Traint de rug en biceps en is makkelijker dan gewoon optrekken.",
+		"steps": [
+			"Ga onder een lage, stevige stang staan en pak hem vast met een grip breder dan je schouders.",
+			"Strek je lichaam in een rechte lijn met je hielen op de grond.",
+			"Trek je borst naar de stang en breng je schouderbladen samen.",
+			"Zak langzaam omlaag tot je armen bijna gestrekt zijn."
+		],
+		"warnings": [
+			"Zorg dat de stang stevig is en stop met de oefening als je pijn in je schouders krijgt."
+		],
+		"techniqueNotes": [
+			"Je lichaam blijft recht en je bekken zakt niet door."
+		]
+	},
+	"outdoor-plank-shoulder-taps": {
+		"name": "Plank met schouder taps",
+		"description": "Plank met om en om een tik op de schouder. Traint de romp en de stabiliteit van de schouders.",
+		"steps": [
+			"Neem de hoge plankpositie aan met je voeten iets breder dan je schouders.",
+			"Tik met je rechterhand op je linkerschouder zonder met je bekken te wiebelen.",
+			"Zet je hand terug en tik met de andere hand.",
+			"Ga door met afwisselen gedurende de opgegeven tijd."
+		],
+		"warnings": [
+			"Stop met de oefening als je pijn in je polsen krijgt."
+		],
+		"techniqueNotes": [
+			"Je bekken beweegt nauwelijks."
+		]
+	}
+}

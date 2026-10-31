@@ -1,6 +1,6 @@
 import type { Exercise } from '@trainup/planner';
 import { describe, expect, it } from 'vitest';
-import { interleaveByTrainer, shownTrainer, trainerImage } from './trainer.interface';
+import { assignTrainers, interleaveByTrainer, shownTrainer, trainerImage } from './trainer.interface';
 
 const exercise = (id: string, trainers?: Exercise['trainers']) =>
 	({ id, trainers, imageUrl: `/exercises/${id}.jpg` }) as Exercise;
@@ -18,6 +18,14 @@ describe('trainer helpers', () => {
 		expect(trainerImage(exercise('squat'), 'female')).toBe('/exercises/squat.jpg');
 		expect(trainerImage(exercise('squat'), 'male')).toBe('/exercises/male/squat.jpg');
 		expect(trainerImage(exercise('custom-a'), 'male')).toBe('/exercises/custom-a.jpg');
+	});
+
+	it('gives the trainers turns by position, even for shared exercises', () => {
+		const items = ['a', 'b', 'c', 'd'].map((id) => ({ exercise: exercise(id) }));
+
+		expect(assignTrainers(items, 'all').map((item) => item.trainer)).toEqual(['female', 'male', 'female', 'male']);
+		expect(assignTrainers(items, 'male').map((item) => item.trainer)).toEqual(['male', 'male', 'male', 'male']);
+		expect(assignTrainers([{ exercise: exercise('x', ['male']) }], 'all')[0]!.trainer).toBe('male');
 	});
 
 	it('alternates trainer one, trainer two, then shared exercises', () => {

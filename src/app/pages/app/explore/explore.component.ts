@@ -5,7 +5,7 @@ import { map } from 'rxjs';
 import type { Exercise } from '@trainup/planner';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
-import { exerciseTrainers, interleaveByTrainer } from '../../../feature/trainer/trainer.interface';
+import { assignTrainers, exerciseTrainers, interleaveByTrainer } from '../../../feature/trainer/trainer.interface';
 import { ExploreFilterService } from '../../../feature/exercise/explore-filter.service';
 import { injectSuitability } from '../../../feature/exercise/exercise-suitability';
 import { MOVEMENT_PATTERN_LABELS } from '../../../feature/plan/plan.const';
@@ -51,7 +51,7 @@ export class ExploreComponent {
 					(!search || exercise.name.toLocaleLowerCase('uk').includes(search)),
 			);
 
-		return trainer === 'all' ? interleaveByTrainer(matches) : matches;
+		return assignTrainers(trainer === 'all' ? interleaveByTrainer(matches) : matches, trainer);
 	});
 
 	constructor() {

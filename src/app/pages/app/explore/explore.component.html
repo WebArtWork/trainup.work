@@ -36,12 +36,13 @@
 								<a
 									class="surface theme-focus group flex w-full flex-col overflow-hidden transition-transform hover:-translate-y-0.5"
 									[routerLink]="['/explore', item.exercise.id]"
+									[queryParams]="{ trainer: item.trainer }"
 								>
 									<span
 										class="relative flex aspect-[4/3] items-center justify-center bg-[var(--c-bg-tertiary)]"
 										[class.opacity-70]="!item.suitable"
 									>
-										<app-exercise-image [exercise]="item.exercise" [lazy]="true" />
+										<app-exercise-image [exercise]="item.exercise" [trainer]="item.trainer" [lazy]="true" />
 										@if (!item.suitable) {
 											<span
 												class="chip absolute left-2 top-2 bg-[var(--c-bg-secondary)] text-[var(--c-warning)]"
