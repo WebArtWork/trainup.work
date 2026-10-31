@@ -1,5 +1,5 @@
 import { isPlatformBrowser } from '@angular/common';
-import { inject, PLATFORM_ID } from '@angular/core';
+import { inject, Injector, PLATFORM_ID } from '@angular/core';
 import { CanActivateFn, Router } from '@angular/router';
 
 /**
@@ -12,8 +12,9 @@ export const landingGuard: CanActivateFn = async () => {
 	}
 
 	const router = inject(Router);
+	const injector = inject(Injector);
 	const { AuthService } = await import('./auth.service');
-	const user = await inject(AuthService).whenReady();
+	const user = await injector.get(AuthService).whenReady();
 
 	return user ? router.parseUrl('/today') : true;
 };
