@@ -4,9 +4,16 @@ import { TranslateDirective } from '@wawjs/ngx-translate';
 import { CartService } from '../../../feature/store/cart.service';
 import { MoneyPipe } from '../../../feature/store/money.pipe';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
+import { ProductImageComponent } from '../../../ui/product-image/product-image.component';
 
 @Component({
-	imports: [MoneyPipe, RouterLink, StateMessageComponent, TranslateDirective],
+	imports: [
+		MoneyPipe,
+		ProductImageComponent,
+		RouterLink,
+		StateMessageComponent,
+		TranslateDirective,
+	],
 	template: `
 		<div class="mt-6 flex flex-col gap-4">
 			@if (!cart.loaded()) {
@@ -26,9 +33,10 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 							<span
 								class="surface-inset flex h-20 w-20 shrink-0 items-center justify-center text-[var(--c-primary-text)]"
 							>
-								<span class="material-symbols-outlined text-[40px]" aria-hidden="true">
-									{{ line.product.icon }}
-								</span>
+								<app-product-image
+									[product]="line.product"
+									iconClass="text-[40px]"
+								/>
 							</span>
 							<div class="flex min-w-0 flex-1 flex-col gap-2">
 								<a
@@ -45,13 +53,20 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 											type="button"
 											[translate]="{ ariaLabel: 'Зменшити кількість' }"
 											[disabled]="line.quantity <= 1"
-											(click)="cart.setQuantity(line.product.id, line.quantity - 1)"
+											(click)="
+												cart.setQuantity(line.product.id, line.quantity - 1)
+											"
 										>
-											<span class="material-symbols-outlined text-[20px]" aria-hidden="true">
+											<span
+												class="material-symbols-outlined text-[20px]"
+												aria-hidden="true"
+											>
 												remove
 											</span>
 										</button>
-										<span class="min-w-8 text-center font-semibold text-[var(--c-text-strong)]">
+										<span
+											class="min-w-8 text-center font-semibold text-[var(--c-text-strong)]"
+										>
 											{{ line.quantity }}
 										</span>
 										<button
@@ -59,9 +74,14 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 											type="button"
 											[translate]="{ ariaLabel: 'Збільшити кількість' }"
 											[disabled]="line.quantity >= line.product.stock"
-											(click)="cart.setQuantity(line.product.id, line.quantity + 1)"
+											(click)="
+												cart.setQuantity(line.product.id, line.quantity + 1)
+											"
 										>
-											<span class="material-symbols-outlined text-[20px]" aria-hidden="true">
+											<span
+												class="material-symbols-outlined text-[20px]"
+												aria-hidden="true"
+											>
 												add
 											</span>
 										</button>
@@ -77,7 +97,11 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 								[translate]="{ ariaLabel: 'Видалити з кошика' }"
 								(click)="cart.remove(line.product.id)"
 							>
-								<span class="material-symbols-outlined text-[20px]" aria-hidden="true">delete</span>
+								<span
+									class="material-symbols-outlined text-[20px]"
+									aria-hidden="true"
+									>delete</span
+								>
 							</button>
 						</li>
 					}
@@ -94,7 +118,11 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 					<p class="text-xs leading-5 text-[var(--c-text-muted)]" translate>
 						Вартість доставки Новою поштою оплачується за тарифами перевізника.
 					</p>
-					<a class="btn btn-primary btn-lg btn-block" routerLink="/store/checkout" translate>
+					<a
+						class="btn btn-primary btn-lg btn-block"
+						routerLink="/store/checkout"
+						translate
+					>
 						Оформити замовлення
 					</a>
 				</section>

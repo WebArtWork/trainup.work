@@ -482,6 +482,35 @@ describe('custom exercises', () => {
 	});
 });
 
+describe('users/{uid}/weights', () => {
+	const weight = (date = '2026-10-28', kg = 82.5) => ({
+		schemaVersion: 1,
+		date,
+		kg,
+		updatedAt: serverTimestamp(),
+	});
+	const ref = (uid: string, date = '2026-10-28') => doc(db(uid), `users/alice/weights/${date}`);
+
+	it('lets the owner save and replace a daily weight', async () => {
+		await assertSucceeds(setDoc(ref('alice'), weight()));
+		await assertSucceeds(setDoc(ref('alice'), weight('2026-10-28', 81.9)));
+		await assertSucceeds(getDoc(ref('alice')));
+	});
+
+	it('keeps other people out', async () => {
+		await assertFails(setDoc(ref('bob'), weight()));
+		await assertFails(getDoc(ref('bob')));
+	});
+
+	it('rejects bad dates, mismatched ids and out-of-range weights', async () => {
+		await assertFails(setDoc(ref('alice', 'yesterday'), weight('yesterday')));
+		await assertFails(setDoc(ref('alice'), weight('2026-10-27')));
+		await assertFails(setDoc(ref('alice'), weight('2026-10-28', 5)));
+		await assertFails(setDoc(ref('alice'), weight('2026-10-28', 900)));
+		await assertFails(setDoc(ref('alice'), { ...weight(), extra: true }));
+	});
+});
+
 describe('account deletion', () => {
 	const planRef = (uid: string) => doc(db(uid), 'users/alice/plans/plan1');
 	const savePlan = () =>

@@ -5,6 +5,7 @@ import { EXERCISE_IMAGES } from '../../feature/exercise/exercise-images';
 const PAGE_TITLES = {
 	'sign-in': 'Увійти',
 	onboarding: 'Початок роботи',
+	dashboard: 'Панель',
 	today: 'Сьогодні',
 	workout: 'Тренування',
 	'workout-run': 'Виконання тренування',
@@ -33,20 +34,10 @@ const PAGE_TITLES = {
 	'store-order': 'Замовлення',
 } as const;
 
-/** Store pages share one social image until they get their own. */
-const IMAGE_PAGE: Partial<Record<keyof typeof PAGE_TITLES, string>> = {
-	store: 'explore',
-	'store-product': 'explore',
-	'store-cart': 'explore',
-	'store-checkout': 'explore',
-	'store-orders': 'explore',
-	'store-order': 'explore',
-};
-
 export function appPageMeta(page: keyof typeof PAGE_TITLES) {
 	return {
 		title: PAGE_TITLES[page],
-		image: buildAbsoluteUrl(companyProfile.siteUrl, `/seo/${IMAGE_PAGE[page] ?? page}.jpg`),
+		image: buildAbsoluteUrl(companyProfile.siteUrl, `/seo/${page}.jpg`),
 		robots: 'noindex, nofollow',
 	};
 }

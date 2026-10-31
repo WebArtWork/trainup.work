@@ -1,11 +1,14 @@
 <header
 	class="relative z-50 border-b-2 border-[var(--c-border)] bg-[var(--c-bg-primary)]/90 backdrop-blur supports-[backdrop-filter]:bg-[var(--c-bg-primary)]/75 dark:border-b dark:border-[var(--c-border)] dark:bg-[var(--c-bg-primary)]/70"
 >
-	<div class="page-wrap flex min-h-[4.5rem] items-center justify-between gap-3 py-3">
+	<div
+		class="page-wrap flex min-h-[4.5rem] items-center justify-between gap-3 py-3"
+		[class.page-wrap-narrow]="narrow()"
+	>
 		<a
 			[translate]="{ ariaLabel: 'Перейти на головну сторінку' }"
 			class="theme-focus inline-flex items-center gap-3 rounded-[var(--radius-btn)]"
-			routerLink="/"
+			[routerLink]="homeLink()"
 		>
 			<img
 				class="h-10 w-10 rounded-[calc(var(--radius-card)*0.5)]"
@@ -38,9 +41,44 @@
 
 		<div class="flex items-center gap-2 sm:gap-3">
 			@if (cta()) {
-				<a class="btn btn-primary btn-sm max-sm:hidden" routerLink="/today">
+				<a class="btn btn-primary btn-sm max-sm:hidden" routerLink="/dashboard">
 					<span translate>Відкрити застосунок</span>
 				</a>
+			}
+
+			@for (link of links(); track link.path) {
+				<a
+					class="icon-btn relative"
+					[routerLink]="link.path"
+					[translate]="{ ariaLabel: link.label }"
+				>
+					<span class="material-symbols-outlined text-[22px]" aria-hidden="true">{{ link.icon }}</span>
+					@if (link.badge) {
+						<span
+							class="absolute -right-1 -top-1 flex h-5 min-w-5 items-center justify-center rounded-full bg-[var(--c-primary)] px-1 text-[0.7rem] font-bold text-[var(--c-on-primary,#fff)]"
+						>
+							{{ link.badge }}
+						</span>
+					}
+				</a>
+			}
+
+			@if (filters()) {
+				<button
+					class="icon-btn relative"
+					type="button"
+					[translate]="{ ariaLabel: 'Фільтри' }"
+					(click)="filtersClick.emit()"
+				>
+					<span class="material-symbols-outlined text-[22px]" aria-hidden="true">tune</span>
+					@if (filterCount() > 0) {
+						<span
+							class="absolute -right-1 -top-1 flex h-5 min-w-5 items-center justify-center rounded-full bg-[var(--c-primary)] px-1 text-[0.7rem] font-bold text-[var(--c-on-primary,#fff)]"
+						>
+							{{ filterCount() }}
+						</span>
+					}
+				</button>
 			}
 
 			@if (profile(); as account) {

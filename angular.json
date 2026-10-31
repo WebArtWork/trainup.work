@@ -57,16 +57,10 @@
 								"output": "/i18n/"
 							}
 						],
-						"styles": ["node_modules/@wawjs/ngx-ui/styles.css",
-					"src/styles.scss"],
-						"server": "src/main.server.ts",
-						"outputMode": "server",
-						"security": {
-							"allowedHosts": []
-						},
-						"ssr": {
-							"entry": "src/server.ts"
-						}
+						"styles": [
+							"node_modules/@wawjs/ngx-ui/styles.css",
+							"src/styles.scss"
+						]
 					},
 					"configurations": {
 						"production": {
@@ -88,12 +82,44 @@
 									"maximumError": "8kB"
 								}
 							],
+							"outputHashing": "all",
+							"server": "src/main.server.ts",
+							"outputMode": "server",
+							"security": {
+								"allowedHosts": []
+							},
+							"ssr": {
+								"entry": "src/server.ts"
+							}
+						},
+						"mobile": {
+							"fileReplacements": [
+								{
+									"replace": "src/environments/environment.ts",
+									"with": "src/environments/environment.mobile.ts"
+								}
+							],
+							"budgets": [
+								{
+									"type": "initial",
+									"maximumWarning": "500kB",
+									"maximumError": "1MB"
+								}
+							],
 							"outputHashing": "all"
 						},
 						"development": {
 							"optimization": false,
 							"extractLicenses": false,
-							"sourceMap": true
+							"sourceMap": true,
+							"server": "src/main.server.ts",
+							"outputMode": "server",
+							"security": {
+								"allowedHosts": []
+							},
+							"ssr": {
+								"entry": "src/server.ts"
+							}
 						}
 					},
 					"defaultConfiguration": "production"

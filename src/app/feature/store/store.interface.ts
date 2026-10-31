@@ -11,8 +11,8 @@ export interface StoreProduct {
 	/** Material Symbols icon shown while a product has no photo. */
 	icon: string;
 	image: string | null;
-	/** What the user's training setup gains after buying this product. */
-	equipment: EquipmentItem;
+	/** What the user's training setup gains after buying this product; accessories add nothing. */
+	equipment: EquipmentItem | null;
 }
 
 /** Product id → quantity. */

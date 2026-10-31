@@ -6,7 +6,7 @@ import { AuthService } from './auth.service';
 export const APP_PATHS = {
 	signIn: '/sign-in',
 	onboarding: '/onboarding',
-	home: '/today',
+	home: '/dashboard',
 };
 
 const RETURN_URL_KEY = 'trainup.returnUrl';

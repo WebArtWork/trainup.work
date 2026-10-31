@@ -6,6 +6,7 @@ import { PreferencesControlsComponent } from '../../../ui/preferences-controls/p
 import { AccountSection } from '../../../feature/account/account.interface';
 import { AppSessionService } from '../../../feature/auth/app-session.service';
 import { AccountService } from '../../../feature/account/account.service';
+import { environment } from '../../../../environments/environment';
 import { EMPTY_TRAINING_SETUP_INPUT } from '../../../feature/training-setup/training-setup.const';
 import { ExerciseCatalogService } from '../../../feature/exercise/exercise-catalog.service';
 import { ExerciseFlagService } from '../../../feature/exercise-flag/exercise-flag.service';
@@ -162,7 +163,9 @@ export class ProfileComponent {
 	protected readonly links = [
 		{ path: '/reminders', label: 'Нагадування', icon: 'notifications' },
 		{ path: '/todos', label: 'Справи', icon: 'checklist' },
-		{ path: '/store/orders', label: 'Мої замовлення', icon: 'receipt_long' },
+		...(environment.mobile
+			? []
+			: [{ path: '/store/orders', label: 'Мої замовлення', icon: 'receipt_long' }]),
 		{ path: '/history', label: 'Історія тренувань', icon: 'history' },
 		{ path: '/settings', label: 'Налаштування', icon: 'settings' },
 		{ path: '/data', label: 'Дані та приватність', icon: 'shield_lock' },

@@ -2,6 +2,7 @@
 export const USER_DATA_COLLECTIONS = [
 	'trainingSetups',
 	'limitations',
+	'weights',
 	'plans',
 	'sessions',
 	'exerciseFlags',

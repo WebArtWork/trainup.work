@@ -1,0 +1,48 @@
+import { Component, computed, inject, input, signal } from '@angular/core';
+import type { Exercise } from '@trainup/planner';
+import { shownTrainer, trainerImage } from '../../feature/trainer/trainer.interface';
+import { TrainerService } from '../../feature/trainer/trainer.service';
+
+/** Exercise picture for the chosen trainer, with a placeholder when the file is missing. */
+@Component({
+	selector: 'app-exercise-image',
+	host: { class: 'flex h-full w-full items-center justify-center' },
+	template: `
+		@if (src(); as source) {
+			<img
+				class="h-full w-full object-contain"
+				[src]="source"
+				[alt]="alt()"
+				width="960"
+				height="600"
+				[attr.loading]="lazy() ? 'lazy' : null"
+				decoding="async"
+				(error)="failed.set(source)"
+			/>
+		} @else {
+			<span
+				class="material-symbols-outlined text-[var(--c-text-muted)]"
+				[class]="iconClass()"
+				aria-hidden="true"
+			>
+				fitness_center
+			</span>
+		}
+	`,
+})
+export class ExerciseImageComponent {
+	private readonly _trainer = inject(TrainerService);
+
+	readonly exercise = input.required<Exercise>();
+	readonly alt = input('');
+	readonly lazy = input(false);
+	readonly iconClass = input('text-[44px]');
+
+	protected readonly failed = signal<string | null>(null);
+	protected readonly src = computed(() => {
+		const exercise = this.exercise();
+		const url = trainerImage(exercise, shownTrainer(exercise, this._trainer.choice()));
+
+		return url && url !== this.failed() ? url : null;
+	});
+}

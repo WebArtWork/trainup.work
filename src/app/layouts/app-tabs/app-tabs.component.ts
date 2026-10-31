@@ -1,6 +1,7 @@
 import { Component, DestroyRef, inject } from '@angular/core';
 import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
+import { environment } from '../../../environments/environment';
 import { OfflineBannerComponent } from '../../ui/offline-banner/offline-banner.component';
 import { ExerciseCatalogService } from '../../feature/exercise/exercise-catalog.service';
 import { PlanService } from '../../feature/plan/plan.service';
@@ -26,7 +27,8 @@ interface AppTab {
 			[translate]="{ ariaLabel: 'Основна навігація' }"
 		>
 			<ul
-				class="surface-raised mx-auto grid max-w-md grid-cols-4 gap-1 p-1.5 dark:bg-[var(--c-bg-secondary)]/85 dark:backdrop-blur-xl"
+				class="surface-raised mx-auto grid max-w-md gap-1 p-1.5 dark:bg-[var(--c-bg-secondary)]/85 dark:backdrop-blur-xl"
+				[style.grid-template-columns]="'repeat(' + tabs.length + ', minmax(0, 1fr))'"
 			>
 				@for (tab of tabs; track tab.path) {
 					<li>
@@ -49,7 +51,8 @@ interface AppTab {
 })
 export class AppTabsComponent {
 	protected readonly tabs: AppTab[] = [
-		{ path: '/store', label: 'Магазин', icon: 'storefront' },
+		// The store is for the website only; mobile builds leave it out.
+		...(environment.mobile ? [] : [{ path: '/store', label: 'Магазин', icon: 'storefront' }]),
 		{ path: '/explore', label: 'Вправи', icon: 'search' },
 		{ path: '/workout', label: 'Тренування', icon: 'exercise' },
 		{ path: '/today', label: 'Сьогодні', icon: 'today' },

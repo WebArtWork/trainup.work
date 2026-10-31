@@ -16,7 +16,7 @@
 			</p>
 
 			<div class="mt-8 flex flex-wrap items-center gap-x-6 gap-y-4">
-				<a class="btn btn-primary btn-lg" routerLink="/today">
+				<a class="btn btn-primary btn-lg" routerLink="/dashboard">
 					<span translate>Відкрити застосунок</span>
 					<span class="material-symbols-outlined text-[22px]" aria-hidden="true">arrow_forward</span>
 				</a>
@@ -87,6 +87,57 @@
 				</li>
 			}
 		</ol>
+	</section>
+
+	<!-- Where to train -->
+	<section class="page-wrap relative pb-16 sm:pb-24" aria-labelledby="landing-places-title">
+		<h2
+			id="landing-places-title"
+			class="font-display text-3xl text-[var(--c-text-strong)] sm:text-4xl"
+			translate
+		>
+			Тренуйтеся там, де вам зручно
+		</h2>
+
+		<ul class="mt-8 grid gap-4 md:grid-cols-3">
+			@for (place of places; track place.title) {
+				<li class="surface flex flex-col gap-3 p-6 sm:p-7">
+					<span
+						class="material-symbols-outlined text-[32px] text-[var(--c-primary-text)]"
+						aria-hidden="true"
+					>
+						{{ place.icon }}
+					</span>
+					<h3 class="font-display text-xl text-[var(--c-text-strong)]" [translate]="place.title">
+						{{ place.title }}
+					</h3>
+					<p class="text-sm leading-7 text-[var(--c-text)]" [translate]="place.text">
+						{{ place.text }}
+					</p>
+				</li>
+			}
+		</ul>
+
+		<ul class="mt-4 grid gap-4 md:grid-cols-2">
+			@for (extra of extras; track extra.title) {
+				<li class="surface-inset flex gap-4 p-6 sm:p-7">
+					<span
+						class="material-symbols-outlined text-[32px] text-[var(--c-secondary)]"
+						aria-hidden="true"
+					>
+						{{ extra.icon }}
+					</span>
+					<div>
+						<h3 class="font-display text-xl text-[var(--c-text-strong)]" [translate]="extra.title">
+							{{ extra.title }}
+						</h3>
+						<p class="mt-2 text-sm leading-7 text-[var(--c-text)]" [translate]="extra.text">
+							{{ extra.text }}
+						</p>
+					</div>
+				</li>
+			}
+		</ul>
 	</section>
 
 	<!-- Why it is different: one loud block + two supporting -->
@@ -204,7 +255,7 @@
 			<h2 class="font-display max-w-xl text-3xl sm:text-4xl" translate>
 				Складіть план під свій простір
 			</h2>
-			<a class="btn btn-primary btn-lg shrink-0" routerLink="/today">
+			<a class="btn btn-primary btn-lg shrink-0" routerLink="/dashboard">
 				<span translate>Відкрити застосунок</span>
 				<span class="material-symbols-outlined text-[22px]" aria-hidden="true">arrow_forward</span>
 			</a>

@@ -87,6 +87,16 @@ export class WorkoutSessionService {
 		this.history.set(snapshot.docs.map((item) => item.data() as WorkoutSession));
 	}
 
+	/** Every finished session dated on or after `date` (`YYYY-MM-DD`), for the dashboard totals. */
+	async loadSince(date: string): Promise<WorkoutSession[]> {
+		const { db, uid } = this._context();
+		const snapshot = await getDocs(
+			query(collection(db, 'users', uid, 'sessions'), where('date', '>=', date)),
+		);
+
+		return snapshot.docs.map((item) => item.data() as WorkoutSession);
+	}
+
 	async save(workout: FinishedWorkout): Promise<void> {
 		const { db, uid } = this._context();
 		const sets = workout.exercises.flatMap((exercise) => exercise.sets);

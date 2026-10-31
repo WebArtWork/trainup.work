@@ -1,4 +1,4 @@
-<div class="mt-6 flex flex-col gap-4 pb-28">
+<div class="flex flex-col gap-4">
 	@let stateValue = state();
 	@switch (stateValue) {
 		@case ('loading') {
@@ -20,55 +20,14 @@
 					text="Вправи з’являться тут після перевірки фахівцем."
 				/>
 			} @else {
-				<div class="flex flex-col gap-3">
-					@if (equipmentFiltered()) {
-						<div class="surface-inset flex items-center justify-between gap-3 px-4 py-2 text-sm">
-							<span class="text-[var(--c-text-strong)]" translate>Вправи з вашого замовлення</span>
-							<a class="link inline-flex min-h-11 items-center" routerLink="/explore" translate>
-								Показати всі
-							</a>
-						</div>
-					}
-
-					<label class="relative block">
-						<span class="sr-only" translate>Пошук вправи</span>
-						<span
-							class="material-symbols-outlined pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-[20px] text-[var(--c-text-muted)]"
-							aria-hidden="true"
-						>
-							search
-						</span>
-						<input
-							class="field min-h-12 w-full pl-12"
-							type="search"
-							[value]="search()"
-							[translate]="{ placeholder: 'Пошук за назвою' }"
-							(input)="search.set($any($event.target).value)"
-						/>
-					</label>
-
-					<div class="flex flex-wrap gap-2" role="group" [translate]="{ ariaLabel: 'Тип вправ' }">
-						@for (option of categoryOptions; track option.value) {
-							<button
-								type="button"
-								appOptionPill
-								[label]="option.label"
-								[selected]="category() === option.value"
-								(click)="category.set(option.value)"
-							></button>
-						}
+				@if (equipmentFiltered()) {
+					<div class="surface-inset flex items-center justify-between gap-3 px-4 py-2 text-sm">
+						<span class="text-[var(--c-text-strong)]" translate>Вправи з вашого замовлення</span>
+						<a class="link inline-flex min-h-11 items-center" routerLink="/explore" translate>
+							Показати всі
+						</a>
 					</div>
-
-					<label class="flex min-h-11 cursor-pointer items-center gap-3 text-sm font-semibold text-[var(--c-text-strong)]">
-						<input
-							class="h-5 w-5 accent-[var(--c-primary)]"
-							type="checkbox"
-							[checked]="suitableOnly()"
-							(change)="suitableOnly.set($any($event.target).checked)"
-						/>
-						<span translate>Лише ті, що підходять мені</span>
-					</label>
-				</div>
+				}
 
 				@if (items().length) {
 					<ul class="grid grid-cols-2 gap-3 sm:gap-4">
@@ -82,24 +41,7 @@
 										class="relative flex aspect-[4/3] items-center justify-center bg-[var(--c-bg-tertiary)]"
 										[class.opacity-70]="!item.suitable"
 									>
-										@if (item.exercise.imageUrl) {
-											<img
-												class="h-full w-full object-contain"
-												[src]="item.exercise.imageUrl"
-												alt=""
-												width="960"
-												height="600"
-												loading="lazy"
-												decoding="async"
-											/>
-										} @else {
-											<span
-												class="material-symbols-outlined text-[44px] text-[var(--c-text-muted)]"
-												aria-hidden="true"
-											>
-												fitness_center
-											</span>
-										}
+										<app-exercise-image [exercise]="item.exercise" [lazy]="true" />
 										@if (!item.suitable) {
 											<span
 												class="chip absolute left-2 top-2 bg-[var(--c-bg-secondary)] text-[var(--c-warning)]"

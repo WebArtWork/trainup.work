@@ -21,7 +21,9 @@ export type EquipmentType =
 	| 'rack'
 	| 'jump-rope'
 	| 'step-platform'
-	| 'cardio-machine';
+	| 'cardio-machine'
+	| 'machines'
+	| 'cable-machine';
 
 export type BandResistance = 'light' | 'medium' | 'heavy';
 
@@ -133,6 +135,9 @@ export type AxialLoad = 'none' | 'low' | 'moderate' | 'high';
 
 export type IntensityMode = 'reps' | 'time';
 
+/** The coach who demonstrates an exercise. */
+export type Trainer = 'female' | 'male';
+
 /**
  * Equipment the exercise needs: every group must be satisfied, and a group is satisfied by any one
  * of its types. `[{ anyOf: ['dumbbells', 'kettlebell'] }, { anyOf: ['bench'] }]` means
@@ -197,6 +202,8 @@ export interface Exercise {
 	estimatedSetSeconds: number;
 	restSeconds: number;
 	imageUrl: string | null;
+	/** Trainers who demonstrate it; missing means both, and the exercise is listed once. */
+	trainers?: Trainer[];
 	steps: string[];
 	techniqueNotes: string[];
 	/** Incremented on every content change; plans keep the version they were built with. */

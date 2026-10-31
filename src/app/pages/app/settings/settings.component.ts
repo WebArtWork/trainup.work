@@ -14,7 +14,7 @@ interface SettingsLink {
 @Component({
 	imports: [OptionPillComponent, RouterLink, TranslateDirective],
 	template: `
-		<div class="mt-6 flex flex-col gap-5 pb-28">
+		<div class="mt-6 flex flex-col gap-5">
 			<section class="surface divide-y divide-[var(--c-border)]">
 				<div class="flex flex-col gap-3 p-4 sm:p-5" role="group" aria-labelledby="theme-title">
 					<div class="flex items-center gap-3">

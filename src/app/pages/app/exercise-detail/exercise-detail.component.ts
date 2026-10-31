@@ -12,10 +12,11 @@ import {
 } from '../../../feature/plan/plan.const';
 import { FITNESS_LEVEL_OPTIONS } from '../../../feature/profile/profile.const';
 import { EQUIPMENT_OPTIONS } from '../../../feature/training-setup/training-setup.const';
+import { ExerciseImageComponent } from '../../../ui/exercise-image/exercise-image.component';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
 @Component({
-	imports: [RouterLink, StateMessageComponent, TranslateDirective],
+	imports: [ExerciseImageComponent, RouterLink, StateMessageComponent, TranslateDirective],
 	templateUrl: './exercise-detail.component.html',
 })
 export class ExerciseDetailComponent {

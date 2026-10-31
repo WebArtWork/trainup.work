@@ -2,6 +2,8 @@ export const environment: {
 	apiUrl: string;
 	appVersion: string;
 	production: boolean;
+	/** Capacitor (Android/iOS) build: opens the app directly instead of the landing page. */
+	mobile: boolean;
 	companyId: string;
 	defaultLanguage: string;
 	languages: AppLanguage[];
@@ -14,6 +16,7 @@ export const environment: {
 	apiUrl: 'https://it.webart.work',
 	appVersion: '1.0.0',
 	production: true,
+	mobile: false,
 	companyId: '',
 	defaultLanguage: 'ua',
 	languages: [

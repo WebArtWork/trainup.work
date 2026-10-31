@@ -14,7 +14,7 @@ Phases have no dates yet. Add them once team capacity is known.
 | Firestore database      | `(default)` exists in Frankfurt (`europe-west3`); empty                                                   |
 | Firestore rules         | Field validation for all collections in use, 26 emulator tests; **not deployed yet** (`npm run rules`)   |
 | App (README §13)        | Phases 1–3 code done (onboarding, planner, workouts, feedback, to-dos, reminders); awaiting end-to-end check. Phases 4–5 open |
-| Exercise catalog        | 48 exercises in `src/data/exercise/exercises.json`, bundled with the app, no images |
+| Exercise catalog        | 113 exercises in `src/data/exercise/exercises.json`, bundled with the app, no images |
 
 ## Critical path
 
@@ -110,7 +110,7 @@ Code is in place (2026-10-08). Plans can be built and run end to end with the bu
 
 **2b. Catalog**
 
-- [x] 48 exercises in `src/data/exercise/exercises.json`, bundled with the app (metadata decided per
+- [x] 113 exercises in `src/data/exercise/exercises.json`, bundled with the app (metadata decided per
       exercise; text written by an agent), no images. All are shown; our expert approves the content
       outside the app, so there are no draft or published states.
 - [x] Explore: search, category filter, "suits me" filter using the planner's own rules; detail page

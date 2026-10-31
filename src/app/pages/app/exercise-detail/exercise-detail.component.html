@@ -1,5 +1,5 @@
 
-<div class="mt-3 pb-28">
+<div class="mt-3">
 	@let stateValue = state();
 	@switch (stateValue) {
 		@case ('loading') {
@@ -20,20 +20,7 @@
 				<div
 					class="surface-raised flex aspect-[16/10] items-center justify-center overflow-hidden bg-[var(--c-bg-tertiary)]"
 				>
-					@if (item.imageUrl) {
-						<img
-							class="h-full w-full object-contain"
-							[src]="item.imageUrl"
-							[alt]="item.name"
-							width="960"
-							height="600"
-							decoding="async"
-						/>
-					} @else {
-						<span class="material-symbols-outlined text-[72px] text-[var(--c-text-muted)]" aria-hidden="true">
-							fitness_center
-						</span>
-					}
+					<app-exercise-image [exercise]="item" [alt]="item.name" iconClass="text-[72px]" />
 				</div>
 
 				<ul class="mt-3 flex flex-wrap gap-2">

@@ -5,7 +5,7 @@ import { generatePlan } from './generate';
 import type { Exercise, FitnessLevel, Goal, PlannerInput, TrainingSetupInput } from './types';
 import { validatePlan } from './validate';
 
-// The real catalog in src/data. `npm run seed` refuses to upload when this suite fails.
+// The real catalog in src/data: every plan below is built from it.
 const catalog = catalogJson as Exercise[];
 
 const SETUPS: Record<string, TrainingSetupInput> = {
@@ -39,6 +39,19 @@ const SETUPS: Record<string, TrainingSetupInput> = {
 		canLieDown: 'yes',
 		safeAnchor: 'yes',
 	},
+	'outdoors, park bench and bar': {
+		noEquipment: false,
+		equipment: [{ type: 'bench', adjustable: false }, { type: 'pull-up-bar', safelyInstalled: true }],
+		customEquipment: [],
+		location: 'outdoors',
+		floor: { preset: 'large', lengthM: null, widthM: null },
+		ceiling: { preset: 'high', heightM: null },
+		surface: 'grass',
+		jumpingAllowed: 'yes',
+		quietOnly: false,
+		canLieDown: 'yes',
+		safeAnchor: 'yes',
+	},
 	'gym, everything': {
 		noEquipment: false,
 		equipment: [
@@ -52,6 +65,8 @@ const SETUPS: Record<string, TrainingSetupInput> = {
 			{ type: 'jump-rope' },
 			{ type: 'step-platform' },
 			{ type: 'cardio-machine' },
+			{ type: 'machines' },
+			{ type: 'cable-machine' },
 		],
 		customEquipment: [],
 		location: 'gym',
@@ -109,4 +124,39 @@ describe('exercise catalog (src/data/exercise/exercises.json)', () => {
 			}
 		});
 	}
+
+	describe('location shapes the workouts', () => {
+		const idsFor = (location: 'gym' | 'outdoors', goal: Goal) => {
+			const setup = SETUPS[location === 'gym' ? 'gym, everything' : 'outdoors, park bench and bar']!;
+			const result = generatePlan({
+				profile: { goal, fitnessLevel: 'intermediate', daysPerWeek: 3, sessionMinutes: 45, preferredDays: [] },
+				setup,
+				limitations: [],
+				catalog,
+				startDate: '2026-10-05',
+			});
+
+			expect(result.ok).toBe(true);
+
+			return result.ok ? new Set(result.plan.days.flatMap((day) => day.exercises.map((e) => e.exerciseId))) : new Set<string>();
+		};
+		const only = (location: string) =>
+			new Set(catalog.filter((e) => e.minimumSpace.locations.join() === location).map((e) => e.id));
+
+		it('puts gym-only exercises into gym plans and none into outdoor plans', () => {
+			const gym = [...idsFor('gym', 'build-strength')].filter((id) => only('gym').has(id));
+			const outdoors = [...idsFor('outdoors', 'build-strength')].filter((id) => only('gym').has(id));
+
+			expect(gym.length).toBeGreaterThanOrEqual(3);
+			expect(outdoors).toEqual([]);
+		});
+
+		it('puts outdoor-only exercises into outdoor plans and none into gym plans', () => {
+			const outdoors = [...idsFor('outdoors', 'general-fitness')].filter((id) => only('outdoors').has(id));
+			const gym = [...idsFor('gym', 'general-fitness')].filter((id) => only('outdoors').has(id));
+
+			expect(outdoors.length).toBeGreaterThanOrEqual(3);
+			expect(gym).toEqual([]);
+		});
+	});
 });

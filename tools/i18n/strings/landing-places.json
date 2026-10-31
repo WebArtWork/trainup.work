@@ -1,0 +1,18 @@
+[
+	{ "ua": "Де ви тренуєтесь: вдома, у залі чи надворі", "en": "Where you train: at home, in the gym or outdoors" },
+	{ "ua": "Тренуйтеся там, де вам зручно", "en": "Train wherever suits you" },
+	{ "ua": "Вдома", "en": "At home" },
+	{ "ua": "У спортзалі", "en": "In the gym" },
+	{ "ua": "На вулиці", "en": "Outdoors" },
+	{ "ua": "Вправи з власною вагою, гантелями чи гумками, які безпечно виконувати у вашій кімнаті.", "en": "Bodyweight, dumbbell or band exercises that are safe to do in your room." },
+	{ "ua": "Силові тренажери, блоки та штанга: тренування будується навколо базових вправ із додатковими.", "en": "Strength machines, cables and barbell: workouts are built around the main lifts plus accessories." },
+	{ "ua": "Біг інтервалами, випади, турнік і лава в парку: більше кардіо та вправ без обладнання.", "en": "Interval runs, lunges, a pull-up bar and a park bench: more cardio and no-equipment moves." },
+	{ "ua": "Тренер на вибір", "en": "Choose your trainer" },
+	{ "ua": "Оберіть тренера-дівчину або тренера-хлопця: вправи показуються з його зображеннями.", "en": "Pick a female or a male trainer: exercises are shown with their pictures." },
+	{ "ua": "Ваш прогрес", "en": "Your progress" },
+	{ "ua": "Панель показує вагу та кількість виконаних тренувань за тиждень, місяць і рік, у порівнянні з минулим періодом.", "en": "The dashboard shows your weight and finished workouts for the week, month and year, compared with the previous period." },
+	{ "ua": "Чи можна тренуватися в залі або на вулиці?", "en": "Can I train in the gym or outdoors?" },
+	{ "ua": "Так. Ви обираєте місце, і план складається з вправ саме для нього: у залі більше силових вправ на тренажерах і зі штангою, на вулиці більше бігу та вправ із власною вагою.", "en": "Yes. You choose the place and the plan is built from exercises for it: more machine and barbell strength work in the gym, more running and bodyweight moves outdoors." },
+	{ "ua": "Чи можна відстежувати свою вагу?", "en": "Can I track my weight?" },
+	{ "ua": "Так. Записуйте вагу на панелі, і TrainUp покаже середнє значення за тиждень, місяць і рік та порівняння з минулим періодом.", "en": "Yes. Log your weight on the dashboard and TrainUp shows the average for the week, month and year, compared with the previous period." }
+]

@@ -18,6 +18,7 @@ import {
 } from '../../../feature/workout-session/workout-session.interface';
 import { WorkoutSessionService } from '../../../feature/workout-session/workout-session.service';
 import { OptionPillComponent } from '../../../ui/option-pill/option-pill.component';
+import { ExerciseImageComponent } from '../../../ui/exercise-image/exercise-image.component';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
 type Phase = 'loading' | 'error' | 'missing' | 'run' | 'summary' | 'saved' | 'done-before';
@@ -54,6 +55,7 @@ interface Hold {
 
 @Component({
 	imports: [
+		ExerciseImageComponent,
 		ExerciseTargetComponent,
 		OptionPillComponent,
 		RouterLink,

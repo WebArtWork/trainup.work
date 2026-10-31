@@ -53,6 +53,8 @@ export const EQUIPMENT_OPTIONS: EquipmentOption[] = [
 	{ value: 'jump-rope', label: 'Скакалка', icon: 'cable' },
 	{ value: 'step-platform', label: 'Степ-платформа', icon: 'stairs' },
 	{ value: 'cardio-machine', label: 'Кардіотренажер', icon: 'directions_bike' },
+	{ value: 'machines', label: 'Силові тренажери', icon: 'settings_accessibility' },
+	{ value: 'cable-machine', label: 'Блочний тренажер', icon: 'sync_alt' },
 ];
 
 export const BAND_RESISTANCE_OPTIONS: ChoiceOption<BandResistance>[] = [

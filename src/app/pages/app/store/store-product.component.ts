@@ -8,9 +8,16 @@ import { MoneyPipe } from '../../../feature/store/money.pipe';
 import { findProduct } from '../../../feature/store/store.data';
 import { EQUIPMENT_OPTIONS } from '../../../feature/training-setup/training-setup.const';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
+import { ProductImageComponent } from '../../../ui/product-image/product-image.component';
 
 @Component({
-	imports: [MoneyPipe, RouterLink, StateMessageComponent, TranslateDirective],
+	imports: [
+		MoneyPipe,
+		ProductImageComponent,
+		RouterLink,
+		StateMessageComponent,
+		TranslateDirective,
+	],
 	template: `
 		<div class="mt-6 flex flex-col gap-4">
 			@if (product(); as product) {
@@ -18,13 +25,19 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 					<div
 						class="surface-inset flex aspect-[4/3] items-center justify-center text-[var(--c-primary-text)]"
 					>
-						<span class="material-symbols-outlined text-[96px]" aria-hidden="true">
-							{{ product.icon }}
-						</span>
+						<app-product-image
+							[product]="product"
+							[alt]="product.name"
+							[lazy]="false"
+							iconClass="text-[96px]"
+						/>
 					</div>
 
 					<div>
-						<h1 class="font-display text-2xl text-[var(--c-text-strong)]" [translate]="product.name">
+						<h1
+							class="font-display text-2xl text-[var(--c-text-strong)]"
+							[translate]="product.name"
+						>
 							{{ product.name }}
 						</h1>
 						<p class="font-display mt-1 text-2xl text-[var(--c-primary-text)]">
@@ -32,7 +45,10 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 						</p>
 					</div>
 
-					<p class="text-sm leading-6 text-[var(--c-text)]" [translate]="product.description">
+					<p
+						class="text-sm leading-6 text-[var(--c-text)]"
+						[translate]="product.description"
+					>
 						{{ product.description }}
 					</p>
 
@@ -45,12 +61,17 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 						</span>
 						<p class="text-sm leading-6 text-[var(--c-text)]">
 							<span translate>Після покупки у вашому обладнанні з’явиться:</span>
-							<strong class="text-[var(--c-text-strong)]" [translate]="equipmentLabel()">
+							<strong
+								class="text-[var(--c-text-strong)]"
+								[translate]="equipmentLabel()"
+							>
 								{{ equipmentLabel() }}
 							</strong>
 							@if (owned()) {
 								<br />
-								<span class="chip chip-success mt-1" translate>Уже є у вашому списку</span>
+								<span class="chip chip-success mt-1" translate
+									>Уже є у вашому списку</span
+								>
 							}
 						</p>
 					</div>
@@ -97,14 +118,14 @@ export class StoreProductComponent {
 	protected readonly product = computed(() => findProduct(this._id) ?? null);
 	protected readonly inCart = computed(() => this._cart.cart()[this._id ?? ''] ?? 0);
 	protected readonly equipmentLabel = computed(() => {
-		const type = this.product()?.equipment.type;
+		const type = this.product()?.equipment?.type;
 
 		return EQUIPMENT_OPTIONS.find((option) => option.value === type)?.label ?? '';
 	});
 	protected readonly owned = computed(() => {
-		const type = this.product()?.equipment.type;
+		const type = this.product()?.equipment?.type;
 
-		return !!this._account.setup()?.equipment.some((item) => item.type === type);
+		return !!type && !!this._account.setup()?.equipment.some((item) => item.type === type);
 	});
 
 	constructor() {

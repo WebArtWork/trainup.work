@@ -1,7 +1,7 @@
 import { Routes } from '@angular/router';
 import { buildRouteMeta } from '@wawjs/ngx-default';
+import { environment } from '../environments/environment';
 import { companyProfile } from './feature/company/company.data';
-import { landingGuard } from './feature/auth/landing.guard';
 import { MarketingLayoutComponent } from './layouts/marketing/marketing-layout.component';
 
 export const routes: Routes = [
@@ -9,19 +9,21 @@ export const routes: Routes = [
 		path: '',
 		component: MarketingLayoutComponent,
 		children: [
-			{
-				path: '',
-				pathMatch: 'full',
-				data: {
-					meta: {
-						...buildRouteMeta(companyProfile, '/'),
-						titleSuffix: '',
+			environment.mobile
+				? // Mobile builds have no landing page: the app is the first screen.
+					{ path: '', pathMatch: 'full', redirectTo: 'dashboard' }
+				: {
+						path: '',
+						pathMatch: 'full',
+						data: {
+							meta: {
+								...buildRouteMeta(companyProfile, '/'),
+								titleSuffix: '',
+							},
+						},
+						loadComponent: () =>
+							import('./pages/landing/landing.component').then((m) => m.LandingComponent),
 					},
-				},
-				canActivate: [landingGuard],
-				loadComponent: () =>
-					import('./pages/landing/landing.component').then((m) => m.LandingComponent),
-			},
 			{
 				path: 'privacy',
 				data: { document: 'privacy', meta: buildRouteMeta(companyProfile, '/privacy') },

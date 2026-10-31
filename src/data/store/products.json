@@ -6,8 +6,13 @@
 		"price": 1199,
 		"stock": 18,
 		"icon": "fitness_center",
-		"image": null,
-		"equipment": { "type": "dumbbells", "weightsKg": [5] }
+		"image": "/products/dumbbells-5kg.jpg",
+		"equipment": {
+			"type": "dumbbells",
+			"weightsKg": [
+				5
+			]
+		}
 	},
 	{
 		"id": "dumbbells-10kg",
@@ -16,8 +21,13 @@
 		"price": 2099,
 		"stock": 12,
 		"icon": "fitness_center",
-		"image": null,
-		"equipment": { "type": "dumbbells", "weightsKg": [10] }
+		"image": "/products/dumbbells-10kg.jpg",
+		"equipment": {
+			"type": "dumbbells",
+			"weightsKg": [
+				10
+			]
+		}
 	},
 	{
 		"id": "resistance-bands",
@@ -26,8 +36,15 @@
 		"price": 449,
 		"stock": 40,
 		"icon": "gesture",
-		"image": null,
-		"equipment": { "type": "resistance-bands", "resistances": ["light", "medium", "heavy"] }
+		"image": "/products/resistance-bands.jpg",
+		"equipment": {
+			"type": "resistance-bands",
+			"resistances": [
+				"light",
+				"medium",
+				"heavy"
+			]
+		}
 	},
 	{
 		"id": "kettlebell-12kg",
@@ -36,8 +53,13 @@
 		"price": 1099,
 		"stock": 15,
 		"icon": "exercise",
-		"image": null,
-		"equipment": { "type": "kettlebell", "weightsKg": [12] }
+		"image": "/products/kettlebell-12kg.jpg",
+		"equipment": {
+			"type": "kettlebell",
+			"weightsKg": [
+				12
+			]
+		}
 	},
 	{
 		"id": "bench-adjustable",
@@ -46,8 +68,11 @@
 		"price": 3499,
 		"stock": 6,
 		"icon": "airline_seat_flat",
-		"image": null,
-		"equipment": { "type": "bench", "adjustable": true }
+		"image": "/products/bench-adjustable.jpg",
+		"equipment": {
+			"type": "bench",
+			"adjustable": true
+		}
 	},
 	{
 		"id": "pull-up-bar",
@@ -56,8 +81,10 @@
 		"price": 899,
 		"stock": 14,
 		"icon": "horizontal_rule",
-		"image": null,
-		"equipment": { "type": "pull-up-bar" }
+		"image": "/products/pull-up-bar.jpg",
+		"equipment": {
+			"type": "pull-up-bar"
+		}
 	},
 	{
 		"id": "jump-rope",
@@ -66,8 +93,10 @@
 		"price": 249,
 		"stock": 50,
 		"icon": "cable",
-		"image": null,
-		"equipment": { "type": "jump-rope" }
+		"image": "/products/jump-rope.jpg",
+		"equipment": {
+			"type": "jump-rope"
+		}
 	},
 	{
 		"id": "step-platform",
@@ -76,7 +105,489 @@
 		"price": 1299,
 		"stock": 9,
 		"icon": "stairs",
-		"image": null,
-		"equipment": { "type": "step-platform" }
+		"image": "/products/step-platform.jpg",
+		"equipment": {
+			"type": "step-platform"
+		}
+	},
+	{
+		"id": "yoga-mat-6mm",
+		"name": "Килимок для йоги 6 мм",
+		"description": "Нековзне покриття, зручний для розтяжки, йоги та вправ на підлозі.",
+		"price": 599,
+		"stock": 40,
+		"icon": "self_improvement",
+		"image": "/products/yoga-mat-6mm.jpg",
+		"equipment": {
+			"type": "mat"
+		}
+	},
+	{
+		"id": "gym-mat-10mm",
+		"name": "Гімнастичний килимок 10 мм",
+		"description": "Щільний килимок для силових вправ і пресу, добре амортизує.",
+		"price": 799,
+		"stock": 28,
+		"icon": "self_improvement",
+		"image": "/products/gym-mat-10mm.jpg",
+		"equipment": {
+			"type": "mat"
+		}
+	},
+	{
+		"id": "yoga-blocks",
+		"name": "Блоки для йоги (2 шт.)",
+		"description": "Піна EVA, допомагають у розтяжці та балансі.",
+		"price": 449,
+		"stock": 30,
+		"icon": "view_in_ar",
+		"image": "/products/yoga-blocks.jpg",
+		"equipment": {
+			"type": "yoga-blocks"
+		}
+	},
+	{
+		"id": "dumbbells-3kg",
+		"name": "Гантелі 3 кг (пара)",
+		"description": "Неопренове або гумове покриття, зручний хват. Продаються парою.",
+		"price": 699,
+		"stock": 24,
+		"icon": "fitness_center",
+		"image": "/products/dumbbells-3kg.jpg",
+		"equipment": {
+			"type": "dumbbells",
+			"weightsKg": [
+				3
+			]
+		}
+	},
+	{
+		"id": "dumbbells-8kg",
+		"name": "Гантелі 8 кг (пара)",
+		"description": "Неопренове або гумове покриття, зручний хват. Продаються парою.",
+		"price": 1699,
+		"stock": 15,
+		"icon": "fitness_center",
+		"image": "/products/dumbbells-8kg.jpg",
+		"equipment": {
+			"type": "dumbbells",
+			"weightsKg": [
+				8
+			]
+		}
+	},
+	{
+		"id": "dumbbells-12kg",
+		"name": "Гантелі 12 кг (пара)",
+		"description": "Неопренове або гумове покриття, зручний хват. Продаються парою.",
+		"price": 2499,
+		"stock": 10,
+		"icon": "fitness_center",
+		"image": "/products/dumbbells-12kg.jpg",
+		"equipment": {
+			"type": "dumbbells",
+			"weightsKg": [
+				12
+			]
+		}
+	},
+	{
+		"id": "dumbbells-15kg",
+		"name": "Гантелі 15 кг (пара)",
+		"description": "Неопренове або гумове покриття, зручний хват. Продаються парою.",
+		"price": 2999,
+		"stock": 8,
+		"icon": "fitness_center",
+		"image": "/products/dumbbells-15kg.jpg",
+		"equipment": {
+			"type": "dumbbells",
+			"weightsKg": [
+				15
+			]
+		}
+	},
+	{
+		"id": "dumbbells-20kg",
+		"name": "Гантелі 20 кг (пара)",
+		"description": "Неопренове або гумове покриття, зручний хват. Продаються парою.",
+		"price": 3899,
+		"stock": 6,
+		"icon": "fitness_center",
+		"image": "/products/dumbbells-20kg.jpg",
+		"equipment": {
+			"type": "dumbbells",
+			"weightsKg": [
+				20
+			]
+		}
+	},
+	{
+		"id": "adjustable-dumbbells",
+		"name": "Збірні гантелі 2–20 кг (пара)",
+		"description": "Набір із блінами та замками: змінюйте вагу під вправу.",
+		"price": 4999,
+		"stock": 9,
+		"icon": "fitness_center",
+		"image": "/products/adjustable-dumbbells.jpg",
+		"equipment": {
+			"type": "dumbbells",
+			"weightsKg": [
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20
+			]
+		}
+	},
+	{
+		"id": "kettlebell-8kg",
+		"name": "Гиря 8 кг",
+		"description": "Литий чавун із вінілним покриттям, широка ручка для двох рук.",
+		"price": 899,
+		"stock": 20,
+		"icon": "exercise",
+		"image": "/products/kettlebell-8kg.jpg",
+		"equipment": {
+			"type": "kettlebell",
+			"weightsKg": [
+				8
+			]
+		}
+	},
+	{
+		"id": "kettlebell-16kg",
+		"name": "Гиря 16 кг",
+		"description": "Литий чавун із вінілним покриттям, широка ручка для двох рук.",
+		"price": 1399,
+		"stock": 14,
+		"icon": "exercise",
+		"image": "/products/kettlebell-16kg.jpg",
+		"equipment": {
+			"type": "kettlebell",
+			"weightsKg": [
+				16
+			]
+		}
+	},
+	{
+		"id": "kettlebell-20kg",
+		"name": "Гиря 20 кг",
+		"description": "Литий чавун із вінілним покриттям, широка ручка для двох рук.",
+		"price": 1699,
+		"stock": 10,
+		"icon": "exercise",
+		"image": "/products/kettlebell-20kg.jpg",
+		"equipment": {
+			"type": "kettlebell",
+			"weightsKg": [
+				20
+			]
+		}
+	},
+	{
+		"id": "kettlebell-24kg",
+		"name": "Гиря 24 кг",
+		"description": "Литий чавун із вінілним покриттям, широка ручка для двох рук.",
+		"price": 2099,
+		"stock": 8,
+		"icon": "exercise",
+		"image": "/products/kettlebell-24kg.jpg",
+		"equipment": {
+			"type": "kettlebell",
+			"weightsKg": [
+				24
+			]
+		}
+	},
+	{
+		"id": "band-loop-light",
+		"name": "Еспандер-петля (легкий)",
+		"description": "Латексна петля для підтягувань, присідань і розтяжки.",
+		"price": 199,
+		"stock": 35,
+		"icon": "gesture",
+		"image": "/products/band-loop-light.jpg",
+		"equipment": {
+			"type": "resistance-bands",
+			"resistances": [
+				"light"
+			]
+		}
+	},
+	{
+		"id": "band-loop-medium",
+		"name": "Еспандер-петля (середній)",
+		"description": "Латексна петля для підтягувань, присідань і розтяжки.",
+		"price": 229,
+		"stock": 35,
+		"icon": "gesture",
+		"image": "/products/band-loop-medium.jpg",
+		"equipment": {
+			"type": "resistance-bands",
+			"resistances": [
+				"medium"
+			]
+		}
+	},
+	{
+		"id": "band-loop-heavy",
+		"name": "Еспандер-петля (сильний)",
+		"description": "Латексна петля для підтягувань, присідань і розтяжки.",
+		"price": 259,
+		"stock": 35,
+		"icon": "gesture",
+		"image": "/products/band-loop-heavy.jpg",
+		"equipment": {
+			"type": "resistance-bands",
+			"resistances": [
+				"heavy"
+			]
+		}
+	},
+	{
+		"id": "barbell-50kg-set",
+		"name": "Штанга 50 кг із дисками",
+		"description": "Гриф із фіксаторами та набір гумових дисків.",
+		"price": 7999,
+		"stock": 5,
+		"icon": "linear_scale",
+		"image": "/products/barbell-50kg-set.jpg",
+		"equipment": {
+			"type": "barbell"
+		}
+	},
+	{
+		"id": "power-rack",
+		"name": "Силова рама",
+		"description": "Рама зі страхувальними упорами для присідань і жиму.",
+		"price": 12999,
+		"stock": 3,
+		"icon": "view_column",
+		"image": "/products/power-rack.jpg",
+		"equipment": {
+			"type": "rack"
+		}
+	},
+	{
+		"id": "bench-flat",
+		"name": "Лава пряма",
+		"description": "Міцна лава для жимів і підйомів на лаву.",
+		"price": 2499,
+		"stock": 8,
+		"icon": "airline_seat_flat",
+		"image": "/products/bench-flat.jpg",
+		"equipment": {
+			"type": "bench"
+		}
+	},
+	{
+		"id": "pull-up-bar-wall",
+		"name": "Турнік настінний",
+		"description": "Кріплення до стіни, кілька варіантів хвату.",
+		"price": 1599,
+		"stock": 12,
+		"icon": "horizontal_rule",
+		"image": "/products/pull-up-bar-wall.jpg",
+		"equipment": {
+			"type": "pull-up-bar"
+		}
+	},
+	{
+		"id": "jump-rope-weighted",
+		"name": "Скакалка обтяжена",
+		"description": "Обтяжені ручки для кардіо та плечового пояса.",
+		"price": 349,
+		"stock": 30,
+		"icon": "cable",
+		"image": "/products/jump-rope-weighted.jpg",
+		"equipment": {
+			"type": "jump-rope"
+		}
+	},
+	{
+		"id": "exercise-bike",
+		"name": "Велотренажер домашній",
+		"description": "Магнітний, 8 рівнів навантаження, компактний.",
+		"price": 7999,
+		"stock": 4,
+		"icon": "directions_bike",
+		"image": "/products/exercise-bike.jpg",
+		"equipment": {
+			"type": "cardio-machine"
+		}
+	},
+	{
+		"id": "treadmill-foldable",
+		"name": "Бігова доріжка складана",
+		"description": "Складається для зберігання, нахил і кілька програм.",
+		"price": 14999,
+		"stock": 3,
+		"icon": "directions_run",
+		"image": "/products/treadmill-foldable.jpg",
+		"equipment": {
+			"type": "cardio-machine"
+		}
+	},
+	{
+		"id": "rowing-machine",
+		"name": "Гребний тренажер",
+		"description": "Магнітний опір, складна конструкція для дому.",
+		"price": 11999,
+		"stock": 3,
+		"icon": "rowing",
+		"image": "/products/rowing-machine.jpg",
+		"equipment": {
+			"type": "cardio-machine"
+		}
+	},
+	{
+		"id": "multi-gym-station",
+		"name": "Силова станція",
+		"description": "Багатофункціональна станція: жим, тяга, ноги.",
+		"price": 18999,
+		"stock": 2,
+		"icon": "fitness_center",
+		"image": "/products/multi-gym-station.jpg",
+		"equipment": {
+			"type": "machines"
+		}
+	},
+	{
+		"id": "cable-crossover",
+		"name": "Блочний тренажер (кросовер)",
+		"description": "Два верхніх блоки для тяг, розведень і розгинань.",
+		"price": 24999,
+		"stock": 2,
+		"icon": "sync_alt",
+		"image": "/products/cable-crossover.jpg",
+		"equipment": {
+			"type": "cable-machine"
+		}
+	},
+	{
+		"id": "foam-roller",
+		"name": "Масажний ролик для м'язів",
+		"description": "Щільний ролик для розминки та відновлення.",
+		"price": 549,
+		"stock": 30,
+		"icon": "self_improvement",
+		"image": "/products/foam-roller.jpg",
+		"equipment": null
+	},
+	{
+		"id": "ab-wheel",
+		"name": "Ролик для преса",
+		"description": "Подвійне колесо, м'які ручки.",
+		"price": 399,
+		"stock": 35,
+		"icon": "sports_gymnastics",
+		"image": "/products/ab-wheel.jpg",
+		"equipment": null
+	},
+	{
+		"id": "push-up-bars",
+		"name": "Упори для віджимань",
+		"description": "Нековзні упори для комфортного положення зап'ястя.",
+		"price": 349,
+		"stock": 25,
+		"icon": "sports_gymnastics",
+		"image": "/products/push-up-bars.jpg",
+		"equipment": null
+	},
+	{
+		"id": "lifting-gloves",
+		"name": "Рукавички для залу",
+		"description": "Захищають долоні від мозолів під час тяг і жимів.",
+		"price": 449,
+		"stock": 40,
+		"icon": "sports_mma",
+		"image": "/products/lifting-gloves.jpg",
+		"equipment": null
+	},
+	{
+		"id": "wrist-straps",
+		"name": "Лямки для тяги",
+		"description": "Допомагають тримати гриф у важких тягах.",
+		"price": 299,
+		"stock": 45,
+		"icon": "sports_mma",
+		"image": "/products/wrist-straps.jpg",
+		"equipment": null
+	},
+	{
+		"id": "weight-belt",
+		"name": "Пояс для важких вправ",
+		"description": "Шкіряний пояс для підтримки попереку.",
+		"price": 999,
+		"stock": 15,
+		"icon": "sports_mma",
+		"image": "/products/weight-belt.jpg",
+		"equipment": null
+	},
+	{
+		"id": "knee-sleeves",
+		"name": "Наколінники спортивні (пара)",
+		"description": "Неопрен, тепло та легка підтримка колін.",
+		"price": 799,
+		"stock": 20,
+		"icon": "health_and_safety",
+		"image": "/products/knee-sleeves.jpg",
+		"equipment": null
+	},
+	{
+		"id": "massage-ball",
+		"name": "М'яч для масажу",
+		"description": "Невеликий щільний м'яч для точкового розслаблення.",
+		"price": 199,
+		"stock": 50,
+		"icon": "self_improvement",
+		"image": "/products/massage-ball.jpg",
+		"equipment": null
+	},
+	{
+		"id": "shaker",
+		"name": "Шейкер спортивний 700 мл",
+		"description": "Міцний шейкер із кульками для змішування.",
+		"price": 249,
+		"stock": 60,
+		"icon": "local_drink",
+		"image": "/products/shaker.jpg",
+		"equipment": null
+	},
+	{
+		"id": "sports-bag",
+		"name": "Спортивна сумка",
+		"description": "Місткий відсік і окрема кишеня для взуття.",
+		"price": 899,
+		"stock": 18,
+		"icon": "backpack",
+		"image": "/products/sports-bag.jpg",
+		"equipment": null
+	},
+	{
+		"id": "fitness-tracker",
+		"name": "Фітнес-браслет",
+		"description": "Крокомір, пульс, сон і нагадування про тренування.",
+		"price": 1499,
+		"stock": 14,
+		"icon": "watch",
+		"image": "/products/fitness-tracker.jpg",
+		"equipment": null
+	},
+	{
+		"id": "smart-scale",
+		"name": "Розумні ваги",
+		"description": "Показують вагу та склад тіла, синхронізуються з телефоном.",
+		"price": 1299,
+		"stock": 16,
+		"icon": "scale",
+		"image": "/products/smart-scale.jpg",
+		"equipment": null
 	}
 ]

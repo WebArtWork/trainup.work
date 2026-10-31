@@ -16,6 +16,7 @@ import {
 	OrderPayment,
 } from '../../../feature/store/order.interface';
 import { OrderService } from '../../../feature/store/order.service';
+import type { EquipmentItem } from '../../../feature/training-setup/training-setup.interface';
 import { EMPTY_TRAINING_SETUP_INPUT } from '../../../feature/training-setup/training-setup.const';
 import { StateMessageComponent } from '../../../ui/state-message/state-message.component';
 
@@ -239,7 +240,9 @@ export class CheckoutComponent {
 
 			this._save();
 			this.cart.clear();
-			await this._addToEquipment(lines.map(({ product }) => product.equipment));
+			await this._addToEquipment(
+				lines.flatMap(({ product }) => (product.equipment ? [product.equipment] : [])),
+			);
 			await this._router.navigate(['/store/orders', order.id]);
 		} catch {
 			this.error.set('Не вдалося оформити замовлення. Спробуйте ще раз.');
@@ -298,7 +301,11 @@ export class CheckoutComponent {
 	}
 
 	/** The order is already placed, so a failure here must not look like a failed checkout. */
-	private async _addToEquipment(bought: OrderInput['items'][number]['equipment'][]) {
+	private async _addToEquipment(bought: EquipmentItem[]) {
+		if (!bought.length) {
+			return;
+		}
+
 		try {
 			const setup = this._account.setup() ?? EMPTY_TRAINING_SETUP_INPUT;
 

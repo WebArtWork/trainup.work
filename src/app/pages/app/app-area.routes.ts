@@ -1,6 +1,7 @@
 import { inject } from '@angular/core';
 import { ActivatedRouteSnapshot, Router, Routes } from '@angular/router';
 import { isAccountSection } from '../../feature/account/account.interface';
+import { environment } from '../../../environments/environment';
 import { appPageMeta, exercisePageMeta } from './app-page-meta';
 import {
 	authGuard,
@@ -9,7 +10,42 @@ import {
 	onboardedGuard,
 } from '../../feature/auth/auth.guard';
 
-/** `/**` routes, lazy-loaded from app.routes.ts. */
+/** Store pages: shop, cart, checkout and orders. Website only. */
+const STORE_ROUTES: Routes = [
+	{
+		path: 'store',
+		data: { meta: appPageMeta('store'), barTitle: true, topbarLinks: 'store' },
+		loadComponent: () => import('./store/store.component').then((m) => m.StoreComponent),
+	},
+	{
+		path: 'store/cart',
+		data: { meta: appPageMeta('store-cart'), barTitle: true },
+		loadComponent: () => import('./store/cart.component').then((m) => m.CartComponent),
+	},
+	{
+		path: 'store/checkout',
+		data: { meta: appPageMeta('store-checkout'), barTitle: true },
+		loadComponent: () => import('./store/checkout.component').then((m) => m.CheckoutComponent),
+	},
+	{
+		path: 'store/orders',
+		data: { meta: appPageMeta('store-orders'), barTitle: true },
+		loadComponent: () => import('./store/orders.component').then((m) => m.OrdersComponent),
+	},
+	{
+		path: 'store/orders/:id',
+		data: { meta: appPageMeta('store-order'), barTitle: true },
+		loadComponent: () => import('./store/order.component').then((m) => m.OrderComponent),
+	},
+	{
+		path: 'store/:id',
+		data: { meta: appPageMeta('store-product') },
+		loadComponent: () =>
+			import('./store/store-product.component').then((m) => m.StoreProductComponent),
+	},
+];
+
+/** App routes, lazy-loaded from app.routes.ts. */
 export const APP_AREA_ROUTES: Routes = [
 	{
 		path: '',
@@ -52,6 +88,12 @@ export const APP_AREA_ROUTES: Routes = [
 								(m) => m.AppTabsComponent,
 							),
 						children: [
+							{
+								path: 'dashboard',
+								data: { meta: appPageMeta('dashboard'), barTitle: true },
+								loadComponent: () =>
+									import('./dashboard/dashboard.component').then((m) => m.DashboardComponent),
+							},
 							{
 								path: 'today',
 								data: { meta: appPageMeta('today'), barTitle: true },
@@ -102,45 +144,11 @@ export const APP_AREA_ROUTES: Routes = [
 										(m) => m.RemindersComponent,
 									),
 							},
-							{
-								path: 'store',
-								data: { meta: appPageMeta('store'), barTitle: true },
-								loadComponent: () =>
-									import('./store/store.component').then((m) => m.StoreComponent),
-							},
-							{
-								path: 'store/cart',
-								data: { meta: appPageMeta('store-cart'), barTitle: true },
-								loadComponent: () =>
-									import('./store/cart.component').then((m) => m.CartComponent),
-							},
-							{
-								path: 'store/checkout',
-								data: { meta: appPageMeta('store-checkout'), barTitle: true },
-								loadComponent: () =>
-									import('./store/checkout.component').then((m) => m.CheckoutComponent),
-							},
-							{
-								path: 'store/orders',
-								data: { meta: appPageMeta('store-orders'), barTitle: true },
-								loadComponent: () =>
-									import('./store/orders.component').then((m) => m.OrdersComponent),
-							},
-							{
-								path: 'store/orders/:id',
-								data: { meta: appPageMeta('store-order'), barTitle: true },
-								loadComponent: () =>
-									import('./store/order.component').then((m) => m.OrderComponent),
-							},
-							{
-								path: 'store/:id',
-								data: { meta: appPageMeta('store-product') },
-								loadComponent: () =>
-									import('./store/store-product.component').then((m) => m.StoreProductComponent),
-							},
+							// The store is for the website only; mobile builds leave it out.
+							...(environment.mobile ? [] : STORE_ROUTES),
 							{
 								path: 'explore',
-								data: { meta: appPageMeta('explore'), barTitle: true },
+								data: { meta: appPageMeta('explore'), barTitle: true, filters: true },
 								loadComponent: () =>
 									import('./explore/explore.component').then(
 										(m) => m.ExploreComponent,

@@ -24,7 +24,7 @@ interface AiMode {
 			</p>
 		</header>
 
-		<ul class="mt-6 flex flex-col gap-4 pb-28">
+		<ul class="mt-6 flex flex-col gap-4">
 			@for (mode of modes; track mode.id) {
 				<li
 					class="flex gap-4 p-4 sm:p-5"

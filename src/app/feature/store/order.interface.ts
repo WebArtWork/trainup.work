@@ -25,7 +25,7 @@ export interface OrderItem {
 	quantity: number;
 	/** Unit price in UAH at the time of purchase. */
 	price: number;
-	equipment: EquipmentItem;
+	equipment: EquipmentItem | null;
 }
 
 /** Order data collected by checkout. */

@@ -37,12 +37,12 @@
 		"/delete-account": {
 			"title": "Видалення акаунта",
 			"description": "Як видалити акаунт TrainUp і всі пов’язані з ним дані — у застосунку або на сайті.",
-			"image": "/seo/privacy.jpg"
+			"image": "/seo/delete-account.jpg"
 		},
 		"/support": {
 			"title": "Підтримка",
 			"description": "Як зв’язатися з TrainUp і відповіді на часті питання: вхід, план тренувань, замовлення, дані та видалення акаунта.",
-			"image": "/seo/privacy.jpg"
+			"image": "/seo/support.jpg"
 		}
 	}
 }

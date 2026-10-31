@@ -13,7 +13,7 @@ import { StateMessageComponent } from '../../../ui/state-message/state-message.c
 			</p>
 		</header>
 
-		<div class="mt-6 pb-28">
+		<div class="mt-6">
 			@let stateValue = state();
 			@switch (stateValue) {
 				@case ('loading') {

@@ -25,12 +25,12 @@ jobs:
               run: npm rebuild lightningcss
 
             - name: Build Angular app with SEO files
-              run: npm run build:seo
+              run: npm run build:gh
 
             - name: Copy CNAME file
               run: cp CNAME dist/app/browser/
 
-            # Unknown paths (including client-rendered /app/** deep links) boot the CSR shell,
+            # Unknown paths (including client-rendered app deep links such as /today) boot the CSR shell,
             # not the prerendered landing page, so Angular doesn't try to hydrate mismatched markup.
             - name: Add SPA fallback for GitHub Pages route reload
               run: cp dist/app/browser/index.csr.html dist/app/browser/404.html

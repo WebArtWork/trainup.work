@@ -394,16 +394,17 @@ body {
 		}
 	}
 
+	/* One side gutter for the top bar and every page, so their edges always line up. */
 	.page-wrap {
+		--page-gutter: 1.5rem;
 		margin-inline: auto;
 		width: 100%;
 		max-width: var(--container);
-		padding-inline: 1rem;
+		padding-inline: var(--page-gutter);
 	}
 
-	@media (min-width: 40rem) {
-		.page-wrap {
-			padding-inline: 1.5rem;
-		}
+	/* Signed-in app: same gutter, narrower column (top bar and page content share it). */
+	.page-wrap-narrow {
+		max-width: 42rem;
 	}
 }

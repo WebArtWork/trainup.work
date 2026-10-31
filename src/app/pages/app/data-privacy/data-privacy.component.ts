@@ -89,7 +89,7 @@ const CANCELLED_CODES = new Set(['auth/popup-closed-by-user', 'auth/cancelled-po
 		</section>
 
 		<nav
-			class="mt-8 flex flex-wrap gap-x-6 gap-y-1 pb-28 text-sm font-semibold"
+			class="mt-8 flex flex-wrap gap-x-6 gap-y-1 text-sm font-semibold"
 			[translate]="{ ariaLabel: 'Юридична інформація' }"
 		>
 			<a class="link inline-flex min-h-11 items-center" href="/privacy" target="_blank" rel="noopener" translate>

@@ -16,9 +16,10 @@ import type {
 	PlannerInput,
 	PlanResult,
 	Weekday,
+	WorkoutLocation,
 } from './types';
 
-export const ALGORITHM_VERSION = 'calculator-1.1.0';
+export const ALGORITHM_VERSION = 'calculator-1.2.0';
 export const PLAN_SCHEMA_VERSION = 1;
 export const DEFAULT_PLAN_WEEKS = 4;
 /** Moving between exercises, setting up equipment. */
@@ -79,6 +80,42 @@ const ACCESSORY_SLOTS: Record<Goal, MovementPattern[]> = {
 	'general-fitness': ['isolation'],
 	'improve-conditioning': [],
 };
+
+/**
+ * Where the user trains changes the shape of a workout. Outdoors leans on running and bodyweight
+ * circuits, the gym on loaded compound lifts plus accessories. Other places use the goal's default.
+ */
+const LOCATION_SLOTS: Partial<
+	Record<WorkoutLocation, Partial<Record<Goal, { main: MovementPattern[]; accessory: MovementPattern[] }>>>
+> = {
+	outdoors: {
+		'build-strength': {
+			main: ['squat', 'push-horizontal', 'pull-horizontal', 'lunge', 'core', 'conditioning', 'hinge', 'push-vertical'],
+			accessory: [],
+		},
+		'general-fitness': {
+			main: ['conditioning', 'squat', 'push-horizontal', 'lunge', 'pull-horizontal', 'core', 'conditioning', 'mobility'],
+			accessory: [],
+		},
+		'improve-conditioning': {
+			main: ['conditioning', 'conditioning', 'lunge', 'squat', 'push-horizontal', 'core', 'conditioning', 'mobility'],
+			accessory: [],
+		},
+	},
+	gym: {
+		'build-strength': {
+			main: ['squat', 'push-horizontal', 'pull-horizontal', 'hinge', 'push-vertical', 'pull-vertical', 'lunge', 'core'],
+			accessory: ['isolation', 'isolation', 'isolation'],
+		},
+		'general-fitness': {
+			main: ['squat', 'push-horizontal', 'pull-vertical', 'hinge', 'pull-horizontal', 'core', 'conditioning', 'mobility'],
+			accessory: ['isolation', 'isolation'],
+		},
+	},
+};
+
+/** Extra score for exercises made for exactly the place the user trains in. */
+const LOCATION_FIT_BONUS = 1.5;
 
 const CATEGORY_FIT: Record<Goal, Record<ExerciseCategory, number>> = {
 	'build-strength': { strength: 3, conditioning: 1, mobility: 0.5 },
@@ -165,6 +202,7 @@ export function generatePlan(input: PlannerInput): PlanResult {
 			usedThisWeek,
 			previousLoad,
 			prescribe,
+			setup.location,
 		);
 
 		if (session.length < MIN_EXERCISES_PER_DAY) {
@@ -244,12 +282,17 @@ function _buildSession(
 	usedThisWeek: Map<string, number>,
 	previousLoad: BodyArea[],
 	prescribe: (exercise: Exercise, week: number) => PlannedExercise,
+	location: WorkoutLocation | null,
 ): Exercise[] {
 	const session: Exercise[] = [];
 	let seconds = 0;
+	const shape = (location && LOCATION_SLOTS[location]?.[goal]) || {
+		main: SESSION_SLOTS[goal],
+		accessory: ACCESSORY_SLOTS[goal],
+	};
 
 	// Second pass fills leftover time with other exercises for the same patterns; accessories go last.
-	const slots = [...SESSION_SLOTS[goal], ...SESSION_SLOTS[goal], ...ACCESSORY_SLOTS[goal]];
+	const slots = [...shape.main, ...shape.main, ...shape.accessory];
 
 	for (const pattern of slots) {
 		if (session.length >= MAX_EXERCISES_PER_DAY) {
@@ -260,7 +303,7 @@ function _buildSession(
 			.filter((exercise) => exercise.movementPattern === pattern && !session.includes(exercise))
 			.map((exercise) => ({
 				exercise,
-				score: _score(exercise, goal, level, usedThisWeek, previousLoad),
+				score: _score(exercise, goal, level, usedThisWeek, previousLoad, location),
 			}))
 			.sort((a, b) => b.score - a.score || a.exercise.id.localeCompare(b.exercise.id));
 
@@ -295,12 +338,17 @@ function _score(
 	level: FitnessLevel,
 	usedThisWeek: Map<string, number>,
 	previousLoad: BodyArea[],
+	location: WorkoutLocation | null,
 ): number {
 	const levelGap = LEVEL_RANK[level] - LEVEL_RANK[exercise.fitnessLevel];
 	const recoveryClash = exercise.highLoadBodyAreas.some((area) => previousLoad.includes(area));
 
+	const { locations } = exercise.minimumSpace;
+	const madeForHere = !!location && locations.length === 1 && locations[0] === location;
+
 	return (
 		CATEGORY_FIT[goal][exercise.category] +
+		(madeForHere ? LOCATION_FIT_BONUS : 0) +
 		(levelGap === 0 ? 1 : levelGap === 1 ? 0.5 : 0) -
 		2 * (usedThisWeek.get(exercise.id) ?? 0) -
 		(recoveryClash ? 1.5 : 0)

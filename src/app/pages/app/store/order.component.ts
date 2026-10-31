@@ -117,7 +117,11 @@ export class OrderComponent {
 	});
 	/** Equipment types in this order, used to show only the exercises that need them. */
 	protected readonly equipmentTypes = computed(() =>
-		[...new Set(this.order()?.items.map((item) => item.equipment.type))].join(','),
+		[
+			...new Set(
+				(this.order()?.items ?? []).flatMap((item) => (item.equipment ? [item.equipment.type] : [])),
+			),
+		].join(','),
 	);
 	protected readonly paymentLabel = computed(() => {
 		const order = this.order();

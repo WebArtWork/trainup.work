@@ -1,0 +1,18 @@
+[
+	{ "ua": "Панель", "en": "Dashboard" },
+	{ "ua": "Вага", "en": "Weight" },
+	{ "ua": "Тренування", "en": "Workouts" },
+	{ "ua": "Вага сьогодні, кг", "en": "Weight today, kg" },
+	{ "ua": "Записати", "en": "Save" },
+	{ "ua": "Не вдалося зберегти вагу. Спробуйте ще раз.", "en": "Could not save your weight. Try again." },
+	{ "ua": "Цей тиждень", "en": "This week" },
+	{ "ua": "Цей місяць", "en": "This month" },
+	{ "ua": "Цей рік", "en": "This year" },
+	{ "ua": "Минулий тиждень", "en": "Last week" },
+	{ "ua": "Минулий місяць", "en": "Last month" },
+	{ "ua": "Минулий рік", "en": "Last year" },
+	{ "ua": "кг", "en": "kg" },
+	{ "ua": "виконано", "en": "done" },
+	{ "ua": "Завантажуємо показники", "en": "Loading your stats" },
+	{ "ua": "Не вдалося завантажити показники", "en": "Could not load your stats" }
+]

@@ -76,7 +76,7 @@ service cloud.firestore {
 				&& data.schemaVersion is int
 				&& data.active is bool
 				&& data.noEquipment is bool
-				&& data.equipment is list && data.equipment.size() <= 12
+				&& data.equipment is list && data.equipment.size() <= 16
 				&& (!data.noEquipment || data.equipment.size() == 0)
 				&& data.customEquipment is list && data.customEquipment.size() <= 10
 				&& (data.location == null || oneOf(data.location, ['home', 'gym', 'outdoors', 'other']))
@@ -203,6 +203,16 @@ service cloud.firestore {
 				&& data.active is bool;
 		}
 
+		// users/{uid}/weights/{YYYY-MM-DD}: one weigh-in per day.
+		function validWeight(data, date) {
+			return data.keys().hasOnly(['schemaVersion', 'date', 'kg', 'updatedAt'])
+				&& data.schemaVersion is int
+				&& data.date == date
+				&& isDate(date)
+				&& data.kg is number && data.kg >= 20 && data.kg <= 400
+				&& data.updatedAt == request.time;
+		}
+
 		// users/{uid}/todos/{todoId} (README §11).
 		function validTodo(data) {
 			return data.keys().hasOnly([
@@ -292,6 +302,11 @@ service cloud.firestore {
 							&& request.resource.data.active == false
 							&& request.resource.data.resolvedAt == request.time)
 					);
+			}
+
+			match /weights/{date} {
+				allow read, delete: if isOwner(uid);
+				allow create, update: if isOwner(uid) && validWeight(request.resource.data, date);
 			}
 
 			match /todos/{todoId} {
