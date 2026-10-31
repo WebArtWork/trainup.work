@@ -1,0 +1,1 @@
+import{Zt as p,gt as bn,lt as ZO}from"./chunk-BzsiXNfU.js";import{t as a}from"./main-PELRHHLV.js";function c(){let r=p(ZO).language;return bn(()=>a.languages.find(a=>a.code===r())?.htmlLang??`uk`)}export{c as t};

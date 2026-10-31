@@ -1,0 +1,1 @@
+import{A as L,g as H}from"./chunk-BzsiXNfU.js";var n=class e{override=L(null);set(r){this.override.set(r)}static ɵfac=function(o){return new(o||e)};static ɵprov=H({token:e,factory:e.ɵfac})};export{n as t};
