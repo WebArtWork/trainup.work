@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Variables que vous pouvez ajuster",
+			"text": "Le levier, la résistance, l’appui, l’amplitude et le tempo modifient tous la difficulté d’un exercice. Une pompe inclinée est généralement plus facile qu’une pompe au sol, car vos bras soutiennent une plus petite part du poids de votre corps. Un haltère léger rend un squat plus difficile, et se tenir à un appui stable facilite l’équilibre dans une fente."
+		},
+		{
+			"title": "Exemples de pompes",
+			"text": "Commencez contre un mur ou une surface haute et solide, puis descendez vos mains vers un banc ou un plan de travail stable à mesure que vous gagnez en force. Passez ensuite aux pompes au sol et, plus tard, si c’est utile, à une version pieds surélevés ou lestée. Les pompes sur les genoux et les différentes pompes inclinées n’ont pas toutes la même difficulté, alors testez laquelle vous permet de faire des répétitions contrôlées."
+		},
+		{
+			"title": "Exemples de squats et de tractions",
+			"text": "Un squat sur chaise peut mener à un squat au poids du corps sans appui, puis à un squat goblet. Pour la traction verticale, un tirage vertical ou une traction assistée peut précéder les répétitions sans assistance. Notez tout changement de prise, d’assistance, d’amplitude ou de charge, pour savoir ce que signifie vraiment un meilleur chiffre dans votre journal."
+		},
+		{
+			"title": "Quand changer",
+			"text": "Passez au niveau supérieur quand vous atteignez votre plage cible avec une technique stable et un effort modéré. Redescendez si l’exercice vous fait beaucoup tourner ou dévier le corps pour le terminer, si vous échouez souvent des répétitions ou si l’équilibre demandé vous semble risqué. Si quelque chose est inconfortable, arrêtez-vous et réévaluez. Une douleur qui persiste ou qui paraît inhabituelle doit être examinée par un médecin ou un kinésithérapeute."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Votre programme choisit des exercices adaptés à votre niveau, votre coordination, votre équipement, la hauteur de votre plafond, votre espace au sol et les limitations que vous avez définies. Quand vous le régénérez, il change un cran à la fois. Il devient plus difficile seulement après que vos 4 dernières séances ont été faciles (RPE 5 ou moins) et complètes, sans douleur récente, et plus facile quand 2 des 3 dernières ont été très difficiles (RPE 9 ou plus) ou terminées à moins de 60 %."
+		}
+	],
+	"sources": [
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic : technique de musculation (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

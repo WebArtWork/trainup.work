@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Veelvoorkomende ondergronden",
+			"text": "Een stevige, vlakke vloer geeft een stabiele stand voor de meeste krachtbewegingen. Dik, zacht tapijt kan wiebelen bij werk op één been, en heel gladde tegels kunnen glad worden. Buiten kunnen gras of paden ongelijk en vochtig zijn. Een mat maakt vloerwerk comfortabeler, maar kan verschuiven of indrukken, dus test hem voordat je er zware gewichten op zet."
+		},
+		{
+			"title": "Schoenen voor de taak",
+			"text": "Stabiele schoenen met goede grip werken vaak goed voor squats, hinges en zijwaartse bewegingen. Gedempte hardloopschoenen kunnen comfortabel zijn om te wandelen of te joggen, maar laten je voet bij zware lifts mogelijk verschuiven. Schoenen voor specifieke sporten verschillen, en geen enkele stijl is het beste voor elke oefening of elk persoon."
+		},
+		{
+			"title": "Op blote voeten trainen hangt af van de omgeving",
+			"text": "Op blote voeten trainen geeft je directe feedback van de grond in een schone, veilige ruimte, maar het laat je voeten open voor vallende gewichten, scherpe voorwerpen en andere gevaren. Sommige sportscholen staan het niet toe. Heb je verminderd gevoel in je voeten, evenwichtsproblemen of een medische voetaandoening, vraag dan advies voor je eigen situatie voordat je op blote voeten traint, want het is niet automatisch beter."
+		},
+		{
+			"title": "Impact en geluid",
+			"text": "Springen en rennen geven meer impact en geluid dan beheerste squats of marcheren. Een rubberen mat kan een deel van het geluid dempen, maar je hebt nog steeds goede grip en een stevige vloer eronder nodig. Vermijd gladde sokken, wiebelig schuim onder gewichten en matten die kreukelen als je zijwaarts stapt."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Stel in Profiel je ondergrond in en of springen mag, en het schema kiest oefeningen die daarbij passen. Is de vloer glad of ongelijk, kies dan stabiele oefeningen met lage impact of stel de beweging uit tot de ondergrond veilig is."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE-oefeningenbibliotheek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: veiligheid en techniek bij krachttraining",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

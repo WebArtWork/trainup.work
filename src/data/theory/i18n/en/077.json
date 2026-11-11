@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "The training goal",
+			"text": "Plyometric exercises build your ability to produce force quickly; getting out of breath is not the point. Examples are small pogo hops, squat jumps, side hops and bounding. Faster or higher jumps ask more of your coordination and take more impact, so your starting level depends on your strength, landing control and training history."
+		},
+		{
+			"title": "Practice a controlled landing",
+			"text": "Start with low, easy hops and land by bending your hips, knees and ankles together. Aim for balanced foot contact and a controlled trunk, with no locked knees or loud, sloppy landings. Your knees do not have to stay perfectly still, but they should not lose control suddenly. Stop if you feel pain or keep stumbling."
+		},
+		{
+			"title": "Progress one thing at a time",
+			"text": "Make jumps harder gradually, for example from small two-foot hops to modest vertical jumps before you try repeated or single-leg bounds. High boxes, depth drops and weighted jumps take more skill and are poor first steps. Add height, speed or one-leg work only once the easier reps stay reliable."
+		},
+		{
+			"title": "Count good contacts",
+			"text": "Foot contacts, the number of times your feet land, are often used to measure lower-body plyometric volume. As a beginner you may need only a small number of controlled contacts, even if athletic programs list higher totals. Rest enough between short sets. A tiring jump circuit does not build power the way fresh, explosive reps do."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "The plan includes jumping drills only when your Profile allows jumping and the noise they make, and your surface and floor size suit them. Your level counts too. If any of these do not fit, train with strength or low-impact conditioning exercises. If a landing hurts, tap “I feel pain”: the exercise ends at once and stays out of your plans until you resume it from Profile."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026 resistance-training guidance summary",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "ACE exercise library",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

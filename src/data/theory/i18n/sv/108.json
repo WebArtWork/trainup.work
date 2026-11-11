@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Fördelar och att få klartecken",
+			"text": "ACOG rekommenderar att många med okomplicerade graviditeter kan fortsätta eller börja med lämplig aerob träning och styrketräning. Prata om träning med din förlossningsvårdgivare, särskilt om du börjar med en ny rutin eller har komplikationer. De kan säga om din graviditet är medicinskt okomplicerad. Det kan inte TrainUp."
+		},
+		{
+			"title": "Anpassa när saker förändras",
+			"text": "Din balans, värmetålighet, andningskomfort och de rörelser du föredrar kan förändras under graviditeten. Välj bekväma aktiviteter. Undvik överhettning, aktiviteter med verklig risk för fall eller kollisioner och positioner som gör dig yr. Om du tränade mycket före graviditeten kan du kanske fortsätta med viss krävande aktivitet med klinisk vägledning, eftersom graviditet inte automatiskt betyder total vila."
+		},
+		{
+			"title": "Varningstecken",
+			"text": "Sluta träna och kontakta din förlossningsläkare om du har vaginal blödning, vätskeläckage, bröstsmärta, yrsel, smärta eller svullnad i vaden, smärtsamma sammandragningar eller ovanlig andfåddhet. Akuta symtom kräver akut vård. Försök inte kringgå graviditetsspecifika symtom genom att byta övningar."
+		},
+		{
+			"title": "Efter förlossningen",
+			"text": "När du kan återgå till träning beror på förlossningen, din återhämtning, symtom från bäckenbotten och andra personliga faktorer. Lugn promenad kan vara bra för vissa. Ihållande smärta, läckage, tyngdkänsla eller andra problem kräver en professionell genomgång, och ingen fast tidslinje passar alla. TrainUp bygger inte program för graviditet, bäckenbotten eller efter operation."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACOG: träning under graviditet",
+			"url": "https://www.acog.org/womens-health/faqs/exercise-during-pregnancy"
+		},
+		{
+			"label": "ACOG: träning under graviditet och efter förlossning",
+			"url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period"
+		}
+	]
+}

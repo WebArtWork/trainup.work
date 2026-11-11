@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mi számít haladásnak",
+			"text": "Emelhetsz egy kicsivel több súlyt ugyanannyi ismétlésre, csinálhatsz több ismétlést ugyanazzal a súllyal, adhatsz hozzá egy sorozatot, amelyet jó formával még teljesíteni tudsz, használhatsz nagyobb részt a mozgástartományodból, vagy átléphetsz egy nehezebb saját testsúlyos változatra. A rövidebb pihenő több munkát zsúfol az edzésbe, de csökkentheti a csúcserő-teljesítményedet, ezért csak akkor használd, ha a céloddal egyezik."
+		},
+		{
+			"title": "Megismételhető minőség",
+			"text": "Mielőtt terhelést adsz hozzá, ellenőrizd, hogy a mozgás kontrollált, befejezed a tervezett ismétléseket, és az erőkifejtés megfelel a tervnek. A technika nem fog minden testen azonosan kinézni, de nálad minden alkalommal ugyanolyannak kell lennie. Ha a fájdalom romlik vagy a mozgás remegővé válik, a folytatás nem eredményes túlterhelés."
+		},
+		{
+			"title": "Példa",
+			"text": "Tegyük fel, hogy a cél két sorozat 8–12 kehelyguggolás. 10 és 9 ismétlést csinálsz, aztán legközelebb 11 és 10-et, majd 12 és 12-t. Most már egy kis súlynövelés kevesebb ismétléssel értelmes. Ha a súlyzóid fix súlyúak, lassíthatod a mozgást a nagyobb kontrollért, vagy választhatsz nehezebb változatot."
+		},
+		{
+			"title": "Egyszerre egy változtatás",
+			"text": "Ha a sorozatokat, a súlyt, a gyakoriságot és a gyakorlat összetettségét is egyszerre növeled, nehéz megmondani, honnan ered a fáradtságod. Először azt a változót változtasd, amelyik a legfontosabb, és adj időt a testednek az alkalmazkodásra. A fejlődés lassul, ahogy tapasztalatot szerzel, és egyes edzések egyszerűen a jelenlegi szintedet tartsák."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Az alkalmazás rögzíti a befejezett ismétléseidet, az edzés erőfeszítését (RPE) és a jelentett fájdalmat. A terhelést te választod. Amikor legalább 3 edzés után újra elkészíted a tervet, az csak akkor lesz egy lépéssel nehezebb, ha az utolsó 4 edzésed könnyű (RPE 5 vagy kevesebb) és teljes volt. Bármilyen friss fájdalom esetén nincs emelés, és ha az utolsó 3 edzésedből 2 nagyon nehéz (RPE 9 vagy több) vagy kevesebb mint 60%-ban teljesített volt, a következő terv könnyebb lesz."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: súlyzós edzés technikája (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

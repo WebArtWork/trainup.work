@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Primero comprueba que es una meseta",
+			"text": "Una sesión decepcionante no es una meseta. Compara varias semanas en condiciones similares: el mismo ejercicio, la misma carga, el mismo rango y el mismo esfuerzo. Los cambios de equipamiento, de sueño o de técnica pueden hacer que tus números parezcan peores aunque tu forma física no esté bajando. Registra suficientes detalles para distinguir una tendencia real de los altibajos del día a día."
+		},
+		{
+			"title": "Comprueba lo básico",
+			"text": "¿Completaste tus sesiones? ¿La resistencia siguió siendo un reto y te recuperaste entre entrenamientos? ¿Era el volumen adecuado para ti? A veces la carga de trabajo es demasiado baja, y a veces es mayor de lo necesario. Un levantamiento también puede estancarse porque no has practicado ese movimiento con regularidad, mientras tus músculos aún se están adaptando."
+		},
+		{
+			"title": "Haz un cambio útil",
+			"text": "Si terminas tus repeticiones con facilidad, añade un poco de carga o usa la doble progresión. Si la fatiga se acumula y el rendimiento baja, reduce durante un tiempo las series duras o reorganiza tu horario. Si un movimiento ha dejado de mejorar, prueba un cambio de técnica o una variante muy parecida y deja el resto de tu programa como está."
+		},
+		{
+			"title": "Ganancias más lentas con el tiempo",
+			"text": "Quienes empiezan suelen mejorar rápido, en parte porque están aprendiendo los movimientos. Las personas con más experiencia progresan más despacio y en pasos más pequeños. El crecimiento muscular tarda en poder medirse, así que una báscula sin cambios o una sola prueba de rendimiento no demuestran que tu entrenamiento haya fracasado. Pide a un médico que revise una fatiga que no puedas explicar u otros síntomas de salud que persistan."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Historial muestra tus entrenamientos, tu esfuerzo medio y un gráfico de 4 semanas, que pueden ayudarte a detectar una posible meseta. TrainUp nunca cambia tu plan basándose en menos de 3 entrenamientos, así que un día duro no desencadena un programa nuevo. Haz pequeños ajustes y vuelve a comprobarlo después de varias sesiones."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: seguridad y fundamentos del entrenamiento de fuerza",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Guía del modelo de progresión del ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

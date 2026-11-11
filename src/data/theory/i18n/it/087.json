@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Quanto dura il recupero",
+			"text": "Dipende dall’esercizio, dal volume totale, dall’intensità, dal sonno, dalla forma fisica e da quanto ti è familiare il lavoro. Dopo una sessione dura per un grande gruppo muscolare, circa 48–72 ore prima di un’altra sessione ugualmente dura sono una comune linea guida di pianificazione. È una linea guida, e alcune persone hanno bisogno di più o di meno."
+		},
+		{
+			"title": "Segnali che non hai recuperato",
+			"text": "Dolore muscolare che dura più del solito, meno ripetizioni con lo stesso carico, gambe pesanti, scarsa motivazione e cambiamenti nella tecnica possono indicare troppa fatica. Una sessione andata male non dimostra un sovrallenamento. Cerca tendenze nell’arco di diversi allenamenti, soprattutto insieme a sonno scarso, malattia o stress extra nel resto della tua vita."
+		},
+		{
+			"title": "Distribuisci il lavoro duro",
+			"text": "Una settimana tipica può avere forza total body il lunedì e il giovedì, con camminate facili negli altri giorni. Allenare la forza più spesso può funzionare quando distribuisci esercizi o gruppi muscolari nella settimana e tieni sotto controllo il volume. Cardio facile o mobilità in un giorno senza sollevamenti di solito si concilia bene con il recupero."
+		},
+		{
+			"title": "Aiuta il tuo corpo ad adattarsi",
+			"text": "Punta a un sonno regolare, abbastanza cibo e acqua, piccoli aumenti di allenamento e giorni di riposo quando ti servono. Il dolore muscolare non è un punteggio di quanto sia stato buono l’allenamento. Se la tua prestazione continua a calare, riduci il volume, scegli varianti più facili o aggiungi tempo di recupero. Non aumentare l’intensità per compensare."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Dopo ogni allenamento, valuta il tuo sforzo e segnala qualsiasi dolore o fastidio. Quando rigeneri il piano, TrainUp considera almeno 3 allenamenti. Qualsiasi dolore recente significa nessun aumento. Se 2 dei tuoi ultimi 3 allenamenti sono stati molto duri (RPE 9 o più) o completati per meno del 60%, il piano successivo è più facile. Lo Storico mostra il tuo sforzo medio e un grafico di 4 settimane. Se sintomi gravi persistono, chiedi un parere medico."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: dosaggio, recupero e progressione dell’esercizio",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "NHS: dolore muscolare a insorgenza ritardata",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		}
+	]
+}

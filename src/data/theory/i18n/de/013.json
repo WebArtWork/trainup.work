@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Grundlagen der Anatomie",
+			"text": "Die Wirbelsäule hat Hals-, Brust-, Lenden-, Kreuzbein- und Steißbeinbereiche. Ihre natürlichen Krümmungen unterscheiden sich zwischen Menschen und ändern sich mit der Position. Bei vielen belasteten Hebungen ist es eine nützliche Startstrategie, deine Wirbelsäule kontrolliert und nahe an deinem eigenen bequemen neutralen Bereich zu halten, besonders solange du lernst."
+		},
+		{
+			"title": "Was der „Core“ umfasst",
+			"text": "Die Bauchmuskeln, schrägen Bauchmuskeln, tieferen Rumpfmuskeln, Rückenstrecker, das Zwerchfell und die Beckenbodenmuskeln arbeiten zusammen, um Druck und Bewegung zu steuern. Sie beugen den Rumpf und widerstehen auch ungewollter Streckung, Rotation oder Seitneigung, während Kraft zwischen deinen Armen und Beinen weitergegeben wird."
+		},
+		{
+			"title": "Anspannen und Einziehen",
+			"text": "Anspannen bedeutet meist, rund um den ganzen Rumpf Spannung aufzubauen, als würdest du dich auf einen sanften Stoß in den Bauch vorbereiten, während du deine Atmung unter Kontrolle hältst. Beim Einziehen geht es darum, die Bauchwand nach innen zu ziehen. Beides kann seine Verwendung haben, aber es sind verschiedene Anweisungen. Für schweres Heben hilft koordiniertes Anspannen meist mehr, als nur den Bauch einzuziehen."
+		},
+		{
+			"title": "Intraabdomineller Druck",
+			"text": "Dein Zwerchfell und deine Bauchwand können inneren Druck erzeugen, der hilft, den Rumpf zu versteifen. Die genaue Atemstrategie hängt von der Last und deiner Erfahrung ab. Langes, intensives Atemanhalten passt möglicherweise nicht für Menschen mit bestimmten Herz-Kreislauf-Erkrankungen. Wenn das auf dich zutrifft, frage deine Ärztin oder deinen Arzt um Rat."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Stelle dich für eine moderate Goblet-Kniebeuge aufrecht hin, atme bequem ein, spanne deinen Oberkörper an, senke dich kontrolliert ab und atme auf dem schweren Weg nach oben aus, falls nötig. Halte beim Koffertragen deinen Rumpf aufrecht und lass dich vom Gewicht nicht zur Seite ziehen."
+		},
+		{
+			"title": "Den Core trainieren",
+			"text": "Core-Arbeit umfasst Planks, Dead Bugs, Tragen und die wichtigsten Bewegungsmuster ebenso wie Sit-ups. Keine einzelne Wirbelsäulenposition ist für alle sicher, und Anspannen gleicht die Wahl einer unvernünftigen Last nicht aus."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC: Hinweise zur körperlichen Aktivität",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

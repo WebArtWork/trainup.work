@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Qué significa bajo impacto",
+			"text": "Los movimientos de bajo impacto suelen mantener al menos un pie en el suelo, o usan un equipo como una bicicleta estática para eliminar el impacto contra el suelo. El bajo impacto puede seguir siendo de alta intensidad y puede seguir cargando las articulaciones. Un intervalo duro en bicicleta puede exigir al corazón y a los pulmones, y algunos ejercicios de escalón siguen pidiendo mucho a las rodillas y a las caderas."
+		},
+		{
+			"title": "Buenas opciones de movimiento",
+			"text": "Caminar a paso ligero, marchar, los toques con paso lateral, el boxeo de sombra sin rebotes, los step-ups controlados, la bicicleta y las elípticas son opciones prácticas. En una habitación pequeña, alterna la marcha rápida con pasos laterales deliberados o puñetazos suaves. Elige movimientos que se sientan estables, y no añadas giros rápidos solo para hacerlo más difícil."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Después de un calentamiento gradual, repite seis veces 45 segundos de marcha rápida y 45 segundos de caminata suave. Fija tu propio ritmo y descanso; no copies la velocidad de otra persona. Para progresar, alarga los periodos activos o toda la sesión antes de buscar velocidad explosiva."
+		},
+		{
+			"title": "Ajusta al motivo por el que evitas el impacto",
+			"text": "Si el problema es el ruido, quizá baste con quitar los saltos. Si una rodilla, un tobillo o la espalda están sensibles, incluso pisar con normalidad puede doler, y puede que necesites consultar a un médico o a un fisioterapeuta. El entrenamiento de bajo impacto no es un tratamiento y no garantiza alivio del dolor."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "En Perfil, indica si se puede saltar, cuánto ruido es aceptable, tu superficie, tu nivel, tu equipamiento y cualquier limitación por zona del cuerpo. El plan los usa todos juntos, y cuando los saltos están desactivados deja fuera la comba y otros ejercicios de salto. La marcha o la bicicleta pueden mantener el esfuerzo en su lugar. Valora después el esfuerzo de la sesión como de costumbre."
+		}
+	],
+	"sources": [
+		{
+			"label": "Recomendaciones de actividad física de los CDC para adultos",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: medir la intensidad de la actividad y la prueba del habla",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

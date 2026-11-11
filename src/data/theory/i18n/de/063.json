@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Beginne mit einer leichten Probe",
+			"text": "Mache die Bewegung ohne Gewicht oder mit dem leichtesten Gerät, das du hast. Füge für einen Aufwärmsatz eine kleine Last hinzu und prüfe, dass Bewegungsumfang, Atmung und Tempo stabil bleiben. Jede Bewegung hat ihr eigenes Arbeitsgewicht: Eine Last, die sich beim Rudern bequem anfühlt, kann für ein Seitheben viel zu schwer sein."
+		},
+		{
+			"title": "Wiederholungen in Reserve",
+			"text": "Wiederholungen in Reserve (RIR) sind, wie viele Wiederholungen mit guter Form du noch machen könntest. Für allgemeines Training ist es ein praktischer Ausgangspunkt, viele Sätze mit etwa zwei oder drei Wiederholungen übrig zu beenden, auch wenn du das nicht jedes Mal treffen musst. Wenn sich ein geplanter Satz mit 10 so anfühlt, als könntest du noch 10 mehr machen, ist die Last möglicherweise zu leicht für dein Ziel."
+		},
+		{
+			"title": "Während der Einheit anpassen",
+			"text": "Angenommen, der Plan verlangt drei Sätze mit acht bis zwölf Wiederholungen. Wenn dein erster Satz bei acht mit wackliger Technik und ohne Reserve endet, senke die Last. Wenn zwölf Wiederholungen glatt laufen und noch recht leicht sind, versuche beim nächsten Satz eine kleine Steigerung. Ruhe lange genug, um zu erkennen, ob das Gewicht oder die Ermüdung das Problem verursacht hat."
+		},
+		{
+			"title": "Wenn die Gewichtssprünge zu groß sind",
+			"text": "Wenn die nächste Kurzhantel zu schwer ist, füge eine Wiederholung, eine kontrollierte Pause oder einen weiteren guten Satz hinzu. Wenn selbst dein leichtestes Gewicht zu schwer ist, nutze Körpergewicht, ein Widerstandsband oder eine andere Hebelwirkung. Quäle dich nie durch misslungene Wiederholungen, um eine Satzzahl zu erreichen."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Dein Plan gibt Sätze, Wiederholungen und Pausen vor, aber keine Gewichte, du wählst die Last also selbst. Erfasse während des Trainings die Wiederholungen, die du wirklich geschafft hast, und bewerte danach die Anstrengung der Einheit von 1 bis 10. Wenn du Schmerz spürst, dir schwindelig wird oder du immer wieder deine Technik verlierst, höre auf oder ändere die Übung; füge keinen Widerstand hinzu. „Ich habe Schmerzen“ beendet die aktuelle Übung sofort."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Zusammenfassung der ACSM-Hinweise 2026 zum Krafttraining",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Mayo Clinic: Sicherheit und Technik beim Krafttraining",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

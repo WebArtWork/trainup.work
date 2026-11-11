@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Choisir une plage de répétitions",
+			"text": "Choisissez un exercice, un nombre de séries et une plage, par exemple trois séries de 8–12 répétitions. Commencez avec un poids qui vous permet d’atteindre le bas de la plage avec une technique stable et quelques répétitions en réserve. La plage n’a pas à être 8–12. Votre objectif et l’exercice en fixent les limites."
+		},
+		{
+			"title": "Mériter l’augmentation de charge",
+			"text": "D’abord, faites plus de bonnes répétitions avec le même poids sur plusieurs séances. Quand chaque série atteint le haut de la plage à l’effort prévu, ajoutez le plus petit palier de poids dont vous disposez. Vos répétitions retomberont généralement vers le bas de la plage, et le cycle recommence."
+		},
+		{
+			"title": "Exemple",
+			"text": "Semaine 1 : rowings aux haltères à 12 kg pour 10, 9, 8. Semaine 2 : 11, 10, 9. Semaine 3 : 12, 12, 12 avec un contrôle stable. Semaine 4 : essayez 14 kg pour 9, 8, 8, si vous pouvez gérer ce saut avec une bonne forme. Ces chiffres montrent comment cela peut se passer. Vous n’avez pas à progresser chaque semaine."
+		},
+		{
+			"title": "Quand adapter la règle",
+			"text": "Un gros saut de poids peut être trop difficile, surtout pour les petits muscles ou avec un équipement limité à la maison. Dans ce cas, restez à votre charge actuelle, ajoutez des répétitions au total ou choisissez une variante intermédiaire. Si une séance paraît inhabituellement fatigante, répétez la dernière cible et remettez la progression à plus tard. Le vrai progrès monte et descend souvent."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Votre programme donne à chaque exercice des séries et une cible de répétitions, et pendant une séance vous notez les répétitions que vous terminez à chaque série. TrainUp ne prescrit pas de poids, c’est donc vous qui décidez quand ajouter de la charge. Quand vous atteignez le haut de la plage dans chaque série, vérifiez votre RPE et votre technique avant de passer plus lourd."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA : sécurité et fondamentaux du renforcement",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Clinique Mayo : technique de musculation (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

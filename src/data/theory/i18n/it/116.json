@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Segnali da raccogliere",
+			"text": "Confronta le serie e le ripetizioni che ti sono state assegnate con quelle che hai completato. Guarda carico, RPE di sessione, dolore muscolare, sessioni saltate ed eventuali nuove limitazioni, perché ciascuno mostra una parte diversa del quadro. Un solo RPE alto o un solo allenamento saltato non dimostra che il piano sia sbagliato per te."
+		},
+		{
+			"title": "Quando le sessioni sembrano troppo facili",
+			"text": "Se centri continuamente l’obiettivo con tecnica stabile e sforzo basso, pensa di aggiungere qualche ripetizione, un po’ di carico o un po’ più di volume. Cambia una variabile e osserva come rispondi prima di aggiungere altro."
+		},
+		{
+			"title": "Quando le sessioni sembrano troppo dure",
+			"text": "Mancare ripetutamente gli obiettivi, una forma che cede o una fatica che non passa possono essere motivi per ridurre carico o volume, passare a un esercizio più facile o prendersi più recupero. Una nuova zona dolorante richiede di rivedere le tue limitazioni e magari un parere professionale. Non cercare di diagnosticarlo da solo."
+		},
+		{
+			"title": "Esempio",
+			"text": "Fai goblet squat a 3 × 10 per due settimane con un RPE intorno a 5 e buon controllo. La volta successiva potresti scegliere un manubrio un po’ più pesante e tornare a otto ripetizioni. Se lo stesso movimento continua a far male, non renderlo semplicemente più difficile."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il tuo piano cambia solo quando lo rigeneri, e mai partendo da meno di 3 allenamenti. Qualsiasi dolore recente significa nessun aumento. Se 2 dei tuoi ultimi 3 allenamenti sono stati molto duri (RPE 9 o più) o completati per meno del 60%, il piano successivo è più facile. Se i tuoi ultimi 4 sono stati facili (RPE 5 o meno) e completi, sale di un gradino, un passo alla volta. Le regole sul dolore vengono prima della prestazione, gli allenamenti terminati non vengono mai modificati e il carico lo scegli tu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Indicazioni pratiche ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Imaginea de ansamblu",
+			"text": "Exercițiul consumă energie, iar mâncarea furnizează ce ai nevoie ca să te antrenezi, să te refaci și să construiești țesut. O dietă variată include de obicei alimente proteice, alimente bogate în carbohidrați, fructe, legume și surse de grăsimi. Un regim foarte restrictiv poate frâna performanța și refacerea chiar și când antrenamentele sunt bine concepute."
+		},
+		{
+			"title": "Proteine și mușchi",
+			"text": "Proteinele furnizează aminoacizi pe care corpul îi folosește ca să mențină țesutul și să adapteze mușchiul. Cercetările despre adulții care fac mișcare citează adesea aproximativ 1,4–2,0 grame de proteine pe kilogram de masă corporală pe zi ca interval bazat pe dovezi. Nevoile diferă în funcție de vârstă, antrenament și circumstanțe personale, și nu trebuie să calculezi această cifră."
+		},
+		{
+			"title": "Carbohidrați și grăsimi",
+			"text": "Carbohidrații alimentează eforturile grele repetate și sesiunile de rezistență, menținând glicogenul muscular. Grăsimile din alimentație furnizează acizi grași esențiali și ajută la absorbția unor vitamine. Strategiile detaliate de nutriție sportivă contează mai mult pe măsură ce volumul antrenamentului crește. Ca începător, concentrează-te mai întâi pe mese regulate și echilibrate."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Dacă faci antrenament de forță trei zile pe săptămână, poți construi mesele în jurul fasolei, al peștelui, al ouălor sau al altei surse de proteine, poți adăuga cereale sau cartofi pentru energie și poți include legume și fructe. Ce mănânci pe parcursul săptămânii contează mai mult decât să bei un anumit shake imediat după fiecare serie."
+		},
+		{
+			"title": "Când să ceri ajutor de specialitate",
+			"text": "Dacă ai o afecțiune medicală, îngrijorări legate de alimentație sau un obiectiv specializat de performanță, vorbește cu un dietetician autorizat sau cu un specialist din domeniul sănătății. TrainUp nu oferă ținte calorice individuale, urmărirea macronutrienților sau planuri de mese pentru slăbit."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ISSN: proteinele și exercițiul",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

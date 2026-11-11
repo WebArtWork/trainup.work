@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Lire le rapport",
+			"text": "Un intervalle 1:3 peut être 20 secondes d’effort et 60 secondes de récupération, un intervalle 1:1 peut être 30 secondes de chaque, et 2:1 peut être 40 secondes de travail et 20 secondes faciles. Le rapport seul ne décrit pas la séance tant que vous ne connaissez pas la durée et l’intensité."
+		},
+		{
+			"title": "Longue récupération pour la qualité",
+			"text": "Des repos assez longs vous aident à garder votre vitesse ou votre puissance sur de courts efforts intenses. Une structure 1:3 peut convenir à quelqu’un qui travaille une course plus rapide ou un mouvement exigeant et qui veut éviter de s’épuiser tout de suite. Un sprint très intense peut demander bien plus de récupération que 1:3 pour maintenir la production."
+		},
+		{
+			"title": "Récupération égale ou courte",
+			"text": "À 1:1, le travail et la récupération durent le même temps. À 2:1, la récupération est plus courte, donc la fatigue peut s’accumuler rapidement. Ces formats peuvent convenir à des circuits modérés, mais ils ne sont pas automatiquement meilleurs pour des objectifs avancés d’endurance ou de force."
+		},
+		{
+			"title": "Ajuster selon la capacité et l’exercice",
+			"text": "Un débutant peut marcher vite 30 secondes et tranquillement 90 secondes, puis allonger lentement le travail. Un cycliste entraîné peut utiliser des efforts intenses plus longs avec une récupération généreuse. Les mouvements de saut demandent souvent plus de contrôle technique, alors choisissez un repos qui garde de bonnes réceptions. Jugez vos progrès à votre capacité de terminer avec une bonne technique, allongez le repos quand il le faut et ne rendez pas chaque intervalle plus difficile uniquement pour raccourcir la séance."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE : concevoir des intervalles de haute intensité",
+			"url": "https://www.acefitness.org/continuing-education/certified/may-2021/7844/how-to-use-the-ace-ift-model-to-design-effective-hiit-workouts/"
+		},
+		{
+			"label": "CDC : mesurer l’intensité de l’activité et le test de la parole",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC : recommandations d’activité physique pour les adultes",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

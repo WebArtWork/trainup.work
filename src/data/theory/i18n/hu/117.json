@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "A gyakori állítás",
+			"text": "Több száz felüléssel gyakran a hasi zsír elvesztését ígérik, a belső comb gyakorlatait pedig úgy hirdetik, mint az ottani zsír célzott égetését. A dolgozó izmok valóban erősebbé válnak, vagy jobbak lesznek a tartós erőfeszítésben. Egy izom használata azonban még nem ad megbízható uralmat a mellette lévő zsír felett."
+		},
+		{
+			"title": "Mit mond a kutatás",
+			"text": "A testzsír változása az energiamérlegtől, a genetikától, a hormonoktól és az összaktivitástól függ. A gyakorlati edzéstanács nem ígérhet pontos zsírvesztést egy területről. A kutatás nem teljesen lezárt: egy kis 2023-as vizsgálat több törzszsír-vesztést talált egy konkrét hasi állóképességi protokollal. Ez az eredmény nem mutatja, hogy a hagyományos felülések megbízhatóan döntik el, hol veszít zsírt bárki."
+		},
+		{
+			"title": "Mit tesz a célzott edzés",
+			"text": "A plank, a bicepszcsavarás, a kitörés és más gyakorlatok javíthatják a megdolgoztatott izmok erejét, állóképességét és működését. Kombináld az ellenállásos edzést aerob mozgással a szélesebb egészség és erőnlét érdekében. Az, hogy mennyi testzsírt veszítesz, nem közvetlen mércéje annak, mennyire jó a mozgásod."
+		},
+		{
+			"title": "Példa",
+			"text": "Ha erősebb törzset szeretnél, gyakorolj dead bugot, oldalplankot és terhelt hordozásokat. Ezek törzserőt és állóképességet építenek, akár változik a derékbőséged abban a hónapban, akár nem."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Gyakorlatok fül minden gyakorlatának oldala megmutatja, mely izmokat dolgoztatja meg a gyakorlat, és mi a mozgásmintája. Ezt edzi a gyakorlat."
+		}
+	],
+	"sources": [
+		{
+			"label": "2023-as randomizált vizsgálat a területi edzésről és a zsírváltozásról",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/38010201/"
+		},
+		{
+			"label": "Mozgás és a hasi zsír változásai",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/16002776/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Co rośnie",
+			"text": "Ćwiczenia oporowe uruchamiają szlaki sygnałowe i przebudowę białek mięśniowych. W ciągu powtarzanych sesji równowaga między budowaniem a rozkładem białek mięśniowych może przechylić się w stronę większych włókien mięśniowych. To trwa od tygodni do miesięcy. Wczesne zmiany wyglądu lub masy ciała mogą też wynikać z płynów, glikogenu lub zmienności pomiarów."
+		},
+		{
+			"title": "Dlaczego napięcie ma znaczenie",
+			"text": "Silne skurcze mięśni poddają włókna napięciu mechanicznemu. Zarówno cięższe, jak i lżejsze obciążenia mogą wspierać wzrost, gdy serie wykonujesz z wystarczającym wysiłkiem i dobrą techniką. Trening z bardzo lekkim oporem, daleko od zmęczenia, może nie dawać wystarczającego bodźca do zauważalnego wzrostu."
+		},
+		{
+			"title": "Objętość i częstotliwość",
+			"text": "Liczenie ciężkich serii tygodniowo to przydatny sposób organizowania pracy nad hipertrofią. Stanowisko ACSM z 2026 roku wykazało lepszy wzrost przy większej tygodniowej objętości, a dowody przemawiały za co najmniej około dziesięcioma seriami tygodniowo na grupę mięśniową dla maksymalizacji wzrostu w odpowiednich porównaniach badań. Ta liczba nie jest wymaganym minimum na start. Początkujący mogą rosnąć przy mniejszej, a granice regeneracji różnią się między osobami. Częstotliwość głównie pomaga rozłożyć potrzebną pracę na cały tydzień."
+		},
+		{
+			"title": "Regeneracja i odżywianie",
+			"text": "Wystarczająca ilość białka i energii w diecie wspiera adaptację, a sen i odpoczynek pomagają znosić powtarzany trening. TrainUp daje ogólną wiedzę o ćwiczeniach i nie podaje osobistych planów diety ani celów kalorycznych. Genetyka, staż treningowy i zdrowie również wpływają na to, jak szybko pojawiają się widoczne efekty."
+		},
+		{
+			"title": "Przykład",
+			"text": "Zacznij od umiarkowanej mieszanki przysiadów, zawiasów, pchania i ciągnięcia. Zapisuj tygodniowe serie i powtórzenia. Jeśli Twoje wyniki się poprawiają, bolesność pozostaje do zniesienia, a regenerujesz się dobrze, powoli dodawaj powtórzenia lub trochę ciężaru, zanim dodasz więcej serii."
+		},
+		{
+			"title": "Częste nieporozumienie",
+			"text": "Bolesność nie mierzy wzrostu mięśni i nie musisz dochodzić do upadku w każdej serii. Skuteczne programy opierają się na ciężkim treningu, który możesz powtarzać, a nie na maksymalnym wyczerpaniu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Przegląd mechanizmów wzrostu mięśni",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

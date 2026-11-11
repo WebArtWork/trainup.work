@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ganzkörperprogramme",
+			"text": "Eine Ganzkörpereinheit trainiert am selben Tag mehrere wichtige Bewegungsmuster. Zwei oder drei Tage pro Woche funktionieren für Anfänger und Vielbeschäftigte oft gut. Du übst die Hauptübungen oft, ohne viele Besuche im Studio zu brauchen. Einheiten können lang werden, wenn du zu viele Bewegungen einbaust."
+		},
+		{
+			"title": "Ober-/Unterkörperprogramme",
+			"text": "Ein Ober-/Unterkörperplan wechselt Einheiten für den Oberkörper und den Unterkörper ab, oft über vier Trainings pro Woche. Er lässt Raum für mehr Übungen und Sätze, mit Erholungszeit zwischen ähnlichen Einheiten. Eine dreitägige rotierende Version funktioniert ebenfalls, und der Kalender muss sich nicht jede Woche genau wiederholen."
+		},
+		{
+			"title": "Muskelgruppen-Splits",
+			"text": "Ein Körperpartien-Split könnte an einem Tag Brust und Trizeps trainieren, an einem anderen Rücken und Bizeps und an einem dritten die Beine. Diese Programme machen hohe Trainingsumfänge leichter unterzubringen. Wenn die wöchentliche Arbeit ähnlich ist, ist kein Split für das Muskelwachstum besser als ein anderer. Ein schlecht gestalteter Split kann manche Muskeln zu lange untrainiert lassen."
+		},
+		{
+			"title": "Nach deinen Grenzen wählen",
+			"text": "Mit zwei Tagen ist Ganzkörper ein praktischer Standard. Mit drei nutze Ganzkörper oder ein rotierendes Ober-/Unterkörper-Muster. Mit vier nutze Ober-/Unterkörper oder zwei verschiedene Ganzkörpertage. Fünf Tage erlauben viele Anordnungen, aber zusätzliche Besuche bringen wenig, wenn du sie nicht durchhältst oder dich davon nicht erholen kannst. Auch Fertigkeitstraining und persönliche Vorliebe spielen eine Rolle. Wähle den einfachsten Split, der zu deinen Zielen, deinem Zeitplan und deiner Ausrüstung passt, und behalte deine wöchentlichen Gesamtsätze im Blick. Ein Fünf-Tage-Plan, der fortgeschritten aussieht, ist nicht automatisch besser als ein Drei-Tage-Plan, den du durchhältst."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: Hinweise zum Progressionsmodell",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NHS: Hinweise zu Kraft und Beweglichkeit",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Poznaj ruch",
+			"text": "Stań z lekko ugiętymi kolanami. Odsuń biodra do tyłu, jakbyś nimi zamykał drzwi samochodu, i pozwól tułowiowi pochylić się do przodu, a plecy utrzymuj w wygodnej, kontrolowanej pozycji. Zatrzymaj się, gdy ruch ograniczają mięśnie dwugłowe uda lub tułów nie może zachować kontroli, a potem wypchnij biodra do przodu i wstań. Trenujesz ruch w biodrach, więc dotknięcie podłogi nie jest celem."
+		},
+		{
+			"title": "Zawias i przysiad",
+			"text": "Oba ruchy angażują biodra i kolana, ale z innym akcentem. W przysiadzie kolana zwykle zginają się bardziej, a tułów jest bardziej wyprostowany. W rumuńskim martwym ciągu kolana uginają się niewiele, a biodra przesuwają się dalej do tyłu, co daje więcej pracy tylnej części ciała. Mostek biodrowy trenuje wyprost w biodrach przy podpartym tułowiu i bywa łatwiejszym miejscem na start."
+		},
+		{
+			"title": "Ćwiczenia nauczające",
+			"text": "W ćwiczeniu z dotknięciem ściany stań na krótki krok od ściany i odsuwaj biodra do tyłu, aż ją dotkną. Lekki drążek trzymany wzdłuż głowy, górnej części pleców i miednicy może pokazać, kiedy kręgosłup mocno się porusza. Używaj tych ćwiczeń do nauki i nie wymuszaj z ich powodu sztywnej postawy."
+		},
+		{
+			"title": "Progresja i błędy",
+			"text": "Zacznij od powtórzeń bez obciążenia, potem przejdź do lekkiego martwego ciągu z kettlebell lub rumuńskiego martwego ciągu z hantlami. Trzymaj ciężar blisko ciała i używaj zakresu, który kontrolujesz. Zbyt duże uginanie kolan zamienia ruch w przysiad, a gonienie za określoną głębokością może przenieść ruch na plecy. Swingi wymagają więcej umiejętności niż powolny zawias."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Twój plan zawiera ćwiczenia z zawiasem biodrowym dopasowane do Twojego sprzętu i celu. Jeśli równowaga lub wrażliwe plecy utrudniają zawiasy z obciążeniem, opcją jest wariant z podparciem lub mostek biodrowy, a ograniczenie dotyczące pleców możesz zaznaczyć w Profilu. Jeśli ból się utrzymuje, zgłoś się do lekarza lub fizjoterapeuty, zamiast układać własny plan rehabilitacji."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "ACE: technika swingu kettlebell oburącz",
+			"url": "https://www.acefitness.org/continuing-education/certified/january-2025/8788/the-ace-do-it-better-series-the-two-handed-kettlebell-swing/"
+		},
+		{
+			"label": "NSCA: bezpieczeństwo i podstawy treningu oporowego",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

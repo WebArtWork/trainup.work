@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Possible substitutes",
+			"text": "A closed backpack with its contents spread evenly can add resistance to a squat or a carry. Water bottles work as light hand weights, and a sturdy step can replace a low exercise platform. These objects have no standard size or weight markings, so the load and balance can shift without warning."
+		},
+		{
+			"title": "Furniture is a major risk",
+			"text": "A dining chair can slide or tip during dips, step-ups or incline push-ups, and many tables cannot hold a bodyweight row pulled from under the edge. Never assume an ordinary table, towel, door handle or shelf can hold your body weight. If a setup depends on strength or anchoring you are unsure of, choose another exercise."
+		},
+		{
+			"title": "Check each object",
+			"text": "Make sure the surface does not slip, the container does not leak or have broken handles, and the backpack straps are not tearing. Spread the weight so it does not swing suddenly. Avoid glass containers, sharp metal edges and loose stacks of books. Train on a clear floor away from anything breakable."
+		},
+		{
+			"title": "Progress slowly",
+			"text": "Start with a simple movement and a small load. Slow, repeatable reps are better than tricky balancing. If you cannot weigh the object reliably, note the setup and a rough idea of the resistance instead of a precise number. Keep each increase small enough that you stay in control."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "A household item is not a bench, rack, pull-up bar or cable station. In Profile, enter a bench type or a pull-up bar only for the real equipment. When you cannot be sure a piece of furniture is safe, pick bodyweight exercises that need no support."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: weight-training safety and technique",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACE exercise library",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

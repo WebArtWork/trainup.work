@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Horní polovina těla",
+			"text": "Prsní svaly pomáhají tlačit paže dopředu nebo přes trup, jako u kliků a tlaků na prsa. Široký sval zádový a další svaly zad pomáhají přitahovat paže a ovládat lopatky při veslování a shybech. Deltové svaly pomáhají zvedat a pohybovat pažemi. Biceps ohýbá loket a pomáhá při některých tahových pohybech a triceps natahuje loket při tlacích."
+		},
+		{
+			"title": "Dolní polovina těla",
+			"text": "Čtyřhlavý sval stehenní natahuje koleno a pomáhá při dřepování, došlapování a výpadech. Hýžďové svaly natahují nebo stabilizují kyčel a mohou je zatížit předklony v kyčlích a výstupy na stupínek. Zadní strana stehen ohýbá koleno a pomáhá při natahování kyčle. Lýtkové svaly vytvářejí plantární flexi kotníku při chůzi, běhu a výponech. Přitahovače a odtahovače kyčle pomáhají ovládat polohu nohy a udržují stabilní pánev."
+		},
+		{
+			"title": "Trup (střed těla)",
+			"text": "Přímý sval břišní, šikmé svaly, hlubší břišní svaly, napřimovače páteře a několik svalů kolem pánve pomáhají přenášet sílu a odolávat jí. Plank, nošení zátěže a kontrolované předklony v kyčlích zatěžují stabilitu trupu v různých směrech. Viditelné „břišáky“ jsou jen jednou částí tohoto systému."
+		},
+		{
+			"title": "Překryv mezi cviky",
+			"text": "Dřep zatěžuje víc než čtyřhlavý sval a veslování víc než široké svaly zádové. Úchop, úhel trupu, rozsah pohybu a vaše vlastní anatomie mění, které svaly odvádějí víc práce. Začátečníkův týden organizujte kolem dřepů, předklonů v kyčlích, výpadů, tlaků, tahů a práce na střed těla a nepřiřazujte každý trénink jedinému svalu."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "Stránka každého cviku v sekci Cviky uvádí jeho pohybový vzorec a svaly, které zapojuje, což vám pomáhá pokrýt celé tělo malým počtem cviků. Izolovanou práci lze použít k vyplnění konkrétní mezery, ale nenahrazuje učení základních vícekloubových pohybů."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "HHS: přehled tělesné kondice",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		}
+	]
+}

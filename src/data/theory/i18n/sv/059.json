@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Skivstångens delar",
+			"text": "En typisk uppsättning har en stång, skivor som passar den och lås som håller skivorna på plats vid behov. Den tomma stången kan kännas tung för en nybörjare, och specialstänger har olika vikter och storlekar. Anteckna den totala vikten du lyfter, stången inräknad, och inte bara skivorna."
+		},
+		{
+			"title": "Varför använda en skivstång",
+			"text": "Små skivor låter dig lägga till vikt i exakta steg, och en stång kan träna flera stora rörelsemönster. Båda händerna håller dock i en sammanhängande stång, och det passar inte alla axlar eller handleder. Hantlar, maskiner eller kroppsviktsövningar kan vara ett bättre val när din utrustning, komfort eller erfarenhet är begränsad."
+		},
+		{
+			"title": "Ställning och säkerhet",
+			"text": "För knäböj ställer du in J-krokarna på rätt höjd för dig och placerar säkerhetsarmarna eller stiften där de fångar upp en misslyckad repetition samtidigt som du fortfarande kan röra dig genom hela ditt planerade rörelseomfång. För bänkpress, använd en kunnig spotter eller säkerhetsstöd som är korrekt uppställda. Öva på att komma in i och ut ur stället med en tom stång innan du lyfter hårda vikter."
+		},
+		{
+			"title": "Lär dig innan du lastar på",
+			"text": "Öva knäböj, höftfällning, press eller rodd med lätt motstånd tills stången följer samma bana vid varje repetition. Lås fast dina skivor vid behov, kontrollera utrymmet runt dig och utgå aldrig från att en bänk, ett ställ eller ett improviserat rack kan fånga en fallande stång. Du behöver inte testa ditt maxlyft för en repetition för att bygga styrka som nybörjare. Gör skivstångslyft bara när du har rätt stång och skivor, ett rack eller annan säker uppställning och tillräckligt med utrymme. Om du tränar ensam utan ordentliga säkerhetsstöd, eller har begränsningar för belastning på ryggraden, välj en annan övning."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA: säkerhet och grunder i styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: teknik vid styrketräning (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

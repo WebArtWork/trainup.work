@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Wybierz test do swojego celu",
+			"text": "Kontrolowany test pompek odzwierciedla wytrzymałość siłową górnej części ciała, a 30-sekundowy test wstawania z krzesła mierzy powtarzaną funkcję dolnej części ciała. Deska na czas testuje jeden konkretny rodzaj wytrzymałości tułowia, a test stopnia lub odmierzony marsz bada inną stronę kondycji. Żaden pojedynczy test nie mierzy całkowitej sprawności."
+		},
+		{
+			"title": "Wykonuj go tak samo za każdym razem",
+			"text": "Używaj tej samej głębokości pompki, wysokości krzesła, pozycji deski lub wysokości stopnia i utrzymuj podobną rozgrzewkę, odpoczynek i obuwie. Przerwij, gdy technika się załamuje, zamiast gonić za wyższym wynikiem. Powtarzaj test po kilku tygodniach treningu zamiast wykonywać maksymalne wysiłki codziennie. Zapisz dokładnie, jak wykonałeś każdy test, aby późniejsze porównania miały sens."
+		},
+		{
+			"title": "Wybierz test pasujący do Twojego poziomu",
+			"text": "Jeśli zaczynasz od zera, możesz liczyć wygodne wstawanie z krzesła na stabilnym krześle. Doświadczony trenujący może potrzebować trudniejszego punktu odniesienia. Jeśli test powoduje ból, zawroty głowy, nietypową zadyszkę lub utratę równowagi, nie używaj go, dopóki specjalista Cię nie oceni."
+		},
+		{
+			"title": "Znaj ograniczenia",
+			"text": "Praktyka, motywacja, zmęczenie i proporcje ciała wpływają na wyniki testów terenowych. Lepszy wynik może wynikać z lepszej umiejętności, a także ze zmiany fizycznej. Testy, które wykonujesz sam, nie mogą zdiagnozować chorób układu krążenia, nerwowego ani mięśniowo-szkieletowego."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: aktywność fizyczna osób starszych",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: spacerowanie dla zdrowia",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Pchanie a ciągnięcie",
+			"text": "Pompki i wyciskanie akcentują klatkę piersiową, triceps i przednie części barków. Wiosłowanie i ściąganie akcentują mięśnie grzbietu i zginacze łokcia. Wiele mięśni barku pracuje razem w obu, więc obie grupy nie są dokładnymi przeciwieństwami w każdym stawie ani w każdej płaszczyźnie."
+		},
+		{
+			"title": "Proporcja 1:1",
+			"text": "Podobna liczba tygodniowych serii pchających i ciągnących to przydatna kontrola planu dla początkujących. Nie jest to udowodniony wzór na postawę ani zdrowie barków. To, czego potrzebujesz, zależy od Twojego sportu, celów, wyboru ćwiczeń i tego, co toleruje Twoje ciało. Program zbudowany wokół wyciskania na ławce może zawierać więcej pracy na plecy, a inny może stawiać na pierwszym miejscu wyniki w ciągnięciu."
+		},
+		{
+			"title": "Równoważenie dolnej części ciała",
+			"text": "Ta sama idea dotyczy nóg: przysiady i wykroki z dominacją kolan łączą się z zawiasami i mostkami z dominacją bioder. Mięśnie tylnej i przedniej części ciała nie potrzebują identycznej liczby serii. Staraj się pokryć każdy wzorzec i z czasem budować zdolności. Idealna symetria nie jest celem i nie gwarantuje, że unikniesz kontuzji."
+		},
+		{
+			"title": "Przykład",
+			"text": "Trening całego ciała może łączyć wyciskanie hantli z wiosłowaniem z podparciem, a potem trening nóg i mięśni tułowia. Innego dnia można połączyć wyciskanie nad głową ze ściąganiem. Rozkłada to poziome i pionowe pchanie oraz ciągnięcie na cały tydzień, gdy pozwala na to sprzęt. Spójna technika i odpowiednie obciążenia liczą się bardziej niż dopasowywanie nazw ćwiczeń."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Strona każdego ćwiczenia w zakładce Ćwiczenia pokazuje jego wzorzec ruchowy, więc możesz zobaczyć, jak Twój tydzień dzieli się między pchanie i ciągnięcie. Jeśli dominuje wyciskanie i nie masz ku temu powodu, dodaj wiosłowanie lub ciągnięcie pasujące do Twojego sprzętu i uwzględniające ewentualne ograniczenia barków, nadgarstków lub obciążeń."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bezpieczeństwo i podstawy treningu oporowego",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

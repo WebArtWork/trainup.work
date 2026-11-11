@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Uno schema di partenza",
+			"text": "Intervalli di ripetizioni bassi, spesso da una a cinque per serie, di solito vanno con carichi più pesanti e molto recupero per la pratica della forza massimale. Intervalli moderati, all’incirca da sei a dodici, rendono facile combinare un carico solido, il controllo della tecnica e il lavoro totale. Intervalli più alti, come quindici o più, possono aiutare la resistenza muscolare locale e l’allenamento con carichi minori."
+		},
+		{
+			"title": "Perché gli intervalli si sovrappongono",
+			"text": "La ricerca non sostiene l’idea che da sei a dodici ripetizioni siano l’unico modo di costruire muscolo, né che quindici ripetizioni non possano costruire forza. Il carico pesante funziona particolarmente bene per migliorare la forza massimale di una ripetizione, mentre il muscolo può crescere con un’ampia gamma di carichi quando impegno e volume sono abbastanza alti. Le ripetizioni molto alte possono essere interrotte dal fastidio o dalla fatica di cuore e polmoni prima che il muscolo bersaglio sia sollecitato abbastanza."
+		},
+		{
+			"title": "Adattare l’intervallo all’esercizio",
+			"text": "Un sollevamento composto pesante può essere più facile da controllare con meno ripetizioni. Uno squat a corpo libero può richiedere più ripetizioni prima di diventare duro. Un plank di solito si misura da quanto lo mantieni. La qualità di movimento prevista, la sicurezza, i pesi che hai e l’attrezzatura dovrebbero guidare la scelta."
+		},
+		{
+			"title": "Esempio",
+			"text": "Un principiante potrebbe fare 2–3 serie da 8–12 di goblet squat, rematori e distensioni, tenendo qualche ripetizione di riserva. Se la stessa resistenza diventa facile per dodici ripetizioni, aumenta leggermente il carico o scegli una variante più difficile. Chi in seguito si concentra sulla forza può fare più serie di meno ripetizioni in sollevamenti scelti."
+		},
+		{
+			"title": "Errore comune",
+			"text": "Un obiettivo di ripetizioni conta poco se ignori quanto la serie si avvicina a uno sforzo duro. Dieci ripetizioni senza fatica e dieci ripetizioni vicine al tuo limite sono dosi diverse di allenamento."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il piano dà a ogni esercizio un obiettivo di ripetizioni o un tempo di tenuta, e scegli tu il carico. Quando rigeneri il piano, considera le tue valutazioni dello sforzo e quanto di ogni allenamento hai completato. Se i tuoi ultimi 4 allenamenti sono stati facili (RPE 5 o meno) e completi, il piano successivo sale di un gradino."
+		}
+	],
+	"sources": [
+		{
+			"label": "Rassegna sul continuum delle ripetizioni",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Un cadru de pornire",
+			"text": "Intervalele mici de repetări, adesea în jur de una până la cinci pe serie, merg de obicei cu sarcini mai grele și multă pauză pentru exersarea forței maxime. Intervalele moderate, aproximativ șase până la douăsprezece, fac ușor să combini o sarcină solidă, controlul tehnicii și efortul total. Intervalele mai mari, de cincisprezece sau mai multe, pot ajuta la rezistența musculară locală și la antrenamentul cu sarcină mai mică."
+		},
+		{
+			"title": "De ce se suprapun intervalele",
+			"text": "Cercetările nu susțin ideea că șase până la douăsprezece repetări sunt singura cale de a construi mușchi sau că cincisprezece repetări nu pot dezvolta forță. Încărcarea grea funcționează mai ales bine pentru a îmbunătăți forța maximă la o singură repetare, în timp ce mușchii pot crește într-un interval larg de sarcini, dacă efortul și volumul sunt suficient de mari. Repetările foarte multe pot fi întrerupte de disconfort sau de oboseala inimii și a plămânilor înainte ca mușchiul țintă să fie destul de solicitat."
+		},
+		{
+			"title": "Potrivirea intervalului cu exercițiul",
+			"text": "O ridicare compusă grea poate fi mai ușor de controlat cu mai puține repetări. O genuflexiune cu greutatea corpului poate avea nevoie de mai multe repetări până devine grea. Un plank se măsoară de obicei prin cât timp îl menții. Calitatea intenționată a mișcării, siguranța, greutățile pe care le ai și echipamentul ar trebui să ghideze alegerea."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Un începător poate face 2–3 serii de 8–12 genuflexiuni goblet, ramat și împingeri, păstrând câteva repetări în rezervă. Dacă aceeași rezistență devine ușoară la douăsprezece repetări, crește puțin sarcina sau alege o variantă mai grea. Cineva care se concentrează mai târziu pe forță poate face mai multe serii cu mai puține repetări la ridicările alese."
+		},
+		{
+			"title": "Greșeală frecventă",
+			"text": "O țintă de repetări înseamnă puțin dacă ignori cât de aproape de un efort greu ajunge seria. Zece repetări fără efort și zece repetări aproape de limita ta sunt doze diferite de antrenament."
+		},
+		{
+			"title": "Folosind TrainUp",
+			"text": "Planul dă fiecărui exercițiu o țintă de repetări sau un timp de menținere, iar tu alegi sarcina. Când regenerezi planul, se uită la evaluările tale de efort și la cât din fiecare antrenament ai terminat. Dacă ultimele tale 4 antrenamente au fost ușoare (RPE 5 sau mai puțin) și complete, următorul plan devine cu un pas mai greu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Analiză a continuumului repetărilor",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

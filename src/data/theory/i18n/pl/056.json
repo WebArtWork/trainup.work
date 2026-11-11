@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Zalety",
+			"text": "Każda dłoń niesie własny ciężar, co ułatwia pracę jednostronną i pozwala na kąty chwytu, których stały gryf może nie dawać. Wiosłowanie jednorącz lub wyciskanie jednorącz może pokazać różnice w kontroli między Twoimi stronami. Hantle często lepiej mieszczą się w małych przestrzeniach niż pełne stanowisko ze sztangą, choć skoki między ciężarami mogą być duże lub wybór ograniczony."
+		},
+		{
+			"title": "Wybierz ciężar",
+			"text": "Wybierz parę lub pojedynczy hantel, który pozwala osiągnąć docelową liczbę powtórzeń ze stabilnym ruchem i kilkoma powtórzeniami w zapasie. Jako początkujący możesz potrzebować różnych obciążeń do wiosłowania, uginania i wyciskania. Jeśli kolejny ciężar jest zbyt duży, najpierw dodaj powtórzenia, zakres lub kontrolę z lżejszym."
+		},
+		{
+			"title": "Bezpieczne wejście w pozycję",
+			"text": "Do wyciskania na ławce usiądź z hantlami trzymanymi pewnie blisko ud, połóż się z kontrolą i ustaw ciężary na miejscu bez rzucania nimi. W ćwiczeniach stojących podnoś ciężary nogami i tułowiem ustawionym w stabilnej pozycji. Nie upuszczaj ciężarów tam, gdzie mogłyby odbić się na stopy, uszkodzić podłogę lub kogoś uderzyć."
+		},
+		{
+			"title": "Częste zastosowania",
+			"text": "Przysiady kielichowe i rumuńskie martwe ciągi z hantlami trenują dolną część ciała, wiosłowanie z podparciem i wyciskanie obejmują górną część, a noszenie buduje chwyt i kontrolę tułowia. Jeśli masz tylko jeden hantel, używaj go do ruchów jednostronnych."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "W Profilu wpisz ciężary hantli, które posiadasz. Twój plan wybiera ćwiczenia pasujące do Twojego sprzętu, przestrzeni i wysokości sufitu. Nie zaleca ciężarów, więc obciążenie wybierasz sam. Jeśli zapisujesz obciążenia po treningu, rób to za każdym razem w ten sam sposób, na przykład „12 kg na rękę”."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: wolne ciężary a maszyny",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: technika treningu z obciążeniem (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

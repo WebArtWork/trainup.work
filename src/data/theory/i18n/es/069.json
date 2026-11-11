@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Prepara cada estación",
+			"text": "Revisa el banco, el rack, la máquina o el accesorio antes de cargarlo. Ajusta bien los asientos y las barras de seguridad, usa collarines cuando haga falta y asegúrate de que los discos están sujetos en ambos lados. Mantén las bolsas y los accesorios sueltos fuera de los pasillos. Si no sabes cómo funciona una máquina, pide al personal que te lo enseñe."
+		},
+		{
+			"title": "Comparte el espacio",
+			"text": "Devuelve las mancuernas y los discos a su sitio, limpia el equipo como pida el gimnasio y devuelve los accesorios de las poleas. No ocupes varias máquinas a la vez en las horas punta. Pregunta con educación si puedes alternar con otra persona y acordad cómo cambiar el peso o el asiento con seguridad antes de compartir una estación."
+		},
+		{
+			"title": "Ayudantes y seguros",
+			"text": "Para press de banca o sentadillas duras, coloca los brazos de seguridad cuando puedas, y usa un ayudante que sepa lo que hace cuando lo necesites. No cuentes con que un desconocido cercano se dé cuenta de una repetición fallida. Practica cómo preparar un rack con cargas ligeras antes de levantar pesado, y nunca te metas en la trayectoria de levantamiento de otra persona."
+		},
+		{
+			"title": "Horas de mucha afluencia",
+			"text": "Ten una alternativa para el equipo popular: un remo con mancuerna puede sustituir a un remo en polea, y una sentadilla goblet puede sustituir a una sentadilla en rack si la carga sigue siendo adecuada. Tu entrenamiento no depende de conseguir una estación concreta. Una instalación apresurada o abarrotada sigue sin ser motivo para recortar la técnica ni para saltarte el calentamiento."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: seguridad y técnica en el entrenamiento con pesas",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

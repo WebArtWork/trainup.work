@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Rögzítési típusok",
+			"text": "Az ajtófélfás emelőkarú rudak, a kitágítható feszítőrudak, a fix fali és a mennyezeti rudak mind másképp szerelhetők fel. Az „ajtóba illő” rúd nem fér el minden ajtókeretben, falon vagy kereten. Egyes típusokhoz szerkezeti rögzítők kellenek tömör tartókba, mások egy konkrét keretformára támaszkodnak."
+		},
+		{
+			"title": "Ellenőrizd a terhelhetőséget és a szerkezetet",
+			"text": "Olvasd el a gyártó utasítását és a súlyhatárt, azt is, hogy a dinamikus mozdulatok megengedettek-e. Számold a teljes testsúlyodat plusz a lendítés vagy húzás többleterejét. Ellenőrizd a csavarokat, a konzolokat, a párnázást és azokat a felületeket, amelyeket a rúd érint vagy amelyek mellett áll. Ha nem vagy biztos az épület szerkezetében vagy a rögzítési módban, kérdezz meg egy szakképzett szerelőt."
+		},
+		{
+			"title": "Próbáld ki lépésről lépésre",
+			"text": "Teljes függés előtt győződj meg róla, hogy a rúd megfelelően ül, és nem foroghat, csúszhat vagy mozdulhat el. Tartsd a lábadat a padlón, és óvatosan, kontrolláltan nyomd lefelé. Csak akkor térj át részleges függésre, majd teljes támasztott függésre, ha tudod, hogy a felszerelés megfelelő. Egy rövid teszt nem bizonyíthatja, hogy a sérült alkatrész vagy az alkalmatlan keret biztonságos."
+		},
+		{
+			"title": "Gyakori veszélyek",
+			"text": "Ne erősíts rá gumikat, és ne végezz kipping, lendítéses vagy súlyozott húzódzkodást, hacsak a terméket pontosan erre tervezték és erre szerelték fel. Hagyj helyet a fejednek, a könyöködnek és a lábadnak, és ne legyen a közelben üveg vagy éles bútor. Ne használj olyan rudat, amely nyikorog, csúszik, hajlik vagy lazul."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban csak azután jelöld meg a húzódzkodórudat biztonságosan felszereltként, hogy mindent ellenőriztél a fentiekből. Addig a terved kihagyja a rudat igénylő gyakorlatokat, a biztos rögzítésű evezések vagy gumis gyakorlatok pedig ugyanazt a húzást edzik. Kezdőként a támasztott függések, a lapockahúzások vagy a segített húzódzkodások jó első lépések, ha a rúd biztonságos."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: súlyzós edzés biztonsága és technikája",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

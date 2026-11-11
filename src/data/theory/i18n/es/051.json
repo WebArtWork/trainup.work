@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Variables que puedes ajustar",
+			"text": "La palanca, la resistencia, el apoyo, el rango de movimiento y el tempo cambian lo difícil que es un ejercicio. Una flexión inclinada suele ser más fácil que una flexión en el suelo porque tus brazos sostienen menos peso corporal. Una mancuerna ligera hace más difícil una sentadilla, y sujetarte a un apoyo estable hace que una zancada sea más fácil de equilibrar."
+		},
+		{
+			"title": "Ejemplos de flexiones",
+			"text": "Empieza en una pared o en una superficie alta y firme, y baja después las manos a un banco o una encimera seguros a medida que ganes fuerza. Pasa a las flexiones en el suelo y, más adelante, si resulta útil, a una versión con los pies elevados o con carga. Una flexión con las rodillas y las distintas flexiones inclinadas no tienen todas la misma dificultad, así que prueba cuál te permite hacer repeticiones controladas."
+		},
+		{
+			"title": "Ejemplos de sentadillas y tracciones",
+			"text": "Una sentadilla con silla puede llevar a una sentadilla con el peso corporal sin apoyo y después a una sentadilla goblet. Para la tracción vertical, un jalón al pecho o una dominada asistida pueden ir antes que las repeticiones sin ayuda. Anota cualquier cambio en el agarre, la asistencia, el rango o la carga, para saber qué significa realmente un número mejor en tu registro."
+		},
+		{
+			"title": "Cuándo cambiar",
+			"text": "Sube de nivel cuando llegues a tu rango objetivo con una técnica estable y un esfuerzo moderado. Baja de nivel si el ejercicio hace que tu cuerpo gire o se desplace mucho para completarlo, si sigues fallando repeticiones o si la exigencia de equilibrio te parece insegura. Si algo te resulta incómodo, detente y vuelve a evaluarlo. El dolor que persiste o resulta inusual necesita que lo revise un médico o un fisioterapeuta."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Tu plan elige ejercicios que encajan con tu nivel, tu coordinación, tu equipamiento, la altura del techo, el espacio en el suelo y cualquier limitación que hayas indicado. Cuando lo generas de nuevo, cambia un paso cada vez. Sube de dificultad solo después de que tus últimos 4 entrenamientos fueran fáciles (RPE 5 o menos) y completos y sin dolor reciente, y baja cuando 2 de los últimos 3 fueron muy duros (RPE 9 o más) o se completaron en menos de un 60 %."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: técnica del entrenamiento con pesas (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

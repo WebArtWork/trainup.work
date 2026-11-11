@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "De ce apare",
+			"text": "DOMS urmează de obicei mișcărilor necunoscute și contracțiilor excentrice repetate, în care un mușchi produce forță în timp ce se alungește. Sunt implicate mai multe procese din mușchi și din țesutul din jur. Acidul lactic rămas nu este cauza. Cât de dureros te simți nu măsoară cât de bun a fost antrenamentul."
+		},
+		{
+			"title": "Cum vine și cum trece",
+			"text": "Durerea musculară poate începe la câteva ore după o sesiune, poate crește în următoarele una până la trei zile și apoi dispare. Un exercițiu cunoscut provoacă adesea mai puțină durere la aceeași doză, ceea ce se numește efectul repetării. Nu ai nevoie de dureri severe sau de durată ca să dezvolți forța."
+		},
+		{
+			"title": "Antrenamentul cu dureri musculare",
+			"text": "Durerea musculară ușoară și răspândită permite de obicei mersul, mobilitatea sau un antrenament mai ușor, atât timp cât te miști bine. Dacă durerea îți limitează mișcarea obișnuită sau îți schimbă tehnica de ridicare, scade intensitatea sau ia mai multă refacere. Repetarea imediată a unei sesiuni necunoscute cu volum mare este rareori o modalitate bună de a progresa. Progresează treptat la exercițiile cunoscute și nu conta pe stretching sau pe o revenire ca să previi durerea din ziua următoare."
+		},
+		{
+			"title": "Când să ceri ajutor",
+			"text": "Durerea ascuțită într-un singur punct, umflătura mare, slăbiciunea evidentă, urina închisă la culoare, febra sau simptomele care se agravează în loc să se amelioreze nu sunt DOMS normal. Semnele severe, mai ales urina închisă la culoare împreună cu dureri musculare sau slăbiciune, cer o evaluare medicală promptă."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "După un antrenament poți raporta durerea sau disconfortul, cu zona corpului și exercițiul. Orice durere recentă înseamnă că planul nu va deveni mai greu când îl regenerezi. Dacă un exercițiu doare în timpul antrenamentului, atinge „Simt durere” ca să-l închei imediat; rămâne în afara planurilor tale până îl reactivezi din Profil."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: durerea musculară cu debut tardiv",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		},
+		{
+			"label": "Analiză de cercetare: durerea musculară cu debut tardiv",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13627368/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

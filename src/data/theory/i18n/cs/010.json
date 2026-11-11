@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Koncentrická činnost",
+			"text": "Sval vytváří sílu, zatímco se celkově zkracuje. Při bicepsovém zdvihu se ohýbače lokte zkracují, jak se váha zvedá. Při vstávání z dřepu pracuje několik natahovačů kyčle a kolene, aby vás zvedly. „Koncentrická“ popisuje, co sval dělá, což není vždy totéž jako to, zda cvik vypadá jako pohyb vzhůru."
+		},
+		{
+			"title": "Excentrická činnost",
+			"text": "Sval vytváří sílu, zatímco se pod zátěží prodlužuje, často aby pohyb brzdil. Spouštění jednoručky při bicepsovém zdvihu nebo sedání do dřepu využívá excentrickou činnost hlavních pracujících svalů. Tato fáze pomáhá síle a růstu svalů, ale velmi nezvyklá excentrická práce může způsobit silnou bolest svalů. Zvyšujte ji postupně a nepřehánějte záměrně každou fázi spouštění."
+		},
+		{
+			"title": "Izometrická činnost",
+			"text": "Sval vytváří sílu bez velké změny celkové délky nebo úhlu kloubu, který ovládá. Plank a sed u zdi jsou jasné příklady a svaly trupu pracují zhruba izometricky, když držíte těžké nošení. Výdrž v jednom úhlu není dokonalou náhradou za pohyb v celém rozsahu."
+		},
+		{
+			"title": "Role se mění podle úkolu",
+			"text": "Agonista je hlavním přispěvatelem k zamýšlenému pohybu a antagonista mu odporuje nebo pomáhá pohyb regulovat. Synergisté pomáhají a stabilizátory ovládají klouby nebo části těla. Při kliku tlačí prsa a triceps, zatímco svaly trupu udržují vaše vyrovnání. Tyto role závisí na pohybu, takže sval nemá trvalé označení."
+		},
+		{
+			"title": "V praxi",
+			"text": "Spouštějte s kontrolou, vyhýbejte se nekontrolovanému odrazu a tlačte nebo tahejte v rozsahu, který dokážete ovládat. Časované výdrže se hodí, když úkol nevyžaduje pohyb, a dynamická opakování, když chcete sílu v pohybu. V TrainUp je každý cvik nastaven buď na opakování, nebo na čas výdrže a časovač výdrží vaše výdrže sleduje. Poznámky k technice a tempo vám pomáhají dělat dobrá opakování, ale pomalejší pohyb nepřináší vždy rychlejší výsledky."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Přehled mechanismů svalové hypertrofie",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/37382939/"
+		}
+	]
+}

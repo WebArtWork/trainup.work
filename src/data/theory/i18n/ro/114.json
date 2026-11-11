@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "De ce se mișcă cântarul",
+			"text": "Mâncarea și băutura, hidratarea, sodiul, glicogenul stocat și alte procese normale îți schimbă greutatea de la o zi la alta. O singură valoare mare sau mică nu îți spune nimic sigur despre mușchi sau grăsime. Exercițiul îți poate schimba compoziția corporală chiar și când greutatea totală abia se mișcă."
+		},
+		{
+			"title": "Măsoară la fel de fiecare dată",
+			"text": "Dacă te cântărești, folosește același cântar și o rutină similară, nu momente la întâmplare. O medie săptămânală este adesea mai utilă decât o singură valoare. Circumferința taliei și alte măsurători cu metrul sunt comparabile doar dacă folosești aceleași repere ale corpului și aceeași tensiune a metrului."
+		},
+		{
+			"title": "Fotografiile sunt opționale",
+			"text": "Fotografiile de progres pot arăta schimbări de postură sau de aspect, dar lumina, unghiul camerei și hainele le influențează mult. Nu ai nevoie de ele dacă te concentrezi pe condiția fizică sau pe forță și s-ar putea să nu te ajute dacă ai probleme legate de imaginea corporală sau de alimentație."
+		},
+		{
+			"title": "Condiția fizică și greutatea sunt separate",
+			"text": "Să te miști mai bine, să reziști mai mult și să devii mai puternic sunt rezultate reale indiferent de mărimea ta. Dacă ești îngrijorat de o schimbare neașteptată de greutate sau de o afecțiune medicală, vorbește cu un specialist din domeniul sănătății."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Panoul are un jurnal al greutății corporale, iar dacă îl folosești sau nu rămâne la alegerea ta. Citește-l ca pe o tendință pe mai multe săptămâni. TrainUp nu consideră greutatea corporală o măsură a condiției fizice și nu stabilește ținte de slăbit."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: greutatea sănătoasă și activitatea fizică",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

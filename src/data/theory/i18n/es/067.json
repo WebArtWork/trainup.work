@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Superficies habituales",
+			"text": "Un suelo firme y nivelado ofrece un apoyo estable para la mayoría de los movimientos de fuerza. Una moqueta gruesa y blanda puede tambalearse durante el trabajo a una pierna, y las baldosas muy lisas pueden resbalar. La hierba o los senderos al aire libre pueden ser irregulares y estar húmedos. Una esterilla hace más cómodo el trabajo en el suelo, pero puede deslizarse o comprimirse, así que pruébala antes de poner cargas pesadas sobre ella."
+		},
+		{
+			"title": "Calzado para la tarea",
+			"text": "Un calzado estable con buen agarre suele funcionar bien para sentadillas, bisagras y movimientos laterales. Las zapatillas de correr acolchadas pueden resultar cómodas para caminar o trotar, pero pueden dejar que el pie se desplace bajo levantamientos pesados. El calzado diseñado para deportes concretos difiere, y ningún estilo es el mejor para todos los ejercicios ni para todas las personas."
+		},
+		{
+			"title": "Entrenar descalzo depende del entorno",
+			"text": "Entrenar descalzo te da una respuesta directa del suelo en un espacio limpio y seguro, pero deja tus pies expuestos a pesos que se caen, objetos afilados y otros peligros. Algunos gimnasios no lo permiten. Si tienes menos sensibilidad en los pies, problemas de equilibrio o una afección médica del pie, pide consejo para tu situación antes de ir descalzo, ya que no es automáticamente mejor."
+		},
+		{
+			"title": "Impacto y ruido",
+			"text": "Saltar y correr hacen más impacto y ruido que las sentadillas controladas o la marcha. Una esterilla de goma puede reducir parte del sonido, pero sigues necesitando buen agarre y un suelo sólido debajo. Evita los calcetines resbaladizos, la espuma inestable bajo los pesos y las esterillas que se arrugan cuando pisas de lado."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Indica en Perfil tu superficie y si se puede saltar, y el plan elegirá ejercicios que se ajusten a ellas. Si el suelo es resbaladizo o irregular, elige ejercicios estables de bajo impacto o aplaza el movimiento hasta que la superficie sea segura."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: seguridad y técnica en el entrenamiento con pesas",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

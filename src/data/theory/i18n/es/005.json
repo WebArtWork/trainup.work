@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Por qué importa el chequeo",
+			"text": "La mayoría de las personas se benefician de estar más activas, y el movimiento suave suele ser un buen punto de partida. Los síntomas, los problemas de salud inestables o los episodios médicos recientes pueden cambiar qué actividades son seguras para ti. El chequeo te dice cuándo un profesional de la salud o un profesional del ejercicio cualificado debe guiar tus siguientes pasos."
+		},
+		{
+			"title": "El PAR-Q+",
+			"text": "El actual Cuestionario de Aptitud para la Actividad Física para Todos (PAR-Q+) usa preguntas de salud estructuradas con rutas de seguimiento, así que va más allá de una única lista genérica. Piensa en problemas del corazón o cardiovasculares, presión arterial no controlada, desmayos o mareos sin explicación, molestias en el pecho, cirugía reciente, dolor nuevo o que empeora y medicamentos que cambian cómo responde tu cuerpo al ejercicio. El embarazo y los meses posteriores al parto también requieren consejo individual."
+		},
+		{
+			"title": "Qué significa una respuesta afirmativa",
+			"text": "Responder que sí a una pregunta del chequeo no significa automáticamente no hacer ejercicio. Puede significar completar el proceso oficial de seguimiento u obtener consejo sobre la intensidad y las restricciones. Si ya haces ejercicio de forma segura, continuar a un nivel que te resulta familiar es una decisión distinta de empezar un entrenamiento duro que nunca has hecho."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Una persona que lleva años inactiva y siente presión en el pecho al caminar a buen paso no debería intentar una sesión de fuerza máxima ni de intervalos. Debería detener esa actividad y pedir una evaluación médica. Los síntomas en el pecho intensos o continuos requieren atención de urgencia. Una persona sin síntomas preocupantes puede empezar con paseos suaves y práctica ligera de fuerza, y después avanzar poco a poco."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Puedes anotar las limitaciones por zona del cuerpo en Perfil, con notas, y el plan elige solo ejercicios que encajen con ellas. TrainUp no puede dar el visto bueno a un problema médico ni interpretar tus síntomas, y un entrenamiento generado no es una aprobación médica. Si el chequeo te genera dudas, consulta a tu médico antes de elegir un plan exigente."
+		}
+	],
+	"sources": [
+		{
+			"label": "Cuestionario oficial PAR-Q+",
+			"url": "https://eparmedx.com/"
+		},
+		{
+			"label": "CDC: cómo empezar",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

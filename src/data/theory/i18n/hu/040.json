@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Gyakori hordozástípusok",
+			"text": "A farmerhordozás mindkét kezedben egy-egy súlyt használ. A bőröndhordozás egyik oldalon használ egy súlyt, így a törzsednek ellen kell állnia az oldalra hajlásnak. Az elülső hordozás a terhet a mellkasod közelében tartja, a fej feletti hordozás pedig több vállstabilitást kér, és több fejteret igényel. Minden helyzet megváltoztatja az érintett izmokat és készséget."
+		},
+		{
+			"title": "Alaptechnika",
+			"text": "Olyan terhelést válassz, amelyet az egész séta alatt biztosan tudsz tartani, állj egyenesen kényelmes testtartásban, és tudatos lépésekkel menj. Tartsd biztosan a súlyt, ne dőlj messze felé vagy tőle el, és hosszú sétán lélegezz tovább. Lassíts fordulóknál, és tartsd szabadon az utadat."
+		},
+		{
+			"title": "Hogyan adagold a hordozásokat",
+			"text": "A hordozásokat távolsággal vagy idővel számolod, nem ismétlésekkel. Például vigyél két súlyzót, amelyet 20–30 másodpercig stabilan tudsz tartani, pihenj, majd ismételd. Ha a fogásod és a tartásod ugyanaz marad, adj hozzá egy kis távolságot, időt vagy súlyt. A nehezebb súly nem segít, ha kapkodó, egyenetlen lépéseket okoz."
+		},
+		{
+			"title": "Hely és biztonság",
+			"text": "Ellenőrizd, hogy az útvonalad elég szabad padlót, csúszásmentes felületet kínál, és nincsenek benne emberek vagy tárgyak. A súlyokat kontrolláltan tedd le, és ne ejtsd el őket. Hagyd ki a fej feletti hordozást alacsony mennyezet alatt, vagy ha nem vagy biztos a vállkontrollodban. Az egyoldali hordozásokat mindig mindkét oldalon végezd."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A hordozások kitölthetnek egy erősítő helyet, ha van felszerelésed és helyed a járáshoz. A terved ellenőrzi a Profilban megadott padlóméretet. Ha a hátad vagy a kezed korlátozza, mennyi gerinc- vagy fogásterhelést bírsz, add meg azt a testrészt korlátként a Profilban, hogy a terv kihagyhassa az oda nem illő gyakorlatokat."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Cosa conta",
+			"text": "Il recupero attivo è un movimento che mantieni di proposito più facile del tuo normale allenamento. Una camminata comoda, un nuoto rilassato, una pedalata facile o una breve sessione di mobilità possono farti sentire meglio e mantenere l’abitudine a muoverti. Non devi sudare, esaurirti né raggiungere una zona di frequenza cardiaca alta."
+		},
+		{
+			"title": "Quanto deve essere facile",
+			"text": "Dovresti riuscire a parlare senza sforzo e finire non più stanco di quando hai iniziato. Se le gambe bruciano, aggiungi intervalli duri o ti avvicini al cedimento muscolare, quello è allenamento extra. Quando si accumulano fatica, sintomi o un programma fitto, il riposo completo può essere la scelta migliore. I giorni di recupero sono facoltativi, e il recupero attivo non sostituisce il riposo."
+		},
+		{
+			"title": "Esempio",
+			"text": "Dopo una dura sessione per la parte bassa del corpo, potresti camminare per 15–25 minuti e fare qualche rilassato movimento di anche e caviglie. Il giorno dopo, controlla se sta tornando la tua prestazione normale. Stretching o foam rolling possono dare piacere, ma non ti servono per eliminare il dolore muscolare, e nessuno dei due garantisce un recupero più rapido."
+		},
+		{
+			"title": "Cosa non mostrano le evidenze",
+			"text": "La ricerca non ha dimostrato che ogni forma di recupero attivo acceleri la riparazione fisica. Un dolore muscolare che si attenua per un po’ non dimostra che i tuoi tessuti siano recuperati. Non usare mai il movimento per superare un dolore forte o che peggiora."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: camminare per la salute",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

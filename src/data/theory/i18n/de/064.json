@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mögliche Ersatzgegenstände",
+			"text": "Ein geschlossener Rucksack, dessen Inhalt gleichmäßig verteilt ist, kann einer Kniebeuge oder einem Tragen Widerstand hinzufügen. Wasserflaschen funktionieren als leichte Handgewichte, und ein stabiler Tritt kann eine niedrige Übungsplattform ersetzen. Diese Gegenstände haben keine Standardgröße oder Gewichtsmarkierung, sodass sich Last und Gleichgewicht ohne Vorwarnung verschieben können."
+		},
+		{
+			"title": "Möbel sind ein großes Risiko",
+			"text": "Ein Esszimmerstuhl kann bei Dips, Step-ups oder Schräg-Liegestützen rutschen oder kippen, und viele Tische können kein Körpergewicht-Rudern von unter der Kante halten. Nimm nie an, dass ein gewöhnlicher Tisch, ein Handtuch, ein Türgriff oder ein Regal dein Körpergewicht tragen kann. Wenn ein Aufbau von Festigkeit oder Verankerung abhängt, bei der du dir nicht sicher bist, wähle eine andere Übung."
+		},
+		{
+			"title": "Jeden Gegenstand prüfen",
+			"text": "Stelle sicher, dass die Fläche nicht rutscht, der Behälter nicht ausläuft oder gebrochene Griffe hat und die Rucksackgurte nicht reißen. Verteile das Gewicht so, dass es nicht plötzlich schwingt. Vermeide Glasbehälter, scharfe Metallkanten und lose Bücherstapel. Trainiere auf freiem Boden, fern von allem, was zerbrechen kann."
+		},
+		{
+			"title": "Langsam steigern",
+			"text": "Beginne mit einer einfachen Bewegung und einer kleinen Last. Langsame, wiederholbare Wiederholungen sind besser als kniffliges Balancieren. Wenn du den Gegenstand nicht zuverlässig wiegen kannst, notiere den Aufbau und eine grobe Vorstellung vom Widerstand statt einer genauen Zahl. Halte jede Steigerung klein genug, dass du die Kontrolle behältst."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Ein Haushaltsgegenstand ist keine Bank, kein Rack, keine Klimmzugstange und keine Kabelstation. Gib im Profil einen Banktyp oder eine Klimmzugstange nur für echte Ausrüstung an. Wenn du nicht sicher sein kannst, dass ein Möbelstück sicher ist, wähle Körpergewichtsübungen, die keine Stütze brauchen."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: Sicherheit und Technik beim Krafttraining",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACE-Übungsbibliothek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

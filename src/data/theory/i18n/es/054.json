@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Qué cambia durante el tiempo de descanso",
+			"text": "La resistencia aeróbica, la tolerancia al movimiento y el rendimiento al levantar pesos se pierden a distintas velocidades. Unos pocos días sin entrenar pueden marcar poca diferencia, mientras que semanas o meses sin entrenar pueden reducir la cantidad de trabajo que puedes hacer. El entrenamiento pasado puede ayudarte a recuperar habilidades más rápido, pero la «memoria muscular» no elimina la necesidad de una vuelta gradual."
+		},
+		{
+			"title": "Por qué hiciste la pausa",
+			"text": "Un viaje o un horario ocupado es distinto de una lesión, una operación o una enfermedad larga. Después de un episodio médico, consulta a tu médico o a otro profesional de la salud adecuado antes de volver a un entrenamiento duro. TrainUp no puede saber si volver tras una enfermedad o una lesión es seguro desde el punto de vista médico para ti. Si algo ha cambiado, actualiza tus limitaciones en Perfil antes de empezar de nuevo."
+		},
+		{
+			"title": "Un punto de partida prudente",
+			"text": "Tras una pausa larga, vuelve con menos series, una resistencia más ligera y más repeticiones en reserva. Empezar con alrededor de un 50–70 % de tu volumen de entrenamiento anterior es un ejemplo de planificación que le sirve a algunas personas; la investigación no fija este número. Fíjate en cómo te sientes en las primeras sesiones antes de añadir trabajo."
+		},
+		{
+			"title": "Progresa durante las semanas siguientes",
+			"text": "Practica técnicas conocidas, deja suficiente recuperación y añade trabajo poco a poco a medida que el movimiento y las agujetas vuelvan a la normalidad. No pongas a prueba tus antiguos máximos de inmediato. Si la primera semana te deja agujetas duraderas o inusualmente fuertes, repite o reduce la carga de trabajo, aunque tu calendario diga que es el momento de progresar."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA/CSCCa: vuelta segura tras un periodo de inactividad",
+			"url": "https://doi.org/10.1519/SSC.0000000000000477"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: seguridad y fundamentos del entrenamiento de fuerza",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Vad varaktighet mäter",
+			"text": "En planka på 30 sekunder, ett väggsittande på 40 sekunder och ett snabbt cykelintervall på 20 sekunder använder alla en timer, men de tränar olika saker. Statiska hållningar skapar kraft utan större ledrörelse, medan tidsbestämda dynamiska set upprepar en rörelse. Samma tid kan kännas mycket olika beroende på position, hävarm, belastning och intensitet."
+		},
+		{
+			"title": "Kvalitet framför överlevnad",
+			"text": "I en planka, sluta när du inte längre kan hålla bålen kontrollerad, även om timern inte har tickat klart. I ett väggsittande avgör knävinkeln och fotens placering svårigheten. I ett hängande spelar greppet och axelpositionen roll. Att hålla en sämre position längre kan ge dig mindre än en kortare hållning som du kan upprepa i samma position."
+		},
+		{
+			"title": "Sätt att gå vidare",
+			"text": "Börja med en tid du kan upprepa väl, som 15–20 sekunder. Lägg sedan till några sekunder över flera pass, lägg till ett set eller gå över till en något svårare variant. Ändra en huvudsak i taget. När en hållning väl är mycket lång gör det oftast mer att lägga till motstånd eller en svårare hävarm än att jaga flera minuter."
+		},
+		{
+			"title": "Tidsbestämda konditionsset",
+			"text": "Ett arbetsintervall på 30 sekunder följt av 60 sekunders vila är inte automatiskt högintensiv intervallträning. Intensiteten beror på ditt tempo eller din ansträngning under arbetet. Om du är nybörjare, välj en hastighet du kan kontrollera och tillräckligt med vila för att fortsätta röra dig bra."
+		},
+		{
+			"title": "Exempel",
+			"text": "Gör tre sidoplankor på 20 sekunder per sida med 40–60 sekunders vila. När varje hållning förblir stadig, gå upp till 25 sekunder. Om dina höfter sjunker vid 12 sekunder, förkorta hållningen eller byt till en sidoplanka med stöd på knät."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Tidsbestämda övningar i din plan kommer med en hålltid, och passvyn har en hålltimer. Om du ändrar varianten, skriv det i passets anteckningar, och jämför inte tider från olika kroppspositioner som om de vore samma test."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO:s vägledning om aktivitet",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

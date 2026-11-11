@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Avantages et limites",
+			"text": "Le travail au poids du corps se fait partout, coûte souvent peu et offre de nombreuses options aux débutants. Il peut entraîner l’équilibre, la coordination, la force et l’endurance musculaire. Certains mouvements sont plus difficiles à charger précisément sans matériel ni point d’ancrage fiable, surtout les charnières du bas du corps que vous voulez alourdir régulièrement et la traction horizontale."
+		},
+		{
+			"title": "Rendre l’exercice exigeant",
+			"text": "Une pompe contre un mur peut mener à une pompe inclinée, puis à une pompe au sol. Les squats peuvent progresser par plus de contrôle, des pauses et, plus tard, des variantes centrées sur une jambe. Les gainages peuvent devenir plus difficiles avec un bras de levier plus long avant d’ajouter de la durée. Ne durcissez un exercice que tant que vous pouvez encore répéter vos répétitions proprement. Accumuler des dizaines de répétitions faciles peut déplacer l’effet de l’entraînement vers l’endurance."
+		},
+		{
+			"title": "Travailler avec votre équipement",
+			"text": "Une barre de traction bien fixée vous permet d’entraîner la traction verticale, et un système de suspension solidement installé peut permettre des rowings. Ne supposez pas qu’une table, une porte ou une rampe de la maison peut supporter le poids de votre corps. Si vous n’avez pas d’ancrage sûr, choisissez un autre mouvement ou utilisez les élastiques et les haltères que vous avez."
+		},
+		{
+			"title": "Exemple",
+			"text": "Une première séance peut comprendre deux séries chacune de squats sur chaise, de pompes inclinées, de fentes arrière avec appui, de ponts fessiers et de dead bugs. Choisissez le nombre de répétitions selon la qualité de votre contrôle du mouvement et la difficulté ressentie. Il n’existe pas d’objectif unique obligatoire. Reposez-vous assez longtemps pour garder une bonne exécution."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Si vous n’avez aucun équipement, indiquez-le dans Profil, et précisez la taille de votre espace au sol et si vous pouvez sauter. Le programme choisit alors uniquement des exercices au poids du corps adaptés à votre espace, à votre limite de sauts et à votre niveau. Marquez une barre de traction comme disponible seulement si elle est installée en sécurité ; sinon le programme exclut les exercices qui en ont besoin."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS : conseils sur la force et la souplesse",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

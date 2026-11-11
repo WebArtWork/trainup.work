@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Porque é que o sono importa para o treino",
+			"text": "O sono ajuda na reparação dos tecidos, no funcionamento do sistema nervoso, na atenção e na aprendizagem de competências de movimento. Depois de dormir mal, uma carga normal pode parecer mais pesada e a motivação ou a coordenação podem diminuir. Uma noite curta não apaga o seu progresso, mas cortar o sono vezes sem conta pode prejudicar a qualidade do treino e a sua saúde geral."
+		},
+		{
+			"title": "Duração e qualidade",
+			"text": "As orientações de saúde pública recomendam sete ou mais horas para adultos dos 18 aos 60 anos, com intervalos específicos por idade depois disso. Acordar muitas vezes, um horário irregular ou não se sentir retemperado pode importar mesmo quando o tempo na cama parece suficiente. As necessidades diferem, por isso a quantidade certa é individual."
+		},
+		{
+			"title": "Hábitos que ajudam",
+			"text": "Deite-se e levante-se a horas bastante constantes, mantenha o quarto escuro e confortável, limite a luz intensa antes de dormir e tenha atenção à cafeína ao fim do dia. A luz do dia e o exercício regular podem ajudar a manter previsível o seu ritmo de sono. Não avalie o seu sono apenas por uma pontuação de um dispositivo de pulso."
+		},
+		{
+			"title": "Treinar depois de uma má noite",
+			"text": "Depois de uma noite particularmente má, se o equilíbrio ou a concentração parecerem alterados, considere uma sessão de técnica mais leve, uma caminhada fácil ou um treino mais pequeno. Um dia difícil ocasional não é perigoso em si, mas forçar levantamentos máximos estando exausto vezes sem conta não lhe faz bem. Os monitores de sono dão estimativas, não medições clínicas. Se tiver sonolência intensa ou insónia persistentes, fale com um médico."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: recomendações de sono para adultos",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		},
+		{
+			"label": "ACSM 2026: dose de exercício, recuperação e progressão",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

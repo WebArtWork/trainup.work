@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Régler la corde",
+			"text": "Choisissez une corde qui tourne en douceur sans accrocher vos pieds. Un premier réglage courant consiste à vous tenir près de son milieu et à lever les poignées vers le bas de la poitrine ou les aisselles, puis à ajuster selon l’épaisseur de la corde et votre niveau. Assurez-vous d’avoir beaucoup de place au-dessus, sur les côtés et au sol avant de sauter."
+		},
+		{
+			"title": "Apprenez un petit saut de base",
+			"text": "Gardez les coudes confortablement près des côtes et faites tourner la corde surtout avec les poignets, sans balancer tous les bras. Faites de petits sauts détendus, juste assez hauts pour passer la corde, sans remonter les genoux. Réceptionnez-vous en douceur en laissant vos chevilles et vos genoux fléchir ; n’essayez pas de garder les jambes complètement raides."
+		},
+		{
+			"title": "Ajoutez des variantes progressivement",
+			"text": "Commencez par des tours simples, même si seuls deux ou trois fonctionnent avant de devoir recommencer. Passez ensuite à de courtes séries continues, puis ajoutez les pieds alternés, le pas de boxeur ou les déplacements latéraux quand votre rythme s’améliore. Les figures comme les double-unders viennent après un rythme de base fiable."
+		},
+		{
+			"title": "Évitez trop d’impact et de frustration",
+			"text": "Sauter à la corde de façon répétée sollicite vos mollets et vos tendons d’Achille, donc de fortes augmentations soudaines peuvent les rendre douloureux. Si la corde accroche sans cesse, elle est peut-être trop longue, trop courte ou mal synchronisée ; cela ne veut pas dire que vous n’êtes pas en forme. Portez des chaussures et utilisez une surface avec une bonne adhérence, et évitez les sols carrelés glissants et les pièces encombrées."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Le programme n’inclut la corde à sauter que si votre équipement et vos réglages de Profil pour la hauteur de plafond, la surface, les sauts et le bruit le permettent. Gardez d’abord les intervalles courts. Si votre technique ou l’impact vous freine, la boxe dans le vide ou la marche sur place maintiennent la séance."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC : mesurer l’intensité de l’activité et le test de la parole",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "CDC : recommandations d’activité physique pour les adultes",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Build a time budget",
+			"text": "A workout’s total time includes getting ready, warming up, setting up each exercise, working sets, rests, moving between exercises and an optional cool-down. In a strength session, the time spent actually lifting is often a small part of the whole. Three 40-second sets with two minutes of rest between them take about six minutes for that exercise, before any equipment changes."
+		},
+		{
+			"title": "A simple estimate",
+			"text": "Add warm-up time, the length of each working set, the rests between sets and the changeovers. For example, four exercises × three 40-second sets is eight minutes of actual work. If each exercise has two 90-second rests, add twelve minutes. A six-minute warm-up and about eight minutes of setup and changeovers bring the session to about 34 minutes. Longer rests for heavy work can change the total a lot."
+		},
+		{
+			"title": "20-minute option",
+			"text": "Keep the warm-up short, pick two or three major movement patterns, and do a few good sets of each. Pairing a push and a pull can save changeover time when your equipment and technique allow it, but don’t cut rest so far that you lose the main strength goal."
+		},
+		{
+			"title": "30- to 45-minute options",
+			"text": "Add a hinge or lunge, a core exercise, or extra sets for your priority pattern. If general fitness is your goal, use the remaining time for aerobic work. You don’t need to fill every spare minute with “finishers.”"
+		},
+		{
+			"title": "Protect your priorities",
+			"text": "When time is short, drop the low-priority accessory exercises first. Keep the warm-up and don’t rush your heavy compound lifts. If the whole program keeps running over, plan less for each session instead of counting on a pace you can’t keep."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Set your session length in Profile to the minutes you really have. If you finish the main work with good technique, the session was a success, even if you skipped the optional extras."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC practical activity planning",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

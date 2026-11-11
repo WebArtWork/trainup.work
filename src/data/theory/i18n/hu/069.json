@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Készítsd elő az állomást",
+			"text": "Mielőtt megterhelnéd, ellenőrizd a padot, az állványt, a gépet vagy a tartozékot. Állítsd be helyesen az üléseket és a biztonsági rudakat, szükség esetén használj zárakat, és győződj meg róla, hogy a tárcsák mindkét oldalon rögzítve vannak. Tartsd a táskákat és a laza kiegészítőket távol az átjáróktól. Ha nem tudod, hogyan működik egy gép, kérd meg a személyzetet, hogy mutassa meg."
+		},
+		{
+			"title": "Oszd meg a teret",
+			"text": "Tedd vissza a súlyzókat és a tárcsákat, töröld le a felszerelést, ahogy a terem kéri, és add vissza a csigás tartozékokat. Csúcsidőben ne foglalj le egyszerre több gépet. Kérdezd meg udvariasan, beállhatsz-e, és egyezz meg abban, hogyan váltjátok biztonságosan a súlyt vagy az ülést, mielőtt megosztanátok egy állomást."
+		},
+		{
+			"title": "Segítők és biztonsági tartók",
+			"text": "Nehéz fekvenyomáshoz vagy guggoláshoz állítsd be a biztonsági karokat, amikor tudod, és olyan segítőt használj, aki tudja, mit csinál, ha szükséged van rá. Ne számíts arra, hogy egy közelben lévő idegen észreveszi a sikertelen ismétlést. Mielőtt nehezet emelnél, gyakorold az állvány beállítását könnyű terheléssel, és soha ne lépj be más emelési útvonalába."
+		},
+		{
+			"title": "Forgalmas időszakok",
+			"text": "Legyen tartalék megoldásod a népszerű felszerelésekre: a súlyzós evezés helyettesítheti a csigás evezést, a kehelyguggolás pedig az állványos guggolást, ha a terhelés még illik hozzád. Az edzésed nem függ egy bizonyos állomás megszerzésétől. Egy sietős vagy zsúfolt felállás sem ok arra, hogy a technikán spórolj, vagy kihagyd a bemelegítést."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: súlyzós edzés biztonsága és technikája",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

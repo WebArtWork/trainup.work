@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Varför kombinera de två",
+			"text": "Styrketräning förbättrar styrka och muskelfunktion, och aerob aktivitet stöder uthållighet och hälsan hos hjärta och lungor. Folkhälsoriktlinjer rekommenderar båda. Att bara göra den ena kan lämna delar av din kondition efter, särskilt när dina vardagsmål inkluderar styrka, gångförmåga och att hålla dig aktiv under lång tid."
+		},
+		{
+			"title": "Interferenseffekten",
+			"text": "Mycket stora mängder uthållighetsträning kan ibland minska framstegen i explosiv kraft eller vissa styrkeresultat, jämfört med enbart styrketräning. Nyare översikter finner dock att kombinerad träning i allmänhet förbättrar aerob kapacitet och styrka tillsammans, och de flesta motionärer förlorar ingen verklig muskeltillväxt på grund av det."
+		},
+		{
+			"title": "Välj en praktisk ordning",
+			"text": "Om styrka är din prioritet, gör de krävande lyften medan du är utvilad och den lätta konditionsträningen efteråt. Om kondition är ditt huvudmål, gör det viktiga uthållighetsarbetet först. Att lägga hårda pass flera timmar isär eller på olika dagar kan hjälpa mot trötthet, särskilt vid avancerad träning."
+		},
+		{
+			"title": "Balansera hårda och lätta dagar",
+			"text": "Gör till exempel två helkroppsdagar med styrka plus två eller tre raska promenader och ett valfritt måttligt cykelpass. En mer erfaren idrottare kan behöva tajma hårda löppass och bensträning noga. Om din prestation och återhämtning blir lidande, sluta lägga intervaller med full kraft ovanpå varje benpass."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ditt mål i Profil (allmän kondition, styrka eller kondition) talar om vilken sorts arbete du ska lägga först medan du fortfarande tränar båda. Konditionsträning förstör inte automatiskt dina styrkeframsteg. Håll ett öga på de repetitioner du missar och på din genomsnittliga ansträngning i Historik. När du skapar ditt program på nytt blir det lättare om 2 av dina senaste 3 pass var mycket tuffa (RPE 9 eller mer) eller mindre än 60 % genomförda."
+		}
+	],
+	"sources": [
+		{
+			"label": "Paraplyöversikt 2026: samtidig styrke- och uthållighetsträning",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41762427/"
+		},
+		{
+			"label": "CDC: rekommendationer om fysisk aktivitet för vuxna",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

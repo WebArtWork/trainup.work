@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Dorośli w wieku 18–64 lat",
+			"text": "Wytyczne Światowej Organizacji Zdrowia zalecają 150–300 minut umiarkowanej aktywności aerobowej tygodniowo albo 75–150 minut aktywności intensywnej, albo równoważną mieszankę obu. Zalecają też aktywność wzmacniającą mięśnie dla wszystkich głównych grup mięśniowych co najmniej w dwa dni tygodnia. Większa aktywność może przynieść dodatkowe korzyści, ale odpowiednia ilość zależy od Twojego zdrowia i możliwości."
+		},
+		{
+			"title": "Co oznacza intensywność",
+			"text": "Umiarkowana aktywność przyspiesza oddech i tętno, ale nadal możesz prowadzić rozmowę. Intensywna aktywność utrudnia mówienie pełnymi zdaniami. Szybki marsz lub spokojna jazda na rowerze to aktywność umiarkowana, a bieganie lub intensywna jazda na rowerze to aktywność intensywna. Minuty możesz rozłożyć na cały tydzień w sesjach pasujących do Twojego grafiku, więc jeden długi trening nie jest wymagany."
+		},
+		{
+			"title": "Osoby starsze i młodzież",
+			"text": "Osoby starsze stosują te same cele dotyczące aktywności aerobowej i siłowej. Zachęca się je także do aktywności wieloskładnikowej, kładącej nacisk na równowagę i siłę, co najmniej w trzy dni tygodnia, jeśli to możliwe. Dla osób w wieku 5–17 lat WHO zaleca średnio co najmniej 60 minut umiarkowanej do intensywnej aktywności dziennie w skali tygodnia, z aktywnością intensywną oraz wzmacniającą mięśnie i kości co najmniej w trzy dni tygodnia."
+		},
+		{
+			"title": "Zaczynanie od małych kroków też się liczy",
+			"text": "Każde zwiększenie aktywności po okresie bezruchu pomaga. Dziesięciominutowe spacery, wchodzenie po schodach i krótkie treningi w domu składają się na zalecane sumy. Mniej siedzenia pomaga, nawet jeśli już ćwiczysz, a lekka aktywność może zastąpić część tego czasu spędzanego w pozycji siedzącej."
+		},
+		{
+			"title": "Przykład",
+			"text": "Początkujący może zaplanować dwa treningi całego ciała i trzy 30-minutowe spacery, a potem powoli wydłużać spacery w stronę celu aerobowego. Śledź minuty marszu osobno od serii siłowych. Wytyczne to cele dla całych populacji, więc nie musisz od razu przeskakiwać do pełnej ilości."
+		}
+	],
+	"sources": [
+		{
+			"label": "Wytyczne WHO z 2020 roku",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		},
+		{
+			"label": "Wskazówki CDC dotyczące aktywności",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

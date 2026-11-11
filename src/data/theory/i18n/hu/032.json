@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Beállás és mozgás",
+			"text": "Állj kényelmes lábszélességgel és lábujjszöggel. Feszítsd meg a törzsedet, hagyd, hogy a csípőd és a térded együtt hajoljon, és tartsd egyenletesen elosztva a nyomást a lábfejeden. Kontrolláltan engedj le olyan mélységig, ahol a technikád stabil marad, majd told át magad a padlón, hogy felállj. A törzsed szöge és a térded elmozdulása a végtaghosszaidtól és a guggolás típusától függően változik."
+		},
+		{
+			"title": "Mélység és térdmozgás",
+			"text": "Nincs olyan szabály, hogy a térdnek a lábujjak mögött kell maradnia. Sok guggolásban előremozdulnak, és ez normális. A mélyebb guggolás hasznos lehet, ha kényelmesen és kontrolláltan eléred, de a mélység erőltetése fájó ízületeken vagy elvesztett egyensúllyal nem segít. A sarok megemelése vagy az állás megváltoztatása módosítja a mozgást, és egyik sem teszi alapból jobbá a guggolást."
+		},
+		{
+			"title": "Gyakori hibák és javításuk",
+			"text": "A sarok felemelkedése, a térd kontrollálatlan befelé esése és a stabil törzs elvesztése gyakran azt jelzi, hogy a mélység, az egyensúly vagy a terhelés még nem egyezik azzal, amit uralni tudsz. Próbálj könnyebb súlyt, egy szünetet a nehéz pont fölött, vagy egy széket célként. A térded nagyjából ugyanarra mutathat, mint a lábujjaid, anélkül hogy merev pályát követne."
+		},
+		{
+			"title": "Haladási példa",
+			"text": "Kezdd felállásokkal ülésből vagy saját testsúlyos guggolásokkal. Adj hozzá kehelyguggolást, ha a minta megbízható, majd súlyzókat vagy rudat, ha szeretnéd. Például végezz két sorozat 8 kontrollált ismétlést, mielőtt terhelést adsz hozzá. A haladóbb változatok opcionálisak, és nincs rájuk szükséged az edzettséghez."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A terved saját testsúlyos, kehely- vagy terhelt guggolásokat választ, amelyek illenek a felszerelésedhez, a szintedhez, a koordinációdhoz és a Profilban megadott korlátaidhoz, például a térdhez. Amikor haladsz, tartsd ugyanazt a mélységet és technikát, hogy a nagyobb számok valódi fejlődést tükrözzenek."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: súlyzós edzés technikája (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

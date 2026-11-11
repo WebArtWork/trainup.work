@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Włókna typu I",
+			"text": "Często nazywane wolnokurczliwymi, kurczą się zwykle wolniej, wytwarzają mniejszą siłę szczytową na włókno i dobrze znoszą zmęczenie. Skutecznie wykorzystują metabolizm tlenowy i wykonują dużą część pracy w długiej lub powtarzanej aktywności o niskiej intensywności, takiej jak marsz czy spokojna jazda na rowerze."
+		},
+		{
+			"title": "Włókna typu II",
+			"text": "Są powszechnie nazywane szybkokurczliwymi i mogą wytwarzać siłę szybciej i mocniej. U ludzi włókna typu IIa mają dużą zdolność do wytwarzania energii zarówno oksydacyjnej, jak i glikolitycznej, a włókna typu IIx są zwykle szybsze i łatwiej się męczą. Proporcje typów włókien różnią się między mięśniami i między ludźmi."
+		},
+		{
+			"title": "Rekrutacja zależy od zapotrzebowania",
+			"text": "Zasada wielkości opisuje, jak układ nerwowy zwykle rekrutuje najpierw mniejsze jednostki motoryczne o niższym progu, a dodaje jednostki o wyższym progu wraz ze wzrostem potrzebnej siły. Ciężkie podniesienia rekrutują jednostki o wysokim progu od razu. Lżejsze obciążenia mogą je również rekrutować w miarę narastania zmęczenia, o ile wysiłek stanie się wystarczająco duży. To pomaga wyjaśnić, dlaczego mięśnie mogą rosnąć w dość szerokim zakresie obciążeń."
+		},
+		{
+			"title": "Co zmienia trening",
+			"text": "Trening wytrzymałościowy poprawia aparat tlenowy i odporność na zmęczenie. Trening oporowy i mocy poprawia wytwarzanie siły i może budować mięśnie. Niektóre cechy włókien zmieniają się pod wpływem treningu, ale na wyniki wpływają genetyka, historia treningowa i wiek, więc nazywanie kogoś osobą „szybkokurczliwą” lub „wolnokurczliwą” wprowadza w błąd."
+		},
+		{
+			"title": "Przykład",
+			"text": "40-sekundowa seria przysiadów z masą własnego ciała i ciężka seria pięciu przysiadów z obciążeniem inaczej obciążają układ nerwowo-mięśniowy. Obie mogą być przydatne, ale seria z obciążeniem bardziej specyficznie ćwiczy wytwarzanie dużej siły. Nie musisz testować proporcji włókien, by zbudować kompletny program. Wybieraj powtórzenia, przerwy i pracę kondycyjną pod adaptację, której chcesz, i pod to, jak dobrze się poruszasz, a nie pod etykietę typu włókien, której nikt nie sprawdził."
+		}
+	],
+	"sources": [
+		{
+			"label": "Trening oporowy i kontinuum powtórzeń",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

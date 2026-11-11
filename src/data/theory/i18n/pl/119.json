@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Czym jest trening łączony",
+			"text": "Trening siłowy stawia wyzwanie temu, ile siły wytwarzają Twoje mięśnie, a ćwiczenia tlenowe poprawiają to, jak długo możesz wytrzymać. Dla ogólnego zdrowia korzystasz z obu. Tak zwany efekt interferencji opisuje przypadki, w których łączenie ciężkiego treningu obu rodzajów może zmniejszać niektóre przyrosty w porównaniu z robieniem tylko jednego."
+		},
+		{
+			"title": "Co pokazują przeglądy",
+			"text": "Przegląd systematyczny wykazał, że łączenie treningu tlenowego i siłowego nie zmniejszyło istotnie średnio wzrostu całych mięśni ani maksymalnej siły. Przyrosty siły dynamicznej były nieco bardziej dotknięte, zwłaszcza gdy oba rodzaje treningu wykonywano w tej samej sesji. Dokładny wynik zależy od objętości, rodzaju ćwiczeń, czasu i historii treningowej."
+		},
+		{
+			"title": "Planuj wokół swojego priorytetu",
+			"text": "Jeśli głównym celem jest maksymalne podnoszenie, wykonuj najlepszą pracę siłową przed ciężkim kardio albo umieszczaj wymagające treningi w osobne dni, gdy możesz. Jeśli skupiasz się na ogólnej sprawności, możesz łączyć łatwe kardio i siłę bez skomplikowanego planowania. Regeneracja i całkowite obciążenie pracą mają większe znaczenie, a żaden rodzaj treningu nie jest wrogiem drugiego."
+		},
+		{
+			"title": "Przykład",
+			"text": "Dwa treningi siłowe całego ciała w tygodniu plus umiarkowana jazda na rowerze lub marsz w inne dni mogą budować kilka zdolności naraz. Zawodnik sportów mocy może bardziej uważać na ciężkie interwały tuż przed dynamicznym podnoszeniem."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Wybierz swój główny cel w Profilu: ogólna sprawność, siła lub kondycja. Nie potrzebujesz osobnych dni na wszystko, a żaden pojedynczy trening kardio nie wymazuje Twoich przyrostów mięśni."
+		}
+	],
+	"sources": [
+		{
+			"label": "Przegląd systematyczny: łączenie ćwiczeń tlenowych i siłowych",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/34757594/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

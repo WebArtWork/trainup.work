@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Andning vid styrketräning",
+			"text": "Vid en vanlig armhävning eller knäböj kan du prova att andas in under den lättare sänkningsfasen och andas ut under ansträngningen. Sikta på ett mönster du kan upprepa utan att flämta eller tappa kontrollen. Det finns undantag: krävande lyft kan använda en kort, medveten andhållning för att styva upp bålen, under kunnig handledning."
+		},
+		{
+			"title": "Bålspänning och andhållning",
+			"text": "Samordnad bukspänning kan hjälpa till att stabilisera ryggraden. En valsalvamanöver (en kraftfull utandning mot stängda luftvägar) kan ge stora kortvariga förändringar i blodtryck och cirkulation. Den är inte för alla, särskilt inte personer med högt blodtryck, hjärt-kärlsjukdom eller andra relevanta medicinska problem."
+		},
+		{
+			"title": "Andning under konditionsträning",
+			"text": "När intensiteten ökar andas du mer för att få in syre och göra dig av med koldioxid. Du behöver inte matcha varje fotsteg mot ett exakt antal in- och utandningar. Ett naturligt, bekvämt mönster är bra för de flesta lugna aktiviteter, och under hårda intervaller kan du låta andningen öka så mycket den behöver."
+		},
+		{
+			"title": "Exempel",
+			"text": "Vid ett set med tio goblet squats, andas in innan du sänker, håll en mild bålspänning och andas ut när du reser dig. Om du känner dig yr, sluta och vila. Pressa dig inte genom det. Vid en lugn promenad eller cykeltur är det en bra kontroll att kunna prata för att se att ansträngningen fortfarande är måttlig."
+		},
+		{
+			"title": "Vanliga misstag",
+			"text": "Att hålla andan under många repetitioner, att tvinga fram ett mycket långsamt mönster under hård konditionsträning och att ta hög andning för ett bra pass stör alla din kontroll över intensiteten."
+		},
+		{
+			"title": "När du bör undersökas",
+			"text": "Om du gång på gång blir andfådd utan tydlig orsak, känner dig svimfärdig eller har bröstsymtom, sök läkare. En annan andningsteknik löser inte dessa problem."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: intensitet och andning",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		},
+		{
+			"label": "American Heart Associations träningsvägledning",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ce crește",
+			"text": "Exercițiul cu rezistență declanșează căi de semnalizare și remodelarea proteinelor musculare. De-a lungul sesiunilor repetate, echilibrul dintre construirea și descompunerea proteinelor musculare se poate înclina spre fibre musculare mai mari. Asta durează de la săptămâni la luni. Schimbările timpurii de aspect sau de greutate pot veni și din lichide, glicogen sau variații de măsurare."
+		},
+		{
+			"title": "De ce contează tensiunea",
+			"text": "Contracțiile musculare puternice pun fibrele sub tensiune mecanică. Atât sarcinile mai grele, cât și cele mai ușoare pot susține creșterea, dacă faci seriile cu destul efort și cu tehnică bună. Antrenamentul cu rezistență foarte mică, departe de oboseală, poate să nu ofere un stimul suficient pentru o creștere vizibilă."
+		},
+		{
+			"title": "Volumul și frecvența",
+			"text": "Numărarea seriilor grele pe săptămână este o modalitate utilă de a organiza lucrul pentru hipertrofie. Declarația de poziție ACSM 2026 a găsit o creștere mai bună cu un volum săptămânal mai mare, iar dovezile au favorizat cel puțin aproximativ zece serii săptămânale pe grupă musculară pentru maximizarea creșterii, în comparațiile relevante din studii. Acest număr nu este un minim necesar la început. Începătorii pot crește cu mai puțin, iar limitele de refacere diferă de la o persoană la alta. Frecvența te ajută mai ales să împarți munca necesară pe parcursul săptămânii."
+		},
+		{
+			"title": "Refacerea și alimentația",
+			"text": "Proteinele și energia suficiente din alimentație susțin adaptarea, iar somnul și odihna te ajută să faci față antrenamentului repetat. TrainUp oferă educație generală despre exerciții și nu oferă diete personale sau ținte calorice. Genetica, vechimea în antrenament și sănătatea influențează și ele cât de repede apar câștigurile vizibile."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Începe cu un amestec moderat de genuflexiuni, flexii din șold, împingeri și trageri. Notează seriile și repetările săptămânale. Dacă performanța ți se îmbunătățește, febra musculară rămâne tolerabilă și te refaci bine, adaugă încet repetări sau puțină sarcină înainte să adaugi mai multe serii."
+		},
+		{
+			"title": "Concepție greșită frecventă",
+			"text": "Febra musculară nu măsoară creșterea musculară și nu trebuie să ajungi la cedare la fiecare serie. Programele care funcționează se bazează pe antrenament greu pe care îl poți repeta, nu pe epuizare maximă."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Analiză a mecanismelor creșterii musculare",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Afirmația frecventă",
+			"text": "Sute de abdominali clasici sunt adesea vânduți ca o modalitate de a pierde grăsimea de pe burtă, iar exercițiile pentru interiorul coapselor sunt promovate ca o modalitate de a ținti grăsimea de acolo. Mușchii care lucrează devin într-adevăr mai puternici sau mai buni la efort susținut. Folosirea unui mușchi nu îți dă totuși un control de încredere asupra grăsimii din apropierea lui."
+		},
+		{
+			"title": "Ce spune cercetarea",
+			"text": "Schimbările în grăsimea corporală depind de bilanțul energetic, de gene, de hormoni și de activitatea generală. Sfaturile practice de antrenament nu ar trebui să promită o pierdere precisă de grăsime dintr-o singură zonă. Cercetarea nu este complet stabilită: un mic studiu din 2023 a găsit o pierdere mai mare de grăsime la nivelul trunchiului cu un anumit protocol de rezistență abdominală. Acest rezultat nu arată că abdominalii obișnuiți decid în mod fiabil de unde pierde grăsime o anumită persoană."
+		},
+		{
+			"title": "Ce face antrenamentul țintit",
+			"text": "Planșele, flexiile, fandările și alte exerciții pot îmbunătăți forța, rezistența și funcția mușchilor pe care îi lucrează. Combină antrenamentul de forță cu activitatea aerobă pentru o sănătate și o condiție fizică mai largi. Cât de multă grăsime corporală pierzi nu este o măsură directă a cât de bun este exercițiul tău."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Dacă vrei un trunchi mai puternic, exersează „dead bug”, planșe laterale și plimbări cu greutate. Ele dezvoltă forța și rezistența trunchiului indiferent dacă măsura taliei se schimbă sau nu în luna respectivă."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Fiecare pagină de exercițiu din Explorează arată mușchii pe care îi lucrează exercițiul și tiparul lui de mișcare. Asta este ce antrenează exercițiul."
+		}
+	],
+	"sources": [
+		{
+			"label": "Studiu randomizat din 2023 despre exercițiul regional și schimbarea grăsimii",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/38010201/"
+		},
+		{
+			"label": "Exercițiul și schimbările grăsimii abdominale",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/16002776/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

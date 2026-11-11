@@ -11,7 +11,7 @@
 	"Accueil",
 	"Tous droits réservés.",
 	"Image de l'entreprise",
-	"Une application mobile qui crée un programme d’entraînement réaliste selon votre objectif, votre niveau, votre équipement, votre espace libre et votre emploi du temps — sans prompts ni chats.",
+	"Une application mobile qui crée un programme d’entraînement réaliste selon votre objectif, votre niveau, votre équipement, votre espace libre et votre emploi du temps, sans prompts ni chats.",
 	"Application mobile d’entraînement · en développement",
 	"Un programme d’entraînement réaliste adapté à votre équipement et à votre espace",
 	"Choisissez votre objectif, votre niveau, votre emploi du temps, votre équipement et votre espace libre — TrainUp crée un programme réalisable, vous guide à chaque séance avec des images d’exercices et ajuste les séances suivantes selon votre ressenti.",
@@ -771,5 +771,6 @@
 	"Vos données",
 	"entrée",
 	"entrées",
-	"Aucune entrée"
+	"Aucune entrée",
+	"Theories"
 ]

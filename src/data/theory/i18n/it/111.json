@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Cosa registrare",
+			"text": "Per il lavoro di forza, annota l’esercizio, la variante, il carico, le ripetizioni e le serie completate, più il riposo quando conta. Per gli esercizi a tempo, annota la durata e quanto bene hai mantenuto la posizione. Per il condizionamento, annota l’attività, la durata e la distanza o il ritmo. Un rapido RPE di sessione e un breve commento possono spiegare un risultato insolito."
+		},
+		{
+			"title": "Rendi le voci confrontabili",
+			"text": "«Push-up 10 ripetizioni» è difficile da leggere se l’altezza delle mani o il range cambiano a ogni sessione. Registra la variante e le condizioni in modo da confrontare cose uguali. Mantieni tutto semplice: pochi campi che compili ogni volta sono meglio di un modulo lungo che abbandoni."
+		},
+		{
+			"title": "Aggiungi note per il contesto",
+			"text": "Sonno scarso, attrezzatura non familiare, interruzioni o un nuovo fastidio possono spiegare una sessione più debole. Una giornata no non è un motivo per rivoluzionare tutto il programma. Le tendenze nell’arco di diverse sessioni mostrano se il piano sta diventando troppo facile, troppo difficile o è giusto."
+		},
+		{
+			"title": "Esempio",
+			"text": "Settimana uno: goblet squat, 3 × 8 a 12 kg, sforzo moderato. Settimana tre: 3 × 10 con lo stesso carico e buona tecnica. È un miglioramento misurabile anche se il tuo peso corporeo non è cambiato."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Durante un allenamento spunti ogni serie e registri le tue ripetizioni. Dopo valuti lo sforzo della sessione, segnali eventuale dolore e aggiungi note. Lo Storico mostra questa settimana, i tuoi allenamenti totali, lo sforzo medio e un grafico di 4 settimane, e gli allenamenti terminati non vengono mai modificati. Il tuo piano cambia solo quando lo rigeneri."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Indicazioni pratiche ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

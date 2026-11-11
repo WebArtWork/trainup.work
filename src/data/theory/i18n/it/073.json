@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Come funzionano gli intervalli",
+			"text": "Un intervallo di lavoro aumenta respiro e carico di lavoro, e l’intervallo di recupero ti permette di recuperare in parte o in gran parte. Puoi regolare entrambi. Gli intervalli possono essere aerobici, come camminata veloce alternata a camminata facile, o più duri, come uno sforzo veloce in bici seguito da una pedalata facile."
+		},
+		{
+			"title": "Parti sotto lo sforzo massimo",
+			"text": "Se sei nuovo all’esercizio, potresti alternare un minuto di camminata veloce a due minuti di camminata comoda per sei giri. Un corridore esperto potrebbe usare sforzi più veloci con più riposo. La giusta velocità di lavoro dipende dal tuo livello e dall’esercizio, quindi un rapporto di tempo da solo non ti dice quanto sia duro il lavoro per il tuo corpo."
+		},
+		{
+			"title": "La durata del recupero dipende dall’obiettivo",
+			"text": "Recuperi più lunghi mantengono alte velocità e qualità del movimento nelle ripetizioni intense. Recuperi più brevi rendono la sessione più continua e possono aumentare la richiesta complessiva a cuore e polmoni, ma se sono troppo brevi la qualità cala in fretta. Imposta lavoro e riposo in modo da corrispondere all’obiettivo di condizionamento che hai in mente."
+		},
+		{
+			"title": "Controlla il carico totale",
+			"text": "Riscaldati sempre gradualmente e finisci con qualcosa di più facile. Aumenta la quantità totale di lavoro a intervalli prima di rendere gli intervalli molto più duri. Se la tua forma nella camminata, la meccanica della corsa o la coordinazione con la corda iniziano a cedere, prendi un recupero più lungo, riduci l’intensità o termina la sessione."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il timer di recupero e il timer di tenuta tengono i tuoi intervalli a tempo, e dopo l’allenamento valuti lo sforzo della sessione da 1 a 10. Più duro non è automaticamente meglio. Quando rigeneri il piano, diventa più facile se 2 dei tuoi ultimi 3 allenamenti sono stati molto duri (RPE 9 o più) o completati per meno del 60%, e sale di un gradino solo se gli ultimi 4 sono stati facili e completi. Se ti serve meno impatto, anche la pedalata o la marcia veloce funzionano come intervalli."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE: progettare intervalli ad alta intensità",
+			"url": "https://www.acefitness.org/continuing-education/certified/may-2021/7844/how-to-use-the-ace-ift-model-to-design-effective-hiit-workouts/"
+		},
+		{
+			"label": "CDC: misurare l’intensità dell’attività e il talk test",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC: raccomandazioni sull’attività fisica per gli adulti",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

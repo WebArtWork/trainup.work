@@ -11,7 +11,7 @@
 	"Prima pagină",
 	"Toate drepturile rezervate.",
 	"Imaginea companiei",
-	"O aplicație mobilă care creează un plan de antrenament realist pentru obiectivul, nivelul, echipamentul, spațiul liber și programul tău — fără prompturi și chaturi.",
+	"O aplicație mobilă care creează un plan de antrenament realist pentru obiectivul, nivelul, echipamentul, spațiul liber și programul tău, fără prompturi și chaturi.",
 	"Aplicație mobilă de antrenament · în dezvoltare",
 	"Un plan de antrenament realist pentru echipamentul și spațiul tău",
 	"Alege obiectivul, nivelul, programul, echipamentul și spațiul liber pentru antrenament — TrainUp creează un program realizabil, te ghidează la fiecare antrenament cu imagini ale exercițiilor și ajustează sesiunile următoare după cum te simți.",
@@ -771,5 +771,6 @@
 	"Datele tale",
 	"înregistrare",
 	"înregistrări",
-	"Nu există înregistrări"
+	"Nu există înregistrări",
+	"Theories"
 ]

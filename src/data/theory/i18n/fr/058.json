@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Comment fonctionne la résistance",
+			"text": "Un haltère pèse le même poids à chaque point du mouvement, mais la résistance d’un élastique dépend de son étirement, de son épaisseur et du produit. Un élastique plus long ou plus épais n’équivaut pas à un poids fixe, et les codes couleur diffèrent selon les fabricants. Le point du mouvement où la résistance est la plus forte peut aussi différer de celui d’un exercice aux poids libres."
+		},
+		{
+			"title": "Options d’exercices",
+			"text": "Les élastiques conviennent bien aux rowings, aux développés, aux élévations latérales, aux Pallof presses et aux tirages à partir d’un point d’ancrage correctement installé. Un élastique en boucle autour des genoux ajoute une résistance légère aux exercices de hanches. Pour certains mouvements, vous pouvez vous tenir sur l’élastique comme simple ancrage, à condition qu’il ne puisse pas glisser et se détendre brusquement vers le haut."
+		},
+		{
+			"title": "Inspecter et ancrer en sécurité",
+			"text": "Avant chaque séance, vérifiez la présence de fissures, de zones amincies, de déchirures, de poignées abîmées et de connecteurs usés. Utilisez un ancrage conçu à cet effet, comme l’indique le fabricant, et assurez-vous qu’il ne peut pas se détacher. N’étirez pas trop l’élastique, ne le laissez pas frotter contre des arêtes tranchantes et ne placez pas votre visage sur la trajectoire de son retour brutal. Un élastique qui glisse peut causer des blessures aux yeux et d’autres dommages."
+		},
+		{
+			"title": "Progression et suivi",
+			"text": "Ajoutez des répétitions contrôlées, passez à un élastique plus résistant ou changez votre position ou votre distance par rapport à l’ancrage, tant que la nouvelle configuration reste sûre. La tension varie avec la longueur, alors notez l’élastique ou la configuration utilisée ; sa couleur ne vous donnera pas un poids précis en kilogrammes. N’augmentez pas fortement en même temps la tension de l’élastique et l’amplitude."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Dans Profil, saisissez la résistance des élastiques que vous avez. Ne comptez vos élastiques comme disponibles que si vous avez un ancrage sûr pour l’exercice prévu. Si vous ne pouvez pas confirmer l’ancrage, l’état de l’élastique ou votre espace, choisissez une alternative plus sûre."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS : sécurité avec les élastiques de résistance",
+			"url": "https://abuhb.nhs.wales/files/patient-information-leaflets1/physiotherapy/safety-advice-when-exercising-with-resistance-bands-or-tubing-piu1332/"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Dlaczego płyny mają znaczenie",
+			"text": "Ciało używa wody do transportu składników odżywczych, krążenia krwi, regulacji temperatury i uzupełniania tego, co tracisz z potem. Nawet łagodne odwodnienie może sprawić, że ciężki wysiłek wydaje się cięższy, zwłaszcza w ciepłą pogodę. Żadna pojedyncza ilość nie pasuje do każdego sportowca ani każdego treningu."
+		},
+		{
+			"title": "Przed treningiem i w jego trakcie",
+			"text": "Zacznij w miarę dobrze nawodniony i miej wodę w zasięgu ręki, zwłaszcza przy długich lub gorących treningach. Przy zwykłych krótkich treningach picie, gdy czujesz pragnienie, często wystarcza. Upał, długa ciężka aktywność i niezwykle silne pocenie się mogą wymagać osobistego planu picia. Uzupełnianie elektrolitów może mieć znaczenie podczas długiego wysiłku, ale krótki trening na siłowni nie wymaga go automatycznie. Jeśli upał sprawia, że trening jest niebezpieczny, trenuj mniej lub przenieś się w chłodniejsze miejsce."
+		},
+		{
+			"title": "Picie zbyt dużo",
+			"text": "Picie dużych ilości bez względu na pragnienie lub utratę potu może rozcieńczać sód we krwi i powodować hiponatremię związaną z wysiłkiem. Przyrost masy ciała podczas długiego wysiłku wytrzymałościowego może być oznaką, że pijesz za dużo. Silny ból głowy, dezorientacja lub wymioty podczas długiego wysiłku wymagają pilnej oceny medycznej. Picie więcej nie jest rozwiązaniem."
+		},
+		{
+			"title": "Proste kontrole",
+			"text": "Pragnienie, zmiany masy ciała w okolicach długich treningów, pogoda i długość treningu mogą pomagać w ustaleniu, ile pić. Kolor moczu daje przybliżoną wskazówkę, ale nie jest testem diagnostycznym. Jeśli masz chorobę nerek lub serca, poproś lekarza o poradę dopasowaną do Ciebie."
+		}
+	],
+	"sources": [
+		{
+			"label": "NATA: uzupełnianie płynów u osób aktywnych fizycznie",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5634236/"
+		},
+		{
+			"label": "Wilderness Medical Society: hiponatremia związana z wysiłkiem",
+			"url": "https://journals.sagepub.com/doi/full/10.1016/j.wem.2019.11.003"
+		}
+	]
+}

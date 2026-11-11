@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Základy shybu",
+			"text": "Použijte bezpečnou hrazdu a úchop, který je pohodlný pro ramena a ruce. Zpevněte trup, přitahujte se, dokud horní část těla nedosáhne stálé výšky, kterou zvládnete, a spouštějte se s kontrolou. Počáteční poloha ramen a rozsah závisí na vaší síle a pohodle. Nemusíte začínat každé opakování z úplného pasivního visu."
+		},
+		{
+			"title": "Progrese",
+			"text": "Začátečníci mohou cvičit podepřené visy, cviky na kontrolu lopatek, shyby s asistencí gumy nebo stroje a pak pomalé spouštěcí opakování. Stahování na kladce trénuje podobný pohyb s odporem, který můžete upravovat. Jakmile zvládnete několik kontrolovaných shybů, přidávejte opakování dřív než zátěž. Spouštěcí opakování nepřehánějte tak, aby úchop nebo ramena ztratily kontrolu."
+		},
+		{
+			"title": "Shyby a stahování",
+			"text": "Při shybu se tělo pohybuje k pevné hrazdě, což vyžaduje hodně stability celého těla. Při stahování přichází rukojeť k vám a zátěž se může měnit po malých krocích. Oba cviky budují sílu přítahu a ani jeden z nich nepotřebujete, abyste byli celkově fit. Shyby podhmatem (chin-up) používají podhmat a často působí jinak na lokty a ramena."
+		},
+		{
+			"title": "Bezpečnost a příprava",
+			"text": "Ujistěte se, že je domácí hrazda správně nainstalovaná a dimenzovaná na vaši váhu i na pohyb na ní. Vyhněte se uvolněným upevněním do rámu dveří a trámům, které nikdo netestoval. Nevynucujte si stahování za hlavu ani nehoupejte tělem, abyste vymáčkli další opakování. Zvolte úchop, který snesete, a přestaňte, pokud pocítíte neobvyklou bolest."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu uvedete, zda je hrazda bezpečně nainstalovaná. Pokud není, váš plán vynechá shyby a vybere jiné přítahy, které odpovídají vašemu vybavení, například stahování nebo horizontální přítah. Neimprovizujte si ukotvení. Zapisujte si asistenci, úchop a rozsah, protože každé z nich mění obtížnost cviku."
+		}
+	],
+	"sources": [
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: technika posilování (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

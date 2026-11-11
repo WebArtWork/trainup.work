@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Por qué se mueve la báscula",
+			"text": "La comida y la bebida, la hidratación, el sodio, el glucógeno almacenado y otros procesos normales cambian tu peso corporal de un día para otro. Una lectura alta o baja no te dice nada fiable sobre el músculo o la grasa. El ejercicio puede cambiar tu composición corporal aunque tu peso total apenas se mueva."
+		},
+		{
+			"title": "Mide siempre de la misma manera",
+			"text": "Si te pesas, usa la misma báscula y una rutina parecida en lugar de momentos aleatorios. Un promedio semanal suele ser más útil que una sola lectura. Las medidas de la cintura y otras medidas con cinta solo son comparables si usas los mismos puntos de referencia del cuerpo y la misma tensión de la cinta."
+		},
+		{
+			"title": "Las fotos son opcionales",
+			"text": "Las fotos de progreso pueden mostrar cambios de postura o de aspecto, pero la iluminación, el ángulo de la cámara y la ropa influyen mucho en ellas. No las necesitas si tu enfoque es la forma física o la fuerza, y pueden no ayudar si tienes preocupaciones con la imagen corporal o la alimentación."
+		},
+		{
+			"title": "La forma física y el peso son cosas separadas",
+			"text": "Moverte mejor, aguantar más y ponerte más fuerte son resultados reales sea cual sea tu talla. Si te preocupa un cambio de peso inesperado o una afección médica, habla con un profesional de la salud."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "El Panel tiene un registro de peso corporal, y usarlo depende de ti. Léelo como una tendencia a lo largo de varias semanas. TrainUp no trata el peso corporal como una medida de forma física y no fija objetivos de pérdida de peso."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: peso saludable y actividad",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

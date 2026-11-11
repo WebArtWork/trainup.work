@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co stroje nabízejí",
+			"text": "Stroje s výběrem zátěže často vedou dráhu pohybu a mohou snížit, kolik rovnováhy potřebujete. To může začátečníkovi pomoci soustředit se na kontrolovaný tlak nebo přítah. Některé stroje sedí určitým tělesným velikostem lépe než jiným, takže vedená dráha není pohodlná pro každého."
+		},
+		{
+			"title": "Nastavte stanoviště",
+			"text": "Upravte výšku sedáku, opěrku zad a podložky tak, aby se pracující kloub rozumně shodoval s pohyblivými částmi a abyste dosáhli na rukojeť bez namáhání. Než zvolíte pracovní zátěž, udělejte lehkou zkušební sérii. Držte ruce mimo svazky závaží, místa přiskřípnutí a pohyblivá ramena a odpor spouštějte pomalu. Posilovny mají různé vybavení, proto zkontrolujte přesný stroj nebo stanoviště s kladkou, které máte, a přejděte na volnou zátěž, gumu nebo vlastní váhu, pokud nedokážete stroj nastavit tak, aby byl pohodlný."
+		},
+		{
+			"title": "Čím se liší kladky",
+			"text": "Kladkové systémy umožňují tahat z několika směrů s napětím podél linie lanka. Dobře fungují pro přítahy, stahování, tlaky a cviky proti rotaci. Odpor kladky není v každém úhlu kloubu přesně konstantní, protože se během pohybu mění páka a směr lanka."
+		},
+		{
+			"title": "Porovnání nástrojů",
+			"text": "Volné váhy po vás vyžadují víc stabilizace zátěže, zatímco stroje mohou některé cviky usnadnit naučit nebo přesně zatěžovat. Oba mohou budovat sílu a velikost svalů, když je správné úsilí a progrese. Stroj automaticky nechrání zraněný nebo bolestivý kloub. Pokud příznaky přetrvávají, vyhledejte lékaře nebo fyzioterapeuta."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: volné váhy a posilovací stroje",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: technika posilování (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

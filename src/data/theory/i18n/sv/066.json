@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Uppskatta din räckvidd uppåt",
+			"text": "Stå på det underlag du ska träna på och sträck armarna naturligt över huvudet. Lägg sedan till höjden på hanteln, kettlebellen, skivstången eller annat redskap ovanför dina händer. Lämna plats för kontrollerad rörelse så att föremålet aldrig stannar precis under taket."
+		},
+		{
+			"title": "Rörelse kräver mer än ståhöjd",
+			"text": "Hopp lägger till höjd i rörelsen, och ett hopprep passerar ovanför ditt huvud. Hakhävningar kräver plats ovanför stången för huvudet och plats under för fötterna, och dörrkarmsstänger behöver också säker frigång där de fästs. Takfläktar, lampor, rör och synliga bjälkar kan sänka den höjd du verkligen kan använda."
+		},
+		{
+			"title": "Testa rörelsen utan vikt",
+			"text": "Om taket ser tillräckligt högt ut, repetera rörelsen utan vikt och kontrollera den högsta punkten från ett säkert läge. Testa aldrig genom att lyfta något tungt mot ett lågt tak. Även en kort person kan behöva mer utrymme än väntat, eftersom redskapet rör sig ovanför händerna."
+		},
+		{
+			"title": "Praktiska ersättningar",
+			"text": "Under ett lågt tak kan golvpressar ersätta press över huvudet, och rodd kan ersätta hakhävningar om stångens montering eller frigång är olämplig. För kondition, välj marsch, uppsteg eller skuggboxning före hopprep eller jumping jacks med armarna över huvudet. De här byten tränar kanske inte exakt samma ledrörelse, men de behåller passets mål."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ange din takhöjd i Profil tillsammans med din golvyta. Programmet utelämnar övningar över huvudet och hoppövningar som kräver mer frigång än du har."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: säkerhet och teknik vid styrketräning",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

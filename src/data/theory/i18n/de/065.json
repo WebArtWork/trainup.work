@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Die Grundfläche messen",
+			"text": "Notiere Länge und Breite des freien Bodens, die meist kleiner sind als der Raum selbst. Ein Curl im Stehen braucht recht wenig Platz, während ein Gehausfallschritt oder eine Bodenübung Platz brauchen kann, um Arme und Beine auszustrecken. Lass zusätzlichen Platz um bewegte Gewichte und überlege, wie die Übung beginnt und endet."
+		},
+		{
+			"title": "In drei Dimensionen denken",
+			"text": "Eine Kniebeuge oder ein Rudern im Stehen braucht seitlich Platz für deine Ellbogen und die Ausrüstung. Ein Liegestütz oder ein Dead Bug braucht Bodenfläche in Körperlänge. Ein Kettlebell-Swing braucht freien Raum vor, hinter und um die Kugel, und Überkopfdrücken oder Sprünge brauchen Platz nach oben."
+		},
+		{
+			"title": "Versteckte Hindernisse",
+			"text": "Achte auf niedrige Tische, hängende Lampen, scharfe Ecken, Heizkörper, Haustiere, Kabel, Teppiche und Türen, die in deinen Bereich aufgehen. Prüfe, dass der Boden rutschfest bleibt, sobald deine Matte liegt. Wenn du eine Wiederholung gerade so beenden kannst, ohne Möbel zu berühren, ist der Platz zu eng für ein volles Training."
+		},
+		{
+			"title": "Ein Plan für kleine Räume",
+			"text": "Mache in einem engen Raum Split Squats auf der Stelle statt Gehausfallschritten und sitzende oder bodennahe Oberkörperarbeit statt großer Seit-zu-Seit-Bewegungen. Wenn der Raum zu klein für Tragen mit Last ist, mache Anti-Lateralflexions-Übungen auf der Stelle. Behalte das Bewegungsmuster und lass die konkrete Übung wechseln."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Gib im Profil deine Bodengröße und Deckenhöhe ein. Der Plan wählt dann nur Übungen, deren Bewegung, einschließlich der Ausrüstung, in diesen Platz passt."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE-Übungsbibliothek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: Sicherheit und Technik beim Krafttraining",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

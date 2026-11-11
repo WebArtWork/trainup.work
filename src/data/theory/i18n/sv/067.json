@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Vanliga underlag",
+			"text": "Ett fast, plant golv ger stabilt fotfäste för de flesta styrkerörelser. Tjock mjuk heltäckningsmatta kan guppa vid enbensövningar, och mycket slät kakel kan bli hal. Gräs eller stigar utomhus kan vara ojämna och fuktiga. En matta gör golvövningar bekvämare men kan glida eller tryckas ihop, så testa den innan du lägger tunga vikter på den."
+		},
+		{
+			"title": "Skor för uppgiften",
+			"text": "Stabila skor med bra grepp fungerar ofta bra för knäböj, höftfällningar och sidorörelser. Dämpade löparskor kan kännas bekväma för promenader eller joggning men kan låta foten förskjutas under tunga lyft. Skor byggda för särskilda sporter skiljer sig åt, och ingen enskild stil är bäst för varje övning eller varje person."
+		},
+		{
+			"title": "Att träna barfota beror på miljön",
+			"text": "Att träna barfota ger direkt återkoppling från underlaget i ett rent, säkert utrymme, men det lämnar dina fötter öppna för tappade vikter, vassa föremål och andra faror. Vissa gym tillåter det inte. Om du har nedsatt känsel i fötterna, balansproblem eller ett medicinskt fotproblem, be om råd för din egen situation innan du går barfota, eftersom det inte automatiskt är bättre."
+		},
+		{
+			"title": "Stötar och buller",
+			"text": "Hopp och löpning ger mer stötar och buller än kontrollerade knäböj eller marsch. En gummimatta kan dämpa en del av ljudet, men du behöver fortfarande bra grepp och ett fast golv under. Undvik hala strumpor, vickigt skumgummi under vikter och mattor som veckar sig när du kliver åt sidan."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ange ditt underlag, och om hopp är okej, i Profil, så väljer programmet övningar som passar dem. Om golvet är halt eller ojämnt, välj stabila övningar med låg belastning eller skjut upp rörelsen tills underlaget är säkert."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: säkerhet och teknik vid styrketräning",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

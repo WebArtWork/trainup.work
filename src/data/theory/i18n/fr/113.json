@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Choisissez une mesure reproductible",
+			"text": "De bonnes options sont la distance parcourue à pied en un temps donné, la durée d’un parcours familier, la capacité à terminer une séance d’intervalles prévue ou votre fréquence cardiaque à une allure confortable fixe. Le RPE de séance complète ces chiffres, surtout si vous n’avez pas de cardiofréquencemètre."
+		},
+		{
+			"title": "Gardez des conditions de test similaires",
+			"text": "La température, les côtes, le sommeil, la caféine, le matériel et la récupération influencent tous la performance. Quand vous le pouvez, comparez le même réglage de tapis, la même résistance de vélo ou le même parcours en extérieur. Une fréquence cardiaque plus basse ne signifie pas toujours que vous êtes plus en forme, car les médicaments et les erreurs de mesure peuvent aussi changer la valeur."
+		},
+		{
+			"title": "Exemple",
+			"text": "Un débutant commence en alternant deux minutes de marche et une minute de jogging doux. Quelques semaines plus tard, il termine plus d’intervalles de jogging avec un effort similaire. Une autre personne fait le même parcours à vélo et le trouve plus facile, alors que sa vitesse moyenne reste la même."
+		},
+		{
+			"title": "À quelle fréquence tester",
+			"text": "Un contrôle prévu toutes les quelques semaines montre les tendances pendant que vos séances habituelles restent centrées sur l’entraînement. Une baisse soudaine de performance peut venir de la fatigue ou d’une maladie, et cela ne signifie pas forcément que vous avez perdu votre condition physique pour de bon."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Après chaque séance, vous évaluez l’effort de 1 à 10, et Historique affiche votre effort moyen et un graphique sur 4 semaines. Regardez la tendance sur plusieurs semaines. Une seule fréquence cardiaque ou une seule vitesse ne peut pas diagnostiquer votre santé cardiovasculaire ni la garantir."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS : la marche pour la santé",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

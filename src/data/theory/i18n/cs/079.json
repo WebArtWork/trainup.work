@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Nastavte lano",
+			"text": "Zvolte lano, které se otáčí hladce a nezachytává vám chodidla. Běžné první nastavení je postavit se zhruba na jeho střed a zvednout rukojeti k dolní části hrudi nebo podpaží a pak upravit podle tloušťky lana a vaší dovednosti. Než začnete skákat, ujistěte se, že máte dost místa nad hlavou, po stranách i na podlaze."
+		},
+		{
+			"title": "Naučte se malý základní skok",
+			"text": "Držte lokty pohodlně blízko žeber a lano otáčejte hlavně zápěstími, bez švihání celými pažemi. Používejte krátké, uvolněné skoky jen tak vysoké, aby lano přeskočilo, bez vytahování kolen vysoko. Dopadejte měkce a nechte kotníky a kolena ohýbat se; nesnažte se držet nohy úplně ztuhlé."
+		},
+		{
+			"title": "Přidávejte varianty postupně",
+			"text": "Začněte jednotlivými otočkami, i když se vám podaří jen dvě nebo tři, než musíte lano znovu nastavit. Přejděte ke krátkým souvislým sériím a pak přidejte střídání nohou, boxerský krok nebo posuny ze strany na stranu, jakmile se zlepší načasování. Triky jako double-unders přicházejí až po spolehlivém základním rytmu."
+		},
+		{
+			"title": "Vyhněte se příliš velkým nárazům a frustraci",
+			"text": "Opakované skákání zatěžuje lýtka a Achillovy šlachy, takže velké náhlé zvýšení je může rozbolet. Pokud lano stále zachytává, může být příliš dlouhé, příliš krátké nebo špatně načasované; neznamená to, že nejste fit. Noste boty a používejte povrch s dobrou přilnavostí a vyhněte se kluzkým dlážděným podlahám a přeplněným místnostem."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Plán zahrnuje švihadlo jen tehdy, když to dovolí vaše vybavení a nastavení Profilu pro výšku stropu, povrch, skákání a hluk. Zpočátku držte intervaly krátké. Pokud vás brzdí dovednost nebo náraz, udrží trénink v chodu stínový box nebo pochodování."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: měření intenzity aktivity a test mluvení",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "CDC: doporučení k fyzické aktivitě dospělých",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

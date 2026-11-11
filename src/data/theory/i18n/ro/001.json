@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ciclul de adaptare",
+			"text": "Un antrenament este un stimul. Mușchii tăi produc forță, inima și vasele de sânge livrează mai mult oxigen, iar tu exersezi abilități de mișcare. Imediat după aceea, oboseala poate scădea pentru o vreme performanța. În timpul refacerii care urmează, corpul se repară, își reface rezervele și se adaptează. Rezultatul îl observi după săptămâni și luni de cicluri repetate."
+		},
+		{
+			"title": "Adaptări specifice",
+			"text": "Principiul SAID (Specific Adaptation to Imposed Demands, adică adaptare specifică la cerințele impuse) înseamnă că organismul se adaptează în principal la ceea ce exersezi. Genuflexiunile grele îmbunătățesc producerea de forță în tipare asemănătoare genuflexiunii, iar mersul alert antrenează mai ales capacitatea aerobă. Forma fizică generală combină mai multe feluri de provocare. Primele câștiguri de forță vin adesea dintr-o coordonare mai bună și dintr-o recrutare nervoasă mai eficientă, în timp ce creșterea musculară vizibilă durează de obicei mai mult."
+		},
+		{
+			"title": "Supracompensarea",
+			"text": "O diagramă populară arată forma fizică scăzând după antrenament, refăcându-se, apoi urcând pentru scurt timp peste nivelul de la care a pornit. Este o imagine didactică utilă, dar nu este un calendar precis și nici o lege biologică universală. Sisteme diferite se refac în ritmuri diferite, iar nu trebuie să potrivești fiecare sesiune cu un vârf mitic."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Un începător face două antrenamente full-body moderate pe săptămână. După câteva sesiuni, aceleași exerciții i se par mai ușoare. Adaugă una sau două repetări, puțină greutate sau altă provocare aleasă cu grijă, păstrându-și tehnica. Dacă continuă să adune sesiuni grele fără refacere, progresul se poate opri."
+		},
+		{
+			"title": "Folosind TrainUp",
+			"text": "Alege un obiectiv principal în Profil, bifează seriile în timpul fiecărui antrenament și notează-ți efortul după aceea. Istoricul arată un grafic pe 4 săptămâni, așa că urmărește tendințele pe mai multe săptămâni. Înainte să îți îngreunezi antrenamentul, gândește-te la somn, la febra musculară și la cât de constant ai fost."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Ghidul OMS privind activitatea fizică",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

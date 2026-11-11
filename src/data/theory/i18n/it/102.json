@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Da dove viene lo sforzo al polso",
+			"text": "I push-up e i plank sui palmi piatti piegano molto indietro il polso. Gli esercizi con manubri e bilanciere aggiungono lavoro di presa e stabilizzazione. Il fastidio al polso ha molte cause possibili, e l’esercizio da solo non può dirti quale sia."
+		},
+		{
+			"title": "Cambia il modo in cui le mani incontrano il pavimento",
+			"text": "I push-up con rialzo caricano meno peso sulle braccia. Impugnature stabili per push-up, o manubri fissati in modo che non possano rotolare, ti permettono di tenere il polso più dritto. I plank sugli avambracci tolgono completamente la pressione dai palmi. Alcune persone trovano anche più comoda una distensione con manubri a presa neutra rispetto a una con barra dritta."
+		},
+		{
+			"title": "Mantieni sicure le modifiche",
+			"text": "Non usare mai manubri che possono rotolare come improvvisate impugnature per push-up. Controlla che i supporti siano stabili e che la superficie non possa scivolare. Non forzare un polso dolorante in una posizione solo perché un’indicazione tecnica la definisce ideale. Se un movimento fa male, fermati e trova un’alternativa comoda."
+		},
+		{
+			"title": "Progredisci lentamente",
+			"text": "Costruisci ripetizioni totali e controllo prima di provare leve a corpo libero più difficili. Rivolgiti a un medico per un dolore nuovo dopo una caduta, un forte gonfiore, una deformità, formicolio o perdita di forza. Se il fastidio al polso continua, fallo controllare da un professionista, perché TrainUp non può diagnosticarlo."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Aggiungi i polsi come limitazione in Profilo ed elenca la tua attrezzatura. Il piano sceglie quindi esercizi adatti, che possono includere lavoro per il core sugli avambracci. Dopo un allenamento puoi segnalare il dolore con la zona del corpo e l’esercizio, e usare le note per seguire come hanno tenuto i tuoi polsi. TrainUp non costruisce routine di riabilitazione."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: dolore articolare",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

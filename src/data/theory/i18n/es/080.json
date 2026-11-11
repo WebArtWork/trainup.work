@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Por qué combinar ambos",
+			"text": "El entrenamiento de fuerza mejora la fuerza y la función muscular, y la actividad aeróbica favorece la resistencia y la salud del corazón y los pulmones. Las recomendaciones de salud pública aconsejan ambos. Hacer solo uno puede dejar atrás partes de tu forma física, sobre todo cuando tus objetivos cotidianos incluyen fuerza, capacidad para caminar y mantenerte activo durante periodos largos."
+		},
+		{
+			"title": "El efecto de interferencia",
+			"text": "Cantidades muy grandes de trabajo de resistencia pueden reducir a veces las ganancias de potencia explosiva o de algunos resultados de fuerza, en comparación con el entrenamiento de fuerza por sí solo. Sin embargo, las revisiones recientes concluyen que el entrenamiento combinado suele mejorar a la vez la capacidad aeróbica y la fuerza, y la mayoría de quienes entrenan de forma recreativa no pierden crecimiento muscular real por ello."
+		},
+		{
+			"title": "Elige un orden práctico",
+			"text": "Si tu prioridad es la fuerza, haz los levantamientos exigentes cuando estés descansado y el cardio suave después. Si tu objetivo principal es el acondicionamiento, haz primero el trabajo de resistencia importante. Separar las sesiones duras varias horas o ponerlas en días distintos puede ayudar con la fatiga, sobre todo en el entrenamiento avanzado."
+		},
+		{
+			"title": "Equilibra los días duros y los fáciles",
+			"text": "Por ejemplo, haz dos días de fuerza de cuerpo completo más dos o tres caminatas rápidas y una sesión opcional de ciclismo moderado. Una persona con más experiencia puede necesitar ajustar con cuidado el momento de las carreras duras y de las sesiones de fuerza de piernas. Si tu rendimiento y tu recuperación se resienten, deja de añadir intervalos a tope encima de cada entrenamiento de piernas."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Tu objetivo en Perfil (forma física general, fuerza o acondicionamiento) te indica qué tipo de trabajo poner primero mientras sigues entrenando ambos. El cardio no arruina automáticamente el progreso de fuerza. Vigila las repeticiones que no completas y tu esfuerzo medio en Historial. Cuando vuelves a generar tu plan, este se vuelve más fácil si 2 de tus últimos 3 entrenamientos fueron muy duros (RPE 9 o más) o se completaron en menos de un 60 %."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisión paraguas de 2026: entrenamiento concurrente de fuerza y resistencia",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41762427/"
+		},
+		{
+			"label": "Recomendaciones de actividad física de los CDC para adultos",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

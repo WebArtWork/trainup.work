@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Protege lo esencial",
+			"text": "Primero decide para qué sirve sobre todo la sesión, por ejemplo práctica de fuerza o acondicionamiento aeróbico. Dedica un par de minutos a calentar los movimientos que vas a usar y después céntrate en uno o dos ejercicios principales. Una sesión corta sigue necesitando espacio para una técnica segura y suficiente descanso cuando las cargas son pesadas."
+		},
+		{
+			"title": "Formatos que ahorran tiempo",
+			"text": "Las superseries combinan ejercicios que no compiten, como remos y sentadillas, y alternar series reduce el tiempo de espera. Los circuitos pueden encadenar movimientos sencillos para la forma física general. No te apresures entre levantamientos pesados, duros y técnicos si la fatiga empieza a costarte el control."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Para una sesión de cuerpo completo de 15 minutos, calienta brevemente, alterna dos o tres series controladas de sentadillas con silla y flexiones inclinadas, y termina con un remo o una plancha. Ajusta las repeticiones y el descanso a lo que puedes hacer ahora. Otro día, una caminata rápida o un paseo suave en bicicleta pueden apoyar tu acondicionamiento."
+		},
+		{
+			"title": "Los ratos cortos suman",
+			"text": "Los ratos cortos de actividad cuentan para tu total semanal. Haz las sesiones más largas solo cuando ayude y encaje con tu vida. Cuando no son posibles bloques más largos, las sesiones cortas y regulares pueden mantener eficaz tu rutina."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Indica en Perfil la duración de tu sesión y tus días de entrenamiento preferidos para que coincidan con el tiempo que realmente tienes, y edítalos cuando cambie tu horario."
+		}
+	],
+	"sources": [
+		{
+			"label": "Guía práctica del ACSM de 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: caminar por la salud",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

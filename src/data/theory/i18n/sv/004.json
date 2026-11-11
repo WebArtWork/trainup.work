@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Nybörjare",
+			"text": "Du kanske har lite stadig erfarenhet av styrketräning, kommer tillbaka efter ett långt uppehåll eller är ny på en rörelse. Enkla övningar, upprepad teknikövning, måttliga belastningar och några bra arbetsset passar den här fasen. Snabba tidiga framsteg kommer ofta av bättre koordination och förtrogenhet såväl som ny muskelvävnad."
+		},
+		{
+			"title": "Mellannivå",
+			"text": "Du gör de stora mönstren regelbundet, kan uppskatta din ansträngning, upprepar din teknik från pass till pass och gör framsteg genom planerade ändringar i belastning eller repetitioner. Du kan behöva sprida arbetet över flera dagar, räkna tuffa set och vara mer uppmärksam på återhämtning och platåer."
+		},
+		{
+			"title": "Avancerad",
+			"text": "Avancerad betyder en lång historia av produktiv övning i en specifik disciplin, med framsteg som har blivit långsamma. Mer komplex planering kan hjälpa, men komplexitet är ingen prestation i sig. Den som är avancerad i löpning kan fortfarande vara nybörjare på skivstångsböj."
+		},
+		{
+			"title": "Användbara kontroller",
+			"text": "Kan du göra knäböj eller höftgångjärn genom ett kontrollerat omfång? Kan du göra en variant av armhävning utan att tappa kroppspositionen? Vet du hur ett set med två repetitioner kvar känns? Det här är coachningsobservationer, inte universella godkänd- eller underkänd-tester. Inget enskilt antal armhävningar, ingen knäböjsvikt och inget antal träningsmånader klassar alla rätt."
+		},
+		{
+			"title": "Vad det betyder för ditt program",
+			"text": "Två eller tre helkroppspass byggda på grundläggande rörelsemönster räcker ofta för en nybörjare. En tränad lyftare kan behöva mer veckovolym eller mer specifika övningar. Båda följer samma principer: specificitet, gradvis progression och återhämtning."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ange din träningsnivå i Profil så att den motsvarar vad du kan nu, inte vad du hoppas kunna. Om du kommer tillbaka efter ett uppehåll, börja med lättare belastningar och mindre volym. Uppdatera nivån när din teknik, regelbundenhet och tolerans förbättras."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC: att komma igång säkert",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

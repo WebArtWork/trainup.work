@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Los componentes principales",
+			"text": "La fuerza es la capacidad de producir fuerza, y la potencia es fuerza producida con rapidez. La resistencia muscular significa repetir o mantener contracciones. La resistencia cardiorrespiratoria sostiene los esfuerzos más largos y depende del corazón, los pulmones, la circulación y los músculos. La movilidad es la capacidad de moverte de forma activa por rangos útiles, mientras que la flexibilidad describe hasta dónde llega un tejido o una articulación al estirarse. El equilibrio y la coordinación te ayudan a controlar el movimiento."
+		},
+		{
+			"title": "Composición corporal",
+			"text": "Las cantidades relativas de músculo, grasa, hueso y otros tejidos pueden importar para la salud o el deporte, pero no describen por completo la forma física. Dos personas de peso corporal parecido pueden diferir mucho en fuerza, capacidad cardiovascular o habilidad de movimiento. El aspecto no sustituye a comprobar lo que realmente puedes hacer."
+		},
+		{
+			"title": "Cómo interactúan los componentes",
+			"text": "Una sentadilla necesita fuerza de piernas y de tronco, movilidad suficiente para la profundidad que elijas y coordinación para mantener la carga bajo control. Una caminata por el monte recurre más a la resistencia aeróbica y muscular, aunque la fuerza y el equilibrio también ayudan. Mejorar una cualidad puede ayudar a otra, pero no las entrenará a todas por igual."
+		},
+		{
+			"title": "Entrenar según el objetivo",
+			"text": "Una semana de forma física general puede incluir dos sesiones de fuerza de cuerpo completo, caminatas o pedaleo moderados y un trabajo breve de equilibrio o movilidad. Un énfasis en la fuerza usa ejercicios de resistencia que se hacen más duros con el tiempo, con suficiente descanso entre esfuerzos. Un énfasis en el acondicionamiento dedica más tiempo al movimiento sostenido y a los intervalos, y mantiene algo de trabajo de fuerza."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Elige un objetivo principal en Perfil y sigue haciendo algo de trabajo para las demás cualidades. Mide el progreso con lo que encaja en cada una: repeticiones o carga para la fuerza, ritmo y respiración para el acondicionamiento, rango controlado para la movilidad. No juzgues una sesión por lo mucho que sudes ni por las calorías que quemaste."
+		}
+	],
+	"sources": [
+		{
+			"label": "Conceptos de condición física del HHS",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Recomendaciones de la OMS",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Qué cuenta como progresión",
+			"text": "Puedes levantar algo más de peso con las mismas repeticiones, hacer más repeticiones con el mismo peso, añadir una serie que aún puedas completar con buena técnica, usar más rango de movimiento o pasar a una variante más difícil con el peso corporal. Un descanso más corto concentra más trabajo en la sesión, pero puede reducir tu rendimiento máximo de fuerza, así que úsalo solo cuando favorezca tu objetivo."
+		},
+		{
+			"title": "Una calidad que puedas repetir",
+			"text": "Antes de añadir carga, comprueba que el movimiento esté controlado, que completes las repeticiones previstas y que el esfuerzo coincida con el plan. La técnica no se verá idéntica en todos los cuerpos, pero debería verse igual en ti cada vez. Seguir adelante mientras el dolor aumenta o el movimiento se vuelve inestable no es una sobrecarga productiva."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Supón que el objetivo es dos series de 8–12 sentadillas goblet. Haces 10 y 9 repeticiones, luego 11 y 10 la vez siguiente, y después 12 y 12. Ahora tiene sentido un pequeño aumento de peso con menos repeticiones. Si tus mancuernas son de peso fijo, puedes ralentizar el movimiento para tener más control o elegir una variante más difícil."
+		},
+		{
+			"title": "Un cambio cada vez",
+			"text": "Si subes a la vez las series, el peso, la frecuencia y la complejidad de los ejercicios, resulta difícil saber de dónde viene tu fatiga. Cambia primero la variable que más importa y dale tiempo a tu cuerpo para adaptarse. El progreso se ralentiza a medida que ganas experiencia, y algunas sesiones deberían limitarse a mantener tu nivel actual."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "La app registra las repeticiones que completas, el esfuerzo de tu sesión (RPE) y cualquier dolor que indiques. La carga la eliges tú. Cuando vuelves a generar tu plan después de al menos 3 entrenamientos, este sube un nivel solo si tus últimos 4 fueron fáciles (RPE 5 o menos) y completos. Cualquier dolor reciente significa que no hay aumento, y si 2 de tus últimos 3 fueron muy duros (RPE 9 o más) o se completaron en menos de un 60 %, el siguiente plan es más fácil."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: seguridad y fundamentos del entrenamiento de fuerza",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: técnica del entrenamiento con pesas (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

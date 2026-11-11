@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Meet de oppervlakte",
+			"text": "Noteer de lengte en breedte van de vrije vloer, die meestal kleiner is dan de kamer zelf. Een staande curl heeft vrij weinig ruimte nodig, terwijl een wandelende lunge of een vloeroefening ruimte kan vragen om je armen en benen uit te strekken. Laat extra ruimte rond bewegende gewichten en denk na over hoe de oefening begint en eindigt."
+		},
+		{
+			"title": "Denk in drie dimensies",
+			"text": "Een squat of staande row heeft ruimte opzij nodig voor je ellebogen en de uitrusting. Een push-up of dead bug heeft vloerruimte nodig zo lang als je lichaam. Een kettlebellswing heeft open ruimte voor, achter en rond de bel nodig, en overhead persen of sprongen hebben verticale ruimte nodig."
+		},
+		{
+			"title": "Verborgen obstakels",
+			"text": "Let op lage tafels, hangende lampen, scherpe hoeken, kachels, huisdieren, kabels, kleden en deuren die in je ruimte opengaan. Controleer of de vloer nog antislip is zodra je mat ligt. Kun je maar net één herhaling afmaken zonder meubels aan te raken, dan is de ruimte te krap voor een volledige training."
+		},
+		{
+			"title": "Een plan voor kleine ruimtes",
+			"text": "Doe in een smalle ruimte stilstaande split squats in plaats van wandelende lunges, en zittend of op de vloer bovenlichaamwerk in plaats van grote zijwaartse bewegingen. Is de kamer te klein voor carries met gewicht, doe dan anti-zijwaartse-flexieoefeningen op één plek. Houd het bewegingspatroon en laat de specifieke oefening veranderen."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Vul je vloeroppervlak en plafondhoogte in bij Profiel. Het schema kiest dan alleen oefeningen waarvan de beweging, inclusief de uitrusting, in die ruimte past."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE-oefeningenbibliotheek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: veiligheid en techniek bij krachttraining",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

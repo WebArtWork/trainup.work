@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Start with your free days",
+			"text": "Choose days you can really train before you pick a complicated split. With two days, a Monday and Thursday full-body schedule leaves several recovery days between them. With three, Monday, Wednesday and Friday is simple. With four, you can spread two upper and two lower sessions across the week. These are examples, and other layouts work too."
+		},
+		{
+			"title": "Recovery between related sessions",
+			"text": "Many beginners do well with about a day or two between hard workouts for the same muscles, especially while soreness is still new to them. The often-quoted 48 hours is a practical guideline. Your training history, effort, exercise choice and sleep all change how much recovery you need."
+		},
+		{
+			"title": "Where to put the hard work",
+			"text": "Heavy lifts and lifts that take a lot of skill go better when you are fairly fresh. Very demanding hinges, squats and sprint intervals on back-to-back days can pile up fatigue you don’t need. Easy walking or mobility work can go between strength days, and it doesn’t count as another hard workout."
+		},
+		{
+			"title": "A flexible week",
+			"text": "If you miss a workout, move it to a free day or carry on with the next session. Don’t cram all the missed work into one day, and don’t stack hard sessions for the same movement just to hit a weekly number. Track your performance and fatigue over several weeks. Each calendar week doesn’t need the same volume."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "In Profile you set how many days a week you train, how long a session lasts and which days you prefer, and you can change them any time. From the Dashboard you can turn on workout reminders for your chosen days and times. History shows your workouts this week, your average effort and a 4-week chart, which helps you track fatigue across weeks."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: strength and flexibility guidance",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "NSCA: safety and resistance-training fundamentals",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

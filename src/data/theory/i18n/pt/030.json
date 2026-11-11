@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Faça um orçamento de tempo",
+			"text": "O tempo total de um treino inclui preparar-se, aquecer, montar cada exercício, as séries de trabalho, os descansos, as deslocações entre exercícios e um retorno à calma opcional. Numa sessão de força, o tempo realmente passado a levantar é muitas vezes uma pequena parte do total. Três séries de 40 segundos com dois minutos de descanso entre elas demoram cerca de seis minutos nesse exercício, antes de qualquer troca de equipamento."
+		},
+		{
+			"title": "Uma estimativa simples",
+			"text": "Some o tempo de aquecimento, a duração de cada série de trabalho, os descansos entre séries e as trocas. Por exemplo, quatro exercícios × três séries de 40 segundos são oito minutos de trabalho efetivo. Se cada exercício tiver dois descansos de 90 segundos, acrescente doze minutos. Um aquecimento de seis minutos e cerca de oito minutos de preparação e trocas levam a sessão a cerca de 34 minutos. Descansos mais longos em trabalho pesado podem mudar muito o total."
+		},
+		{
+			"title": "Opção de 20 minutos",
+			"text": "Mantenha o aquecimento curto, escolha dois ou três padrões de movimento principais e faça algumas boas séries de cada um. Emparelhar um exercício de empurrar com um de puxar pode poupar tempo de trocas quando o equipamento e a técnica o permitirem, mas não corte o descanso a ponto de perder o objetivo principal de força."
+		},
+		{
+			"title": "Opções de 30 a 45 minutos",
+			"text": "Acrescente uma dobradiça ou um avanço, um exercício de core ou séries extra para o seu padrão prioritário. Se a condição física geral é o seu objetivo, use o tempo restante para trabalho aeróbico. Não precisa de preencher cada minuto livre com “finalizadores”."
+		},
+		{
+			"title": "Proteja as suas prioridades",
+			"text": "Quando o tempo é curto, elimine primeiro os exercícios acessórios de baixa prioridade. Mantenha o aquecimento e não se apresse nos levantamentos compostos pesados. Se o programa inteiro se estende constantemente, planeie menos para cada sessão em vez de contar com um ritmo que não consegue manter."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "Defina a duração da sessão no Perfil de acordo com os minutos que realmente tem. Se terminar o trabalho principal com boa técnica, a sessão foi um sucesso, mesmo que tenha saltado os extras opcionais."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Planeamento prático de atividade do CDC",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

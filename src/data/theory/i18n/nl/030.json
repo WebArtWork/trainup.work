@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Maak een tijdbudget",
+			"text": "De totale tijd van een training omvat klaarmaken, warming-up, het opstellen van elke oefening, werksets, rust, wisselen tussen oefeningen en een optionele cooling-down. Bij een krachtsessie is de tijd dat je echt tilt vaak een klein deel van het geheel. Drie sets van 40 seconden met twee minuten rust ertussen duren ongeveer zes minuten voor die oefening, nog vóór wisselingen van materiaal."
+		},
+		{
+			"title": "Een eenvoudige schatting",
+			"text": "Tel de warming-uptijd, de lengte van elke werkset, de rust tussen sets en de wisselingen bij elkaar op. Bijvoorbeeld: vier oefeningen × drie sets van 40 seconden is acht minuten echt werk. Als elke oefening twee rustpauzes van 90 seconden heeft, tel er dan twaalf minuten bij. Een warming-up van zes minuten en ongeveer acht minuten opstellen en wisselen brengen de sessie op ongeveer 34 minuten. Langere rust bij zwaar werk kan het totaal flink veranderen."
+		},
+		{
+			"title": "Optie van 20 minuten",
+			"text": "Houd de warming-up kort, kies twee of drie grote bewegingspatronen en doe daarvan een paar goede sets. Een duw- en een trekoefening koppelen kan wisseltijd besparen als je uitrusting en techniek het toelaten, maar kort de rust niet zo ver in dat je het hoofddoel kracht verliest."
+		},
+		{
+			"title": "Opties van 30 tot 45 minuten",
+			"text": "Voeg een heupscharnier of lunge, een coreoefening of extra sets voor je prioriteitspatroon toe. Als algemene fitheid je doel is, gebruik dan de resterende tijd voor aeroob werk. Je hoeft niet elke vrije minuut te vullen met „afsluiters”."
+		},
+		{
+			"title": "Bescherm je prioriteiten",
+			"text": "Als de tijd kort is, laat dan eerst de aanvullende oefeningen met lage prioriteit vallen. Houd de warming-up en haast je zware samengestelde oefeningen niet. Als het hele schema steeds uitloopt, plan dan minder per sessie in plaats van te rekenen op een tempo dat je niet kunt volhouden."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Stel je sessieduur in bij Profiel in op de minuten die je echt hebt. Als je het hoofdwerk met goede techniek afmaakt, was de sessie een succes, ook als je de optionele extra’s hebt overgeslagen."
+		}
+	],
+	"sources": [
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC: praktische planning van activiteit",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

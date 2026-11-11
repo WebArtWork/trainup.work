@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "O que é o treino concorrente",
+			"text": "O treino de força desafia a quantidade de força que os músculos produzem, e o exercício aeróbico melhora durante quanto tempo consegue continuar. Para a saúde geral beneficia de ambos. O chamado efeito de interferência descreve casos em que combinar treino intenso dos dois tipos pode reduzir alguns ganhos em comparação com fazer apenas um."
+		},
+		{
+			"title": "O que mostram as revisões",
+			"text": "Uma revisão sistemática concluiu que combinar treino aeróbico e de força não reduziu de forma significativa, em média, o crescimento muscular global nem a força máxima. Os ganhos de força explosiva foram algo mais afetados, sobretudo quando os dois tipos de treino foram feitos na mesma sessão. O resultado exato depende do volume, do tipo de exercício, do momento e do historial de treino."
+		},
+		{
+			"title": "Planeie em torno da sua prioridade",
+			"text": "Se o levantamento máximo for o seu objetivo principal, faça o seu melhor trabalho de força antes de cardio intenso ou ponha as sessões exigentes em dias separados sempre que puder. Se o seu foco for a condição física geral, pode combinar cardio fácil e força sem um horário elaborado. A recuperação e a carga de trabalho total importam mais, e nenhum dos dois tipos de treino é inimigo do outro."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Duas sessões de força de corpo inteiro por semana mais bicicleta ou caminhadas moderadas nos outros dias podem desenvolver várias capacidades ao mesmo tempo. Um atleta de potência competitivo pode ter mais cuidado em fazer intervalos intensos logo antes de levantamentos explosivos."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "Escolha o seu foco principal como objetivo no Perfil: condição física geral, força ou condicionamento. Não precisa de dias separados para tudo, e nenhuma sessão isolada de cardio apaga os seus ganhos musculares."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisão sistemática: combinar exercício aeróbico e de força",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/34757594/"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

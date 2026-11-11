@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Avantages",
+			"text": "Chaque main porte sa propre charge, ce qui rend le travail unilatéral pratique et permet des angles de prise qu’une barre fixe n’offre pas toujours. Un rowing à un bras ou un développé à un bras peut révéler des différences de contrôle entre vos deux côtés. Les haltères s’intègrent souvent mieux dans un petit espace qu’une installation complète de barre, même si les écarts entre les poids peuvent être grands ou le choix limité."
+		},
+		{
+			"title": "Choisir votre poids",
+			"text": "Choisissez une paire ou un seul haltère qui vous permet d’atteindre vos répétitions cibles avec un mouvement stable et quelques répétitions en réserve. Si vous débutez, vous aurez peut-être besoin de charges différentes pour les rowings, les curls et les développés. Si le poids supérieur est trop lourd, ajoutez d’abord des répétitions, de l’amplitude ou du contrôle avec le plus léger."
+		},
+		{
+			"title": "Se mettre en position en sécurité",
+			"text": "Pour un développé couché, asseyez-vous avec les haltères tenus fermement près de vos cuisses, allongez-vous de façon contrôlée et placez les poids sans les lancer. Pour les mouvements debout, soulevez les poids avec les jambes et le tronc placés dans une position stable. Ne lâchez pas les poids là où ils pourraient rebondir sur vos pieds, abîmer le sol ou toucher quelqu’un."
+		},
+		{
+			"title": "Usages courants",
+			"text": "Les squats goblet et les soulevés de terre roumains avec haltères entraînent le bas du corps, les rowings et développés avec appui couvrent le haut du corps, et les portages développent la prise et le contrôle du tronc. Si vous n’avez qu’un seul haltère, utilisez-le pour des mouvements unilatéraux."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Dans Profil, saisissez les poids d’haltères que vous possédez. Votre programme choisit des exercices adaptés à votre équipement, votre espace et la hauteur de votre plafond. Il ne prescrit pas de poids, c’est donc vous qui choisissez la charge. Si vous notez vos charges après une séance, écrivez-les toujours de la même façon, par exemple « 12 kg par main »."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic : poids libres ou machines",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic : technique de musculation (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "A nagy kép",
+			"text": "A mozgás energiát használ, az étel pedig azt biztosítja, amire az edzéshez, a regenerációhoz és a szövetépítéshez szükséged van. A változatos étrend általában tartalmaz fehérjében gazdag ételeket, szénhidrátban gazdag ételeket, gyümölcsöt, zöldséget és zsírforrásokat. A nagyon korlátozó étkezés visszafoghatja a teljesítményedet és a regenerációdat akkor is, ha az edzéseid jól vannak megtervezve."
+		},
+		{
+			"title": "Fehérje és izom",
+			"text": "A fehérje aminosavakat biztosít, amelyeket a tested a szövetek fenntartására és az izom alkalmazkodására használ. A mozgó felnőttekről szóló kutatások gyakran kb. 1,4–2,0 gramm fehérjét említenek testtömeg-kilogrammonként naponta, mint bizonyítékokon alapuló tartományt. Az igények az életkorral, az edzéssel és a személyes körülményekkel változnak, és nem kell kiszámolnod ezt a számot."
+		},
+		{
+			"title": "Szénhidrátok és zsírok",
+			"text": "A szénhidrátok az izom-glikogén fenntartásával táplálják az ismételt kemény erőfeszítéseket és az állóképességi edzéseket. Az étkezési zsír esszenciális zsírsavakat ad, és segít bizonyos vitaminok felszívódásában. A részletes sporttáplálkozási stratégiák az edzésmennyiség növekedésével fontosabbá válnak. Kezdőként először a rendszeres, kiegyensúlyozott étkezésre összpontosíts."
+		},
+		{
+			"title": "Példa",
+			"text": "Ha hetente három napon erőedzést végzel, az étkezéseidet építheted babra, halra, tojásra vagy más fehérjeforrásra, adhatsz hozzá gabonát vagy burgonyát energiának, és beiktathatsz zöldséget és gyümölcsöt. Az számít többet, mit eszel a héten át, mint hogy minden sorozat után egy bizonyos shake-et igyál."
+		},
+		{
+			"title": "Mikor kérj szakértői segítséget",
+			"text": "Ha egészségügyi állapotod van, aggályaid az étkezéssel kapcsolatban, vagy speciális teljesítménycélod, beszélj bejegyzett dietetikussal vagy egészségügyi szakemberrel. A TrainUp nem ad egyéni kalóriacélokat, makrókövetést vagy fogyókúrás étrendet."
+		}
+	],
+	"sources": [
+		{
+			"label": "ISSN állásfoglalás: a fehérje és a mozgás",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

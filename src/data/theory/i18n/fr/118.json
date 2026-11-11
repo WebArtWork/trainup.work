@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ce qui fait grandir les muscles",
+			"text": "Les muscles se développent en réponse à une sollicitation mécanique répétée et à une récupération suffisante. Les grands changements prennent généralement des mois ou des années, pas quelques séances de musculation. Être fort et avoir l’air très musclé sont deux résultats différents, et vous pouvez choisir des objectifs d’entraînement qui correspondent à ce que vous voulez."
+		},
+		{
+			"title": "Ce que montrent les études comparatives",
+			"text": "Une méta-analyse de 2025 a constaté que les femmes et les hommes gagnaient une taille musculaire relative globalement similaire avec des programmes d’entraînement en résistance comparables, même si les gains absolus moyens des hommes étaient un peu plus élevés. Ce n’est pas une raison de décourager les femmes de soulever des poids. Cela montre que les femmes peuvent gagner de vrais muscles et de la force."
+		},
+		{
+			"title": "Entraînez-vous pour ce que vous voulez",
+			"text": "Certaines personnes veulent une croissance musculaire visible. D’autres tiennent davantage à la force du quotidien, à la santé des os, à la performance sportive ou à la confiance en soi. Votre volume d’entraînement et vos choix d’exercices peuvent suivre ces priorités. La musculation n’exige ni routines de culturisme ni charges plus lourdes tous les jours."
+		},
+		{
+			"title": "Exemple",
+			"text": "Deux séances par semaine sur tout le corps avec des squats, des rowings, des développés et des charnières peuvent améliorer la force et la fonction. Suivez vos performances, et ne craignez pas qu’une seule séance change soudainement votre apparence."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Dans Profil, vous choisissez votre objectif : forme générale, force ou cardio. Votre programme est construit à partir de cet objectif, de votre niveau, de votre équipement et de vos retours de séance, et il ne promet aucune silhouette particulière."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revue systématique de 2025 : croissance musculaire chez les hommes et les femmes",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/40028215/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

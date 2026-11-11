@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ogólny obraz",
+			"text": "Ćwiczenia zużywają energię, a jedzenie dostarcza tego, czego potrzebujesz, by trenować, regenerować się i budować tkanki. Urozmaicona dieta zwykle obejmuje produkty białkowe, produkty bogate w węglowodany, owoce, warzywa i źródła tłuszczu. Bardzo restrykcyjne jedzenie może hamować Twoje wyniki i regenerację, nawet gdy treningi są dobrze zaprojektowane."
+		},
+		{
+			"title": "Białko i mięśnie",
+			"text": "Białko dostarcza aminokwasów, których ciało używa do utrzymania tkanek i adaptacji mięśni. Badania nad ćwiczącymi dorosłymi często podają około 1,4–2,0 grama białka na kilogram masy ciała dziennie jako zakres poparty dowodami. Potrzeby różnią się w zależności od wieku, treningu i osobistych okoliczności, a nie musisz obliczać tej liczby."
+		},
+		{
+			"title": "Węglowodany i tłuszcze",
+			"text": "Węglowodany napędzają powtarzane ciężkie wysiłki i treningi wytrzymałościowe, utrzymując glikogen mięśniowy. Tłuszcz w diecie dostarcza niezbędnych kwasów tłuszczowych i pomaga wchłaniać niektóre witaminy. Szczegółowe strategie żywienia sportowego mają większe znaczenie wraz ze wzrostem objętości treningowej. Jako początkujący skup się najpierw na regularnych, zbilansowanych posiłkach."
+		},
+		{
+			"title": "Przykład",
+			"text": "Jeśli trenujesz siłowo trzy dni w tygodniu, możesz zbudować posiłki wokół fasoli, ryb, jaj lub innego źródła białka, dodać produkty zbożowe lub ziemniaki dla energii i uwzględnić warzywa i owoce. To, co jesz w ciągu tygodnia, liczy się bardziej niż wypicie konkretnego koktajlu zaraz po każdej serii."
+		},
+		{
+			"title": "Kiedy szukać pomocy eksperta",
+			"text": "Jeśli masz schorzenie, obawy dotyczące jedzenia lub specjalistyczny cel wydolnościowy, porozmawiaj z dietetykiem lub pracownikiem ochrony zdrowia. TrainUp nie podaje indywidualnych celów kalorycznych, śledzenia makroskładników ani planów posiłków na odchudzanie."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ISSN: białko i ćwiczenia",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

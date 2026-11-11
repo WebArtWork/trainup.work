@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mit változtat az alak",
+			"text": "Egyes emeléseknél a lógó súly mozoghat a csuklód vagy az alkarod körül, és másképp egyensúlyoz, mint a súlyzó. A kehelyguggolás, a felhúzás és a hordozás meglehetősen egyszerű módon használja a kettlebellt. A cleanek, a snatchek és más ballisztikus készségek lendületet és koordinációs igényt adnak hozzá, ami kezdőknek túl sok lehet."
+		},
+		{
+			"title": "Kezdd az alapokkal",
+			"text": "Tanulj meg kontrollált csípőhajlítást és egyszerű felhúzást, mielőtt lendítést próbálnál, és kehelyguggolást, felhúzást, evezést vagy hordozást végezz, mielőtt nagy koordinációt igénylő ballisztikus munkába kezdenél. Olyan kettlebellt válassz, amely elég könnyű az ismételt egyenletes mozdulatokhoz, de elég nehéz ahhoz, hogy kihívást jelentsen. A nem vagy az életkor önmagában nem mondja meg a megfelelő kezdősúlyt; az erőd, a tapasztalatod és a választott gyakorlat számít."
+		},
+		{
+			"title": "A lendítés mechanikája",
+			"text": "Egy gyakori kétkezes lendítésnél a súly a lábaid közül nagyjából mellmagasságig halad, erőteljes csípőnyújtással hajtva, nem a karjaid emelésével. Tartsd kontrollban a gerincedet, hagyd, hogy a térded kicsit hajoljon, és a súlyt minden alkalommal ugyanazon az íven vezesd. Ne alakítsd a gyakorlatot mély guggolássá előreemeléssel."
+		},
+		{
+			"title": "Biztonság és progresszió",
+			"text": "Akkor gyakorolj, ha a padló, a kezed és a körülötted lévő terület tiszta és száraz. Hagyj elég helyet előtted és mögötted a súly pályájához. Állj meg, ha a fogásod vagy a csípőhajlítási technikád kezd romlani. A felhúzásokról és a kontrollált csípőhajlításokról csak akkor térj át rövid lendítéssorozatokra, ha megbízhatóan el tudod végezni a mozdulatot."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban pontosan add meg a padlóméretedet, a belmagasságodat és a felületedet. A terved csak olyan gyakorlatokat választ, amelyek illenek a helyedhez, a felületedhez, a korlátaidhoz és a koordinációdhoz, ami egy kis szobában lendítő mozdulatoknál fontos."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE: kétkezes kettlebell-lendítés technikája",
+			"url": "https://www.acefitness.org/continuing-education/certified/january-2025/8788/the-ace-do-it-better-series-the-two-handed-kettlebell-swing/"
+		},
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: súlyzós edzés technikája (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Dlaczego sen ma znaczenie dla treningu",
+			"text": "Sen pomaga w naprawie tkanek, pracy układu nerwowego, uwadze i uczeniu się umiejętności ruchowych. Po słabym śnie normalne obciążenie może wydawać się cięższe, a motywacja lub koordynacja może spaść. Jedna krótka noc nie wymazuje Twojego postępu, ale ciągłe skracanie snu może szkodzić jakości treningu i ogólnemu zdrowiu."
+		},
+		{
+			"title": "Długość i jakość",
+			"text": "Wytyczne zdrowia publicznego zalecają siedem lub więcej godzin dla dorosłych w wieku 18–60 lat, z zakresami zależnymi od wieku później. Częste budzenie się, nieregularny rytm lub brak poczucia wypoczęcia mogą mieć znaczenie, nawet gdy czas w łóżku wydaje się wystarczający. Potrzeby są różne, więc właściwa ilość jest indywidualna."
+		},
+		{
+			"title": "Nawyki, które pomagają",
+			"text": "Kładź się spać i wstawaj o dość stałych porach, utrzymuj sypialnię ciemną i wygodną, ogranicz jasne światło przed snem i uważaj na kofeinę wieczorem. Światło dzienne i regularne ćwiczenia mogą pomóc utrzymać przewidywalny rytm snu. Nie oceniaj snu po jednym wyniku z urządzenia noszonego."
+		},
+		{
+			"title": "Trening po złej nocy",
+			"text": "Po szczególnie złej nocy, jeśli równowaga lub koncentracja wydają się zaburzone, rozważ lżejszy trening techniczny, spokojny spacer lub mniejszy trening. Okazjonalny ciężki dzień sam w sobie nie jest niebezpieczny, ale ciągłe wymuszanie maksymalnych ćwiczeń w stanie wyczerpania nie przynosi Ci nic dobrego. Monitory snu podają szacunki, a nie pomiary kliniczne. Jeśli masz utrzymującą się silną senność lub bezsenność, porozmawiaj z lekarzem."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: zalecenia dotyczące snu dla dorosłych",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		},
+		{
+			"label": "ACSM 2026: dawkowanie ćwiczeń, regeneracja i progresja",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

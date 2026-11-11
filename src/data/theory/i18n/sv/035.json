@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Grunderna i armhävningar",
+			"text": "Placera händerna där det känns bekvämt, håll kroppen i en linje från axlar till höfter, sänk med armbågarna i en vinkel som dina axlar tål och tryck bort golvet. Dina skulderblad rör sig naturligt runt bröstkorgen under en armhävning. Låt inte höfterna sjunka eller huvudet skjuta fram bara för att räkna en repetition."
+		},
+		{
+			"title": "Att välja en variant",
+			"text": "En väggarmhävning är ofta den lättaste. Därnäst kommer en lutande på en stadig bänk eller bänkskiva, sedan en armhävning på knä eller hel på golvet. Senare kan du höja fötterna eller lägga till belastning för att göra den svårare. Om knävarianten eller den lutande varianten är lättare för dig beror på hävarm och komfort. Att höja händerna är ett enkelt sätt att trycka mindre av din kroppsvikt."
+		},
+		{
+			"title": "Bänkpress och hantelpress",
+			"text": "På en bänk, plantera fötterna stadigt, skapa en stabil bål- och axelposition och sänk vikterna under kontroll. En skivstång låser händerna på plats, medan hantlar låter greppet röra sig friare men kräver kontroll på varje sida. Tunga försök i bänkpress kräver en kunnig spotter eller lämplig säkerhetsutrustning."
+		},
+		{
+			"title": "Vanliga missförstånd",
+			"text": "Dina armbågar behöver inte hållas fastklistrade vid revbenen, och de ska inte alltid peka rakt ut heller. Välj en greppbredd och armbågsbana som låter dig röra dig kraftfullt och bekvämt. Dina skulderblad förblir inte frusna i en position genom varje press, och armhävningar på golvet och bänkpress ställer olika krav på dem."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Håll dig till en armhävningsvariant och notera dess repetitioner tills du är redo att gå vidare. Balansera horisontella tryck med dragarbete under veckan. Om dina handleder eller axlar är känsliga, lägg till dem som begränsningar i Profil så att din plan bara väljer tryck som passar."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: teknik vid styrketräning (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: grunder i säkerhet och styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

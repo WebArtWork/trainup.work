@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Twee veelvoorkomende toepassingen",
+			"text": "Sessie-RPE beoordeelt de totale moeilijkheid van een hele training, vaak op een schaal van 0–10 in categorie-ratiostijl die loopt van rust tot maximale inspanning. Set-RPE beoordeelt één krachttrainingsset. De twee meten verschillende dingen: één set kan extreem zwaar zijn binnen een sessie die over het geheel matig aanvoelde."
+		},
+		{
+			"title": "Set-RPE en herhalingen in reserve",
+			"text": "Eén krachttrainingssysteem koppelt elke beoordeling aan het aantal herhalingen dat je dacht over te hebben. RPE 10 betekent dat je geen volledige herhaling meer had kunnen doen met de beoogde techniek, RPE 9 betekent dat er één over was, en RPE 8 betekent dat er ongeveer twee over waren. Dit zijn schattingen, geen precieze fysiologische metingen, en je wordt er met trainingservaring beter in."
+		},
+		{
+			"title": "Voorbeelden",
+			"text": "Een stevige wandeling van 25 minuten kan voor de een als 4/10 voelen en voor een ongetrainde beginner als 7/10. Een set van acht squats waarbij nog ongeveer twee herhalingen mogelijk waren, zou ongeveer RPE 8 zijn op de tilschaal met herhalingen in reserve. Zeg altijd welke schaal je gebruikt, anders worden de getallen verwarrend."
+		},
+		{
+			"title": "Veelgemaakte fouten",
+			"text": "Beoordelingen verliezen hun waarde als je inspanning alleen beoordeelt aan hoeveel je zweet, spierpijn verwart met hoe zwaar de sessie was, of altijd 10 kiest omdat een training „zwaar hoort te zijn”. Slaap, stress, hitte en onbekende bewegingen veranderen allemaal hoe zwaar inspanning aanvoelt, dus lees elke beoordeling in zijn context."
+		},
+		{
+			"title": "Beoordelingen omzetten in beslissingen",
+			"text": "Als meerdere sessies veel zwaarder voelen dan gepland, kijk dan naar je slaap, gewicht, aantal sets, rust en herstel. Als sessies heel makkelijk blijven voelen en je techniek stevig is, probeer dan de volgende keer een kleine verhoging. Eén ongewone beoordeling is niet genoeg om overtraining vast te stellen of grote veranderingen door te voeren."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Na elke training beoordeel je de hele sessie van 1 tot 10. Zie dat getal als sessie-inspanning en reken het niet om naar set-RPE of herhalingen in reserve. Bekijk je beoordelingen naast hoeveel je van elke training hebt afgemaakt, over meerdere trainingen."
+		}
+	],
+	"sources": [
+		{
+			"label": "Zourdos e.a., onderzoek naar RIR-gebaseerde RPE",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		},
+		{
+			"label": "Helms e.a., praktische RPE-richtlijnen",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/27531969/"
+		},
+		{
+			"label": "CDC-richtlijnen over inspanning",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

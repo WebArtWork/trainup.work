@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Amplitude passive et active",
+			"text": "Vous pouvez peut-être lever le bras au-dessus de la tête avec de l’aide mais avoir du mal à le lever seul. Cela indique une souplesse suffisante sans la même force ou coordination dans cette amplitude. D’autres personnes ont une amplitude confortable vraiment limitée et peuvent bénéficier d’étirements progressifs ou d’une autre variante d’exercice."
+		},
+		{
+			"title": "Testez les mouvements que vous utilisez",
+			"text": "Une extension contrôlée des bras au-dessus de la tête, un squat au poids du corps confortable ou une charnière de hanche peuvent montrer si un mouvement de votre séance vous semble restreint. Comparez les deux côtés, mais ne les forcez pas à être identiques. Le but est de repérer une limite pratique. Cela ne permet pas de diagnostiquer la cause d’une raideur, d’une douleur articulaire ou d’une affection médicale."
+		},
+		{
+			"title": "Travaillez le contrôle dans l’amplitude dont vous disposez",
+			"text": "Les cercles de bras dynamiques, les fentes contrôlées, les rotations thoraciques et les mouvements lents de hanche vous permettent de pratiquer des amplitudes sous contrôle actif. Les exercices de force faits dans une amplitude confortable et progressés avec le temps peuvent aussi améliorer la mobilité. Les étirements statiques améliorent la souplesse, mais à eux seuls ils ne développent pas toujours le contrôle."
+		},
+		{
+			"title": "Pas d’amplitude parfaite unique",
+			"text": "Les proportions du corps, la structure des articulations, les antécédents de blessure et le niveau technique influencent tous les mouvements qui vous semblent confortables. Vous n’avez pas besoin d’un squat profond maximal ni d’une souplesse extrême des épaules pour bien vous entraîner. Choisissez une amplitude où votre technique reste stable et sans douleur, et progressez à partir de là."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Si une zone du corps limite votre amplitude, ajoutez-la comme limitation dans Profil, avec une note. Le programme choisit alors des exercices adaptés à vos limitations, votre niveau et votre coordination. Chaque page d’exercice dans Explorer contient des étapes et des conseils de technique. Parlez à un médecin ou à un kinésithérapeute d’une restriction qui persiste, d’une douleur inexpliquée ou de symptômes qui affectent la vie quotidienne."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE 2026 : mobilité et souplesse",
+			"url": "https://www.acefitness.org/continuing-education/certified/may-2026/9119/mobility-vs-flexibility-why-the-difference-matters-for-movement-and-performance/"
+		},
+		{
+			"label": "ACE 2026 : conseils pratiques sur les étirements",
+			"url": "https://www.acefitness.org/continuing-education/certified/april-2026/9104/new-expert-guidance-on-stretching-what-belongs-in-your-programs/?authorScope=80"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

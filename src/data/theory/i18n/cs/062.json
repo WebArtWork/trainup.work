@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Lavice pro oporu a tlaky",
+			"text": "Rovná lavice podporuje tlaky, přítahy a pohyby vsedě. Nastavitelná lavice mění sklon trupu při tlacích a dalších cvicích. Ověřte, že uvedená nosnost pokrývá vás plus jakoukoli vnější zátěž, zajistěte nastavení a ujistěte se, že se lavice nekývá ani neklouže, než ji zatížíte. Židle automaticky není bezpečná posilovací lavice."
+		},
+		{
+			"title": "Stabilní schod",
+			"text": "Výstupy na bednu, kliky s vyvýšením a nízká kondiční cvičení na schodu potřebují plošinu, která se nepřevrhne. Začněte nízkým schodem, který nechá kyčel a koleno pohybovat se pod kontrolou. Postavte celé chodidlo opěrné nohy na schod, sestupujte záměrně a neodrážejte se zadní nohou, abyste zakryli příliš vysokou plošinu."
+		},
+		{
+			"title": "Nastavení švihadla",
+			"text": "Jako hrubou první kontrolu se postavte jednou nohou na střed lana a zvedněte rukojeti. Mnoho rekreačních lan sedí, když rukojeti sahají zhruba k dolní části hrudi nebo k podpaží, ačkoli provedení lana a dovednost mění ideální délku. Příliš krátké lano zasahuje chodidla. Příliš dlouhé zachytává zem a může vést k velkým kruhům rukou."
+		},
+		{
+			"title": "Zkontrolujte prostor a vybavení",
+			"text": "Používejte neklouzavou podlahu a dávejte pozor na nábytek, světla, ventilátory a jiné lidi. Švihadlo potřebuje místo nad hlavou i po stranách a také na podlaze. Před každým tréninkem zkontrolujte opotřebovaný povlak lana, ostré konce drátu, poškozené panty lavice a uvolněné povrchy schodů. Rozbité vybavení vyměňte, místo abyste improvizovali opravy."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu nastavte typ lavice, velikost plochy, výšku stropu, povrch a zda jsou skoky v pořádku, a plán vybere jen cviky, které jim odpovídají. Pokud schod vylučují vaše kolena nebo prostor, nebo švihadlo vylučuje hluk, nárazy či výška stropu, jsou alternativou cviky bez schodu a pochodování na místě."
+		}
+	],
+	"sources": [
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: bezpečnost a technika posilování",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

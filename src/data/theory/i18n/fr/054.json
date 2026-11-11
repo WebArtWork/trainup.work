@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ce qui change pendant une pause",
+			"text": "L’endurance aérobie, la tolérance à l’effort et les performances en musculation s’estompent à des vitesses différentes. Quelques jours manqués changent peu de chose, alors que des semaines ou des mois sans entraînement peuvent réduire la quantité de travail que vous pouvez accomplir. Votre entraînement passé peut vous aider à réapprendre plus vite les gestes, mais la « mémoire musculaire » ne supprime pas le besoin d’une reprise progressive."
+		},
+		{
+			"title": "Pourquoi vous avez fait une pause",
+			"text": "Un voyage ou un emploi du temps chargé n’est pas la même chose qu’une blessure, une opération ou une longue maladie. Après un événement médical, demandez l’avis de votre médecin ou d’un autre professionnel de santé compétent avant de reprendre un entraînement intense. TrainUp ne peut pas savoir si une reprise après une maladie ou une blessure est médicalement sûre pour vous. Si quelque chose a changé, mettez à jour vos limitations dans Profil avant de recommencer."
+		},
+		{
+			"title": "Un point de départ prudent",
+			"text": "Après une longue pause, reprenez avec moins de séries, une résistance plus légère et davantage de répétitions en réserve. Partir d’environ 50–70 % de votre ancien volume d’entraînement est un exemple de planification qui convient à certaines personnes ; la recherche ne fixe pas ce chiffre. Voyez comment se passent les premières séances avant d’ajouter du travail."
+		},
+		{
+			"title": "Progresser au fil des semaines",
+			"text": "Pratiquez des techniques familières, laissez assez de récupération et ajoutez du travail lentement à mesure que les mouvements et les courbatures redeviennent normaux. Ne testez pas tout de suite vos anciens maximums. Si la première semaine vous laisse des courbatures durables ou inhabituellement fortes, répétez-la ou réduisez la charge de travail, même si votre planning indique qu’il est temps de progresser."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA/CSCCa : reprise sûre après une période d’inactivité",
+			"url": "https://doi.org/10.1519/SSC.0000000000000477"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA : sécurité et fondamentaux de la musculation",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

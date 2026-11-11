@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Először ellenőrizd, hogy valóban plató-e",
+			"text": "Egy csalódást keltő edzés nem plató. Hasonlíts össze több hetet hasonló körülmények között: ugyanaz a gyakorlat, terhelés, tartomány és erőfeszítés. A felszerelés, az alvás vagy a technika változása miatt a számaid rosszabbnak tűnhetnek akkor is, ha az erőnléted nem romlik. Jegyezz fel elég részletet ahhoz, hogy meg tudd különböztetni a valódi trendet a napi ingadozásoktól."
+		},
+		{
+			"title": "Ellenőrizd az alapokat",
+			"text": "Befejezted az edzéseidet? Az ellenállás kihívást jelentett, és regenerálódtál az edzések között? Megfelelt a mennyiség? Néha a terhelés túl alacsony, néha pedig nagyobb a szükségesnél. Az emelés azért is megrekedhet, mert nem gyakoroltad rendszeresen azt a mozdulatot, miközben az izmaid még alkalmazkodnak."
+		},
+		{
+			"title": "Végezz egy hasznos változtatást",
+			"text": "Ha könnyedén befejezed az ismétléseidet, adj hozzá egy kis terhelést, vagy használj kettős progressziót. Ha a fáradtság épül, és a teljesítmény csökken, egy ideig csökkentsd a kemény sorozatokat, vagy rendezd át a beosztásodat. Ha egy mozdulat megállt a fejlődésben, próbálj technikai változtatást vagy egy szorosan kapcsolódó változatot, a programod többi részét pedig hagyd úgy, ahogy van."
+		},
+		{
+			"title": "Lassabb nyereség az idő során",
+			"text": "A kezdők gyakran gyorsan fejlődnek, részben azért, mert tanulják a mozdulatokat. A tapasztalt emelők lassabban és kisebb lépésekben haladnak. Az izomnövekedés mérése időbe telik, ezért egy változatlan mérleg vagy egyetlen teljesítménytesz nem bizonyítja, hogy az edzésed kudarcot vallott. A megmagyarázhatatlan fáradtságot vagy más, tartósan fennálló egészségügyi tüneteket orvossal vizsgáltasd meg."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Az Előzmények megmutatja az edzéseidet, az átlagos erőfeszítésedet és egy 4 hetes grafikont, amely segíthet észrevenni egy lehetséges platót. A TrainUp soha nem módosítja a tervedet 3-nál kevesebb edzés alapján, így egyetlen kemény nap nem vált ki új programot. Végezz kis módosításokat, és néhány edzés után ellenőrizd újra."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "ACSM: a progressziós modell útmutatója",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Signály ke sběru",
+			"text": "Porovnejte série a opakování, které vám byly zadány, s tím, co jste dokončili. Podívejte se na zátěž, RPE tréninku, bolest svalů, zameškané tréninky a jakákoli nová omezení, protože každé ukazuje jinou část obrazu. Jedno vysoké RPE nebo jeden zameškaný trénink nedokazuje, že je plán pro vás špatný."
+		},
+		{
+			"title": "Když jsou tréninky příliš lehké",
+			"text": "Pokud cíl stále plníte se stabilní technikou a nízkým úsilím, zvažte přidání několika opakování, trochu zátěže nebo o něco většího objemu. Změňte jednu proměnnou a sledujte, jak reagujete, než přidáte cokoli dalšího."
+		},
+		{
+			"title": "Když jsou tréninky příliš těžké",
+			"text": "Opakované nesplnění cílů, rozpadající se technika nebo únava, která nezmizí, mohou být důvody snížit zátěž nebo objem, přejít na snazší cvik nebo si dát víc regenerace. Nová bolestivá oblast vyžaduje nový pohled na vaše omezení a případně odbornou radu. Nesnažte se ji diagnostikovat sami."
+		},
+		{
+			"title": "Příklad",
+			"text": "Děláte goblet dřepy 3 × 10 po dva týdny kolem RPE 5 s dobrou kontrolou. Příště můžete zvolit o něco těžší jednoručku a vrátit se k osmi opakováním. Pokud stejný pohyb stále bolí, prostě ho neztěžujte."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Váš plán se mění, jen když ho znovu vytvoříte, a nikdy z méně než 3 tréninků. Jakákoli nedávná bolest znamená žádné zvýšení. Pokud byly 2 z vašich posledních 3 tréninků velmi těžké (RPE 9 nebo více) nebo dokončené z méně než 60 %, bude další plán lehčí. Pokud byly vaše poslední 4 lehké (RPE 5 nebo méně) a dokončené, bude o krok těžší, vždy po jednom kroku. Pravidla týkající se bolesti mají přednost před výkonem, dokončené tréninky se nikdy nemění a zátěž si volíte sami."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Praktické doporučení ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

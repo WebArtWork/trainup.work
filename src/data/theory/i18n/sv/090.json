@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mönster på kort och lång sikt",
+			"text": "Avancerade idrottare använder ibland funktionell överbelastning med avsikt, och deras prestation återhämtar sig efter tillräcklig vila. Icke-funktionell överbelastning ger en längre prestationsnedgång utan någon användbar vinst. Överträningssyndrom är ett bestående tillstånd med många bidragande faktorer, och det kräver en professionell bedömning som utesluter andra orsaker."
+		},
+		{
+			"title": "Varningstecken",
+			"text": "Upprepade prestationsfall, trötthet som inte står i proportion till din träning, ovanlig lättretlighet, störd sömn, sjunkande motivation och ihållande träningsvärk kan alla vara varningstecken. Inget av dem är specifikt för överträning. Arbetsstress, sjukdom, otillräckligt ätande och många medicinska tillstånd kan ge samma symtom."
+		},
+		{
+			"title": "Minska belastningen innan du lägger till mer",
+			"text": "Om flera pass känns ovanligt tunga och din prestation sjunker, sänk volymen eller intensiteten en tid, ta mer återhämtning och se över din sömn och din totala träningsbelastning. En lättare vecka kan vara rimlig, men hur mycket du ska skära ner skiljer sig från person till person. Försök inte ”kämpa dig igenom” trötthet som fortsätter förvärras med en maxansträngning efter en annan."
+		},
+		{
+			"title": "Undvika kronisk överbelastning",
+			"text": "Öka träningen gradvis, sprid ut hårda pass och följ trenderna i dina genomförda repetitioner, din RPE och hur redo du känner dig. Planera lätta perioder när resor, sjukdom, tungt arbete eller andra krav lägger till din totala stress. Extra pass hjälper bara om din kropp kan anpassa sig till dem."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Vecka 4 i varje program är en lättare avlastningsvecka. När du skapar programmet på nytt ändras det ett steg i taget och aldrig utifrån färre än 3 pass. Om 2 av dina senaste 3 pass var mycket tuffa (RPE 9 eller mer) eller mindre än 60 % genomförda blir nästa program lättare. TrainUp diagnostiserar eller behandlar inte överträningssyndrom. Om den nedåtgående trenden fortsätter, vila och sök professionell rådgivning."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: träningsdos, återhämtning och progression",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "CDC: sömnrekommendationer för vuxna",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		}
+	]
+}

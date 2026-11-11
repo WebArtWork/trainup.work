@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mit mér az időtartam",
+			"text": "Egy 30 másodperces plank, egy 40 másodperces falnál ülés és egy 20 másodperces gyors kerékpáros intervallum mind időzítőt használ, de mást edz. A statikus tartások erőt fejtenek ki jelentős ízületi mozgás nélkül, míg az időzített dinamikus sorozatok egy mozgást ismételnek. Ugyanaz az idő nagyon különbözőnek érződhet a testhelyzettől, az emelőhatástól, a terheléstől és az intenzitástól függően."
+		},
+		{
+			"title": "Minőség a kitartás helyett",
+			"text": "Plankben akkor állj meg, amikor már nem tudod kontrollálni a törzsedet, akkor is, ha az időzítő még nem járt le. Falnál ülésnél a térdszög és a lábhelyzet szabja meg a nehézséget. Függésnél a fogás és a vállhelyzet számít. Ha hosszabb ideig tartasz egy rosszabb helyzetet, az kevesebbet adhat, mint egy rövidebb tartás, amelyet ugyanabban a helyzetben meg tudsz ismételni."
+		},
+		{
+			"title": "A fejlődés módjai",
+			"text": "Kezdj olyan idővel, amelyet jól meg tudsz ismételni, például 15–20 másodperccel. Aztán adj hozzá néhány másodpercet több edzésen át, adj hozzá egy sorozatot, vagy térj át egy kicsit nehezebb változatra. Egyszerre egy fő dolgon változtass. Ha egy tartás már nagyon hosszú, az ellenállás vagy egy nehezebb emelőkar hozzáadása általában többet ér, mint több percet hajszolni."
+		},
+		{
+			"title": "Időzített kondicionáló sorozatok",
+			"text": "Egy 30 másodperces munkaintervallum, majd 60 másodperc pihenő nem automatikusan nagy intenzitású intervallumedzés. Az intenzitás a munka közbeni tempódtól vagy erőkifejtésedtől függ. Ha kezdő vagy, olyan sebességet válassz, amelyet kontrollálni tudsz, és elegendő pihenőt ahhoz, hogy jól mozogj tovább."
+		},
+		{
+			"title": "Példa",
+			"text": "Végezz három 20 másodperces oldalplankot oldalanként 40–60 másodperc pihenővel. Ha minden tartás stabil marad, lépj feljebb 25 másodpercre. Ha a csípőd 12 másodpercnél leesik, rövidítsd a tartást, vagy válts térdtámaszos oldalplankra."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A tervedben az időzített gyakorlatokhoz tartási idő tartozik, az edzésképernyőn pedig tartásidőzítő van. Ha változtatsz a változaton, írd be az edzésjegyzetekbe, és ne hasonlíts össze különböző testhelyzetekből származó időket úgy, mintha ugyanaz a teszt lennének."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO aktivitási útmutató",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

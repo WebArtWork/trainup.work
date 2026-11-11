@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tipi di montaggio",
+			"text": "Le sbarre a leva per stipite, le sbarre espandibili a tensione, le sbarre fisse a parete e quelle a soffitto si installano ciascuna in modo diverso. Una sbarra venduta come «compatibile con le porte» non si adatta a ogni cornice, parete o telaio. Alcuni tipi richiedono fissaggi strutturali in supporti solidi, e altri dipendono da una forma specifica del telaio."
+		},
+		{
+			"title": "Controlla la portata e la struttura",
+			"text": "Leggi le istruzioni del produttore e il limite di peso, compreso se sono ammessi movimenti dinamici. Conta il peso corporeo totale più la forza aggiuntiva di dondolare o tirare. Ispeziona viti, staffe, imbottiture e le superfici che la sbarra tocca o a cui sta vicina. Se non sei sicuro della struttura dell’edificio o del metodo di montaggio, chiedi a un installatore qualificato."
+		},
+		{
+			"title": "Provala passo dopo passo",
+			"text": "Prima di una sospensione completa, assicurati che la sbarra sia posizionata correttamente e non possa ruotare, scivolare o spostarsi. Tieni i piedi a terra e premi su di essa con delicatezza e controllo. Passa a una sospensione parziale, poi a una sospensione completa con appoggio, solo quando sai che l’installazione è solida. Una breve prova non può dimostrare che un hardware danneggiato o un telaio non adatto siano sicuri."
+		},
+		{
+			"title": "Pericoli comuni",
+			"text": "Non attaccare elastici e non fare trazioni kipping, dondolanti o zavorrate a meno che il prodotto non sia progettato e installato proprio per questo. Lascia spazio per testa, gomiti e piedi, senza vetro o mobili appuntiti nelle vicinanze. Smetti di usare una sbarra che scricchiola, scivola, si piega o si allenta."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "In Profilo, segna la tua sbarra per trazioni come installata in sicurezza solo dopo aver controllato tutto quanto sopra. Fino ad allora, il tuo piano esclude gli esercizi che richiedono la sbarra, e i rematori o gli esercizi con elastico con un ancoraggio sicuro allenano la stessa trazione. Se sei un principiante, sospensioni assistite, trazioni scapolari o trazioni assistite sono buoni primi passi una volta che la sbarra è sicura."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: sicurezza e tecnica dell’allenamento coi pesi",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Libreria di esercizi ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

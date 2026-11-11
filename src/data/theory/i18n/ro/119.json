@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ce este antrenamentul concurent",
+			"text": "Antrenamentul de forță provoacă cât de multă forță produc mușchii tăi, iar exercițiul aerob îmbunătățește cât timp poți continua. Pentru sănătatea generală beneficiezi de ambele. Așa-numitul efect de interferență descrie cazurile în care combinarea antrenamentului greu de ambele feluri poate reduce unele câștiguri față de a face doar unul."
+		},
+		{
+			"title": "Ce arată analizele",
+			"text": "O analiză sistematică a constatat că, în medie, combinarea antrenamentului aerob și a celui de forță nu a redus semnificativ creșterea mușchiului întreg sau forța maximă. Câștigurile de forță explozivă au fost ceva mai afectate, în special când ambele feluri de antrenament s-au făcut în aceeași sesiune. Rezultatul exact depinde de volum, de tipul exercițiului, de momentul antrenamentului și de istoricul de antrenament."
+		},
+		{
+			"title": "Planifică în jurul priorității tale",
+			"text": "Dacă ridicarea maximă este obiectivul tău principal, fă cea mai bună muncă de forță înainte de cardio greu sau pune sesiunile solicitante în zile separate când poți. Dacă te concentrezi pe condiția fizică generală, poți combina cardio ușor și forță fără programări elaborate. Refacerea și volumul total de muncă contează mai mult, iar niciun fel de antrenament nu este dușmanul celuilalt."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Două sesiuni de forță pe săptămână pentru tot corpul, plus ciclism sau mers moderat în celelalte zile, pot dezvolta mai multe abilități deodată. Un sportiv de putere de performanță poate fi mai atent la intervalele grele chiar înainte de ridicări explozive."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Alege în Profil ca obiectiv principal: condiție fizică generală, forță sau condiție fizică. Nu ai nevoie de zile separate pentru toate și nicio sesiune de cardio nu îți șterge câștigurile musculare."
+		}
+	],
+	"sources": [
+		{
+			"label": "Analiză sistematică: combinarea exercițiului aerob și de forță",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/34757594/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tipare pe termen scurt și lung",
+			"text": "Sportivii avansați folosesc uneori intenționat suprasolicitarea funcțională, iar performanța li se redresează după destulă refacere. Suprasolicitarea nefuncțională provoacă o scădere mai lungă a performanței, fără un câștig util. Sindromul de supraantrenament este o afecțiune de lungă durată, cu mulți factori care contribuie, și cere o evaluare profesională care exclude alte cauze."
+		},
+		{
+			"title": "Semne de alarmă",
+			"text": "Scăderile repetate ale performanței, oboseala disproporționată față de antrenament, iritabilitatea neobișnuită, somnul perturbat, motivația în scădere și durerea musculară persistentă pot fi toate semne de alarmă. Niciunul nu este specific supraantrenamentului. Stresul de la serviciu, boala, mâncatul insuficient și multe afecțiuni medicale pot provoca aceleași simptome."
+		},
+		{
+			"title": "Reduce stresul înainte să adaugi mai mult",
+			"text": "Dacă mai multe sesiuni ți se par neobișnuit de grele și performanța scade, redu o vreme volumul sau intensitatea, ia mai multă refacere și uită-te la somn și la încărcarea totală de antrenament. O săptămână mai ușoară poate avea sens, dar cât să reduci diferă de la o persoană la alta. Nu încerca să „treci prin” oboseala care se agravează mereu, cu un efort maxim după altul."
+		},
+		{
+			"title": "Evitarea suprasolicitării cronice",
+			"text": "Crește antrenamentul treptat, distanțează antrenamentele grele și urmărește tendințele în repetările finalizate, în RPE și în cât de pregătit te simți. Planifică perioade ușoare când călătoriile, boala, munca grea sau alte cerințe îți adaugă la stresul total. Sesiunile în plus ajută doar dacă organismul tău se poate adapta la ele."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Săptămâna 4 din fiecare plan este o săptămână ușoară de descărcare. Când îți regenerezi planul, acesta se schimbă câte un pas și niciodată pe baza a mai puțin de 3 antrenamente. Dacă 2 din ultimele tale 3 antrenamente au fost foarte grele (RPE 9 sau mai mult) sau finalizate sub 60%, următorul plan este mai ușor. TrainUp nu diagnostichează și nu tratează sindromul de supraantrenament. Dacă tendința descendentă continuă, odihnește-te și cere sfat profesionist."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: dozarea exercițiului, refacerea și progresia",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "CDC: recomandări de somn pentru adulți",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		}
+	]
+}

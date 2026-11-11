@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Scale temporali",
+			"text": "Un microciclo è un breve periodo che si ripete, spesso una settimana. Un mesociclo è un blocco di diverse settimane con un obiettivo principale. Un macrociclo copre una stagione o un periodo di obiettivo più lunghi. Questi nomi aiutano a pianificare, e le loro durate variano da persona a persona."
+		},
+		{
+			"title": "Tre approcci",
+			"text": "La progressione lineare cambia le variabili lentamente in una direzione generale, per esempio da più ripetizioni con carichi più leggeri a meno ripetizioni con carichi più pesanti. L’allenamento ondulatorio cambia più spesso gli obiettivi di ripetizioni o l’intensità, magari pesante il lunedì e moderato il giovedì. La periodizzazione a blocchi esegue le fasi una dopo l’altra, ciascuna incentrata su una capacità specifica."
+		},
+		{
+			"title": "Cosa mostra la ricerca",
+			"text": "Gli studi che confrontano piani con lo stesso volume trovano possibili vantaggi di forza per l’allenamento periodizzato rispetto a quello non periodizzato, e per i piani ondulatori nelle persone allenate. Le differenze nella crescita muscolare sono meno coerenti. La position stand ACSM 2026 non ha trovato un beneficio coerente per la crescita muscolare derivante dalla sola periodizzazione. Un piano più complesso non è automaticamente un piano migliore."
+		},
+		{
+			"title": "Esempio",
+			"text": "Da principiante, ripeti per sei settimane un piccolo insieme di esercizi principali e aumenta lentamente ripetizioni o carico. Rendi un esercizio più difficile man mano che la tua tecnica migliora. Sollevatori più avanzati potrebbero fare tre settimane di pratica a volume più alto, poi una fase più pesante e una settimana di recupero più leggera, a seconda di come rispondono."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il tuo piano copre 4 settimane, e la settimana 4 è una settimana di deload più leggera. Il tuo obiettivo, il tuo livello di forma e il tuo feedback contano più di un calendario elaborato. Un nuovo piano arriva solo quando lo rigeneri, e cambia di un passo alla volta in base ai tuoi allenamenti recenti."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisione sistematica su periodizzazione e risultati dell’allenamento",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35044672/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Indicazioni ACSM sul modello di progressione",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

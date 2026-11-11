@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Chroń to, co najważniejsze",
+			"text": "Najpierw zdecyduj, do czego głównie służy trening, na przykład do ćwiczenia siły lub kondycji tlenowej. Poświęć kilka minut na rozgrzewkę ruchów, których użyjesz, a potem skup się na jednym lub dwóch głównych ćwiczeniach. Krótki trening nadal wymaga miejsca na bezpieczną technikę i wystarczającego odpoczynku przy ciężkich obciążeniach."
+		},
+		{
+			"title": "Formaty oszczędzające czas",
+			"text": "Superserie łączą ćwiczenia, które ze sobą nie konkurują, takie jak wiosłowanie i przysiady, a serie naprzemienne skracają czas oczekiwania. Obwody mogą łączyć proste ruchy dla ogólnej sprawności. Nie spiesz się między ciężkimi, technicznymi ćwiczeniami, jeśli zmęczenie zaczyna kosztować Cię kontrolę."
+		},
+		{
+			"title": "Przykład",
+			"text": "Na 15-minutowy trening całego ciała rozgrzej się krótko, wykonuj naprzemiennie dwie lub trzy kontrolowane serie przysiadów z krzesłem i pompek z podwyższeniem, a na koniec zrób wiosłowanie lub deskę. Dostosuj powtórzenia i odpoczynek do tego, co potrafisz teraz. Innego dnia szybki marsz lub spokojna jazda na rowerze mogą wspierać Twoją kondycję."
+		},
+		{
+			"title": "Krótkie bloki się sumują",
+			"text": "Krótkie bloki aktywności wliczają się do tygodniowej sumy. Wydłużaj treningi tylko wtedy, gdy to pomaga i pasuje do Twojego życia. Gdy dłuższe bloki nie są możliwe, regularne krótkie treningi mogą utrzymać skuteczność Twojej rutyny."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Ustaw w Profilu długość treningu i preferowane dni treningowe zgodnie z czasem, który naprawdę masz, i zmieniaj je, gdy zmieni się Twój grafik."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM 2026: praktyczne wskazówki",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: spacerowanie dla zdrowia",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

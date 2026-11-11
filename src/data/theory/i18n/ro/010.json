@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Acțiunea concentrică",
+			"text": "Mușchiul produce forță în timp ce se scurtează în ansamblu. La o flexie de biceps, flexorii cotului se scurtează pe măsură ce greutatea urcă. La ridicarea dintr-o genuflexiune, mai mulți extensori ai șoldului și ai genunchiului lucrează ca să te ridice. „Concentric” descrie ce face un mușchi, ceea ce nu coincide întotdeauna cu faptul că exercițiul pare o mișcare în sus."
+		},
+		{
+			"title": "Acțiunea excentrică",
+			"text": "Mușchiul produce forță în timp ce se alungește sub sarcină, adesea ca să frâneze o mișcare. Coborârea la o flexie cu ganteră sau așezarea într-o genuflexiune folosesc acțiunea excentrică a mușchilor principali. Această fază ajută forța și creșterea musculară, dar un lucru excentric foarte necunoscut poate provoca multă febră musculară. Construiește-l treptat și nu exagera intenționat fiecare fază de coborâre."
+		},
+		{
+			"title": "Acțiunea izometrică",
+			"text": "Mușchiul produce forță fără o schimbare mare a lungimii sale totale sau a unghiului articulației pe care o controlează. Plank-urile și wall sit-urile sunt exemple clare, iar mușchii trunchiului lucrează aproximativ izometric când ții un cărat greu. O menținere la un singur unghi nu înlocuiește perfect mișcarea pe toată amplitudinea."
+		},
+		{
+			"title": "Rolurile se schimbă după sarcină",
+			"text": "Un agonist este un contributor principal la acțiunea dorită, iar un antagonist se opune ei sau ajută la reglarea mișcării. Sinergiștii ajută, iar stabilizatorii controlează articulațiile sau segmentele corpului. La o flotare, pieptul și tricepșii împing, în timp ce mușchii trunchiului te țin aliniat. Aceste roluri depind de mișcare, deci un mușchi nu are o etichetă permanentă."
+		},
+		{
+			"title": "Cum pui în practică",
+			"text": "Coboară cu control, evită săltarea necontrolată și împinge sau trage printr-o amplitudine pe care o poți controla. Menținerile cronometrate sunt utile când sarcina nu cere mișcare, iar repetările dinamice sunt utile când vrei forță prin mișcare. În TrainUp, fiecare exercițiu este setat ca repetări sau ca timp de menținere, iar cronometrul de menținere îți urmărește menținerile. Notele de tehnică și tempoul te ajută să faci repetări bune, dar să te miști mai încet nu aduce întotdeauna rezultate mai rapide."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Analiză a mecanismelor hipertrofiei musculare",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/37382939/"
+		}
+	]
+}

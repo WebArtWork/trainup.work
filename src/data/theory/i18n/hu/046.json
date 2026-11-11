@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Egész testes programok",
+			"text": "Egy egész testes edzés ugyanazon a napon több fő mozgásmintát edz. Heti két-három nap gyakran jól működik kezdőknek és elfoglalt embereknek. Gyakran gyakorolod a fő gyakorlatokat anélkül, hogy sok edzőtermi látogatásra lenne szükség. Az edzések hosszúra nyúlhatnak, ha túl sok mozgást veszel fel."
+		},
+		{
+			"title": "Felső-alsó programok",
+			"text": "A felső-alsó terv felváltva ad felsőtest- és alsótestedzéseket, gyakran heti négy edzésen át. Teret ad több gyakorlatnak és sorozatnak, a hasonló edzések között regenerációs idővel. Egy háromnapos, forgó változat is működik, és a naptárnak nem kell minden héten pontosan ismétlődnie."
+		},
+		{
+			"title": "Izomcsoport-szerinti beosztások",
+			"text": "Egy testrész szerinti beosztás edzheti az egyik napon a mellet és a tricepszet, egy másikon a hátat és a bicepszet, egy harmadikon pedig a lábat. Ezek a programok megkönnyítik a nagy edzésvolumen beillesztését. Hasonló heti munka mellett egyik beosztás sem jobb az izomnövekedéshez a másiknál. Egy rosszul megtervezett beosztás néhány izmot túl sokáig edzetlenül hagyhat."
+		},
+		{
+			"title": "Válassz a korlátaid szerint",
+			"text": "Két napnál az egész testes gyakorlati alapértelmezés. Háromnál használj egész testest vagy forgó felső-alsó mintát. Négynél használj felső-alsót vagy két különböző egész testes napot. Az öt nap sok elrendezést enged, de a további alkalmak keveset adnak, ha nem tudod tartani vagy nem regenerálódsz belőlük. A készséggyakorlás és a személyes preferencia is szerepet játszik. Válaszd a legegyszerűbb beosztást, amely lefedi a céljaidat, az időbeosztásodat és a felszerelésedet, és tartsd szemmel a heti összes sorozatodat. Egy haladónak látszó ötnapos beosztás nem automatikusan jobb, mint egy háromnapos terv, amelyet tartani tudsz."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: a progressziós modell útmutatója",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NHS: erő- és hajlékonysági útmutató",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		}
+	]
+}

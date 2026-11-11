@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Parte superior do corpo",
+			"text": "Os peitorais ajudam a empurrar os braços para a frente ou através do tronco, como nas flexões e nos supinos. O grande dorsal e os outros músculos das costas ajudam a puxar os braços e a controlar as omoplatas nas remadas e nas elevações. Os deltoides ajudam a levantar e a mover os braços. Os bíceps flectem o cotovelo e auxiliam alguns movimentos de puxar, e os tríceps estendem o cotovelo durante os presses."
+		},
+		{
+			"title": "Parte inferior do corpo",
+			"text": "Os quadríceps estendem o joelho e ajudam no agachamento, em subir degraus e nos avanços. Os glúteos estendem ou estabilizam a anca, e as dobradiças da anca e os step-ups podem desafiá-los. Os isquiotibiais flectem o joelho e auxiliam a extensão da anca. Os músculos da barriga da perna produzem a flexão plantar do tornozelo para caminhar, correr e fazer elevações de gémeos. Os adutores e abdutores da anca ajudam a controlar a posição da perna e a manter a bacia estável."
+		},
+		{
+			"title": "Tronco (o core)",
+			"text": "O reto abdominal, os oblíquos, os músculos abdominais mais profundos, os extensores da coluna e vários músculos à volta da bacia ajudam a transmitir a força e a resistir-lhe. Pranchas, transportes e dobradiças controladas desafiam a estabilidade do tronco em direções diferentes. Os “abdominais” visíveis são apenas uma parte deste sistema."
+		},
+		{
+			"title": "Sobreposição entre exercícios",
+			"text": "Um agachamento trabalha mais do que os quadríceps, e uma remada trabalha mais do que os dorsais. A pegada, o ângulo do tronco, a amplitude de movimento e a sua própria anatomia mudam os músculos que fazem mais trabalho. Organize a semana de um principiante em torno de agachamentos, dobradiças, avanços, empurrar, puxar e trabalho de core, e não atribua cada treino a um único músculo."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "A página de cada exercício em Exercícios indica o seu padrão de movimento e os músculos que trabalha, o que ajuda a cobrir o corpo todo com poucos exercícios. O trabalho de isolamento pode preencher uma lacuna específica, mas não substitui aprender os movimentos multiarticulares básicos."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Visão geral da condição física do HHS",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		}
+	]
+}

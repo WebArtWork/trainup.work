@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Antrenamentul pe căldură",
+			"text": "Căldura și umiditatea pot face o sesiune ușoară să pară mult mai grea. Alege orele mai răcoroase și traseele la umbră, începe ușor și bea destul pentru condițiile date. CDC recomandă să te oprești și să te muți într-un loc răcoros dacă te simți amețit sau slăbit. Confuzia, colapsul sau o suspiciune de insolație cer ajutor de urgență."
+		},
+		{
+			"title": "Zile reci, ploioase și cu vânt",
+			"text": "Poartă straturi pe care le poți scoate și acoperă pielea expusă când e frig. Ploaia și transpirația pot face hainele și suprafețele periculos de reci, iar frigul sever poate cauza degerături sau hipotermie. Gheața sau vizibilitatea slabă sunt un motiv bun să te antrenezi în interior în ziua respectivă."
+		},
+		{
+			"title": "Verifică terenul",
+			"text": "Caută gropi, pietriș liber, rădăcini, trotuare denivelate, iluminat slab și treceri de drum. Pantele schimbă încărcarea mușchilor și a articulațiilor. Pe un traseu nou, începe într-un ritm confortabil, evită sprinturile cu efort maxim și poartă încălțăminte cu priză bună pentru suprafața respectivă."
+		},
+		{
+			"title": "Verifică echipamentul din parc",
+			"text": "Băncile, balustradele și barele de tracțiuni pot fi uzate de vreme, slăbite sau neconstruite pentru exerciții dinamice. Caută muchii ascuțite, rugină, piese rupte și suporturi care se clatină. Nu te atârna de nimic decât dacă este clar construit să te susțină. Lasă mult loc bicicliștilor, copiilor și altor utilizatori ai parcului."
+		},
+		{
+			"title": "Verifică din nou de fiecare dată",
+			"text": "Condițiile de afară se schimbă, așa că verifică din nou de fiecare dată când ieși. Pe vreme periculoasă, treci la o sesiune în interior sau cu impact redus și alege trasee și mișcări potrivite pentru lumină, teren și experiența ta."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: exercițiile pe căldură",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		},
+		{
+			"label": "CDC: prevenirea degerăturilor și a hipotermiei",
+			"url": "https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html"
+		},
+		{
+			"label": "CDC: recomandări de activitate fizică pentru adulți",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

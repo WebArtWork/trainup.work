@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Jak działa opór",
+			"text": "Hantel waży tyle samo w każdym punkcie, ale opór gumy zależy od tego, jak bardzo jest rozciągnięta, jak jest gruba i jakim jest produktem. Dłuższa lub grubsza guma nie jest równa ustalonemu ciężarowi, a kody kolorów różnią się między producentami. Punkt ruchu, w którym opór jest najwyższy, może się też różnić od ćwiczenia z wolnym ciężarem."
+		},
+		{
+			"title": "Opcje ćwiczeń",
+			"text": "Gumy dobrze sprawdzają się w wiosłowaniu, wyciskaniu, unoszeniu bokiem, wyciskaniu Pallofa i ściąganiu z prawidłowo zamontowanego zaczepu. Guma pętlowa wokół kolan dodaje lekki opór do ćwiczeń bioder. W niektórych ruchach możesz stanąć na gumie jako prostym zaczepie, o ile nie może się ześlizgnąć i strzelić w górę."
+		},
+		{
+			"title": "Sprawdzaj i zaczepiaj bezpiecznie",
+			"text": "Przed każdym treningiem sprawdź, czy nie ma pęknięć, cienkich miejsc, rozdarć, uszkodzonych uchwytów i zużytych łączników. Używaj zaczepu przeznaczonego do tego celu zgodnie z instrukcją producenta i upewnij się, że nie może się poluzować. Nie rozciągaj gumy zbyt mocno, nie pozwalaj jej ocierać się o ostre krawędzie i nie umieszczaj twarzy na drodze, którą by odskoczyła. Ześlizgująca się guma może powodować urazy oczu i inne szkody."
+		},
+		{
+			"title": "Progresja i zapisywanie",
+			"text": "Dodawaj kontrolowane powtórzenia, przejdź na gumę o większym oporze lub zmień ustawienie stóp albo odległość od zaczepu, o ile nowe ustawienie pozostaje bezpieczne. Napięcie zmienia się wraz z długością, więc zapisuj, jakiej gumy lub jakiego ustawienia używasz; jej kolor nie poda precyzyjnego ciężaru w kilogramach. Nie zwiększaj gwałtownie jednocześnie napięcia gumy i zakresu."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "W Profilu wpisz opór gum, które masz. Licz gumy jako dostępne tylko wtedy, gdy masz bezpieczny zaczep do ćwiczenia, które planujesz. Jeśli nie możesz potwierdzić zaczepu, stanu gumy lub swojej przestrzeni, wybierz bezpieczniejszą alternatywę."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: bezpieczeństwo ćwiczeń z gumami oporowymi",
+			"url": "https://abuhb.nhs.wales/files/patient-information-leaflets1/physiotherapy/safety-advice-when-exercising-with-resistance-bands-or-tubing-piu1332/"
+		},
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

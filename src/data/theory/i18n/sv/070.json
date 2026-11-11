@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Träning i värme",
+			"text": "Värme och fuktighet kan få ett lätt pass att kännas mycket tyngre. Välj svalare tider och skuggiga rutter, börja försiktigt och drick tillräckligt för förhållandena. CDC rekommenderar att du avbryter och går till en sval plats om du känner dig svag eller yr. Förvirring, kollaps eller misstänkt värmeslag kräver akut hjälp."
+		},
+		{
+			"title": "Kalla, våta och blåsiga dagar",
+			"text": "Bär lager som du kan ta av och täck bar hud när det är kallt. Regn och svett kan göra kläder och ytor farligt kalla, och svår kyla kan orsaka köldskador eller nedkylning. Is eller dålig sikt är en bra anledning att träna inomhus den dagen."
+		},
+		{
+			"title": "Kontrollera marken",
+			"text": "Titta efter hål, löst grus, rötter, ojämn asfalt, dålig belysning och vägövergångar. Lutningar ändrar belastningen på dina muskler och leder. På en ny rutt, börja i bekvämt tempo, hoppa över sprintar med full kraft och bär skor med bra grepp för underlaget."
+		},
+		{
+			"title": "Kontrollera parkens utrustning",
+			"text": "Bänkar, räcken och räckstänger kan vara vittrade, lösa eller inte byggda för dynamiska övningar. Titta efter vassa kanter, rost, trasiga beslag och vingliga stöd. Häng inte i något om det inte uttryckligen är byggt för att bära dig. Ge cyklister, barn och andra parkbesökare gott om plats."
+		},
+		{
+			"title": "Kontrollera igen varje gång",
+			"text": "Förhållandena utomhus ändras, så titta igen varje gång du går ut. Vid farligt väder, byt till ett pass inomhus eller med låg belastning, och välj rutter och rörelser som passar ljuset, marken och din erfarenhet."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: träning i värme",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		},
+		{
+			"label": "CDC: förebygga köldskador och nedkylning",
+			"url": "https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html"
+		},
+		{
+			"label": "CDC: rekommendationer om fysisk aktivitet för vuxna",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

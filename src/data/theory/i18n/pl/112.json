@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Sposoby pomiaru",
+			"text": "Nowy rekord obciążenia łatwo zauważyć, ale 10 kontrolowanych powtórzeń z ciężarem, który kiedyś pozwalał na siedem, to też postęp. W ćwiczeniach z masą ciała możesz robić postępy, obniżając podwyższenie w pompce, zwiększając zakres ruchu lub przechodząc od powtórzeń z pomocą do powtórzeń bez pomocy."
+		},
+		{
+			"title": "Szacowane i testowane maksima",
+			"text": "Twój jednopowtórzeniowy maksymalny ciężar (1RM) to największe obciążenie, które możesz podnieść raz z akceptowalną techniką. Wzory mogą go szacować z lżejszych serii, ale szacunki są mniej wiarygodne między ćwiczeniami, przy wyższej liczbie powtórzeń i między różnymi osobami. Początkujący nie potrzebują testów maksimum, by śledzić postępy."
+		},
+		{
+			"title": "Porównuj podobne z podobnym",
+			"text": "Utrzymuj chwyt, głębokość, tempo, sprzęt i odpoczynek w miarę takie same, gdy porównujesz treningi. Cięższy przysiad częściowy nie jest automatycznie równy lżejszemu przysiadowi w pełnym zakresie. Większa kontrola, pewność lub wytrzymałość przy tym samym obciążeniu też jest poprawą, z nowym maksimum lub bez."
+		},
+		{
+			"title": "Przykład",
+			"text": "Wiosłowanie przechodzi z 3 × 8 na 3 × 12 z tym samym hantlem i podobną techniką. Możesz wtedy spróbować niewielkiego zwiększenia obciążenia i znów przechodzić przez zakres powtórzeń."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "TrainUp nie zaleca ciężarów: obciążenie wybierasz sam. Twój plan podaje serie i powtórzenia dla każdego ćwiczenia, a podczas treningu zapisujesz powtórzenia, które faktycznie wykonałeś."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: praktyczne wskazówki",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

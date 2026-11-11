@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Zapis czteroczęściowy",
+			"text": "Tempo często zapisuje się jako cztery liczby: faza opuszczania, pauza na dole, faza podnoszenia i pauza na górze. W przysiadzie 3-1-1-0 oznacza opuszczanie przez trzy sekundy, sekundę pauzy na dole, wstawanie w jedną sekundę i natychmiastowe rozpoczęcie następnego powtórzenia. Nie każdy system podaje fazy w tej samej kolejności, więc instrukcje muszą mówić, jakiego zapisu używają."
+		},
+		{
+			"title": "Dlaczego kontrola pomaga",
+			"text": "Wolna faza opuszczania może powstrzymać odbijanie się, ujawnić problemy z równowagą i sprawić, że lekkie obciążenia będą wystarczająco trudne do ćwiczenia umiejętności. Krótka pauza może pomóc poczuć pozycję w punkcie krytycznym. Celowo szybkie podnoszenie może pomagać w pracy nad siłą lub mocą, gdy technika jest bezpieczna, a obciążenie pasuje."
+		},
+		{
+			"title": "Tempo a hipertrofia",
+			"text": "Badania nie wykazały, że bardzo wolne powtórzenia niezawodnie dają większy wzrost. Stanowisko ACSM z 2026 roku wykazało, że czas pod napięciem nie był spójnym czynnikiem przy porównywaniu różnych planów treningowych. Skrajnie wolny ruch może zmniejszyć obciążenie lub łączną liczbę powtórzeń, jaką wykonasz, i może działać przeciw Twojemu głównemu celowi."
+		},
+		{
+			"title": "Przykład",
+			"text": "Jeśli uczysz się zawiasu, opuszczanie hantla przez dwie do trzech sekund daje czas na utrzymanie ciężaru blisko i poczucie ruchu bioder do tyłu. Gdy wzorzec jest spójny, normalna kontrolowana szybkość może wystarczyć. Rzut piłką lekarską lub skok mają być szybkie, więc ich nie zwalniaj."
+		},
+		{
+			"title": "Porównywanie serii",
+			"text": "Oceniając postęp, porównuj serie wykonane w podobnym zakresie i z podobną szybkością. Dodanie ciężaru przy skróceniu fazy opuszczania może nie być prawdziwą poprawą. O ile umiejętność nie wymaga ustalonego tempa, skup się na stałych, kontrolowanych powtórzeniach i głównym celu, a nie licz każdej sekundy."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Przegląd kontinuum powtórzeń",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

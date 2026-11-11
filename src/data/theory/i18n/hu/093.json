@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Az összstresszed",
+			"text": "Az edzés csak egy része a stressznek, amit cipelsz. A rossz alvás, az utazás, a megterhelő munka, az érzelmi megterhelés, a hőség és a közelmúltbeli betegség mind befolyásolhatja a koncentrációdat, a koordinációdat és azt, mennyire nehéznek érződik a munka. A felkészültség nem diagnózis, és egyetlen pontszám sem ragadja meg."
+		},
+		{
+			"title": "Egyszerű bejelentkezés",
+			"text": "Edzés előtt vedd észre az alvásodat, az energiádat, a motivációdat, az izomlázadat és az új tüneteket. Hasonlítsd őket ahhoz, ami neked normális, ne valaki más számaihoz. A bemelegítés második ellenőrzést ad: ha a mozdulatok váratlanul nehezek, vagy a kontrollod nem megfelelő, egy megterhelő edzést lehet, hogy módosítani kell."
+		},
+		{
+			"title": "Igazítás egy gyenge napon",
+			"text": "Egy alacsony energiájú napon csökkentsd a terhelést, rövidítsd az edzést, válassz egyszerűbb gyakorlatokat, vagy menj inkább egy könnyű sétára. Egy normál napon végezd el a tervet úgy, ahogy van leírva. Ne tegyél pihenőnappá minden rövid visszaesést. Több edzésen át tartó trendek többet mondanak egyetlen értékelésnél."
+		},
+		{
+			"title": "Betegség és biztonság",
+			"text": "A láz, az egész testet érintő betegség, a mellkasi tünetek vagy a szokatlan légszomj okot adnak arra, hogy kihagyd a kemény edzést, és orvosi tanácsot kérj. A népszerű „nyakellenőrzés” csak durva ökölszabály, és nem ad felmentést a mozgásra betegség közben."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A TrainUp nem ír elő súlyokat, ezért minden nap te választod a terhelést. A terved csak akkor változik, ha újragenerálod, az egyes edzések után általad értékelt erőfeszítés (RPE), a jelentett fájdalom és az alapján, hogy az egyes edzésekből mennyit teljesítettél."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: alvásajánlások",
+			"url": "https://www.cdc.gov/sleep/about/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: mellkasi fájdalom és sürgősségi tünetek",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		}
+	]
+}

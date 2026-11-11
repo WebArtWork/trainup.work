@@ -11,7 +11,7 @@
 	"Startseite",
 	"Alle Rechte vorbehalten.",
 	"Unternehmensbild",
-	"Eine mobile App, die einen machbaren Trainingsplan für dein Ziel, dein Level, deine Ausrüstung, deinen freien Platz und deinen Zeitplan erstellt — ohne Prompts und Chats.",
+	"Eine mobile App, die einen machbaren Trainingsplan für dein Ziel, dein Level, deine Ausrüstung, deinen freien Platz und deinen Zeitplan erstellt, ohne Prompts und Chats.",
 	"Mobile Trainings-App · in Entwicklung",
 	"Ein realistischer Trainingsplan für deine Ausrüstung und deinen Platz",
 	"Wähle Ziel, Level, Zeitplan, Ausrüstung und freien Platz zum Trainieren — TrainUp erstellt ein machbares Programm, führt dich mit Übungsbildern durch jedes Training und passt die nächsten Einheiten an dein Befinden an.",
@@ -771,5 +771,6 @@
 	"Deine Daten",
 	"Eintrag",
 	"Einträge",
-	"Keine Einträge"
+	"Keine Einträge",
+	"Theories"
 ]

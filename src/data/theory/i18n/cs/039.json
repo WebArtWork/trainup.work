@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Tři kategorie",
+			"text": "Cviky proti extenzi brání nadměrnému prohýbání dolní části zad, například plank nebo dead bug. Cviky proti rotaci kladou odpor kroucení, například Pallof press s bezpečně ukotvenou gumou. Cviky proti úklonu kladou odpor ohýbání do stran, například boční plank nebo nošení zátěže v jedné ruce. Na kontrole trupu se podílejí břišní stěna, svaly páteře, bránice i kyčle."
+		},
+		{
+			"title": "Příklady techniky",
+			"text": "U planku na předloktích vyrovnejte žebra a pánev, odtlačujte podlahu pažemi a při držení polohy dál dýchejte. U dead bugu pohybujte opačnou paží a nohou jen tak daleko, aby trup zůstal kontrolovaný. U bočního planku držte rovnou, podepřenou linii a nenechte kyčle klesnout."
+		},
+		{
+			"title": "Progrese",
+			"text": "Začněte krátkými výdržemi a krátkými pákami. Boční plank s oporou kolena může předcházet plnému bočnímu planku a dead bug s ohnutými koleny natahování nohou. Ztížit to můžete prodloužením páky, přidáním střední zátěže nebo delším kontrolovaným držením. Pokud se vám rozpadne držení těla, cvik je příliš těžký. Při postupu sledujte dýchání a držení těla."
+		},
+		{
+			"title": "Víc než plank",
+			"text": "Zkracovací cviky a další cviky s ohnutím trupu také trénují břišní svaly, ale nepokrývají všechny úkoly středu těla. I přítahy, dřepy a nošení zátěže nutí trup pracovat, aby zůstal stabilní. Nemusíte trénovat všechny směry v jednom tréninku. Zařaďte během týdne několik kontrolovaných cviků na střed těla, vybraných podle vašich zkušeností a toho, jak je snáší vaše dolní část zad. Důležitější je dělat je pravidelně a postupovat tempem, které snášíte."
+		}
+	],
+	"sources": [
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

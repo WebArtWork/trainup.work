@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "De ce contează somnul pentru antrenament",
+			"text": "Somnul ajută la repararea țesuturilor, la funcția sistemului nervos, la atenție și la învățarea îndemânărilor de mișcare. După un somn slab, o sarcină obișnuită poate părea mai grea, iar motivația sau coordonarea pot scădea. O noapte scurtă nu îți șterge progresul, dar somnul scurtat din nou și din nou poate afecta calitatea antrenamentului și sănătatea ta generală."
+		},
+		{
+			"title": "Durată și calitate",
+			"text": "Ghidurile de sănătate publică recomandă șapte ore sau mai mult pentru adulții de 18–60 de ani, cu intervale specifice vârstei după aceea. Trezirile dese, un program neregulat sau senzația că nu te simți odihnit pot conta chiar și când timpul petrecut în pat pare suficient de lung. Nevoile diferă, deci cantitatea potrivită este individuală."
+		},
+		{
+			"title": "Obiceiuri care ajută",
+			"text": "Culcă-te și trezește-te la ore destul de constante, ține dormitorul întunecat și confortabil, limitează lumina puternică înainte de culcare și fii atent la cafeina târzie. Lumina zilei și exercițiul regulat pot ajuta la menținerea unui ritm previzibil al somnului. Nu-ți judeca somnul doar după scorul unui singur dispozitiv purtabil."
+		},
+		{
+			"title": "Antrenamentul după o noapte proastă",
+			"text": "După o noapte deosebit de proastă, dacă echilibrul sau concentrarea ți se par dereglate, ia în considerare o sesiune ușoară de tehnică, o plimbare ușoară sau un antrenament mai mic. O zi grea ocazională nu este periculoasă în sine, dar forțarea unor ridicări maxime când ești epuizat, iar și iar, nu îți face bine. Dispozitivele de urmărire a somnului dau estimări, nu măsurători clinice. Dacă ai somnolență puternică continuă sau insomnie, vorbește cu un medic."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: recomandări de somn pentru adulți",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		},
+		{
+			"label": "ACSM 2026: dozarea exercițiului, refacerea și progresia",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

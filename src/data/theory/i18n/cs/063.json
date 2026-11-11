@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Začněte lehkou zkouškou",
+			"text": "Udělejte pohyb bez váhy nebo s nejlehčím náčiním, které máte. Přidejte malou zátěž pro zahřívací sérii a ověřte, že rozsah pohybu, dýchání a tempo zůstávají stabilní. Každý pohyb má svou vlastní pracovní váhu: zátěž, která je pohodlná pro přítah, může být pro upažování mnohem příliš těžká."
+		},
+		{
+			"title": "Opakování v rezervě",
+			"text": "Opakování v rezervě (RIR) je, kolik dalších opakování se správným provedením byste podle sebe ještě zvládli. Pro obecný trénink je praktickým výchozím bodem ukončovat mnoho sérií se zhruba dvěma nebo třemi opakováními v rezervě, i když to nemusíte splnit pokaždé. Pokud při plánované sérii 10 opakování cítíte, že byste zvládli dalších 10, může být zátěž pro váš cíl příliš lehká."
+		},
+		{
+			"title": "Upravujte během tréninku",
+			"text": "Řekněme, že plán žádá tři série po osmi až dvanácti opakováních. Pokud vaše první série skončí osmi opakováními s roztřesenou technikou a bez rezervy, snižte zátěž. Pokud je dvanáct opakování plynulých a stále docela snadných, zkuste v další sérii malé zvýšení. Odpočívejte dost dlouho, abyste poznali, zda problém způsobila váha, nebo únava."
+		},
+		{
+			"title": "Když jsou skoky ve váze příliš velké",
+			"text": "Pokud je další jednoručka příliš těžká, přidejte opakování, kontrolovanou pauzu nebo další kvalitní sérii. Pokud je těžká i vaše nejlehčí váha, použijte vlastní váhu, odporovou gumu nebo jinou páku. Nikdy se nenamáhejte neúspěšnými opakováními jen proto, abyste dosáhli určitého počtu."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Váš plán dává série, opakování a odpočinek, ale žádné váhy, takže zátěž volíte vy. Během tréninku zaznamenávejte opakování, která jste skutečně udělali, a po něm ohodnoťte úsilí tréninku od 1 do 10. Pokud pocítíte bolest, dostanete závrať nebo stále ztrácíte techniku, přestaňte nebo cvik změňte; nepřidávejte odpor. „Cítím bolest“ okamžitě ukončí aktuální cvik."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Shrnutí doporučení ACSM 2026 k silovému tréninku",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Mayo Clinic: bezpečnost a technika posilování",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

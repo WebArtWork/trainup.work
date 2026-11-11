@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Sok ok, sok válasz",
+			"text": "Az emberek különböző okokból éreznek hátkellemetlenséget, és még a hasonló tüneteknek is lehetnek különböző okai. Egyesek jól tűrik a hajlítást, mások egy semlegesebb törzset részesítenek előnyben. A számodra legjobb gyakorlat a tüneteidtől, a teherbírásodtól, a tapasztalatodtól és a klinikusod esetleges tanácsaitól függ."
+		},
+		{
+			"title": "Kezeld az igénybevételt",
+			"text": "Gyakorold a feszítést anélkül, hogy túl sokáig visszatartanád a lélegzetedet, tanulj meg egy kontrollált csípőhajlítást könnyű súllyal, és próbálj támasztott vagy padlón végzett gyakorlatokat, ha azok megfelelnek. Egy gyengéd bird dog vagy dead bug nehéz súlyok nélkül edzi a törzskontrollt. Egyetlen testtartás sem garantálja a biztonságot, és a „semleges gerinc” tartása nem jelenti azt, hogy minden normális gerincmozgást ki kell zárnod."
+		},
+		{
+			"title": "Haladás az idő során",
+			"text": "Ha kényelmesnek érződik, lassan tedd nehezebbé az edzést ismétlések, tartomány vagy terhelés hozzáadásával. Jegyezd fel, hogyan érzi magát a hátad az edzések közben és után. Ha a tünetek romlanak, tedd könnyebbé a dolgokat. Tartós fájdalom esetén kérj szakmai tanácsot; egy alkalmazás gyakorlatválasztása nem pótolhatja."
+		},
+		{
+			"title": "Sürgős jelek",
+			"text": "Az új hólyag- vagy végbélváltozások, az ágyék körüli zsibbadás, a súlyos vagy romló lábgyengeség, vagy a súlyos sérülés utáni hátfájás sürgős orvosi vizsgálatot igényel."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Add hozzá az alsó hátadat korlátként a Profilban, megjegyzéssel, hogy a terv olyan gyakorlatokat válasszon, amelyek illenek. Minden edzés után hozzáadhatsz jegyzeteket, és jelezheted a fájdalmat a testtáj és a gyakorlat megadásával. Ha egy gyakorlat fájdalmat vált ki, a „Fájdalmat érzek” véget vet neki, és addig nem kerül a terveidbe, amíg a Profilban vissza nem kapcsolod. A TrainUp nem diagnosztizálja a hátfájás okát."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: hátfájás és azonnali figyelmeztető jelek",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Medidas clave",
+			"text": "La frecuencia cardíaca en reposo es tu pulso durante un descanso tranquilo. La frecuencia cardíaca máxima (FCmáx) es, aproximadamente, la frecuencia más alta que puede alcanzar tu corazón en un esfuerzo máximo. Las ecuaciones basadas en la edad estiman la FCmáx pero no la miden. La conocida 220 − edad y la de Tanaka, 208 − 0,7 × edad, son promedios de la población, y para una persona concreta pueden estar bastante desviadas."
+		},
+		{
+			"title": "Zonas basadas en porcentajes",
+			"text": "Un enfoque sencillo de salud pública sitúa la intensidad aeróbica moderada en torno al 50–70 % de la FCmáx estimada y la intensidad alta en torno al 70–85 %. Las apps de forma física pueden mostrar cinco zonas más estrechas, pero cada sistema usa límites distintos. El color de una zona o un único valor de pulso no puede demostrar dónde está tu umbral metabólico personal."
+		},
+		{
+			"title": "Reserva de frecuencia cardíaca (FCR)",
+			"text": "El método de Karvonen usa tanto tu pulso máximo como el de reposo: FC objetivo = FC en reposo + fracción de intensidad × (FCmáx − FC en reposo). Por ejemplo, si la FCmáx es 190 y la FC en reposo es 60, el 60 % de la FCR da 60 + 0,60 × 130 = 138 lpm. Un objetivo del 60 % de la FCR es distinto del 60 % de la FCmáx."
+		},
+		{
+			"title": "La prueba del habla",
+			"text": "Con un esfuerzo moderado, normalmente puedes hablar pero no cantar con comodidad. Con un esfuerzo intenso, decir más de unas pocas palabras resulta difícil. La prueba es útil cuando un dispositivo de pulsera es impreciso o no tienes uno. Las lecturas de frecuencia cardíaca pueden ir con retraso en los intervalos cortos y cambian con el calor, la deshidratación, el estrés, la enfermedad o los medicamentos."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Para una sesión aeróbica suave, elige un ritmo al que aún puedas mantener una conversación. Observa cómo cambia tu pulso a lo largo de varias semanas con el mismo ritmo. Esa tendencia puede decirte más que perseguir una «zona quemagrasa» fija."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Después de cada entrenamiento valoras el esfuerzo de toda la sesión de 1 a 10, lo cual sirve con o sin datos de frecuencia cardíaca, y las señales de la respiración te ayudan a juzgarlo. Si tienes una enfermedad cardíaca o tomas medicamentos que afectan a tu pulso, pide a tu médico una orientación que se ajuste a ti."
+		}
+	],
+	"sources": [
+		{
+			"label": "Guía de frecuencia cardíaca de la American Heart Association",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Tanaka et al., ecuación de la FCmáx",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "CDC: prueba del habla",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Prioritatea mai întâi",
+			"text": "Oboseala se acumulează pe parcursul unei sesiuni, deci mișcarea care contează cel mai mult pentru obiectivul tău se pune de obicei acolo unde o poți face bine. Genuflexiunile grele, împingerile și tragerile grele vin adesea la început în planurile de forță. Abilitățile noi, complexe, merg mai bine și ele cu concentrare proaspătă și practică controlată. Evită să lași cel mai dificil exercițiu din punct de vedere tehnic pentru final, când ești cel mai obosit."
+		},
+		{
+			"title": "Exerciții compuse și de izolare",
+			"text": "Mișcările cu mai multe articulații antrenează mai mulți mușchi deodată și pot cere mai multă coordonare și efort al întregului corp decât flexiile sau ridicările laterale. O ordine frecventă este încălzirea, ridicările principale, ridicările secundare, izolarea și, opțional, condiția fizică. Este un obicei practic, iar unele sesiuni și unele persoane vor avea nevoie de altă ordine."
+		},
+		{
+			"title": "Ce arată dovezile",
+			"text": "Dovezile recente ale ACSM arată că exercițiile de forță făcute aproape de începutul sesiunii pot îmbunătăți forța la acele mișcări. Creșterea musculară pare mai puțin afectată de ordinea exercițiilor în multe comparații. Dacă tracțiunile mai bune sunt obiectivul tău principal, fă-le înaintea exercițiilor care îți obosesc brațele și spatele, chiar dacă asta înseamnă că genuflexiunile vin mai târziu."
+		},
+		{
+			"title": "Zona centrală și condiția fizică",
+			"text": "Un plank greu sau un cărat chiar înainte de genuflexiunile grele poate obosi mușchii de care ai nevoie ca să stabilizezi genuflexiunea. Mobilitatea ușoară și activarea pot veni mai întâi, iar lucrul mai greu pentru zona centrală se poate potrivi mai bine după ridicările principale. Dacă condiția fizică este obiectivul tău principal, cardio poate fi blocul principal, iar lucrul de forță se aranjează în jurul lui."
+		},
+		{
+			"title": "Exemplu",
+			"text": "O sesiune de forță de 40 de minute ar putea arăta așa: o încălzire de cinci minute, apoi genuflexiuni goblet ca ridicare principală, ramat, o variantă de flotare, o flexie din șold și o serie scurtă de planșe laterale. O sesiune cu abilitatea pe primul loc ar putea începe în schimb cu o progresie controlată de tracțiuni cu greutatea corpului, înaintea celorlalte exerciții."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Principii mai vechi ACSM privind ordinea exercițiilor",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

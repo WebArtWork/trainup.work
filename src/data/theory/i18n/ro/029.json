@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ce înseamnă „cedare”",
+			"text": "Cedarea concentrică este momentul în care încerci, dar nu mai poți face o altă repetare de ridicare. Cedarea tehnică vine mai devreme, când nu îți mai poți păstra amplitudinea planificată sau o mișcare sigură. La o ridicare complexă poți ajunge la cedare tehnică mult înainte ca mușchii țintă să ajungă la cedare musculară completă."
+		},
+		{
+			"title": "Antrenament greu fără cedare",
+			"text": "În declarația de poziție ACSM 2026, antrenamentul până la cedarea momentană nu a dat în mod sigur rezultate mai bune la forță, hipertrofie sau putere. Seriile care se termină cu aproximativ două sau trei repetări în rezervă oferă adesea un stimul de antrenament util, cu mai puțină oboseală. Cât de aproape de cedare ar trebui să mergi depinde de obiectiv, sarcină, exercițiu, experiență și situație."
+		},
+		{
+			"title": "Riscul variază după exercițiu",
+			"text": "A merge aproape de cedare la un aparat stabil sau la un exercițiu de izolare cu risc mic este foarte diferit de a o face la o genuflexiune grea cu bara, la o împingere deasupra capului fără sprijin sau la o mișcare explozivă necunoscută. Pierderea încordării trunchiului, pierderea controlului la coborâre sau lipsa unei căi sigure de a opri sunt motive să închei o serie. Dacă te antrenezi singur, fără echipament de siguranță, este încă un motiv să păstrezi repetări în rezervă."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Dacă faci ramat cu 15 kg, douăsprezece repetări curate, și crezi că ai mai putea face două, seria este în jur de 2 RIR. Nu trebuie să o dovedești forțând repetările treisprezece și paisprezece. Un sportiv experimentat poate uneori duce o serie aproape de cedare la un aparat sigur, dintr-un motiv anume, dar asta nu ar trebui să fie planul pentru fiecare sesiune. Țintește un efort și o calitate pe care le poți repeta și nu trata cedarea ca pe o realizare de colecționat."
+		},
+		{
+			"title": "Când te oprești",
+			"text": "Încheie orice serie dacă simți o durere neobișnuită, amețeală, o slăbiciune bruscă sau dacă nu poți controla mișcarea. Efortul muscular obișnuit este diferit de aceste semne de alarmă."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Studiu RPE bazat pe RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		}
+	]
+}

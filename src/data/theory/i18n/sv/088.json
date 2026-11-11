@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Varför sömn spelar roll för träning",
+			"text": "Sömn hjälper till med vävnadsreparation, nervsystemets funktion, uppmärksamhet och inlärning av rörelsefärdigheter. Efter dålig sömn kan en normal belastning kännas tyngre, och din motivation eller koordination kan sjunka. En kort natt raderar inte dina framsteg, men att upprepade gånger korta sömnen kan skada kvaliteten på din träning och din allmänna hälsa."
+		},
+		{
+			"title": "Längd och kvalitet",
+			"text": "Folkhälsoriktlinjer rekommenderar sju timmar eller mer för vuxna i åldern 18–60, med åldersspecifika intervall därefter. Att vakna ofta, ett oregelbundet schema eller att inte känna sig utvilad kan spela roll även när din tid i sängen ser tillräcklig ut. Behoven skiljer sig åt, så rätt mängd är individuell."
+		},
+		{
+			"title": "Vanor som hjälper",
+			"text": "Gå och lägg dig och stig upp vid ganska jämna tider, håll sovrummet mörkt och bekvämt, begränsa starkt ljus före sänggåendet och se upp med sent koffein. Dagsljus och regelbunden motion kan hjälpa till att göra din sömnrytm förutsägbar. Bedöm inte din sömn utifrån en enda siffra från en bärbar enhet."
+		},
+		{
+			"title": "Träning efter en dålig natt",
+			"text": "Efter en särskilt dålig natt, om din balans eller koncentration känns avig, överväg ett lättare teknikpass, en lugn promenad eller ett mindre pass. En enstaka tuff dag är inte farlig i sig, men att gång på gång tvinga fram maxlyft när du är utmattad gör dig ingen nytta. Sömnmätare ger uppskattningar, inte kliniska mätningar. Om du har ihållande kraftig sömnighet eller sömnlöshet, tala med en läkare."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: sömnrekommendationer för vuxna",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		},
+		{
+			"label": "ACSM 2026: träningsdos, återhämtning och progression",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

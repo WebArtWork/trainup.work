@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Omedelbar energi med hög effekt",
+			"text": "ATP-kreatinfosfatsystemet (fosfagensystemet) kan snabbt fylla på ATP under korta ansträngningar med hög effekt, som ett hopp, en sprintstart eller ett tungt set. Det kan hålla maximal effekt igång bara en kort stund, vilket hjälper till att förklara varför flera minuters vila kan återställa prestationen mellan hårda styrke- eller snabbhetsansträngningar."
+		},
+		{
+			"title": "Snabb nedbrytning av kolhydrater",
+			"text": "Anaerob glykolys levererar ATP från kolhydrater, och reaktionerna som producerar det behöver inte syre. Den betyder mest under hårda ansträngningar som varar från många sekunder till några minuter. Laktat kallas ofta ”avfall” eller får skulden som enda orsak till värk, men kroppen använder det också som bränsle och som metabolisk signal."
+		},
+		{
+			"title": "Uthållig aerob produktion",
+			"text": "Oxidativ ämnesomsättning i mitokondrierna använder syre för att göra ATP av kolhydrater och fetter. Den driver långa promenader, cykling, jämn löpning och mycket av återhämtningen mellan hårda intervaller. Även korta ansträngningar får ett visst aerobt bidrag, eftersom systemen aldrig slås på och av i separata tidsfack."
+		},
+		{
+			"title": "Varför varaktighet och vila spelar roll",
+			"text": "En nästan maximal sprint på fem sekunder och en promenad på 30 minuter kräver mycket olika mängd effekt. Upprepade hårda intervaller på 20 sekunder med korta vilor gör det svårare att hålla uppe din effekt när tröttheten byggs upp. Tunga skivstångsset behöver vanligen längre vilor så att du behåller kraft och teknik, och målet är inte att bli så andfådd som möjligt."
+		},
+		{
+			"title": "Att tillämpa det i praktiken",
+			"text": "Ge dig själv tillräcklig återhämtning när kraft eller snabbhet är huvudmålet. Använd jämn måttlig aktivitet för att bygga aerob kapacitet. Använd intervaller för kondition när de passar, och anpassa arbetet och vilan efter din nuvarande förmåga. En hög puls under lyft betyder inte att passet gav dig samma aeroba stimulans som uthållig konditionsträning."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO:s riktlinjer för aerob aktivitet",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Zaplanuj budżet czasu",
+			"text": "Całkowity czas treningu obejmuje przygotowanie się, rozgrzewkę, ustawienie każdego ćwiczenia, serie robocze, przerwy, przechodzenie między ćwiczeniami i opcjonalne wyciszenie. W treningu siłowym czas faktycznego podnoszenia to często niewielka część całości. Trzy serie po 40 sekund z dwiema minutami przerwy między nimi zajmują około sześciu minut na to ćwiczenie, jeszcze przed jakąkolwiek zmianą sprzętu."
+		},
+		{
+			"title": "Proste oszacowanie",
+			"text": "Dodaj czas rozgrzewki, długość każdej serii roboczej, przerwy między seriami i zmiany stanowisk. Na przykład cztery ćwiczenia × trzy serie po 40 sekund to osiem minut faktycznej pracy. Jeśli przy każdym ćwiczeniu są dwie przerwy po 90 sekund, dodaj dwanaście minut. Sześciominutowa rozgrzewka i około ośmiu minut na przygotowanie i zmiany stanowisk dają w sumie około 34 minut treningu. Dłuższe przerwy przy ciężkiej pracy mogą mocno zmienić ten wynik."
+		},
+		{
+			"title": "Opcja na 20 minut",
+			"text": "Skróć rozgrzewkę, wybierz dwa lub trzy główne wzorce ruchowe i wykonaj po kilka dobrych serii każdego. Połączenie pchania i ciągnięcia może zaoszczędzić czas na zmianach, jeśli pozwalają na to Twój sprzęt i technika, ale nie skracaj przerw tak bardzo, żeby stracić główny cel siłowy."
+		},
+		{
+			"title": "Opcje na 30–45 minut",
+			"text": "Dodaj ćwiczenie z zawiasem biodrowym lub wykrok, ćwiczenie na mięśnie tułowia albo dodatkowe serie dla swojego priorytetowego wzorca. Jeśli Twoim celem jest ogólna sprawność, wykorzystaj pozostały czas na pracę aerobową. Nie musisz wypełniać każdej wolnej minuty „dobijaniem”."
+		},
+		{
+			"title": "Chroń swoje priorytety",
+			"text": "Gdy czasu jest mało, najpierw odpuść mało ważne ćwiczenia dodatkowe. Zostaw rozgrzewkę i nie spiesz się z ciężkimi ćwiczeniami złożonymi. Jeśli cały program ciągle się przedłuża, planuj mniej na każdy trening, zamiast liczyć na tempo, którego nie utrzymasz."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "W Profilu ustaw długość treningu na tyle minut, ile naprawdę masz. Jeśli wykonasz główną część z dobrą techniką, trening się udał, nawet jeśli pominiesz opcjonalne dodatki."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC: praktyczne planowanie aktywności",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

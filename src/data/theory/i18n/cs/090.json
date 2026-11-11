@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Krátkodobé a dlouhodobé vzorce",
+			"text": "Pokročilí sportovci někdy záměrně používají funkční přetížení a jejich výkon se po dostatečné regeneraci vrátí. Nefunkční přetížení způsobuje delší pokles výkonu bez užitečného přínosu. Syndrom přetrénování je dlouhodobý stav s mnoha přispívajícími faktory a vyžaduje odborné posouzení, které vyloučí jiné příčiny."
+		},
+		{
+			"title": "Varovné signály",
+			"text": "Opakované poklesy výkonu, únava nepřiměřená vašemu tréninku, neobvyklá podrážděnost, narušený spánek, klesající motivace a přetrvávající bolest svalů mohou být varovné signály. Žádný z nich není specifický pro přetrénování. Pracovní stres, nemoc, nedostatečné jedení a mnoho zdravotních potíží mohou způsobit stejné příznaky."
+		},
+		{
+			"title": "Snižte stres, než přidáte víc",
+			"text": "Pokud se několik tréninků zdá neobvykle těžkých a váš výkon klesá, na čas snižte objem nebo intenzitu, dejte si víc regenerace a podívejte se na spánek a celkovou tréninkovou zátěž. Lehčí týden může dávat smysl, ale kolik ubrat, se u jednotlivých lidí liší. Nesnažte se „protlačit“ únavu, která se stále zhoršuje, jedním maximálním úsilím za druhým."
+		},
+		{
+			"title": "Vyhněte se chronickému přetížení",
+			"text": "Trénink zvyšujte postupně, náročné tréninky rozložte a sledujte trendy dokončených opakování, RPE a toho, jak se cítíte připraveni. Plánujte lehká období, když cestování, nemoc, těžká práce nebo jiné nároky přidávají k vašemu celkovému stresu. Další tréninky pomáhají, jen když se na ně tělo dokáže přizpůsobit."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Týden 4 každého plánu je lehčí odlehčovací týden. Když plán znovu vytvoříte, mění se po jednom kroku a nikdy z méně než 3 tréninků. Pokud byly 2 z vašich posledních 3 tréninků velmi těžké (RPE 9 nebo více) nebo dokončené z méně než 60 %, bude další plán lehčí. TrainUp syndrom přetrénování nediagnostikuje ani neléčí. Pokud sestupný trend pokračuje, odpočívejte a vyhledejte odbornou radu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: dávkování cvičení, regenerace a progrese",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "CDC: doporučení ke spánku pro dospělé",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		}
+	]
+}

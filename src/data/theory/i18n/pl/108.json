@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Korzyści i zgoda na ćwiczenia",
+			"text": "ACOG radzi, że wiele osób z niepowikłaną ciążą może kontynuować lub rozpocząć odpowiednią aktywność tlenową i kondycyjną siłową. Porozmawiaj o ćwiczeniach ze swoim specjalistą od opieki położniczej, zwłaszcza jeśli zaczynasz nową rutynę lub masz powikłania. Mogą Ci powiedzieć, czy Twoja ciąża jest medycznie niepowikłana. TrainUp nie może."
+		},
+		{
+			"title": "Dostosowuj do zmian",
+			"text": "Twoja równowaga, tolerancja ciepła, komfort oddychania i ruchy, które wolisz, mogą zmieniać się w trakcie ciąży. Wybieraj wygodne aktywności. Unikaj przegrzania, aktywności z realnym ryzykiem upadków lub zderzeń i pozycji, które powodują zawroty głowy. Jeśli dużo ćwiczyłaś przed ciążą, możesz za wskazaniem lekarza utrzymać część wymagającej aktywności, ponieważ ciąża nie oznacza automatycznie całkowitego odpoczynku."
+		},
+		{
+			"title": "Sygnały ostrzegawcze",
+			"text": "Przerwij ćwiczenia i skontaktuj się ze swoim lekarzem położnikiem, jeśli masz krwawienie z pochwy, wyciek płynu, ból w klatce piersiowej, zawroty głowy, ból lub obrzęk łydki, bolesne skurcze lub nietypową zadyszkę. Objawy alarmowe wymagają pilnej opieki. Nie próbuj obchodzić objawów specyficznych dla ciąży przez zamianę ćwiczeń."
+		},
+		{
+			"title": "Po porodzie",
+			"text": "To, kiedy możesz wrócić do ćwiczeń, zależy od porodu, Twojej regeneracji, objawów ze strony dna miednicy i innych osobistych czynników. Spokojny marsz może być w porządku dla niektórych osób. Utrzymujący się ból, popuszczanie, uczucie ciężkości lub inne problemy wymagają przeglądu przez specjalistę, a żaden stały harmonogram nie pasuje wszystkim. TrainUp nie buduje programów dla ciąży, dna miednicy ani po operacjach."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACOG: ćwiczenia w ciąży",
+			"url": "https://www.acog.org/womens-health/faqs/exercise-during-pregnancy"
+		},
+		{
+			"label": "ACOG: ćwiczenia w ciąży i w połogu",
+			"url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period"
+		}
+	]
+}

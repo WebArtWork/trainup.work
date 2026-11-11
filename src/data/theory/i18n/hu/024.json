@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "A skála olvasása",
+			"text": "Az RIR 0 azt jelenti, hogy nem tudtál volna még egy teljes ismétlést megcsinálni a megegyezett technikával és tartománnyal. Az RIR 1 talán még egyet, az RIR 2 nagyjából kettőt jelent, és így tovább. Az emeléshez használt, gyakori RIR-alapú RPE-rendszerben a 0 RIR nagyjából a 10-es sorozat-RPE, a 2 RIR az RPE 8, a 3 RIR pedig az RPE 7."
+		},
+		{
+			"title": "Miért segít",
+			"text": "Ugyanaz a 20 kg-os súlyzó az egyik nap könnyűnek, a másikon nehéznek tűnhet. Az RIR becslése lehetővé teszi, hogy az aznapi felkészültségedhez igazíts, miközben hasonló erőkifejtési szintet célzol. Különösen hasznos, ha a súlyaid fix lépésekben nőnek, vagy ha egy saját testsúlyos gyakorlatot nem lehet kis lépésekben állítani."
+		},
+		{
+			"title": "Példa",
+			"text": "A terved három sorozat 8–12 evezést ír elő 2 RIR mellett. 12 kg-mal 12 kontrollált ismétlést csinálsz, és úgy érzed, hat még menne, tehát a terhelés valószínűleg túl könnyű. 18 kg-mal a formád a hetedik ismétlésnél széteshet, tehát ehhez a célhoz túl nehéz. 15 kg-mal tíz tiszta ismétlést csinálsz, és nagyjából kettő még menne, ez megfelel."
+		},
+		{
+			"title": "A pontosság korlátai",
+			"text": "A kezdőknek gyakran nehéz megjósolni, hány ismétlés maradt, különösen ismeretlen gyakorlatoknál vagy a kimerüléstől távoli sorozatoknál. A gyakorlat összetettsége, a sorozat hossza és a fáradtság is befolyásolja a becslést. Idővel pontosabb lehetsz, ha a tippjeidet időnként egy biztonságosan, felügyelet mellett végzett kemény sorozattal ellenőrzöd."
+		},
+		{
+			"title": "Programozás",
+			"text": "Az általános ellenállásedzésnél jól működik alapértelmezésként két-három ismétlést tartalékban hagyni. Egyes célok, gyakorlatok és tapasztalati szintek többet vagy kevesebbet kívánnak. Ha minden nehéz mozgásnál a 0 RIR-t hajszolod, az fáradtságot ad, és nincs rá szükséged a fejlődéshez."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Az RIR-rel válaszd ki a terhelésedet, és tartsd őszintén a technikádat a sorozatok alatt. Az edzés után adott erőfeszítés-értékelés az egész edzésre vonatkozik, ezért nem mondja meg az egyes sorozatok RIR-jét."
+		}
+	],
+	"sources": [
+		{
+			"label": "Zourdos és mtsai: RIR-alapú skála",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

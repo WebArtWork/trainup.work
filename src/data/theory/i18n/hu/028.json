@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Először a prioritás",
+			"text": "A fáradtság az edzés során halmozódik, ezért a célod szempontjából legfontosabb mozgás általában oda kerül, ahol jól meg tudod csinálni. A nehéz guggolások, nyomások és kemény húzások gyakran korán jönnek az erőtervekben. Az új, összetett készségek is jobban mennek friss koncentrációval és kontrollált gyakorlással. Ne tartsd a technikailag legnehezebb gyakorlatot az edzés végén egy lezárásnak, amikor a legfáradtabb vagy."
+		},
+		{
+			"title": "Összetett és izolációs gyakorlatok",
+			"text": "A többízületi mozgások több izmot edzenek együtt, és több koordinációt és egész testes erőfeszítést kívánhatnak, mint a csavarások vagy emelések. Gyakori sorrend: bemelegítés, fő emelések, másodlagos emelések, izoláció és opcionális kondicionálás. Ez gyakorlati szokás, és egyes edzések és emberek más sorrendet kívánnak."
+		},
+		{
+			"title": "Mit mutatnak a bizonyítékok",
+			"text": "A friss ACSM-bizonyítékok szerint az erősítő gyakorlatok az edzés elejéhez közel végzése javíthatja az erőt azokban a mozgásokban. Az izomnövekedést a sorrend sok összehasonlításban kevésbé befolyásolni látszik. Ha a jobb húzódzkodás a fő célod, végezd azokat a karjaidat és hátadat fárasztó gyakorlatok előtt, még ha emiatt a guggolások később is jönnek."
+		},
+		{
+			"title": "Core és kondicionálás",
+			"text": "Egy kemény plank vagy hordozás közvetlenül a nehéz guggolások előtt elfárasztja azokat az izmokat, amelyekre a guggolás stabilizálásához szükséged van. Könnyű mozgékonysági és aktiváló munka jöhet előbb, a nehezebb core-munka pedig jobban illhet a fő emelések utánra. Ha a kondicionálás a fő célod, a kardió lehet a fő blokk, az erősítés pedig köré szerveződik."
+		},
+		{
+			"title": "Példa",
+			"text": "Egy 40 perces erőedzés így nézhet ki: ötperces bemelegítés, majd kehelyguggolás fő emelésként, evezés, egy fekvőtámasz-változat, egy csípőhajlítás és egy rövid oldalplank-sorozat. Egy készség-központú edzés ehelyett kezdhet egy kontrollált, saját testsúlyos húzódzkodás-progresszióval a többi gyakorlat előtt."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Korábbi ACSM-elvek a gyakorlatok sorrendjéről",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

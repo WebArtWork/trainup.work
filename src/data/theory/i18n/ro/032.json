@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Pregătirea și mișcarea",
+			"text": "Stai în picioare cu tălpile la o distanță confortabilă și cu vârfurile la un unghi comod. Încordează trunchiul, lasă șoldurile și genunchii să se îndoaie împreună și păstrează presiunea echilibrată pe tălpi. Coboară controlat până la o adâncime la care tehnica rămâne stabilă, apoi împinge podeaua ca să te ridici. Unghiul trunchiului și cât înaintează genunchii vor varia în funcție de lungimea membrelor și de tipul de genuflexiune."
+		},
+		{
+			"title": "Adâncimea și avansarea genunchilor",
+			"text": "Nu există nicio regulă care să spună că genunchii trebuie să rămână în spatele vârfurilor. Ei înaintează în multe genuflexiuni, iar asta este normal. O genuflexiune mai adâncă poate fi utilă când o atingi confortabil și cu control, dar forțarea adâncimii prin articulații dureroase sau cu echilibru pierdut nu ajută. Ridicarea călcâielor sau schimbarea poziției picioarelor schimbă mișcarea, iar niciuna dintre ele nu face o genuflexiune mai bună în mod automat."
+		},
+		{
+			"title": "Greșeli frecvente și remedii",
+			"text": "Călcâiele care se ridică, genunchii care cad spre interior necontrolat și pierderea stabilității trunchiului înseamnă adesea că adâncimea, echilibrul sau sarcina nu se potrivesc încă cu ce poți controla. Încearcă o greutate mai mică, o pauză chiar deasupra punctului dificil sau un scaun ca țintă. Genunchii pot indica aproximativ în aceeași direcție cu vârfurile, fără a urma un traseu rigid."
+		},
+		{
+			"title": "Exemplu de progresie",
+			"text": "Începe cu ridicări de pe scaun sau cu genuflexiuni cu greutatea corpului. Adaugă o genuflexiune goblet când tiparul este sigur, apoi gantere sau o bară, dacă dorești. De exemplu, fă două serii de câte 8 repetări controlate înainte să adaugi sarcină. Variantele mai avansate sunt opționale și nu ai nevoie de ele ca să fii în formă."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Planul tău alege genuflexiuni cu greutatea corpului, goblet sau cu sarcină, potrivite cu echipamentul, nivelul, coordonarea și orice limitări setate în Profil, de exemplu la genunchi. Când progresezi, păstrează aceeași adâncime și aceeași tehnică, ca să reflecte progres real cifrele mai mari."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: tehnica antrenamentului cu greutăți (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

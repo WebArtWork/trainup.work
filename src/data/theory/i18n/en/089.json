@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Why it happens",
+			"text": "DOMS usually follows unfamiliar movements and repeated eccentric contractions, where a muscle produces force while it lengthens. Several processes in the muscle and surrounding tissue are involved. Leftover lactic acid is not the cause. How sore you get does not measure how good the workout was."
+		},
+		{
+			"title": "How it comes and goes",
+			"text": "Soreness may start several hours after a session, build over the next one to three days and then fade. A familiar exercise often causes less soreness at the same dose, which is called the repeated-bout effect. You don’t need severe or lasting soreness to build strength."
+		},
+		{
+			"title": "Training while sore",
+			"text": "Mild, spread-out muscle soreness usually still allows walking, mobility or easier training, as long as you move well. If soreness limits ordinary movement or changes your lifting technique, lower the intensity or take more recovery. Repeating an unfamiliar high-volume session right away is rarely a good way to progress. Progress familiar exercises gradually, and don’t count on stretching or a cool-down to prevent next-day soreness."
+		},
+		{
+			"title": "When to get help",
+			"text": "Sharp pain in one spot, a lot of swelling, clear weakness, dark urine, fever, or symptoms that get worse instead of easing are not normal DOMS. Severe signs, especially dark urine with muscle pain or weakness, need prompt medical assessment."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "After a workout you can report pain or discomfort, with the body area and the exercise. Any recent pain means the plan will not get harder when you regenerate it. If an exercise hurts during a workout, tap “I feel pain” to end it at once; it stays out of your plans until you resume it from Profile."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: delayed onset muscle soreness",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		},
+		{
+			"label": "Research review: delayed-onset muscle soreness",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13627368/"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

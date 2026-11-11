@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Skydda det väsentliga",
+			"text": "Bestäm först vad passet huvudsakligen är till för, som styrkeövning eller aerob konditionsträning. Ägna ett par minuter åt att värma upp de rörelser du ska använda och fokusera sedan på en eller två huvudövningar. Ett kort pass behöver ändå utrymme för säker teknik och tillräcklig vila när vikterna är tunga."
+		},
+		{
+			"title": "Tidsbesparande format",
+			"text": "Supersetts parar ihop övningar som inte konkurrerar, som rodd och knäböj, och växlande set minskar väntetiden. Cirklar kan knyta ihop enkla rörelser för allmän kondition. Skynda inte mellan hårda, tekniska tunga lyft om tröttheten börjar kosta dig kontroll."
+		},
+		{
+			"title": "Exempel",
+			"text": "För ett helkroppspass på 15 minuter, värm upp kort, växla två eller tre kontrollerade set stolsknäböj och armhävningar med upphöjda händer och avsluta med en rodd eller en planka. Anpassa repetitioner och vila till vad du klarar nu. En annan dag kan en rask promenad eller en lugn cykeltur stödja din kondition."
+		},
+		{
+			"title": "Korta pass räknas",
+			"text": "Korta aktivitetsperioder räknas mot din veckosumma. Gör pass längre bara när det hjälper och passar ditt liv. När längre block inte går kan regelbundna korta pass hålla din rutin effektiv."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ange din passlängd och dina föredragna träningsdagar i Profil så att de motsvarar den tid du verkligen har, och ändra dem när ditt schema förändras."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM 2026: praktisk vägledning",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: promenader för hälsan",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

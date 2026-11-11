@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Prima controlla che sia un plateau",
+			"text": "Una sessione deludente non è un plateau. Confronta diverse settimane in condizioni simili: stesso esercizio, carico, range e sforzo. Cambiamenti di attrezzatura, sonno o tecnica possono far sembrare peggiori i tuoi numeri anche quando la tua forma non sta calando. Registra abbastanza dettagli per distinguere una vera tendenza dalle oscillazioni di ogni giorno."
+		},
+		{
+			"title": "Controlla le basi",
+			"text": "Hai completato le tue sessioni? La resistenza è rimasta impegnativa e hai recuperato tra gli allenamenti? Il volume era giusto per te? A volte il carico di lavoro è troppo basso, e a volte è più alto del necessario. Un sollevamento può anche fermarsi perché non pratichi quel movimento con regolarità, mentre i tuoi muscoli si stanno ancora adattando."
+		},
+		{
+			"title": "Fai un solo cambiamento utile",
+			"text": "Se completi le ripetizioni con facilità, aggiungi un po’ di carico o usa la doppia progressione. Se la fatica si accumula e la prestazione cala, riduci per un po’ le serie dure o riorganizza il tuo programma. Se un movimento ha smesso di migliorare, prova un cambio di tecnica o una variante molto simile e lascia invariato il resto del programma."
+		},
+		{
+			"title": "Guadagni più lenti nel tempo",
+			"text": "I principianti spesso migliorano in fretta, in parte perché stanno imparando i movimenti. I sollevatori esperti progrediscono più lentamente e a passi più piccoli. La crescita muscolare richiede tempo per essere misurata, quindi una bilancia che non cambia o un singolo test di prestazione non dimostra che il tuo allenamento sia fallito. Fai controllare da un medico una fatica che non sai spiegare o altri sintomi di salute che persistono."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Lo Storico mostra i tuoi allenamenti, il tuo sforzo medio e un grafico di 4 settimane, che possono aiutarti a individuare un possibile plateau. TrainUp non cambia mai il tuo piano basandosi su meno di 3 allenamenti, quindi una giornata dura non fa partire un nuovo programma. Fai piccole modifiche e ricontrolla dopo diverse sessioni."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: sicurezza e fondamenti dell’allenamento coi pesi",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Indicazioni ACSM sul modello di progressione",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

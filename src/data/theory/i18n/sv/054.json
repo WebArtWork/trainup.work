@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Vad som förändras under uppehållet",
+			"text": "Aerob uthållighet, rörelsetolerans och lyftprestation avtar i olika takt. Några missade dagar gör kanske liten skillnad, medan veckor eller månader utan träning kan minska hur mycket arbete du klarar. Tidigare träning kan göra att du lär om färdigheter snabbare, men ”muskelminne” tar inte bort behovet av en gradvis återgång."
+		},
+		{
+			"title": "Varför du tog uppehållet",
+			"text": "Resor eller ett fullt schema är något annat än en skada, en operation eller en lång sjukdom. Efter en medicinsk händelse bör du fråga din läkare eller en annan lämplig vårdgivare innan du går tillbaka till hård träning. TrainUp kan inte avgöra om det är medicinskt säkert för dig att återvända efter en sjukdom eller skada. Om något har förändrats, uppdatera dina begränsningar i Profil innan du börjar igen."
+		},
+		{
+			"title": "En försiktig startpunkt",
+			"text": "Efter ett långt uppehåll kan du komma tillbaka med färre set, lättare motstånd och fler repetitioner kvar i reserv. Att börja på ungefär 50–70 % av din tidigare träningsvolym är ett planeringsexempel som passar vissa personer. Forskningen anger inte den siffran. Se hur de första passen känns innan du lägger till arbete."
+		},
+		{
+			"title": "Bygg upp under de följande veckorna",
+			"text": "Öva välkända tekniker, lämna tillräckligt med återhämtning och lägg till arbete långsamt när rörelse och träningsvärk återgår till det normala. Testa inte dina gamla maxvikter direkt. Om den första veckan ger dig långvarig eller ovanligt svår träningsvärk, upprepa eller minska arbetsbelastningen, även om ditt schema säger att det är dags att öka."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA/CSCCa: säker återgång efter inaktivitet",
+			"url": "https://doi.org/10.1519/SSC.0000000000000477"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: säkerhet och grunder i styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

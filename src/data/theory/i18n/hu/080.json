@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Miért kombináld a kettőt",
+			"text": "Az ellenállásos edzés javítja az erőt és az izomműködést, az aerob mozgás pedig támogatja az állóképességet, a szíved és a tüdőd egészségét. A közegészségügyi irányelvek mindkettőt ajánlják. Ha csak az egyiket végzed, az erőnléted egyes részei lemaradhatnak, főleg ha a mindennapi céljaid közé tartozik az erő, a járóképesség és a hosszú ideig tartó aktivitás."
+		},
+		{
+			"title": "Az interferenciahatás",
+			"text": "Az állóképességi munka nagyon nagy mennyisége néha csökkentheti a robbanékonyság vagy egyes erőeredmények növekedését a kizárólag ellenállásos edzéshez képest. A friss áttekintések azonban azt találják, hogy a kombinált edzés általában együtt javítja az aerob kapacitást és az erőt, és a legtöbb szabadidős edző ettől nem veszít valódi izomnövekedést."
+		},
+		{
+			"title": "Válassz gyakorlati sorrendet",
+			"text": "Ha az erő a prioritásod, a megterhelő emeléseket friss állapotban végezd, a könnyű kardiót pedig utána. Ha az állóképesség a fő célod, a fontos állóképességi munkát végezd előbb. A kemény edzések több órás vagy külön napokra osztása segíthet a fáradtságon, főleg haladó edzésnél."
+		},
+		{
+			"title": "Egyensúlyozd a kemény és könnyű napokat",
+			"text": "Végezz például két egész testes erőnapot plusz két-három lendületes sétát és egy opcionális mérsékelt kerékpáros edzést. Egy tapasztaltabb sportolónak gondosan időzítenie kell a kemény futásokat és a láberő-edzéseket. Ha a teljesítményed és a regenerációd szenved, ne halmozz teljes erőbedobású intervallumokat minden lábedzés tetejére."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban megadott célod (általános erőnlét, erő vagy állóképesség) megmondja, melyik fajta munkát tedd előre, miközben mindkettőt edzed. A kardió nem rontja el automatikusan az erőfejlődést. Tartsd szemmel a kihagyott ismétléseidet és az átlagos erőfeszítésedet az Előzményekben. Amikor újragenerálod a tervedet, könnyebb lesz, ha az utolsó 3 edzésedből 2 nagyon nehéz volt (RPE 9 vagy több), vagy kevesebb mint 60%-ban teljesült."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os összefoglaló áttekintés: párhuzamos erő- és állóképességi edzés",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41762427/"
+		},
+		{
+			"label": "CDC: felnőttek fizikai aktivitási ajánlásai",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

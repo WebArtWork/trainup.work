@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Trzy kategorie",
+			"text": "Praca przeciw wyprostowi powstrzymuje zbyt duże wygięcie dolnego odcinka pleców, jak w desce lub martwym robaku (dead bug). Praca przeciw rotacji opiera się skręcaniu, jak w wyciskaniu Pallofa z bezpiecznie zaczepioną gumą. Praca przeciw zgięciu bocznemu opiera się zginaniu na boki, jak w desce bocznej lub noszeniu walizki. Ściana brzucha, mięśnie grzbietu, przepona i biodra pomagają kontrolować tułów."
+		},
+		{
+			"title": "Przykłady techniki",
+			"text": "W desce na przedramionach ustaw żebra i miednicę w jednej linii, odpychaj podłogę ramionami i oddychaj, utrzymując stabilną pozycję. W martwym robaku poruszaj przeciwną ręką i nogą tylko tak daleko, jak tułów pozostaje pod kontrolą. W desce bocznej utrzymuj prostą, podpartą linię i nie pozwalaj biodrom opadać."
+		},
+		{
+			"title": "Progresje",
+			"text": "Zacznij od krótkich trzymań i krótkich dźwigni. Deska boczna z podparciem na kolanie może poprzedzać pełną deskę boczną, a martwy robak z ugiętymi kolanami wyciągnięcia prostych nóg. Utrudnij ćwiczenie, wydłużając dźwignię, dodając umiarkowane obciążenie lub dłużej utrzymując pozycję z kontrolą. Jeśli postawa się załamuje, ćwiczenie stało się zbyt trudne. W miarę progresu obserwuj oddech i ustawienie ciała."
+		},
+		{
+			"title": "Poza deskami",
+			"text": "Brzuszki i inne ćwiczenia ze zgięciem tułowia też trenują mięśnie brzucha, ale nie pokrywają wszystkich zadań mięśni centralnych. Wiosłowanie, przysiady i noszenie też zmuszają tułów do pracy dla stabilizacji. Nie musisz trenować każdego kierunku na jednym treningu. Uwzględnij w tygodniu kilka kontrolowanych ćwiczeń na mięśnie tułowia, dobranych do Twojego doświadczenia i do tego, jak tolerują je Twoje plecy. Ważniejsza jest regularność i postęp w tempie, które tolerujesz."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "NSCA: bezpieczeństwo i podstawy treningu oporowego",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

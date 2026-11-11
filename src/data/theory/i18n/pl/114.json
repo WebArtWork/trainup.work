@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Dlaczego waga się zmienia",
+			"text": "Jedzenie i picie, nawodnienie, sód, zmagazynowany glikogen i inne normalne procesy zmieniają Twoją masę ciała z dnia na dzień. Jeden wysoki lub niski odczyt nie mówi nic wiarygodnego o mięśniach ani tłuszczu. Ćwiczenia mogą zmieniać skład ciała, nawet gdy całkowita masa ledwo się zmienia."
+		},
+		{
+			"title": "Mierz tak samo za każdym razem",
+			"text": "Jeśli się ważysz, używaj tej samej wagi i podobnej rutyny zamiast przypadkowych pór. Średnia tygodniowa jest często bardziej użyteczna niż jeden odczyt. Pomiary talii i inne pomiary miarką są porównywalne tylko wtedy, gdy używasz tych samych punktów ciała i takiego samego napięcia miarki."
+		},
+		{
+			"title": "Zdjęcia są opcjonalne",
+			"text": "Zdjęcia postępów mogą pokazywać zmiany postawy lub wyglądu, ale oświetlenie, kąt aparatu i ubranie bardzo na nie wpływają. Nie potrzebujesz ich, jeśli skupiasz się na sprawności lub sile, a mogą nie pomagać, jeśli masz problemy z obrazem ciała lub jedzeniem."
+		},
+		{
+			"title": "Sprawność i waga to osobne sprawy",
+			"text": "Lepsze poruszanie się, dłuższa wytrzymałość i rosnąca siła to realne rezultaty niezależnie od Twojego rozmiaru. Jeśli martwisz się niespodziewaną zmianą wagi lub schorzeniem, porozmawiaj ze specjalistą ochrony zdrowia."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Panel ma dziennik masy ciała, a to, czy go używasz, zależy od Ciebie. Odczytuj go jako trend z kilku tygodni. TrainUp nie traktuje masy ciała jako miary sprawności i nie wyznacza celów odchudzania."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: zdrowa masa ciała i aktywność",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

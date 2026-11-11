@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Gyakori felületek",
+			"text": "A kemény, vízszintes padló a legtöbb erőgyakorlathoz egyenletes támaszt ad. A vastag, puha szőnyeg egylábas munka közben billeghet, a nagyon sima csempe pedig csúszóssá válhat. A szabadtéri fű vagy az ösvények egyenetlenek és nedvesek lehetnek. A matrac kényelmesebbé teszi a padlómunkát, de elcsúszhat vagy összenyomódhat, ezért próbáld ki, mielőtt nehéz terhet raksz rá."
+		},
+		{
+			"title": "Cipő a feladathoz",
+			"text": "A stabil, jó tapadású cipők gyakran jól működnek guggoláshoz, csípőhajlításhoz és oldalirányú mozdulatokhoz. A párnázott futócipő kényelmes lehet sétához vagy kocogáshoz, de nehéz emeléseknél engedheti, hogy a lábad elmozduljon. Az egyes sportokra készült cipők eltérnek, és nincs egyetlen stílus, amely minden gyakorlathoz vagy minden embernek a legjobb."
+		},
+		{
+			"title": "A mezítlábas edzés a környezettől függ",
+			"text": "A mezítlábas edzés közvetlen visszajelzést ad a talajról tiszta, biztonságos helyen, de a lábadat kiteszi a leejtett súlyoknak, éles tárgyaknak és más veszélyeknek. Egyes konditermek nem engedik. Ha csökkent az érzésed a lábadban, egyensúlyproblémáid vannak, vagy orvosi lábállapotod van, mezítlábas edzés előtt kérj tanácsot a saját helyzetedre, mert nem automatikusan jobb."
+		},
+		{
+			"title": "Ütés és zaj",
+			"text": "Az ugrás és a futás több ütést és zajt kelt, mint a kontrollált guggolás vagy a menetelés. A gumimatrac csökkentheti a hang egy részét, de alatta még így is jó tapadásra és szilárd padlóra van szükség. Kerüld a csúszós zoknit, a súlyok alatti billegő habot és azokat a matracokat, amelyek oldalra lépéskor ráncolódnak."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban add meg a felületedet és azt, hogy az ugrás rendben van-e, és a terv olyan gyakorlatokat választ, amelyek ezekhez illenek. Ha a padló csúszós vagy egyenetlen, válassz stabil, alacsony ütésterhelésű gyakorlatokat, vagy halaszd el a mozdulatot, amíg a felület biztonságos nem lesz."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: súlyzós edzés biztonsága és technikája",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

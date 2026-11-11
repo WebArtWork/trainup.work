@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Dein Gesamtstress",
+			"text": "Training ist nur ein Teil des Stresses, den du trägst. Schlechter Schlaf, Reisen, ein fordernder Beruf, emotionale Belastung, Hitze und kürzliche Krankheit können alle deine Konzentration, Koordination und das Anstrengungsgefühl beeinflussen. Die Tagesform ist keine Diagnose, und kein einzelner Wert erfasst sie."
+		},
+		{
+			"title": "Ein einfacher Check-in",
+			"text": "Beachte vor einem Training deinen Schlaf, deine Energie, Motivation, deinen Muskelkater und alle neuen Symptome. Vergleiche sie mit dem, was für dich normal ist, nicht mit den Zahlen einer anderen Person. Das Aufwärmen gibt dir einen zweiten Check: Wenn sich Bewegungen unerwartet schwer anfühlen oder deine Kontrolle nicht stimmt, muss eine anspruchsvolle Einheit möglicherweise angepasst werden."
+		},
+		{
+			"title": "An einem schwachen Tag anpassen",
+			"text": "Senke an einem Tag mit wenig Energie die Last, kürze die Einheit, wähle einfachere Übungen oder mache stattdessen einen leichten Spaziergang. Mache an einem normalen Tag den Plan wie geschrieben. Verwandle nicht jeden kurzen Einbruch in einen Ruhetag. Trends über mehrere Einheiten sagen dir mehr als eine Bewertung."
+		},
+		{
+			"title": "Krankheit und Sicherheit",
+			"text": "Fieber, eine Krankheit, die den ganzen Körper betrifft, Brustsymptome oder ungewöhnliche Atemnot sind Gründe, hartes Training auszulassen und medizinischen Rat zu holen. Der beliebte „Halscheck“ ist nur eine grobe Faustregel und gibt dich nicht zum Training frei, solange du krank bist."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "TrainUp schreibt keine Gewichte vor, du wählst die Last also jeden Tag selbst. Dein Plan ändert sich nur, wenn du ihn neu erstellst, anhand der Anstrengung (RPE), die du nach jeder Einheit bewertet hast, aller gemeldeten Schmerzen und wie viel du von jedem Training geschafft hast."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: Schlafempfehlungen",
+			"url": "https://www.cdc.gov/sleep/about/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: Brustschmerz und Notfallsymptome",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		}
+	]
+}

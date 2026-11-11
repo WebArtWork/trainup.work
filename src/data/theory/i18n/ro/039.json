@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Trei categorii",
+			"text": "Munca anti-extensie împiedică arcuirea excesivă a spatelui lombar, ca la o planșă sau la „dead bug”. Munca anti-rotație se opune răsucirii, ca la o împingere Pallof cu o bandă ancorată în siguranță. Munca anti-flexie laterală se opune îndoirii în lateral, ca la o planșă laterală sau la o plimbare cu o greutate într-o mână. Peretele abdominal, mușchii coloanei, diafragma și șoldurile ajută toate la controlul trunchiului."
+		},
+		{
+			"title": "Exemple de tehnică",
+			"text": "La o planșă pe antebrațe, aliniază coastele și bazinul, împinge podeaua prin brațe și continuă să respiri în timp ce menții poziția stabilă. La „dead bug”, mișcă brațul și piciorul opuse doar cât trunchiul rămâne controlat. La o planșă laterală, menține o linie dreaptă, sprijinită, și nu lăsa șoldurile să cadă."
+		},
+		{
+			"title": "Progresii",
+			"text": "Începe cu menținere scurtă și pârghii scurte. O planșă laterală sprijinită pe genunchi poate veni înaintea uneia complete, iar un „dead bug” cu genunchii îndoiți înaintea întinderilor cu piciorul drept. Fă-l mai greu prin alungirea pârghiei, adăugarea unei sarcini moderate sau menținerea mai îndelungată sub control. Dacă postura ți se strică, exercițiul a devenit prea greu. Urmărește-ți respirația și alinierea pe măsură ce progresezi."
+		},
+		{
+			"title": "Dincolo de planșe",
+			"text": "Abdominalii clasici și alte exerciții de flexie a trunchiului antrenează tot abdominalii, dar nu acoperă toate sarcinile trunchiului. Ramatul, genuflexiunile și plimbările cu greutate fac și ele trunchiul să lucreze ca să rămână stabil. Nu trebuie să antrenezi fiecare direcție într-o singură sesiune. Include câteva exerciții controlate pentru trunchi pe parcursul săptămânii, alese după experiența ta și după cum le tolerează spatele lombar. Contează mai mult să le faci constant și să progresezi într-un ritm pe care îl tolerezi."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "NSCA: bazele siguranței și ale antrenamentului de forță",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

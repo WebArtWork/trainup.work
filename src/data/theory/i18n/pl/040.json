@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Popularne rodzaje noszenia",
+			"text": "W noszeniu farmera trzymasz po jednym ciężarze w każdej dłoni. W noszeniu walizki trzymasz jeden ciężar z jednej strony, więc tułów musi opierać się zginaniu na bok. W noszeniu z przodu ciężar trzymasz blisko klatki piersiowej, a noszenie nad głową wymaga większej stabilności barku i więcej miejsca nad głową. Każda pozycja zmienia angażowane mięśnie i potrzebną umiejętność."
+		},
+		{
+			"title": "Podstawowa technika",
+			"text": "Wybierz ciężar, który utrzymasz pewnie przez cały marsz, stań wyprostowany w wygodnej postawie i idź zdecydowanymi krokami. Trzymaj ciężar pewnie, nie przechylaj się mocno w jego stronę ani od niego i oddychaj także podczas długiego marszu. Zwolnij przy skręcaniu i dbaj o wolną drogę."
+		},
+		{
+			"title": "Jak dawkować noszenie",
+			"text": "Noszenie liczysz dystansem lub czasem, a nie powtórzeniami. Na przykład noś dwa hantle, które utrzymasz stabilnie przez 20–30 sekund, odpocznij i powtórz. Gdy chwyt i postawa pozostają takie same, dodaj trochę dystansu, czasu lub ciężaru. Większy ciężar nie pomaga, jeśli sprawia, że kroki stają się pospieszne i nierówne."
+		},
+		{
+			"title": "Miejsce i bezpieczeństwo",
+			"text": "Sprawdź, czy na trasie jest dość wolnej podłogi, antypoślizgowa powierzchnia i nie ma ludzi ani przedmiotów w drodze. Odkładaj ciężary z kontrolą i nie upuszczaj ich. Pomiń noszenie nad głową pod niskim sufitem lub gdy nie masz pewności co do kontroli barku. Noszenie jednostronne zawsze ćwicz po obu stronach."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Noszenie może wypełnić miejsce na ćwiczenie siłowe, gdy masz sprzęt i miejsce do chodzenia. Twój plan sprawdza rozmiar podłogi ustawiony w Profilu. Jeśli plecy lub dłonie ograniczają, ile obciążenia kręgosłupa lub pracy chwytu możesz znieść, dodaj tę część ciała jako ograniczenie w Profilu, aby plan mógł pominąć nieodpowiednie ćwiczenia."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "NSCA: bezpieczeństwo i podstawy treningu oporowego",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

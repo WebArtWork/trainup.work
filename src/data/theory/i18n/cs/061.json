@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Typy upevnění",
+			"text": "Hrazdy pro páku do rámu dveří, rozpěrné hrazdy, pevné nástěnné hrazdy a stropní hrazdy se každá instalují jinak. Hrazda prodávaná jako „vhodná do dveří“ nesedne do každého ostění, zdi ani rámu. Některé typy potřebují konstrukční úchyty do pevných opor a jiné závisejí na konkrétním tvaru rámu."
+		},
+		{
+			"title": "Zkontrolujte nosnost a konstrukci",
+			"text": "Přečtěte si pokyny výrobce a nosnost, včetně toho, zda jsou povoleny dynamické pohyby. Počítejte s celou svou tělesnou hmotností plus dodatečnou silou švihu nebo přitahování. Zkontrolujte šrouby, držáky, podložky a povrchy, kterých se hrazda dotýká nebo u nichž sedí. Pokud si nejste jistí konstrukcí budovy nebo způsobem upevnění, požádejte kvalifikovaného montéra."
+		},
+		{
+			"title": "Zkoušejte krok za krokem",
+			"text": "Před plným visem se ujistěte, že hrazda správně sedí a nemůže se otáčet, klouzat ani posouvat. Nechte chodidla na podlaze a opatrně a pod kontrolou na ni tlačte. K částečnému visu a pak k plnému podepřenému visu přejděte až tehdy, když víte, že instalace je pevná. Krátký test nemůže dokázat, že poškozené kování nebo nevhodný rám jsou bezpečné."
+		},
+		{
+			"title": "Běžná nebezpečí",
+			"text": "Nepřipevňujte gumy ani nedělejte shyby s kipem, houpáním nebo se zátěží, pokud výrobek není přesně pro to navržen a nainstalován. Nechte prostor pro hlavu, lokty a chodidla a nenechte v blízkosti sklo ani ostrý nábytek. Přestaňte používat hrazdu, která vrže, klouže, ohýbá se nebo se uvolňuje."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu označte svou hrazdu jako bezpečně nainstalovanou až poté, co jste zkontrolovali vše výše uvedené. Do té doby váš plán vynechává cviky, které hrazdu potřebují, a přítahy nebo cviky s gumou s bezpečným ukotvením trénují stejný přítah. Pokud jste začátečník, jsou dobrými prvními kroky podepřené visy, přítahy lopatek nebo asistované shyby, jakmile je hrazda bezpečná."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: bezpečnost a technika posilování",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

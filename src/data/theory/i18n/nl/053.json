@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Controleer eerst of het een plateau is",
+			"text": "Eén teleurstellende training is geen plateau. Vergelijk meerdere weken onder vergelijkbare omstandigheden: dezelfde oefening, gewicht, bereik en inspanning. Veranderingen in uitrusting, slaap of techniek kunnen je cijfers slechter doen lijken, ook als je fitheid niet daalt. Noteer genoeg details om een echte trend te onderscheiden van de dagelijkse ups en downs."
+		},
+		{
+			"title": "Controleer de basis",
+			"text": "Heb je je trainingen afgemaakt? Bleef de weerstand uitdagend en herstelde je tussen trainingen? Was het volume goed voor jou? Soms is de werkbelasting te laag en soms hoger dan nodig. Een lift kan ook stilvallen omdat je die beweging niet regelmatig hebt geoefend, terwijl je spieren zich nog aanpassen."
+		},
+		{
+			"title": "Maak één nuttige verandering",
+			"text": "Rond je je herhalingen makkelijk af, voeg dan een beetje gewicht toe of gebruik dubbele progressie. Bouwt vermoeidheid zich op en dalen je prestaties, verminder dan een tijdje het aantal zware sets of rangschik je schema opnieuw. Is één beweging niet meer vooruitgegaan, probeer dan een techniekverandering of een nauw verwante variant en laat de rest van je programma zoals het is."
+		},
+		{
+			"title": "Langzamere winst na verloop van tijd",
+			"text": "Beginners verbeteren vaak snel, deels omdat ze de bewegingen leren. Ervaren tillers maken langzamer en in kleinere stappen vooruitgang. Spiergroei duurt even om te meten, dus een onveranderde weegschaal of één prestatietest bewijst niet dat je training mislukt is. Laat vermoeidheid die je niet kunt verklaren of andere aanhoudende gezondheidsklachten door een arts controleren."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Geschiedenis toont je trainingen, je gemiddelde inspanning en een grafiek van 4 weken, wat kan helpen om een mogelijk plateau te herkennen. TrainUp past je schema nooit aan op basis van minder dan 3 trainingen, dus één zware dag zet geen nieuw programma in gang. Maak kleine aanpassingen en controleer opnieuw na meerdere trainingen."
+		}
+	],
+	"sources": [
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: basis van veiligheid en krachttraining",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Richtlijn van het ACSM voor het progressiemodel",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

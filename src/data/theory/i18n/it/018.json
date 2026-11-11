@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Cosa cresce",
+			"text": "L’esercizio con i pesi attiva vie di segnalazione e il rimodellamento delle proteine muscolari. Nel corso di sedute ripetute, l’equilibrio tra costruzione e scomposizione delle proteine muscolari può inclinarsi verso fibre muscolari più grandi. Ci vogliono settimane o mesi. I primi cambiamenti nell’aspetto o nel peso corporeo possono dipendere anche da liquidi, glicogeno o variazioni di misurazione."
+		},
+		{
+			"title": "Perché conta la tensione",
+			"text": "Le contrazioni muscolari intense mettono le fibre sotto tensione meccanica. Sia carichi più pesanti sia più leggeri possono sostenere la crescita quando fai le serie con abbastanza impegno e buona tecnica. Allenarsi con una resistenza molto leggera, lontano dalla fatica, può non dare uno stimolo sufficiente per una crescita visibile."
+		},
+		{
+			"title": "Volume e frequenza",
+			"text": "Contare le serie impegnative a settimana è un modo utile per organizzare il lavoro di ipertrofia. Il position stand ACSM 2026 ha trovato una crescita migliore con un volume settimanale più alto, e le prove hanno favorito almeno circa dieci serie settimanali per gruppo muscolare per massimizzare la crescita nei confronti di studio rilevanti. Quel numero non è un minimo obbligatorio di partenza. I principianti possono crescere con meno, e i limiti di recupero differiscono da persona a persona. La frequenza serve soprattutto a distribuire nella settimana il lavoro necessario."
+		},
+		{
+			"title": "Recupero e alimentazione",
+			"text": "Proteine ed energia sufficienti nella dieta sostengono l’adattamento, e sonno e riposo ti aiutano a reggere l’allenamento ripetuto. TrainUp offre un’informazione generale sull’esercizio e non fornisce piani alimentari personali né obiettivi calorici. Anche genetica, anni di allenamento e salute influenzano la rapidità con cui compaiono i guadagni visibili."
+		},
+		{
+			"title": "Esempio",
+			"text": "Inizia con un mix moderato di squat, hinge, spinte e trazioni. Registra serie e ripetizioni settimanali. Se le prestazioni migliorano, la dolenzia resta tollerabile e recuperi bene, aggiungi lentamente ripetizioni o un po’ di carico prima di aggiungere più serie."
+		},
+		{
+			"title": "Un equivoco comune",
+			"text": "La dolenzia non misura la crescita muscolare, e non devi arrivare al cedimento a ogni serie. I programmi che funzionano si basano su un allenamento duro che puoi ripetere, non sull’esaurimento massimale."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Rassegna sui meccanismi della crescita muscolare",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

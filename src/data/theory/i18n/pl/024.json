@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Odczytywanie skali",
+			"text": "RIR 0 oznacza, że nie mogłeś zrobić kolejnego pełnego powtórzenia z uzgodnioną techniką i zakresem. RIR 1 oznacza może jedno więcej, RIR 2 około dwóch i tak dalej. W popularnym systemie RPE opartym na RIR dla podnoszenia 0 RIR to mniej więcej RPE serii 10, 2 RIR to RPE 8, a 3 RIR to RPE 7."
+		},
+		{
+			"title": "Dlaczego to pomaga",
+			"text": "Ten sam hantel 20 kg może jednego dnia wydawać się lekki, a następnego ciężki. Szacowanie RIR pozwala dostosować się do Twojej gotowości tego dnia, nadal dążąc do podobnego poziomu wysiłku. Jest szczególnie przydatne, gdy ciężary rosną w stałych skokach albo gdy ćwiczenia z masą własnego ciała nie da się regulować małymi krokami."
+		},
+		{
+			"title": "Przykład",
+			"text": "Twój plan przewiduje trzy serie po 8–12 wiosłowań przy 2 RIR. Przy 12 kg robisz 12 kontrolowanych powtórzeń i myślisz, że mógłbyś zrobić sześć więcej, więc obciążenie jest prawdopodobnie za małe. Przy 18 kg forma załamuje się w siódmym powtórzeniu, więc jest za duże do tego celu. Przy 15 kg robisz dziesięć czystych powtórzeń z możliwością zrobienia około dwóch więcej, co pasuje."
+		},
+		{
+			"title": "Granice dokładności",
+			"text": "Początkującym często trudno przewidzieć, ile powtórzeń zostało, zwłaszcza w nieznanych ćwiczeniach lub seriach dalekich od upadku. Na szacunek wpływają też złożoność ćwiczenia, długość serii i zmęczenie. Z czasem możesz stawać się dokładniejszy, sprawdzając swoje przewidywania podczas okazjonalnej ciężkiej serii wykonanej bezpiecznie pod nadzorem."
+		},
+		{
+			"title": "Programowanie",
+			"text": "Zostawianie dwóch lub trzech powtórzeń w zapasie sprawdza się jako domyślne ustawienie w ogólnym treningu oporowym. Niektóre cele, ćwiczenia i poziomy doświadczenia wymagają więcej lub mniej. Gonienie za 0 RIR w każdym ciężkim ruchu dodaje zmęczenia, a nie potrzebujesz tego, by robić postępy."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Używaj RIR do wyboru obciążenia i utrzymania uczciwej techniki podczas serii. Ocena wysiłku, którą podajesz po treningu, obejmuje całą sesję, więc nie mówi Ci o RIR poszczególnych serii."
+		}
+	],
+	"sources": [
+		{
+			"label": "Skala oparta na RIR (Zourdos i in.)",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

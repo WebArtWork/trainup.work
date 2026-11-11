@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Primero la prioridad",
+			"text": "La fatiga se acumula a lo largo de una sesión, así que el movimiento que más importa para tu objetivo suele ir donde puedes hacerlo bien. Las sentadillas pesadas, los press y los tirones duros suelen ir al principio en los planes de fuerza. Las habilidades nuevas y complejas también salen mejor con la concentración fresca y una práctica controlada. Evita dejar el ejercicio técnicamente más difícil para un cierre al final, cuando estás más cansado."
+		},
+		{
+			"title": "Ejercicios compuestos y de aislamiento",
+			"text": "Los movimientos multiarticulares entrenan varios músculos a la vez y pueden exigir más coordinación y esfuerzo de todo el cuerpo que los curls o las elevaciones. Un orden habitual es calentamiento, levantamientos principales, levantamientos secundarios, aislamiento y acondicionamiento opcional. Es un hábito práctico, y algunas sesiones y personas necesitarán un orden distinto."
+		},
+		{
+			"title": "Qué muestran las pruebas",
+			"text": "Las pruebas recientes del ACSM muestran que hacer ejercicios de fuerza cerca del inicio de una sesión puede mejorar la fuerza en esos movimientos. El crecimiento muscular parece verse menos afectado por el orden de los ejercicios en muchas comparaciones. Si mejorar tus dominadas es tu objetivo principal, hazlas antes de los ejercicios que cansan tus brazos y tu espalda, aunque eso signifique que las sentadillas vengan después."
+		},
+		{
+			"title": "Core y acondicionamiento",
+			"text": "Una plancha dura o un acarreo justo antes de sentadillas pesadas puede cansar músculos que necesitas para estabilizar la sentadilla. El trabajo suave de movilidad y de activación puede ir primero, y el trabajo de core más duro puede encajar mejor después de los levantamientos principales. Si el acondicionamiento es tu objetivo principal, el cardio puede ser el bloque principal, con el trabajo de fuerza organizado a su alrededor."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Una sesión de fuerza de 40 minutos podría ser así: cinco minutos de calentamiento, luego sentadillas goblet como levantamiento principal, remos, una variante de flexión, una bisagra y una serie corta de planchas laterales. Una sesión que prioriza la habilidad podría empezar, en cambio, con una progresión controlada de dominadas con el peso corporal antes de los demás ejercicios."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Principios anteriores del ACSM sobre el orden de los ejercicios",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

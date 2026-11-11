@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co oznacza izolacja",
+			"text": "Uginanie przedramion z hantlami zgina głównie łokieć, a prostowanie ramion z hantlem prostuje go. Unoszenie bokiem akcentuje odwodzenie w barku, wyprost nogi na maszynie akcentuje wyprost kolana, a uginanie nóg akcentuje zgięcie kolana. Żaden prawdziwy ruch nie angażuje tylko jednego mięśnia, więc „izolacja” oznacza, że ruch skupia się na jednym stawie, a inne mięśnie nadal pomagają."
+		},
+		{
+			"title": "Kiedy jest przydatna",
+			"text": "Izolacja może dodać pracy mięśniowi, który zostaje w tyle, utrzymać niskie zmęczenie całego ciała albo dać prostą opcję, gdy równowaga i koordynacja sprawiają trudność. Wiosłowanie na przykład trenuje biceps pośrednio, ale uginanie daje bardziej bezpośredni bodziec, jeśli priorytetem jest wzrost ramion. Maszyny mogą szczególnie ułatwić kontrolowanie celowanego wysiłku."
+		},
+		{
+			"title": "Miejsce w treningu",
+			"text": "W treningu ogólnie siłowym ćwiczenia złożone zwykle idą pierwsze, gdy jesteś świeży, a izolacja następuje jako dodatkowy trening. Jeśli głównym celem jest konkretny mięsień, rozsądne jest trenowanie go wcześniej. Kolejność ćwiczeń to sposób ustalania priorytetów i możesz ją zmienić, gdy zmienią się Twoje priorytety."
+		},
+		{
+			"title": "Technika i progresja",
+			"text": "Używaj zakresu, który jest wygodny dla stawu roboczego, utrzymuj resztę ciała stabilnie i nie bujaj ciężarem. Dodawaj powtórzenia lub niewielki ciężar tylko wtedy, gdy technika pozostaje taka sama w kolejnych powtórzeniach. Bardzo lekkie obciążenia działają, gdy wysiłek jest wystarczająco wysoki, a podniesienie większej liczby nie dowodzi, że trening jest lepszy. Utrzymuj łączną liczbę serii na poziomie, po którym zdążysz się zregenerować. Jeśli ruch powoduje ból, przerwij go; TrainUp nie podaje programów rehabilitacji korekcyjnej."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: technika treningu z obciążeniem (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

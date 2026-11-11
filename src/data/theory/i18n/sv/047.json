@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Börja med dina lediga dagar",
+			"text": "Välj dagar då du faktiskt kan träna innan du väljer en komplicerad split. Med två dagar ger ett helkroppsschema på måndag och torsdag flera vilodagar emellan. Med tre är måndag, onsdag och fredag enkelt. Med fyra kan du fördela två överkroppspass och två underkroppspass över veckan. Det här är exempel, och andra upplägg fungerar också."
+		},
+		{
+			"title": "Vila mellan liknande pass",
+			"text": "Många nybörjare mår bra av ungefär en till två dagar mellan tuffa pass för samma muskler, särskilt medan träningsvärken fortfarande är ny för dem. De ofta citerade 48 timmarna är en praktisk riktlinje. Din träningsbakgrund, ansträngning, övningsval och sömn påverkar hur mycket vila du behöver."
+		},
+		{
+			"title": "Var du lägger det tuffa arbetet",
+			"text": "Tunga lyft och lyft som kräver mycket teknik går bättre när du är ganska utvilad. Mycket krävande höftlyft, knäböj och sprintintervaller på dagar i rad kan bygga upp trötthet som du inte behöver. Lätt promenad eller rörlighetsträning kan läggas mellan styrkedagar och räknas inte som ett till tufft pass."
+		},
+		{
+			"title": "En flexibel vecka",
+			"text": "Om du missar ett pass kan du flytta det till en ledig dag eller gå vidare med nästa pass. Tryck inte in allt missat arbete på en enda dag, och lägg inte tuffa pass för samma rörelse tätt inpå varandra bara för att nå ett veckomål. Följ dina prestationer och din trötthet under flera veckor. Varje kalendervecka behöver inte ha samma volym."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "I Profil anger du hur många dagar i veckan du tränar, hur länge ett pass varar och vilka dagar du föredrar, och du kan ändra dem när som helst. Från Översikt kan du slå på träningspåminnelser för de dagar och tider du valt. Historik visar dina pass den här veckan, din genomsnittliga ansträngning och ett diagram över 4 veckor, vilket hjälper dig att följa tröttheten över veckorna."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: vägledning om styrka och smidighet",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "NSCA: säkerhet och grunder i styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

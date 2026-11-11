@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Le basi dei push-up",
+			"text": "Appoggia le mani dove ti senti comodo, mantieni il corpo in un’unica linea dalle spalle ai fianchi, scendi con i gomiti a un angolo che le tue spalle tollerano e spingi via il pavimento. Le scapole si muovono naturalmente attorno alla gabbia toracica durante un push-up. Non lasciare che i fianchi cedano né spingere la testa in avanti solo per contare una ripetizione."
+		},
+		{
+			"title": "Scegliere una variante",
+			"text": "Il push-up al muro è spesso il più facile. Poi viene quello inclinato su un piano o una panca stabile, quindi il push-up sulle ginocchia o completo a terra. Più avanti puoi sollevare i piedi o aggiungere carico per renderlo più difficile. Se la versione sulle ginocchia o quella inclinata sia più facile per te dipende dalla leva e dal comfort. Sollevare le mani è un modo semplice per spingere meno peso corporeo."
+		},
+		{
+			"title": "Panca piana e distensioni con manubri",
+			"text": "Su una panca, pianta bene i piedi, trova una posizione stabile di tronco e spalle e abbassa i pesi con controllo. Il bilanciere blocca le mani in posizione, mentre i manubri lasciano la presa più libera ma richiedono controllo da entrambi i lati. I tentativi pesanti di panca piana richiedono uno spotter capace o un’adeguata attrezzatura di sicurezza."
+		},
+		{
+			"title": "Equivoci comuni",
+			"text": "I gomiti non devono restare incollati alle costole, e non dovrebbero nemmeno aprirsi sempre di lato. Scegli una larghezza di presa e un percorso dei gomiti che ti permettano di muoverti con forza e comodità. Le scapole non restano ferme in una sola posizione in ogni distensione, e i push-up a terra e la panca piana richiedono cose diverse da loro."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Resta su una sola variante di push-up e registra le sue ripetizioni finché non sei pronto a passare oltre. Nel corso della settimana, bilancia le spinte orizzontali con il lavoro di trazione. Se polsi o spalle sono sensibili, aggiungili come limitazioni in Profilo, così il tuo piano sceglie solo spinte adatte a te."
+		}
+	],
+	"sources": [
+		{
+			"label": "Libreria di esercizi ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: tecnica dell’allenamento coi pesi (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: sicurezza e fondamenti dell’allenamento coi pesi",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

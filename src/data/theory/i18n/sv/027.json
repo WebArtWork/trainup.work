@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Två olika sätt att räkna",
+			"text": "Du kan träna fyra dagar i veckan och arbeta benen bara en gång, eller träna tre helkroppsdagar och arbeta benen tre gånger. Antalet pass och antalet gånger varje muskel tränas är alltså olika mått. Veckans tuffa set och återhämtningen avgör till stor del hur väl något av schemana fungerar."
+		},
+		{
+			"title": "En praktisk utgångspunkt",
+			"text": "För många friska vuxna är två styrketräningsdagar som täcker de stora muskelgrupperna en nåbar hälsonivå. ACSM:s ställningstagande 2026 redovisar styrkefördelar av träning minst två gånger i veckan. För muskeltillväxt har det inte på ett pålitligt sätt ökat vinsterna att sprida samma set över fler dagar när veckans set är lika många."
+		},
+		{
+			"title": "Tvådagarsschema",
+			"text": "Gör två helkroppspass med återhämtningsdagar emellan, som måndag och torsdag. Täck de stora mönstren, vila tillräckligt och fokusera på att genomföra passen vecka efter vecka. Det fungerar ofta bättre än en ambitiös femdagarsplan som du inte kan hålla fast vid."
+		},
+		{
+			"title": "Tre till fem dagar",
+			"text": "Tre dagar kan rymma helkroppspass eller en rotation av mönster. Fyra dagar kan passa för att växla mellan över- och underkropp. Fem dagar kan fungera för erfarna tränande med specifika mål och pass som inte är för långa. Att träna fler dagar betyder inte att träna varje muskel hårt varje dag."
+		},
+		{
+			"title": "Återhämtning och progression",
+			"text": "Hård träning ger trötthet i de muskler du arbetade och i kroppen som helhet. Beroende på arbetsbelastningen kan en muskelgrupp behöva ungefär en till flera dagar innan ett lika hårt pass. Det välkända glappet på 48 timmar är en användbar startregel för hårda pass, men det är inget biologiskt stoppur som gäller för varje övning."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "I Profil anger du hur många dagar i veckan du tränar och vilka dagar du föredrar. Välj ett antal som du faktiskt kan hålla. Om dina pass ständigt drar över tiden, sprid arbetet över fler dagar i stället för att stapla extra arbete i varje pass."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO: frekvens för muskelstärkande aktivitet",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

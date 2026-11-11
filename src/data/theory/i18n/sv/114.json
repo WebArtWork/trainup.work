@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Varför vågen rör sig",
+			"text": "Mat och dryck, vätskebalans, natrium, lagrat glykogen och andra normala processer förskjuter alla din kroppsvikt från dag till dag. Ett enskilt högt eller lågt värde säger ingenting pålitligt om muskler eller fett. Träning kan förändra din kroppssammansättning även när din totalvikt knappt rör sig."
+		},
+		{
+			"title": "Mät på samma sätt varje gång",
+			"text": "Om du väger dig, använd samma våg och en liknande rutin i stället för slumpmässiga tider. Ett veckomedelvärde är ofta mer användbart än ett enskilt värde. Midje- och andra måttbandsmätningar är bara jämförbara om du använder samma kroppspunkter och samma bandspänning."
+		},
+		{
+			"title": "Foton är valfria",
+			"text": "Framstegsfoton kan visa förändringar i hållning eller utseende, men ljus, kameravinkel och kläder påverkar dem mycket. Du behöver dem inte om ditt fokus är kondition eller styrka, och de kanske inte hjälper om du har oro kring kroppsbild eller ätande."
+		},
+		{
+			"title": "Kondition och vikt är separata saker",
+			"text": "Att röra dig bättre, orka längre och bli starkare är verkliga resultat oavsett din storlek. Om du är orolig för en oväntad viktförändring eller ett medicinskt tillstånd, tala med en vårdgivare."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Översikt har en kroppsviktslogg, och om du använder den är upp till dig. Läs den som en trend över flera veckor. TrainUp ser inte kroppsvikt som ett mått på kondition och sätter inga viktminskningsmål."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: hälsosam vikt och aktivitet",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

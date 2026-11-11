@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Proč na screeningu záleží",
+			"text": "Většině lidí prospívá být aktivnější a jemný pohyb je často dobrým začátkem. Příznaky, nestabilní zdravotní stavy nebo nedávné zdravotní události mohou změnit, které aktivity jsou pro vás bezpečné. Screening vám řekne, kdy by vaše další kroky měl vést zdravotník nebo kvalifikovaný odborník na cvičení."
+		},
+		{
+			"title": "PAR-Q+",
+			"text": "Aktuální Dotazník připravenosti na pohybovou aktivitu pro všechny (PAR-Q+) používá strukturované zdravotní otázky s navazujícími postupy, takže jde dál než jediný obecný kontrolní seznam. Zamyslete se nad srdečními nebo kardiovaskulárními onemocněními, nekontrolovaným krevním tlakem, mdlobami nebo nevysvětlitelnými závratěmi, tlakem na hrudi, nedávnou operací, novou nebo zhoršující se bolestí a léky, které mění reakci těla na cvičení. Těhotenství a měsíce po porodu také vyžadují individuální radu."
+		},
+		{
+			"title": "Co znamená odpověď ano",
+			"text": "Odpověď ano na screeningovou otázku automaticky neznamená žádné cvičení. Může znamenat dokončení oficiálního navazujícího postupu nebo získání rady ohledně intenzity a omezení. Pokud už bezpečně cvičíte, je pokračování v obvyklé úrovni jiné rozhodnutí než začátek náročného tréninku, který jste nikdy nedělali."
+		},
+		{
+			"title": "Příklad",
+			"text": "Někdo, kdo byl roky neaktivní a při svižné chůzi cítí tlak na hrudi, by neměl zkoušet maximální silový ani intervalový trénink. Měl by tuto aktivitu přerušit a nechat se lékařsky vyšetřit. Silné nebo přetrvávající příznaky na hrudi vyžadují pohotovostní péči. Kdo nemá znepokojivé příznaky, může začít lehkou chůzí a nenáročným silovým cvičením a pak postupně přidávat."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "V Profilu můžete zaznamenat omezení podle částí těla s poznámkami a plán vybere jen cviky, které jim vyhovují. TrainUp nemůže potvrdit zdravotní stav ani interpretovat vaše příznaky a vygenerovaný trénink není lékařským souhlasem. Pokud screening vyvolá obavy, poraďte se před volbou náročného plánu s lékařem."
+		}
+	],
+	"sources": [
+		{
+			"label": "Oficiální screening PAR-Q+",
+			"url": "https://eparmedx.com/"
+		},
+		{
+			"label": "CDC: jak začít",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

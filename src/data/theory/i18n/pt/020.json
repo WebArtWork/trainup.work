@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Um quadro de partida",
+			"text": "Os intervalos de poucas repetições, muitas vezes cerca de uma a cinco por série, costumam ir com cargas mais pesadas e muito descanso para a prática de força máxima. Os intervalos moderados, aproximadamente de seis a doze, facilitam combinar uma carga sólida, o controlo da técnica e o trabalho total. Os intervalos mais altos, como quinze ou mais, podem ajudar na resistência muscular local e no treino com carga mais baixa."
+		},
+		{
+			"title": "Porque é que os intervalos se sobrepõem",
+			"text": "A investigação não apoia a ideia de que seis a doze repetições são a única forma de desenvolver músculo, nem de que quinze repetições não conseguem desenvolver força. A carga pesada funciona especialmente bem para melhorar a força máxima de uma repetição, enquanto o músculo pode crescer numa ampla gama de cargas quando o esforço e o volume são suficientemente altos. Repetições muito altas podem ser interrompidas pelo desconforto ou pela fadiga cardíaca e pulmonar antes de o músculo-alvo ser suficientemente desafiado."
+		},
+		{
+			"title": "Ajustar o intervalo ao exercício",
+			"text": "Um levantamento composto pesado pode ser mais fácil de controlar com menos repetições. Um agachamento com o peso do corpo pode precisar de mais repetições até ficar difícil. Uma prancha mede-se normalmente pelo tempo que a mantém. A qualidade de movimento pretendida, a segurança, os pesos que tem e o equipamento devem orientar a escolha."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Um principiante pode fazer 2–3 séries de 8–12 agachamentos goblet, remadas e presses, mantendo algumas repetições em reserva. Se a mesma resistência se tornar fácil para doze repetições, aumente ligeiramente a carga ou escolha uma variação mais difícil. Quem mais tarde se focar na força pode fazer mais séries de menos repetições em levantamentos escolhidos."
+		},
+		{
+			"title": "Erro comum",
+			"text": "Uma meta de repetições significa pouco se ignorar quão perto de um esforço intenso a série fica. Dez repetições sem esforço e dez repetições perto do seu limite são doses de treino diferentes."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "O plano dá a cada exercício uma meta de repetições ou um tempo de isometria, e você escolhe a carga. Quando regenera o plano, este considera as suas avaliações de esforço e a parte de cada treino que concluiu. Se os seus últimos 4 treinos foram fáceis (RPE 5 ou menos) e completos, o plano seguinte fica um degrau mais difícil."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisão do continuum de repetições",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

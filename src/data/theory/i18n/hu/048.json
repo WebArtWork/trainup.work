@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Időskálák",
+			"text": "A mikrociklus rövid, ismétlődő időszak, gyakran egy hét. A mezociklus több hétből álló blokk egy fő fókusszal. A makrociklus hosszabb szezont vagy célidőszakot fed le. Ezek az elnevezések segítenek a tervezésben, a hosszuk pedig emberenként eltér."
+		},
+		{
+			"title": "Három megközelítés",
+			"text": "A lineáris progresszió lassan, egy általános irányban változtatja a változókat, például a könnyebb terhelésű, több ismétlésről a nehezebb terhelésű, kevesebb ismétlésre. A hullámzó edzés gyakrabban változtatja az ismétlési célokat vagy az intenzitást, például hétfőn nehéz, csütörtökön mérsékelt. A blokkperiodizáció egymás után futtatja a fázisokat, mindegyik egy konkrét képességre összpontosít."
+		},
+		{
+			"title": "Mit mutat a kutatás",
+			"text": "Az azonos mennyiségű terveket összehasonlító vizsgálatok a periodizált edzésnél lehetséges erőelőnyöket találnak a nem periodizálthoz képest, és edzett embereknél a hullámzó terveknél is. Az izomnövekedésben a különbségek kevésbé következetesek. A 2026-os ACSM állásfoglalás nem talált következetes izomnövekedési előnyt abból, ha csak periodizációt adunk hozzá. Egy bonyolultabb terv nem automatikusan jobb."
+		},
+		{
+			"title": "Példa",
+			"text": "Kezdőként ismételj meg egy kis fő gyakorlatkészletet hat héten át, és lassan építs fel ismétléseket vagy terhelést. Tedd nehezebbé a gyakorlatot, ahogy a technikád javul. A haladóbb emelők három hét nagyobb mennyiségű gyakorlást végezhetnek, majd egy nehezebb fázist és egy könnyebb regenerációs hetet, attól függően, hogyan reagálnak."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A terved 4 hétre szól, és a 4. hét egy könnyebb deload hét. A célod, az edzettségi szinted és a visszajelzéseid többet számítanak egy kidolgozott naptárnál. Új terv csak akkor készül, ha újragenerálod, és a legutóbbi edzéseid alapján egyszerre egy lépést változik."
+		}
+	],
+	"sources": [
+		{
+			"label": "A periodizáció és az edzéseredmények szisztematikus áttekintése",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35044672/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: a progressziós modell útmutatója",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

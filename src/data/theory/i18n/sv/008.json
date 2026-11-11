@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Varför vanor spelar roll",
+			"text": "Styrka, kardiovaskulär kapacitet och rörelsefärdighet utvecklas genom upprepad övning. Ett pass som ser bra ut på papper är oanvändbart om det är för långt, obekvämt eller obehagligt att upprepa. Det gör att frekvens och följsamhet är en del av programdesignen och inte bara en fråga om motivation."
+		},
+		{
+			"title": "Koppla träningen till en signal",
+			"text": "Knyt träningen till något som redan händer eller till en fast tid: ”Efter jobbet på måndag och torsdag gör jag mitt pass på 25 minuter.” Ordna kläder, utrymme eller utrustning i förväg. Gör första steget pytteliten, som att ta på dig skorna och börja en uppvärmning på fem minuter, så att du inte är beroende av entusiasm."
+		},
+		{
+			"title": "Ha ett minimipass",
+			"text": "En hektisk dag kan en knäböjsvariant, ett tryck eller drag och en kort promenad hålla vanan vid liv. Minimum är ingen permanent ersättning för progressiv träning. Dess uppgift är att hindra en missad dag från att bli flera missade veckor. Notera det du faktiskt gjorde, och logga inte ett förkortat pass som genomfört."
+		},
+		{
+			"title": "Hantera bakslag lugnt",
+			"text": "Ett missat pass raderar inte dina tidigare anpassningar. Fortsätt med nästa planerade pass och dubblera inte arbetsmängden för att ”betala tillbaka” missad träning. Efter sjukdom, svår trötthet eller ett långt uppehåll, sänk intensiteten och volymen tills din vanliga tolerans är tillbaka."
+		},
+		{
+			"title": "Granska din miljö",
+			"text": "Dålig sömn, en krånglig resa till gymmet, utrustning du inte kommer åt och pass som är för långa kan alla undergräva regelbundenheten. Att åtgärda dem kan hjälpa mer än att hitta en ny övning. Att njuta av träningen och välja den själv gör också en rutin lättare att hålla."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ange ett realistiskt antal träningsdagar och dina önskade dagar i Profil, och fyll i ditt utrymme och din utrustning så att planen bara väljer övningar som passar. Träningspåminnelser i Översikt kan vara din signal. Historik visar veckans pass och din totalsumma, och framstegen räknas över många veckor, så du behöver ingen perfekt svit."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: aktivitetsvanor och planering",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		},
+		{
+			"label": "WHO:s rekommendationer för aktivitet",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

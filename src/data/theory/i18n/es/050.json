@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Empieza por el propósito",
+			"text": "Para la forma física general, elige una combinación que puedas manejar de sentadillas o zancadas, bisagras, empujes, tracciones y trabajo de tronco. Para la fuerza, pon primero los patrones y ejercicios en los que producir más fuerza es lo importante. Para el acondicionamiento, añade actividad continua o por intervalos que se ajuste a tu nivel. Un ejercicio que parece impresionante pero no sirve a tu objetivo tiene poco valor especial."
+		},
+		{
+			"title": "Ajusta la complejidad a tu habilidad",
+			"text": "Un remo en máquina con apoyo puede entrenar la espalda de quien empieza mejor que una versión inestable con pesas libres. Una sentadilla goblet puede ser más fácil de aprender que una sentadilla trasera pesada con barra. Las pesas libres, las máquinas, las bandas y el peso corporal son formas válidas de añadir resistencia, y la declaración de posición del ACSM de 2026 no señaló un tipo de equipamiento como el mejor para todo el mundo."
+		},
+		{
+			"title": "Tu espacio y tu comodidad",
+			"text": "Comprueba que tienes suficiente espacio en el suelo y altura libre, una superficie segura y un equipamiento bien instalado. Si necesitas reducir el ruido o el impacto, elige step-ups o marcha en el sitio en lugar de saltos. Si una articulación te resulta incómoda, reduce la carga o el rango, o cambia a un patrón que te siente bien. Si el dolor persiste, pide consejo a un médico o a un fisioterapeuta."
+		},
+		{
+			"title": "Mantén algunos ejercicios fijos",
+			"text": "Si cambias de ejercicios en cada sesión, es difícil saber si estás mejorando. Mantén unos pocos movimientos ancla el tiempo suficiente para desarrollar habilidad y comparar tus números, y rótalos después cuando cambien tu acceso, tus preferencias o tu comodidad, o cuando llegues a una meseta. La variedad puede mantener tu interés, pero por sí sola no hace que el entrenamiento funcione mejor."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Tu plan usa solo ejercicios que encajan con tu equipamiento, tu espacio, tu techo, tu superficie, tus límites de saltos y de ruido, tus limitaciones, tu nivel y tu coordinación. Si ningún plan encaja, TrainUp te dice qué ajuste lo bloquea. En Ejercicios puedes buscar, filtrar por categoría o activar el filtro «Solo los adecuados para mí», y cada página de ejercicio muestra su patrón de movimiento y sus músculos."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: pesas libres frente a máquinas",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "NSCA: seguridad y fundamentos del entrenamiento de fuerza",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

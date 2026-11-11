@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Mitől nőnek az izmok",
+			"text": "Az izmok az ismételt mechanikai terhelésre és az elegendő regenerációra reagálva nőnek. A nagy változások általában hónapokat vagy éveket vesznek igénybe, nem néhány emelőedzést. Az erős lét és a nagyon izmosnak látszás különböző eredmények, és olyan edzéscélokat választhatsz, amelyek megfelelnek annak, amit szeretnél."
+		},
+		{
+			"title": "Mit mutatnak az összehasonlító vizsgálatok",
+			"text": "Egy 2025-ös metaanalízis azt találta, hogy a nők és a férfiak hasonló ellenállásos edzésprogramokon nagyjából hasonló relatív izommérettel gyarapodtak, bár a férfiak átlagos abszolút nyeresége kissé nagyobb volt. Ez nem ok arra, hogy lebeszéljék a nőket az emelésről. Azt mutatja, hogy a nők valódi izmot és erőt nyerhetnek."
+		},
+		{
+			"title": "Azért edzz, amit szeretnél",
+			"text": "Egyesek látható izomnövekedést szeretnének. Mások inkább a mindennapi erővel, a csontok egészségével, a sportteljesítménnyel vagy a magabiztossággal törődnek. Az edzésmennyiséged és gyakorlatválasztásod követheti ezeket a prioritásokat. Az erőedzés nem igényel testépítő rutinokat vagy nehezebb súlyokat minden nap."
+		},
+		{
+			"title": "Példa",
+			"text": "Heti két egész testes edzés guggolásokkal, evezésekkel, nyomásokkal és csípőhajlításokkal javíthatja az erőt és a működést. Kövesd a teljesítményedet, és ne aggódj, hogy egyetlen edzés hirtelen megváltoztatja, hogyan nézel ki."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban kiválasztod a célodat: általános erőnlét, erő vagy állóképesség. A terved ebből a célból, a szintedből, a felszerelésedből és az edzésvisszajelzéseidből épül fel, és nem ígér semmilyen konkrét testalkatot."
+		}
+	],
+	"sources": [
+		{
+			"label": "2025-ös szisztematikus áttekintés: izomnövekedés férfiaknál és nőknél",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/40028215/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

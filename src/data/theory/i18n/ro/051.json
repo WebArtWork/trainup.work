@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Variabile pe care le poți ajusta",
+			"text": "Pârghia, rezistența, sprijinul, amplitudinea și ritmul schimbă toate cât de greu este un exercițiu. O flotare înclinată este în general mai ușoară decât una pe podea, pentru că brațele susțin mai puțin din greutatea corpului. O ganteră ușoară face o genuflexiune mai grea, iar sprijinirea de un suport stabil face o fandare mai ușor de echilibrat."
+		},
+		{
+			"title": "Exemple cu flotări",
+			"text": "Începe la un perete sau pe o suprafață înaltă și solidă, apoi coboară mâinile pe o bancă sau un blat sigur pe măsură ce devii mai puternic. Treci la flotări pe podea și, mai târziu, dacă e util, la o variantă cu picioarele ridicate sau cu sarcină. O flotare pe genunchi și diferitele flotări înclinate nu au toate aceeași dificultate, așa că testează care îți permite repetări controlate."
+		},
+		{
+			"title": "Exemple cu genuflexiuni și trageri",
+			"text": "O genuflexiune la scaun poate duce la o genuflexiune cu greutatea corpului fără sprijin și apoi la o genuflexiune goblet. Pentru tragerea verticală, o tragere la piept sau o tragere la bară asistată pot veni înaintea repetărilor fără asistență. Notează orice schimbare de priză, asistență, amplitudine sau sarcină, ca să știi ce înseamnă cu adevărat o cifră mai bună în jurnalul tău."
+		},
+		{
+			"title": "Când schimbi",
+			"text": "Treci la o variantă mai grea când atingi intervalul-țintă cu tehnică stabilă și efort moderat. Treci la una mai ușoară dacă exercițiul îți face corpul să se răsucească sau să se deplaseze mult ca să-l duci la capăt, dacă ratezi mereu repetări sau dacă cerința de echilibru ți se pare nesigură. Dacă ceva este incomod, oprește-te și reevaluează. Durerea care persistă sau pare neobișnuită trebuie verificată de un medic sau de un fizioterapeut."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Planul tău alege exerciții potrivite cu nivelul, coordonarea, echipamentul, înălțimea tavanului, spațiul pe podea și orice limitări setate de tine. Când îl regenerezi, se schimbă câte un pas. Devine mai greu doar după ce ultimele tale 4 antrenamente au fost ușoare (RPE 5 sau mai puțin) și complete, fără durere recentă, și mai ușor când 2 din ultimele 3 au fost foarte grele (RPE 9 sau mai mult) sau finalizate sub 60%."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: tehnica antrenamentului cu greutăți (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Waarom screening ertoe doet",
+			"text": "De meeste mensen hebben baat bij meer bewegen, en zachte beweging is vaak een goed begin. Klachten, onstabiele gezondheidsproblemen of recente medische gebeurtenissen kunnen veranderen welke activiteiten veilig voor je zijn. Screening laat zien wanneer een zorgverlener of gekwalificeerde beweegprofessional je volgende stappen moet begeleiden."
+		},
+		{
+			"title": "De PAR-Q+",
+			"text": "De huidige Physical Activity Readiness Questionnaire for Everyone (PAR-Q+) gebruikt gestructureerde gezondheidsvragen met vervolgstappen, dus hij gaat verder dan één algemene checklist. Denk aan hart- of vaatproblemen, onbehandelde hoge bloeddruk, flauwvallen of onverklaarde duizeligheid, pijn op de borst, recente operaties, nieuwe of verergerende pijn en medicijnen die veranderen hoe je lichaam op inspanning reageert. Ook zwangerschap en de maanden na de bevalling vragen om persoonlijk advies."
+		},
+		{
+			"title": "Wat een ja-antwoord betekent",
+			"text": "Ja antwoorden op een screeningsvraag betekent niet automatisch dat je niet mag bewegen. Het kan betekenen dat je het officiële vervolgproces moet afronden of advies nodig hebt over intensiteit en beperkingen. Als je al veilig beweegt, is doorgaan op een vertrouwd niveau een andere beslissing dan beginnen met zware training die je nooit hebt gedaan."
+		},
+		{
+			"title": "Voorbeeld",
+			"text": "Iemand die jaren inactief is geweest en druk op de borst voelt tijdens stevig wandelen, moet geen maximale kracht- of intervalsessie proberen. Die persoon moet die activiteit stoppen en een medische beoordeling laten doen. Ernstige of aanhoudende klachten op de borst vragen om spoedeisende zorg. Iemand zonder zorgwekkende klachten kan beginnen met rustig wandelen en lichte krachtoefening en dan geleidelijk opbouwen."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Je kunt beperkingen per lichaamsdeel vastleggen in Profiel, met notities, en het schema kiest alleen oefeningen die erbij passen. TrainUp kan een medische aandoening niet goedkeuren of je klachten niet duiden, en een gegenereerde training is geen medische goedkeuring. Geeft de screening aanleiding tot zorgen, vraag dan je arts om advies voordat je een zwaar schema kiest."
+		}
+	],
+	"sources": [
+		{
+			"label": "Officiële PAR-Q+-screening",
+			"url": "https://eparmedx.com/"
+		},
+		{
+			"label": "CDC: veilig beginnen",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

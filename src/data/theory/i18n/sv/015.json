@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Viktiga mått",
+			"text": "Vilopulsen är din puls vid lugn vila. Maxpulsen (HRmax) är ungefär den snabbaste puls ditt hjärta kan nå vid maximal ansträngning. Åldersbaserade ekvationer uppskattar HRmax men mäter den inte. De välkända 220 − ålder och Tanakas 208 − 0,7 × ålder är genomsnitt för befolkningen, och för en enskild person kan de ligga långt ifrån."
+		},
+		{
+			"title": "Procentbaserade zoner",
+			"text": "Ett enkelt folkhälsoupplägg sätter måttlig aerob intensitet till omkring 50–70 % av uppskattad HRmax och hög intensitet till omkring 70–85 %. Träningsappar kan visa fem smalare zoner, men varje system använder olika gränser. En zonfärg eller ett enda pulsvärde kan inte bevisa var din personliga metabola tröskel ligger."
+		},
+		{
+			"title": "Pulsreserv (HRR)",
+			"text": "Karvonens metod använder både din max- och vilopuls: målpuls = vilopuls + intensitetsandel × (HRmax − vilopuls). Om till exempel HRmax är 190 och vilopulsen är 60 ger 60 % av HRR 60 + 0,60 × 130 = 138 slag/min. Ett mål på 60 % av HRR är något annat än 60 % av HRmax."
+		},
+		{
+			"title": "Pratprovet",
+			"text": "Vid måttlig ansträngning kan du oftast prata men inte sjunga bekvämt. Vid hög ansträngning blir det svårt att säga mer än några få ord. Provet är användbart när en bärbar enhet är oexakt eller du inte har någon. Pulsavläsningar kan släpa efter vid korta intervaller och ändras av värme, vätskebrist, stress, sjukdom eller läkemedel."
+		},
+		{
+			"title": "Exempel",
+			"text": "För ett lugnt aerobt pass, välj ett tempo där du fortfarande kan föra ett samtal. Följ hur din puls ändras över flera veckor i samma tempo. Den trenden kan säga dig mer än att jaga en fast ”fettförbränningszon”."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Efter varje pass skattar du hela passets ansträngning från 1 till 10, vilket fungerar med eller utan pulsdata, och andningssignaler hjälper dig att bedöma den. Om du har hjärtsjukdom eller tar läkemedel som påverkar pulsen, be din läkare om vägledning som passar dig."
+		}
+	],
+	"sources": [
+		{
+			"label": "American Heart Associations pulsvägledning",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Tanaka m.fl., ekvation för HRmax",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "CDC: pratprovet",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

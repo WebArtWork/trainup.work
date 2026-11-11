@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Allgemeine Fitness",
+			"text": "Das Ziel sind breite Leistungsfähigkeit und Gesundheit: Krafttraining für die wichtigen Bewegungsmuster, regelmäßige aerobe Aktivität und etwas Beweglichkeits- und Gleichgewichtsarbeit. Einheiten können moderate Wiederholungsbereiche und die Ausrüstung nutzen, die du hast. Fortschritt kann mehr wöchentliche Aktivität, mehr Energie im Alltag oder bessere Leistung bei Liegestützen und beim Gehen bedeuten."
+		},
+		{
+			"title": "Kraft",
+			"text": "Die Priorität ist, in den gewählten Bewegungen mehr Kraft zu erzeugen. Ein Kraftprogramm stellt meist die Hauptübungen an den Anfang der Einheit, steigert den Widerstand mit der Zeit und nutzt längere Pausen, damit Technik und Leistung stark bleiben. Höhere Lasten helfen am meisten für die Maximalkraft, aber Anfänger können stärker werden, ohne je ihr Maximum zu testen."
+		},
+		{
+			"title": "Kondition",
+			"text": "Die Priorität ist, Anstrengung durchzuhalten, sich zwischen Belastungsspitzen zu erholen oder die Herz-Kreislauf-Leistung zu verbessern. Gleichmäßiges Gehen, Radfahren, Joggen und Intervalle sind dafür alle geeignete Mittel. Wie viel leichte und harte Arbeit du machst, hängt von deinem Fitnesslevel, deinen Vorlieben, deiner Belastungsverträglichkeit und deiner Ausrüstung ab. Nicht jedes Konditionstraining sollte sich wie ein Rennen anfühlen."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Angenommen, du hast drei 40-Minuten-Einheiten pro Woche. Für eine Basis in allgemeiner Fitness könntest du zwei für Ganzkörper-Krafttraining und eine für Cardio nutzen. Ein Kraftblock könnte diese beiden Krafteinheiten beibehalten, eine dritte Hebeeinheit hinzufügen und etwas kurze aerobe Aktivität behalten. Ein Konditionsblock könnte sich mehr zur aeroben Arbeit verschieben und dabei, wenn möglich, mindestens zwei Krafteinheiten pro Woche beibehalten."
+		},
+		{
+			"title": "Überschneidung der Ziele",
+			"text": "Krafttraining kann die Kraftausdauer verbessern, und aerobes Training kann Erholung und Gesundheit unterstützen. Die Ziele unterscheiden sich im Schwerpunkt und überschneiden sich stark. Wähle vier bis acht Wochen lang ein Hauptziel und sieh dir dann deine Ergebnisse an, bevor du die Prioritäten änderst. Nach jedem Training zu wechseln macht Fortschritt schwer beurteilbar."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Du legst dein Ziel (allgemeine Fitness, Kraft oder Kondition) im Profil fest. Welches Ziel auch immer: Deine Ausrüstung, dein Platz und deine Einschränkungen entscheiden, welche Übungen in deinen Plan aufgenommen werden können."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO-Empfehlungen zur körperlichen Aktivität",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "A munka számolásának módjai",
+			"text": "A legegyszerűbb számolás a munkasorozatok száma. A „terhelési volumen” a sorozatok × ismétlések × súly szorzata, így három sorozat tízes ismétléssel 40 kg-mal 1200 kg terhelési volument ad az adott gyakorlatra. Ez akkor segít, ha ugyanazt a mozgást hasonlítod össze az idő során. Gyakorlatok között nem működik: egy gépi nyomás és egy saját testsúlyos fekvőtámasz nem fordítható le azonos kilogrammnyi ingerre."
+		},
+		{
+			"title": "Kemény sorozatok izmonként",
+			"text": "Az izomnövekedéshez az edzők gyakran az egyes izomcsoportokat terhelő kemény sorozatokat számolják. Az összetett emelések több izomnak is beleszámítanak, bár nem mindig egyformán. A guggolás erősen edzi a térd- és csípőfeszítőket, az evezés pedig a hát és a karok munkáját növeli. Ha minden érintett izmot úgy számolsz, mintha ugyanakkora ingert kapna, az összesítésed túl magas lesz."
+		},
+		{
+			"title": "Hány sorozatot érdemes végezni",
+			"text": "A 2026-os ACSM állásfoglalás szerint a magasabb heti volumen, beleértve az izomcsoportonként legalább körülbelül tíz sorozatot, növelheti a hipertrófiát. Ez nem mindenkinek kezdő adag, és nem garantál fejlődést. A kezdők gyakran kevesebb sorozattal is fejlődnek. A tapasztaltabb edzők profitálhatnak többől, ha az idő, a technika és a regeneráció megengedi."
+		},
+		{
+			"title": "Építkezz fokozatosan",
+			"text": "Egy új edző kezdhet minden alkalommal több mintából két-két sorozattal, hetente kétszer. Néhány hét egyenletes teljesítmény után csak akkor adj egy sorozatot egy lemaradó mintához, ha az izomláz, az alvás és az edzés minősége megengedi. Ha egy izomnál hat kemény heti sorozatról húszra ugrasz, az fáradási kockázatot ad ok nélkül."
+		},
+		{
+			"title": "Minőség és mennyiség",
+			"text": "A rossz technikával, kis erőkifejtéssel vagy nagy fáradtságban végzett sorozatok is növelik a táblázat végösszegét, de keveset adnak. Az egyenletes, következetes fejlődés fontosabb, mint a legmagasabb volumen."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Minden edzésen kipipálod a sorozataidat és rögzíted az ismétléseidet, az Előzmények pedig megmutatják az átlagos erőfeszítésedet és egy 4 hetes grafikont. Hasonló heteket hasonlíts össze. Ha az erőfeszítés a vártnál magasabb, vagy az ismétléseid csökkennek, nézd meg a volumenedet, mielőtt többet adnál hozzá."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "A hipertrófiamechanizmusok áttekintése",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

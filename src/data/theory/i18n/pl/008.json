@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Dlaczego nawyki mają znaczenie",
+			"text": "Siła, wydolność krążeniowa i umiejętności ruchowe rozwijają się dzięki powtarzanej praktyce. Trening, który świetnie wygląda na papierze, na nic się nie zda, jeśli jest zbyt długi, niewygodny lub nieprzyjemny do powtarzania. Dlatego częstotliwość i systematyczność są częścią projektowania programu, a nie tylko kwestią motywacji."
+		},
+		{
+			"title": "Powiąż trening z sygnałem",
+			"text": "Powiąż trening z czymś, co już się dzieje, albo ze stałym terminem: „Po pracy w poniedziałek i czwartek robię swój 25-minutowy trening”. Przygotuj z wyprzedzeniem ubranie, miejsce lub sprzęt. Zrób pierwszy krok maleńkim, na przykład włóż buty i zacznij pięciominutową rozgrzewkę, by nie zależeć od entuzjazmu."
+		},
+		{
+			"title": "Miej wersję minimum",
+			"text": "W zabiegany dzień jeden wariant przysiadu, jedno pchanie lub ciągnięcie i krótki spacer mogą podtrzymać nawyk. Minimum nie jest stałym zamiennikiem treningu z progresją. Jego zadaniem jest zapobieganie temu, by jeden opuszczony dzień zamienił się w kilka tygodni przerwy. Zapisuj to, co faktycznie zrobiłeś, i nie oznaczaj skróconego treningu jako ukończonego."
+		},
+		{
+			"title": "Spokojnie traktuj potknięcia",
+			"text": "Opuszczony trening nie kasuje wcześniejszych adaptacji. Wróć przy następnym zaplanowanym treningu i nie podwajaj obciążenia, by „odrobić” stracony. Po chorobie, silnym zmęczeniu lub długiej przerwie zmniejsz intensywność i objętość, aż wróci zwykła tolerancja."
+		},
+		{
+			"title": "Sprawdź swoje otoczenie",
+			"text": "Słaby sen, skomplikowany dojazd na siłownię, sprzęt, do którego nie możesz się dostać, i zbyt długie treningi mogą podważać regularność. Naprawienie tego może pomóc bardziej niż szukanie nowego ćwiczenia. Przyjemność z treningu i samodzielny wybór też ułatwiają utrzymanie rutyny."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Ustaw w Profilu realistyczną liczbę dni treningowych i preferowane dni, a także wpisz swoją przestrzeń i sprzęt, by plan wybierał tylko pasujące ćwiczenia. Przypomnienia o treningu w Panelu mogą być Twoim sygnałem. Historia pokazuje treningi z tego tygodnia i Twoją sumę, a liczy się postęp z wielu tygodni, więc nie potrzebujesz idealnej serii bez przerw."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: nawyki aktywności i planowanie",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		},
+		{
+			"label": "Zalecenia WHO dotyczące aktywności",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

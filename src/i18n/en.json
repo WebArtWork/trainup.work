@@ -11,7 +11,7 @@
 	"Landing",
 	"All rights reserved.",
 	"Company image",
-	"A mobile app that builds an achievable workout plan around your goal, level, equipment, free space and schedule — no prompts, no chats.",
+	"A mobile app that builds an achievable workout plan around your goal, level, equipment, free space and schedule, no prompts, no chats.",
 	"Mobile workout app · in development",
 	"A realistic workout plan for your equipment and space",
 	"Pick your goal, level, schedule, equipment and free space to train — TrainUp builds an achievable program, guides you through every workout with exercise images, and adjusts upcoming sessions to how you feel.",
@@ -771,5 +771,6 @@
 	"Your data",
 	"entry",
 	"entries",
-	"No entries"
+	"No entries",
+	"Theories"
 ]

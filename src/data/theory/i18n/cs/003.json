@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Celková kondice",
+			"text": "Cílem je široká schopnost a zdraví: odporový trénink hlavních pohybových vzorců, pravidelná aerobní aktivita a trocha mobility a rovnováhy. V trénincích lze používat střední rozsahy opakování a jakékoli vybavení, které máte. Pokrok může znamenat víc týdenní aktivity, víc energie během dne nebo lepší výkon při kliku a při chůzi."
+		},
+		{
+			"title": "Síla",
+			"text": "Prioritou je vyvinout větší sílu v pohybech, které zvolíte. Silový program obvykle zařazuje hlavní zdvihy na začátek tréninku, časem zvyšuje odpor a využívá delší odpočinky, aby technika i výkon zůstaly silné. Vyšší zátěže nejvíc pomáhají pro maximální sílu, ale začátečníci mohou zesílit, aniž by kdy testovali své maximum."
+		},
+		{
+			"title": "Vytrvalost",
+			"text": "Prioritou je udržet úsilí, regenerovat mezi výkony nebo zlepšit kardiovaskulární kapacitu. K tomu slouží stálá chůze, jízda na kole, pomalý běh i intervaly. Kolik lehké a náročné práce uděláte, závisí na vaší úrovni kondice, preferencích, toleranci nárazů a vybavení. Ne každý kondiční trénink by měl připomínat závod."
+		},
+		{
+			"title": "Příklad",
+			"text": "Řekněme, že máte tři 40minutové tréninky týdně. Pro základ celkové kondice můžete dva použít na celotělový odporový trénink a jeden na kardio. Silový blok může ponechat tyto dva odporové tréninky, přidat třetí zdvihací trénink a zachovat krátkou aerobní aktivitu. Vytrvalostní blok se může přesunout k aerobní práci a přitom, když to jde, zachovat alespoň dva silové tréninky týdně."
+		},
+		{
+			"title": "Překryv mezi cíli",
+			"text": "Odporový trénink může zlepšit svalovou vytrvalost a aerobní trénink může pomoci regeneraci a zdraví. Cíle se liší důrazem a hodně se překrývají. Vyberte si jeden hlavní cíl na čtyři až osm týdnů a pak se podívejte na výsledky, než změníte priority. Přepínání po každém tréninku ztěžuje posouzení pokroku."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "Cíl (celková kondice, síla nebo vytrvalost) nastavíte v Profilu. Ať je cíl jakýkoli, o tom, které cviky se do vašeho plánu dostanou, rozhoduje vaše vybavení, prostor a omezení."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Doporučení WHO pro pohybovou aktivitu",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

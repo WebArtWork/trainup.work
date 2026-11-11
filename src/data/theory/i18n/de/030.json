@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ein Zeitbudget aufstellen",
+			"text": "Die Gesamtzeit eines Trainings umfasst Vorbereitung, Aufwärmen, den Aufbau jeder Übung, Arbeitssätze, Pausen, Wechsel zwischen den Übungen und ein optionales Abkühlen. In einer Krafteinheit ist die Zeit, in der du wirklich hebst, oft nur ein kleiner Teil des Ganzen. Drei 40-Sekunden-Sätze mit zwei Minuten Pause dazwischen dauern für diese Übung etwa sechs Minuten, noch ohne Geräteumbau."
+		},
+		{
+			"title": "Eine einfache Schätzung",
+			"text": "Addiere die Aufwärmzeit, die Länge jedes Arbeitssatzes, die Pausen zwischen den Sätzen und die Wechsel. Zum Beispiel sind vier Übungen × drei 40-Sekunden-Sätze acht Minuten tatsächliche Arbeit. Hat jede Übung zwei Pausen von 90 Sekunden, kommen zwölf Minuten dazu. Sechs Minuten Aufwärmen und etwa acht Minuten für Aufbau und Wechsel bringen die Einheit auf etwa 34 Minuten. Längere Pausen bei schwerer Arbeit können die Gesamtzeit stark verändern."
+		},
+		{
+			"title": "20-Minuten-Variante",
+			"text": "Halte das Aufwärmen kurz, wähle zwei oder drei wichtige Bewegungsmuster und mache von jedem einige gute Sätze. Eine Druck- und eine Zugübung zu paaren, kann Wechselzeit sparen, wenn Ausrüstung und Technik es erlauben, aber kürze die Pause nicht so weit, dass du das Hauptkraftziel verlierst."
+		},
+		{
+			"title": "Varianten mit 30 bis 45 Minuten",
+			"text": "Ergänze ein Hüftbeugen oder einen Ausfallschritt, eine Core-Übung oder zusätzliche Sätze für dein Prioritätsmuster. Wenn allgemeine Fitness dein Ziel ist, nutze die übrige Zeit für aerobe Arbeit. Du musst nicht jede freie Minute mit „Finishern“ füllen."
+		},
+		{
+			"title": "Deine Prioritäten schützen",
+			"text": "Wenn die Zeit knapp ist, streiche zuerst die Zusatzübungen mit niedriger Priorität. Behalte das Aufwärmen und hetze nicht durch deine schweren Verbundübungen. Wenn das ganze Programm immer überzogen wird, plane weniger für jede Einheit, statt auf ein Tempo zu zählen, das du nicht halten kannst."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Stelle die Länge deiner Einheit im Profil auf die Minuten ein, die du wirklich hast. Wenn du die Hauptarbeit mit guter Technik schaffst, war die Einheit ein Erfolg, auch wenn du die optionalen Extras ausgelassen hast."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC: Praktische Aktivitätsplanung",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

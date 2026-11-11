@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Válassz elérhető mozgást",
+			"text": "A séta, a kerékpározás, az úszás, a támasztott guggolás és a gépi erőgyakorlatok kényelmes kiindulópontok lehetnek, a képességeidtől és a preferenciádtól függően. Egyeseknek a kocogás és az ismételt ugrás nagyobb igénybevételt jelent az ízületeknek vagy a légzésnek, mint az alacsony ütésterhelésű lehetőségek. A testméret önmagában nem tesz egyiket sem helyessé vagy helytelenné."
+		},
+		{
+			"title": "Kezdd olyan adaggal, amelyet bírsz",
+			"text": "Egy rövid séta vagy néhány sorozat támasztott erőgyakorlat elég lehet a szokás kialakításához. Fokozatosan adj hozzá időt, távolságot vagy ismétléseket, ahogy a magabiztosságod és a tűrőképességed nő. Figyelj arra, hogyan érződik a mozgás, és mit tudsz csinálni a jövő héten, ne csak a mérlegre."
+		},
+		{
+			"title": "Nézz több eredményt",
+			"text": "A könnyebb lépcsőzés, a hosszabb séták, a több ismétlés és a jobb regeneráció mind fejlődésnek számít. A testsúly változása sok tényezőtől függ, beleértve az étkezési szokásokat, a gyógyszereket és az egészségi állapotokat. Az erőnléted nagy súlyváltozás nélkül is javulhat."
+		},
+		{
+			"title": "Kezdd ott, ahol vagy",
+			"text": "Egyeseknek már sok mozgástapasztalatuk van, másoknak kevés felszerelésük vagy magánszférájuk. Igazítsd a gyakorlatokat a helyzetedhez. A fogyás nem kell, hogy a célod legyen."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban add meg az edzésterepedet, azt, hogy az ugrás rendben van-e, az esetleges testtájankénti korlátaidat és az edzettségi szintedet. A terv csak olyan gyakorlatokat választ, amelyek illenek ezekhez a beállításokhoz. A TrainUp a mozgást tanítja, étrendet vagy orvosi testsúlykezelést nem ad, ezért ha tüneteid vagy összetett egészségi állapotaid vannak, kérj egyéni tanácsot orvostól."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: séta az egészségért",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "CDC: egészséges testsúly és aktivitás",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

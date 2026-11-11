@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Přínosy a limity",
+			"text": "Cvičení s vlastní vahou jde dělat kdekoli, často stojí málo a nabízí mnoho možností pro začátečníky. Může trénovat rovnováhu, koordinaci, sílu a svalovou vytrvalost. Některé vzorce je bez vybavení nebo spolehlivého bodu ukotvení těžší přesně zatěžovat, zejména hinge dolní poloviny těla, která chcete stále ztěžovat, a horizontální přítahy."
+		},
+		{
+			"title": "Udělejte to náročným",
+			"text": "Klik o zeď může vést ke kliku s vyvýšením a pak ke kliku na podlaze. Dřepy mohou postupovat přes větší kontrolu, pauzy a později varianty zaměřené na jednu nohu. Plank lze ztížit delší pákou dřív, než přidáte čas. Cvik ztěžujte jen tehdy, dokud dokážete opakování stále čistě opakovat. Hromadění desítek snadných opakování může posunout tréninkový efekt směrem k vytrvalosti."
+		},
+		{
+			"title": "Pracujte s vaším vybavením",
+			"text": "Bezpečná hrazda vám umožní trénovat vertikální přítah a pevně instalovaný závěsný trenažér může umožnit přítahy. Nepředpokládejte, že domácí stůl, dveře nebo zábradlí udrží vaši váhu. Pokud nemáte bezpečné ukotvení, zvolte jiný vzorec nebo použijte gumy a jednoručky, které máte."
+		},
+		{
+			"title": "Příklad",
+			"text": "První trénink může zahrnovat po dvou sériích dřepů na židli, kliků s vyvýšením, podepřených zpětných výpadů, glute bridge a dead bug. Počet opakování zvolte podle toho, jak dobře pohyb ovládáte a jak je těžký. Neexistuje jediný povinný cíl. Odpočívejte dost dlouho, abyste zachovali správné provedení."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Pokud nemáte žádné vybavení, uveďte to v Profilu a nastavte velikost své plochy a zda jsou skoky v pořádku. Plán pak vybere jen cviky s vlastní vahou, které odpovídají vašemu prostoru, omezení skákání a úrovni. Hrazdu označte jako dostupnou jen tehdy, je-li bezpečně nainstalovaná; jinak plán vynechá cviky, které ji vyžadují."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: doporučení k síle a flexibilitě",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

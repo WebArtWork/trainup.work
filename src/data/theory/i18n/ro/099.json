@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ce schimbă încărcarea genunchilor",
+			"text": "Adâncimea genuflexiunii, înălțimea treptei, echilibrul, viteza, rezistența și impactul săriturilor schimbă toate cât de greu lucrează genunchii. Nu există o regulă universală că genunchiul nu trebuie să treacă niciodată de vârfurile degetelor. Cât poate înainta confortabil genunchiul diferă de la o persoană la alta și de la o activitate la alta."
+		},
+		{
+			"title": "Înlocuiri practice",
+			"text": "O ridicare controlată de pe scaun, o genuflexiune cu picioarele decalate sprijinită sau o urcare joasă pe treaptă pot fi mai ușor de învățat decât o genuflexiune rapidă cu săritură. O variantă mai puțin adâncă sau mai lentă se poate simți mai confortabil în unele cazuri. Când impactul este o problemă, condiția fizică cu impact redus, cum ar fi ciclismul sau mersul pe teren plan, poate funcționa mai bine decât săriturile."
+		},
+		{
+			"title": "Crește treptat",
+			"text": "Începe cu o mișcare și cu o cantitate de antrenament pe care genunchii tăi le tolerează. Adaugă sarcină, adâncime sau repetări doar cât simptomele rămân acceptabile în timpul și după antrenament. Nu tot testa o poziție dureroasă ca să vezi dacă „s-a rezolvat de la sine”. Sfaturile generale despre exerciții nu sunt un diagnostic și nici un program de recuperare."
+		},
+		{
+			"title": "Când să ceri ajutor",
+			"text": "Un genunchi foarte dureros, vizibil deformat sau umflat puternic, imposibilitatea de a te sprijini pe el, blocarea, febra cu roșeață sau simptomele după o accidentare semnificativă cer o evaluare profesională promptă. Problemele care persistă ar trebui verificate și ele."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Adaugă genunchii ca limitare în Profil, cu o notă, și setează dacă săriturile sunt în regulă. Planul omite apoi exercițiile care nu se potrivesc. Dacă un exercițiu doare, „Simt durere” îl încheie și îl ține în afara planurilor tale până îl reactivezi din Profil. Niciun exercițiu nu este garantat „sigur pentru genunchi” pentru toată lumea."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: durerea de genunchi și când să ceri ajutor",
+			"url": "https://www.nhs.uk/symptoms/knee-pain/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

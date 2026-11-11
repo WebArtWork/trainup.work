@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Co roste",
+			"text": "Odporové cvičení spouští signální dráhy a přestavbu svalových bílkovin. Během opakovaných tréninků se rovnováha mezi tvorbou a odbouráváním svalových bílkovin může naklonit ve prospěch větších svalových vláken. Trvá to týdny až měsíce. Rané změny vzhledu nebo tělesné hmotnosti mohou pocházet také z tekutin, glykogenu nebo variability měření."
+		},
+		{
+			"title": "Proč záleží na napětí",
+			"text": "Silné svalové stahy vystavují vlákna mechanickému napětí. Těžší i lehčí zátěže mohou podpořit růst, pokud série děláte s dostatečným úsilím a dobrou technikou. Trénink s velmi lehkým odporem, daleko od únavy, nemusí dát dostatečný podnět pro znatelný růst."
+		},
+		{
+			"title": "Objem a frekvence",
+			"text": "Počítání náročných sérií za týden je užitečný způsob, jak organizovat práci na hypertrofii. Stanovisko ACSM 2026 zjistilo lepší růst při vyšším týdenním objemu a důkazy pro maximalizaci růstu v příslušných srovnávacích studiích upřednostňovaly alespoň zhruba deset týdenních sérií na svalovou skupinu. Toto číslo není povinné výchozí minimum. Začátečníci mohou růst s méně sériemi a meze regenerace se člověk od člověka liší. Frekvence vám hlavně pomáhá rozložit potřebnou práci do týdne."
+		},
+		{
+			"title": "Regenerace a výživa",
+			"text": "Dostatek bílkovin a energie ve stravě podporuje adaptaci a spánek a odpočinek vám pomáhají zvládat opakovaný trénink. TrainUp poskytuje obecné vzdělávání o cvičení a nedává osobní jídelníčky ani kalorické cíle. Rychlost, jakou se objeví viditelné přírůstky, ovlivňují také genetika, tréninkový věk a zdraví."
+		},
+		{
+			"title": "Příklad",
+			"text": "Začněte středním mixem dřepů, předklonů v kyčlích, tlaků a tahů. Zapisujte týdenní série a opakování. Pokud se váš výkon zlepšuje, bolestivost zůstává snesitelná a dobře regenerujete, pomalu přidávejte opakování nebo trochu zátěže dřív, než přidáte další série."
+		},
+		{
+			"title": "Častý omyl",
+			"text": "Bolestivost neměří růst svalů a nemusíte dosáhnout selhání v každé sérii. Programy, které fungují, stojí na náročném tréninku, který dokážete opakovat, ne na maximálním vyčerpání."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Přehled mechanismů svalového růstu",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

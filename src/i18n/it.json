@@ -11,7 +11,7 @@
 	"Home",
 	"Tutti i diritti riservati.",
 	"Immagine aziendale",
-	"Un’app mobile che crea un piano di allenamento realistico in base al tuo obiettivo, livello, attrezzatura, spazio libero e programma — senza prompt né chat.",
+	"Un’app mobile che crea un piano di allenamento realistico in base al tuo obiettivo, livello, attrezzatura, spazio libero e programma, senza prompt né chat.",
 	"App mobile per l’allenamento · in sviluppo",
 	"Un piano di allenamento realistico per la tua attrezzatura e il tuo spazio",
 	"Scegli obiettivo, livello, programma, attrezzatura e spazio libero per allenarti — TrainUp crea un programma realizzabile, ti guida in ogni allenamento con immagini degli esercizi e adatta le sessioni successive a come ti senti.",
@@ -771,5 +771,6 @@
 	"I tuoi dati",
 	"voce",
 	"voci",
-	"Nessuna voce"
+	"Nessuna voce",
+	"Theories"
 ]

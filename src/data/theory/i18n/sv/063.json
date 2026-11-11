@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Börja med en lätt repetition",
+			"text": "Gör rörelsen utan vikt eller med det lättaste redskap du har. Lägg till en liten vikt för ett uppvärmningsset och kontrollera att ditt rörelseomfång, din andning och ditt tempo hålls jämna. Varje rörelse har sin egen arbetsvikt: en vikt som känns bekväm för en rodd kan vara långt för tung för ett sidolyft."
+		},
+		{
+			"title": "Repetitioner i reserv",
+			"text": "Repetitioner i reserv (RIR) är hur många fler repetitioner med bra form du tror att du skulle kunna göra. För allmän träning är det ett praktiskt startläge att avsluta många set med ungefär två eller tre repetitioner kvar, även om du inte behöver träffa det varje gång. Om ett planerat set på 10 känns som att du kunde göra 10 till kan vikten vara för lätt för ditt mål."
+		},
+		{
+			"title": "Justera under passet",
+			"text": "Säg att programmet kräver tre set på åtta till tolv. Om ditt första set slutar på åtta med darrig teknik och inget kvar, sänk vikten. Om tolv repetitioner går mjukt och fortfarande är ganska lätta, prova en liten ökning på nästa set. Vila tillräckligt länge för att avgöra om vikten eller tröttheten orsakade problemet."
+		},
+		{
+			"title": "När viktstegen är för stora",
+			"text": "Om nästa hantel är för tung, lägg till en repetition, en kontrollerad paus eller ett till bra set. Om även din lättaste vikt är för tung, använd kroppsvikt, ett träningsband eller en annan hävarm. Kämpa aldrig igenom misslyckade repetitioner för att nå ett visst antal."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ditt program anger set, repetitioner och vila men inga vikter, så du väljer belastningen. Under passet, anteckna de repetitioner du faktiskt gjorde, och efteråt, skatta passets ansträngning från 1 till 10. Om du känner smärta, blir yr eller ständigt tappar tekniken, avbryt eller byt övning. Lägg inte på motstånd. ”Jag känner smärta” avslutar den pågående övningen direkt."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Sammanfattning av ACSM:s vägledning om styrketräning 2026",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Mayo Clinic: säkerhet och teknik vid styrketräning",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

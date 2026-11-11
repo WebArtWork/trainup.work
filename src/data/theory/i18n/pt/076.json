@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "O que significa baixo impacto",
+			"text": "Os movimentos de baixo impacto costumam manter pelo menos um pé no chão ou usar equipamento, como uma bicicleta estática, para eliminar o impacto no solo. O baixo impacto pode continuar a ser de alta intensidade e a carregar as articulações. Um intervalo difícil de bicicleta pode exigir muito do coração e dos pulmões, e alguns exercícios com degrau continuam a pedir muito aos joelhos e às ancas."
+		},
+		{
+			"title": "Boas escolhas de movimento",
+			"text": "A caminhada rápida, a marcha, os toques de passo, o shadow boxing sem saltitar, as subidas controladas a um degrau, a bicicleta e as máquinas elípticas são todos opções práticas. Numa divisão pequena, alterne a marcha rápida com passos laterais deliberados ou socos leves. Escolha movimentos que pareçam estáveis e não acrescente torções rápidas só para tornar mais difícil."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Depois de um aquecimento gradual, repita seis vezes 45 segundos de marcha rápida e 45 segundos de caminhada fácil. Defina o seu próprio ritmo e descanso; não copie a velocidade de outra pessoa. Para progredir, aumente os períodos ativos ou a sessão inteira antes de procurar velocidade explosiva."
+		},
+		{
+			"title": "Corresponda ao motivo por que evita o impacto",
+			"text": "Se o problema for o ruído, deixar de saltar pode bastar. Se um joelho, um tornozelo ou as costas estiverem sensíveis, até o simples passo pode doer e pode precisar de consultar um médico ou fisioterapeuta. O treino de baixo impacto não é um tratamento e não garante alívio da dor."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "No Perfil, defina se pode saltar, quanto ruído é aceitável, a sua superfície, o seu nível, o seu equipamento e quaisquer limitações por zona do corpo. O plano usa-os todos em conjunto e, quando os saltos estão desligados, deixa de fora a corda de saltar e outros exercícios de salto. A marcha ou a bicicleta podem manter o esforço no lugar deles. Avalie depois o esforço da sessão como habitualmente."
+		}
+	],
+	"sources": [
+		{
+			"label": "Recomendações do CDC sobre atividade física para adultos",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: medir a intensidade da atividade e o teste da conversa",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Biblioteca de exercícios da ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

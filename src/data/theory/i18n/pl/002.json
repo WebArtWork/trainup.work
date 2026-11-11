@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Główne składowe",
+			"text": "Siła to zdolność wytwarzania napięcia, a moc to siła wytworzona szybko. Wytrzymałość mięśniowa oznacza powtarzanie lub utrzymywanie skurczów. Wytrzymałość krążeniowo-oddechowa wspiera dłuższe wysiłki i zależy od serca, płuc, krążenia i mięśni. Mobilność to zdolność aktywnego poruszania się w użytecznych zakresach, a elastyczność opisuje, jak daleko sięga tkanka lub staw podczas rozciągania. Równowaga i koordynacja pomagają kontrolować ruch."
+		},
+		{
+			"title": "Skład ciała",
+			"text": "Względne ilości mięśni, tłuszczu, kości i innych tkanek mogą mieć znaczenie dla zdrowia lub sportu, ale nie opisują w pełni sprawności. Dwie osoby o podobnej masie ciała mogą bardzo się różnić siłą, wydolnością krążeniową czy umiejętnościami ruchowymi. Wygląd nie zastąpi sprawdzenia, co faktycznie potrafisz zrobić."
+		},
+		{
+			"title": "Jak składowe na siebie wpływają",
+			"text": "Przysiad wymaga siły nóg i tułowia, wystarczającej mobilności dla wybranej głębokości oraz koordynacji, by utrzymać obciążenie pod kontrolą. Wędrówka bardziej angażuje wytrzymałość tlenową i mięśniową, choć pomagają też siła i równowaga. Poprawa jednej cechy może pomóc innej, ale nie wytrenuje wszystkich w równym stopniu."
+		},
+		{
+			"title": "Trening według celu",
+			"text": "Tydzień nastawiony na ogólną sprawność może obejmować dwa treningi oporowe całego ciała, umiarkowany marsz lub jazdę na rowerze oraz krótką pracę nad równowagą lub mobilnością. Nacisk na siłę oznacza ćwiczenia oporowe, które z czasem stają się trudniejsze, z wystarczającym odpoczynkiem między wysiłkami. Nacisk na kondycję poświęca więcej czasu na ciągły ruch i interwały, zachowując część pracy siłowej."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Wybierz główny cel w Profilu i nadal wykonuj trochę pracy nad pozostałymi cechami. Postępy mierz tym, co pasuje do każdej z nich: powtórzeniami lub ciężarem dla siły, tempem i oddechem dla kondycji, kontrolowanym zakresem dla mobilności. Nie oceniaj treningu po tym, jak bardzo się spociłeś ani ile kalorii spaliłeś."
+		}
+	],
+	"sources": [
+		{
+			"label": "Pojęcia sprawności fizycznej (HHS)",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Zalecenia WHO",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

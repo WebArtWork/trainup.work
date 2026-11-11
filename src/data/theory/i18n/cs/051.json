@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Proměnné, které můžete upravit",
+			"text": "Páka, odpor, opora, rozsah pohybu a tempo mění, jak těžký cvik je. Klik s vyvýšenýma rukama je obecně snazší než klik na podlaze, protože paže nesou menší část vaší tělesné hmotnosti. Lehká jednoručka dělá dřep těžším a držení se stabilní opory usnadňuje udržení rovnováhy při výpadu."
+		},
+		{
+			"title": "Příklady kliků",
+			"text": "Začněte u zdi nebo na pevné vysoké ploše, pak ruce s postupem síly snižujte na bezpečnou lavici nebo desku. Přejděte na kliky na podlaze a později, pokud je to užitečné, na variantu s vyvýšenýma nohama nebo se zátěží. Klik na kolenou a různé kliky s vyvýšením nemají všechny stejnou obtížnost, proto vyzkoušejte, která vám dovolí dělat kontrolovaná opakování."
+		},
+		{
+			"title": "Příklady dřepů a přítahů",
+			"text": "Dřep na židli může vést k dřepu s vlastní vahou bez opory a pak ke goblet dřepu. U vertikálního přítahu může stahování na kladce nebo asistovaný shyb předcházet shybům bez asistence. Zapisujte si jakoukoli změnu úchopu, asistence, rozsahu nebo zátěže, abyste věděli, co lepší číslo ve vašem záznamu opravdu znamená."
+		},
+		{
+			"title": "Kdy změnit",
+			"text": "Postupte výš, když dosáhnete cílového rozsahu s pevnou technikou a středním úsilím. Postupte níž, pokud se tělo musí při cviku hodně kroutit nebo posouvat, aby ho dokončilo, pokud opakování stále nezvládáte nebo pokud nárok na rovnováhu působí nebezpečně. Pokud je něco nepohodlné, přestaňte a znovu to zhodnoťte. Bolest, která přetrvává nebo působí neobvykle, vyžaduje vyšetření u lékaře nebo fyzioterapeuta."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Váš plán vybírá cviky podle vaší úrovně, koordinace, vybavení, výšky stropu, místa na podlaze a omezení, která nastavíte. Když ho znovu vytvoříte, mění se po jednom kroku. Těžší je až poté, co byly vaše poslední 4 tréninky lehké (RPE 5 nebo méně) a dokončené bez nedávné bolesti, a lehčí, když byly 2 z posledních 3 velmi těžké (RPE 9 nebo více) nebo dokončené z méně než 60 %."
+		}
+	],
+	"sources": [
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: technika posilování (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

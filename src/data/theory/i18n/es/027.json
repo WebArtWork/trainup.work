@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Dos recuentos distintos",
+			"text": "Puedes entrenar cuatro días a la semana y trabajar las piernas solo una vez, o entrenar tres días de cuerpo completo y trabajar las piernas tres veces. Así que el número de sesiones y el número de veces que se entrena cada músculo son recuentos distintos. Las series duras semanales y la recuperación deciden en gran medida lo bien que funciona cualquiera de los dos horarios."
+		},
+		{
+			"title": "Un punto de partida práctico",
+			"text": "Para muchos adultos sanos, dos días de entrenamiento de fuerza que cubran los principales grupos musculares son una base de salud alcanzable. La declaración de posición del ACSM de 2026 informa de beneficios de fuerza al entrenar al menos dos veces por semana. Para el crecimiento muscular, cuando las series semanales son iguales, repartir las mismas series en más días no ha aumentado de forma fiable las ganancias."
+		},
+		{
+			"title": "Horario de dos días",
+			"text": "Haz dos entrenamientos de cuerpo completo con días de recuperación entre ellos, como el lunes y el jueves. Cubre los patrones principales, descansa lo suficiente y céntrate en completar las sesiones semana tras semana. Esto suele funcionar mejor que un ambicioso plan de cinco días que no puedes mantener."
+		},
+		{
+			"title": "De tres a cinco días",
+			"text": "Tres días pueden contener sesiones de cuerpo completo o una rotación de patrones. Cuatro días pueden ir bien para alternar tren superior e inferior. Cinco días pueden funcionar para quienes tienen experiencia, con objetivos específicos y sesiones que no son demasiado largas. Entrenar más días no significa entrenar duro cada músculo cada día."
+		},
+		{
+			"title": "Recuperación y progresión",
+			"text": "El entrenamiento duro causa fatiga en los músculos que trabajaste y en el cuerpo en conjunto. Según la carga de trabajo, un grupo muscular puede necesitar aproximadamente de uno a varios días antes de otra sesión igual de dura. El conocido intervalo de 48 horas es una regla de partida útil para las sesiones duras, pero no es un cronómetro biológico que valga para todos los ejercicios."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "En Perfil defines cuántos días a la semana entrenas y qué días prefieres. Elige un número que puedas mantener de verdad. Si tus sesiones se alargan una y otra vez, reparte el trabajo en más días en vez de amontonar trabajo extra en cada una."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Frecuencia de fortalecimiento según la OMS",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

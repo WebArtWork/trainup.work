@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ustawienie i ruch",
+			"text": "Stań w wygodnej szerokości stóp i z wygodnym ustawieniem palców. Usztywnij tułów, pozwól biodrom i kolanom zginać się razem i utrzymuj równomierny nacisk na stopy. Opuszczaj się z kontrolą do głębokości, przy której technika pozostaje stabilna, a potem odepchnij się od podłogi i wstań. Kąt tułowia i to, jak daleko wychodzą kolana, będą się różnić w zależności od długości Twoich kończyn i rodzaju przysiadu."
+		},
+		{
+			"title": "Głębokość i wysunięcie kolan",
+			"text": "Nie ma reguły, że kolana muszą zostać za palcami. W wielu przysiadach wychodzą do przodu i jest to normalne. Głębszy przysiad może być przydatny, gdy osiągasz go wygodnie i z kontrolą, ale wymuszanie głębokości kosztem bolących stawów lub utraty równowagi nie pomaga. Uniesienie pięt lub zmiana ustawienia stóp zmienia ruch i żadne z nich nie czyni przysiadu domyślnie lepszym."
+		},
+		{
+			"title": "Częste błędy i poprawki",
+			"text": "Unoszące się pięty, kolana zapadające się do środka bez kontroli i utrata stabilnego tułowia często oznaczają, że głębokość, równowaga lub obciążenie nie pasują jeszcze do tego, co potrafisz kontrolować. Spróbuj lżejszego ciężaru, pauzy tuż nad trudnym punktem albo krzesła jako celu. Kolana mogą wskazywać mniej więcej w tę samą stronę co palce, bez podążania sztywną ścieżką."
+		},
+		{
+			"title": "Przykład progresji",
+			"text": "Zacznij od wstawania z siedzenia lub przysiadów z masą ciała. Dodaj przysiad kielichowy, gdy wzorzec jest niezawodny, a potem hantle lub sztangę, jeśli chcesz. Na przykład wykonaj dwie serie po 8 kontrolowanych powtórzeń, zanim dodasz obciążenie. Bardziej zaawansowane warianty są opcjonalne i nie potrzebujesz ich, by być sprawnym."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Twój plan wybiera przysiady z masą ciała, kielichowe lub z obciążeniem, dopasowane do Twojego sprzętu, poziomu, koordynacji i ograniczeń ustawionych w Profilu, na przykład dotyczących kolana. Gdy robisz progres, zachowaj tę samą głębokość i technikę, aby wyższe liczby odzwierciedlały realny postęp."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: technika treningu z obciążeniem (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

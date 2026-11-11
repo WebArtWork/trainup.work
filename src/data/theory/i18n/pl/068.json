@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Skąd bierze się hałas",
+			"text": "Powtarzające się uderzenia stóp, skakanka, burpees, ciężkie lądowania, toczący się sprzęt i upuszczane hantle przenoszą dźwięk przez budynek. Cienkie stropy mogą sprawić, że małe uderzenie brzmi głośno. Rutyna, która wydaje się cicha na siłowni na parterze, może przeszkadzać osobom pod mieszkaniem na piętrze."
+		},
+		{
+			"title": "Cichsze zamienniki",
+			"text": "Zastąp pajacyki krokami w bok, przysiady ze skokiem kontrolowanymi przysiadami, bieg w miejscu marszem, a burpees z dużym uderzeniem wersjami z krokiem w tył. Boks z cieniem, szybki marsz, jazda na rowerze stacjonarnym i kontrolowane wejścia na podwyższenie mogą podnieść oddech i tętno bez powtarzanych twardych lądowań."
+		},
+		{
+			"title": "Popraw ustawienie",
+			"text": "Ćwicz na wolnej, antypoślizgowej podłodze. Mata do ćwiczeń może wytłumić część dźwięku i chronić podłogę, ale nie zatrzyma drgań przenoszonych przez konstrukcję. Opuszczaj ciężary świadomie i nie układaj luźnego sprzętu w stosy. Sprawdź, czy platforma stopnia lub ławka nie kołysze się i nie stuka przy każdym powtórzeniu."
+		},
+		{
+			"title": "Intensywność bez uderzeń",
+			"text": "To, jak ciężkie wydaje się kardio, zależy od wysiłku, a skakanie to tylko jeden ze sposobów jego podniesienia. Dłuższe interwały, krótsze przerwy, które nadal pozwalają się zregenerować, lub ciągły ruch o niskim uderzeniu budują kondycję. W treningu siłowym powolne kontrolowane ruchy i pauzy mogą być ciężką pracą i pozostać ciche, więc nie trzeba się spieszyć, by trening wydawał się trudniejszy."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "W Profilu to, czy skakanie jest w porządku, i to, ile hałasu jest w porządku, to dwa osobne ustawienia. Jeśli ograniczysz oba, plan pomija skoki, skakankę i inne ćwiczenia z uderzeniami, a nadal trenuje w kierunku Twojego celu cichszymi. Sama mata nie sprawia, że ćwiczenie ze skokami jest ciche."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: zalecenia dotyczące aktywności fizycznej dorosłych",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: pomiar intensywności wysiłku i test mowy",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

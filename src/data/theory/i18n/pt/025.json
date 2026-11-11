@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Notação de quatro partes",
+			"text": "A cadência escreve-se muitas vezes com quatro números: a fase de descida, a pausa em baixo, a fase de subida e a pausa em cima. Num agachamento, 3-1-1-0 significa descer em três segundos, fazer uma pausa de um segundo em baixo, subir em um segundo e começar a repetição seguinte de imediato. Nem todos os sistemas listam as fases pela mesma ordem, por isso as instruções têm de dizer que notação usam."
+		},
+		{
+			"title": "Porque ajuda o controlo",
+			"text": "Uma fase de descida lenta pode evitar que ressalte, revelar problemas de equilíbrio e tornar cargas leves suficientemente difíceis para praticar a técnica. Uma pausa curta pode ajudá-lo a sentir a sua posição num ponto crítico. Levantar depressa de propósito pode ajudar o trabalho de força ou de potência quando a técnica é segura e a carga o permite."
+		},
+		{
+			"title": "Cadência e hipertrofia",
+			"text": "A investigação não mostrou que repetições muito lentas produzam de forma fiável mais crescimento. O posicionamento do ACSM 2026 concluiu que o tempo sob tensão não foi um fator consistente quando se compararam diferentes planos de treino. Ir extremamente devagar pode reduzir a carga ou o total de repetições que consegue fazer e pode ir contra o seu objetivo principal."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Se está a aprender uma dobradiça, baixar um haltere em dois a três segundos dá-lhe tempo para manter o peso perto e sentir as ancas a recuar. Quando o padrão for consistente, uma velocidade normal e controlada pode bastar. Um lançamento de bola medicinal ou um salto é feito para ser rápido, por isso não o abrande."
+		},
+		{
+			"title": "Comparar séries",
+			"text": "Ao avaliar o progresso, compare séries feitas com uma amplitude e velocidade semelhantes. Acrescentar peso encurtando a fase de descida pode não ser uma melhoria real. A menos que uma competência exija uma cadência definida, concentre-se em repetições constantes e controladas e no seu objetivo principal, e não conte cada segundo."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Revisão do continuum de repetições",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Oszacuj zasięg nad głową",
+			"text": "Stań na powierzchni, na której będziesz ćwiczyć, i naturalnie wyciągnij ramiona nad głowę. Następnie dodaj wysokość hantla, kettlebell, sztangi lub innego przyboru nad dłońmi. Zostaw miejsce na kontrolowany ruch, aby przedmiot nigdy nie zatrzymywał się tuż pod sufitem."
+		},
+		{
+			"title": "Ruch wymaga więcej niż wzrostu w staniu",
+			"text": "Skakanie dodaje pionowego ruchu, a skakanka przechodzi nad Twoją głową. Podciąganie wymaga miejsca nad drążkiem na głowę i miejsca pod nim na stopy, a drążki we framudze wymagają też bezpiecznego odstępu w miejscu mocowania. Wentylatory sufitowe, lampy, rury i odsłonięte belki mogą obniżyć wysokość, którą naprawdę możesz wykorzystać."
+		},
+		{
+			"title": "Przetestuj ruch bez obciążenia",
+			"text": "Jeśli sufit wydaje się dość wysoki, przećwicz ruch bez obciążenia i sprawdź najwyższy punkt z bezpiecznej pozycji. Nigdy nie testuj, unosząc coś ciężkiego w stronę niskiego sufitu. Nawet niska osoba może potrzebować więcej miejsca, niż się spodziewa, bo przybór porusza się nad dłońmi."
+		},
+		{
+			"title": "Praktyczne zamienniki",
+			"text": "Pod niskim sufitem wyciskanie na podłodze może zastąpić wyciskanie nad głową, a wiosłowanie może zastąpić podciąganie, jeśli montaż lub odstęp drążka są nieodpowiednie. Do kondycji wybierz marsz, wejścia na podwyższenie lub boks z cieniem zamiast skakanki lub pajacyków z rękami nad głową. Te zamiany mogą nie trenować dokładnie tego samego ruchu w stawie, ale zachowują cel treningu."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Wpisz w Profilu wysokość sufitu wraz z rozmiarem podłogi. Plan pomija ćwiczenia nad głową i skoki, które wymagają więcej miejsca, niż masz."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: bezpieczeństwo i technika treningu z obciążeniem",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

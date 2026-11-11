@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Duas contagens diferentes",
+			"text": "Pode treinar quatro dias por semana e trabalhar as pernas apenas uma vez, ou treinar três dias de corpo inteiro e trabalhar as pernas três vezes. Assim, o número de sessões e o número de vezes que cada músculo é treinado são contagens diferentes. As séries difíceis semanais e a recuperação decidem em grande parte o bom funcionamento de qualquer horário."
+		},
+		{
+			"title": "Um ponto de partida prático",
+			"text": "Para muitos adultos saudáveis, dois dias de treino de resistência que cubram os principais grupos musculares são uma base de saúde alcançável. O posicionamento do ACSM 2026 refere benefícios de força ao treinar pelo menos duas vezes por semana. Para o crescimento muscular, com séries semanais iguais, distribuir as mesmas séries por mais dias não aumentou de forma fiável os ganhos."
+		},
+		{
+			"title": "Horário de dois dias",
+			"text": "Faça dois treinos de corpo inteiro com dias de recuperação entre eles, como segunda e quinta. Cubra os principais padrões, descanse o suficiente e concentre-se em concluir as sessões semana após semana. Isto funciona muitas vezes melhor do que um plano ambicioso de cinco dias que não consegue manter."
+		},
+		{
+			"title": "Três a cinco dias",
+			"text": "Três dias podem incluir sessões de corpo inteiro ou uma rotação de padrões. Quatro dias podem adequar-se a alternar a parte superior e inferior do corpo. Cinco dias podem funcionar para praticantes experientes com objetivos específicos e sessões que não sejam demasiado longas. Treinar mais dias não significa treinar todos os músculos com intensidade todos os dias."
+		},
+		{
+			"title": "Recuperação e progressão",
+			"text": "O treino intenso causa fadiga nos músculos trabalhados e no corpo como um todo. Consoante a carga de trabalho, um grupo muscular pode precisar de aproximadamente um a vários dias antes de outra sessão tão intensa. O conhecido intervalo de 48 horas é uma regra inicial útil para sessões intensas, mas não é um cronómetro biológico que se aplique a todos os exercícios."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "No Perfil define quantos dias por semana treina e que dias prefere. Escolha um número que consiga realmente manter. Se as suas sessões se alongam constantemente, distribua o trabalho por mais dias em vez de acumular trabalho extra em cada uma."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Frequência de fortalecimento segundo a OMS",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

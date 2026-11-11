@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Elige una medida repetible",
+			"text": "Entre las buenas opciones están la distancia que caminas en un tiempo fijo, cuánto tarda un recorrido conocido, si terminas una sesión de intervalos fijada o tu frecuencia cardíaca a un ritmo cómodo y constante. El RPE de la sesión complementa estos números, sobre todo si no tienes un pulsómetro."
+		},
+		{
+			"title": "Mantén parecidas las condiciones de la prueba",
+			"text": "La temperatura, las cuestas, el sueño, la cafeína, el equipamiento y la recuperación afectan al rendimiento. Cuando puedas, compara el mismo ajuste de cinta, la misma resistencia de bicicleta o el mismo recorrido al aire libre. Una frecuencia cardíaca más baja no siempre significa que estés en mejor forma, porque los medicamentos y el error de medición también pueden cambiar la lectura."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Una persona que empieza alterna dos minutos de caminata con un minuto de trote suave. Semanas después, completa más intervalos de trote con un esfuerzo similar. Otra persona hace el mismo recorrido en bicicleta y le resulta más fácil, aunque su velocidad media sigue igual."
+		},
+		{
+			"title": "Con qué frecuencia hacer pruebas",
+			"text": "Una comprobación planificada cada pocas semanas muestra tendencias mientras tus sesiones normales siguen centradas en entrenar. Una caída repentina del rendimiento puede deberse a la fatiga o a una enfermedad, y no tiene por qué significar que hayas perdido tu acondicionamiento para siempre."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Después de cada entrenamiento valoras el esfuerzo de 1 a 10, e Historial muestra tu esfuerzo medio y un gráfico de 4 semanas. Mira la tendencia a lo largo de las semanas. Un solo dato de frecuencia cardíaca o de velocidad no puede diagnosticar ni garantizar tu salud cardiovascular."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: caminar por la salud",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

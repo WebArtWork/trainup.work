@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Signaler att samla in",
+			"text": "Jämför de set och repetitioner du fått med vad du genomförde. Titta på vikt, pass-RPE, träningsvärk, missade pass och eventuella nya begränsningar, eftersom var och en visar en annan del av bilden. En hög RPE eller ett missat pass bevisar inte att programmet är fel för dig."
+		},
+		{
+			"title": "När pass känns för lätta",
+			"text": "Om du ständigt når målet med stabil teknik och låg ansträngning, överväg att lägga till några repetitioner, lite vikt eller något mer volym. Ändra en variabel och se hur du svarar innan du lägger till något mer."
+		},
+		{
+			"title": "När pass känns för tunga",
+			"text": "Upprepade missade mål, form som brister eller trötthet som inte går över kan vara skäl att sänka vikten eller volymen, byta till en lättare övning eller ta mer återhämtning. Ett nytt smärtande område kräver en ny titt på dina begränsningar och möjligen professionell rådgivning. Försök inte diagnostisera det själv."
+		},
+		{
+			"title": "Exempel",
+			"text": "Du gör goblet-knäböj 3 × 10 i två veckor vid ungefär RPE 5 med god kontroll. Nästa gång kan du välja en något tyngre hantel och gå ner till åtta repetitioner. Om samma rörelse fortsätter göra ont, gör den inte bara svårare."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ditt program ändras bara när du skapar det på nytt, och aldrig utifrån färre än 3 pass. Nylig smärta betyder ingen ökning. Om 2 av dina senaste 3 pass var mycket tuffa (RPE 9 eller mer) eller mindre än 60 % genomförda blir nästa program lättare. Om dina senaste 4 var lätta (RPE 5 eller lägre) och fullständiga blir det ett steg svårare, ett steg i taget. Smärtreglerna kommer före prestation, avslutade pass ändras aldrig och du väljer själv belastningen."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: praktisk vägledning",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

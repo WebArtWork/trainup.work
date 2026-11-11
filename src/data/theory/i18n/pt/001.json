@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "O ciclo de adaptação",
+			"text": "Um treino é um estímulo. Os músculos produzem força, o coração e os vasos sanguíneos fornecem mais oxigénio e pratica competências de movimento. Logo a seguir, a fadiga pode reduzir o seu desempenho durante algum tempo. Durante a recuperação que se segue, o corpo repara-se, repõe as reservas e adapta-se. O resultado nota-se ao longo de semanas e meses de ciclos repetidos."
+		},
+		{
+			"title": "Adaptações específicas",
+			"text": "O princípio SAID (Specific Adaptation to Imposed Demands, adaptação específica às exigências impostas) significa que o corpo se adapta sobretudo ao que pratica. Agachamentos pesados melhoram a produção de força em padrões semelhantes ao agachamento, e a caminhada rápida treina sobretudo a capacidade aeróbica. A condição física geral combina vários tipos de desafio. Os primeiros ganhos de força vêm muitas vezes de melhor coordenação e do recrutamento do sistema nervoso, enquanto o crescimento muscular visível costuma demorar mais."
+		},
+		{
+			"title": "Supercompensação",
+			"text": "Um diagrama popular mostra a condição física a descer após o treino, a recuperar e depois a subir brevemente acima do ponto de partida. É uma imagem útil para ensinar, mas não é um calendário preciso nem uma lei biológica universal. Os diferentes sistemas recuperam a ritmos diferentes, e não precisa de cronometrar cada sessão para um pico mítico."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Um principiante faz dois treinos moderados de corpo inteiro por semana. Após várias sessões, os mesmos exercícios parecem mais fáceis. Acrescenta uma ou duas repetições, um pouco de peso ou outro desafio escolhido com cuidado, mantendo a técnica. Se continuar a acumular sessões difíceis sem recuperação, o progresso pode estagnar."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "Escolha um objetivo principal no Perfil, assinale as séries durante cada treino e avalie o esforço no fim. O Histórico mostra um gráfico de 4 semanas, por isso observe as tendências ao longo de várias semanas. Antes de tornar o treino mais difícil, pense no seu sono, nas dores musculares e na sua consistência."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Diretrizes da OMS sobre atividade física",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

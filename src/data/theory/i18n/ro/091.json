@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "De ce contează lichidele",
+			"text": "Corpul folosește apă ca să transporte nutrienți, să circule sângele, să controleze temperatura și să înlocuiască ce pierzi prin transpirație. Chiar și o deshidratare ușoară poate face un efort intens să pară mai greu, mai ales pe vreme caldă. Nicio cantitate nu se potrivește fiecărui sportiv sau fiecărui antrenament."
+		},
+		{
+			"title": "Înainte și în timpul antrenamentului",
+			"text": "Începe rezonabil de bine hidratat și ține apă la îndemână, mai ales la sesiunile lungi sau în căldură. La sesiunile obișnuite, scurte, băutul când simți sete este adesea suficient. Căldura, activitatea lungă și grea și transpirația neobișnuit de abundentă pot cere un plan personal de hidratare. Înlocuirea electroliților poate conta în exercițiile lungi, dar un antrenament scurt la sală nu are automat nevoie de ea. Dacă din cauza căldurii un antrenament devine nesigur, antrenează-te mai puțin sau mută-te într-un loc mai răcoros."
+		},
+		{
+			"title": "Băutul prea mult",
+			"text": "Băutul unor cantități mari indiferent de sete sau de pierderea prin transpirație poate dilua sodiul din sânge și poate cauza hiponatremie asociată exercițiului. Creșterea în greutate în timpul unui eveniment lung de rezistență poate fi un semn că bei prea mult. Durerea de cap severă, confuzia sau vărsăturile în timpul unui exercițiu lung cer o evaluare medicală urgentă. Să bei mai mult nu este soluția."
+		},
+		{
+			"title": "Verificări simple",
+			"text": "Setea, schimbările de greutate corporală în jurul sesiunilor lungi, vremea și cât timp te antrenezi pot ghida toate cât bei. Culoarea urinei oferă un indiciu aproximativ, dar nu este un test de diagnostic. Dacă ai o afecțiune a rinichilor sau a inimii, cere medicului tău un sfat potrivit pentru tine."
+		}
+	],
+	"sources": [
+		{
+			"label": "NATA: înlocuirea lichidelor pentru persoanele active fizic",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5634236/"
+		},
+		{
+			"label": "Wilderness Medical Society: hiponatremia asociată exercițiului",
+			"url": "https://journals.sagepub.com/doi/full/10.1016/j.wem.2019.11.003"
+		}
+	]
+}

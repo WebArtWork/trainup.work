@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Cum apare sarcina",
+			"text": "Stând în picioare cu o bară pe umeri sau ținând o greutate deasupra capului, poți crește forțele purtate prin trunchi și coloană. Plimbările grele cu greutate și unele exerciții de tragere cer și ele o stabilitate puternică a trunchiului. Forța reală asupra coloanei depinde de poziția corpului, de efortul muscular, de pârghie și de direcția rezistenței, deci o bară pe umeri este doar o parte din imagine."
+		},
+		{
+			"title": "De obicei sigură pentru oamenii sănătoși",
+			"text": "Coloana ta este încărcată în mișcările de zi cu zi și se poate adapta la exerciții progresate treptat. Pentru cei sănătoși care se antrenează, încărcarea axială nu este nesigură în sine. Contează mai mult când ai o restricție medicală, un simptom nou sau o preferință personală de a reduce compresia."
+		},
+		{
+			"title": "Alegerea alternativelor",
+			"text": "O genuflexiune goblet, o genuflexiune cu picioarele decalate sau un exercițiu sprijinit la aparat încarcă corpul diferit față de o genuflexiune grea cu bara pe spate. Un exercițiu pentru trunchi făcut pe podea poate ajuta când plimbările cu greutate în picioare nu ți se potrivesc. Niciun înlocuitor nu elimină complet încărcarea coloanei."
+		},
+		{
+			"title": "Progresează cu grijă",
+			"text": "Învață să încordezi trunchiul și să controlezi mișcarea, folosește sarcini potrivite cu abilitatea ta actuală și schimbă câte o singură variabilă de antrenament odată. Nu trebuie să faci un exercițiu cu compresie mare doar pentru că este tradițional în antrenamentul de forță."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Dacă vrei să limitezi încărcarea coloanei, adaugă spatele ca limitare în Profil, cu o notă. Planul alege doar exerciții care se potrivesc cu limitările tale. Alegerea unor exerciții cu sarcină mai mică nu tratează durerea de spate și nu înlocuiește sfatul medical."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: durerea de spate și semnele urgente de avertizare",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		}
+	]
+}

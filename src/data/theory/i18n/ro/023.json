@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Două utilizări frecvente",
+			"text": "RPE al sesiunii evaluează dificultatea generală a unui întreg antrenament, adesea pe o scară de tip categorie-raport de la 0 la 10, de la repaus la efort maxim. RPE al seriei evaluează o singură serie de antrenament cu rezistență. Cele două măsoară lucruri diferite: o serie poate fi extrem de grea într-o sesiune care s-a simțit moderată în ansamblu."
+		},
+		{
+			"title": "RPE al seriei și repetările în rezervă",
+			"text": "Un sistem de antrenament de forță leagă fiecare notă de numărul de repetări pe care crezi că le mai aveai. RPE 10 înseamnă că nu ai fi putut face încă o repetare completă cu tehnica intenționată, RPE 9 înseamnă că a mai rămas una, iar RPE 8 înseamnă că au mai rămas aproximativ două. Sunt estimări, nu măsurători fiziologice precise, iar devii mai bun la ele odată cu experiența de antrenament."
+		},
+		{
+			"title": "Exemple",
+			"text": "O plimbare alertă de 25 de minute se poate simți ca 4/10 pentru o persoană și ca 7/10 pentru un începător fără condiție fizică. O serie de opt genuflexiuni cu încă aproximativ două repetări posibile ar fi aproximativ RPE 8 pe scara de ridicare bazată pe repetările în rezervă. Spune întotdeauna ce scară folosești, altfel cifrele devin confuze."
+		},
+		{
+			"title": "Greșeli frecvente",
+			"text": "Evaluările își pierd valoarea dacă îți notezi efortul doar după cât ai transpirat, dacă încurci febra musculară cu cât de grea a fost sesiunea sau dacă alegi mereu 10 pentru că un antrenament „ar trebui să fie greu”. Somnul, stresul, căldura și mișcările necunoscute schimbă toate cât de greu se simte exercițiul, deci citește fiecare notă în contextul ei."
+		},
+		{
+			"title": "Transformarea notelor în decizii",
+			"text": "Dacă mai multe sesiuni se simt mult mai grele decât au fost planificate, uită-te la somn, sarcină, numărul de serii, pauză și refacere. Dacă sesiunile continuă să se simtă foarte ușoare și tehnica ta este solidă, încearcă o mică creștere data viitoare. O singură notă neobișnuită nu este de ajuns pentru a diagnostica supraantrenamentul sau pentru a face schimbări mari."
+		},
+		{
+			"title": "Folosind TrainUp",
+			"text": "După fiecare antrenament evaluezi întreaga sesiune de la 1 la 10. Tratează acel număr ca efort al sesiunii și nu îl converti în RPE al seriei sau în repetări în rezervă. Uită-te la evaluările tale lângă cât din fiecare antrenament ai terminat, pe parcursul mai multor antrenamente."
+		}
+	],
+	"sources": [
+		{
+			"label": "Zourdos și colab.: cercetare RPE bazată pe RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		},
+		{
+			"label": "Helms și colab.: îndrumări practice despre RPE",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/27531969/"
+		},
+		{
+			"label": "Ghid CDC privind efortul",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

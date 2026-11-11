@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Perché il controllo conta",
+			"text": "La maggior parte delle persone trae beneficio dall’essere più attiva, e il movimento leggero è spesso un buon punto di partenza. Sintomi, condizioni di salute instabili o eventi medici recenti possono cambiare quali attività sono sicure per te. Il controllo ti dice quando un professionista sanitario o un professionista dell’esercizio qualificato deve guidare i tuoi passi successivi."
+		},
+		{
+			"title": "Il PAR-Q+",
+			"text": "L’attuale Physical Activity Readiness Questionnaire for Everyone (PAR-Q+) usa domande strutturate sulla salute con percorsi di approfondimento, quindi va oltre una singola lista di controllo generica. Pensa a malattie del cuore o cardiovascolari, pressione non controllata, svenimenti o capogiri inspiegabili, fastidio al petto, interventi recenti, dolore nuovo o in peggioramento e farmaci che cambiano la risposta del corpo all’esercizio. Anche la gravidanza e i mesi dopo il parto richiedono un consiglio individuale."
+		},
+		{
+			"title": "Cosa significa una risposta sì",
+			"text": "Rispondere sì a una domanda di controllo non significa automaticamente niente esercizio. Può significare completare la procedura ufficiale di approfondimento o ricevere un consiglio su intensità e restrizioni. Se già ti alleni in sicurezza, continuare a un livello familiare è una decisione diversa dall’iniziare un allenamento duro che non hai mai fatto."
+		},
+		{
+			"title": "Esempio",
+			"text": "Una persona inattiva da anni che avverte pressione al petto durante una camminata veloce non dovrebbe provare una seduta di forza massimale o a intervalli. Dovrebbe interrompere quell’attività e fare una valutazione medica. Sintomi toracici gravi o persistenti richiedono cure d’emergenza. Chi non ha sintomi preoccupanti può iniziare con camminate leggere e un po’ di pratica di forza leggera, poi crescere gradualmente."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Puoi registrare le limitazioni per zona del corpo nel Profilo, con note, e il piano sceglie solo esercizi adatti. TrainUp non può autorizzare una condizione medica né interpretare i tuoi sintomi, e un allenamento generato non è un’approvazione medica. Se il controllo solleva dubbi, chiedi al medico prima di scegliere un piano impegnativo."
+		}
+	],
+	"sources": [
+		{
+			"label": "Controllo ufficiale PAR-Q+",
+			"url": "https://eparmedx.com/"
+		},
+		{
+			"label": "CDC: iniziare",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

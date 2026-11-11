@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Pornește de la scop",
+			"text": "Pentru condiția fizică generală, alege un amestec pe care îl poți gestiona de genuflexiuni sau fandări, balansări din șold, împingeri, trageri și muncă pentru trunchi. Pentru forță, pune pe primul loc tiparele și exercițiile la care contează să produci mai multă forță. Pentru condiție fizică, adaugă activitate constantă sau pe intervale potrivită nivelului tău. Un exercițiu care arată impresionant, dar nu servește obiectivului tău, are puțină valoare aparte."
+		},
+		{
+			"title": "Potrivește complexitatea cu îndemânarea",
+			"text": "Un ramat sprijinit la aparat poate antrena spatele unui începător mai bine decât o variantă instabilă cu greutăți libere. O genuflexiune goblet poate fi mai ușor de învățat decât o genuflexiune grea cu bara pe spate. Greutățile libere, aparatele, benzile elastice și greutatea corpului sunt toate modalități valide de a adăuga rezistență, iar declarația de poziție ACSM 2026 nu a numit un tip de echipament ca fiind cel mai bun pentru toată lumea."
+		},
+		{
+			"title": "Spațiul și confortul tău",
+			"text": "Verifică dacă ai destul spațiu pe podea și pe verticală, o suprafață sigură și echipament montat corect. Dacă trebuie să reduci zgomotul sau impactul, alege urcări pe treaptă sau marș în loc de sărituri. Dacă o articulație este incomodă, scade sarcina sau amplitudinea sau treci la un tipar care nu te deranjează. Dacă durerea persistă, cere sfatul unui medic sau al unui fizioterapeut."
+		},
+		{
+			"title": "Păstrează unele exerciții constante",
+			"text": "Dacă schimbi exercițiile la fiecare sesiune, este greu să știi dacă te îmbunătățești. Păstrează câteva mișcări de bază destul timp ca să-ți construiești îndemânarea și să-ți compari cifrele, apoi rotește-le când se schimbă accesul, preferințele sau confortul tău sau când ajungi la un platou. Varietatea te poate menține interesat, dar nu face antrenamentul să funcționeze mai bine prin ea însăși."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Planul tău folosește doar exerciții care se potrivesc cu echipamentul, spațiul, tavanul, suprafața, limitele de sărituri și de zgomot, limitările, nivelul și coordonarea ta. Dacă niciun plan nu se potrivește, TrainUp îți spune ce setare îl blochează. În Explorează poți căuta, filtra după categorie sau activa filtrul „mi se potrivește”, iar fiecare pagină de exercițiu arată tiparul de mișcare și mușchii."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: greutăți libere versus aparate",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "NSCA: bazele siguranței și ale antrenamentului de forță",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

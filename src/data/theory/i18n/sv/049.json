@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Vad du ska minska",
+			"text": "Det enklaste sättet är att göra färre tuffa set och hålla dig längre från utmattning under några pass. Om du till exempel brukar göra fyra set per övning kan du göra två lätta set per övning under en vecka. Att minska volymen med omkring 40–50 % är ett praktiskt alternativ. Vetenskapen anger ingen exakt procentsats."
+		},
+		{
+			"title": "Behåll en del träningsstimulans",
+			"text": "En avlastning kan fortfarande innehålla träning. Att göra välkända övningar med lägre ansträngning håller igång din koordination och din rutin. Vissa lyftare behåller måttliga vikter och gör färre set. Andra sänker både vikt och antal set när lederna eller den allmänna tröttheten är problemet. Det bästa valet beror på varför du behöver avlastningen."
+		},
+		{
+			"title": "När det hjälper",
+			"text": "Varningssignaler kan vara flera ovanligt tuffa pass, sjunkande prestation, trötthet som inte går över eller en växande känsla av att du inte återhämtar dig. De här tecknen kan ha många möjliga orsaker. Avfärda inte sjukdom eller medicinska symtom som normal träningströtthet. Om du är ny på träning kan du helt enkelt behöva ett lättare vanligt program, utan schemalagda avlastningsveckor."
+		},
+		{
+			"title": "Planerad eller vid behov",
+			"text": "Vissa strukturerade program använder en lättare vecka var fjärde till åttonde vecka, särskilt när arbetsbelastningen är hög. Den tidpunkten är ett sätt att organisera det. Om ett måttligt program fungerar bra för dig behöver du kanske ingen formell avlastning, och om du har ovanlig stress kan en tidigare hjälpa."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Vecka 4 i varje TrainUp-program är en lättare avlastningsvecka. När du skapar ditt program på nytt blir det lättare om 2 av dina senaste 3 pass var mycket tuffa (RPE 9 eller mer) eller mindre än 60 % genomförda. Efter en lättare period går du tillbaka till normala vikter steg för steg och ser hur du svarar. En veckas paus garanterar inte att du kommer tillbaka starkare."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: säkerhet och grunder i styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Systematisk översikt av periodisering och träningsresultat",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35044672/"
+		}
+	]
+}

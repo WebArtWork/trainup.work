@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Choisissez un mouvement accessible",
+			"text": "La marche, le vélo, la natation, les squats avec appui et les exercices de force sur machine peuvent être des points de départ confortables, selon votre capacité et vos préférences. Pour certaines personnes, le jogging et les sauts répétés sollicitent davantage les articulations ou la respiration que les options à faible impact. La corpulence seule ne rend aucune de ces activités bonne ou mauvaise."
+		},
+		{
+			"title": "Commencez par une dose faisable",
+			"text": "Une courte marche ou quelques séries d’exercices de force avec appui peuvent suffire pour créer l’habitude. Ajoutez graduellement du temps, de la distance ou des répétitions à mesure que votre confiance et votre tolérance augmentent. Faites attention à la façon dont le mouvement se ressent et à ce que vous pourrez faire la semaine prochaine, et pas seulement à la balance."
+		},
+		{
+			"title": "Regardez plusieurs résultats",
+			"text": "Monter plus facilement les escaliers, marcher plus longtemps, faire plus de répétitions et mieux récupérer comptent tous comme des progrès. Les variations du poids corporel dépendent de nombreux facteurs, notamment les habitudes alimentaires, les médicaments et les problèmes de santé. Votre forme peut s’améliorer sans grand changement de poids."
+		},
+		{
+			"title": "Partez de là où vous êtes",
+			"text": "Certaines personnes ont déjà beaucoup d’expérience de l’exercice, tandis que d’autres ont peu de matériel ou d’intimité. Adaptez les exercices à votre situation. Perdre du poids n’a pas à être votre objectif."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Dans Profil, indiquez votre espace d’entraînement, si vous pouvez sauter, vos limitations par zone du corps et votre niveau de forme. Le programme ne choisit que des exercices adaptés à ces réglages. TrainUp enseigne l’exercice et ne propose ni régimes ni prise en charge médicale du poids ; si vous avez des symptômes ou des problèmes de santé complexes, demandez un avis individuel à un médecin."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS : la marche pour la santé",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "CDC : poids santé et activité",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

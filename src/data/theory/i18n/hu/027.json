@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Két különböző számolás",
+			"text": "Edzhetsz heti négy napot úgy, hogy a lábadat csak egyszer dolgoztatod, vagy három egész testes napot, és a lábadat háromszor. Tehát az edzések száma és az, hogy egy izmot hányszor edzel, két különböző szám. Valamelyik beosztás működését nagyrészt a heti kemény sorozatok és a regeneráció dönti el."
+		},
+		{
+			"title": "Gyakorlati kiindulópont",
+			"text": "Sok egészséges felnőtt számára két ellenállásedzés-nap, amely a fő izomcsoportokat lefedi, elérhető egészségügyi alap. A 2026-os ACSM állásfoglalás a hetente legalább kétszeri edzésből eredő erőbeli előnyökről számol be. Izomnövekedésnél, azonos heti sorozatszám mellett, ugyanazon sorozatok több napra szétosztása nem növelte megbízhatóan az eredményeket."
+		},
+		{
+			"title": "Kétnapos beosztás",
+			"text": "Végezz két egész testes edzést köztük regenerációs napokkal, például hétfőn és csütörtökön. Fedd le a fő mozgásmintákat, pihenj eleget, és arra összpontosíts, hogy hétről hétre befejezd az edzéseket. Ez gyakran jobban működik, mint egy ambiciózus ötnapos terv, amelyet nem tudsz tartani."
+		},
+		{
+			"title": "Három–öt nap",
+			"text": "Három napon lehetnek egész testes edzések vagy mozgásminták váltakozása. A négy nap illhet a felső és alsó test váltogatásához. Az öt nap működhet tapasztalt edzőknek konkrét célokkal és nem túl hosszú edzésekkel. Több napon edzeni nem azt jelenti, hogy minden izmot minden nap keményen edzel."
+		},
+		{
+			"title": "Regeneráció és haladás",
+			"text": "A kemény edzés fáradtságot okoz a megdolgoztatott izmokban és az egész testben. A terheléstől függően egy izomcsoportnak nagyjából egytől több napig lehet szüksége, mielőtt újra ilyen kemény edzést kap. Az ismert 48 órás szünet hasznos kiindulási szabály kemény edzésekhez, de nem biológiai stopperóra, amely minden gyakorlatra érvényes."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban beállítod, hetente hány napot edzel és melyik napokat kedveled. Olyan számot válassz, amelyet tényleg tartani tudsz. Ha az edzéseid folyton elhúzódnak, oszd el a munkát több napra, ahelyett hogy minden edzésbe extra munkát zsúfolnál."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO: az erősítés gyakorisága",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

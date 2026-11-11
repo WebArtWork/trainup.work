@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Inizia con una prova facile",
+			"text": "Esegui il movimento senza peso o con l’attrezzo più leggero che hai. Aggiungi un piccolo carico per una serie di riscaldamento e controlla che range di movimento, respiro e tempo restino stabili. Ogni movimento ha il proprio peso di lavoro: un carico che ti sembra comodo per un rematore può essere molto troppo pesante per un’alzata laterale."
+		},
+		{
+			"title": "Ripetizioni di riserva",
+			"text": "Le ripetizioni di riserva (RIR) sono quante altre ripetizioni con buona forma pensi di riuscire ancora a fare. Per l’allenamento generale, terminare molte serie con circa due o tre ripetizioni di riserva è un punto di partenza pratico, anche se non devi centrarlo ogni volta. Se in una serie prevista da 10 ti sembra di poterne fare altre 10, il carico potrebbe essere troppo leggero per il tuo obiettivo."
+		},
+		{
+			"title": "Adatta durante la sessione",
+			"text": "Supponi che il piano preveda tre serie da otto a dodici. Se la prima serie finisce a otto con tecnica tremolante e senza niente in più, riduci il carico. Se dodici ripetizioni sono fluide e ancora abbastanza facili, prova un piccolo aumento nella serie successiva. Riposa abbastanza a lungo da capire se il problema è causato dal peso o dalla fatica."
+		},
+		{
+			"title": "Quando i salti di peso sono troppo grandi",
+			"text": "Se il manubrio successivo è troppo pesante, aggiungi una ripetizione, una pausa controllata o un’altra buona serie. Se anche il tuo peso più leggero è troppo pesante, usa il corpo libero, un elastico di resistenza o una leva diversa. Non stringere mai i denti su ripetizioni fallite per raggiungere un numero prestabilito."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il tuo piano indica serie, ripetizioni e riposo ma non i pesi, quindi il carico lo scegli tu. Durante l’allenamento, registra le ripetizioni che hai effettivamente fatto, e dopo valuta lo sforzo della sessione da 1 a 10. Se senti dolore, hai le vertigini o continui a perdere la tecnica, fermati o cambia esercizio; non aggiungere resistenza. «Sento dolore» interrompe subito l’esercizio in corso."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Sintesi ACSM 2026 sull’allenamento di forza",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Mayo Clinic: sicurezza e tecnica dell’allenamento coi pesi",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "D’où vient le bruit",
+			"text": "Les appuis répétés des pieds, la corde à sauter, les burpees, les réceptions lourdes, le matériel qui roule et les haltères qu’on laisse tomber transmettent tous du bruit à travers un bâtiment. Les sols minces peuvent rendre un petit impact très sonore. Une routine qui semble silencieuse dans une salle au rez-de-chaussée peut déranger les voisins du dessous dans un appartement à l’étage."
+		},
+		{
+			"title": "Alternatives plus silencieuses",
+			"text": "Remplacez les jumping jacks par des pas latéraux, les squats sautés par des squats contrôlés, la course sur place par la marche sur place, et les burpees à fort impact par des versions avec pas en arrière. La boxe dans le vide, la marche rapide, le vélo d’appartement et les montées sur marche contrôlées peuvent accélérer votre respiration et votre rythme cardiaque sans réceptions dures répétées."
+		},
+		{
+			"title": "Améliorer l’installation",
+			"text": "Entraînez-vous sur un sol dégagé et antidérapant. Un tapis d’exercice peut atténuer une partie du bruit et protéger le sol, mais il ne peut pas empêcher les vibrations de se propager dans la structure. Posez les poids délibérément et n’empilez pas de matériel en vrac. Vérifiez si une marche ou un banc bascule et cogne à chaque répétition."
+		},
+		{
+			"title": "De l’intensité sans impact",
+			"text": "La difficulté ressentie du cardio dépend de votre effort, et sauter n’est qu’une façon de l’augmenter. Des intervalles plus longs, des repos plus courts qui permettent encore de récupérer ou un mouvement continu à faible impact développent tous la condition physique. En musculation, les mouvements lents et contrôlés et les pauses peuvent être un travail difficile tout en restant silencieux, donc il n’est pas nécessaire de se précipiter pour rendre une séance plus dure."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Dans Profil, la possibilité de sauter et le niveau de bruit acceptable sont deux réglages distincts. Si vous limitez les deux, le programme exclut les sauts, la corde à sauter et les autres exercices qui martèlent, et continue de vous entraîner vers votre objectif avec des exercices plus silencieux. Un tapis seul ne rend pas un exercice de saut silencieux."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC : recommandations d’activité physique pour les adultes",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC : mesurer l’intensité de l’activité et le test de la parole",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

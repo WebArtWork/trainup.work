@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Acción concéntrica",
+			"text": "El músculo produce fuerza mientras se acorta en conjunto. En un curl de bíceps, los flexores del codo se acortan al subir el peso. Al subir de una sentadilla, varios extensores de la cadera y de la rodilla trabajan para levantarte. «Concéntrico» describe lo que está haciendo un músculo, que no siempre coincide con que el ejercicio parezca un movimiento hacia arriba."
+		},
+		{
+			"title": "Acción excéntrica",
+			"text": "El músculo produce fuerza mientras se alarga bajo carga, a menudo para frenar un movimiento. Bajar una mancuerna en un curl o sentarte en una sentadilla usa acción excéntrica de los principales músculos que trabajan. Esta fase ayuda a la fuerza y al crecimiento muscular, pero un trabajo excéntrico muy poco habitual puede causar muchas agujetas. Introdúcelo poco a poco y no exageres a propósito cada fase de bajada."
+		},
+		{
+			"title": "Acción isométrica",
+			"text": "El músculo produce fuerza sin mucho cambio en su longitud total ni en el ángulo de la articulación que controla. Las planchas y las sentadillas en la pared son ejemplos claros, y los músculos de tu tronco trabajan de forma más o menos isométrica cuando sostienes un acarreo pesado. Mantener un solo ángulo no sustituye por completo a moverte por todo el rango."
+		},
+		{
+			"title": "Los papeles cambian con la tarea",
+			"text": "Un agonista es un contribuyente principal de la acción prevista, y un antagonista se opone a ella o ayuda a regular el movimiento. Los sinergistas ayudan, y los estabilizadores controlan las articulaciones o los segmentos del cuerpo. En una flexión, el pecho y los tríceps empujan mientras los músculos del tronco te mantienen alineado. Estos papeles dependen del movimiento, así que un músculo no tiene una etiqueta permanente."
+		},
+		{
+			"title": "Cómo ponerlo en práctica",
+			"text": "Baja con control, evita los rebotes incontrolados y empuja o tira por un rango que puedas controlar. Los mantenimientos con tiempo son útiles cuando la tarea no necesita movimiento, y las repeticiones dinámicas son útiles cuando quieres fuerza en movimiento. En TrainUp, cada ejercicio se define en repeticiones o en tiempo de mantenimiento, y el temporizador de mantenimiento registra tus mantenimientos. Las notas de técnica y el tempo te ayudan a hacer buenas repeticiones, pero moverte más despacio no siempre trae resultados más rápidos."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Revisión de los mecanismos de la hipertrofia muscular",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/37382939/"
+		}
+	]
+}

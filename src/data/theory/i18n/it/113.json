@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Scegli una misura ripetibile",
+			"text": "Buone opzioni includono quanta strada percorri in un tempo stabilito, quanto dura un percorso familiare, se completi una sessione di intervalli prestabilita o la tua frequenza cardiaca a un ritmo fisso e comodo. L’RPE di sessione si aggiunge a questi numeri, soprattutto se non hai un cardiofrequenzimetro."
+		},
+		{
+			"title": "Mantieni simili le condizioni del test",
+			"text": "Temperatura, salite, sonno, caffeina, attrezzatura e recupero influenzano tutti la prestazione. Quando puoi, confronta la stessa impostazione del tapis roulant, la stessa resistenza in bici o lo stesso percorso all’aperto. Una frequenza cardiaca più bassa non significa sempre che sei più in forma, perché anche farmaci ed errori di misura possono cambiare la lettura."
+		},
+		{
+			"title": "Esempio",
+			"text": "Un principiante comincia alternando due minuti di camminata a un minuto di jogging leggero. Dopo settimane, completa più intervalli di jogging con uno sforzo simile. Un’altra persona pedala sullo stesso percorso in bici e le sembra più facile, anche se la velocità media resta la stessa."
+		},
+		{
+			"title": "Ogni quanto testare",
+			"text": "Un controllo pianificato ogni poche settimane mostra le tendenze mentre le tue sessioni normali restano concentrate sull’allenamento. Un calo improvviso della prestazione può venire da fatica o malattia, e non deve significare che hai perso il condizionamento per sempre."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Dopo ogni allenamento valuti lo sforzo da 1 a 10, e lo Storico mostra il tuo sforzo medio e un grafico di 4 settimane. Guarda la tendenza nell’arco delle settimane. Un singolo numero di frequenza cardiaca o di velocità non può diagnosticare la tua salute cardiovascolare né garantirla."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: camminare per la salute",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

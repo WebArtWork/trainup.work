@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Warum die Waage schwankt",
+			"text": "Essen und Trinken, Flüssigkeitshaushalt, Natrium, gespeichertes Glykogen und andere normale Vorgänge verschieben dein Körpergewicht von Tag zu Tag. Ein einzelner hoher oder niedriger Wert sagt nichts Verlässliches über Muskeln oder Fett. Training kann deine Körperzusammensetzung verändern, auch wenn sich dein Gesamtgewicht kaum bewegt."
+		},
+		{
+			"title": "Jedes Mal gleich messen",
+			"text": "Wenn du dich wiegst, nutze dieselbe Waage und eine ähnliche Routine statt zufälliger Zeiten. Ein Wochendurchschnitt ist oft nützlicher als ein einzelner Wert. Taillen- und andere Maßbandmessungen sind nur vergleichbar, wenn du dieselben Körperpunkte und dieselbe Bandspannung nutzt."
+		},
+		{
+			"title": "Fotos sind optional",
+			"text": "Fortschrittsfotos können Veränderungen bei Haltung oder Aussehen zeigen, aber Licht, Kamerawinkel und Kleidung beeinflussen sie stark. Du brauchst sie nicht, wenn dein Fokus auf Fitness oder Kraft liegt, und sie helfen möglicherweise nicht, wenn du Sorgen um dein Körperbild oder ums Essen hast."
+		},
+		{
+			"title": "Fitness und Gewicht sind getrennt",
+			"text": "Sich besser zu bewegen, länger durchzuhalten und stärker zu werden sind echte Ergebnisse, egal welche Größe du hast. Wenn du dir Sorgen über eine unerwartete Gewichtsveränderung oder eine Erkrankung machst, sprich mit einer Gesundheitsfachperson."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Die Seite „Heute“ hat ein Körpergewichtsprotokoll, und ob du es nutzt, bleibt dir überlassen. Lies es als Trend über mehrere Wochen. TrainUp behandelt das Körpergewicht nicht als Maß für Fitness und setzt keine Ziele zur Gewichtsabnahme."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: gesundes Gewicht und Aktivität",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

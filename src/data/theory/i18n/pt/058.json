@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Como funciona a resistência",
+			"text": "Um haltere pesa o mesmo em todos os pontos, mas a resistência de uma banda depende de quanto a banda é esticada, da sua espessura e do produto. Uma banda mais comprida ou mais grossa não equivale a um peso definido, e os códigos de cores diferem entre fabricantes. O ponto do movimento em que a resistência é maior também pode ser diferente do de um exercício com pesos livres."
+		},
+		{
+			"title": "Opções de exercício",
+			"text": "As bandas funcionam bem para remadas, press, elevações laterais, Pallof press e puxadas a partir de um ponto de fixação bem instalado. Uma banda em anel à volta dos joelhos acrescenta resistência leve aos exercícios de anca. Em alguns movimentos pode pisar a banda como ponto de fixação simples, desde que não possa escorregar e dar um estalo para cima."
+		},
+		{
+			"title": "Inspecionar e fixar em segurança",
+			"text": "Antes de cada sessão, verifique se há fendas, zonas finas, rasgões, pegas danificadas e conectores gastos. Use um ponto de fixação feito para o efeito, como o fabricante indica, e certifique-se de que não se pode soltar. Não estique demasiado a banda, não a deixe roçar em arestas afiadas nem ponha a cara na trajetória em que ela daria o estalo de volta. Uma banda que escorrega pode causar lesões nos olhos e outros danos."
+		},
+		{
+			"title": "Progressão e registo",
+			"text": "Acrescente repetições controladas, mude para uma banda com mais resistência ou altere a sua posição ou a distância ao ponto de fixação, desde que a nova montagem continue segura. A tensão muda com o comprimento, por isso anote a banda ou a montagem que usou; a cor não lhe dá um peso preciso em quilogramas. Não aumente bruscamente ao mesmo tempo a tensão da banda e a amplitude."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "No Perfil, indique a resistência das bandas que tem. Conte as suas bandas como disponíveis apenas quando tiver um ponto de fixação seguro para o exercício que planeia fazer. Se não conseguir confirmar o ponto de fixação, o estado da banda ou o seu espaço, escolha uma alternativa mais segura."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: segurança com bandas elásticas",
+			"url": "https://abuhb.nhs.wales/files/patient-information-leaflets1/physiotherapy/safety-advice-when-exercising-with-resistance-bands-or-tubing-piu1332/"
+		},
+		{
+			"label": "Biblioteca de exercícios da ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

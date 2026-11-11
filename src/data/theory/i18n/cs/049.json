@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Co snížit",
+			"text": "Nejjednodušší přístup je dělat několik tréninků méně náročných sérií a držet se dál od selhání. Pokud obvykle děláte čtyři série na cvik, můžete například týden dělat dvě lehké série. Snížení objemu zhruba o 40–50 % je jedna praktická možnost. Věda přesné procento nestanovuje."
+		},
+		{
+			"title": "Zachovejte nějaký tréninkový podnět",
+			"text": "Odlehčení může stále zahrnovat trénink. Známé cviky s lehčím úsilím udržují koordinaci a rutinu. Někteří cvičenci drží střední zátěže a dělají méně sérií. Jiní snižují zátěž i série, když jim dělají starosti klouby nebo celková únava. Nejlepší volba závisí na tom, proč odlehčení potřebujete."
+		},
+		{
+			"title": "Kdy pomáhá",
+			"text": "Varovné signály mohou zahrnovat několik neobvykle těžkých tréninků, klesající výkon, únavu, která nezmizí, nebo rostoucí pocit, že se nezotavujete. Tyto signály mají mnoho možných příčin. Nemoc ani zdravotní příznaky nepřipisujte jen normální tréninkové únavě. Pokud s tréninkem začínáte, možná prostě potřebujete lehčí pravidelný plán bez plánovaných odlehčení."
+		},
+		{
+			"title": "Plánované nebo podle potřeby",
+			"text": "Některé strukturované programy používají lehčí týden každé čtyři až osm týdnů, zejména při vysoké zátěži. Toto načasování je jeden ze způsobů, jak věci uspořádat. Pokud vám střední program jde dobře, formální odlehčení možná nepotřebujete, a pokud jste pod neobvyklým stresem, může pomoci dřívější."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Týden 4 každého plánu TrainUp je lehčí odlehčovací týden. Když plán znovu vytvoříte, bude lehčí, pokud byly 2 z vašich posledních 3 tréninků velmi těžké (RPE 9 nebo více) nebo dokončené z méně než 60 %. Po lehčím období se krok za krokem vraťte k běžným zátěžím a sledujte, jak reagujete. Týden volna nezaručuje, že se vrátíte silnější."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Systematický přehled o periodizaci a výsledcích tréninku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35044672/"
+		}
+	]
+}

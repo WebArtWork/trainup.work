@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Cosa conta come progressione",
+			"text": "Puoi sollevare un po’ più di peso per le stesse ripetizioni, fare più ripetizioni con lo stesso peso, aggiungere una serie che riesci ancora a completare con buona forma, usare più range di movimento o passare a una variante a corpo libero più difficile. Un recupero più breve concentra più lavoro nella sessione ma può ridurre la tua prestazione di forza massima, quindi usalo solo quando serve al tuo obiettivo."
+		},
+		{
+			"title": "Una qualità che puoi ripetere",
+			"text": "Prima di aggiungere carico, controlla che il movimento sia controllato, che tu completi le ripetizioni previste e che lo sforzo corrisponda al piano. La tecnica non apparirà identica su ogni corpo, ma dovrebbe apparire uguale per te ogni volta. Insistere mentre il dolore peggiora o il movimento diventa instabile non è un sovraccarico produttivo."
+		},
+		{
+			"title": "Esempio",
+			"text": "Supponi che l’obiettivo sia due serie di 8–12 goblet squat. Fai 10 e 9 ripetizioni, poi 11 e 10 la volta dopo, poi 12 e 12. A questo punto ha senso un piccolo aumento di peso con meno ripetizioni. Se i tuoi manubri hanno un peso fisso, puoi rallentare il movimento per avere più controllo o scegliere una variante più difficile."
+		},
+		{
+			"title": "Una modifica alla volta",
+			"text": "Se aumenti insieme serie, peso, frequenza e complessità degli esercizi, diventa difficile capire da dove viene la tua fatica. Cambia prima la variabile che conta di più e dai al tuo corpo il tempo di adattarsi. I progressi rallentano man mano che acquisisci esperienza, e alcune sessioni dovrebbero semplicemente mantenere il tuo livello attuale."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "L’app registra le ripetizioni che completi, lo sforzo della sessione (RPE) e qualsiasi dolore che segnali. Il carico lo scegli tu. Quando rigeneri il piano dopo almeno 3 allenamenti, sale di un gradino solo se i tuoi ultimi 4 sono stati facili (RPE 5 o meno) e completi. Qualsiasi dolore recente significa nessun aumento, e se 2 dei tuoi ultimi 3 sono stati molto duri (RPE 9 o più) o completati per meno del 60%, il piano successivo sarà più facile."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: sicurezza e fondamenti dell’allenamento coi pesi",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: tecnica dell’allenamento coi pesi (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

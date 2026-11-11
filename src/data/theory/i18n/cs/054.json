@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co se mění během pauzy",
+			"text": "Aerobní vytrvalost, snášenlivost pohybu a výkon při zvedání slábnou různou rychlostí. Několik vynechaných dní může znamenat jen malý rozdíl, zatímco týdny nebo měsíce bez tréninku mohou snížit, kolik práce zvládnete. Dřívější trénink vám může pomoci rychleji si dovednosti znovu osvojit, ale „svalová paměť“ neruší potřebu postupného návratu."
+		},
+		{
+			"title": "Proč jste přestali",
+			"text": "Cestování nebo hektický rozvrh se liší od zranění, operace nebo dlouhé nemoci. Po zdravotní události se před návratem k náročnému tréninku zeptejte lékaře nebo jiného vhodného zdravotnického odborníka. TrainUp nedokáže posoudit, zda je pro vás návrat po nemoci nebo zranění zdravotně bezpečný. Pokud se něco změnilo, před novým začátkem aktualizujte svá omezení v Profilu."
+		},
+		{
+			"title": "Opatrný začátek",
+			"text": "Po dlouhé pauze se vraťte s méně sériemi, lehčím odporem a více opakováními v rezervě. Začít zhruba na 50–70 % dřívějšího tréninkového objemu je jeden plánovací příklad, který některým lidem vyhovuje; výzkum toto číslo nestanovuje. Než přidáte práci, zjistěte, jak první tréninky působí."
+		},
+		{
+			"title": "Budujte v dalších týdnech",
+			"text": "Procvičujte známé techniky, nechte dost času na regeneraci a práci přidávejte pomalu, jak se pohyb a bolest svalů vracejí k normálu. Nezkoušejte hned své staré maximum. Pokud vám první týden zanechá dlouhotrvající nebo neobvykle silnou bolest svalů, zopakujte nebo snižte zátěž, i když rozvrh říká, že je čas postoupit."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA/CSCCa: bezpečný návrat po neaktivitě",
+			"url": "https://doi.org/10.1519/SSC.0000000000000477"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

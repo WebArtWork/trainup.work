@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Natychmiastowa energia o dużej mocy",
+			"text": "System ATP-fosfokreatyna (fosfagenowy) może szybko odbudowywać ATP podczas krótkich wysiłków o dużej mocy, takich jak skok, start sprintu czy ciężka seria. Może utrzymać maksymalną moc tylko przez krótki czas, co pomaga wyjaśnić, dlaczego kilka minut odpoczynku może przywrócić wydolność między ciężkimi wysiłkami siłowymi lub szybkościowymi."
+		},
+		{
+			"title": "Szybki rozkład węglowodanów",
+			"text": "Glikoliza beztlenowa dostarcza ATP z węglowodanów, a reakcje, które je wytwarzają, nie potrzebują tlenu. Ma największe znaczenie podczas ciężkich wysiłków trwających od kilkunastu sekund do kilku minut. Mleczan jest często nazywany „odpadem” lub obwiniany jako jedyna przyczyna bolesności, ale organizm używa go także jako paliwa i sygnału metabolicznego."
+		},
+		{
+			"title": "Długotrwała produkcja tlenowa",
+			"text": "Metabolizm oksydacyjny w mitochondriach wykorzystuje tlen do wytwarzania ATP z węglowodanów i tłuszczów. Napędza długie spacery, jazdę na rowerze, spokojne bieganie i znaczną część regeneracji między ciężkimi interwałami. Nawet krótkie wysiłki mają pewien udział tlenowy, ponieważ systemy nigdy nie włączają się i wyłączają w osobnych okienkach czasowych."
+		},
+		{
+			"title": "Dlaczego liczą się czas i przerwy",
+			"text": "Prawie maksymalny pięciosekundowy sprint i 30-minutowy marsz wymagają bardzo różnej ilości mocy. Powtarzane 20-sekundowe ciężkie interwały z krótkimi przerwami utrudniają utrzymanie wydajności w miarę narastania zmęczenia. Ciężkie serie ze sztangą zwykle wymagają dłuższych przerw, aby zachować siłę i technikę, a celem nie jest jak największa zadyszka."
+		},
+		{
+			"title": "Zastosowanie w praktyce",
+			"text": "Daj sobie wystarczająco dużo regeneracji, gdy głównym celem jest siła lub szybkość. Stosuj stałą umiarkowaną aktywność, by budować wydolność tlenową. Interwałów do kondycji używaj, gdy pasują, a pracę i odpoczynek ustawiaj według obecnych możliwości. Wysokie tętno podczas podnoszenia nie oznacza, że trening dał Ci taki sam bodziec tlenowy jak długotrwałe cardio."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Wytyczne WHO dotyczące aktywności aerobowej",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

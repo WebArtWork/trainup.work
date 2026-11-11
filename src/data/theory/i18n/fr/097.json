@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Symptômes d’urgence",
+			"text": "Arrêtez immédiatement de vous entraîner si vous ressentez une douleur ou une pression dans la poitrine, si vous vous évanouissez, si vous êtes gravement essoufflé sans raison apparente, si vous sentez une faiblesse soudaine d’un côté du corps, si vous avez un violent mal de tête nouveau avec des changements neurologiques ou si une réaction grave se développe rapidement. Une gêne thoracique avec transpiration, nausées, étourdissements ou une douleur qui irradie vers le bras ou la mâchoire nécessite les services d’urgence."
+		},
+		{
+			"title": "Autres signes d’alerte graves",
+			"text": "Ne vous entraînez pas malgré une douleur soudaine et intense d’une articulation ou du dos, un gonflement marqué après une blessure, l’impossibilité de prendre appui, une faiblesse qui s’aggrave ou un nouvel engourdissement. Un mal de dos accompagné d’une perte de contrôle de la vessie ou des intestins ou d’un engourdissement autour de l’aine nécessite une évaluation d’urgence immédiate."
+		},
+		{
+			"title": "Que faire",
+			"text": "Arrêtez-vous, sécurisez la zone et demandez de l’aide. Appelez le numéro d’urgence local pour les symptômes d’urgence, et ne conduisez pas vous-même si vous pouvez être gravement malade ou blessé. Si vous êtes le partenaire d’entraînement, n’essayez pas de trouver la cause et n’encouragez pas la personne à terminer sa série. TrainUp ne peut pas juger d’une urgence, diagnostiquer une maladie ni remplacer un professionnel qualifié."
+		},
+		{
+			"title": "La prévention a des limites",
+			"text": "Les échauffements, des charges raisonnables et une progression graduelle peuvent réduire le stress évitable, mais ils ne peuvent pas écarter tous les problèmes médicaux. Si vous avez une maladie cardiaque connue ou des facteurs de risque importants, vous aurez peut-être besoin de l’avis personnalisé de votre médecin avant de commencer un exercice intense."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS : douleur thoracique et symptômes d’urgence",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		},
+		{
+			"label": "NHS : mal de dos et signes d’alerte urgents",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		},
+		{
+			"label": "NHS : douleurs articulaires",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		}
+	]
+}

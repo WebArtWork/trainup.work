@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Specificitet och överbelastning",
+			"text": "Specificitet betyder att kroppen anpassar sig till det du övar: lyft förbättrar lyftstyrkan, och cykling utvecklar cykeluthållighet. Överbelastning betyder att utmaningen måste vara stor nog för att ge anpassning. Du behöver inte en tyngre vikt varje pass. En kontrollerad repetition till eller renare utförande räknas också som framsteg."
+		},
+		{
+			"title": "Individualisering och progression",
+			"text": "Människor reagerar olika beroende på erfarenhet, kapacitet, schema, miljö och mål. En nybörjare kan förbättras med två korta pass i veckan, medan en erfaren lyftare kan behöva träning som sprids ut mer noggrant. Progression betyder att göra det svårare när du har visat att du är redo. Att gå snabbare är inte målet."
+		},
+		{
+			"title": "Återhämtning, regelbundenhet och reversibilitet",
+			"text": "Du anpassar dig genom upprepad träning och återhämtningen mellan passen. Sömn, mat och ett schema du kan hålla avgör om du kan fortsätta. Reversibilitet betyder att vissa fördelar bleknar när du slutar träna, i en takt som beror på dig och på förmågan i fråga. Att missa ett pass raderar inte dina framsteg."
+		},
+		{
+			"title": "Variation med ett skäl",
+			"text": "Att byta en övning kan hålla tristess borta eller lösa brist på utrustning, men om du byter ut varje rörelse varje vecka kan du inte se om du förbättras. Behåll dina huvudmönster desamma i flera veckor och ändra komplement eller belastningar när du har ett skäl. ACSM:s ställningstagande 2026 visar att många olika program fungerar så länge du fortsätter träna och fortsätter driva din ansträngning framåt."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ditt mål finns i Profil, varje pass registrerar de set och repetitioner du slutför, och du skattar passets ansträngning (RPE) efteråt. När du skapar din plan på nytt ändras den ett steg i taget utifrån den historiken, så en generisk plan förblir inte fast för dig. Om du justerar saker själv, ändra en eller två variabler åt gången."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM:s vägledning om progressionsmodell",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NSCA: grunder i säkerhet och styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

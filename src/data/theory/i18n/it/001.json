@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Il ciclo di adattamento",
+			"text": "Un allenamento è uno stimolo. I muscoli producono forza, il cuore e i vasi sanguigni portano più ossigeno e tu eserciti abilità di movimento. Subito dopo, la fatica può abbassare per un po’ le tue prestazioni. Durante il recupero che segue, il corpo ripara, rifornisce le sue scorte e si adatta. Vedi il risultato in settimane e mesi di cicli ripetuti."
+		},
+		{
+			"title": "Adattamenti specifici",
+			"text": "Il principio SAID (Specific Adaptation to Imposed Demands, adattamento specifico alle richieste imposte) significa che il corpo si adatta soprattutto a ciò che pratichi. Gli squat pesanti migliorano la produzione di forza in schemi simili allo squat, e la camminata veloce allena soprattutto la capacità aerobica. La forma fisica generale combina diversi tipi di sfida. I primi aumenti di forza spesso derivano da una migliore coordinazione e dal reclutamento del sistema nervoso, mentre una crescita muscolare evidente di solito richiede più tempo."
+		},
+		{
+			"title": "Supercompensazione",
+			"text": "Un diagramma molto diffuso mostra la forma che cala dopo l’allenamento, si riprende e poi sale brevemente sopra il punto di partenza. È un’immagine didattica utile, ma non è una tabella di marcia precisa né una legge biologica universale. Sistemi diversi recuperano a ritmi diversi, e non devi far coincidere ogni seduta con un mitico picco."
+		},
+		{
+			"title": "Esempio",
+			"text": "Un principiante fa due allenamenti full body moderati a settimana. Dopo diverse sedute, gli stessi esercizi sembrano più facili. Aggiunge una o due ripetizioni, un po’ di peso o un’altra sfida scelta con cura, mantenendo la tecnica. Se continua ad accumulare sedute dure senza recupero, i suoi progressi possono bloccarsi."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Scegli un obiettivo principale nel Profilo, spunta le serie durante ogni allenamento e valuta lo sforzo alla fine. Lo Storico mostra un grafico di 4 settimane, quindi osserva le tendenze su più settimane. Prima di rendere l’allenamento più difficile, pensa al tuo sonno, alla dolenzia e a quanto sei stato costante."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Linee guida OMS sull’attività fisica",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Grunderna i pull-ups",
+			"text": "Använd ett säkert räck och ett grepp som känns bekvämt för axlar och händer. Spänn bålen, dra tills överkroppen når en jämn höjd som du klarar och sänk med kontroll. Axelpositionen i början och omfånget beror på din styrka och komfort. Du behöver inte starta varje repetition från ett helt passivt hängande."
+		},
+		{
+			"title": "Progressioner",
+			"text": "Nybörjare kan öva stödda hängningar, övningar för skulderbladskontroll, pull-ups med gummibandshjälp eller maskinhjälp och sedan långsamma sänkningsrepetitioner. Ett latsdrag tränar en liknande rörelse med motstånd som du kan justera. När du kan göra flera kontrollerade pull-ups, lägg till repetitioner innan du lägger till vikt. Pressa inte sänkningsrepetitionerna så hårt att greppet eller axlarna tappar kontrollen."
+		},
+		{
+			"title": "Pull-ups och latsdrag",
+			"text": "I en pull-up rör sig kroppen mot ett fast räck, vilket kräver mycket helkroppsstabilitet. I ett latsdrag kommer handtaget till dig, och belastningen kan ändras i små steg. Båda bygger dragstyrka, och du behöver ingen av dem för att bli allmänt vältränad. Chin-ups använder ett underhandsgrepp och känns ofta annorlunda i armbågar och axlar."
+		},
+		{
+			"title": "Säkerhet och montering",
+			"text": "Se till att ett räck hemma är rätt monterat och dimensionerat för din vikt och för att röra dig på det. Undvik lösa dörrkarmsfästen och balkar som ingen har testat. Tvinga inte fram latsdrag bakom nacken och svinga inte kroppen för att pressa ut extra repetitioner. Välj ett grepp du tål, och sluta om du känner ovanlig smärta."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "I Profil anger du om ett räck för pull-ups är säkert monterat. Om det inte är det utelämnar din plan pull-ups och väljer andra drag som passar din utrustning, som ett latsdrag eller ett horisontellt drag. Improvisera inte en förankring. Notera din hjälp, ditt grepp och ditt omfång, eftersom var och en ändrar hur svår övningen är."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: teknik vid styrketräning (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: grunder i säkerhet och styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

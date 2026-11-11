@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Normalne odczucia treningowe",
+			"text": "Mięśnie mogą być ciepłe, zmęczone lub piec podczas powtarzanych skurczów. Opóźniona bolesność mięśni może pojawić się dzień lub dwa po nieznanej pracy. Te odczucia zwykle różnią się od nagłego kłującego bólu, niestabilnego stawu, objawów rozprzestrzeniających się wzdłuż kończyny lub dyskomfortu, który utrzymuje się lub nasila nawet po zwolnieniu."
+		},
+		{
+			"title": "Więcej niż jedna liczba",
+			"text": "Skala bólu 0–10 może opisać, jak silny jest ból, ale nie powie Ci o przyczynie. Podejście sygnalizacji świetlnej pomaga uporządkować to, co czujesz. Zielony to zwykły wysiłek ze stabilną kontrolą. Bursztynowy to nietypowy lub narastający dyskomfort i oznacza przerwanie lub zmianę ćwiczenia. Czerwony to silne lub niepokojące objawy wymagające oceny medycznej."
+		},
+		{
+			"title": "Co robić",
+			"text": "Przerwij ruch, który to wywołuje. Zmniejsz obciążenie lub zakres tylko wtedy, gdy jest to wygodne, i nie próbuj w kółko, by udowodnić, że to wytrzymasz. Nowy obrzęk, drętwienie, wyraźne osłabienie lub objawy po upadku wymagają dokładniejszego sprawdzenia. Ból ma wiele możliwych przyczyn, a aplikacja nie może nazwać Twojej kontuzji."
+		},
+		{
+			"title": "Przykład",
+			"text": "Pieczenie w udach pod koniec serii wejść na podwyższenie to prawdopodobnie wysiłek mięśniowy. Kolano, które nagle blokuje się boleśnie lub na którym nie możesz oprzeć ciężaru, to inna sprawa, a zmiana liczby powtórzeń jej nie rozwiąże."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Jeśli coś boli podczas treningu, dotknij „Czuję ból”. Ćwiczenie kończy się natychmiast i nie wraca do Twoich planów, dopóki nie wznowisz go w Profilu. Po treningu możesz zgłosić ból lub dyskomfort wraz z częścią ciała i ćwiczeniem oraz zaktualizować swoje ograniczenia w Profilu. TrainUp nie podaje programów rehabilitacji. Zgłoś się do lekarza lub fizjoterapeuty z bólem, który się utrzymuje, jest silny lub Cię niepokoi."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: ból stawów",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		},
+		{
+			"label": "NHS: ból kolana i kiedy szukać pomocy",
+			"url": "https://www.nhs.uk/symptoms/knee-pain/"
+		},
+		{
+			"label": "NHS: ból pleców i pilne sygnały ostrzegawcze",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		}
+	]
+}

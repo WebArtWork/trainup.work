@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Vantaggi",
+			"text": "Ogni mano porta il proprio carico, il che rende pratico il lavoro unilaterale e permette angoli di presa che una barra fissa potrebbe non consentire. Un rematore a un braccio o una distensione a un braccio possono mostrare differenze di controllo tra i due lati. I manubri spesso si adattano meglio agli spazi piccoli di un’installazione completa con bilanciere, anche se i salti tra un peso e l’altro possono essere grandi o la scelta limitata."
+		},
+		{
+			"title": "Scegli il tuo peso",
+			"text": "Scegli una coppia o un singolo manubrio che ti permetta di raggiungere le ripetizioni obiettivo con movimento stabile e qualche ripetizione di riserva. Da principiante, potresti aver bisogno di carichi diversi per rematori, curl e distensioni. Se il peso successivo è troppo pesante, aggiungi prima ripetizioni, range o controllo con quello più leggero."
+		},
+		{
+			"title": "Mettiti in posizione in sicurezza",
+			"text": "Per una panca piana con manubri, siediti tenendo saldamente i manubri vicino alle cosce, sdraiati con controllo e porta i pesi in posizione senza lanciarli. Per i sollevamenti in piedi, raccogli i pesi con gambe e tronco in una posizione stabile. Non lasciare cadere i pesi dove potrebbero rimbalzare sui tuoi piedi, danneggiare il pavimento o colpire qualcuno."
+		},
+		{
+			"title": "Usi comuni",
+			"text": "I goblet squat e gli stacchi rumeni con manubri allenano la parte bassa del corpo, i rematori e le distensioni con appoggio coprono la parte alta, e i carry sviluppano presa e controllo del tronco. Se hai un solo manubrio, usalo per i movimenti unilaterali."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "In Profilo, inserisci i pesi dei manubri che possiedi. Il tuo piano sceglie esercizi adatti alla tua attrezzatura, al tuo spazio e all’altezza del soffitto. Non prescrive i pesi, quindi il carico lo scegli tu. Se annoti i tuoi carichi dopo un allenamento, scrivili sempre allo stesso modo, per esempio «12 kg per mano»."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: pesi liberi e macchine a confronto",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "Libreria di esercizi ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: tecnica dell’allenamento coi pesi (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

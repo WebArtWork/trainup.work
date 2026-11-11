@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Quanto demora a recuperação",
+			"text": "Depende do exercício, do volume total, da intensidade, do sono, da condição física e de quão familiar é o trabalho. Depois de uma sessão difícil para um grande grupo muscular, cerca de 48–72 horas antes de outra sessão igualmente difícil é um guia de planeamento comum. É uma orientação, e algumas pessoas precisam de mais ou de menos."
+		},
+		{
+			"title": "Sinais de que não recuperou",
+			"text": "Dores musculares que duram mais do que o habitual, menos repetições com a mesma carga, pernas pesadas, pouca motivação e alterações na técnica podem apontar para demasiada fadiga. Uma sessão má não prova sobretreino. Procure tendências ao longo de vários treinos, sobretudo acompanhadas de sono fraco, doença ou stress extra no resto da vida."
+		},
+		{
+			"title": "Distribua o trabalho difícil",
+			"text": "Uma semana típica pode ter força de corpo inteiro à segunda e à quinta, com caminhadas fáceis nos outros dias. Treinar a força com mais frequência pode funcionar quando distribui exercícios ou grupos musculares pela semana e mantém o volume sob controlo. O cardio fácil ou a mobilidade num dia sem levantamentos costuma conciliar-se bem com a recuperação."
+		},
+		{
+			"title": "Ajude o corpo a adaptar-se",
+			"text": "Procure um sono regular, comida e água suficientes, pequenos aumentos de treino e dias de descanso quando precisar. As dores musculares não são uma pontuação da qualidade do treino. Se o seu desempenho continuar a descer, reduza o volume, escolha variações mais fáceis ou acrescente tempo de recuperação. Não aumente a intensidade para compensar."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "Depois de cada treino, avalie o esforço e indique qualquer dor ou desconforto. Quando gera de novo o plano, o TrainUp analisa pelo menos 3 treinos. Qualquer dor recente significa que não há aumento. Se 2 dos seus últimos 3 treinos tiverem sido muito difíceis (RPE 9 ou mais) ou concluídos em menos de 60%, o plano seguinte é mais fácil. O Histórico mostra o seu esforço médio e um gráfico das últimas 4 semanas. Se sintomas graves persistirem, procure aconselhamento médico."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: dose de exercício, recuperação e progressão",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "NHS: dores musculares de início tardio",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		}
+	]
+}

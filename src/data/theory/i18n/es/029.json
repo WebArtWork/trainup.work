@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Qué significa «fallo»",
+			"text": "El fallo concéntrico es cuando lo intentas pero no puedes completar otra repetición de levantamiento. El fallo técnico llega antes, cuando ya no puedes mantener el rango previsto o un movimiento seguro. En un levantamiento complejo puedes llegar al fallo técnico mucho antes de que los músculos objetivo lleguen al fallo muscular completo."
+		},
+		{
+			"title": "Entrenamiento duro sin fallo",
+			"text": "En la declaración de posición del ACSM de 2026, entrenar hasta el fallo momentáneo no dio de forma fiable mejores resultados de fuerza, hipertrofia o potencia. Las series que terminan con unas dos o tres repeticiones en reserva suelen dar un estímulo de entrenamiento útil con menos fatiga. Cuánto te acerques al fallo depende de tu objetivo, la carga, el ejercicio, tu experiencia y la situación."
+		},
+		{
+			"title": "El riesgo varía según el ejercicio",
+			"text": "Acercarte al fallo en una máquina estable o en un ejercicio de aislamiento de bajo riesgo es muy distinto de hacerlo en una sentadilla pesada con barra, un press por encima de la cabeza sin apoyo o un movimiento explosivo que no conoces. Perder el bracing, perder el control en la bajada o no tener una forma segura de parar son motivos para terminar una serie. Si entrenas solo sin equipo de seguridad, es un motivo más para dejar repeticiones en reserva."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Si haces remo con 15 kg durante doce repeticiones limpias y piensas que podrías hacer dos más, la serie está en torno a 2 RIR. No necesitas demostrarlo forzando las repeticiones trece y catorce. Una persona con experiencia puede llevar a veces una serie cerca del fallo en una máquina segura por un motivo concreto, pero ese no debería ser el plan de todas las sesiones. Busca un esfuerzo y una calidad que puedas repetir, y no trates el fallo como un logro que coleccionar."
+		},
+		{
+			"title": "Cuándo parar",
+			"text": "Termina cualquier serie si notas un dolor inusual, mareo o debilidad repentina, o si no puedes controlar el movimiento. El esfuerzo muscular normal es distinto de estas señales de alarma."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Estudio del RPE basado en RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		}
+	]
+}

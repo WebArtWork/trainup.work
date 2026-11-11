@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Je totale stress",
+			"text": "Training is maar één deel van de stress die je draagt. Slechte slaap, reizen, een veeleisende baan, emotionele belasting, hitte en recente ziekte kunnen allemaal je concentratie, coördinatie en hoe zwaar het werk voelt beïnvloeden. Gereedheid is geen diagnose, en geen enkele score vangt haar volledig."
+		},
+		{
+			"title": "Een eenvoudige check-in",
+			"text": "Let vóór een training op je slaap, energie, motivatie, spierpijn en nieuwe klachten. Vergelijk ze met wat voor jou normaal is, niet met de cijfers van een ander. De warming-up geeft je een tweede controle: voelen bewegingen onverwacht zwaar of is je controle verminderd, dan moet een veeleisende training misschien worden aangepast."
+		},
+		{
+			"title": "Aanpassen op een slechte dag",
+			"text": "Verlaag op een dag met weinig energie het gewicht, kort de training in, kies eenvoudigere oefeningen of ga in plaats daarvan rustig wandelen. Doe op een normale dag het schema zoals het er staat. Maak niet van elke korte dip een rustdag. Trends over meerdere trainingen zeggen je meer dan één beoordeling."
+		},
+		{
+			"title": "Ziekte en veiligheid",
+			"text": "Koorts, ziekte die je hele lichaam raakt, klachten aan de borst of ongewone kortademigheid zijn redenen om zware training over te slaan en medisch advies te vragen. De populaire “nekcheck” is maar een ruwe vuistregel en geeft je geen toestemming om te sporten als je ziek bent."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "TrainUp schrijft geen gewichten voor, dus jij kiest elke dag het gewicht. Je schema verandert pas als je het opnieuw maakt, op basis van de inspanning (RPE) die je na elke training hebt beoordeeld, eventuele pijn die je meldde en hoeveel van elke training je afrondde."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: slaapaanbevelingen",
+			"url": "https://www.cdc.gov/sleep/about/"
+		},
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: pijn op de borst en spoedeisende symptomen",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Partez de l’objectif",
+			"text": "Chaque mouvement a un rôle : un squat travaille ensemble l’extension de la hanche et du genou, un rowing travaille la traction, et une charnière sollicite surtout les hanches. Une bonne technique peut paraître un peu différente d’une personne à l’autre, car la longueur des membres, la mobilité et le matériel varient. Ce qui compte, c’est un contrôle sûr et reproductible. Personne n’a à imiter une apparence exacte."
+		},
+		{
+			"title": "Construisez les bases",
+			"text": "Apprenez d’abord une version sans charge ou légèrement chargée. Utilisez une amplitude que vous contrôlez, des répétitions fluides et un appui stable quand vous en avez besoin. Progressez ensuite par petits pas : plus de répétitions, plus de résistance ou une version plus complexe. Vous filmer ou travailler avec un coach qualifié peut révéler des habitudes, mais une vidéo seule ne peut pas diagnostiquer une blessure."
+		},
+		{
+			"title": "Quand la technique se dégrade",
+			"text": "Les signes d’alerte au cours d’une série sont la perte d’équilibre, la descente du poids sans contrôle, l’écart par rapport à la trajectoire prévue, ou des compensations qui s’aggravent avec la fatigue. Arrêtez-vous ou rendez l’exercice plus facile quand vous les voyez. Soulever plus lourd avec une technique qui s’effondre n’est pas un progrès."
+		},
+		{
+			"title": "Exemple",
+			"text": "Avant de charger un soulevé de terre roumain à l’haltère, entraînez-vous à la charnière de hanche avec les mains sur les hanches, puis avec un poids léger. N’ajoutez du poids que lorsque vos hanches reculent sous contrôle et que la position de votre dos reste la même d’une répétition à l’autre pour votre corps."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Votre programme choisit des exercices adaptés à votre niveau et à votre coordination, et chaque page d’exercice dans Explorer contient des étapes et des conseils de technique. TrainUp ne prescrit pas de poids, c’est donc vous qui choisissez la charge. Notez vos répétitions pendant la séance et évaluez votre effort ensuite, et ajoutez de la charge par petits pas sans courir après un record à chaque séance."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026 : conseils pratiques",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

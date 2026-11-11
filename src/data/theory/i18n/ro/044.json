@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ce înseamnă progresie",
+			"text": "Poți ridica puțin mai multă greutate pentru aceleași repetări, face mai multe repetări cu aceeași greutate, adăuga o serie pe care o poți încă termina cu formă bună, folosi mai mult din amplitudine sau trece la o variantă mai grea cu greutatea corpului. Odihna mai scurtă înghesuie mai multă muncă în sesiune, dar poate scădea performanța maximă de forță, așa că folosește-o doar când servește obiectivului tău."
+		},
+		{
+			"title": "Calitate pe care o poți repeta",
+			"text": "Înainte să adaugi sarcină, verifică dacă mișcarea este controlată, dacă termini repetările planificate și dacă efortul corespunde planului. Tehnica nu va arăta identic la toate corpurile, dar ar trebui să arate la fel pentru tine de fiecare dată. A continua în timp ce durerea se agravează sau mișcarea devine nesigură nu înseamnă suprasolicitare productivă."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Să zicem că ținta este două serii de 8–12 genuflexiuni goblet. Faci 10 și 9 repetări, apoi 11 și 10 data viitoare, apoi 12 și 12. Acum are sens o mică creștere a greutății, cu mai puține repetări. Dacă ganterele tale au greutăți fixe, poți încetini mișcarea pentru mai mult control sau poți alege o variantă mai grea."
+		},
+		{
+			"title": "O schimbare pe rând",
+			"text": "Dacă mărești deodată seriile, greutatea, frecvența și complexitatea exercițiilor, devine greu de spus de unde vine oboseala. Schimbă mai întâi variabila cea mai importantă și dă-i corpului timp să se adapteze. Progresul încetinește pe măsură ce câștigi experiență, iar unele sesiuni ar trebui doar să-ți mențină nivelul actual."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Aplicația înregistrează repetările pe care le termini, efortul sesiunii (RPE) și orice durere raportezi. Sarcina o alegi tu. Când îți regenerezi planul după cel puțin 3 antrenamente, acesta devine cu un pas mai greu doar dacă ultimele tale 4 au fost ușoare (RPE 5 sau mai puțin) și complete. Orice durere recentă înseamnă nicio creștere, iar dacă 2 din ultimele tale 3 au fost foarte grele (RPE 9 sau mai mult) sau finalizate sub 60%, următorul plan este mai ușor."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bazele siguranței și ale antrenamentului de forță",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: tehnica antrenamentului cu greutăți (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

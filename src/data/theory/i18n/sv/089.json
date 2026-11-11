@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Varför det uppstår",
+			"text": "DOMS följer oftast på ovana rörelser och upprepade excentriska sammandragningar, där en muskel utvecklar kraft medan den förlängs. Flera processer i muskeln och den omgivande vävnaden är inblandade. Kvarvarande mjölksyra är inte orsaken. Hur öm du blir mäter inte hur bra passet var."
+		},
+		{
+			"title": "Hur det kommer och går",
+			"text": "Värken kan börja flera timmar efter ett pass, öka under de följande ett till tre dagarna och sedan avta. En välbekant övning ger ofta mindre värk vid samma dos, vilket kallas upprepad-pass-effekten. Du behöver inte svår eller långvarig värk för att bygga styrka."
+		},
+		{
+			"title": "Träna med träningsvärk",
+			"text": "Lindrig, utspridd muskelömhet tillåter oftast fortfarande promenader, rörlighet eller lättare träning, så länge du rör dig bra. Om värken begränsar vanlig rörelse eller ändrar din lyftteknik, sänk intensiteten eller ta mer återhämtning. Att direkt upprepa ett ovant pass med hög volym är sällan ett bra sätt att göra framsteg. Öka välbekanta övningar gradvis och räkna inte med att stretching eller nedvarvning förebygger värk dagen efter."
+		},
+		{
+			"title": "När du ska söka hjälp",
+			"text": "Skarp smärta på ett ställe, mycket svullnad, tydlig svaghet, mörk urin, feber eller symtom som förvärras i stället för att avta är inte normal DOMS. Allvarliga tecken, särskilt mörk urin tillsammans med muskelsmärta eller svaghet, kräver snabb medicinsk bedömning."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Efter ett pass kan du rapportera smärta eller obehag, med kroppsområde och övning. Nylig smärta betyder att programmet inte blir svårare när du skapar det på nytt. Om en övning gör ont under ett pass, tryck på ”Jag känner smärta” för att avsluta den direkt. Den ligger utanför dina program tills du återupptar den från Profil."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: träningsvärk med fördröjd debut",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		},
+		{
+			"label": "Forskningsöversikt: träningsvärk med fördröjd debut",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13627368/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mit írnak le a mozgásminták",
+			"text": "A guggolás főként a csípő, a térd és a boka együttes hajlítása és kinyújtása. A csípőhajlítás (hinge) többnyire a csípőben történik, a kitörések és a fellépések pedig egyszerre egy lábat terhelnek. A tolás az ellenállást eltávolítja a testtől, a húzás a test felé hozza. Hordozásnál a terhet stabilan tartod, miközben mész, a core-gyakorlatok ellenállnak a törzs mozgásának vagy létrehozzák azt, a helyváltoztató mozgás (locomotion) pedig a járást, futást és hasonló mozgásokat foglalja magában."
+		},
+		{
+			"title": "Miért számítanak a minták",
+			"text": "Egy gyakorlat egyszerre több izmot és mintát is edzhet. A kehelyguggolás a lábat és a törzset edzi, a súlyos hordozás pedig a fogást, a tartást és a járásmechanikát. A gyakorlatok minta szerinti csoportosítása hiányokat mutat meg, amelyeket a csak mell, kar és láb szerinti lista elnézhet. Nem kell minden mintának szerepelnie minden edzésen."
+		},
+		{
+			"title": "Kiegyensúlyozott hét felépítése",
+			"text": "Két-három egész testes edzés alatt egy kezdő beiktathat egy guggolást, egy csípőhajlítást, egy vízszintes tolást, egy vízszintes húzást, egy kitörést és egy egyszerű rotáció- vagy feszítésgátló gyakorlatot. A függőleges tolás, a függőleges húzás és a hordozások akkor jöhetnek, ha a felszerelésed, a mozgékonyságod és a céljaid megengedik. Az egyes minták adagját tartsd olyan kicsin, hogy regenerálódni tudj belőle, és hagyd ki azokat a gyakorlatokat, amelyekre nincs szükséged."
+		},
+		{
+			"title": "Illeszd a mintákat a képességedhez",
+			"text": "Minden mintának vannak könnyebb és nehezebb változatai. A székes guggolás megelőzheti a kehelyguggolást, a falnál végzett fekvőtámasz pedig a padlón végzettet. A csigás evezés és a súlyzós evezés egyaránt vízszintes húzás, de más egyensúlyt és felszerelést igényelnek. Ha egy mozgás kellemetlenséget okoz, vagy instabilnak érződik, változtass a változaton, és tartsd meg a mintát."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Gyakorlatok fülön minden gyakorlat oldala megmutatja a mozgásmintáját, így ellenőrizheted, hogyan fedi le őket a tervezett heted. Ha a legtöbb edzésen van tolás és szinte nincs húzás, egy a felszerelésedhez és korlátaidhoz illő evezés vagy lehúzás pótolná a hiányt. Hetek alatt a jó lefedettségre törekedj, ne minden edzésen a tökéletes arányra."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

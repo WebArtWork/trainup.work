@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Energie imediată de putere mare",
+			"text": "Sistemul ATP-fosfocreatină (fosfagenic) poate reface rapid ATP în eforturile scurte, de putere mare, precum o săritură, o pornire la sprint sau o serie grea. Poate menține puterea maximă doar pentru puțin timp, ceea ce ajută la explicarea faptului că mai multe minute de pauză pot reface performanța între eforturile grele de forță sau de viteză."
+		},
+		{
+			"title": "Descompunerea rapidă a carbohidraților",
+			"text": "Glicoliza anaerobă furnizează ATP din carbohidrați, iar reacțiile care o produc nu au nevoie de oxigen. Contează cel mai mult în eforturile grele care durează de la multe secunde până la câteva minute. Lactatul este adesea numit „deșeu” sau învinuit ca unică cauză a febrei musculare, dar corpul îl folosește și drept combustibil și drept semnal metabolic."
+		},
+		{
+			"title": "Producția aerobă susținută",
+			"text": "Metabolismul oxidativ din mitocondrii folosește oxigen pentru a produce ATP din carbohidrați și grăsimi. El alimentează plimbările lungi, ciclismul, alergarea constantă și o mare parte din refacerea dintre intervalele grele. Chiar și eforturile scurte primesc o contribuție aerobă, pentru că sistemele nu se pornesc și nu se opresc în intervale de timp separate."
+		},
+		{
+			"title": "De ce contează durata și pauza",
+			"text": "Un sprint de cinci secunde la aproape efort maxim și o plimbare de 30 de minute cer cantități foarte diferite de putere. Intervalele grele repetate de 20 de secunde, cu pauze scurte, fac mai greu să îți menții performanța pe măsură ce se acumulează oboseala. Seriile grele cu bara cer de obicei pauze mai lungi, ca să îți păstrezi forța și tehnica, iar scopul nu este să rămâi cât mai fără suflu."
+		},
+		{
+			"title": "Cum pui în practică",
+			"text": "Acordă-ți destulă refacere când ținta principală este forța sau viteza. Folosește activitate moderată constantă pentru a construi capacitatea aerobă. Folosește intervale pentru condiție fizică atunci când se potrivesc și stabilește efortul și pauza după capacitatea ta actuală. Un puls mare în timpul ridicărilor nu înseamnă că sesiunea ți-a oferit același stimul aerob ca un cardio susținut."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Ghidul OMS privind activitatea aerobă",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Was die Dauer misst",
+			"text": "Ein 30-Sekunden-Plank, ein 40-Sekunden-Wandsitzen und ein schnelles 20-Sekunden-Radintervall nutzen alle einen Timer, trainieren aber unterschiedliche Dinge. Statische Haltepositionen erzeugen Kraft ohne viel Gelenkbewegung, während zeitlich begrenzte dynamische Sätze eine Bewegung wiederholen. Dieselbe Zeit kann sich je nach Position, Hebelwirkung, Last und Intensität sehr unterschiedlich anfühlen."
+		},
+		{
+			"title": "Qualität statt Durchhalten",
+			"text": "Höre beim Plank auf, wenn du deinen Rumpf nicht mehr kontrollieren kannst, auch wenn der Timer noch nicht abgelaufen ist. Beim Wandsitzen bestimmen dein Kniewinkel und deine Fußposition die Schwierigkeit. Beim Hängen kommt es auf Griff und Schulterposition an. Eine schlechtere Position länger zu halten bringt dir möglicherweise weniger als ein kürzeres Halten, das du in derselben Position wiederholen kannst."
+		},
+		{
+			"title": "Wege zur Steigerung",
+			"text": "Beginne mit einer Zeit, die du gut wiederholen kannst, etwa 15–20 Sekunden. Füge dann über mehrere Einheiten ein paar Sekunden hinzu, einen Satz oder wechsle zu einer etwas schwereren Variante. Ändere jeweils eine Hauptsache. Sobald ein Halten sehr lang ist, bringt es meist mehr, Widerstand oder einen schwereren Hebel hinzuzufügen, als mehrere Minuten anzustreben."
+		},
+		{
+			"title": "Zeitlich begrenzte Konditionssätze",
+			"text": "Ein 30-Sekunden-Belastungsintervall mit anschließend 60 Sekunden Pause ist nicht automatisch hochintensives Intervalltraining. Die Intensität hängt von deinem Tempo oder deiner Anstrengung während der Belastung ab. Wenn du Anfänger bist, wähle eine Geschwindigkeit, die du kontrollieren kannst, und genug Pause, um dich weiter gut zu bewegen."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Mache drei seitliche Planks von je 20 Sekunden pro Seite mit 40–60 Sekunden Pause. Wenn jedes Halten stabil bleibt, steigere auf 25 Sekunden. Wenn deine Hüfte bei 12 Sekunden absinkt, verkürze das Halten oder wechsle zu einem seitlichen Plank mit Kniestütze."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Zeitlich begrenzte Übungen in deinem Plan kommen mit einer Haltezeit, und der Trainingsbildschirm hat einen Halte-Timer. Wenn du die Variante änderst, schreibe das in deine Trainingsnotizen und vergleiche keine Zeiten aus verschiedenen Körperpositionen, als wären sie derselbe Test."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO: Hinweise zur Aktivität",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

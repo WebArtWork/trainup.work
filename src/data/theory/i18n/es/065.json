@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mide el espacio",
+			"text": "Anota el largo y el ancho del suelo despejado, que suele ser menor que la propia habitación. Un curl de pie necesita bastante poco espacio, mientras que una zancada caminando o un ejercicio en el suelo pueden necesitar sitio para estirar brazos y piernas. Deja espacio extra alrededor de los pesos en movimiento y piensa en cómo empieza y termina el ejercicio."
+		},
+		{
+			"title": "Piensa en tres dimensiones",
+			"text": "Una sentadilla o un remo de pie necesitan espacio a los lados para los codos y el equipamiento. Una flexión o un dead bug necesitan suelo tan largo como tu cuerpo. Un swing con kettlebell necesita espacio libre delante, detrás y alrededor de la kettlebell, y los press por encima de la cabeza o los saltos necesitan espacio vertical."
+		},
+		{
+			"title": "Obstáculos ocultos",
+			"text": "Vigila las mesas bajas, las lámparas colgantes, las esquinas afiladas, las estufas, las mascotas, los cables, las alfombras y las puertas que se abren hacia tu zona. Comprueba que el suelo siga siendo antideslizante una vez colocada la esterilla. Si solo puedes terminar una repetición sin tocar un mueble, el espacio es demasiado justo para un entrenamiento completo."
+		},
+		{
+			"title": "Un plan para espacios pequeños",
+			"text": "En un espacio estrecho, haz sentadillas divididas en el sitio en lugar de zancadas caminando, y trabajo de la parte superior del cuerpo sentado o en el suelo en lugar de grandes movimientos de lado a lado. Si la habitación es demasiado pequeña para paseos con carga, haz ejercicios antiflexión lateral en el sitio. Mantén el patrón de movimiento y deja que cambie el ejercicio concreto."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Introduce el tamaño de tu suelo y la altura del techo en Perfil. El plan elige entonces solo ejercicios cuyo movimiento, incluido el equipamiento, encaje en ese espacio."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: seguridad y técnica en el entrenamiento con pesas",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Proč na návycích záleží",
+			"text": "Síla, kardiovaskulární kapacita a pohybové dovednosti se rozvíjejí opakovaným cvičením. Trénink, který na papíře vypadá skvěle, je k ničemu, pokud je příliš dlouhý, nepohodlný nebo nepříjemný na opakování. Frekvence a dodržování jsou proto součástí návrhu programu, ne jen otázkou motivace."
+		},
+		{
+			"title": "Spojte trénink se spouštěčem",
+			"text": "Spojte trénink s něčím, co se už děje, nebo s pevnou schůzkou: „Po práci v pondělí a ve čtvrtek dělám svůj 25minutový trénink.“ Oblečení, prostor nebo vybavení si připravte předem. První krok udělejte maličký, například obujte boty a začněte pětiminutovou rozcvičku, abyste nebyli závislí na nadšení."
+		},
+		{
+			"title": "Mějte minimální trénink",
+			"text": "V hektický den může návyk udržet jedna varianta dřepu, jeden tlak nebo tah a krátká procházka. Minimum není trvalou náhradou progresivního tréninku. Jeho úkolem je zabránit tomu, aby se jeden vynechaný den změnil v několik vynechaných týdnů. Zaznamenejte, co jste skutečně udělali, a zkrácený trénink nezapisujte jako úplný."
+		},
+		{
+			"title": "Zvládejte neúspěchy klidně",
+			"text": "Vynechaný trénink nevymaže vaše dřívější adaptace. Navažte dalším plánovaným tréninkem a nezdvojnásobujte zátěž, abyste vynechaný trénink „splatili“. Po nemoci, silné únavě nebo dlouhé pauze snižte intenzitu a objem, dokud se nevrátí vaše obvyklá snášenlivost."
+		},
+		{
+			"title": "Zkontrolujte své prostředí",
+			"text": "Špatný spánek, složitá cesta do posilovny, vybavení, ke kterému se nedostanete, a příliš dlouhé tréninky mohou podkopat pravidelnost. Jejich oprava může pomoci víc než hledání nového cviku. Radost z tréninku a to, že si ho sami vyberete, také usnadňují udržení rutiny."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "V Profilu nastavte realistický počet tréninkových dnů a preferované dny a zadejte svůj prostor a vybavení, aby plán vybral jen vyhovující cviky. Připomínky tréninku v Přehledu mohou být vaším spouštěčem. Historie ukazuje tréninky tohoto týdne a váš celkový počet a pokrok se počítá za mnoho týdnů, takže nepotřebujete dokonalou sérii."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: návyky a plánování aktivity",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		},
+		{
+			"label": "Doporučení WHO pro aktivitu",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

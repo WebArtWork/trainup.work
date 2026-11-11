@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Příprava a pohyb",
+			"text": "Postavte se s chodidly v pohodlné šířce a pod pohodlným úhlem špiček. Zpevněte trup, nechte kyčle a kolena ohýbat se společně a držte tlak rovnoměrně rozložený po chodidlech. Spouštějte se pod kontrolou do hloubky, ve které zůstane technika stabilní, a pak se odrazem od podlahy postavte. Sklon trupu a to, jak daleko se pohnou kolena, se bude lišit podle délky vašich končetin a typu dřepu."
+		},
+		{
+			"title": "Hloubka a pohyb kolen",
+			"text": "Neplatí pravidlo, že kolena musí zůstat za špičkami. Při mnoha dřepech se posouvají dopředu a je to normální. Hlubší dřep může být užitečný, když ho dosáhnete pohodlně a s kontrolou, ale vynucování hloubky přes bolestivé klouby nebo ztrátu rovnováhy nepomáhá. Zvednutí pat nebo změna postoje mění pohyb a ani jedno nedělá dřep automaticky lepším."
+		},
+		{
+			"title": "Časté chyby a řešení",
+			"text": "Zvedání pat, nekontrolované bortění kolen dovnitř a ztráta stabilního trupu často znamenají, že hloubka, rovnováha nebo zátěž zatím neodpovídají tomu, co dokážete ovládat. Zkuste lehčí váhu, pauzu těsně nad těžkým místem nebo židli jako cíl. Kolena mohou mířit zhruba stejným směrem jako špičky, aniž by sledovala pevnou dráhu."
+		},
+		{
+			"title": "Příklad progrese",
+			"text": "Začněte s vstáváním ze židle nebo dřepy s vlastní vahou. Až bude vzorec spolehlivý, přidejte goblet dřep, pak jednoručky nebo činku, pokud chcete. Například dokončete dvě série po 8 kontrolovaných opakováních, než přidáte zátěž. Pokročilejší varianty jsou volitelné a ke kondici je nepotřebujete."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Váš plán vybírá dřepy s vlastní vahou, goblet nebo se zátěží podle vašeho vybavení, úrovně, koordinace a omezení, která nastavíte v Profilu, například kvůli koleni. Když postupujete, držte stejnou hloubku a techniku, aby vyšší čísla odrážela skutečný pokrok."
+		}
+	],
+	"sources": [
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: technika posilování (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

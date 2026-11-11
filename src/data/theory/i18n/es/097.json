@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Síntomas de emergencia",
+			"text": "Deja de hacer ejercicio de inmediato si tienes dolor u opresión en el pecho, te desmayas, te falta mucho el aire sin motivo claro, notas una debilidad repentina en un lado del cuerpo, tienes un dolor de cabeza intenso y nuevo con cambios neurológicos o se desarrolla rápidamente una reacción grave. La molestia en el pecho con sudoración, náuseas, mareo o dolor que se extiende al brazo o a la mandíbula requiere llamar a los servicios de emergencia."
+		},
+		{
+			"title": "Otras señales de alarma graves",
+			"text": "No entrenes a pesar de un dolor intenso y repentino en una articulación o en la espalda, una hinchazón marcada tras una lesión, no poder apoyar el peso, una debilidad que empeora o un entumecimiento nuevo. El dolor de espalda junto con pérdida del control de la vejiga o del intestino o entumecimiento alrededor de la ingle necesita una valoración de emergencia de inmediato."
+		},
+		{
+			"title": "Qué hacer",
+			"text": "Detente, haz seguro el entorno y busca ayuda. Llama al número de emergencias de tu zona ante síntomas de emergencia, y no conduzcas tú mismo si puedes estar gravemente enfermo o lesionado. Si eres el compañero de entrenamiento, no intentes averiguar la causa ni animes a la persona a terminar la serie. TrainUp no puede juzgar una emergencia, diagnosticar una enfermedad ni sustituir a un profesional cualificado."
+		},
+		{
+			"title": "La prevención tiene límites",
+			"text": "Los calentamientos, las cargas sensatas y la progresión gradual pueden reducir el estrés evitable, pero no pueden descartar todos los problemas médicos. Si tienes una enfermedad cardíaca conocida o factores de riesgo importantes, puede que necesites el consejo personal de tu médico antes de empezar a hacer ejercicio vigoroso."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: dolor en el pecho y síntomas de emergencia",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		},
+		{
+			"label": "NHS: dolor de espalda y señales de alarma urgentes",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		},
+		{
+			"label": "NHS: dolor articular",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		}
+	]
+}

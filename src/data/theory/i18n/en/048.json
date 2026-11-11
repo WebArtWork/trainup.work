@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Time scales",
+			"text": "A microcycle is a short repeating period, often a week. A mesocycle is a block of several weeks with one main focus. A macrocycle covers a longer season or goal period. These names help with planning, and their lengths vary from person to person."
+		},
+		{
+			"title": "Three approaches",
+			"text": "Linear progression changes variables slowly in one general direction, for example from more repetitions at lighter loads to fewer at heavier loads. Undulating training changes rep targets or intensity more often, perhaps heavy on Monday and moderate on Thursday. Block periodization runs phases one after another, each focused on a specific capacity."
+		},
+		{
+			"title": "What the research shows",
+			"text": "Studies comparing plans with the same volume find possible strength advantages for periodized over nonperiodized training, and for undulating plans in trained people. Differences in muscle growth are less consistent. The 2026 ACSM position stand did not find a consistent muscle-growth benefit from adding periodization alone. A more complex plan is not automatically a better one."
+		},
+		{
+			"title": "Example",
+			"text": "As a beginner, repeat a small set of main exercises for six weeks and slowly build up repetitions or load. Make an exercise harder as your technique improves. More advanced lifters might do three weeks of higher-volume practice, then a heavier phase and a lighter recovery week, depending on how they respond."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Your plan covers 4 weeks, and week 4 is a lighter deload week. Your goal, fitness level and feedback count for more than an elaborate calendar. A new plan comes only when you regenerate it, and it changes one step at a time based on your recent workouts."
+		}
+	],
+	"sources": [
+		{
+			"label": "Systematic review of periodization and training results",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35044672/"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM progression-model guidance",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

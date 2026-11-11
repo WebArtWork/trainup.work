@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Wybierz zakres powtórzeń",
+			"text": "Wybierz ćwiczenie, liczbę serii i zakres, na przykład trzy serie po 8–12 powtórzeń. Zacznij od ciężaru, który pozwala dojść do dolnej granicy zakresu ze stabilną techniką i kilkoma powtórzeniami w zapasie. Zakres nie musi wynosić 8–12. Granice wyznaczają Twój cel i ćwiczenie."
+		},
+		{
+			"title": "Zasłuż na zwiększenie obciążenia",
+			"text": "Najpierw wykonuj więcej dobrych powtórzeń z tym samym ciężarem przez kilka treningów. Gdy każda seria osiągnie górną granicę zakresu przy zaplanowanym wysiłku, dodaj najmniejszy dostępny stopień ciężaru. Powtórzenia zwykle znowu spadną w stronę dolnej granicy i cykl zaczyna się od nowa."
+		},
+		{
+			"title": "Przykład",
+			"text": "Tydzień 1: wiosłowanie hantlem 12 kg: 10, 9, 8. Tydzień 2: 11, 10, 9. Tydzień 3: 12, 12, 12 ze stabilną kontrolą. Tydzień 4: spróbuj 14 kg na 9, 8, 8, jeśli poradzisz sobie z takim skokiem z dobrą techniką. Te liczby pokazują, jak to może wyglądać. Nie musisz robić postępu co tydzień."
+		},
+		{
+			"title": "Kiedy dostosować zasadę",
+			"text": "Duży skok ciężaru może być zbyt trudny, zwłaszcza dla małych mięśni lub przy ograniczonym sprzęcie domowym. W takim razie zostań przy obecnym obciążeniu, dodaj łączną liczbę powtórzeń albo wybierz wariant pośredni. Jeśli trening jest niezwykle męczący, powtórz ostatni cel i odłóż progresję na później. Prawdziwy postęp często idzie w górę i w dół."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Twój plan podaje dla każdego ćwiczenia serie i docelową liczbę powtórzeń, a podczas treningu zapisujesz powtórzenia, które kończysz w każdej serii. TrainUp nie zaleca ciężarów, więc to Ty decydujesz, kiedy dodać obciążenie. Gdy w każdej serii osiągniesz górną granicę zakresu, sprawdź swoje RPE i technikę, zanim przejdziesz na cięższy ciężar."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bezpieczeństwo i podstawy treningu oporowego",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: technika treningu z obciążeniem (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

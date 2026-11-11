@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Cel treningowy",
+			"text": "Ćwiczenia pliometryczne budują Twoją zdolność do szybkiego wytwarzania siły; zadyszka nie jest celem. Przykłady to małe podskoki pogo, przysiady ze skokiem, podskoki na boki i bieg skokowy. Szybsze lub wyższe skoki wymagają więcej koordynacji i niosą większe uderzenie, więc Twój poziom wyjściowy zależy od siły, kontroli lądowania i historii treningowej."
+		},
+		{
+			"title": "Ćwicz kontrolowane lądowanie",
+			"text": "Zacznij od niskich, łatwych podskoków i lądowania ze zgięciem bioder, kolan i kostek jednocześnie. Dąż do zrównoważonego kontaktu stopy i kontrolowanego tułowia, bez zablokowanych kolan ani głośnych, niechlujnych lądowań. Kolana nie muszą pozostawać idealnie nieruchome, ale nie powinny nagle tracić kontroli. Przerwij, jeśli czujesz ból lub ciągle się potykasz."
+		},
+		{
+			"title": "Rób postęp jedna rzecz naraz",
+			"text": "Utrudniaj skoki stopniowo, na przykład od małych podskoków obunóż do umiarkowanych skoków pionowych, zanim spróbujesz powtarzanych skoków lub skoków na jednej nodze. Wysokie skrzynie, zeskoki z wysokości i skoki z obciążeniem wymagają więcej umiejętności i są słabymi pierwszymi krokami. Dodawaj wysokość, prędkość lub pracę na jednej nodze dopiero wtedy, gdy łatwiejsze powtórzenia pozostają niezawodne."
+		},
+		{
+			"title": "Licz dobre kontakty",
+			"text": "Kontakty stóp, czyli liczba lądowań stóp, są często używane do pomiaru objętości pliometrycznej dolnej części ciała. Jako początkujący możesz potrzebować tylko niewielkiej liczby kontrolowanych kontaktów, nawet jeśli programy sportowe podają wyższe sumy. Odpoczywaj dość długo między krótkimi seriami. Męczący obwód skoków nie buduje mocy tak, jak świeże, dynamiczne powtórzenia."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Plan zawiera ćwiczenia ze skokami tylko wtedy, gdy Twój Profil dopuszcza skakanie i generowany przez nie hałas, a podłoże i rozmiar podłogi im odpowiadają. Liczy się też Twój poziom. Jeśli którekolwiek z nich nie pasuje, trenuj ćwiczeniami siłowymi lub kondycyjnymi o niskim uderzeniu. Jeśli lądowanie boli, dotknij „Czuję ból”: ćwiczenie kończy się natychmiast i nie wraca do planów, dopóki nie wznowisz go w Profilu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: podsumowanie wytycznych dotyczących treningu oporowego z 2026 roku",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

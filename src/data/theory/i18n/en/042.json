@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Push versus pull",
+			"text": "Push-ups and chest presses emphasize the chest, triceps and front shoulders. Rows and pulldowns emphasize the back muscles and elbow flexors. Many shoulder muscles work together in both, so the two groups are not exact opposites at every joint or in every plane."
+		},
+		{
+			"title": "The 1:1 ratio",
+			"text": "A similar number of weekly push and pull sets is a useful planning check for beginners. It is not a proven formula for posture or shoulder health. What you need depends on your sport, goals, exercise choice and what your body tolerates. A program built around the bench press may include more back work, and another may put pulling performance first."
+		},
+		{
+			"title": "Balancing the lower body",
+			"text": "The same idea applies to the legs: knee-dominant squats and lunges pair with hip-dominant hinges and bridges. The muscles on the back and front of the body don’t need identical set counts. Aim to cover each pattern and build capacity over time. Perfect symmetry is not the target, and it does not guarantee you won’t get injured."
+		},
+		{
+			"title": "Example",
+			"text": "A full-body workout could pair a dumbbell press with a supported row, then train legs and core. Another day might pair an overhead press with a pulldown. That spreads horizontal and vertical pushing and pulling across the week when your equipment allows. Consistent technique and suitable loads count for more than matching exercise names."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Each exercise page in Explore shows its movement pattern, so you can see how your week splits between pushing and pulling. If pressing dominates and you have no reason for it, add a row or pull variation that fits your equipment and respects any shoulder, wrist or load limits you have."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE exercise library",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: safety and resistance-training fundamentals",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

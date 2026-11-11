@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Full-body programs",
+			"text": "A full-body session trains several major movement patterns on the same day. Two or three days a week often works well for beginners and busy people. You practice the main exercises often without needing many gym visits. Sessions can get long if you include too many movements."
+		},
+		{
+			"title": "Upper/lower programs",
+			"text": "An upper/lower plan alternates upper-body and lower-body sessions, often over four workouts a week. It leaves room for more exercises and sets, with recovery time between similar sessions. A three-day rotating version also works, and the calendar doesn’t have to repeat exactly every week."
+		},
+		{
+			"title": "Muscle-group splits",
+			"text": "A body-part split might train chest and triceps one day, back and biceps another, and legs on a third. These programs make high training volumes easier to fit in. When the weekly work is similar, no split is better for muscle growth than another. A badly designed split can leave some muscles untrained for too long."
+		},
+		{
+			"title": "Choose by your limits",
+			"text": "With two days, full-body is a practical default. With three, use full-body or a rotating upper/lower pattern. With four, use upper/lower or two different full-body days. Five days allow many arrangements, but extra visits add little if you can’t stick with them or recover from them. Skill practice and personal preference also play a part. Pick the simplest split that covers your goals, schedule and equipment, and keep an eye on your total weekly sets. A five-day schedule that looks advanced is not automatically better than a three-day plan you keep doing."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM progression-model guidance",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NHS: strength and flexibility guidance",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		}
+	]
+}

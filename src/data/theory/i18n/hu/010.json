@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Koncentrikus működés",
+			"text": "Az izom úgy fejt ki erőt, hogy összességében rövidül. Egy bicepszcsavarásnál a könyökhajlítók megrövidülnek, ahogy a súly emelkedik. A guggolásból felfelé jövet több csípő- és térdfeszítő izom emel fel téged. A „koncentrikus” azt írja le, mit csinál az izom, ez nem mindig egyezik azzal, hogy a gyakorlat felfelé irányuló mozdulatnak tűnik-e."
+		},
+		{
+			"title": "Excentrikus működés",
+			"text": "Az izom úgy fejt ki erőt, hogy terhelés alatt megnyúlik, gyakran egy mozdulat fékezésére. A bicepszcsavarás leengedése vagy a guggolásba való leülés a fő dolgozó izmok excentrikus működését használja. Ez a szakasz segíti az erőt és az izomnövekedést, de a nagyon szokatlan excentrikus munka sok izomlázat okozhat. Építsd fokozatosan, és ne túlozd el szándékosan minden leengedést."
+		},
+		{
+			"title": "Izometrikus működés",
+			"text": "Az izom úgy fejt ki erőt, hogy a teljes hossza vagy az általa irányított ízületi szög alig változik. A plank és a falnál ülés egyértelmű példák, és a törzsizmaid nagyjából izometrikusan dolgoznak, amikor nehéz súlyt hordasz. Az egy szögben tartott helyzet nem tökéletes helyettesítője a teljes tartományon át végzett mozgásnak."
+		},
+		{
+			"title": "A szerepek a feladattal változnak",
+			"text": "Az agonista a szándékolt mozgás fő közreműködője, az antagonista pedig ellenáll neki vagy segít szabályozni a mozgást. A szinergisták segítenek, a stabilizátorok pedig ízületeket vagy testszakaszokat kontrollálják. Fekvőtámasznál a mell és a tricepsz végzi a tolást, miközben a törzsizmok egyenesen tartanak. Ezek a szerepek a mozgástól függnek, ezért egy izomnak nincs végleges címkéje."
+		},
+		{
+			"title": "A gyakorlatban",
+			"text": "Engedj le kontrolláltan, kerüld az ellenőrizetlen pattogást, és olyan tartományban told vagy húzd, amelyet uralni tudsz. Az időzített tartások akkor hasznosak, ha a feladathoz nem kell mozgás, a dinamikus ismétlések pedig akkor, ha mozgás közbeni erőt szeretnél. A TrainUpban minden gyakorlat ismétlésként vagy tartási időként van megadva, és a tartásidőzítő követi a tartásaidat. A technikai megjegyzések és a tempó segítenek jó ismétléseket végezni, de a lassabb mozgás nem mindig hoz gyorsabb eredményt."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Az izomhipertrófia mechanizmusainak áttekintése",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/37382939/"
+		}
+	]
+}

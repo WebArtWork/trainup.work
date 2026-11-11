@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Waarom slaap telt voor training",
+			"text": "Slaap helpt bij weefselherstel, de werking van het zenuwstelsel, aandacht en het leren van bewegingsvaardigheden. Na slechte slaap kan een normale belasting zwaarder voelen en kunnen je motivatie of coördinatie dalen. Eén korte nacht wist je vooruitgang niet uit, maar steeds opnieuw te kort slapen kan de kwaliteit van je training en je algemene gezondheid schaden."
+		},
+		{
+			"title": "Duur en kwaliteit",
+			"text": "Richtlijnen voor de volksgezondheid raden zeven uur of meer aan voor volwassenen van 18–60 jaar, met leeftijdsspecifieke bereiken daarna. Vaak wakker worden, een onregelmatig schema of je niet uitgerust voelen kan ertoe doen, ook als je tijd in bed lang genoeg lijkt. Behoeften verschillen, dus de juiste hoeveelheid is individueel."
+		},
+		{
+			"title": "Gewoonten die helpen",
+			"text": "Ga op redelijk vaste tijden naar bed en sta op, houd de slaapkamer donker en comfortabel, beperk fel licht voor het slapen en let op late cafeïne. Daglicht en regelmatige lichaamsbeweging kunnen je slaapritme voorspelbaar houden. Beoordeel je slaap niet alleen op één score van een wearable."
+		},
+		{
+			"title": "Trainen na een slechte nacht",
+			"text": "Voelen je balans of concentratie na een bijzonder slechte nacht niet goed, overweeg dan een lichtere techniektraining, een rustige wandeling of een kleinere training. Een enkele zware dag is op zich niet gevaarlijk, maar steeds opnieuw maximale lifts forceren terwijl je uitgeput bent, doet je geen goed. Slaaptrackers geven schattingen, geen klinische metingen. Heb je aanhoudende hevige slaperigheid of slapeloosheid, praat dan met een arts."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: slaapaanbevelingen voor volwassenen",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		},
+		{
+			"label": "ACSM 2026: trainingsdosering, herstel en opbouw",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

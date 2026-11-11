@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Typ I-fibrer",
+			"text": "De kallas ofta långsamma fibrer. De tenderar att dra ihop sig långsammare, ge mindre maxkraft per fiber och stå emot trötthet väl. De använder aerob ämnesomsättning effektivt och gör mycket av arbetet vid lång eller upprepad aktivitet med låg intensitet, som promenader och jämn cykling."
+		},
+		{
+			"title": "Typ II-fibrer",
+			"text": "De kallas i stora drag snabba fibrer och kan skapa kraft snabbare och mer kraftfullt. Hos människor har typ IIa-fibrer stor kapacitet för både oxidativ och glykolytisk energiproduktion, medan typ IIx-fibrer tenderar att vara snabbare och tröttas lättare. Blandningen av fibertyper varierar mellan muskler och mellan personer."
+		},
+		{
+			"title": "Rekryteringen följer behovet",
+			"text": "Storleksprincipen beskriver hur ditt nervsystem i allmänhet rekryterar mindre motoriska enheter med lägre tröskel först och lägger till enheter med högre tröskel när den kraft som behövs ökar. Tunga lyft rekryterar motoriska enheter med hög tröskel tidigt. Lättare belastningar kan rekrytera dem också när tröttheten byggs upp, så länge ansträngningen blir tillräckligt hög. Det hjälper till att förklara varför muskler kan växa över ett ganska brett intervall av belastningar."
+		},
+		{
+			"title": "Vad träning förändrar",
+			"text": "Uthållighetsträning förbättrar din aeroba apparat och motståndskraft mot trötthet. Styrke- och powerträning förbättrar kraftutvecklingen och kan bygga muskler. Vissa fiberegenskaper förändras med träning, men gener, träningshistorik och ålder påverkar resultaten, så att kalla någon en ”snabb-fibermänniska” eller en ”långsam-fibermänniska” är missvisande."
+		},
+		{
+			"title": "Exempel",
+			"text": "Ett set kroppsviktsknäböj på 40 sekunder och ett hårt belastat knäböjsset på fem repetitioner belastar ditt neuromuskulära system olika. Båda kan vara användbara, men det belastade setet övar högkraftsproduktion mer specifikt. Du behöver inte testa din fiberblandning för att bygga ett komplett program. Välj repetitioner, vila och konditionsarbete efter den anpassning du vill ha och hur väl du rör dig, inte efter en fibertypsetikett som ingen har kontrollerat."
+		}
+	],
+	"sources": [
+		{
+			"label": "Styrketräning och repetitionskontinuumet",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

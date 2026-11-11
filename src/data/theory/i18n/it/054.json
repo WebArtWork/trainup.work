@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Cosa cambia durante la pausa",
+			"text": "Resistenza aerobica, tolleranza al movimento e prestazioni nel sollevamento calano a velocità diverse. Pochi giorni saltati possono fare poca differenza, mentre settimane o mesi senza allenamento possono ridurre la quantità di lavoro che riesci a fare. L’allenamento passato può aiutarti a riapprendere le abilità più in fretta, ma la «memoria muscolare» non elimina la necessità di un ritorno graduale."
+		},
+		{
+			"title": "Perché hai fatto la pausa",
+			"text": "Un viaggio o un periodo impegnato è diverso da un infortunio, un intervento chirurgico o una lunga malattia. Dopo un evento medico, chiedi al tuo medico o a un altro professionista sanitario adatto prima di tornare ad allenamenti duri. TrainUp non può sapere se tornare dopo una malattia o un infortunio sia medicalmente sicuro per te. Se qualcosa è cambiato, aggiorna le tue limitazioni in Profilo prima di ricominciare."
+		},
+		{
+			"title": "Un punto di partenza prudente",
+			"text": "Dopo una lunga pausa, torna con meno serie, resistenza più leggera e più ripetizioni di riserva. Partire da circa il 50–70% del tuo precedente volume di allenamento è un esempio di pianificazione adatto ad alcune persone; la ricerca non stabilisce questo numero. Guarda come ti senti nelle prime sessioni prima di aggiungere lavoro."
+		},
+		{
+			"title": "Costruisci nelle settimane successive",
+			"text": "Pratica le tecniche familiari, lascia abbastanza recupero e aggiungi lavoro lentamente man mano che movimento e dolore muscolare tornano alla normalità. Non testare subito i tuoi vecchi massimali. Se la prima settimana ti lascia un dolore muscolare di lunga durata o insolitamente forte, ripeti o riduci il carico di lavoro, anche se il tuo programma dice che è ora di progredire."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA/CSCCa: ritorno sicuro dopo un periodo di inattività",
+			"url": "https://doi.org/10.1519/SSC.0000000000000477"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: sicurezza e fondamenti dell’allenamento coi pesi",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

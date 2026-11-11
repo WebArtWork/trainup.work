@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Légzés az ellenállásgyakorlatoknál",
+			"text": "Egy hétköznapi fekvőtámasznál vagy guggolásnál próbálj belélegezni a könnyebb, leengedő szakaszban, és kilélegezni az erőkifejtés alatt. Olyan mintát keress, amelyet ismételni tudsz zihálás és kontrollvesztés nélkül. Vannak kivételek: a megterhelő emelések rövid, szándékos levegővisszatartást használhatnak a törzs merevítésére, hozzáértő felügyelet mellett."
+		},
+		{
+			"title": "Feszítés (bracing) és légzésvisszatartás",
+			"text": "A koordinált hasi feszültség segíthet a gerinc stabilizálásában. A Valsalva-manőver (erőteljes kilégzés zárt légúttal szemben) nagy, rövid távú vérnyomás- és keringésváltozásokat okozhat. Nem mindenkinek való, különösen a magas vérnyomásban, szív- és érrendszeri betegségben vagy más releváns egészségi problémában szenvedőknek."
+		},
+		{
+			"title": "Légzés kardió közben",
+			"text": "Az intenzitás növekedésével többet lélegzel, hogy oxigént vigyél be és szén-dioxidot távolíts el. Nem kell minden lépést pontos be- és kilégzésszámhoz igazítanod. A legtöbb könnyű tevékenységnél a természetes, kényelmes minta megfelel, kemény intervallumoknál pedig hagyhatod, hogy a légzésed olyan gyors legyen, amilyen kell."
+		},
+		{
+			"title": "Példa",
+			"text": "Tíz kehelyguggolásból álló sorozatnál lélegezz be, mielőtt leengedsz, maradj finoman feszes, és kifelé lélegezz, ahogy felállsz. Ha szédülsz, állj meg és pihenj. Ne erőltesd át. Könnyű sétán vagy biciklizésen az, hogy tudsz beszélni, jó ellenőrzés arra, hogy az erőkifejtésed még mérsékelt."
+		},
+		{
+			"title": "Gyakori hibák",
+			"text": "Ha sok ismétlésen át visszatartod a lélegzeted, kemény kardiónál erőltetsz egy nagyon lassú mintát, vagy a hangos légzést jó edzésnek nézed, mind akadályozza az intenzitásod kontrollálását."
+		},
+		{
+			"title": "Mikor érdemes kivizsgáltatni",
+			"text": "Ha ismételten, nyilvánvaló ok nélkül elfogy a levegőd, ájulásszerűen érzed magad vagy mellkasi tüneteid vannak, fordulj orvoshoz. Egy másik légzéstechnika ezeket nem oldja meg."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: intenzitás és légzés",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		},
+		{
+			"label": "Az Amerikai Szívszövetség edzésajánlásai",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/"
+		}
+	]
+}

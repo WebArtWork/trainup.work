@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Okamžitá energie s vysokým výkonem",
+			"text": "Systém ATP a fosfokreatinu (fosfagenní) dokáže rychle doplnit ATP při krátkých výkonech s vysokým výkonem, jako je skok, start sprintu nebo těžká série. Dokáže udržet maximální výkon jen krátce, což pomáhá vysvětlit, proč několik minut odpočinku dokáže mezi náročnými silovými nebo rychlostními výkony obnovit výkon."
+		},
+		{
+			"title": "Rychlé štěpení sacharidů",
+			"text": "Anaerobní glykolýza dodává ATP ze sacharidů a reakce, které ho vytvářejí, nepotřebují kyslík. Nejdůležitější je při náročných výkonech trvajících od mnoha sekund do několika minut. Laktát se často nazývá „odpad“ nebo se obviňuje jako jediná příčina svalové bolesti, ale tělo ho využívá také jako palivo a jako metabolický signál."
+		},
+		{
+			"title": "Trvalá aerobní tvorba energie",
+			"text": "Oxidační metabolismus v mitochondriích využívá kyslík k tvorbě ATP ze sacharidů a tuků. Pohání dlouhé procházky, jízdu na kole, stálý běh a velkou část regenerace mezi náročnými intervaly. I krátké výkony dostávají určitý aerobní příspěvek, protože se systémy nikdy nezapínají a nevypínají v oddělených časových úsecích."
+		},
+		{
+			"title": "Proč záleží na délce a odpočinku",
+			"text": "Téměř maximální pětisekundový sprint a 30minutová chůze vyžadují velmi odlišné množství výkonu. Opakované 20sekundové náročné intervaly s krátkým odpočinkem ztěžují udržení výkonu, jak narůstá únava. Těžké série s činkou obvykle vyžadují delší odpočinky, abyste si udrželi sílu a techniku, a cílem není být co nejvíc udýchaní."
+		},
+		{
+			"title": "V praxi",
+			"text": "Dopřejte si dostatek regenerace, když je hlavním cílem síla nebo rychlost. K budování aerobní kapacity využívejte stálou střední aktivitu. Intervaly pro kondici používejte, když se hodí, a práci i odpočinek nastavte podle své aktuální schopnosti. Vysoká tepová frekvence při zvedání neznamená, že vám trénink dal stejný aerobní podnět jako trvalé kardio."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Směrnice WHO pro aerobní aktivitu",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

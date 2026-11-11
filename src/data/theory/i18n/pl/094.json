@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Co się liczy",
+			"text": "Aktywna regeneracja to ruch, który celowo utrzymujesz łatwiejszy niż zwykły trening. Wygodny spacer, spokojne pływanie, łatwe pedałowanie lub krótka sesja ruchomości mogą poprawić samopoczucie i podtrzymać nawyk ruchu. Nie musisz się pocić, wyczerpywać ani osiągać wysokiej strefy tętna."
+		},
+		{
+			"title": "Jak łatwa powinna być",
+			"text": "Powinieneś móc rozmawiać bez wysiłku i skończyć nie bardziej zmęczony niż na początku. Jeśli nogi Cię palą, dodajesz ciężkie interwały lub zbliżasz się do upadku mięśniowego, jest to dodatkowy trening. Gdy narastają zmęczenie, objawy lub napięty grafik, pełny odpoczynek może być lepszym wyborem. Dni regeneracji są opcjonalne, a aktywna regeneracja nie zastępuje odpoczynku."
+		},
+		{
+			"title": "Przykład",
+			"text": "Po ciężkim treningu dolnej części ciała możesz maszerować przez 15–25 minut i wykonać kilka rozluźnionych ruchów bioder i kostek. Następnego dnia sprawdź, czy wracają Twoje normalne wyniki. Rozciąganie lub rolowanie może sprawiać przyjemność, ale nie potrzebujesz żadnego z nich, by usunąć ból mięśni, i żadne nie gwarantuje szybszej regeneracji."
+		},
+		{
+			"title": "Czego dowody nie pokazują",
+			"text": "Badania nie wykazały, że każda forma aktywnej regeneracji przyspiesza fizyczną naprawę. Ból, który na jakiś czas słabnie, nie dowodzi, że Twoje tkanki się zregenerowały. Nigdy nie używaj ruchu, by przepchnąć się przez silny lub narastający ból."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: spacerowanie dla zdrowia",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

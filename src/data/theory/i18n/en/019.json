@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Reading a prescription",
+			"text": "“3 × 8–12, rest 90 s” means three working sets of eight to twelve controlled reps, with about 90 seconds between sets. Warm-up sets are separate unless a plan says it counts them. For a one-sided (unilateral) exercise, check whether “10 reps” means per side or in total."
+		},
+		{
+			"title": "What rest does",
+			"text": "Rest lets you partly recover your high-energy substrates, your breathing and your ability to produce force. When maximal strength is the priority, several minutes between hard sets, commonly about two to five, can help you keep the load and the quality of your reps. For muscle growth, about one to three minutes is a practical range, though recovering enough to keep your sets productive matters more than a strict timer. Short rests can be useful in lighter endurance or circuit work, but they may lower your output in later sets."
+		},
+		{
+			"title": "Goals change the combination",
+			"text": "Five hard reps with a long rest train something different from twenty lighter reps with a short rest. Neither scheme is better for everything. The exercise matters too, since heavy squats usually need more recovery than light lateral raises."
+		},
+		{
+			"title": "Example",
+			"text": "Say you do 10, 9 and 7 push-ups because 30-second rests are too short. If you want good strength or hypertrophy work, resting 90–120 seconds may let you stay in the planned rep range. If the goal is conditioning, the fatigue from short rest may be intended."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Each exercise in your plan comes with sets, reps or a hold time, and rest, and the rest timer counts the rest for you. Follow them, but put safe technique first. Record the reps you actually did and rate the session’s effort afterward. If your later sets keep falling well short of the target, look at the load, the rest length and the total work in the session."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Inter-set rest and volume study",
+			"url": "https://doi.org/10.1519/jsc.0000000000003668"
+		}
+	]
+}

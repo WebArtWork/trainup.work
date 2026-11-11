@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Co mierzy czas",
+			"text": "30-sekundowa deska, 40-sekundowy siad przy ścianie i 20-sekundowy szybki interwał na rowerze używają stopera, ale trenują różne rzeczy. Statyczne utrzymania wytwarzają siłę bez dużego ruchu w stawach, a dynamiczne serie na czas powtarzają ruch. Ten sam czas może wydawać się bardzo różny w zależności od pozycji, dźwigni, obciążenia i intensywności."
+		},
+		{
+			"title": "Jakość ponad przetrwanie",
+			"text": "W desce przerwij, gdy nie możesz już utrzymać tułowia pod kontrolą, nawet jeśli stoper jeszcze nie skończył. W siadzie przy ścianie trudność ustalają kąt kolan i ustawienie stóp. W zwisie liczą się chwyt i pozycja barków. Dłuższe utrzymanie gorszej pozycji może dać Ci mniej niż krótsze utrzymanie, które możesz powtarzać w tej samej pozycji."
+		},
+		{
+			"title": "Sposoby progresji",
+			"text": "Zacznij od czasu, który potrafisz dobrze powtarzać, na przykład 15–20 sekund. Potem dodawaj kilka sekund w ciągu kilku treningów, dodaj serię albo przejdź do nieco trudniejszego wariantu. Zmieniaj jedną główną rzecz naraz. Gdy utrzymanie jest już bardzo długie, dodanie oporu lub trudniejszej dźwigni zwykle daje więcej niż gonienie za kilkoma minutami."
+		},
+		{
+			"title": "Serie kondycyjne na czas",
+			"text": "30-sekundowy interwał pracy, po którym następuje 60 sekund odpoczynku, nie jest automatycznie treningiem interwałowym o wysokiej intensywności. Intensywność zależy od Twojego tempa lub wysiłku podczas pracy. Jeśli jesteś początkujący, wybierz szybkość, którą kontrolujesz, i wystarczający odpoczynek, by dobrze się poruszać."
+		},
+		{
+			"title": "Przykład",
+			"text": "Wykonaj trzy 20-sekundowe deski boczne na stronę z 40–60 sekundami odpoczynku. Gdy każde utrzymanie jest stabilne, przejdź do 25 sekund. Jeśli biodra opadają po 12 sekundach, skróć utrzymanie albo przejdź na deskę boczną z podparciem na kolanie."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Ćwiczenia na czas w Twoim planie mają czas utrzymania, a ekran treningu ma licznik utrzymania. Jeśli zmienisz wariant, zapisz to w notatkach do treningu i nie porównuj czasów z różnych pozycji ciała tak, jakby były tym samym testem."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Wskazówki WHO dotyczące aktywności",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

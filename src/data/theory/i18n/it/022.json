@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Massimale di una ripetizione",
+			"text": "Il tuo 1RM è il carico più pesante che riesci a sollevare una volta con tecnica e ampiezza di movimento costanti. «80% dell’1RM» significa l’80% del tuo massimale per quell’esercizio. Non ha niente a che fare con il peso corporeo. Se il tuo 1RM nello squat è 80 kg, allora 64 kg è l’80% dell’1RM."
+		},
+		{
+			"title": "Cosa ti dicono le percentuali",
+			"text": "Percentuali più alte di solito permettono meno ripetizioni prima del cedimento, ma il numero esatto varia tra esercizi, persone e storie di allenamento. Le prove attuali mostrano che i carichi pesanti, intorno all’80% dell’1RM o più, funzionano particolarmente bene per costruire la forza massimale. Non servono carichi così pesanti in ogni allenamento per migliorare la forma generale."
+		},
+		{
+			"title": "Stimare l’1RM",
+			"text": "Alcune equazioni possono stimare l’1RM da una serie submassimale. Epley dà 1RM stimato = peso × (1 + ripetizioni/30), e Brzycki dà peso × 36/(37 − ripetizioni). Una serie di cinque con 60 kg dà circa 70 kg con Epley e 67,5 kg con Brzycki. Sono numeri approssimativi, soprattutto per ripetizioni molto alte, per serie terminate con cedimento tecnico o per serie non vicine al tuo massimale."
+		},
+		{
+			"title": "Un metodo più sicuro per i principianti",
+			"text": "Scegli un peso che ti permetta di fare le ripetizioni previste con forma stabile e circa da due a quattro buone ripetizioni di riserva. Aumenta solo quando l’obiettivo sembra facile più volte di fila. I test massimali richiedono abilità, attrezzatura adeguata e spesso una supervisione qualificata, e il normale allenamento in TrainUp non ne ha bisogno."
+		},
+		{
+			"title": "Esempio",
+			"text": "Se le otto ripetizioni previste non ti lasciano nulla di riserva e la forma si rompe, riduci il carico. Se ne finisci otto e potresti farne facilmente altre otto, rendilo un po’ più difficile la volta successiva."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il tuo piano indica serie, ripetizioni e recupero ma non i pesi, quindi scegli tu il carico. Giudicalo dal carico, dalle ripetizioni completate e dalla valutazione dello sforzo, e non ricavare mai un 1RM esatto da una singola serie facile."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Rassegna sul continuum delle ripetizioni",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

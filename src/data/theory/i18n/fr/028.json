@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "La priorité d’abord",
+			"text": "La fatigue s’accumule au cours d’une séance, donc le mouvement qui compte le plus pour votre objectif se place généralement là où vous pouvez bien le faire. Les squats lourds, les développés et les tirages difficiles viennent souvent tôt dans les programmes de force. Les nouvelles habiletés complexes se travaillent aussi mieux avec une concentration fraîche et une pratique contrôlée. Évitez de garder l’exercice le plus technique pour un finisher en fin de séance, quand vous êtes le plus fatigué."
+		},
+		{
+			"title": "Exercices polyarticulaires et d’isolation",
+			"text": "Les mouvements polyarticulaires travaillent plusieurs muscles ensemble et peuvent demander plus de coordination et d’effort du corps entier que les curls ou les élévations. Un ordre courant est : échauffement, levées principales, levées secondaires, isolation et condition physique facultative. C’est une habitude pratique, et certaines séances et certaines personnes auront besoin d’un autre ordre."
+		},
+		{
+			"title": "Ce que montrent les données",
+			"text": "Des données récentes de l’ACSM montrent que faire les exercices de force près du début d’une séance peut améliorer la force dans ces mouvements. La croissance musculaire semble moins affectée par l’ordre des exercices dans de nombreuses comparaisons. Si de meilleures tractions sont votre objectif principal, faites-les avant les exercices qui fatiguent vos bras et votre dos, même si les squats viennent plus tard."
+		},
+		{
+			"title": "Tronc et condition physique",
+			"text": "Une planche difficile ou un portage juste avant des squats lourds peut fatiguer des muscles dont vous avez besoin pour stabiliser le squat. Une mobilité facile et un travail d’activation peuvent venir d’abord, et un travail du tronc plus dur peut mieux s’intégrer après les levées principales. Si la condition physique est votre objectif principal, le cardio peut être le bloc principal, avec le travail de force organisé autour."
+		},
+		{
+			"title": "Exemple",
+			"text": "Une séance de force de 40 minutes pourrait se dérouler ainsi : cinq minutes d’échauffement, puis des goblet squats comme levée principale, des rowings, une variante de pompe, une charnière et une courte série de planches latérales. Une séance centrée sur l’habileté pourrait plutôt commencer par une progression de traction contrôlée au poids du corps avant les autres exercices."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Principes antérieurs de l’ACSM sur l’ordre des exercices",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

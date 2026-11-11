@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Por qué ocurre",
+			"text": "Las agujetas de aparición tardía (DOMS) suelen aparecer tras movimientos desconocidos y contracciones excéntricas repetidas, en las que un músculo produce fuerza mientras se alarga. En ellas intervienen varios procesos del músculo y del tejido que lo rodea. El ácido láctico sobrante no es la causa. Lo dolorido que quedes no mide lo bueno que fue el entrenamiento."
+		},
+		{
+			"title": "Cómo vienen y se van",
+			"text": "Las agujetas pueden empezar varias horas después de una sesión, aumentar durante los siguientes uno a tres días y luego desaparecer. Un ejercicio conocido suele causar menos agujetas con la misma dosis, algo que se llama efecto de la repetición de esfuerzos. No necesitas tener agujetas intensas ni duraderas para ganar fuerza."
+		},
+		{
+			"title": "Entrenar con agujetas",
+			"text": "Las agujetas musculares leves y extendidas suelen permitir aún caminar, hacer movilidad o entrenar de forma más suave, siempre que te muevas bien. Si las agujetas limitan el movimiento normal o cambian tu técnica al levantar, baja la intensidad o toma más recuperación. Repetir de inmediato una sesión desconocida de alto volumen rara vez es una buena forma de progresar. Progresa de forma gradual en los ejercicios conocidos y no cuentes con que los estiramientos o la vuelta a la calma prevengan las agujetas del día siguiente."
+		},
+		{
+			"title": "Cuándo buscar ayuda",
+			"text": "Un dolor agudo en un punto, mucha hinchazón, una debilidad clara, orina oscura, fiebre o síntomas que empeoran en lugar de aliviarse no son DOMS normales. Los signos graves, sobre todo la orina oscura junto con dolor o debilidad muscular, necesitan una valoración médica rápida."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Después de un entrenamiento puedes indicar dolor o molestias, con la zona del cuerpo y el ejercicio. Cualquier dolor reciente significa que el plan no será más difícil cuando lo vuelvas a generar. Si un ejercicio duele durante un entrenamiento, toca «Siento dolor» para terminarlo de inmediato; se queda fuera de tus planes hasta que lo reactives desde Perfil."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: agujetas de aparición tardía",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		},
+		{
+			"label": "Revisión de investigación: agujetas de aparición tardía",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13627368/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

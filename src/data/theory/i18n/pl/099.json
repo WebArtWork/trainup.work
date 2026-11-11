@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co zmienia obciążenie kolan",
+			"text": "Głębokość przysiadu, wysokość stopnia, równowaga, prędkość, opór i uderzenie przy skakaniu zmieniają to, jak ciężko pracują Twoje kolana. Nie ma uniwersalnej reguły, że kolano nigdy nie może przesunąć się poza palce. To, jak daleko kolano może wygodnie wychodzić, różni się między osobami i zadaniami."
+		},
+		{
+			"title": "Praktyczne zamienniki",
+			"text": "Kontrolowane wstawanie z siedzenia, przysiad ze statycznym rozkrokiem z podparciem lub niskie wejście na podwyższenie mogą być łatwiejsze do nauki niż szybki przysiad ze skokiem. Płytsza lub wolniejsza wersja może w niektórych przypadkach być wygodniejsza. Gdy problemem jest uderzenie, kondycja o niskim uderzeniu, taka jak jazda na rowerze lub marsz po równym podłożu, może działać lepiej niż skakanie."
+		},
+		{
+			"title": "Buduj stopniowo",
+			"text": "Zacznij od ruchu i ilości treningu, które Twoje kolana tolerują. Dodawaj obciążenie, głębokość lub powtórzenia tylko wtedy, gdy objawy pozostają akceptowalne w trakcie treningu i po nim. Nie testuj w kółko bolesnej pozycji, by sprawdzić, czy „sama się naprawiła”. Ogólna porada dotycząca ćwiczeń nie jest diagnozą ani programem rehabilitacji."
+		},
+		{
+			"title": "Kiedy szukać pomocy",
+			"text": "Bardzo bolesne, widocznie zdeformowane lub mocno obrzęknięte kolano, niemożność oparcia się na nim, blokowanie, gorączka z zaczerwienieniem lub objawy po poważnym urazie wymagają szybkiej oceny specjalisty. Problemy, które się utrzymują, też należy sprawdzić."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Dodaj kolana jako ograniczenie w Profilu, z notatką, i ustaw, czy skakanie jest w porządku. Plan pomija wtedy ćwiczenia, które nie pasują. Jeśli ćwiczenie boli, „Czuję ból” kończy je i trzyma poza Twoimi planami, dopóki nie wznowisz go w Profilu. Żadne ćwiczenie nie jest gwarantowane „bezpieczne dla kolan” dla każdego."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: ból kolana i kiedy szukać pomocy",
+			"url": "https://www.nhs.uk/symptoms/knee-pain/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

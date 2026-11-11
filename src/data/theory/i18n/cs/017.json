@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Jak se rozvíjejí dovednosti",
+			"text": "Zpočátku musíte myslet na základní polohy a pořadí: kam dát chodidla, jak pohybovat kyčlemi, jak vést lokty. S cvičením se pohyby stávají konzistentnějšími a vyžadují méně pozornosti. Na pokročilé úrovni dokážete naučený pohyb přizpůsobit různým zátěžím a situacím, což vyžaduje víc než zapamatování jednoho dokonale vypadajícího opakování."
+		},
+		{
+			"title": "Kvalita cvičení",
+			"text": "Časté přesné opakování se zátěží, kterou dokážete ovládat, vám dává užitečnější učení než občasné chaotické pokusy naplno. Začněte verzí cviku, kterou ovládáte. Rozsahem, odporem, nároky na rovnováhu nebo rychlostí postupujte, až když je současná verze opakovatelná."
+		},
+		{
+			"title": "Vnější a vnitřní vodítka",
+			"text": "Vnitřní vodítko může být „zpevni hýždě“ a vnější vodítko „odtlač podlahu“. Různá vodítka fungují pro různé lidi a pohyby. Používejte vždy jedno krátké vodítko, protože tucet pokynů pro části těla v jednom opakování je příliš mnoho na zvládnutí."
+		},
+		{
+			"title": "Zpětná vazba",
+			"text": "Video z užitečného úhlu může ukázat nerovnoměrnou hloubku, problémy s rovnováhou nebo nežádoucí pohyb trupu, i když úhly kamery mohou klamat. Zrcadlo vám může pomoci vnímat polohu, ale nemusíte se do něj dívat neustále. Trenér se vyplatí u neznámých složitých zdvihů nebo problémů s technikou, které se stále vracejí."
+		},
+		{
+			"title": "Únava mění učení",
+			"text": "Vysoká únava může snížit přesnost, takže nové nebo vysoce dovednostní cviky dělejte blízko začátku tréninku. Později v tréninku se hodí známé a jednodušší cviky. Sérii ukončete, když se vaše technika stane nekontrolovanou, a nepovažujte každé zhroucení za produktivní úsilí."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "Stránka každého cviku v sekci Cviky obsahuje fotografie, kroky a poznámky k technice a plán vybírá cviky, které odpovídají vaší úrovni a koordinaci. Zaznamenávejte opakování, která jste skutečně udělali, a poznámky k tréninku použijte k zapsání, zda byla kontrolovaná."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: zásady progrese",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

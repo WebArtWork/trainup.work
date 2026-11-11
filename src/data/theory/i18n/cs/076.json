@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Co znamená nízký náraz",
+			"text": "Pohyby s nízkým nárazem obvykle drží alespoň jedno chodidlo na zemi nebo používají vybavení, například stacionární kolo, které odstraní nárazy o zem. Nízký náraz může být stále vysoká intenzita a stále může zatěžovat klouby. Náročný úsek na kole může zatížit srdce a plíce a některé cviky na schodu stále hodně nárokují kolena a kyčle."
+		},
+		{
+			"title": "Dobré volby pohybu",
+			"text": "Svižná chůze, pochodování, step touch, stínový box bez poskakování, kontrolované výstupy na bednu, jízda na kole a eliptické trenažéry jsou všechno praktické možnosti. V malé místnosti střídejte svižné pochodování se záměrnými kroky do strany nebo lehkými údery. Vybírejte pohyby, které působí stabilně, a nepřidávejte rychlé otáčky jen proto, aby to bylo těžší."
+		},
+		{
+			"title": "Příklad",
+			"text": "Po postupném zahřátí šestkrát zopakujte 45 sekund svižného pochodování a 45 sekund lehké chůze. Tempo a odpočinek si nastavte sami; nekopírujte rychlost někoho jiného. Pro progresi prodlužujte aktivní úseky nebo celý trénink, než půjdete po výbušné rychlosti."
+		},
+		{
+			"title": "Přizpůsobte se důvodu, proč se vyhýbáte nárazům",
+			"text": "Pokud je problémem hluk, může stačit vynechat skoky. Pokud je citlivé koleno, kotník nebo záda, může bolet i běžné našlapování a možná budete muset navštívit lékaře nebo fyzioterapeuta. Trénink s nízkým nárazem není léčba a nezaručuje úlevu od bolesti."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu nastavte, zda jsou skoky v pořádku, kolik hluku je v pořádku, svůj povrch, úroveň, vybavení a případná omezení podle částí těla. Plán je používá všechna dohromady a když jsou skoky vypnuté, vynechá švihadlo a další skokové cviky. Pochodování nebo jízda na kole mohou na jejich místě udržet úsilí. Úsilí tréninku poté ohodnoťte jako obvykle."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: doporučení k fyzické aktivitě dospělých",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: měření intenzity aktivity a test mluvení",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

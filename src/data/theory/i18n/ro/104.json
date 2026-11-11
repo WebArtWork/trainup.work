@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Pregătește-te înainte să încarci bara",
+			"text": "Verifică dacă banca, rackul, bara, inelele de blocare și podeaua se potrivesc cu exercițiul. Într-un rack de genuflexiuni, știfturile sau chingile de siguranță setate la înălțimea potrivită prind bara dacă nu te poți ridica cu ea. Dacă te antrenezi singur, nu încerca împinsuri aproape de maxim de la bancă fără măsuri de siguranță."
+		},
+		{
+			"title": "Ce face un ajutor",
+			"text": "Înainte de un împins cu bara de la bancă, stabilește cu ajutorul tău dacă vrei ajutor la desprinderea barei, când să înceapă să te ajute și ce comenzi veți folosi. Un ajutor trebuie să poată ajuta și să nu te distragă. Un singur ajutor fără experiență nu îți poate garanta siguranța sub o sarcină foarte mare."
+		},
+		{
+			"title": "Abandonarea depinde de echipament",
+			"text": "Platformele de haltere și discurile bumper sunt făcute pentru anumite aruncări controlate. Podelele de acasă, sălile aglomerate și ganterele reglabile s-ar putea să nu fie. Nu exersa niciodată aruncări de urgență improvizate lângă oameni sau echipament fragil. Înainte să încerci ridicări grele, învață de la un instructor calificat metoda de scăpare pentru echipamentul tău."
+		},
+		{
+			"title": "Redu nevoia de salvare",
+			"text": "Lasă repetări în rezervă, alege o sarcină pe care o poți controla și folosește o variantă la aparat sau cu gantere când se potrivește mai bine instalației tale. Nu trebuie să te antrenezi până la cedarea musculară ca să progresezi, mai ales la ridicările complexe."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "TrainUp nu presupune că ai un ajutor, un rack sau un loc sigur unde să arunci greutățile. Planul alege doar exerciții care se potrivesc cu echipamentul și spațiul setate în Profil, așa că ține acele setări corecte. Nici nu prescrie greutăți: alegi tu sarcina."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Ghid practic ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Milyen az egyenletes erőfeszítés",
+			"text": "A pulzusod nem lesz tökéletesen egyenes vonal. A tempó és a légzés változhat a dombok, a hőség vagy a fáradtság miatt, miközben az összerőfeszítés kontroll alatt marad. Olyan tevékenységet válassz, amelyet gyakori megállások és hanyag technika nélkül is folytatni tudsz."
+		},
+		{
+			"title": "Válassz intenzitást",
+			"text": "Sok általános erőnléti edzésnél a mérsékelt intenzitás munkának érződik, de még lehetővé teszi a beszélgetést. A beszédteszt gyakran hasznosabb, mint egy adott sebesség vagy pulzusszám hajszolása. Edzett emberek végezhetnek erős folyamatos munkát, a kezdők viszont általában jobban járnak, ha szelíden kezdenek."
+		},
+		{
+			"title": "Előbb időt adj hozzá, ne sebességet",
+			"text": "Kezdj gyakorlati mennyiséggel, például 10–20 perc lendületes sétával vagy könnyű kerékpározással. Az edzést idővel kis lépésekben hosszabbítsd, és csak utána gondolj gyorsabb tempóra vagy nagyobb gépi ellenállásra. Ha az időt, a sebességet és a gyakoriságot egyszerre növeled, nehezebb megállapítani, mi okozza a fáradtságodat, és mennyire regenerálódsz."
+		},
+		{
+			"title": "Alkalmazkodj a körülményekhez",
+			"text": "A séta és a kerékpározás könnyebb választás, ha kevesebb ütésterhelést szeretnél, a kocogás pedig ismételt landolásokat ad hozzá. Beltérben a gépek lehetővé teszik a beállítások meglehetősen állandó tartását, kint viszont a lejtők és az időjárás megváltoztatják, milyen érzés ugyanaz a kijelzett tempó. Az érzett nehézséget használd az edzések tisztességes összehasonlításához. Akkor fejlődsz, ha ugyanaz az útvonal könnyebbnek érződik, vagy egy kényelmes edzés hosszabb lesz, és nem kell minden edzést a határig tolnod."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: felnőttek fizikai aktivitási ajánlásai",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: az aktivitás intenzitásának mérése és a beszédteszt",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC: mozgás melegben",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		}
+	]
+}

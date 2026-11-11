@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Maksimum jednego powtórzenia",
+			"text": "Twoje 1RM to najcięższe obciążenie, które możesz podnieść raz, z ustaloną, spójną techniką i zakresem ruchu. „80% 1RM” oznacza 80% Twojego maksimum w danym ćwiczeniu. Nie ma to nic wspólnego z masą ciała. Jeśli Twoje 1RM w przysiadzie wynosi 80 kg, to 64 kg to 80% 1RM."
+		},
+		{
+			"title": "Co mówią procenty",
+			"text": "Wyższe procenty zwykle pozwalają na mniej powtórzeń do upadku, ale dokładna liczba różni się między ćwiczeniami, ludźmi i doświadczeniem treningowym. Aktualne dowody pokazują, że ciężkie obciążenia, około 80% 1RM lub więcej, działają szczególnie dobrze w budowaniu maksymalnej siły. Nie potrzebujesz tak ciężkich obciążeń na każdym treningu, by poprawiać ogólną sprawność."
+		},
+		{
+			"title": "Szacowanie 1RM",
+			"text": "Równania mogą szacować 1RM na podstawie serii submaksymalnej. Wzór Epleya daje szacowane 1RM = ciężar × (1 + powtórzenia/30), a wzór Brzyckiego daje ciężar × 36/(37 − powtórzenia). Seria pięciu powtórzeń z 60 kg daje około 70 kg według Epleya i 67,5 kg według Brzyckiego. To przybliżone liczby, zwłaszcza przy bardzo wielu powtórzeniach, seriach zakończonych upadkiem technicznym lub seriach dalekich od Twojego maksimum."
+		},
+		{
+			"title": "Bezpieczniejsza metoda dla początkujących",
+			"text": "Wybierz ciężar, który pozwala wykonać zaplanowane powtórzenia z stabilną formą i około dwoma do czterech dobrymi powtórzeniami w zapasie. Zwiększaj dopiero, gdy cel kilka razy z rzędu wydaje się łatwy. Testy maksymalne wymagają umiejętności, odpowiedniego sprzętu i często wykwalifikowanego nadzoru, a zwykły trening w TrainUp ich nie potrzebuje."
+		},
+		{
+			"title": "Przykład",
+			"text": "Jeśli zaplanowane osiem powtórzeń nie zostawia Ci nic w zapasie i forma się załamuje, zmniejsz obciążenie. Jeśli kończysz osiem i mógłbyś łatwo zrobić kolejne osiem, następnym razem utrudnij to trochę."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Twój plan podaje serie, powtórzenia i przerwy, ale nie ciężary, więc obciążenie wybierasz Ty. Oceniaj je po obciążeniu, wykonanych powtórzeniach i ocenie wysiłku, a nigdy nie wyliczaj dokładnego 1RM z jednej łatwej serii."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Przegląd kontinuum powtórzeń",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

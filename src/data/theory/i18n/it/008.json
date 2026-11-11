@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Perché le abitudini contano",
+			"text": "Forza, capacità cardiovascolare e abilità di movimento si sviluppano con la pratica ripetuta. Un allenamento che sulla carta sembra ottimo è inutile se è troppo lungo, scomodo o spiacevole da ripetere. Questo rende frequenza e aderenza parte della progettazione del programma, oltre che una questione di motivazione."
+		},
+		{
+			"title": "Collega l’allenamento a uno spunto",
+			"text": "Collega l’allenamento a qualcosa che già accade o a un appuntamento fisso: «Dopo il lavoro il lunedì e il giovedì faccio la mia seduta da 25 minuti». Prepara in anticipo abbigliamento, spazio o attrezzatura. Rendi minuscolo il primo passo, come mettere le scarpe e iniziare un riscaldamento di cinque minuti, così non dipendi dall’entusiasmo."
+		},
+		{
+			"title": "Prevedi una seduta minima",
+			"text": "In una giornata piena, una variante di squat, una spinta o una trazione e una breve camminata possono tenere viva l’abitudine. Il minimo non sostituisce in modo permanente l’allenamento progressivo. Il suo compito è evitare che un giorno saltato diventi diverse settimane saltate. Registra ciò che hai fatto davvero e non segnare come completo un allenamento accorciato."
+		},
+		{
+			"title": "Affronta le battute d’arresto con calma",
+			"text": "Una seduta saltata non cancella gli adattamenti precedenti. Riprendi con il prossimo allenamento previsto e non raddoppiare il carico per «ripagare» l’allenamento perso. Dopo una malattia, una forte stanchezza o una lunga pausa, riduci intensità e volume finché non torna la tua solita tolleranza."
+		},
+		{
+			"title": "Controlla l’ambiente",
+			"text": "Poco sonno, un viaggio complicato verso la palestra, attrezzatura che non riesci a raggiungere e sedute troppo lunghe possono minare la costanza. Sistemare questi aspetti può aiutare più che trovare un nuovo esercizio. Anche divertirti e scegliere tu l’allenamento rendono più facile mantenere una routine."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Imposta nel Profilo un numero realistico di giorni di allenamento e i tuoi giorni preferiti, e inserisci spazio e attrezzatura così il piano sceglie solo esercizi adatti. I promemoria degli allenamenti nella pagina «Oggi» possono essere il tuo spunto. Lo Storico mostra gli allenamenti di questa settimana e il totale, e i progressi si contano su molte settimane, quindi non ti serve una serie perfetta."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: abitudini e pianificazione dell’attività",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		},
+		{
+			"label": "Raccomandazioni OMS sull’attività",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

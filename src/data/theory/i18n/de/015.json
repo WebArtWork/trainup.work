@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Wichtige Messwerte",
+			"text": "Die Ruheherzfrequenz ist dein Puls in ruhiger Ruhe. Die maximale Herzfrequenz (HFmax) ist ungefähr die schnellste Frequenz, die dein Herz bei maximaler Anstrengung erreichen kann. Altersbasierte Formeln schätzen die HFmax, messen sie aber nicht. Die bekannte Formel 220 − Alter und Tanakas 208 − 0,7 × Alter sind Bevölkerungsdurchschnitte und können für eine einzelne Person deutlich danebenliegen."
+		},
+		{
+			"title": "Prozentbasierte Zonen",
+			"text": "Ein einfacher Ansatz der öffentlichen Gesundheit setzt moderate aerobe Intensität bei etwa 50–70 % der geschätzten HFmax an und intensive Intensität bei etwa 70–85 %. Fitness-Apps zeigen möglicherweise fünf engere Zonen, aber jedes System nutzt andere Grenzen. Eine Zonenfarbe oder ein einzelner Pulswert kann nicht beweisen, wo deine persönliche metabolische Schwelle liegt."
+		},
+		{
+			"title": "Herzfrequenzreserve (HFR)",
+			"text": "Die Karvonen-Methode nutzt sowohl deinen maximalen als auch deinen Ruhepuls: Ziel-HF = Ruhe-HF + Intensitätsanteil × (HFmax − Ruhe-HF). Wenn die HFmax zum Beispiel 190 und die Ruhe-HF 60 beträgt, ergeben 60 % der HFR 60 + 0,60 × 130 = 138 Schläge pro Minute. Ein Ziel von 60 % der HFR unterscheidet sich von 60 % der HFmax."
+		},
+		{
+			"title": "Der Sprechtest",
+			"text": "Bei moderater Anstrengung kannst du meist sprechen, aber nicht bequem singen. Bei intensiver Anstrengung fällt es schwer, mehr als ein paar Wörter zu sagen. Der Test ist nützlich, wenn ein Wearable ungenau ist oder du keines hast. Herzfrequenzmessungen können bei kurzen Intervallen hinterherhinken und verändern sich mit Hitze, Flüssigkeitsmangel, Stress, Krankheit oder Medikamenten."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Wähle für eine leichte aerobe Einheit ein Tempo, bei dem du dich noch unterhalten kannst. Beobachte über mehrere Wochen, wie sich dein Puls bei gleichem Tempo verändert. Dieser Trend sagt dir vielleicht mehr, als einer festen „Fettverbrennungszone“ nachzujagen."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Nach jedem Training bewertest du die Anstrengung der gesamten Einheit von 1 bis 10, was mit oder ohne Herzfrequenzdaten funktioniert, und Atemhinweise helfen dir bei der Einschätzung. Wenn du eine Herzerkrankung hast oder Medikamente nimmst, die deinen Puls beeinflussen, frage deine Ärztin oder deinen Arzt nach Hinweisen, die zu dir passen."
+		}
+	],
+	"sources": [
+		{
+			"label": "Empfehlungen der American Heart Association zur Herzfrequenz",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Tanaka et al.: HFmax-Formel",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "CDC: Sprechtest",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

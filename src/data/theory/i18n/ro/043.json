@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Specificitate și suprasolicitare",
+			"text": "Specificitatea înseamnă că organismul se adaptează la ceea ce exersezi: ridicarea îmbunătățește forța de ridicare, iar ciclismul dezvoltă rezistența la ciclism. Suprasolicitarea înseamnă că provocarea trebuie să fie suficient de mare ca să cauzeze adaptare. Nu ai nevoie de o greutate mai mare la fiecare sesiune. O repetare controlată în plus sau o execuție mai curată contează și ele ca progres."
+		},
+		{
+			"title": "Individualizare și progresie",
+			"text": "Oamenii răspund diferit în funcție de experiență, capacitate, program, mediu și obiective. Un începător se poate îmbunătăți cu două sesiuni scurte pe săptămână, în timp ce un sportiv experimentat poate avea nevoie de un antrenament distribuit mai atent. Progresia înseamnă să faci lucrurile mai grele după ce ai arătat că ești pregătit. Viteza nu este scopul."
+		},
+		{
+			"title": "Refacere, consecvență și reversibilitate",
+			"text": "Te adaptezi prin antrenament repetat și prin refacerea dintre sesiuni. Somnul, mâncarea și un program pe care îl poți respecta decid dacă poți continua. Reversibilitatea înseamnă că unele beneficii dispar când nu te mai antrenezi, într-un ritm care depinde de tine și de abilitatea în cauză. Pierderea unei sesiuni nu îți șterge progresul."
+		},
+		{
+			"title": "Variație cu un motiv",
+			"text": "Schimbarea unui exercițiu poate alunga plictiseala sau ocoli echipamentul lipsă, dar dacă înlocuiești fiecare mișcare în fiecare săptămână, nu poți ști dacă te îmbunătățești. Păstrează aceleași tipare principale câteva săptămâni și schimbă exercițiile auxiliare sau sarcinile când ai un motiv. Declarația de poziție ACSM 2026 arată că multe programe diferite funcționează atâta timp cât continui să te antrenezi și îți ridici efortul pe mai departe."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Obiectivul tău se află în Profil, fiecare antrenament înregistrează seriile și repetările pe care le termini, iar apoi evaluezi efortul sesiunii (RPE). Când îți regenerezi planul, acesta se schimbă câte un pas pe baza acestui istoric, așa că un plan generic nu rămâne fix pentru tine. Dacă faci ajustări pe cont propriu, schimbă una sau două variabile odată."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Ghid ACSM pentru modelul de progresie",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NSCA: bazele siguranței și ale antrenamentului de forță",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

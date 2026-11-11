@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Was als HIIT zählt",
+			"text": "HIIT verlangt Arbeit, die für deine aktuelle Fitness hart ist, meist gefolgt von einem leichteren Intervall, das dich eine weitere gute Belastung leisten lässt. Schweres Atmen ist zu erwarten, der Verlust der Kontrolle über deine Technik nicht. Durch Zirkel zu rasen bringt nicht automatisch denselben Trainingseffekt wie strukturierte hochintensive aerobe Intervalle."
+		},
+		{
+			"title": "Was Tabata ist",
+			"text": "Das klassische Tabata-Format besteht aus acht Runden mit 20 Sekunden harter Arbeit und 10 Sekunden Pause, insgesamt vier Minuten. Die ursprüngliche Forschung nutzte sehr intensive Radbelastungen, ein lockerer 20/10-Zirkel wird deshalb besser „Tabata-Stil“ genannt, sofern die Anstrengung nicht ähnlich ist. Ein kurzes Protokoll braucht trotzdem ein Aufwärmen vorher und Erholung danach."
+		},
+		{
+			"title": "Wer einfacher beginnen sollte",
+			"text": "Wenn du nach einer Aktivitätspause zurückkommst oder neue Bewegungen lernst, kann dir zunächst ein paar Wochen bequeme aerobe Arbeit besser dienen. Wenn du eine Erkrankung hast, die betroffen sein könnte, frage deine Ärztin oder deinen Arzt, bevor du anfängst. Burpees und Sprünge sind nicht nötig, um Cardio intensiv zu machen, und ein Heimtrainer ist möglicherweise sicherer und leichter zu kontrollieren."
+		},
+		{
+			"title": "Die harte Arbeit begrenzen",
+			"text": "Beginne mit kurzen Intervallen, die du mit guter Form schaffst, und lass zwischen harten Einheiten genug leichte Tage. Häufigkeit, Intensität und Runden alle auf einmal zu erhöhen kann Ermüdung ohne zusätzlichen Nutzen bringen. HIIT ist eine Option neben gleichmäßiger Aktivität, Krafttraining und Alltagsgehen, und du kannst auch ohne es fit werden."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE: Hochintensive Intervalle gestalten",
+			"url": "https://www.acefitness.org/continuing-education/certified/may-2021/7844/how-to-use-the-ace-ift-model-to-design-effective-hiit-workouts/"
+		},
+		{
+			"label": "ACE: Das ursprüngliche Tabata-Intervallformat",
+			"url": "https://www.acefitness.org/continuing-education/prosource/hiit-special-issue/3743/is-tabata-all-it-s-cracked-up-to-be/"
+		},
+		{
+			"label": "CDC: Empfehlungen zur körperlichen Aktivität für Erwachsene",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

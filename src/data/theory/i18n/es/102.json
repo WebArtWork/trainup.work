@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "De dónde viene la tensión en la muñeca",
+			"text": "Las flexiones y las planchas con las palmas planas doblan mucho la muñeca hacia atrás. Los ejercicios con mancuernas y barra añaden trabajo de agarre y de estabilización. La molestia en la muñeca tiene muchas causas posibles, y el ejercicio por sí solo no puede decirte cuál es."
+		},
+		{
+			"title": "Cambia cómo tus manos se encuentran con el suelo",
+			"text": "Las flexiones elevadas ponen menos de tu peso sobre los brazos. Las asas estables para flexiones, o las mancuernas fijadas para que no puedan rodar, te permiten mantener la muñeca más recta. Las planchas sobre los antebrazos quitan por completo la presión de las palmas. Algunas personas también encuentran más cómodo un press con mancuernas con agarre neutro que un press con barra recta."
+		},
+		{
+			"title": "Mantén los cambios seguros",
+			"text": "Nunca uses mancuernas que puedan rodar como asas improvisadas para flexiones. Comprueba que los apoyos sean estables y que la superficie no pueda resbalar. No fuerces una muñeca dolorida a una posición solo porque una indicación de técnica la llame ideal. Si un movimiento duele, detente y busca una alternativa cómoda."
+		},
+		{
+			"title": "Progresa despacio",
+			"text": "Aumenta las repeticiones totales y el control antes de probar una palanca más difícil con el peso corporal. Consulta a un médico si tienes dolor nuevo tras una caída, hinchazón intensa, deformidad, hormigueo o pérdida de fuerza. Si la molestia de la muñeca continúa, que la revise un profesional, ya que TrainUp no puede diagnosticarla."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Añade tus muñecas como limitación en Perfil y enumera tu equipamiento. El plan elige entonces ejercicios que encajan, lo que puede incluir trabajo de core sobre los antebrazos. Después de un entrenamiento puedes indicar dolor con la zona del cuerpo y el ejercicio, y usar las notas para seguir cómo han respondido tus muñecas. TrainUp no crea rutinas de rehabilitación."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: dolor articular",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

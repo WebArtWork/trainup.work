@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Passzív és aktív tartomány",
+			"text": "Lehet, hogy segítséggel a fejed fölé tudod mozgatni a karodat, de egyedül nehezen emeled oda. Ez azt jelzi, hogy elég a hajlékonyságod, de nincs meg hozzá ugyanolyan erőd vagy koordinációd abban a tartományban. Másoknak valóban korlátozott a kényelmes tartományuk, és hasznukra válhat a fokozatos nyújtás vagy egy másik gyakorlatváltozat."
+		},
+		{
+			"title": "Teszteld a használt mozdulatokat",
+			"text": "Egy kontrollált fej feletti nyúlás, egy kényelmes saját testsúlyos guggolás vagy egy csípőhajlítás megmutathatja, hogy az edzésed egy mozdulata korlátozottnak érződik-e. Hasonlítsd össze az oldalakat, de ne erőltesd, hogy egyezzenek. A lényeg egy gyakorlati korlát felismerése. Nem diagnosztizálja a feszesség, az ízületi fájdalom vagy egy egészségügyi állapot okát."
+		},
+		{
+			"title": "Edzd a kontrollt a meglévő tartományban",
+			"text": "A dinamikus karkörzések, a kontrollált kitörések, a háti forgatások és a lassú csípőmozdulatok lehetővé teszik, hogy aktív kontroll alatt gyakorold a tartományokat. A kényelmes tartományban végzett és idővel fokozott erőgyakorlatok is javíthatják a mozgékonyságot. A statikus nyújtás javítja a hajlékonyságot, de önmagában nem mindig épít kontrollt."
+		},
+		{
+			"title": "Nincs egyetlen tökéletes tartomány",
+			"text": "A testarányok, az ízületi szerkezet, a sérüléstörténet és a készség mind befolyásolják, mely mozdulatok érződnek kényelmesnek. Nincs szükséged maximálisan mély guggolásra vagy extrém vállhajlékonyságra a jó edzéshez. Olyan tartományt válassz, ahol a technikád stabil és fájdalommentes marad, és onnan építkezz fokozatosan."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Ha egy testtáj korlátozza a mozgástartományodat, add hozzá korlátként a Profilban, megjegyzéssel. A terv ekkor olyan gyakorlatokat választ, amelyek illenek a korlátaidhoz, a szintedhez és a koordinációdhoz. A Gyakorlatok fül minden gyakorlatának oldalán lépések és technikai megjegyzések vannak. A tartós korlátozásról, a megmagyarázhatatlan fájdalomról vagy a mindennapi életet érintő tünetekről kérdezd meg orvosodat vagy gyógytornászodat."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE 2026: mozgékonyság és hajlékonyság",
+			"url": "https://www.acefitness.org/continuing-education/certified/may-2026/9119/mobility-vs-flexibility-why-the-difference-matters-for-movement-and-performance/"
+		},
+		{
+			"label": "ACE 2026: gyakorlati nyújtási útmutató",
+			"url": "https://www.acefitness.org/continuing-education/certified/april-2026/9104/new-expert-guidance-on-stretching-what-belongs-in-your-programs/?authorScope=80"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

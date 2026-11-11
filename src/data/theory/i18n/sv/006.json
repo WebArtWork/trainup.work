@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Vuxna 18–64 år",
+			"text": "Världshälsoorganisationens riktlinjer rekommenderar 150–300 minuter aerob aktivitet med måttlig intensitet varje vecka, eller 75–150 minuter med hög intensitet, eller en motsvarande blandning av de två. De rekommenderar också muskelstärkande aktivitet för alla stora muskelgrupper minst två dagar per vecka. Mer aktivitet kan ge extra fördelar, men rätt mängd beror på din hälsa och kapacitet."
+		},
+		{
+			"title": "Vad intensitet betyder",
+			"text": "Måttlig aktivitet höjer andningen och pulsen, men du kan fortfarande föra ett samtal. Hög intensitet gör det svårt att tala i hela meningar. Rask promenad eller lugn cykling räknas som måttlig, och löpning eller hård cykling räknas som hög. Du kan sprida minuterna över veckan i pass som passar ditt schema, så ett långt pass krävs inte."
+		},
+		{
+			"title": "Äldre och unga",
+			"text": "Äldre följer samma aeroba mål och styrkemål. De uppmuntras också att göra mångsidig aktivitet som betonar balans och styrka minst tre dagar per vecka där det är möjligt. För åldrarna 5–17 rekommenderar WHO i genomsnitt minst 60 minuter måttlig till hög aktivitet per dag över veckan, med högintensiv aktivitet samt muskel- och skelettstärkande aktivitet minst tre dagar per vecka."
+		},
+		{
+			"title": "Att börja smått räknas också",
+			"text": "Varje ökning från inaktivitet hjälper. Tio minuters promenader, att ta trapporna och korta pass hemma bygger alla mot de rekommenderade totalerna. Att sitta mindre hjälper även om du redan tränar, och lätt aktivitet kan ersätta en del av den tiden du sitter."
+		},
+		{
+			"title": "Exempel",
+			"text": "En nybörjare kan schemalägga två helkroppspass och tre promenader på 30 minuter, och sedan långsamt förlänga promenaderna mot det aeroba målet. Följ promenadminuterna separat från styrkesetten. Riktlinjerna är mål för hela befolkningar, så du behöver inte hoppa till hela mängden direkt."
+		}
+	],
+	"sources": [
+		{
+			"label": "WHO:s riktlinjer 2020",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		},
+		{
+			"label": "CDC:s vägledning om aktivitet",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

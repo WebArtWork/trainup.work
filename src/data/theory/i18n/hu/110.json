@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Védd meg a lényeget",
+			"text": "Először döntsd el, mire való főként az edzés, például erőgyakorlásra vagy aerob állóképességre. Szánj pár percet a használandó mozdulatok bemelegítésére, majd egy-két fő gyakorlatra összpontosíts. Egy rövid edzésnek is kell hely a biztonságos technikának és elegendő pihenőnek, ha a terhelések nehezek."
+		},
+		{
+			"title": "Időtakarékos formátumok",
+			"text": "A szuperszettek olyan gyakorlatokat párosítanak, amelyek nem versengenek egymással, például evezést és guggolást, a váltott sorozatok pedig csökkentik a várakozási időt. A körök egyszerű mozdulatokat fűzhetnek össze az általános erőnlétért. Ne siess a nehéz, technikás emelések között, ha a fáradtság a kontrollodba kerül."
+		},
+		{
+			"title": "Példa",
+			"text": "Egy 15 perces egész testes edzéshez melegíts be röviden, váltogass két-három kontrollált sorozat székes guggolást és döntött fekvőtámaszt, majd fejezd be egy evezéssel vagy planke-kel. Az ismétléseket és a pihenőt igazítsd ahhoz, amit most tudsz. Egy másik napon egy lendületes séta vagy egy könnyű biciklizés támogathatja az állóképességedet."
+		},
+		{
+			"title": "A rövid szakaszok összeadódnak",
+			"text": "A rövid aktivitási szakaszok beleszámítanak a heti összesítésbe. Csak akkor hosszabbítsd az edzéseket, ha az segít és illik az életedhez. Ha hosszabb blokkok nem lehetségesek, a rendszeres rövid edzések hatékonyan tarthatják a rutinodat."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban állítsd be az edzés hosszát és a kedvelt edzésnapokat úgy, hogy megfeleljenek az időnek, amid valójában van, és szerkeszd őket, valahányszor változik a beosztásod."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM 2026-os gyakorlati útmutató",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: séta az egészségért",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

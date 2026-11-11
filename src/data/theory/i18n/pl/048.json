@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Skale czasowe",
+			"text": "Mikrocykl to krótki powtarzający się okres, często tydzień. Mezocykl to blok kilku tygodni z jednym głównym celem. Makrocykl obejmuje dłuższy sezon lub okres realizacji celu. Te nazwy pomagają w planowaniu, a ich długość różni się u różnych osób."
+		},
+		{
+			"title": "Trzy podejścia",
+			"text": "Progresja liniowa zmienia zmienne powoli w jednym ogólnym kierunku, na przykład od większej liczby powtórzeń z lżejszymi obciążeniami do mniejszej liczby z cięższymi. Trening falowy zmienia cele powtórzeń lub intensywność częściej, na przykład ciężko w poniedziałek i umiarkowanie w czwartek. Periodyzacja blokowa prowadzi fazy jedna po drugiej, każdą skupioną na określonej zdolności."
+		},
+		{
+			"title": "Co pokazują badania",
+			"text": "Badania porównujące plany o tej samej objętości wskazują na możliwe przewagi w sile treningu periodyzowanego nad nieperiodyzowanym oraz planów falowych u osób wytrenowanych. Różnice we wzroście mięśni są mniej spójne. Stanowisko ACSM z 2026 roku nie wykazało spójnej korzyści dla wzrostu mięśni z samego dodania periodyzacji. Bardziej złożony plan nie jest automatycznie lepszy."
+		},
+		{
+			"title": "Przykład",
+			"text": "Jako początkujący powtarzaj niewielki zestaw głównych ćwiczeń przez sześć tygodni i powoli zwiększaj powtórzenia lub obciążenie. Utrudniaj ćwiczenie w miarę poprawy techniki. Bardziej zaawansowani mogą wykonać trzy tygodnie praktyki o większej objętości, potem cięższą fazę i lżejszy tydzień regeneracji, zależnie od reakcji organizmu."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Twój plan obejmuje 4 tygodnie, a tydzień 4 jest lżejszym tygodniem odciążenia. Twój cel, poziom sprawności i informacje zwrotne liczą się bardziej niż rozbudowany kalendarz. Nowy plan powstaje tylko wtedy, gdy wygenerujesz go ponownie, i zmienia się o jeden krok na podstawie Twoich ostatnich treningów."
+		}
+	],
+	"sources": [
+		{
+			"label": "Przegląd systematyczny periodyzacji i wyników treningu",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35044672/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: wytyczne dotyczące modelu progresji",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

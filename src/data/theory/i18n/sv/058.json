@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Hur motståndet fungerar",
+			"text": "En hantel väger lika mycket i varje punkt, men bandmotståndet beror på hur långt bandet sträcks, hur tjockt det är och vilken produkt det är. Ett längre eller tjockare band motsvarar inte en bestämd vikt, och färgkoderna skiljer sig mellan tillverkare. Den punkt i rörelsen där motståndet är högst kan också skilja sig från en övning med fria vikter."
+		},
+		{
+			"title": "Övningsalternativ",
+			"text": "Band fungerar bra för rodd, pressar, sidolyft, Pallof-pressar och latsdrag från en korrekt monterad fästpunkt. Ett slingband runt knäna ger ett lätt motstånd till höftövningar. För vissa rörelser kan du stå på bandet som en enkel fästpunkt, så länge det inte kan glida och slå uppåt."
+		},
+		{
+			"title": "Kontrollera och förankra säkert",
+			"text": "Före varje pass, kontrollera om det finns sprickor, tunna ställen, revor, skadade handtag och slitna kontakter. Använd en speciellt avsedd fästpunkt enligt tillverkarens anvisningar och se till att den inte kan lossna. Översträck inte bandet, låt det inte skava mot vassa kanter och placera inte ansiktet i den bana det skulle slå tillbaka längs. Ett band som glider kan orsaka ögonskador och annan skada."
+		},
+		{
+			"title": "Progression och uppföljning",
+			"text": "Lägg till kontrollerade repetitioner, byt till ett band med mer motstånd eller ändra ditt stående eller avståndet till fästpunkten, så länge den nya uppställningen förblir säker. Spänningen ändras med längden, så skriv ner vilket band eller vilken uppställning du använde. Färgen ger dig ingen exakt vikt i kilogram. Höj inte bandspänningen och rörelseomfånget kraftigt samtidigt."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ange det bandmotstånd du har i Profil. Räkna dina band som tillgängliga bara när du har en säker fästpunkt för den övning du planerar att göra. Om du inte kan bekräfta fästpunkten, bandets skick eller ditt utrymme, välj ett säkrare alternativ."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: säkerhet med träningsband",
+			"url": "https://abuhb.nhs.wales/files/patient-information-leaflets1/physiotherapy/safety-advice-when-exercising-with-resistance-bands-or-tubing-piu1332/"
+		},
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

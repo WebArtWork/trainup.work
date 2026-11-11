@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co je aerobní základ",
+			"text": "Aerobní cvičení při trvalé aktivitě spoléhá hlavně na kyslík při tvorbě energie. Pravidelná lehká nebo střední aerobní práce může zlepšit, jak pracují vaše srdce, plíce a svaly. Nemusíte se vyčerpávat, abyste se zlepšili: stálá práce, kterou dokážete opakovat týden po týdnu, znamená víc než jeden dramatický trénink."
+		},
+		{
+			"title": "Lehká intenzita",
+			"text": "„Zóna 2“ se často používá pro konverzační tempo, ale zóny z laboratorního testu a zóny z nositelného zařízení si ne vždy odpovídají. Test mluvení je praktické vodítko: při středním tempu můžete mluvit, ale ne zpívat. Pomalejší, pohodlné úsilí také pomáhá, zejména pokud začínáte s velmi malou aktivitou."
+		},
+		{
+			"title": "Přidávejte minuty postupně",
+			"text": "Jako začátečník můžete začít třemi 15minutovými procházkami týdně a minuty přidávat, jak budou snazší. Směřujte k cílům veřejného zdraví, jako je 150 minut středně náročné aerobní aktivity týdně, tempem, které odpovídá vaší připravenosti a rozvrhu. Dlouhé tréninky nejsou nutné, pokud dokážete pravidelně opakovat kratší. Počítá se chůze, jízda na kole i stálé okruhy s nízkým nárazem, takže vyberte to, co vaše vybavení a prostor dovolují, a než přidáte HIIT, dosáhněte týdenního množství, které udržíte."
+		},
+		{
+			"title": "Sledujte změny, na kterých záleží",
+			"text": "Všímejte si, zda stejná procházka zanechává méně dechu, zda v konverzačním tempu urazíte větší vzdálenost nebo zda je to snazší. Změny se mohou projevit během několika týdnů a jak rychle, závisí na vaší výchozí kondici, spánku, terénu, počasí a pravidelnosti. Čas a to, jak těžké to bylo, vám řeknou víc než odhadované zóny tepové frekvence, které mohou být nepřesné."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: doporučení k fyzické aktivitě dospělých",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: měření intenzity aktivity a test mluvení",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC: cvičení v horku",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		}
+	]
+}

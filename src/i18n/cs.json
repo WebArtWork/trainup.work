@@ -11,7 +11,7 @@
 	"Úvod",
 	"Všechna práva vyhrazena.",
 	"Obrázek společnosti",
-	"Mobilní aplikace, která sestaví dosažitelný tréninkový plán podle vašeho cíle, úrovně, vybavení, volného prostoru a rozvrhu — bez promptů a chatů.",
+	"Mobilní aplikace, která sestaví dosažitelný tréninkový plán podle vašeho cíle, úrovně, vybavení, volného prostoru a rozvrhu, bez promptů a chatů.",
 	"Mobilní tréninková aplikace · ve vývoji",
 	"Realistický tréninkový plán pro vaše vybavení a prostor",
 	"Vyberte cíl, úroveň, rozvrh, vybavení a volné místo na cvičení — TrainUp sestaví dosažitelný program, provede vás každým tréninkem s obrázky cviků a další tréninky přizpůsobí tomu, jak se cítíte.",
@@ -771,5 +771,6 @@
 	"Vaše data",
 	"záznam",
 	"záznamů",
-	"Žádné záznamy"
+	"Žádné záznamy",
+	"Theories"
 ]

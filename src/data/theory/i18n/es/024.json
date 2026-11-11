@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Cómo leer la escala",
+			"text": "RIR 0 significa que no habrías podido hacer otra repetición completa con la técnica y el rango acordados. RIR 1 significa quizá una más, RIR 2 unas dos, y así sucesivamente. En el sistema habitual de RPE basado en RIR para levantar pesas, 0 RIR equivale aproximadamente a RPE 10 de serie, 2 RIR a RPE 8 y 3 RIR a RPE 7."
+		},
+		{
+			"title": "Por qué ayuda",
+			"text": "La misma mancuerna de 20 kg puede sentirse fácil un día y dura al siguiente. Estimar el RIR te permite ajustarte a lo preparado que estás ese día sin dejar de buscar un nivel de esfuerzo similar. Es especialmente práctico cuando tus pesos suben en saltos fijos o cuando un ejercicio con el peso corporal no puede ajustarse en pasos pequeños."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Tu plan pide tres series de 8–12 remos con 2 RIR. Con 12 kg haces 12 repeticiones controladas y piensas que podrías hacer seis más, así que la carga probablemente es demasiado ligera. Con 18 kg tu forma se rompe en la repetición siete, así que es demasiado pesada para este objetivo. Con 15 kg haces diez repeticiones limpias con unas dos más posibles, lo cual encaja."
+		},
+		{
+			"title": "Límites de precisión",
+			"text": "A los principiantes les suele costar predecir cuántas repeticiones les quedan, sobre todo en ejercicios poco conocidos o en series lejos del fallo. La complejidad del ejercicio, la duración de la serie y la fatiga también afectan a la estimación. Con el tiempo puedes ganar precisión comprobando tus estimaciones con alguna serie dura ocasional hecha con seguridad y bajo supervisión."
+		},
+		{
+			"title": "Programación",
+			"text": "Dejar dos o tres repeticiones en reserva funciona bien como opción por defecto para el entrenamiento de fuerza general. Algunos objetivos, ejercicios y niveles de experiencia piden más o menos. Perseguir 0 RIR en cada movimiento duro añade fatiga, y no lo necesitas para progresar."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Usa el RIR para elegir tu carga y mantener tu técnica honesta durante las series. La valoración del esfuerzo que das después del entrenamiento abarca toda la sesión, así que no te dice el RIR de cada serie."
+		}
+	],
+	"sources": [
+		{
+			"label": "Zourdos et al., escala basada en RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

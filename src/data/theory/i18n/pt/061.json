@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tipos de fixação",
+			"text": "As barras de alavanca para aro de porta, as barras de tensão extensíveis, as barras fixas de parede e as barras fixas de teto instalam-se cada uma de forma diferente. Uma barra vendida como “compatível com portas” não se ajusta a todos os aros, paredes ou estruturas. Alguns tipos precisam de fixadores estruturais em suportes sólidos, e outros dependem de uma forma de estrutura específica."
+		},
+		{
+			"title": "Verifique a classificação e a estrutura",
+			"text": "Leia as instruções do fabricante e o limite de peso, incluindo se os movimentos dinâmicos são permitidos. Conte o peso total do seu corpo mais a força extra de balançar ou puxar. Inspecione os parafusos, os suportes, o acolchoamento e as superfícies em que a barra toca ou está perto. Se tiver dúvidas sobre a estrutura do edifício ou o método de fixação, peça a um instalador qualificado."
+		},
+		{
+			"title": "Teste passo a passo",
+			"text": "Antes de uma suspensão completa, certifique-se de que a barra está bem assente e não pode rodar, deslizar nem mudar de posição. Mantenha os pés no chão e pressione-a com suavidade e controlo. Passe a uma suspensão parcial e depois a uma suspensão completa com apoio só quando souber que a instalação é sólida. Um teste curto não consegue provar que ferragens danificadas ou uma estrutura inadequada são seguras."
+		},
+		{
+			"title": "Perigos comuns",
+			"text": "Não prenda bandas nem faça barras fixas com balanço (kipping), balançadas ou com peso, a menos que o produto tenha sido concebido e instalado exatamente para isso. Deixe espaço para a cabeça, os cotovelos e os pés, sem vidro nem mobiliário afiado por perto. Deixe de usar uma barra que range, escorrega, dobra ou se solta."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "No Perfil, marque a sua barra fixa como instalada em segurança só depois de ter verificado tudo o que foi dito acima. Até lá, o seu plano deixa de fora os exercícios que precisam da barra, e as remadas ou os exercícios com banda com um ponto de fixação seguro treinam a mesma puxada. Se for iniciante, as suspensões com apoio, as puxadas escapulares ou as barras fixas assistidas são bons primeiros passos quando a barra estiver segura."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: segurança e técnica no treino com pesos",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Biblioteca de exercícios da ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

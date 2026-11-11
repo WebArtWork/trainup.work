@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Wie der Widerstand funktioniert",
+			"text": "Eine Kurzhantel wiegt an jedem Punkt gleich viel, aber der Bandwiderstand hängt davon ab, wie weit das Band gedehnt wird, wie dick es ist und um welches Produkt es sich handelt. Ein längeres oder dickeres Band entspricht keinem festen Gewicht, und die Farbcodes unterscheiden sich zwischen Herstellern. Der Punkt in der Bewegung, an dem der Widerstand am höchsten ist, kann sich außerdem von einer Übung mit freien Gewichten unterscheiden."
+		},
+		{
+			"title": "Übungsmöglichkeiten",
+			"text": "Bänder funktionieren gut für Rudern, Drücken, Seitheben, Pallof-Presses und Latzug von einem richtig montierten Ankerpunkt. Ein Loop-Band um deine Knie fügt Hüftübungen leichten Widerstand hinzu. Bei manchen Bewegungen kannst du dich als einfachen Anker auf das Band stellen, solange es nicht rutschen und nach oben schnellen kann."
+		},
+		{
+			"title": "Sicher prüfen und verankern",
+			"text": "Prüfe vor jeder Einheit auf Risse, dünne Stellen, Einrisse, beschädigte Griffe und abgenutzte Verbinder. Nutze einen eigens gefertigten Anker nach Anleitung des Herstellers und stelle sicher, dass er sich nicht lösen kann. Dehne das Band nicht zu stark, lass es nicht an scharfen Kanten reiben und halte dein Gesicht aus der Bahn, auf der es zurückschnellen würde. Ein rutschendes Band kann Augenverletzungen und andere Schäden verursachen."
+		},
+		{
+			"title": "Steigerung und Aufzeichnung",
+			"text": "Füge kontrollierte Wiederholungen hinzu, wechsle zu einem Band mit mehr Widerstand oder ändere deinen Stand oder Abstand zum Anker, solange der neue Aufbau sicher bleibt. Die Spannung ändert sich mit der Länge, notiere also das Band oder den Aufbau, den du genutzt hast; seine Farbe gibt dir kein genaues Gewicht in Kilogramm. Steigere Bandspannung und Bewegungsumfang nicht gleichzeitig stark."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Gib im Profil den Bandwiderstand an, den du hast. Zähle deine Bänder nur dann als verfügbar, wenn du einen sicheren Anker für die geplante Übung hast. Wenn du den Anker, den Zustand des Bandes oder deinen Platz nicht bestätigen kannst, wähle eine sicherere Alternative."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: Sicherheit bei Widerstandsbändern",
+			"url": "https://abuhb.nhs.wales/files/patient-information-leaflets1/physiotherapy/safety-advice-when-exercising-with-resistance-bands-or-tubing-piu1332/"
+		},
+		{
+			"label": "ACE-Übungsbibliothek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

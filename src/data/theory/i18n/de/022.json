@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Einwiederholungsmaximum",
+			"text": "Dein 1RM ist die schwerste Last, die du einmal mit gleichmäßiger Technik und gleichem Bewegungsumfang heben kannst. „80 % 1RM“ bedeutet 80 % deines Maximums für diese Übung. Das hat nichts mit dem Körpergewicht zu tun. Wenn dein Kniebeugen-1RM 80 kg beträgt, sind 64 kg 80 % 1RM."
+		},
+		{
+			"title": "Was Prozentwerte dir sagen",
+			"text": "Höhere Prozentwerte erlauben meist weniger Wiederholungen bis zum Muskelversagen, aber die genaue Zahl unterscheidet sich zwischen Übungen, Menschen und Trainingshintergründen. Die aktuelle Evidenz zeigt, dass schwere Lasten, etwa 80 % 1RM oder mehr, besonders gut zum Aufbau von Maximalkraft funktionieren. Du brauchst nicht in jedem Training so schwere Lasten, um deine allgemeine Fitness zu verbessern."
+		},
+		{
+			"title": "Das 1RM schätzen",
+			"text": "Formeln können das 1RM aus einem submaximalen Satz schätzen. Epley ergibt ein geschätztes 1RM = Gewicht × (1 + Wiederholungen/30), und Brzycki ergibt Gewicht × 36/(37 − Wiederholungen). Ein Satz mit fünf Wiederholungen bei 60 kg ergibt nach Epley etwa 70 kg und nach Brzycki 67,5 kg. Das sind grobe Zahlen, besonders bei sehr hohen Wiederholungszahlen, bei Sätzen, die mit Technikversagen endeten, oder bei Sätzen, die nicht nahe an deinem Maximum lagen."
+		},
+		{
+			"title": "Eine sicherere Methode für Anfänger",
+			"text": "Wähle ein Gewicht, mit dem du die geplanten Wiederholungen mit stabiler Form und etwa zwei bis vier guten Wiederholungen übrig schaffst. Steigere erst, wenn sich das Ziel mehrmals hintereinander leicht anfühlt. Maximaltests brauchen Geschick, passende Ausrüstung und oft qualifizierte Aufsicht, und das normale TrainUp-Training braucht sie nicht."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Wenn dir die geplanten acht Wiederholungen nichts in Reserve lassen und deine Form zusammenbricht, senke die Last. Wenn du acht schaffst und leicht noch acht machen könntest, mache es beim nächsten Mal etwas schwerer."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Dein Plan gibt Sätze, Wiederholungen und Pausen vor, aber keine Gewichte, du wählst die Last also selbst. Beurteile sie anhand der Last, der geschafften Wiederholungen und deiner Anstrengungsbewertung, und rechne nie aus einem einzigen leichten Satz ein genaues 1RM aus."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Übersichtsarbeit zum Wiederholungskontinuum",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

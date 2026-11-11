@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co znamená „selhání“",
+			"text": "Koncentrické selhání nastane, když se snažíte, ale nedokážete dokončit další opakování. Technické selhání přichází dřív, když už nedokážete udržet plánovaný rozsah pohybu nebo bezpečné provedení. U složitého cviku můžete dosáhnout technického selhání dlouho předtím, než cílové svaly dosáhnou plného svalového selhání."
+		},
+		{
+			"title": "Náročný trénink bez selhání",
+			"text": "Podle stanoviska ACSM z roku 2026 trénink do momentálního selhání spolehlivě nepřinesl lepší výsledky v síle, hypertrofii ani výbušnosti. Série, které končí zhruba dvěma nebo třemi opakováními v rezervě, často poskytují užitečný tréninkový podnět s menší únavou. Jak blízko selhání jít, závisí na vašem cíli, zátěži, cviku, zkušenostech a situaci."
+		},
+		{
+			"title": "Riziko se liší podle cviku",
+			"text": "Jít těsně k selhání na stabilním stroji nebo u nízkorizikového izolovaného cviku je něco úplně jiného než u těžkého dřepu s osou, tlaku nad hlavu bez opory nebo neznámého výbušného pohybu. Ztráta zpevnění, ztráta kontroly při spouštění nebo žádný bezpečný způsob, jak přestat, jsou důvody sérii ukončit. Pokud trénujete sami bez bezpečnostního vybavení, je to další důvod nechat si opakování v rezervě."
+		},
+		{
+			"title": "Příklad",
+			"text": "Pokud uděláte dvanáct čistých přítahů s 15 kg a myslíte si, že byste zvládli ještě dvě opakování, je série kolem 2 RIR. Nemusíte to dokazovat vynucením třináctého a čtrnáctého opakování. Zkušený cvičenec může někdy ze zvláštního důvodu dojít blízko selhání na bezpečném stroji, ale nemělo by to být plánem každého tréninku. Míříte na úsilí a kvalitu, které dokážete opakovat, a selhání nepovažujte za úspěch, který je třeba sbírat."
+		},
+		{
+			"title": "Kdy přestat",
+			"text": "Ukončete jakoukoli sérii, pokud pocítíte neobvyklou bolest, závrať, náhlou slabost nebo nedokážete pohyb ovládat. Normální svalové úsilí je něco jiného než tyto varovné signály."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Studie RPE založeného na RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		}
+	]
+}

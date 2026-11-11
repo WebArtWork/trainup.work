@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Warum Schlaf für das Training wichtig ist",
+			"text": "Schlaf hilft bei der Gewebereparatur, der Funktion des Nervensystems, der Aufmerksamkeit und beim Lernen von Bewegungsfertigkeiten. Nach schlechtem Schlaf kann sich eine normale Last schwerer anfühlen, und deine Motivation oder Koordination kann sinken. Eine kurze Nacht löscht deinen Fortschritt nicht aus, aber wiederholt zu wenig zu schlafen kann die Qualität deines Trainings und deine allgemeine Gesundheit beeinträchtigen."
+		},
+		{
+			"title": "Dauer und Qualität",
+			"text": "Die Empfehlungen der öffentlichen Gesundheit nennen für Erwachsene von 18–60 Jahren sieben oder mehr Stunden, danach mit altersspezifischen Bereichen. Häufiges Aufwachen, ein unregelmäßiger Zeitplan oder ein nicht erholtes Gefühl können eine Rolle spielen, auch wenn deine Zeit im Bett lang genug aussieht. Der Bedarf ist verschieden, die richtige Menge ist also individuell."
+		},
+		{
+			"title": "Gewohnheiten, die helfen",
+			"text": "Gehe zu ziemlich gleichmäßigen Zeiten ins Bett und stehe zu ziemlich gleichmäßigen Zeiten auf, halte das Schlafzimmer dunkel und bequem, begrenze helles Licht vor dem Schlafengehen und achte auf spätes Koffein. Tageslicht und regelmäßige Bewegung können helfen, deinen Schlafrhythmus berechenbar zu halten. Beurteile deinen Schlaf nicht allein nach einem Wearable-Wert."
+		},
+		{
+			"title": "Training nach einer schlechten Nacht",
+			"text": "Wenn nach einer besonders schlechten Nacht dein Gleichgewicht oder deine Konzentration nicht stimmt, erwäge eine leichtere Techniksitzung, einen leichten Spaziergang oder ein kleineres Training. Ein gelegentlich harter Tag ist an sich nicht gefährlich, aber wiederholt maximale Hebungen im erschöpften Zustand zu erzwingen nützt dir nichts. Schlaftracker liefern Schätzungen, keine klinischen Messungen. Wenn du anhaltend starke Schläfrigkeit oder Schlaflosigkeit hast, sprich mit einer Ärztin oder einem Arzt."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: Schlafempfehlungen für Erwachsene",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		},
+		{
+			"label": "ACSM 2026: Trainingsdosis, Erholung und Steigerung",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

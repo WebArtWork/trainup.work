@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Forma fisica generale",
+			"text": "L’obiettivo è una capacità e una salute ad ampio spettro: allenamento coi pesi per i principali schemi di movimento, attività aerobica regolare e un po’ di lavoro su mobilità ed equilibrio. Le sedute possono usare intervalli di ripetizioni moderati e l’attrezzatura che hai. Progredire può significare più attività settimanale, più energia durante il giorno o prestazioni migliori nei piegamenti e nella camminata."
+		},
+		{
+			"title": "Forza",
+			"text": "La priorità è produrre più forza nei movimenti che scegli. Un programma di forza di solito mette i sollevamenti principali all’inizio della seduta, aumenta la resistenza nel tempo e usa recuperi più lunghi, così tecnica e prestazioni restano solide. I carichi più alti aiutano di più per la forza massimale, ma i principianti possono diventare più forti senza mai testare il proprio massimale."
+		},
+		{
+			"title": "Condizionamento",
+			"text": "La priorità è sostenere lo sforzo, recuperare tra gli scatti o migliorare la capacità cardiovascolare. Camminata costante, ciclismo, jogging e intervalli sono tutti strumenti per questo. Quanto lavoro facile e quanto duro fai dipende dal tuo livello di forma, dalle preferenze, dalla tolleranza all’impatto e dall’attrezzatura. Non ogni allenamento di condizionamento deve sembrare una gara."
+		},
+		{
+			"title": "Esempio",
+			"text": "Poniamo che tu abbia tre sedute da 40 minuti a settimana. Per una base di forma generale, potresti usarne due per l’allenamento full body coi pesi e una per il cardio. Un blocco di forza potrebbe mantenere quelle due sedute coi pesi, aggiungere una terza seduta di sollevamento e conservare un po’ di breve attività aerobica. Un blocco di condizionamento potrebbe spostarsi verso il lavoro aerobico mantenendo, quando puoi, almeno due sedute di forza a settimana."
+		},
+		{
+			"title": "Sovrapposizione tra gli obiettivi",
+			"text": "L’allenamento coi pesi può migliorare la resistenza muscolare, e l’allenamento aerobico può aiutare recupero e salute. Gli obiettivi differiscono nell’enfasi e si sovrappongono molto. Scegli un obiettivo principale per quattro–otto settimane, poi guarda i risultati prima di cambiare priorità. Cambiare dopo ogni allenamento rende difficile valutare i progressi."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Imposti il tuo obiettivo (forma generale, forza o condizionamento) nel Profilo. Qualunque sia l’obiettivo, attrezzatura, spazio e limitazioni decidono quali esercizi possono entrare nel tuo piano."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Raccomandazioni OMS sull’attività fisica",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

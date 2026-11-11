@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Programmi total body",
+			"text": "Una sessione total body allena diversi schemi di movimento principali nello stesso giorno. Due o tre giorni a settimana spesso funzionano bene per i principianti e per chi ha poco tempo. Pratichi spesso gli esercizi principali senza bisogno di molte visite in palestra. Le sessioni possono diventare lunghe se includi troppi movimenti."
+		},
+		{
+			"title": "Programmi upper/lower",
+			"text": "Un piano upper/lower alterna sessioni per la parte superiore e inferiore del corpo, spesso su quattro allenamenti a settimana. Lascia spazio a più esercizi e serie, con tempo di recupero tra sessioni simili. Funziona anche una versione a rotazione su tre giorni, e il calendario non deve ripetersi esattamente ogni settimana."
+		},
+		{
+			"title": "Split per gruppi muscolari",
+			"text": "Una split per parti del corpo può allenare petto e tricipiti un giorno, schiena e bicipiti un altro e gambe un terzo. Questi programmi rendono più facile inserire alti volumi di allenamento. Quando il lavoro settimanale è simile, nessuna split è migliore delle altre per la crescita muscolare. Una split progettata male può lasciare alcuni muscoli non allenati per troppo tempo."
+		},
+		{
+			"title": "Scegli in base ai tuoi limiti",
+			"text": "Con due giorni, il total body è una scelta pratica di base. Con tre, usa il total body o uno schema upper/lower a rotazione. Con quattro, usa l’upper/lower o due diversi giorni total body. Cinque giorni permettono molte organizzazioni, ma le visite extra aggiungono poco se non riesci a rispettarle o a recuperare da esse. Anche la pratica delle abilità e la preferenza personale contano. Scegli la split più semplice che copra i tuoi obiettivi, il tuo programma e la tua attrezzatura, e tieni d’occhio il totale delle serie settimanali. Un programma di cinque giorni che sembra avanzato non è automaticamente migliore di un piano di tre giorni che continui a seguire."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Indicazioni ACSM sul modello di progressione",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NHS: indicazioni su forza e flessibilità",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		}
+	]
+}

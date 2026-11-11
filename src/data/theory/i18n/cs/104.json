@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Připravte se, než zatížíte tyč",
+			"text": "Zkontrolujte, že lavice, stojan, tyč, zámky a podlaha vyhovují cviku. Ve stojanu na dřepy zachytí tyč bezpečnostní kolíky nebo popruhy nastavené ve správné výšce, pokud s ní nedokážete vstát. Pokud trénujete sami, nezkoušejte bench pressy blízko maxima bez zajištění."
+		},
+		{
+			"title": "Co dělá pomocník",
+			"text": "Před bench pressem s činkou se s pomocníkem dohodněte, zda chcete pomoc se zvednutím tyče ze stojanu, kdy má začít pomáhat a jaké povely budete používat. Pomocník musí být schopen pomoci a neměl by vás rušit. Jeden nezkušený pomocník nemůže zaručit vaši bezpečnost při velmi těžké zátěži."
+		},
+		{
+			"title": "Vyhazování závisí na vybavení",
+			"text": "Olympijské zvedací plošiny a gumové kotouče jsou vyrobeny pro určitá kontrolovaná upuštění. Domácí podlahy, přeplněné posilovny a nastavitelné jednoručky nemusí být. Nikdy nenacvičujte improvizovaná nouzová upuštění v blízkosti lidí nebo křehkého vybavení. Než zkusíte náročné zdvihy, naučte se od kvalifikovaného instruktora způsob úniku pro své vybavení."
+		},
+		{
+			"title": "Snižte potřebu záchrany",
+			"text": "Nechte si opakování v rezervě, zvolte zátěž, kterou dokážete ovládat, a použijte variantu na stroji nebo s jednoručkami, když lépe vyhovuje vašemu uspořádání. Nemusíte trénovat do svalového selhání, abyste dělali pokrok, zejména u složitých zdvihů."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "TrainUp nepředpokládá, že máte pomocníka, stojan ani bezpečné místo k odhazování vah. Plán vybírá jen cviky, které odpovídají vybavení a prostoru nastaveným v Profilu, proto tato nastavení udržujte přesná. Nepředepisuje ani váhy: zátěž volíte vy."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Praktické doporučení ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

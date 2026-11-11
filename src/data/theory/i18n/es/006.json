@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Adultos de 18–64 años",
+			"text": "La guía de la Organización Mundial de la Salud recomienda 150–300 minutos de actividad aeróbica de intensidad moderada a la semana, o 75–150 minutos de actividad intensa, o una combinación equivalente de ambas. También recomienda actividad de fortalecimiento muscular para todos los grandes grupos musculares al menos dos días por semana. Más actividad puede traer beneficios adicionales, pero la cantidad adecuada depende de tu salud y tu capacidad."
+		},
+		{
+			"title": "Qué significa la intensidad",
+			"text": "La actividad moderada acelera tu respiración y tu frecuencia cardíaca, pero aún puedes mantener una conversación. La actividad intensa hace difícil hablar con frases completas. Caminar a buen paso o pedalear con suavidad cuentan como moderadas, y correr o pedalear con fuerza cuentan como intensas. Puedes repartir los minutos a lo largo de la semana en sesiones que se ajusten a tu horario, así que no hace falta un único entrenamiento largo."
+		},
+		{
+			"title": "Personas mayores y jóvenes",
+			"text": "Las personas mayores siguen los mismos objetivos aeróbicos y de fuerza. También se les anima a hacer actividad multicomponente que dé prioridad al equilibrio y a la fuerza al menos tres días por semana siempre que sea posible. Para las edades de 5–17 años, la OMS recomienda una media de al menos 60 minutos de actividad de moderada a intensa al día a lo largo de la semana, con actividad intensa y de fortalecimiento muscular y óseo al menos tres días por semana."
+		},
+		{
+			"title": "Empezar con poco también cuenta",
+			"text": "Cualquier aumento respecto a la inactividad ayuda. Los paseos de diez minutos, subir por las escaleras y las sesiones cortas en casa suman hacia los totales recomendados. Estar menos sentado ayuda aunque ya hagas ejercicio, y la actividad ligera puede sustituir parte de ese tiempo sentado."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Un principiante podría programar dos entrenamientos de cuerpo completo y tres paseos de 30 minutos, y alargar poco a poco los paseos hacia el objetivo aeróbico. Anota los minutos de caminata por separado de las series de fuerza. Las recomendaciones son objetivos para poblaciones enteras, así que no tienes que saltar de inmediato a la cantidad completa."
+		}
+	],
+	"sources": [
+		{
+			"label": "Directrices de la OMS de 2020",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		},
+		{
+			"label": "Guía de actividad de los CDC",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

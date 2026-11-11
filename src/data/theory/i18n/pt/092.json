@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "O panorama geral",
+			"text": "O exercício gasta energia, e a comida fornece o que precisa para treinar, recuperar e construir tecido. Uma alimentação variada costuma incluir alimentos ricos em proteína, alimentos ricos em hidratos de carbono, fruta, legumes e fontes de gordura. Uma alimentação muito restritiva pode limitar o desempenho e a recuperação mesmo quando os treinos estão bem desenhados."
+		},
+		{
+			"title": "Proteína e músculo",
+			"text": "A proteína fornece aminoácidos que o corpo usa para manter os tecidos e adaptar o músculo. A investigação em adultos que fazem exercício cita muitas vezes cerca de 1,4–2,0 gramas de proteína por quilograma de massa corporal por dia como um intervalo baseado em evidência. As necessidades diferem com a idade, o treino e as circunstâncias pessoais, e não tem de calcular este número."
+		},
+		{
+			"title": "Hidratos de carbono e gorduras",
+			"text": "Os hidratos de carbono alimentam esforços intensos repetidos e sessões de resistência ao manter o glicogénio muscular. A gordura alimentar fornece ácidos gordos essenciais e ajuda a absorver certas vitaminas. As estratégias detalhadas de nutrição desportiva importam mais à medida que o volume de treino aumenta. Como iniciante, concentre-se primeiro em refeições regulares e equilibradas."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Se treinar força três dias por semana, pode construir as refeições em torno de feijão, peixe, ovos ou outra fonte de proteína, acrescentar cereais ou batatas para ter energia e incluir legumes e fruta. O que come ao longo da semana importa mais do que beber um batido em particular logo a seguir a cada série."
+		},
+		{
+			"title": "Quando procurar ajuda especializada",
+			"text": "Se tiver uma condição médica, preocupações com a alimentação ou um objetivo de desempenho especializado, fale com um nutricionista registado ou um profissional de saúde. O TrainUp não dá metas calóricas individuais, registo de macronutrientes nem planos de refeições para perder peso."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento da ISSN: proteína e exercício",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

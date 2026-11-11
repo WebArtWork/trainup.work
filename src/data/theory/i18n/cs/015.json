@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Základní měření",
+			"text": "Klidová tepová frekvence je váš pulz při klidném odpočinku. Maximální tepová frekvence (HRmax) je zhruba nejrychlejší tep, kterého vaše srdce dosáhne při maximálním úsilí. Rovnice podle věku HRmax odhadují, ale neměří ji. Známé 220 − věk a Tanakovo 208 − 0,7 × věk jsou populační průměry a u jednotlivce se mohou značně lišit."
+		},
+		{
+			"title": "Zóny podle procent",
+			"text": "Jeden jednoduchý přístup veřejného zdraví řadí střední aerobní intenzitu na přibližně 50–70 % odhadované HRmax a vysokou intenzitu na přibližně 70–85 %. Fitness aplikace mohou ukazovat pět užších zón, ale každý systém používá jiné hranice. Barva zóny nebo jediné číslo pulzu nemůže prokázat, kde leží váš osobní metabolický práh."
+		},
+		{
+			"title": "Tepová rezerva (HRR)",
+			"text": "Karvonenova metoda používá váš maximální i klidový pulz: cílový tep = klidový tep + zlomek intenzity × (HRmax − klidový tep). Například při HRmax 190 a klidovém tepu 60 dává 60 % HRR hodnotu 60 + 0,60 × 130 = 138 tepů za minutu. Cíl 60 % HRR se liší od 60 % HRmax."
+		},
+		{
+			"title": "Test řeči",
+			"text": "Při střední námaze obvykle můžete mluvit, ale nemůžete pohodlně zpívat. Při vysoké námaze je těžké říct víc než pár slov. Test se hodí, když je nositelné zařízení nepřesné nebo ho nemáte. Údaje o tepové frekvenci mohou za krátkými intervaly zaostávat a mění se s horkem, dehydratací, stresem, nemocí nebo léky."
+		},
+		{
+			"title": "Příklad",
+			"text": "Pro lehký aerobní trénink zvolte tempo, při kterém ještě dokážete vést rozhovor. Sledujte, jak se váš pulz mění během několika týdnů při stejném tempu. Tento trend vám může říct víc než honba za pevnou „zónou spalování tuků“."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "Po každém tréninku ohodnotíte úsilí celého tréninku od 1 do 10, což funguje s údaji o tepové frekvenci i bez nich, a vodítka k dýchání vám pomáhají úsilí posoudit. Pokud máte srdeční onemocnění nebo užíváte léky, které ovlivňují pulz, požádejte lékaře o radu přizpůsobenou vám."
+		}
+	],
+	"sources": [
+		{
+			"label": "Doporučení American Heart Association k tepové frekvenci",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Tanaka a kol.: rovnice HRmax",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "CDC: test řeči",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

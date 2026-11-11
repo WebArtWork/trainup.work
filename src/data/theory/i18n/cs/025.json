@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Zápis ve čtyřech částech",
+			"text": "Tempo se často zapisuje čtyřmi čísly: fáze spouštění, pauza dole, fáze zvedání a pauza nahoře. U dřepu 3-1-1-0 znamená spouštět se tři sekundy, jednu sekundu pauzu dole, vstát za jednu sekundu a hned začít další opakování. Ne každý systém uvádí fáze ve stejném pořadí, takže pokyny musí říkat, jaký zápis používají."
+		},
+		{
+			"title": "Proč kontrola pomáhá",
+			"text": "Pomalá fáze spouštění může zabránit odrazu, odhalit problémy s rovnováhou a udělat z lehkých zátěží dost náročné pro nácvik dovednosti. Krátká pauza vám může pomoci vnímat polohu v kritickém bodě. Záměrně rychlé zvedání může pomoci při práci na sílu nebo výbušnost, když je vaše technika bezpečná a zátěž vyhovuje."
+		},
+		{
+			"title": "Tempo a hypertrofie",
+			"text": "Výzkum neukázal, že by velmi pomalá opakování spolehlivě přinášela víc růstu. Stanovisko ACSM 2026 zjistilo, že doba pod napětím nebyla při srovnání různých tréninkových plánů konzistentním faktorem. Extrémně pomalý pohyb může snížit zátěž nebo celkový počet opakování, který zvládnete, a může jít proti vašemu hlavnímu cíli."
+		},
+		{
+			"title": "Příklad",
+			"text": "Pokud se učíte předklon v kyčlích, spouštění jednoručky po dobu dvou až tří sekund vám dá čas udržet váhu blízko a vnímat, jak se kyčle posouvají dozadu. Jakmile je vzorec konzistentní, může stačit běžná kontrolovaná rychlost. Hod medicinbalem nebo skok mají být rychlé, takže je nezpomalujte."
+		},
+		{
+			"title": "Srovnávání sérií",
+			"text": "Při posuzování pokroku srovnávejte série provedené v podobném rozsahu a rychlosti. Přidání váhy při zkrácení fáze spouštění nemusí být skutečné zlepšení. Pokud dovednost nevyžaduje pevné tempo, soustřeďte se na stálá, kontrolovaná opakování a svůj hlavní cíl a nepočítejte každou sekundu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Přehled kontinua opakování",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

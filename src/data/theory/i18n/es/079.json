@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Prepara la cuerda",
+			"text": "Elige una cuerda que gire con suavidad sin engancharse en tus pies. Un primer ajuste habitual es ponerte cerca de su centro y levantar las asas hacia la parte baja del pecho o las axilas, y luego ajustar según el grosor de la cuerda y tu habilidad. Asegúrate de tener mucho espacio por encima, a los lados y en el suelo antes de saltar."
+		},
+		{
+			"title": "Aprende un salto básico pequeño",
+			"text": "Mantén los codos cómodamente cerca de las costillas y gira la cuerda sobre todo con las muñecas, sin balancear todo el brazo. Usa saltos cortos y relajados, lo justo para pasar la cuerda, sin subir mucho las rodillas. Aterriza con suavidad, dejando que los tobillos y las rodillas se flexionen; no intentes mantener las piernas completamente rígidas."
+		},
+		{
+			"title": "Añade variaciones poco a poco",
+			"text": "Empieza con giros sueltos, aunque solo salgan dos o tres antes de tener que reiniciar. Pasa a series continuas cortas y luego añade pies alternos, el paso de boxeador o desplazamientos laterales cuando mejore tu sincronización. Los trucos como los dobles saltos vienen después de un ritmo básico fiable."
+		},
+		{
+			"title": "Evita demasiado impacto y frustración",
+			"text": "Saltar a la comba de forma repetida carga los gemelos y los tendones de Aquiles, así que los aumentos grandes y repentinos pueden dejarlos doloridos. Si la cuerda se engancha una y otra vez, puede ser demasiado larga, demasiado corta o estar mal sincronizada; no significa que estés en baja forma. Usa calzado y una superficie con buen agarre, y evita los suelos de baldosa resbaladizos y las habitaciones abarrotadas."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "El plan incluye la comba solo cuando tu equipamiento y los ajustes de tu Perfil sobre la altura del techo, la superficie, los saltos y el ruido lo permiten. Mantén los intervalos cortos al principio. Si tu habilidad o el impacto te frenan, el boxeo de sombra o la marcha mantienen la sesión en marcha."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: medir la intensidad de la actividad y la prueba del habla",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Recomendaciones de actividad física de los CDC para adultos",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

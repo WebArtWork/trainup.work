@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Il tuo stress totale",
+			"text": "L’allenamento è solo una parte dello stress che porti con te. Sonno scarso, viaggi, un lavoro impegnativo, tensione emotiva, caldo e una malattia recente possono tutti influire su concentrazione, coordinazione e su quanto sembra duro il lavoro. La prontezza non è una diagnosi, e nessun punteggio singolo la cattura."
+		},
+		{
+			"title": "Un semplice controllo",
+			"text": "Prima di un allenamento, nota sonno, energia, motivazione, dolore muscolare ed eventuali sintomi nuovi. Confrontali con ciò che è normale per te, non con i numeri di qualcun altro. Il riscaldamento ti dà un secondo controllo: se i movimenti sembrano inaspettatamente difficili o il tuo controllo non è al meglio, una sessione impegnativa potrebbe richiedere degli aggiustamenti."
+		},
+		{
+			"title": "Adattarsi in un giorno di calo",
+			"text": "In un giorno a bassa energia, riduci il carico, accorcia la sessione, scegli esercizi più semplici o fai invece una camminata facile. In un giorno normale, segui il piano com’è scritto. Non trasformare ogni breve calo in un giorno di riposo. Le tendenze nell’arco di diverse sessioni ti dicono più di una singola valutazione."
+		},
+		{
+			"title": "Malattia e sicurezza",
+			"text": "Febbre, una malattia che coinvolge tutto il corpo, sintomi al petto o mancanza di fiato insolita sono motivi per saltare l’allenamento duro e chiedere un parere medico. Il popolare «controllo del collo» è solo una regola approssimativa e non ti autorizza ad allenarti da malato."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "TrainUp non prescrive i pesi, quindi scegli il carico ogni giorno. Il tuo piano cambia solo quando lo rigeneri, in base allo sforzo (RPE) che hai valutato dopo ogni sessione, a qualsiasi dolore che hai segnalato e a quanta parte di ogni allenamento hai completato."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: raccomandazioni sul sonno",
+			"url": "https://www.cdc.gov/sleep/about/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: dolore al petto e sintomi di emergenza",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		}
+	]
+}

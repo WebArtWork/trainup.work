@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "What “failure” means",
+			"text": "Concentric failure is when you try but cannot complete another lifting rep. Technical failure comes earlier, when you can no longer keep the planned range or a safe movement. In a complex lift you can reach technical failure long before the target muscles reach full muscular failure."
+		},
+		{
+			"title": "Hard training without failure",
+			"text": "In the 2026 ACSM position stand, training to momentary failure did not reliably give better strength, hypertrophy or power results. Sets that end with about two or three reps in reserve often give a useful training stimulus with less fatigue. How close to failure you should go depends on your goal, the load, the exercise, your experience and the situation."
+		},
+		{
+			"title": "Risk varies by exercise",
+			"text": "Going close to failure on a stable machine or a low-risk isolation exercise is very different from doing it in a heavy barbell squat, an unsupported overhead press or an unfamiliar explosive movement. Losing your brace, losing control on the way down, or having no safe way to stop are reasons to end a set. If you train alone without safety equipment, that is one more reason to keep reps in reserve."
+		},
+		{
+			"title": "Example",
+			"text": "If you row 15 kg for twelve clean reps and think you could do two more, the set is around 2 RIR. You don’t need to prove it by forcing reps thirteen and fourteen. An experienced trainee might sometimes take a set close to failure on a safe machine for a specific reason, but that shouldn’t be the plan for every session. Aim for effort and quality you can repeat, and don’t treat failure as an achievement to collect."
+		},
+		{
+			"title": "When to stop",
+			"text": "End any set if you get unusual pain, dizziness, sudden weakness, or can’t control the movement. Normal muscle effort is different from these warning signs."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "RIR-based RPE study",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		}
+	]
+}

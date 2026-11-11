@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ce que décrivent les schémas",
+			"text": "Un squat fléchit et étend surtout ensemble les hanches, les genoux et les chevilles. Une charnière bouge principalement au niveau des hanches, tandis que les fentes et les montées sur banc chargent une jambe à la fois. Pousser éloigne la résistance du corps et tirer la rapproche du corps. Dans un portage, vous gardez une charge stable en marchant, les exercices de tronc résistent au mouvement du tronc ou le produisent, et la locomotion couvre la marche, la course et les mouvements similaires."
+		},
+		{
+			"title": "Pourquoi les schémas comptent",
+			"text": "Un exercice peut travailler plusieurs muscles et plusieurs schémas à la fois. Un goblet squat travaille les jambes et le tronc, et un portage chargé travaille la prise, la posture et la mécanique de marche. Classer les exercices par schéma révèle des lacunes qu’une liste classée seulement par poitrine, bras et jambes peut manquer. Vous n’avez pas besoin de tous les schémas à chaque séance."
+		},
+		{
+			"title": "Construire une semaine équilibrée",
+			"text": "Sur deux ou trois séances full body, un débutant pourrait inclure un squat, une charnière de hanche, une poussée horizontale, un tirage horizontal, une fente et un exercice simple d’anti-rotation ou d’anti-extension. La poussée verticale, le tirage vertical et les portages peuvent s’ajouter quand votre équipement, votre mobilité et vos objectifs le permettent. Gardez la dose de chaque schéma assez petite pour pouvoir récupérer, et laissez de côté les exercices dont vous n’avez pas besoin."
+		},
+		{
+			"title": "Adapter les schémas à la capacité",
+			"text": "Chaque schéma a des variantes plus faciles et plus difficiles. Un squat sur chaise peut précéder un goblet squat, et une pompe au mur une pompe au sol. Un rowing à la poulie et un rowing aux haltères sont tous deux des tirages horizontaux, mais ils demandent un équilibre et un équipement différents. Si un mouvement cause de l’inconfort ou paraît instable, changez de variante et gardez le schéma."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Chaque page d’exercice dans Explorer indique son schéma de mouvement, ce qui vous permet de vérifier comment votre semaine prévue les couvre. Si la plupart des séances contiennent de la poussée et presque pas de tirage, un rowing ou un tirage vertical adapté à votre équipement et à vos limites comblerait la lacune. Visez une bonne couverture sur plusieurs semaines, pas un ratio parfait à chaque séance."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA : sécurité et fondamentaux du renforcement",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

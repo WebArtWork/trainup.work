@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Začněte cílem",
+			"text": "Každý pohyb má svůj úkol: dřep trénuje společnou extenzi kyčle a kolena, přítah trénuje tah a hinge pracuje hlavně přes kyčle. Dobrá technika může u různých lidí vypadat trochu jinak, protože délka končetin, mobilita a vybavení se liší. Záleží na bezpečné, opakovatelné kontrole. Nikdo nemusí odpovídat jednomu přesnému vzhledu."
+		},
+		{
+			"title": "Vybudujte základ",
+			"text": "Nejdřív se naučte verzi bez zátěže nebo s lehkou zátěží. Používejte rozsah pohybu, který dokážete ovládat, plynulá opakování a stabilní oporu, když ji potřebujete. Pak postupujte malými kroky: více opakování, větší odpor nebo složitější verze. Natáčení se nebo práce s kvalifikovaným trenérem může odhalit zlozvyky, ale samotné video nemůže diagnostikovat zranění."
+		},
+		{
+			"title": "Když se forma rozpadá",
+			"text": "Varovné signály během série zahrnují ztrátu rovnováhy, nekontrolované spouštění váhy, vybočení ze zamýšlené dráhy nebo kompenzace, které se s únavou zhoršují. Když je uvidíte, přestaňte nebo cvik usnadněte. Zvedat těžší váhy s hroutící se technikou není pokrok."
+		},
+		{
+			"title": "Příklad",
+			"text": "Než zatížíte rumunský mrtvý tah s jednoručkami, procvičte hinge v kyčlích s rukama na bocích, pak s lehkou váhou. Váhu přidejte jen tehdy, když se kyčle pohybují dozadu pod kontrolou a poloha zad zůstává od opakování k opakování pro vaše tělo stejná."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Váš plán vybírá cviky, které odpovídají vaší úrovni a koordinaci, a stránka každého cviku v části Cviky obsahuje kroky a poznámky k technice. TrainUp nepředepisuje váhy, takže zátěž volíte vy. Během tréninku zaznamenávejte opakování a poté ohodnoťte úsilí a zátěž přidávejte malými kroky, aniž byste při každém tréninku honili rekord."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Praktické doporučení ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Typ-I-Fasern",
+			"text": "Sie werden oft als langsam zuckend bezeichnet, ziehen sich tendenziell langsamer zusammen, erzeugen weniger Spitzenkraft pro Faser und widerstehen Ermüdung gut. Sie nutzen den aeroben Stoffwechsel effektiv und leisten einen Großteil der Arbeit bei langen oder wiederholten Aktivitäten mit geringer Intensität, etwa beim Gehen und gleichmäßigen Radfahren."
+		},
+		{
+			"title": "Typ-II-Fasern",
+			"text": "Diese werden allgemein als schnell zuckend bezeichnet und können Kraft schneller und stärker erzeugen. Beim Menschen haben Typ-IIa-Fasern eine große Kapazität sowohl für oxidative als auch für glykolytische Energiegewinnung, während Typ-IIx-Fasern tendenziell schneller sind und leichter ermüden. Die Mischung der Fasertypen unterscheidet sich je nach Muskel und Person."
+		},
+		{
+			"title": "Die Rekrutierung folgt dem Bedarf",
+			"text": "Das Größenprinzip beschreibt, wie dein Nervensystem im Allgemeinen zuerst kleinere motorische Einheiten mit niedriger Schwelle rekrutiert und Einheiten mit höherer Schwelle hinzunimmt, wenn die nötige Kraft steigt. Schwere Hebungen rekrutieren motorische Einheiten mit hoher Schwelle früh. Leichtere Lasten können sie ebenfalls rekrutieren, wenn sich Ermüdung aufbaut, solange die Anstrengung hoch genug wird. Das erklärt, warum Muskeln über einen recht breiten Lastbereich wachsen können."
+		},
+		{
+			"title": "Was Training verändert",
+			"text": "Ausdauertraining verbessert deinen aeroben Apparat und den Ermüdungswiderstand. Kraft- und Schnellkrafttraining verbessern die Krafterzeugung und können Muskeln aufbauen. Manche Fasereigenschaften verändern sich durch Training, aber Genetik, Trainingsgeschichte und Alter beeinflussen die Ergebnisse, weshalb es irreführend ist, jemanden als „Fast-Twitch-Typ“ oder „Slow-Twitch-Typ“ zu bezeichnen."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Ein 40-sekündiger Kniebeugensatz mit Körpergewicht und ein harter Satz mit fünf Wiederholungen mit Last belasten dein neuromuskuläres System unterschiedlich. Beide können nützlich sein, aber der Satz mit Last übt die Erzeugung hoher Kraft gezielter. Du musst deine Fasermischung nicht testen, um ein vollständiges Programm aufzubauen. Wähle Wiederholungen, Pausen und Konditionsarbeit nach der gewünschten Anpassung und danach, wie gut du dich bewegst, nicht nach einem Fasertyp-Etikett, das niemand geprüft hat."
+		}
+	],
+	"sources": [
+		{
+			"label": "Krafttraining und das Wiederholungskontinuum",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

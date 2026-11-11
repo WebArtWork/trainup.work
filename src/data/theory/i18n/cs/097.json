@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Nouzové příznaky",
+			"text": "Okamžitě přestaňte cvičit, pokud máte bolest nebo tlak na hrudi, omdlíte, silně se zadýcháte bez zjevného důvodu, pocítíte náhlou slabost na jedné straně, máte silnou novou bolest hlavy s neurologickými změnami nebo se rychle rozvine závažná reakce. Nepohodlí na hrudi s pocením, nevolností, točením hlavy nebo bolestí šířící se do paže či čelisti vyžaduje záchrannou službu."
+		},
+		{
+			"title": "Další závažné varovné signály",
+			"text": "Netrénujte přes náhlou silnou bolest kloubu nebo zad, výrazný otok po úrazu, neschopnost došlápnout, slabost, která se zhoršuje, nebo novou necitlivost. Bolest zad spolu se ztrátou kontroly močového měchýře nebo střev či necitlivostí v okolí třísel vyžaduje okamžité nouzové vyšetření."
+		},
+		{
+			"title": "Co dělat",
+			"text": "Přestaňte, zajistěte okolí a vyhledejte pomoc. Při nouzových příznacích volejte místní tísňové číslo a nejezděte sami, pokud můžete být vážně nemocní nebo zranění. Pokud jste tréninkový partner, nesnažte se zjistit příčinu a nepovzbuzujte dotyčného, aby sérii dokončil. TrainUp nedokáže posoudit nouzovou situaci, diagnostikovat nemoc ani nahradit kvalifikovaného odborníka."
+		},
+		{
+			"title": "Prevence má své meze",
+			"text": "Zahřátí, rozumné zátěže a postupná progrese mohou snížit zbytečný stres, ale nemohou vyloučit každý zdravotní problém. Pokud máte známé srdeční onemocnění nebo významné rizikové faktory, můžete před zahájením intenzivního cvičení potřebovat osobní radu od lékaře."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: bolest na hrudi a nouzové příznaky",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		},
+		{
+			"label": "NHS: bolest zad a naléhavé varovné signály",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		},
+		{
+			"label": "NHS: bolest kloubů",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		}
+	]
+}

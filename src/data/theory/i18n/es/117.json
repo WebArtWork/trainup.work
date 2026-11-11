@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "La afirmación habitual",
+			"text": "A menudo se venden cientos de abdominales como una forma de perder grasa de la barriga, y los ejercicios de la cara interna del muslo se anuncian como una forma de atacar la grasa de esa zona. Los músculos que trabajan sí se vuelven más fuertes o mejores en el esfuerzo sostenido. Aun así, usar un músculo no te da un control fiable sobre la grasa que tiene cerca."
+		},
+		{
+			"title": "Qué dice la investigación",
+			"text": "Los cambios en la grasa corporal dependen del balance energético, la genética, las hormonas y la actividad global. Los consejos prácticos de entrenamiento no deberían prometer una pérdida de grasa precisa en una sola zona. La investigación no está del todo resuelta: un pequeño ensayo de 2023 encontró una mayor pérdida de grasa del tronco con un protocolo concreto de resistencia abdominal. Ese resultado no demuestra que los abdominales normales decidan de forma fiable dónde pierde grasa una persona."
+		},
+		{
+			"title": "Qué hace el entrenamiento localizado",
+			"text": "Las planchas, los curls, las zancadas y otros ejercicios pueden mejorar la fuerza, la resistencia y la función de los músculos que trabajan. Combina el entrenamiento de fuerza con la actividad aeróbica para una salud y una forma física más amplias. La cantidad de grasa corporal que pierdes no es una medida directa de lo bueno que es tu ejercicio."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Si quieres un core más fuerte, practica dead bugs, planchas laterales y paseos con carga. Desarrollan la fuerza y la resistencia del tronco cambie o no la medida de tu cintura ese mes."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Cada página de ejercicio en Ejercicios muestra los músculos que trabaja y su patrón de movimiento. Eso es lo que entrena el ejercicio."
+		}
+	],
+	"sources": [
+		{
+			"label": "Estudio aleatorizado de 2023 sobre ejercicio localizado y cambios en la grasa",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/38010201/"
+		},
+		{
+			"label": "Ejercicio y cambios en la grasa abdominal",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/16002776/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

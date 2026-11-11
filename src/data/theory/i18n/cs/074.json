@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co se počítá jako HIIT",
+			"text": "HIIT vyžaduje práci, která je pro vaši současnou kondici těžká, obvykle následovanou lehčím intervalem, který vám dovolí vydat další dobré úsilí. Těžké dýchání se očekává, ale ztráta kontroly nad technikou ne. Závodění okruhy automaticky nedává stejný tréninkový efekt jako strukturované vysoce intenzivní aerobní intervaly."
+		},
+		{
+			"title": "Co je Tabata",
+			"text": "Klasický formát Tabata je osm kol po 20 sekundách těžké práce a 10 sekundách odpočinku, celkem čtyři minuty. Původní výzkum používal velmi intenzivní úsilí na kole, takže nenáročný okruh 20/10 se lépe nazývá „ve stylu Tabata“, pokud není úsilí podobné. Krátký protokol stále vyžaduje předchozí zahřátí a následnou regeneraci."
+		},
+		{
+			"title": "Kdo by měl začít jednodušeji",
+			"text": "Pokud se vracíte po pauze v aktivitě nebo se učíte nové pohyby, může vám lépe posloužit několik týdnů pohodlné aerobní práce. Pokud máte zdravotní potíže, které by to mohlo ovlivnit, před začátkem se zeptejte lékaře. Burpees a skoky nejsou potřeba k tomu, aby bylo kardio intenzivní, a stacionární kolo může být bezpečnější a lépe ovladatelné."
+		},
+		{
+			"title": "Omezte náročnou práci",
+			"text": "Začněte krátkými intervaly, které zvládnete se správným provedením, a mezi náročnými tréninky nechte dost lehkých dnů. Zvýšení frekvence, intenzity a počtu kol najednou může přinést únavu bez dalšího přínosu. HIIT je jedna z možností vedle stálé aktivity, silového tréninku a každodenní chůze a kondici můžete získat i bez něj."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE: navrhování vysoce intenzivních intervalů",
+			"url": "https://www.acefitness.org/continuing-education/certified/may-2021/7844/how-to-use-the-ace-ift-model-to-design-effective-hiit-workouts/"
+		},
+		{
+			"label": "ACE: původní formát intervalů Tabata",
+			"url": "https://www.acefitness.org/continuing-education/prosource/hiit-special-issue/3743/is-tabata-all-it-s-cracked-up-to-be/"
+		},
+		{
+			"label": "CDC: doporučení k fyzické aktivitě dospělých",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

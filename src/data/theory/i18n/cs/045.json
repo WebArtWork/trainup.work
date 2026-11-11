@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Zvolte rozsah opakování",
+			"text": "Vyberte cvik, počet sérií a rozsah, například tři série po 8–12 opakováních. Začněte s váhou, která vám dovolí dosáhnout spodní hranice rozsahu s pevnou technikou a několika opakováními v rezervě. Rozsah nemusí být 8–12. Meze určuje váš cíl a cvik."
+		},
+		{
+			"title": "Zasloužte si zvýšení zátěže",
+			"text": "Nejdřív udělejte víc kvalitních opakování se stejnou váhou během několika tréninků. Až každá série dosáhne horní hranice rozsahu při plánovaném úsilí, přidejte nejmenší krok váhy, který máte. Opakování obvykle opět klesnou k dolní hranici a cyklus začne znovu."
+		},
+		{
+			"title": "Příklad",
+			"text": "Týden 1: přítahy s jednoručkou 12 kg na 10, 9, 8. Týden 2: 11, 10, 9. Týden 3: 12, 12, 12 s pevnou kontrolou. Týden 4: zkuste 14 kg na 9, 8, 8, pokud tento skok zvládnete se správným provedením. Tato čísla ukazují, jak to může jít. Nemusíte se zlepšovat každý týden."
+		},
+		{
+			"title": "Kdy pravidlo upravit",
+			"text": "Velký skok ve váze může být příliš těžký, zejména u malých svalů nebo s omezeným domácím vybavením. V takovém případě zůstaňte u současné zátěže, přidejte celkový počet opakování nebo zvolte mezistupeň varianty. Pokud je trénink neobvykle vyčerpávající, zopakujte poslední cíl a progresi nechte na později. Skutečný pokrok často kolísá nahoru a dolů."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Váš plán dává každému cviku série a cílový počet opakování a během tréninku zaznamenáváte opakování, která dokončíte v každé sérii. TrainUp nepředepisuje váhy, takže o přidání zátěže rozhodujete vy. Když dosáhnete horní hranice rozsahu v každé sérii, před zvýšením váhy zkontrolujte své RPE a techniku."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: technika posilování (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

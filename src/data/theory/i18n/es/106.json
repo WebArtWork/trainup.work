@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Por qué importa",
+			"text": "Con la edad, la masa muscular, la fuerza, la potencia y el equilibrio suelen cambiar, aunque el ritmo varía mucho entre personas. El entrenamiento de fuerza puede hacer más fáciles las tareas cotidianas, como levantarse de una silla, subir escaleras y cargar con la compra. La actividad aeróbica favorece la salud cardiovascular y la resistencia."
+		},
+		{
+			"title": "Entrena varias capacidades",
+			"text": "Una semana práctica combina entrenamiento de fuerza, actividad aeróbica moderada y algo de práctica de equilibrio. Las recomendaciones oficiales para adultos de 65 años o más aconsejan específicamente al menos 150 minutos de actividad aeróbica moderada a la semana, fortalecimiento muscular dos días y trabajo de equilibrio. A los cincuenta y tantos, sigue las recomendaciones generales de actividad para adultos."
+		},
+		{
+			"title": "Elige movimientos útiles",
+			"text": "Los levantarse de una silla, los step-ups con apoyo, los remos, los press y los paseos con carga pueden adaptarse al punto en el que estás ahora. Algunos adultos mayores sanos se benefician de ejercicios de potencia supervisados, hechos con control y con intención de rapidez. Eso no significa lanzarte a ejercicios de alto impacto arriesgados sin prepararte para ellos."
+		},
+		{
+			"title": "Progresa con retroalimentación",
+			"text": "Haz los ejercicios más difíciles a medida que mejoren tu habilidad y tu fuerza, pero ten en cuenta que la recuperación depende de las afecciones de salud, el sueño y el entrenamiento previo. Busca consejo profesional ante un mareo nuevo, síntomas en el pecho, dolor sin explicación o problemas de equilibrio. Tu edad no es un diagnóstico y no puede sustituir a una valoración adecuada, y por sí sola no es motivo para descartar un ejercicio más pesado."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: actividad física en personas mayores",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

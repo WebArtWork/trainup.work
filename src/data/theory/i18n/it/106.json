@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Perché conta",
+			"text": "Con l’età, massa muscolare, forza, potenza ed equilibrio spesso cambiano, anche se il ritmo varia molto da persona a persona. L’allenamento di forza può rendere più facili i compiti quotidiani, come alzarsi da una sedia, salire le scale e portare la spesa. L’attività aerobica sostiene la salute cardiovascolare e la resistenza."
+		},
+		{
+			"title": "Allena più capacità",
+			"text": "Una settimana pratica mescola allenamento di forza, attività aerobica moderata e un po’ di esercizi di equilibrio. Le indicazioni ufficiali per gli adulti dai 65 anni in su raccomandano in modo specifico almeno 150 minuti a settimana di attività aerobica moderata, rafforzamento muscolare in due giorni e lavoro sull’equilibrio. Intorno ai cinquant’anni, segui le linee guida generali sull’attività per gli adulti."
+		},
+		{
+			"title": "Scegli movimenti utili",
+			"text": "Sit-to-stand, step-up con appoggio, rematori, distensioni e carry possono essere tutti adattati a dove ti trovi ora. Alcuni anziani in buona salute traggono beneficio da esercizi di potenza supervisionati eseguiti con controllo e intenzione veloce. Questo non significa buttarsi in esercizi rischiosi ad alto impatto senza prepararsi."
+		},
+		{
+			"title": "Progredisci con il feedback",
+			"text": "Rendi gli esercizi più difficili man mano che migliorano abilità e forza, ma aspettati che il recupero dipenda da condizioni di salute, sonno e allenamento passato. Chiedi un parere professionale per nuovi capogiri, sintomi al petto, dolore inspiegato o problemi di equilibrio. La tua età non è una diagnosi e non può sostituire una valutazione adeguata, e da sola non è un motivo per escludere un esercizio più impegnativo."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: attività fisica per gli anziani",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

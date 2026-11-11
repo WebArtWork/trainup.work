@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Perché il sonno conta per l’allenamento",
+			"text": "Il sonno aiuta la riparazione dei tessuti, la funzione del sistema nervoso, l’attenzione e l’apprendimento delle abilità motorie. Dopo un sonno scarso un carico normale può sembrare più pesante, e motivazione o coordinazione possono calare. Una notte corta non cancella i tuoi progressi, ma accorciare il sonno ripetutamente può danneggiare la qualità del tuo allenamento e la tua salute in generale."
+		},
+		{
+			"title": "Durata e qualità",
+			"text": "Le indicazioni di salute pubblica raccomandano sette o più ore per gli adulti tra i 18 e i 60 anni, con intervalli specifici per età dopo. Svegliarsi spesso, un orario irregolare o non sentirsi riposati può contare anche quando il tempo a letto sembra sufficiente. I bisogni differiscono, quindi la quantità giusta è individuale."
+		},
+		{
+			"title": "Abitudini che aiutano",
+			"text": "Vai a letto e alzati a orari abbastanza costanti, mantieni la camera da letto buia e confortevole, limita la luce intensa prima di dormire e fai attenzione alla caffeina serale. La luce del giorno e l’esercizio regolare possono aiutare a mantenere prevedibile il tuo ritmo del sonno. Non giudicare il tuo sonno solo dal punteggio di un dispositivo indossabile."
+		},
+		{
+			"title": "Allenarsi dopo una brutta notte",
+			"text": "Dopo una notte particolarmente brutta, se equilibrio o concentrazione non sono al meglio, valuta una sessione di tecnica più leggera, una camminata facile o un allenamento più piccolo. Una giornata dura occasionale non è pericolosa di per sé, ma forzare sollevamenti massimali da esausto ripetutamente non ti fa bene. I tracker del sonno danno stime, non misurazioni cliniche. Se hai sonnolenza intensa o insonnia continue, parlane con un medico."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: raccomandazioni sul sonno per gli adulti",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		},
+		{
+			"label": "ACSM 2026: dosaggio, recupero e progressione dell’esercizio",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

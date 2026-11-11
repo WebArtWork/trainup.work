@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Principiante",
+			"text": "Puede que tengas poca experiencia constante en entrenamiento de fuerza, que vuelvas tras una pausa larga o que seas nuevo en un movimiento. Los ejercicios sencillos, la práctica repetida de la técnica, las cargas moderadas y unas pocas buenas series de trabajo encajan con esta etapa. El progreso rápido inicial suele venir de una mejor coordinación y familiaridad, además de tejido muscular nuevo."
+		},
+		{
+			"title": "Intermedio",
+			"text": "Haces los patrones principales con constancia, puedes estimar tu esfuerzo, repites tu técnica de una sesión a otra y progresas mediante cambios planificados de carga o repeticiones. Puede que necesites repartir el trabajo en varios días, contar las series duras y prestar más atención a la recuperación y a los estancamientos."
+		},
+		{
+			"title": "Avanzado",
+			"text": "Avanzado significa una larga trayectoria de práctica productiva en una disciplina concreta, con un progreso que se ha vuelto lento. Una planificación más compleja puede ayudar, aunque la complejidad no es un logro en sí misma. Alguien avanzado en carrera puede seguir siendo principiante en sentadillas con barra."
+		},
+		{
+			"title": "Comprobaciones útiles",
+			"text": "¿Puedes hacer una sentadilla o una bisagra por un rango controlado? ¿Puedes hacer una variante de flexión sin perder la posición del cuerpo? ¿Sabes cómo se siente una serie en la que te quedan dos repeticiones? Son observaciones de entrenamiento, no pruebas universales de aprobado o suspenso. Ningún número de flexiones, peso de sentadilla ni cantidad de meses de entrenamiento clasifica correctamente a todo el mundo."
+		},
+		{
+			"title": "Qué significa para tu programa",
+			"text": "Dos o tres sesiones de cuerpo completo basadas en patrones de movimiento básicos suelen bastar para un novato. Una persona que ya levanta con experiencia puede necesitar más volumen semanal o ejercicios más específicos. Ambos siguen los mismos principios: especificidad, progresión gradual y recuperación."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Define tu nivel de forma física en Perfil según lo que puedes hacer ahora, no lo que esperas poder hacer. Si vuelves tras un tiempo sin entrenar, empieza con cargas más ligeras y menos volumen. Actualiza el nivel a medida que mejoren tu técnica, tu constancia y tu tolerancia."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC: cómo empezar de forma segura",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

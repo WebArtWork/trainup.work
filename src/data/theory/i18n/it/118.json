@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Cosa fa crescere i muscoli",
+			"text": "I muscoli crescono in risposta a un carico meccanico ripetuto e a un recupero sufficiente. I grandi cambiamenti di solito richiedono mesi o anni, non poche sessioni di sollevamento. Essere forti e apparire molto muscolosi sono risultati diversi, e puoi scegliere obiettivi di allenamento che corrispondono a ciò che vuoi."
+		},
+		{
+			"title": "Cosa mostrano gli studi di confronto",
+			"text": "Una meta-analisi del 2025 ha rilevato che donne e uomini hanno guadagnato dimensioni muscolari relative sostanzialmente simili con programmi di allenamento di forza comparabili, anche se i guadagni assoluti medi degli uomini erano un po’ più grandi. Non è un motivo per scoraggiare le donne dal sollevare. Mostra che le donne possono guadagnare vero muscolo e vera forza."
+		},
+		{
+			"title": "Allenati per ciò che vuoi",
+			"text": "Alcune persone vogliono una crescita muscolare visibile. Altre tengono di più alla forza quotidiana, alla salute delle ossa, alla prestazione sportiva o alla fiducia in sé. Il tuo volume di allenamento e la scelta degli esercizi possono seguire quelle priorità. L’allenamento di forza non richiede routine da bodybuilding né pesi più pesanti ogni giorno."
+		},
+		{
+			"title": "Esempio",
+			"text": "Due sessioni total body a settimana con squat, rematori, distensioni e hinge possono migliorare forza e funzione. Monitora la tua prestazione e non preoccuparti che un singolo allenamento cambi di colpo il tuo aspetto."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "In Profilo scegli il tuo obiettivo: forma generale, forza o condizionamento. Il tuo piano è costruito su quell’obiettivo, sul tuo livello, sulla tua attrezzatura e sul feedback dei tuoi allenamenti, e non promette alcuna forma del corpo in particolare."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisione sistematica 2025: crescita muscolare in uomini e donne",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/40028215/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

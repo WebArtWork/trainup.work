@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Allmählich herunterfahren",
+			"text": "Gehe oder trete nach einem harten Lauf oder einer Radfahrt ein paar Minuten leicht, statt bei voller Anstrengung abrupt zu stoppen. Nach Krafttraining kann ein kurzer entspannter Spaziergang mit normaler Atmung sich gut anfühlen. Abruptes Aufhören kann dich manchmal benommen machen, besonders nach langer, intensiver Aktivität."
+		},
+		{
+			"title": "Optionale sanfte Beweglichkeit",
+			"text": "Du kannst bequeme Waden-, Hüft-, Brust- oder Schulterbewegungen hinzufügen, wenn Dehnbarkeit eines deiner Ziele ist oder du sie einfach magst. Strebe ein mildes Dehnungsgefühl an und erzwinge keine großen Bereiche. Tiefes Dehnen direkt nach einer anstrengenden Einheit ist optional, und schmerzhaftes Dehnen arbeitet gegen dich."
+		},
+		{
+			"title": "Was die Evidenz zeigt",
+			"text": "Leichte Bewegung kann die ersten Minuten nach einem Training angenehmer machen. Es gibt wenig Evidenz, dass ein Standard-Cool-down oder eine Dehnroutine verlässlich Muskelkater am nächsten Tag (DOMS) verhindert. Allmähliche Steigerung, Schlaf und Erholung zählen weiterhin. Ein Cool-down behandelt keine Verletzung und ersetzt keine medizinische Versorgung."
+		},
+		{
+			"title": "An die Einheit anpassen",
+			"text": "Ein moderater Spaziergang kann mit ein oder zwei leichten Minuten enden. Nimm dir nach einer harten Intervalleinheit mehrere Minuten leichte Bewegung und Atmung, bis du dich stabil fühlst. Wenn Schwindel, ungewöhnliche Kurzatmigkeit, Brustschmerz oder Schwächegefühl nicht verschwinden, höre mit dem Training auf und hole medizinische Hilfe."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: sanfte Cool-down-Übungen",
+			"url": "https://www.nhs.uk/live-well/exercise/strength-and-resistance/body-blast-cool-down/"
+		},
+		{
+			"label": "ACE 2026: praktische Hinweise zum Dehnen",
+			"url": "https://www.acefitness.org/continuing-education/certified/april-2026/9104/new-expert-guidance-on-stretching-what-belongs-in-your-programs/?authorScope=80"
+		},
+		{
+			"label": "NHS: verzögert einsetzender Muskelkater",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		}
+	]
+}

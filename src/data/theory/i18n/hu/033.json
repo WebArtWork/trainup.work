@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tanuld meg a mozgást",
+			"text": "Állj enyhén hajlított térddel. Told hátra a csípődet, mintha vele csuknál be egy autóajtót, és hagyd, hogy a törzsed előredőljön, miközben a hátad kényelmes, kontrollált helyzetben marad. Állj meg, amikor a combhajlítóid korlátozzák a mozgást, vagy a törzsed már nem tud kontrollált maradni, majd told előre a csípődet, hogy felállj. A csípőmozgást edzed, ezért nem cél, hogy leérj a padlóig."
+		},
+		{
+			"title": "Csípőhajlítás és guggolás",
+			"text": "Mindkét mozgás a csípőt és a térdet használja, eltérő hangsúllyal. Guggolásnál a térd általában jobban hajlik, és a törzs egyenesebb marad. Román felhúzásnál a térd kicsit hajlik, a csípő pedig messzebb mozog hátra, ami a test hátsó részét dolgoztatja jobban. A farizomhíd a csípőfeszítést edzi támasztott törzzsel, és néha könnyebb kiindulópont."
+		},
+		{
+			"title": "Tanító gyakorlatok",
+			"text": "A falérintésnél állj egy rövid lépésre a faltól, és told hátra a csípődet, amíg hozzáér. A fejed, a felső hátad és a medencéd mentén tartott könnyű bot jelezheti, mikor mozdul sokat a gerinced. Ezeket a gyakorlatokat tanuláshoz használd, és ne erőltess miattuk merev testtartást."
+		},
+		{
+			"title": "Haladás és hibák",
+			"text": "Kezdj terhelés nélküli ismétlésekkel, majd térj át egy könnyű kettlebell-felhúzásra vagy egy súlyzós román felhúzásra. Tartsd közel a súlyt, és olyan tartományt használj, amelyet uralni tudsz. Ha túl sokat hajlítod a térdet, a mozdulat guggolássá válik, a rögzített mélység hajszolása pedig a hátadba viheti a mozgást. A lendítések több készséget igényelnek, mint a lassú csípőhajlítás."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A terved a felszerelésedhez és a célodhoz illő csípőhajlító gyakorlatokat tartalmaz. Ha az egyensúly vagy egy érzékeny hát miatt nehéz a terhelt csípőhajlítás, megoldás lehet egy alátámasztott változat vagy egy csípőhíd, a hátkorlátot pedig megadhatod a Profilban. Ha a fájdalom nem múlik, fordulj orvoshoz vagy gyógytornászhoz, ahelyett hogy saját rehabilitációs tervet készítenél."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "ACE: kétkezes kettlebell-lendítés technikája",
+			"url": "https://www.acefitness.org/continuing-education/certified/january-2025/8788/the-ace-do-it-better-series-the-two-handed-kettlebell-swing/"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

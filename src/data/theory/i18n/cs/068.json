@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Odkud hluk pochází",
+			"text": "Opakované dopady chodidel, švihadlo, burpees, těžká přistání, kutálené vybavení a upuštěné jednoručky přenášejí zvuk budovou. Tenké podlahy mohou způsobit, že malý náraz zní hlasitě. Rutina, která se v posilovně v přízemí zdá tichá, může rušit lidi pod bytem v patře."
+		},
+		{
+			"title": "Tišší náhrady",
+			"text": "Nahraďte jumping jacks kroky do strany, dřepy se skokem kontrolovanými dřepy, běh na místě pochodováním a burpees s vysokým nárazem verzemi s krokem vzad. Stínový box, svižná chůze, stacionární kolo a kontrolované výstupy na bednu mohou zvýšit dech a tepovou frekvenci bez opakovaných tvrdých dopadů."
+		},
+		{
+			"title": "Vylepšete uspořádání",
+			"text": "Trénujte na volné, neklouzavé podlaze. Cvičební podložka může část zvuku utlumit a chránit podlahu, ale nezastaví přenos vibrací konstrukcí. Zátěže pokládejte záměrně a nehromaďte volné vybavení. Zkontrolujte, zda schod nebo lavice při každém opakování nekolísá a nebouchá."
+		},
+		{
+			"title": "Intenzita bez nárazů",
+			"text": "Jak těžké kardio působí, závisí na vašem úsilí a skákání je jen jeden ze způsobů, jak ho zvýšit. Delší intervaly, kratší odpočinky, které vám stále dovolí regenerovat, nebo nepřetržitý pohyb s nízkým nárazem budují kondici. Při silovém tréninku mohou být pomalé kontrolované zdvihy a pauzy těžká práce a zůstat tiché, takže není třeba spěchat, aby trénink působil těžším dojmem."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu jsou to, zda jsou skoky v pořádku, a kolik hluku je v pořádku, dvě samostatná nastavení. Pokud omezíte obě, plán vynechá skoky, švihadlo a další bouchající cviky a stále trénuje k vašemu cíli tišími cviky. Samotná podložka neudělá skokový cvik tichým."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: doporučení k fyzické aktivitě dospělých",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: měření intenzity aktivity a test mluvení",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

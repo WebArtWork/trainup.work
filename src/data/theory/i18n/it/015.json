@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Misure chiave",
+			"text": "La frequenza cardiaca a riposo è il tuo polso durante un riposo tranquillo. La frequenza cardiaca massima (FCmax) è all’incirca il battito più veloce che il cuore può raggiungere durante lo sforzo massimo. Le equazioni basate sull’età stimano la FCmax ma non la misurano. Le note 220 − età e 208 − 0,7 × età di Tanaka sono medie di popolazione, e per una singola persona possono essere molto lontane dal vero."
+		},
+		{
+			"title": "Zone in percentuale",
+			"text": "Un semplice approccio di sanità pubblica colloca l’intensità aerobica moderata a circa il 50–70% della FCmax stimata e quella intensa a circa il 70–85%. Le app di fitness possono mostrare cinque zone più strette, ma ogni sistema usa soglie diverse. Il colore di una zona o un singolo valore del polso non possono dimostrare dove si trova la tua soglia metabolica personale."
+		},
+		{
+			"title": "Riserva di frequenza cardiaca (HRR)",
+			"text": "Il metodo di Karvonen usa sia il polso massimo sia quello a riposo: FC obiettivo = FC a riposo + frazione di intensità × (FCmax − FC a riposo). Per esempio, se la FCmax è 190 e la FC a riposo è 60, il 60% della HRR dà 60 + 0,60 × 130 = 138 bpm. Un obiettivo del 60% della HRR è diverso dal 60% della FCmax."
+		},
+		{
+			"title": "Il test della conversazione",
+			"text": "A sforzo moderato di solito puoi parlare ma non cantare comodamente. A sforzo intenso, dire più di poche parole diventa difficile. Il test è utile quando un dispositivo indossabile è impreciso o non ne hai uno. Le letture della frequenza cardiaca possono essere in ritardo rispetto a brevi intervalli e cambiare con caldo, disidratazione, stress, malattia o farmaci."
+		},
+		{
+			"title": "Esempio",
+			"text": "Per una seduta aerobica leggera, scegli un ritmo al quale riesci ancora a sostenere una conversazione. Osserva come cambia il tuo polso nell’arco di diverse settimane allo stesso ritmo. Quella tendenza può dirti più dell’inseguire una «zona brucia-grassi» fissa."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Dopo ogni allenamento valuti lo sforzo dell’intera seduta da 1 a 10, cosa che funziona con o senza dati di frequenza cardiaca, e i segnali del respiro ti aiutano a giudicarlo. Se hai una malattia cardiaca o prendi farmaci che influenzano il polso, chiedi al medico indicazioni adatte a te."
+		}
+	],
+	"sources": [
+		{
+			"label": "Indicazioni dell’American Heart Association sulla frequenza cardiaca",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Tanaka et al., equazione della FCmax",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "CDC: test della conversazione",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

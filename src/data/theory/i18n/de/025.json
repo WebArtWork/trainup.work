@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Vierteilige Notation",
+			"text": "Das Tempo wird oft als vier Zahlen geschrieben: die Absenkphase, die Pause unten, die Hebephase und die Pause oben. Bei einer Kniebeuge bedeutet 3-1-1-0: drei Sekunden absenken, eine Sekunde unten pausieren, in einer Sekunde hochkommen und sofort die nächste Wiederholung beginnen. Nicht jedes System listet die Phasen in derselben Reihenfolge auf, die Anweisungen müssen also sagen, welche Notation sie nutzen."
+		},
+		{
+			"title": "Warum Kontrolle hilft",
+			"text": "Eine langsame Absenkphase kann verhindern, dass du wippst, Gleichgewichtsprobleme sichtbar machen und leichte Lasten für Techniktraining schwer genug machen. Eine kurze Pause kann dir helfen, deine Position an einem Haltepunkt zu spüren. Bewusst schnell zu heben kann Kraft- oder Schnellkraftarbeit helfen, wenn deine Technik sicher ist und die Last passt."
+		},
+		{
+			"title": "Tempo und Hypertrophie",
+			"text": "Die Forschung hat nicht gezeigt, dass sehr langsame Wiederholungen verlässlich mehr Wachstum bringen. Das ACSM-Positionspapier 2026 fand, dass die Zeit unter Spannung kein durchgängiger Faktor war, wenn verschiedene Trainingspläne verglichen wurden. Extrem langsam zu werden kann die Last oder die Gesamtzahl der Wiederholungen senken, die du schaffst, und kann deinem Hauptziel entgegenwirken."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Wenn du eine Hüftbeuge lernst, gibt dir das Absenken einer Hantel über zwei bis drei Sekunden Zeit, das Gewicht nah zu halten und zu spüren, wie sich deine Hüften nach hinten bewegen. Sobald das Muster gleichmäßig ist, reicht vielleicht eine normale kontrollierte Geschwindigkeit. Ein Medizinballwurf oder ein Sprung soll schnell sein, verlangsame ihn also nicht."
+		},
+		{
+			"title": "Sätze vergleichen",
+			"text": "Vergleiche beim Beurteilen des Fortschritts Sätze mit ähnlichem Bewegungsumfang und ähnlicher Geschwindigkeit. Gewicht hinzuzufügen und dabei die Absenkphase zu verkürzen ist möglicherweise keine echte Verbesserung. Sofern eine Fertigkeit kein bestimmtes Tempo verlangt, konzentriere dich auf gleichmäßige, kontrollierte Wiederholungen und dein Hauptziel und zähle nicht jede Sekunde."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Übersichtsarbeit zum Wiederholungskontinuum",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

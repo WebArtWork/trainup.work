@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Prüfe zuerst, ob es ein Plateau ist",
+			"text": "Eine enttäuschende Einheit ist kein Plateau. Vergleiche mehrere Wochen unter ähnlichen Bedingungen: dieselbe Übung, Last, Bewegungsumfang und Anstrengung. Veränderungen bei Ausrüstung, Schlaf oder Technik können deine Zahlen schlechter aussehen lassen, auch wenn deine Fitness nicht sinkt. Halte genug Details fest, um einen echten Trend von Schwankungen von Tag zu Tag zu unterscheiden."
+		},
+		{
+			"title": "Prüfe die Grundlagen",
+			"text": "Hast du deine Einheiten abgeschlossen? Blieb der Widerstand fordernd, und hast du dich zwischen den Trainings erholt? War der Umfang richtig für dich? Manchmal ist die Arbeitsbelastung zu niedrig, und manchmal ist sie höher als nötig. Eine Hebung kann auch stocken, weil du diese Bewegung nicht regelmäßig geübt hast, während sich deine Muskeln noch anpassen."
+		},
+		{
+			"title": "Eine nützliche Änderung machen",
+			"text": "Wenn du deine Wiederholungen leicht schaffst, füge etwas Last hinzu oder nutze die doppelte Progression. Wenn sich Ermüdung aufbaut und die Leistung sinkt, reduziere eine Weile die harten Sätze oder ordne deinen Zeitplan neu. Wenn eine Bewegung aufgehört hat, sich zu verbessern, versuche eine Technikänderung oder eine eng verwandte Variante und lass den Rest deines Programms, wie er ist."
+		},
+		{
+			"title": "Langsamere Fortschritte mit der Zeit",
+			"text": "Anfänger verbessern sich oft schnell, teilweise weil sie die Bewegungen lernen. Erfahrene Heber kommen langsamer und in kleineren Schritten voran. Muskelwachstum braucht Zeit, um gemessen zu werden, eine unveränderte Waage oder ein einzelner Leistungstest beweist also nicht, dass dein Training versagt hat. Lass Ermüdung, die du dir nicht erklären kannst, oder andere anhaltende Gesundheitssymptome von einer Ärztin oder einem Arzt abklären."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Der Verlauf zeigt deine Trainings, deine durchschnittliche Anstrengung und ein Diagramm über 4 Wochen, was dir helfen kann, ein mögliches Plateau zu erkennen. TrainUp ändert deinen Plan nie anhand von weniger als 3 Trainings, ein harter Tag löst also kein neues Programm aus. Nimm kleine Anpassungen vor und prüfe nach mehreren Einheiten erneut."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: Sicherheit und Grundlagen des Krafttrainings",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "ACSM: Hinweise zum Progressionsmodell",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

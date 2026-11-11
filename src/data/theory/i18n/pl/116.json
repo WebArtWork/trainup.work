@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Sygnały do zebrania",
+			"text": "Porównaj serie i powtórzenia, które otrzymałeś, z tym, co ukończyłeś. Spójrz na obciążenie, RPE sesji, ból mięśni, opuszczone treningi i nowe ograniczenia, bo każde pokazuje inną część obrazu. Jedno wysokie RPE lub jeden opuszczony trening nie dowodzi, że plan jest dla Ciebie zły."
+		},
+		{
+			"title": "Gdy treningi wydają się zbyt łatwe",
+			"text": "Jeśli ciągle osiągasz cel ze stabilną techniką i niskim wysiłkiem, pomyśl o dodaniu kilku powtórzeń, niewielkiego obciążenia lub nieco większej objętości. Zmień jedną zmienną i zobacz, jak reagujesz, zanim dodasz cokolwiek innego."
+		},
+		{
+			"title": "Gdy treningi wydają się zbyt ciężkie",
+			"text": "Wielokrotne niezaliczanie celów, załamująca się technika lub zmęczenie, które nie mija, mogą być powodem do zmniejszenia obciążenia lub objętości, przejścia na łatwiejsze ćwiczenie albo dodania regeneracji. Nowy bolesny obszar wymaga ponownego spojrzenia na Twoje ograniczenia i ewentualnej porady specjalisty. Nie próbuj diagnozować go sam."
+		},
+		{
+			"title": "Przykład",
+			"text": "Wykonujesz przysiady kielichowe 3 × 10 przez dwa tygodnie przy RPE około 5 z dobrą kontrolą. Następnym razem możesz wybrać nieco cięższy hantel i wrócić do ośmiu powtórzeń. Jeśli ten sam ruch ciągle boli, nie utrudniaj go po prostu."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Twój plan zmienia się tylko wtedy, gdy ponownie go wygenerujesz, i nigdy na podstawie mniej niż 3 treningów. Jakikolwiek niedawny ból oznacza brak zwiększenia. Jeśli 2 z Twoich ostatnich 3 treningów były bardzo ciężkie (RPE 9 lub więcej) albo ukończone w mniej niż 60%, następny plan jest łatwiejszy. Jeśli Twoje ostatnie 4 były lekkie (RPE 5 lub mniej) i kompletne, staje się o stopień trudniejszy, jeden stopień naraz. Zasady dotyczące bólu mają pierwszeństwo przed wynikami, ukończone treningi nigdy nie są zmieniane, a obciążenie wybierasz sam."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: praktyczne wskazówki",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

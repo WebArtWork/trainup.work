@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Cum se dezvoltă abilitățile",
+			"text": "La început, trebuie să te gândești la pozițiile de bază și la ordine: unde pui picioarele, cum miști șoldurile, cum îți ghidezi coatele. Cu practica, mișcările devin mai constante și cer mai puțină atenție. La nivel avansat, poți adapta mișcarea învățată la sarcini și situații diferite, ceea ce cere mai mult decât memorarea unei repetări perfecte la vedere."
+		},
+		{
+			"title": "Calitatea practicii",
+			"text": "Repetările frecvente și precise, cu o sarcină pe care o poți controla, îți oferă o învățare mai utilă decât încercările haotice, la efort maxim, făcute din când în când. Începe cu o variantă a exercițiului pe care o poți controla. Avansează prin amplitudine, rezistență, cerințe de echilibru sau viteză doar după ce varianta curentă poate fi repetată."
+		},
+		{
+			"title": "Indicii externe și interne",
+			"text": "Un indiciu intern poate fi „încordează fesierii”, iar unul extern poate fi „împinge podeaua de la tine”. Indicii diferite funcționează pentru oameni și mișcări diferite. Folosește câte un indiciu scurt pe rând, pentru că o duzină de instrucțiuni despre părți ale corpului într-o singură repetare sunt prea multe de gestionat."
+		},
+		{
+			"title": "Feedback",
+			"text": "Un video dintr-un unghi util poate arăta o adâncime inegală, probleme de echilibru sau o mișcare nedorită a trunchiului, deși unghiurile camerei pot induce în eroare. O oglindă te poate ajuta să îți simți poziția, dar nu trebuie să te uiți la ea tot timpul. Un antrenor merită pentru ridicările complexe necunoscute sau pentru problemele de tehnică care revin mereu."
+		},
+		{
+			"title": "Oboseala schimbă învățarea",
+			"text": "Oboseala mare poate reduce precizia, deci fă exercițiile noi sau cele de îndemânare mare aproape de începutul antrenamentului. Mai târziu în sesiune se potrivesc mai bine exercițiile familiare și mai simple. Încheie o serie când tehnica devine necontrolată și nu trata fiecare cedare ca pe un efort productiv."
+		},
+		{
+			"title": "Folosind TrainUp",
+			"text": "Pagina fiecărui exercițiu din Exerciții are fotografii, pași și note de tehnică, iar planul alege exerciții potrivite nivelului și coordonării tale. Notează repetările pe care le-ai făcut de fapt și folosește notițele antrenamentului ca să scrii dacă au fost controlate."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Principiile progresiei ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

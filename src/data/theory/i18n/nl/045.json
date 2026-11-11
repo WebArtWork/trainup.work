@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Kies een herhalingsbereik",
+			"text": "Kies een oefening, een aantal sets en een bereik, bijvoorbeeld drie sets van 8–12 herhalingen. Begin met een gewicht waarmee je de onderkant van het bereik haalt met stabiele techniek en nog een paar herhalingen in reserve. Het bereik hoeft niet 8–12 te zijn. Je doel en de oefening bepalen de grenzen."
+		},
+		{
+			"title": "Verdien de gewichtsverhoging",
+			"text": "Doe eerst gedurende meerdere trainingen meer goede herhalingen met hetzelfde gewicht. Zodra elke set de bovenkant van het bereik haalt met de inspanning die je gepland had, voeg je de kleinste gewichtsstap toe die je hebt. Je herhalingen zakken meestal weer naar de onderkant en de cyclus begint opnieuw."
+		},
+		{
+			"title": "Voorbeeld",
+			"text": "Week 1: dumbbell rows met 12 kg voor 10, 9, 8. Week 2: 11, 10, 9. Week 3: 12, 12, 12 met stabiele controle. Week 4: probeer 14 kg voor 9, 8, 8, als je die sprong met goede vorm aankunt. Deze getallen laten zien hoe het kan gaan. Je hoeft niet elke week te verbeteren."
+		},
+		{
+			"title": "Wanneer je de regel aanpast",
+			"text": "Een grote gewichtssprong kan te zwaar zijn, vooral voor kleine spieren of met beperkte thuisuitrusting. Blijf dan op je huidige gewicht, voeg totale herhalingen toe of kies een tussenvariant. Voelt een training ongewoon vermoeiend, herhaal dan het laatste doel en bewaar de opbouw voor later. Echte vooruitgang gaat vaak op en neer."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Je schema geeft elke oefening sets en een herhalingsdoel, en tijdens een training leg je de herhalingen vast die je in elke set afrondt. TrainUp schrijft geen gewichten voor, dus jij beslist wanneer je gewicht toevoegt. Als je in elke set de bovenkant van het bereik haalt, controleer dan je RPE en je techniek voordat je zwaarder gaat."
+		}
+	],
+	"sources": [
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: basis van veiligheid en krachttraining",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: techniek bij krachttraining (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

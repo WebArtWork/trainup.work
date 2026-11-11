@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Négytagú jelölés",
+			"text": "A tempót gyakran négy számmal írják: a leengedő szakasz, a szünet alul, az emelő szakasz és a szünet felül. Guggolásnál a 3-1-1-0 azt jelenti, hogy három másodperc alatt engedsz le, egy másodpercet pihensz alul, egy másodperc alatt emelkedsz, és rögtön kezded a következő ismétlést. Nem minden rendszer sorolja fel a szakaszokat ugyanabban a sorrendben, ezért az utasításnak meg kell mondania, melyik jelölést használja."
+		},
+		{
+			"title": "Miért segít a kontroll",
+			"text": "A lassú leengedő szakasz megakadályozhatja a pattogást, felfedheti az egyensúlyi problémákat, és a könnyű terheléseket is elég nehézzé teheti a készséggyakorláshoz. Egy rövid szünet segíthet érezni a helyzetedet egy elakadási ponton. A szándékosan gyors emelés segítheti az erő- vagy teljesítménymunkát, ha a technikád biztonságos, és a terhelés megfelelő."
+		},
+		{
+			"title": "Tempó és hipertrófia",
+			"text": "A kutatások nem mutatták ki, hogy a nagyon lassú ismétlések megbízhatóan több növekedést adnának. A 2026-os ACSM állásfoglalás szerint a feszülésben töltött idő nem volt következetes tényező, amikor különböző edzésterveket hasonlítottak össze. A rendkívül lassú végrehajtás csökkentheti a terhelést vagy az elvégzett összes ismétlést, és ellene dolgozhat a fő célodnak."
+		},
+		{
+			"title": "Példa",
+			"text": "Ha csípőhajlítást tanulsz, a súlyzó két-három másodperc alatti leengedése időt ad, hogy közel tartsd a súlyt, és érezd, ahogy a csípőd hátramozdul. Ha a minta már következetes, elég lehet a normális, kontrollált sebesség. Egy medicinlabda-dobás vagy egy ugrás gyors akar lenni, ezért ne lassítsd."
+		},
+		{
+			"title": "Sorozatok összehasonlítása",
+			"text": "A fejlődés megítélésekor hasonló tartománnyal és sebességgel végzett sorozatokat hasonlíts össze. A súly növelése a leengedés lerövidítése mellett nem biztos, hogy valódi javulás. Hacsak egy készség nem kér rögzített tempót, az egyenletes, kontrollált ismétlésekre és a fő célodra figyelj, és ne számold minden másodpercet."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Az ismétlési kontinuum áttekintése",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

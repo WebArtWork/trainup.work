@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Porque é que os hábitos importam",
+			"text": "A força, a capacidade cardiovascular e a competência de movimento desenvolvem-se com prática repetida. Um treino que parece ótimo no papel é inútil se for demasiado longo, inconveniente ou desagradável de repetir. Isso faz da frequência e da adesão parte do desenho do programa, e não apenas uma questão de motivação."
+		},
+		{
+			"title": "Associe o treino a um sinal",
+			"text": "Ligue o treino a algo que já acontece ou a um compromisso fixo: “Depois do trabalho à segunda e à quinta, faço a minha sessão de 25 minutos.” Prepare com antecedência a roupa, o espaço ou o equipamento. Torne o primeiro passo minúsculo, como calçar os ténis e começar um aquecimento de cinco minutos, para não depender do entusiasmo."
+		},
+		{
+			"title": "Tenha uma sessão mínima",
+			"text": "Num dia ocupado, uma variação de agachamento, um exercício de empurrar ou puxar e uma caminhada curta podem manter o hábito vivo. O mínimo não é um substituto permanente do treino progressivo. A sua função é evitar que um dia falhado se transforme em várias semanas falhadas. Registe o que realmente fez e não marque um treino encurtado como completo."
+		},
+		{
+			"title": "Lide com os contratempos com calma",
+			"text": "Uma sessão falhada não apaga as adaptações anteriores. Retome no treino planeado seguinte e não duplique a carga para “compensar” o treino em falta. Após doença, fadiga intensa ou uma longa pausa, reduza a intensidade e o volume até a sua tolerância habitual voltar."
+		},
+		{
+			"title": "Verifique o seu ambiente",
+			"text": "Dormir mal, uma deslocação complicada ao ginásio, equipamento a que não consegue chegar e sessões demasiado longas podem minar a consistência. Corrigir isto pode ajudar mais do que encontrar um exercício novo. Gostar do treino e escolhê-lo por si também tornam uma rotina mais fácil de manter."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "Defina no Perfil um número realista de dias de treino e os seus dias preferidos, e indique o espaço e o equipamento para que o plano escolha apenas exercícios adequados. Os lembretes de treino no Hoje podem ser o seu sinal. O Histórico mostra os treinos desta semana e o total, e o progresso conta ao longo de muitas semanas, por isso não precisa de uma sequência perfeita."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: hábitos e planeamento da atividade",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		},
+		{
+			"label": "Recomendações de atividade da OMS",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

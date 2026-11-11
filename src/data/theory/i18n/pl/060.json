@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co oferują maszyny",
+			"text": "Maszyny z obciążeniem wybieranym często prowadzą tor ruchu i mogą zmniejszać potrzebę utrzymywania równowagi. Może to pomóc początkującemu skupić się na kontrolowanym pchaniu lub ciągnięciu. Niektóre maszyny lepiej pasują do określonych rozmiarów ciała, więc prowadzony tor nie jest wygodny dla każdego."
+		},
+		{
+			"title": "Ustaw stanowisko",
+			"text": "Wyreguluj wysokość siedziska, oparcie i podkładki tak, aby staw roboczy rozsądnie pokrywał się z ruchomymi częściami i abyś mógł sięgnąć do uchwytu bez wysiłku. Wykonaj lekką próbną serię, zanim wybierzesz obciążenie robocze. Trzymaj dłonie z dala od stosu ciężarów, miejsc zgniatania i ruchomych ramion oraz opuszczaj opór powoli. Siłownie mają różny sprzęt, więc sprawdź dokładnie swoją maszynę lub stanowisko z linkami i przejdź na opcję z wolnym ciężarem, gumą lub masą ciała, jeśli nie możesz wyregulować maszyny tak, by było wygodnie."
+		},
+		{
+			"title": "Czym różnią się wyciągi",
+			"text": "Systemy linkowe pozwalają ciągnąć z kilku kierunków, z napięciem wzdłuż linki. Dobrze sprawdzają się przy wiosłowaniu, ściąganiu, wyciskaniu i ćwiczeniach przeciw rotacji. Opór wyciągu nie jest dokładnie stały przy każdym kącie stawu, bo dźwignia i kierunek linki zmieniają się w trakcie ruchu."
+		},
+		{
+			"title": "Porównanie narzędzi",
+			"text": "Wolne ciężary wymagają od Ciebie samodzielnego stabilizowania obciążenia, a maszyny mogą ułatwić naukę niektórych ćwiczeń lub precyzyjne ich obciążanie. Oba mogą budować siłę i masę mięśniową, gdy wysiłek i progresja są właściwe. Maszyna nie chroni automatycznie kontuzjowanego lub bolącego stawu. Jeśli objawy się utrzymują, zgłoś się do lekarza lub fizjoterapeuty."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: wolne ciężary a maszyny",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: technika treningu z obciążeniem (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

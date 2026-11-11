@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Săptămâna unu: învață rutina",
+			"text": "Alege două sesiuni scurte pentru tot corpul și fă plimbări ușoare în celelalte zile, dacă te simți în stare. Exersează tiparele de bază de genuflexiune, balansare din șold, împingere, tragere și trunchi cu mișcări care se potrivesc cu echipamentul și corpul tău. O primă sesiune poate fi una sau două serii din câteva exerciții."
+		},
+		{
+			"title": "Săptămânile două până la patru: repetă și observă",
+			"text": "Păstrează aceleași exerciții, apoi adaugă încet repetări, puțină sarcină sau o serie în plus, dacă te refaci bine. Creșterile mici pe care le poți menține te ajută să capeți încredere. Nu citi fiecare senzație nouă sau fiecare urmă de durere musculară ca pe un motiv să schimbi tot planul."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Luni și joi, fă genuflexiuni controlate la scaun, ramat sprijinit, flotări la perete și o menținere scurtă pentru trunchi. Adaugă o plimbare confortabilă în altă zi. Dacă o mișcare este prea grea, alege o variantă mai ușoară. Dacă este foarte ușoară, fă-o treptat mai grea, păstrând controlul."
+		},
+		{
+			"title": "La ce să te aștepți la început",
+			"text": "Câștigurile timpurii de forță vin adesea din îndemânare mai bună și din coordonarea dintre nervi și mușchi, iar schimbările fizice se văd mai mult în timp. Un antrenament ratat nu îți șterge progresul. Reia pur și simplu la următoarea sesiune planificată."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Setează-ți sincer nivelul de pregătire în Profil, împreună cu echipamentul pe care îl ai și durata sesiunii. După fiecare antrenament, evaluează-ți efortul (RPE). Planul tău se schimbă doar când îl regenerezi și niciodată pe baza a mai puțin de 3 antrenamente. Dacă ultimele tale 4 au fost ușoare (RPE 5 sau mai puțin) și complete, următorul plan devine cu un pas mai greu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Ghid practic ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: mersul pentru sănătate",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

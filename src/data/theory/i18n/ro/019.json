@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Cum citești o prescripție",
+			"text": "„3 × 8–12, pauză 90 s” înseamnă trei serii de lucru de opt până la douăsprezece repetări controlate, cu aproximativ 90 de secunde între serii. Seriile de încălzire sunt separate, dacă planul nu spune că le numără. La un exercițiu cu o singură parte (unilateral), verifică dacă „10 repetări” înseamnă pe fiecare parte sau în total."
+		},
+		{
+			"title": "Ce face pauza",
+			"text": "Pauza îți permite să îți refaci parțial substraturile de energie, respirația și capacitatea de a produce forță. Când prioritatea este forța maximă, câteva minute între seriile grele, de obicei aproximativ două până la cinci, te pot ajuta să îți păstrezi sarcina și calitatea repetărilor. Pentru creșterea musculară, aproximativ unu până la trei minute este un interval practic, deși contează mai mult să te refaci destul ca seriile să rămână productive decât un cronometru strict. Pauzele scurte pot fi utile la lucrul ușor de rezistență sau în circuite, dar pot scădea performanța în seriile următoare."
+		},
+		{
+			"title": "Obiectivele schimbă combinația",
+			"text": "Cinci repetări grele cu pauză lungă antrenează altceva decât douăzeci de repetări mai ușoare cu pauză scurtă. Niciun tipar nu este mai bun pentru orice. Contează și exercițiul, pentru că genuflexiunile grele cer de obicei mai multă refacere decât ridicările laterale ușoare."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Să zicem că faci 10, 9 și 7 flotări pentru că pauzele de 30 de secunde sunt prea scurte. Dacă vrei un lucru bun de forță sau de hipertrofie, o pauză de 90–120 de secunde te poate lăsa în intervalul planificat de repetări. Dacă scopul este condiția fizică, oboseala de la pauza scurtă poate fi intenționată."
+		},
+		{
+			"title": "Folosind TrainUp",
+			"text": "Fiecare exercițiu din planul tău vine cu serii, repetări sau timp de menținere și pauză, iar cronometrul de pauză numără pauza pentru tine. Respectă-le, dar pune pe primul loc tehnica sigură. Notează repetările pe care le-ai făcut de fapt și evaluează apoi efortul sesiunii. Dacă seriile de la sfârșit rămân mult sub țintă, uită-te la sarcină, la durata pauzei și la volumul total al sesiunii."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Studiu despre pauza dintre serii și volum",
+			"url": "https://doi.org/10.1519/jsc.0000000000003668"
+		}
+	]
+}

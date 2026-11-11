@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Možné náhrady",
+			"text": "Uzavřený batoh s obsahem rovnoměrně rozloženým může přidat odpor ke dřepu nebo nošení zátěže. Lahve s vodou fungují jako lehké ruční váhy a pevný schod může nahradit nízkou cvičební plošinu. Tyto předměty nemají standardní velikost ani označení hmotnosti, takže se zátěž a rovnováha mohou bez varování změnit."
+		},
+		{
+			"title": "Nábytek je velké riziko",
+			"text": "Jídelní židle může při dipech, výstupech na bednu nebo klicích s vyvýšením klouzat nebo se převrhnout a mnoho stolů neunese přítah s vlastní vahou zpod hrany. Nikdy nepředpokládejte, že běžný stůl, ručník, klika dveří nebo police udrží vaši tělesnou hmotnost. Pokud nastavení závisí na síle nebo ukotvení, jehož si nejste jistí, zvolte jiný cvik."
+		},
+		{
+			"title": "Zkontrolujte každý předmět",
+			"text": "Ujistěte se, že povrch neklouže, nádoba neprosakuje ani nemá rozbité rukojeti a popruhy batohu se netrhají. Rozložte váhu tak, aby se náhle nehoupala. Vyhněte se skleněným nádobám, ostrým kovovým hranám a volným hromádkám knih. Trénujte na volné podlaze mimo dosah čehokoli rozbitného."
+		},
+		{
+			"title": "Postupujte pomalu",
+			"text": "Začněte jednoduchým pohybem a malou zátěží. Pomalá, opakovatelná opakování jsou lepší než složité balancování. Pokud předmět nedokážete spolehlivě zvážit, zapište si nastavení a přibližnou představu o odporu místo přesného čísla. Každé zvýšení držte tak malé, abyste zůstali pod kontrolou."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Domácí předmět není lavice, stojan, hrazda ani stanoviště s kladkou. V Profilu zadejte typ lavice nebo hrazdu jen pro skutečné vybavení. Když si nejste jistí, že je kus nábytku bezpečný, vyberte cviky s vlastní vahou, které nepotřebují oporu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: bezpečnost a technika posilování",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

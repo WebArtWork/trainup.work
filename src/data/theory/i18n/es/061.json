@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tipos de montaje",
+			"text": "Las barras de palanca para marcos de puerta, las barras de tensión extensibles, las barras fijas de pared y las barras de techo se instalan cada una de manera distinta. Una barra vendida como «compatible con marcos de puerta» no encajará en todos los marcos, paredes o molduras. Algunos tipos necesitan fijaciones estructurales en soportes sólidos, y otros dependen de una forma concreta de marco."
+		},
+		{
+			"title": "Comprueba la capacidad y la estructura",
+			"text": "Lee las instrucciones del fabricante y el límite de peso, incluido si se permiten movimientos dinámicos. Cuenta todo tu peso corporal más la fuerza extra de balancearte o tirar. Inspecciona los tornillos, los soportes, el acolchado y las superficies que la barra toca o tiene cerca. Si no estás seguro de la estructura del edificio o del método de montaje, consulta a un instalador cualificado."
+		},
+		{
+			"title": "Pruébala paso a paso",
+			"text": "Antes de colgarte por completo, asegúrate de que la barra está bien asentada y no puede girar, deslizarse ni moverse. Mantén los pies en el suelo y presiona hacia abajo con suavidad y con control. Pasa a una suspensión parcial y después a una suspensión completa con apoyo solo cuando sepas que la instalación es sólida. Una prueba breve no puede demostrar que un herraje dañado o un marco inadecuado sean seguros."
+		},
+		{
+			"title": "Peligros habituales",
+			"text": "No sujetes bandas ni hagas dominadas con kipping, con balanceo o con peso a menos que el producto esté diseñado e instalado exactamente para eso. Deja espacio para la cabeza, los codos y los pies, sin cristales ni muebles con aristas cerca. Deja de usar una barra que cruja, resbale, se doble o se afloje."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "En Perfil, marca tu barra de dominadas como instalada de forma segura solo después de haber comprobado todo lo anterior. Hasta entonces, tu plan deja fuera los ejercicios que necesitan la barra, y los remos o los ejercicios con banda con un anclaje seguro entrenan la misma tracción. Si estás empezando, las suspensiones con apoyo, las tracciones escapulares o las dominadas asistidas son buenos primeros pasos cuando la barra sea segura."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: seguridad y técnica en el entrenamiento con pesas",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

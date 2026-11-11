@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Préparez-vous avant de charger la barre",
+			"text": "Vérifiez que le banc, le rack, la barre, les colliers et le sol conviennent à l’exercice. Dans un rack à squat, des goupilles ou des sangles de sécurité réglées à la bonne hauteur rattrapent la barre si vous ne pouvez pas vous relever avec. Si vous vous entraînez seul, ne tentez pas de développés couchés proches du maximum sans protections."
+		},
+		{
+			"title": "Ce que fait un pareur",
+			"text": "Avant un développé couché à la barre, convenez avec votre pareur si vous voulez une aide au décrochage, à quel moment il doit commencer à vous aider et quelles consignes vous utiliserez. Un pareur doit pouvoir aider et ne doit pas vous distraire. Un seul pareur inexpérimenté ne peut pas garantir votre sécurité sous une très lourde charge."
+		},
+		{
+			"title": "Lâcher la charge dépend du matériel",
+			"text": "Les plateformes d’haltérophilie et les disques bumper sont conçus pour certaines chutes contrôlées. Les sols de maison, les salles bondées et les haltères réglables ne le sont peut-être pas. Ne vous entraînez jamais à des lâchers d’urgence improvisés près de personnes ou de matériel fragile. Avant de tenter des charges difficiles, apprenez auprès d’un instructeur qualifié la méthode de dégagement adaptée à votre matériel."
+		},
+		{
+			"title": "Réduire le besoin d’être secouru",
+			"text": "Gardez des répétitions en réserve, choisissez une charge que vous contrôlez et utilisez une version sur machine ou aux haltères quand elle convient mieux à votre installation. Vous n’avez pas besoin de vous entraîner jusqu’à l’échec musculaire pour progresser, surtout sur les mouvements complexes."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "TrainUp ne suppose pas que vous avez un pareur, un rack ou un endroit sûr pour lâcher les poids. Le programme ne choisit que des exercices adaptés à l’équipement et à l’espace que vous indiquez dans Profil, donc gardez ces réglages exacts. Il ne prescrit pas non plus de poids : vous choisissez la charge."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026 : conseils pratiques",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

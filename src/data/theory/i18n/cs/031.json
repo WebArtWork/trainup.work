@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Co vzorce popisují",
+			"text": "Dřep především ohýbá a natahuje kyčle, kolena a kotníky společně. Hinge se odehrává hlavně v kyčlích, zatímco výpady a výstupy na bednu zatěžují jednu nohu po druhé. Tlak odsouvá odpor od těla a přítah ho přibližuje k tělu. Při nošení zátěže držíte břemeno stabilně a chodíte, cviky na střed těla kladou odpor pohybu trupu nebo ho vytvářejí a lokomoce zahrnuje chůzi, běh a podobné pohyby."
+		},
+		{
+			"title": "Proč na vzorcích záleží",
+			"text": "Jedno cvičení může trénovat několik svalů a vzorců najednou. Goblet dřep trénuje nohy a trup a nošení zátěže trénuje úchop, držení těla a mechaniku chůze. Třídění cviků podle vzorců ukáže mezery, které seznam rozdělený jen na prsa, paže a nohy může přehlédnout. Každý vzorec nepotřebujete v každém tréninku."
+		},
+		{
+			"title": "Sestavení vyváženého týdne",
+			"text": "V rámci dvou nebo tří tréninků celého těla může začátečník zařadit dřep, hinge, horizontální tlak, horizontální přítah, výpad a jednoduchý cvik proti rotaci nebo proti prohýbání. Vertikální tlak, vertikální přítah a nošení zátěže mohou přijít, až to dovolí vybavení, pohyblivost a cíle. Dávku každého vzorce držte dost malou, abyste se z ní zregenerovali, a cviky, které nepotřebujete, vynechte."
+		},
+		{
+			"title": "Přizpůsobte vzorce schopnostem",
+			"text": "Každý vzorec má lehčí i těžší varianty. Dřep na židli může předcházet goblet dřepu a klik o zeď klikům na podlaze. Přítah na kladce i přítah s jednoručkou jsou horizontální přítahy, ale vyžadují jinou rovnováhu a vybavení. Pokud pohyb způsobuje nepohodlí nebo působí nestabilně, změňte variantu a vzorec zachovejte."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Stránka každého cviku v části Cviky ukazuje jeho pohybový vzorec, takže si můžete ověřit, jak je váš plánovaný týden pokrývá. Pokud je ve většině tréninků tlak a téměř žádný přítah, mezeru zaplní přítah nebo stahování, které odpovídá vašemu vybavení a omezením. Míříte na dobré pokrytí v průběhu týdnů, ne na dokonalý poměr v každém tréninku."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

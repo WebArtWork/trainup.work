@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Come si sviluppano le abilità",
+			"text": "All’inizio devi pensare a posizioni e ordine di base: dove mettere i piedi, come muovere le anche, come guidare i gomiti. Con la pratica i movimenti diventano più costanti e richiedono meno attenzione. A livello avanzato puoi adattare il movimento appreso a carichi e situazioni diverse, il che richiede più che memorizzare una ripetizione dall’aspetto perfetto."
+		},
+		{
+			"title": "Qualità della pratica",
+			"text": "Ripetizioni accurate e frequenti con un carico che riesci a controllare ti danno un apprendimento più utile di tentativi occasionali, caotici e a tutta forza. Parti da una versione dell’esercizio che riesci a controllare. Progredisci con ampiezza, resistenza, richieste di equilibrio o velocità solo quando la versione attuale è ripetibile."
+		},
+		{
+			"title": "Indicazioni esterne e interne",
+			"text": "Un’indicazione interna può essere «contrai i glutei», e una esterna «spingi via il pavimento». Indicazioni diverse funzionano per persone e movimenti diversi. Usa una sola indicazione breve alla volta, perché una dozzina di istruzioni sulle parti del corpo in una ripetizione sono troppe da gestire."
+		},
+		{
+			"title": "Feedback",
+			"text": "Un video da un’angolazione utile può mostrare profondità irregolare, problemi di equilibrio o movimenti indesiderati del busto, anche se le angolazioni della camera possono ingannare. Uno specchio può aiutarti a sentire la tua posizione, ma non devi guardarlo di continuo. Un allenatore vale la pena per sollevamenti complessi poco familiari o per problemi di tecnica che tornano."
+		},
+		{
+			"title": "La fatica cambia l’apprendimento",
+			"text": "Una fatica elevata può ridurre la precisione, quindi fai gli esercizi nuovi o molto tecnici vicino all’inizio dell’allenamento. Più avanti nella seduta si adattano meglio gli esercizi familiari e più semplici. Termina una serie quando la tecnica diventa incontrollata e non considerare ogni cedimento uno sforzo produttivo."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Ogni pagina di un esercizio in Esplora ha foto, passaggi e note tecniche, e il piano sceglie esercizi adatti al tuo livello e alla tua coordinazione. Registra le ripetizioni che hai fatto davvero e usa le note dell’allenamento per scrivere se erano controllate."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Principi di progressione ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

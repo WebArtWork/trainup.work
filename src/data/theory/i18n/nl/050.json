@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Begin met het doel",
+			"text": "Kies voor algemene fitheid een mix die je aankunt van squats of lunges, hinges, duwen, trekken en rompwerk. Zet voor kracht de patronen en oefeningen voorop waarbij meer kracht leveren telt. Voeg voor conditie rustige of intervalactiviteit toe die bij je niveau past. Een oefening die indrukwekkend lijkt maar je doel niet dient, heeft weinig bijzondere waarde."
+		},
+		{
+			"title": "Stem de complexiteit af op je vaardigheid",
+			"text": "Een ondersteunde machine-row kan de rug van een beginner beter trainen dan een instabiele versie met vrije gewichten. Een goblet squat kan makkelijker te leren zijn dan een zware barbell back squat. Vrije gewichten, machines, banden en lichaamsgewicht zijn allemaal geldige manieren om weerstand toe te voegen, en het standpunt van het ACSM uit 2026 noemde geen enkel type uitrusting als het beste voor iedereen."
+		},
+		{
+			"title": "Je ruimte en comfort",
+			"text": "Controleer of je genoeg vloerruimte en vrije ruimte boven je hebt, een stabiele ondergrond en goed geïnstalleerde uitrusting. Moet je geluid of impact beperken, kies dan step-ups of marcheren in plaats van springen. Voelt een gewricht onprettig, verlaag dan het gewicht of het bereik of kies een patroon dat goed voelt. Houdt pijn aan, vraag dan advies aan een arts of fysiotherapeut."
+		},
+		{
+			"title": "Houd sommige oefeningen gelijk",
+			"text": "Als je elke training van oefeningen wisselt, is het moeilijk te weten of je beter wordt. Houd een paar ankerbewegingen lang genoeg aan om vaardigheid op te bouwen en je cijfers te vergelijken, en wissel ze dan wanneer je toegang, voorkeuren of comfort veranderen of je een plateau bereikt. Variatie kan je betrokken houden, maar maakt de training op zichzelf niet effectiever."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Je schema gebruikt alleen oefeningen die passen bij je uitrusting, ruimte, plafond, ondergrond, spring- en geluidslimieten, beperkingen, niveau en coördinatie. Past geen enkel schema, dan laat TrainUp weten welke instelling het blokkeert. Bij Oefeningen kun je zoeken, op categorie filteren of het filter “past bij mij” aanzetten, en elke oefeningpagina toont het bewegingspatroon en de spieren."
+		}
+	],
+	"sources": [
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: vrije gewichten versus machines",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "NSCA: basis van veiligheid en krachttraining",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

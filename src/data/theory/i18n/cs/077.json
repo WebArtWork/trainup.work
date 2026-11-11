@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tréninkový cíl",
+			"text": "Plyometrické cviky budují schopnost rychle vyvinout sílu; cílem není zadýchat se. Příkladem jsou malé poskoky pogo, dřepy se skokem, poskoky do stran a bounding. Rychlejší nebo vyšší skoky kladou větší nároky na koordinaci a znamenají víc nárazů, takže vaše výchozí úroveň závisí na vaší síle, kontrole přistání a tréninkové historii."
+		},
+		{
+			"title": "Nacvičte kontrolované přistání",
+			"text": "Začněte nízkými, snadnými poskoky a přistávejte tak, že se kyčle, kolena a kotníky ohnou společně. Cílem je vyvážený kontakt chodidel a kontrolovaný trup, bez zamčených kolen nebo hlasitých, nedbalých přistání. Kolena nemusí zůstat dokonale v klidu, ale neměla by náhle ztrácet kontrolu. Přestaňte, pokud pocítíte bolest nebo se stále potácíte."
+		},
+		{
+			"title": "Postupujte po jedné věci",
+			"text": "Skoky ztěžujte postupně, například od malých poskoků na obou nohách k mírným svislým skokům, než zkusíte opakované nebo jednonohé skoky. Vysoké bedny, seskoky z výšky a skoky se zátěží vyžadují víc dovednosti a jsou špatnými prvními kroky. Výšku, rychlost nebo práci na jedné noze přidejte až tehdy, když zůstanou snazší opakování spolehlivá."
+		},
+		{
+			"title": "Počítejte kvalitní kontakty",
+			"text": "Kontakty chodidel, tedy kolikrát chodidla dopadnou, se často používají k měření plyometrického objemu dolní poloviny těla. Jako začátečník můžete potřebovat jen malý počet kontrolovaných kontaktů, i když sportovní programy uvádějí vyšší součty. Mezi krátkými sériemi dostatečně odpočívejte. Vyčerpávající skokový okruh nebuduje výbušnost tak, jak to dělají svěží, výbušná opakování."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Plán zahrnuje skokové cviky jen tehdy, když váš Profil dovoluje skákání a hluk, který způsobují, a váš povrch a velikost plochy jim vyhovují. Počítá se i vaše úroveň. Pokud něco z toho nevyhovuje, trénujte silovými cviky nebo kondičními cviky s nízkým nárazem. Pokud přistání bolí, klepněte na „Cítím bolest“: cvik se okamžitě ukončí a zůstane mimo vaše plány, dokud ho nevrátíte v Profilu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Shrnutí doporučení ACSM 2026 k silovému tréninku",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

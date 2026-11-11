@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Possíveis substitutos",
+			"text": "Uma mochila fechada com o conteúdo distribuído de forma uniforme pode acrescentar resistência a um agachamento ou a uma caminhada com carga. As garrafas de água servem como pesos leves de mão e um degrau robusto pode substituir uma plataforma de exercício baixa. Estes objetos não têm tamanho nem marcações de peso padrão, por isso a carga e o equilíbrio podem mudar sem aviso."
+		},
+		{
+			"title": "O mobiliário é um grande risco",
+			"text": "Uma cadeira de sala de jantar pode deslizar ou tombar em mergulhos, subidas a um degrau ou flexões inclinadas, e muitas mesas não aguentam uma remada com o peso do corpo puxada por baixo do tampo. Nunca assuma que uma mesa vulgar, uma toalha, um puxador de porta ou uma prateleira aguentam o peso do seu corpo. Se uma montagem depender de uma força ou de uma fixação de que não tem certeza, escolha outro exercício."
+		},
+		{
+			"title": "Verifique cada objeto",
+			"text": "Certifique-se de que a superfície não escorrega, de que o recipiente não tem fugas nem pegas partidas e de que as alças da mochila não estão a rasgar. Distribua o peso para que não balance de repente. Evite recipientes de vidro, arestas metálicas afiadas e pilhas soltas de livros. Treine num chão livre, longe de qualquer coisa que se possa partir."
+		},
+		{
+			"title": "Progrida devagar",
+			"text": "Comece com um movimento simples e uma carga pequena. Repetições lentas e repetíveis são melhores do que equilíbrios difíceis. Se não conseguir pesar o objeto de forma fiável, anote a montagem e uma ideia aproximada da resistência em vez de um número preciso. Mantenha cada aumento pequeno o suficiente para continuar a ter controlo."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "Um objeto doméstico não é um banco, um rack, uma barra fixa nem um posto de polia. No Perfil, indique um tipo de banco ou uma barra fixa só para o equipamento real. Quando não puder ter a certeza de que um móvel é seguro, escolha exercícios com o peso do corpo que não precisem de apoio."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: segurança e técnica no treino com pesos",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Biblioteca de exercícios da ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

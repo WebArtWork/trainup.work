@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Zmierz powierzchnię",
+			"text": "Zanotuj długość i szerokość wolnej podłogi, która jest zwykle mniejsza niż sam pokój. Uginanie przedramion w staniu wymaga dość niewiele miejsca, a wykrok chodzony lub ćwiczenie na podłodze mogą wymagać miejsca na wyciągnięcie rąk i nóg. Zostaw dodatkowe miejsce wokół poruszanych ciężarów i pomyśl o tym, jak ćwiczenie się zaczyna i kończy."
+		},
+		{
+			"title": "Myśl trójwymiarowo",
+			"text": "Przysiad lub wiosłowanie w staniu wymaga miejsca po bokach na łokcie i sprzęt. Pompka lub martwy robak wymaga miejsca na podłodze o długości Twojego ciała. Swing z kettlebell wymaga otwartej przestrzeni z przodu, z tyłu i wokół kettlebell, a wyciskanie nad głową lub skoki wymagają miejsca w pionie."
+		},
+		{
+			"title": "Ukryte przeszkody",
+			"text": "Uważaj na niskie stoły, wiszące lampy, ostre rogi, grzejniki, zwierzęta domowe, kable, dywany i drzwi otwierające się do Twojej strefy. Sprawdź, czy podłoga nadal jest antypoślizgowa po rozłożeniu maty. Jeśli ledwo możesz wykonać jedno powtórzenie bez dotykania mebli, przestrzeń jest zbyt ciasna na pełny trening."
+		},
+		{
+			"title": "Plan na małe przestrzenie",
+			"text": "W wąskiej przestrzeni wykonuj przysiady ze statycznym rozkrokiem w miejscu zamiast wykroków chodzonych, a ćwiczenia górnej części ciała w siadzie lub na podłodze zamiast dużych ruchów na boki. Jeśli pokój jest zbyt mały na noszenie z obciążeniem, wykonuj ćwiczenia przeciw zgięciu bocznemu w miejscu. Zachowaj wzorzec ruchowy i pozwól zmienić się konkretnemu ćwiczeniu."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Wpisz w Profilu rozmiar podłogi i wysokość sufitu. Plan wybierze wtedy tylko ćwiczenia, których ruch, wraz ze sprzętem, mieści się w tej przestrzeni."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: bezpieczeństwo i technika treningu z obciążeniem",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

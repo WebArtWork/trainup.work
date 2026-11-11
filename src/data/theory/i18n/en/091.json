@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Why fluids matter",
+			"text": "Your body uses water to carry nutrients, circulate blood, control temperature and replace what you lose in sweat. Even mild dehydration may make hard exercise feel harder, especially in warm weather. No single amount fits every athlete or every workout."
+		},
+		{
+			"title": "Before and during a workout",
+			"text": "Start reasonably well hydrated and keep water nearby, especially for long or hot sessions. For ordinary short sessions, drinking when you feel thirsty is often enough. Heat, long hard activity and unusually heavy sweating may call for a personal drinking plan. Replacing electrolytes can matter during long exercise, but a short gym workout doesn’t automatically need it. If the heat makes a workout unsafe, train less or move somewhere cooler."
+		},
+		{
+			"title": "Drinking too much",
+			"text": "Drinking large amounts regardless of thirst or sweat loss can dilute the sodium in your blood and cause exercise-associated hyponatremia. Gaining weight during a long endurance event can be a sign that you are drinking too much. Severe headache, confusion or vomiting during long exercise need urgent medical assessment. Drinking more is not the fix."
+		},
+		{
+			"title": "Simple checks",
+			"text": "Thirst, changes in body weight around long sessions, the weather and how long you train can all guide how much you drink. Urine color gives a rough clue, but it is not a diagnostic test. If you have a kidney or heart condition, ask your doctor for advice that fits you."
+		}
+	],
+	"sources": [
+		{
+			"label": "NATA: fluid replacement for physically active people",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5634236/"
+		},
+		{
+			"label": "Wilderness Medical Society: exercise-associated hyponatremia",
+			"url": "https://journals.sagepub.com/doi/full/10.1016/j.wem.2019.11.003"
+		}
+	]
+}

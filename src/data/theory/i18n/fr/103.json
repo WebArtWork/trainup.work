@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "La complexité d’un exercice",
+			"text": "Un rowing guidé sur machine suit une trajectoire stable. Un soulevé de terre roumain sur une jambe demande de l’équilibre, du contrôle du tronc et de la coordination des hanches, et un swing de kettlebell ajoute de la vitesse et du timing. Vous pouvez être très fort et rester débutant dans l’une de ces compétences."
+		},
+		{
+			"title": "Allez du prévisible vers le difficile",
+			"text": "Commencez par des positions stables et des répétitions plus lentes, et apprenez une nouvelle compétence à la fois. Rendez ensuite l’exercice plus difficile en retirant l’appui, en changeant le levier, en augmentant l’amplitude ou en ajoutant une vitesse contrôlée. Une progression doit garder le but du mouvement et éviter de modifier toutes les exigences à la fois."
+		},
+		{
+			"title": "La fatigue modifie la coordination",
+			"text": "Un exercice bien réalisé en début de séance peut devenir tremblant après de nombreuses répétitions. Faites les exercices très techniques plus tôt, reposez-vous plus longtemps si besoin et terminez une série quand votre équilibre ou votre contrôle faiblit. Les exercices balistiques complexes sont généralement un mauvais premier choix pour un débutant fatigué."
+		},
+		{
+			"title": "Exemple",
+			"text": "Si vous apprenez les fentes, vous pouvez commencer par des squats bulgares en vous tenant à une rampe, passer à des fentes arrière sans appui, puis essayer plus tard les fentes marchées. Une variante plus rapide n’est pas automatiquement meilleure."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Quand TrainUp construit votre programme, il choisit des exercices adaptés à votre niveau et à votre coordination, ainsi qu’à vos limitations et à votre équipement."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026 : conseils pratiques",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Prepara ogni postazione",
+			"text": "Controlla la panca, il rack, la macchina o l’accessorio prima di caricarli. Regola correttamente sedili e barre di sicurezza, usa i fermadischi dove servono e assicurati che i dischi siano fissati da entrambi i lati. Tieni borse e accessori sciolti fuori dai passaggi. Se non sai come funziona una macchina, chiedi al personale di mostrartela."
+		},
+		{
+			"title": "Condividi lo spazio",
+			"text": "Rimetti a posto manubri e dischi, pulisci l’attrezzatura come chiede la palestra e riporta gli accessori dei cavi. Non occupare più macchine insieme nelle ore di punta. Chiedi con gentilezza se puoi alternarti e accordati su come cambiare in sicurezza il peso o il sedile prima di condividere una postazione."
+		},
+		{
+			"title": "Spotter e sicurezze",
+			"text": "Per panca piana o squat impegnativi, imposta i bracci di sicurezza quando puoi e usa uno spotter che sappia cosa fa quando ne hai bisogno. Non contare sul fatto che uno sconosciuto vicino si accorga di una ripetizione fallita. Esercitati a preparare un rack con carichi leggeri prima di sollevare pesante e non entrare mai nel percorso di sollevamento di qualcun altro."
+		},
+		{
+			"title": "Periodi affollati",
+			"text": "Tieni un’alternativa per l’attrezzatura più richiesta: un rematore con manubrio può sostituire un rematore al cavo, e un goblet squat può sostituire uno squat al rack se il carico è ancora adatto. Il tuo allenamento non dipende dall’avere una particolare postazione. Una preparazione frettolosa o affollata non è comunque un motivo per sacrificare la tecnica o saltare il riscaldamento."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: sicurezza e tecnica dell’allenamento coi pesi",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Libreria di esercizi ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

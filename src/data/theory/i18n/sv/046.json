@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Helkroppsprogram",
+			"text": "Ett helkroppspass tränar flera stora rörelsemönster samma dag. Två eller tre dagar i veckan fungerar ofta bra för nybörjare och upptagna personer. Du övar huvudövningarna ofta utan att behöva många gymbesök. Passen kan bli långa om du tar med för många rörelser."
+		},
+		{
+			"title": "Över-/underkroppsprogram",
+			"text": "Ett över-/underkroppsupplägg växlar mellan överkropps- och underkroppspass, ofta över fyra pass i veckan. Det ger plats för fler övningar och set, med återhämtningstid mellan liknande pass. En roterande version på tre dagar fungerar också, och kalendern behöver inte upprepas exakt varje vecka."
+		},
+		{
+			"title": "Muskelgruppssplittar",
+			"text": "En kroppsdelssplit kan träna bröst och triceps en dag, rygg och biceps en annan och ben en tredje. Dessa program gör höga träningsvolymer lättare att få in. När veckans arbete är liknande är ingen split bättre för muskeltillväxt än en annan. En dåligt utformad split kan lämna vissa muskler otränade för länge."
+		},
+		{
+			"title": "Välj efter dina begränsningar",
+			"text": "Med två dagar är helkropp ett praktiskt standardval. Med tre, använd helkropp eller ett roterande över-/underkroppsmönster. Med fyra, använd över-/underkropp eller två olika helkroppsdagar. Fem dagar tillåter många upplägg, men extra besök tillför lite om du inte kan hålla fast vid dem eller återhämta dig från dem. Färdighetsövning och personliga preferenser spelar också in. Välj den enklaste split som täcker dina mål, ditt schema och din utrustning, och håll koll på dina totala set per vecka. Ett femdagarsschema som ser avancerat ut är inte automatiskt bättre än en treveckorsplan som du fortsätter göra."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM:s vägledning om progressionsmodell",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NHS: vägledning om styrka och smidighet",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		}
+	]
+}

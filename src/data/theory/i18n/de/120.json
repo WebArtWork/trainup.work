@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Anstrengung und Schaden",
+			"text": "Muskelermüdung, schweres Atmen und ein vorübergehendes Brennen können zu hartem Training gehören. Stechender Schmerz, neue Gelenkbeschwerden, ausstrahlender Schmerz oder Schwindel sind keine Leistungen. Dein Körper passt sich an, wenn auf ein hartes, aber erträgliches Training genug Erholung folgt. Schmerz ist nicht das, was es wirken lässt."
+		},
+		{
+			"title": "Muskelkater ist ein schlechter Maßstab",
+			"text": "Verzögert einsetzender Muskelkater ist besonders häufig nach ungewohntem oder hartem Training. Er lässt oft nach, wenn sich dein Körper an eine Bewegung gewöhnt, während Kraft und Fitness weiter wachsen. Eine Einheit, die dich kaum Muskelkater spüren lässt, kann trotzdem produktiv sein, und zu viel Muskelkater kann es schwer machen, regelmäßig zu trainieren."
+		},
+		{
+			"title": "Fortschritt ohne Bestrafung",
+			"text": "Wähle Wiederholungen, die fordernd, aber kontrolliert sind, steigere die Trainingsanforderungen allmählich und plane Ruhe- oder leichtere Tage ein. Einen Satz mit ein paar Wiederholungen in Reserve zu beenden kann sinnvoll sein. Die Forschung zeigt nicht, dass der durchschnittliche gesunde Erwachsene immer wieder das momentane Muskelversagen erreichen muss, um lohnende Ergebnisse zu erzielen."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Ein Anfänger, der zwei Ganzkörpertrainings pro Woche macht und stetig Wiederholungen bei Kniebeugen und Liegestützen hinzufügt, kann Fortschritte machen, ohne sich nach jeder Einheit zerschlagen zu fühlen."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Nach einem Training bewertest du die Anstrengung der Einheit (RPE) und meldest Schmerzen mit Körperbereich und Übung. Wenn dir während eines Trainings etwas weh tut, nutze „Ich habe Schmerzen“, um die Übung sofort zu beenden; sie bleibt aus deinen Plänen draußen, bis du sie im Profil wieder aufnimmst. Jeder kürzliche Schmerz bedeutet, dass dein nächster Plan nicht härter wird. Neuer oder starker Schmerz ist ein Grund, aufzuhören und ihn abklären zu lassen."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Praktische Hinweise des ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: Gelenkschmerzen",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		}
+	]
+}

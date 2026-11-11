@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Bienfaits et feu vert",
+			"text": "L’ACOG indique que de nombreuses personnes ayant une grossesse sans complication peuvent poursuivre ou commencer une activité aérobie et de renforcement adaptée. Parlez de l’exercice avec votre professionnel de santé en obstétrique, surtout si vous commencez une nouvelle routine ou si vous avez des complications. Il peut vous dire si votre grossesse est médicalement sans complication. TrainUp ne le peut pas."
+		},
+		{
+			"title": "S’adapter aux changements",
+			"text": "Votre équilibre, votre tolérance à la chaleur, votre confort respiratoire et les mouvements que vous préférez peuvent changer au cours de la grossesse. Choisissez des activités confortables. Évitez la surchauffe, les activités présentant un vrai risque de chute ou de collision et les positions qui vous donnent des étourdissements. Si vous faisiez beaucoup d’exercice avant, vous pouvez peut-être poursuivre une activité exigeante avec l’accord de votre médecin, car la grossesse ne signifie pas automatiquement un repos total."
+		},
+		{
+			"title": "Signes d’alerte",
+			"text": "Arrêtez l’exercice et contactez votre professionnel de santé en obstétrique en cas de saignement vaginal, de perte de liquide, de douleur thoracique, d’étourdissements, de douleur ou de gonflement du mollet, de contractions douloureuses ou d’essoufflement inhabituel. Les symptômes d’urgence nécessitent des soins urgents. N’essayez pas de contourner des symptômes propres à la grossesse en changeant d’exercices."
+		},
+		{
+			"title": "Après l’accouchement",
+			"text": "Le moment où vous pouvez reprendre l’exercice dépend de l’accouchement, de votre récupération, des symptômes du périnée et d’autres facteurs personnels. Une marche tranquille peut convenir à certaines personnes. Une douleur persistante, des fuites, une sensation de pesanteur ou d’autres problèmes nécessitent un examen professionnel, et aucun calendrier fixe ne convient à tout le monde. TrainUp ne construit pas de programmes pour la grossesse, le périnée ou l’après-chirurgie."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACOG : exercice pendant la grossesse",
+			"url": "https://www.acog.org/womens-health/faqs/exercise-during-pregnancy"
+		},
+		{
+			"label": "ACOG : exercice pendant la grossesse et le post-partum",
+			"url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period"
+		}
+	]
+}

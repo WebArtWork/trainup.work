@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Varför vätska spelar roll",
+			"text": "Din kropp använder vatten för att transportera näringsämnen, cirkulera blod, reglera temperaturen och ersätta det du förlorar i svett. Även lätt uttorkning kan få hård träning att kännas tyngre, särskilt i varmt väder. Ingen enskild mängd passar varje idrottare eller varje pass."
+		},
+		{
+			"title": "Före och under ett pass",
+			"text": "Börja rimligt välhydrerad och ha vatten nära, särskilt vid långa eller varma pass. Vid vanliga korta pass räcker det ofta att dricka när du är törstig. Värme, lång hård aktivitet och ovanligt kraftig svettning kan kräva en personlig dryckesplan. Att ersätta elektrolyter kan spela roll vid långvarig träning, men ett kort gympass kräver inte automatiskt det. Om värmen gör ett pass osäkert, träna mindre eller flytta till en svalare plats."
+		},
+		{
+			"title": "Att dricka för mycket",
+			"text": "Att dricka stora mängder oavsett törst eller svettförlust kan späda ut natriumet i blodet och orsaka träningsrelaterad hyponatremi. Viktuppgång under ett långt uthållighetsevenemang kan vara ett tecken på att du dricker för mycket. Svår huvudvärk, förvirring eller kräkningar under långvarig träning kräver akut medicinsk bedömning. Att dricka mer är inte lösningen."
+		},
+		{
+			"title": "Enkla kontroller",
+			"text": "Törst, förändringar i kroppsvikt kring långa pass, vädret och hur länge du tränar kan alla vägleda hur mycket du dricker. Urinens färg ger en grov ledtråd, men det är inget diagnostiskt test. Om du har en njur- eller hjärtsjukdom, be din läkare om råd som passar dig."
+		}
+	],
+	"sources": [
+		{
+			"label": "NATA: vätskeersättning för fysiskt aktiva personer",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5634236/"
+		},
+		{
+			"label": "Wilderness Medical Society: träningsrelaterad hyponatremi",
+			"url": "https://journals.sagepub.com/doi/full/10.1016/j.wem.2019.11.003"
+		}
+	]
+}

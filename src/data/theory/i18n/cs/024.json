@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Čtení škály",
+			"text": "RIR 0 znamená, že byste nezvládli další úplné opakování s dohodnutou technikou a rozsahem. RIR 1 znamená možná jedno další, RIR 2 asi dvě a tak dále. V běžném systému RPE založeném na RIR pro zvedání odpovídá 0 RIR zhruba RPE série 10, 2 RIR je RPE 8 a 3 RIR je RPE 7."
+		},
+		{
+			"title": "Proč pomáhá",
+			"text": "Stejná 20kilogramová jednoruční činka může jeden den připadat lehká a druhý těžká. Odhad RIR vám umožňuje přizpůsobit se tomu, jak jste ten den připraveni, a přitom cílit na podobnou úroveň úsilí. Hodí se zejména, když se váhy zvyšují v pevných skocích nebo když cvik s vlastní vahou nelze upravovat po malých krocích."
+		},
+		{
+			"title": "Příklad",
+			"text": "Váš plán žádá tři série po 8–12 veslováních s 2 RIR. Při 12 kg uděláte 12 kontrolovaných opakování a myslíte si, že byste zvládli dalších šest, takže je zátěž pravděpodobně příliš lehká. Při 18 kg se vaše forma rozpadne u sedmého opakování, takže je příliš těžká pro tento cíl. Při 15 kg uděláte deset čistých opakování s možností asi dvou dalších, což odpovídá."
+		},
+		{
+			"title": "Meze přesnosti",
+			"text": "Začátečníci často těžko předvídají, kolik opakování jim zbývá, zejména u neznámých cviků nebo u sérií daleko od selhání. Odhad ovlivňuje také složitost cviku, délka série a únava. Časem můžete být přesnější, když své odhady občas ověříte jednou náročnou sérií provedenou bezpečně pod dohledem."
+		},
+		{
+			"title": "Plánování",
+			"text": "Ponechat si dvě nebo tři opakování v rezervě funguje dobře jako výchozí nastavení pro obecný odporový trénink. Některé cíle, cviky a úrovně zkušeností vyžadují víc nebo méně. Honba za 0 RIR u každého náročného pohybu přidává únavu a pro zisky ji nepotřebujete."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "RIR používejte k volbě zátěže a k poctivému hlídání techniky během sérií. Hodnocení úsilí, které zadáte po tréninku, se týká celého tréninku, takže vám neříká RIR jednotlivých sérií."
+		}
+	],
+	"sources": [
+		{
+			"label": "Zourdos a kol.: škála založená na RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		},
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

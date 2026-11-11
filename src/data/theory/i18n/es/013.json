@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Anatomía básica",
+			"text": "La columna tiene regiones cervical, torácica, lumbar, sacra y coccígea. Sus curvas naturales varían entre personas y cambian con la posición. En muchos levantamientos con carga, mantener la columna controlada y cerca de tu propio rango neutro cómodo es una estrategia inicial útil, sobre todo mientras estás aprendiendo."
+		},
+		{
+			"title": "Qué incluye el «core»",
+			"text": "Los abdominales, los oblicuos, los músculos más profundos del tronco, los extensores de la espalda, el diafragma y los músculos del suelo pélvico trabajan juntos para gestionar la presión y el movimiento. Flexionan el tronco y también resisten la extensión, la rotación o la flexión lateral no deseadas mientras la fuerza pasa entre tus brazos y tus piernas."
+		},
+		{
+			"title": "Bracing y hueco abdominal",
+			"text": "El bracing suele significar crear tensión alrededor de todo el tronco, como si te prepararas para un empujón suave en el estómago, mientras mantienes controlada la respiración. El hollowing (meter el abdomen) se centra en llevar la pared abdominal hacia dentro. Ambos pueden tener sus usos, pero son instrucciones distintas. Para levantar peso, el bracing coordinado suele ayudar más que limitarse a meter el estómago."
+		},
+		{
+			"title": "Presión intraabdominal",
+			"text": "El diafragma y la pared abdominal pueden crear una presión interna que ayuda a endurecer el tronco. La estrategia de respiración exacta depende de la carga y de tu experiencia. Contener la respiración de forma larga e intensa puede no convenir a personas con ciertos problemas cardiovasculares, así que, si es tu caso, pide consejo a tu médico."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "En una sentadilla goblet moderada, ponte erguido, toma aire con comodidad, tensa el torso, baja con control y suelta el aire en la parte difícil de subida si lo necesitas. En un acarreo con una maleta, mantén el tronco erguido y no dejes que el peso te tire hacia un lado."
+		},
+		{
+			"title": "Entrenar el core",
+			"text": "El trabajo de core incluye planchas, dead bugs, acarreos y los principales patrones de movimiento, además de los abdominales clásicos. Ninguna posición de la columna es segura para todo el mundo, y el bracing no compensa elegir una carga sensata."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Guía de actividad física de los CDC",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

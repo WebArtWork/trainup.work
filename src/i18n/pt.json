@@ -11,7 +11,7 @@
 	"Início",
 	"Todos os direitos reservados.",
 	"Imagem da empresa",
-	"Uma app móvel que cria um plano de treino realista de acordo com o seu objetivo, nível, equipamento, espaço livre e horário — sem prompts nem chats.",
+	"Uma app móvel que cria um plano de treino realista de acordo com o seu objetivo, nível, equipamento, espaço livre e horário, sem prompts nem chats.",
 	"App móvel de treino · em desenvolvimento",
 	"Um plano de treino realista para o seu equipamento e espaço",
 	"Escolha o objetivo, nível, horário, equipamento e espaço livre para treinar — o TrainUp cria um programa exequível, guia-o em cada treino com imagens dos exercícios e ajusta as sessões seguintes à forma como se sente.",
@@ -771,5 +771,6 @@
 	"Os seus dados",
 	"registo",
 	"registos",
-	"Sem registos"
+	"Sem registos",
+	"Theories"
 ]

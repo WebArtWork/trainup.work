@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Előnyök és korlátok",
+			"text": "A saját testsúlyos munka bárhol végezhető, gyakran keveset kerül, és kezdőknek sok lehetőséget kínál. Fejlesztheti az egyensúlyt, a koordinációt, az erőt és az izomállóképességet. Egyes mintákat felszerelés vagy megbízható rögzítési pont nélkül nehezebb pontosan terhelni, főleg azokat az alsótesti csípőhajlításokat, amelyeket folyamatosan nehezebbé akarsz tenni, és a vízszintes húzást."
+		},
+		{
+			"title": "Tedd kihívássá",
+			"text": "A falnál végzett fekvőtámaszból döntött fekvőtámasz, majd padlón végzett fekvőtámasz lehet. A guggolások fejlődhetnek nagyobb kontrollal, megállásokkal, később pedig egy lábra összpontosító változatokkal. A plank nehezebbé tehető hosszabb emelőkarral, mielőtt időt adnál hozzá. Csak addig nehezíts egy gyakorlaton, amíg tisztán meg tudod ismételni az ismétléseket. Ha több tucat könnyű ismétlést halmozol, az edzéshatás az állóképesség felé tolódhat."
+		},
+		{
+			"title": "Dolgozz a felszerelésedhez illően",
+			"text": "A biztos húzódzkodórúd lehetővé teszi a függőleges húzás edzését, a szilárdan felszerelt függesztett edző pedig evezést. Ne feltételezd, hogy egy háztartási asztal, ajtó vagy korlát elbírja a testsúlyodat. Ha nincs biztonságos rögzítési pontod, válassz másik mintát, vagy használd a meglévő gumikat és súlyzókat."
+		},
+		{
+			"title": "Példa",
+			"text": "Az első edzés tartalmazhat két-két sorozat székes guggolást, döntött fekvőtámaszt, támasztott hátrafelé kitörést, farizomhidat és dead bugot. Az ismétlések számát aszerint válaszd meg, mennyire kontrollálod a mozdulatot, és milyen nehéz érzés. Nincs egyetlen kötelező cél. Annyit pihenj, hogy megtartsd a formádat."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Ha nincs felszerelésed, jelezd a Profilban, és add meg a padlóméretedet, valamint azt, hogy az ugrás rendben van-e. A terv ekkor csak olyan saját testsúlyos gyakorlatokat választ, amelyek illenek a helyedhez, az ugrási korlátodhoz és a szintedhez. A húzódzkodórudat csak akkor jelöld elérhetőnek, ha biztonságosan fel van szerelve; különben a terv kihagyja az azt igénylő gyakorlatokat."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: erő- és hajlékonysági útmutató",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

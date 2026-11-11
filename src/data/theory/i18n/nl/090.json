@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Patronen op korte en lange termijn",
+			"text": "Gevorderde atleten gebruiken soms bewust functionele overreaching, en hun prestaties veren terug na genoeg herstel. Niet-functionele overreaching veroorzaakt een langere prestatiedaling zonder nuttige winst. Overtrainingssyndroom is een langdurige aandoening met veel bijdragende factoren, en het vraagt om een professionele beoordeling die andere oorzaken uitsluit."
+		},
+		{
+			"title": "Waarschuwingssignalen",
+			"text": "Herhaalde prestatiedalingen, vermoeidheid die niet past bij je training, ongewone prikkelbaarheid, verstoorde slaap, dalende motivatie en aanhoudende spierpijn kunnen allemaal waarschuwingssignalen zijn. Geen daarvan is specifiek voor overtraining. Werkstress, ziekte, te weinig eten en veel medische aandoeningen kunnen dezelfde klachten veroorzaken."
+		},
+		{
+			"title": "Verminder stress voordat je meer toevoegt",
+			"text": "Voelen meerdere trainingen ongewoon zwaar en dalen je prestaties, verlaag dan een tijdje het volume of de intensiteit, neem meer herstel en kijk naar je slaap en je totale trainingsbelasting. Een lichtere week kan zinvol zijn, maar hoeveel je terugschroeft verschilt van persoon tot persoon. Probeer niet door vermoeidheid heen te “duwen” die met de ene maximale inspanning na de andere steeds erger wordt."
+		},
+		{
+			"title": "Chronische overbelasting vermijden",
+			"text": "Verhoog de training geleidelijk, spreid zware trainingen en let op de trends in je afgeronde herhalingen, RPE en hoe klaar je je voelt. Plan rustige periodes als reizen, ziekte, zwaar werk of andere eisen bijdragen aan je totale stress. Extra trainingen helpen alleen als je lichaam zich eraan kan aanpassen."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Week 4 van elk schema is een lichtere deloadweek. Als je het schema opnieuw maakt, verandert het stap voor stap en nooit op basis van minder dan 3 trainingen. Waren 2 van je laatste 3 trainingen zeer zwaar (RPE 9 of hoger) of voor minder dan 60% afgerond, dan wordt het volgende schema lichter. TrainUp stelt geen diagnose van overtrainingssyndroom en behandelt het niet. Zet de neerwaartse trend door, rust dan en vraag professioneel advies."
+		}
+	],
+	"sources": [
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: trainingsdosering, herstel en opbouw",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "CDC: slaapaanbevelingen voor volwassenen",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		}
+	]
+}

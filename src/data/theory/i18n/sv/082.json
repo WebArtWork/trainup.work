@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Sakta ner gradvis",
+			"text": "Efter en hård löprunda eller cykeltur, gå eller trampa lugnt i några minuter i stället för att tvärstanna med full ansträngning. Efter styrketräning kan en kort avslappnad promenad och normal andning kännas bra. Att stanna tvärt kan ibland göra att du blir yr, särskilt efter lång, intensiv aktivitet."
+		},
+		{
+			"title": "Valfri skonsam rörlighet",
+			"text": "Du kan lägga till bekväma rörelser för vader, höfter, bröst eller axlar om flexibilitet är ett av dina mål eller om du helt enkelt tycker om dem. Sikta på en mild stretchkänsla och tvinga inte fram stora rörelseomfång. Djup stretching direkt efter ett tröttande pass är valfri, och smärtsam stretching motverkar dig."
+		},
+		{
+			"title": "Vad bevisen visar",
+			"text": "Lätt rörelse kan göra de första minuterna efter ett pass bekvämare. Det finns få bevis för att en vanlig nedvarvning eller stretchrutin pålitligt förebygger träningsvärk dagen efter (DOMS). Gradvis progression, sömn och återhämtning spelar fortfarande roll. En nedvarvning behandlar inte en skada och ersätter inte sjukvård."
+		},
+		{
+			"title": "Anpassa efter passet",
+			"text": "En måttlig promenad kan avslutas med en eller två lugna minuter. Efter ett hårt intervallpass, ta flera minuter med lätt rörelse och andning tills du känner dig stadig. Om yrsel, ovanlig andfåddhet, bröstsmärta eller svimningskänsla inte går över, sluta träna och sök medicinsk hjälp."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: skonsamma nedvarvningsövningar",
+			"url": "https://www.nhs.uk/live-well/exercise/strength-and-resistance/body-blast-cool-down/"
+		},
+		{
+			"label": "ACE 2026: praktisk vägledning om stretching",
+			"url": "https://www.acefitness.org/continuing-education/certified/april-2026/9104/new-expert-guidance-on-stretching-what-belongs-in-your-programs/?authorScope=80"
+		},
+		{
+			"label": "NHS: träningsvärk med fördröjd debut",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		}
+	]
+}

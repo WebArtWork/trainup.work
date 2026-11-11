@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Hogyan keletkezik a terhelés",
+			"text": "Ha a rúd a vállaidon van, miközben állsz, vagy ha súlyt tartasz a fejed fölött, az megnövelheti a törzsön és a gerincen átvezetett erőket. A nehéz hordozások és egyes húzógyakorlatok szintén erős törzsstabilitást igényelnek. A gerincre ható tényleges erő a testhelyzettől, az izomerőkifejtéstől, az emelőkarhatástól és az ellenállás irányától függ, így a vállon lévő rúd csak a kép egy része."
+		},
+		{
+			"title": "Egészséges embereknek általában biztonságos",
+			"text": "A gerinced a mindennapi mozgás során is terhelt, és alkalmazkodni tud a fokozatosan növelt edzéshez. Egészséges edzőknek az axiális terhelés önmagában nem veszélyes. Inkább akkor számít, ha orvosi korlátozásod, új tüneted vagy személyes igényed van a kompresszió csökkentésére."
+		},
+		{
+			"title": "Alternatívák választása",
+			"text": "A kehelyguggolás, az osztott guggolás vagy egy támasztott gépi gyakorlat másképp terheli a testet, mint egy nehéz hátsó guggolás. Egy padlón végzett core-gyakorlat segíthet, ha az álló terhelt hordozások nem felelnek meg. Egyetlen helyettesítő sem szünteti meg teljesen a gerincterhelést."
+		},
+		{
+			"title": "Haladj óvatosan",
+			"text": "Tanuld meg a feszítést és a mozdulat kontrollját, olyan terheléseket használj, amelyek illenek a jelenlegi képességedhez, és egyszerre csak egy edzésváltozót változtass. Nem kell nagy kompressziós gyakorlatot végezned csak azért, mert hagyományos az erőedzésben."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Ha korlátozni szeretnéd a gerincterhelést, add hozzá a hátadat korlátként a Profilban, megjegyzéssel. A terv csak olyan gyakorlatokat választ, amelyek illenek a korlátaidhoz. Az alacsonyabb terhelésű gyakorlatok választása nem kezeli a hátfájást, és nem helyettesíti az orvosi tanácsot."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: hátfájás és azonnali figyelmeztető jelek",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Oberkörper",
+			"text": "Die Brustmuskeln helfen, die Arme nach vorn oder quer über den Oberkörper zu drücken, etwa bei Liegestützen und Brustpressen. Der breite Rückenmuskel und andere Rückenmuskeln helfen, die Arme zu ziehen und die Schulterblätter beim Rudern und bei Klimmzügen zu kontrollieren. Die Deltamuskeln helfen, die Arme zu heben und zu bewegen. Der Bizeps beugt den Ellbogen und unterstützt manche Zugbewegungen, und der Trizeps streckt den Ellbogen beim Drücken."
+		},
+		{
+			"title": "Unterkörper",
+			"text": "Der Quadrizeps streckt das Knie und hilft bei Kniebeugen, Schritten und Ausfallschritten. Die Gesäßmuskeln strecken oder stabilisieren die Hüfte, und Hüftbeugen und Step-ups können sie fordern. Die hinteren Oberschenkelmuskeln beugen das Knie und unterstützen die Hüftstreckung. Die Wadenmuskeln erzeugen die Plantarflexion des Sprunggelenks beim Gehen, Laufen und bei Wadenheben. Die Adduktoren und Abduktoren der Hüfte helfen, die Beinposition zu kontrollieren und das Becken stabil zu halten."
+		},
+		{
+			"title": "Rumpf (der Core)",
+			"text": "Der gerade Bauchmuskel, die schrägen Bauchmuskeln, tiefere Bauchmuskeln, Rückenstrecker und mehrere Muskeln um das Becken helfen, Kraft weiterzuleiten und ihr zu widerstehen. Planks, Tragen und kontrollierte Hüftbeugen fordern die Rumpfstabilität in verschiedenen Richtungen. Sichtbare „Bauchmuskeln“ sind nur ein Teil dieses Systems."
+		},
+		{
+			"title": "Überschneidung zwischen Übungen",
+			"text": "Eine Kniebeuge arbeitet mehr als den Quadrizeps, und Rudern arbeitet mehr als die Latissimus-Muskeln. Griff, Oberkörperwinkel, Bewegungsumfang und deine eigene Anatomie verändern, welche Muskeln mehr der Arbeit übernehmen. Organisiere die Woche eines Anfängers rund um Kniebeugen, Hüftbeugen, Ausfallschritte, Drücken, Ziehen und Rumpfarbeit und ordne nicht jedes Training einem einzelnen Muskel zu."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Jede Übungsseite unter „Übungen“ listet das Bewegungsmuster und die Muskeln auf, die sie beansprucht, was dir hilft, mit wenigen Übungen den ganzen Körper abzudecken. Isolationsarbeit kann eine bestimmte Lücke füllen, ersetzt aber nicht, die grundlegenden Mehrgelenkbewegungen zu lernen."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "HHS: Überblick zur körperlichen Fitness",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		}
+	]
+}

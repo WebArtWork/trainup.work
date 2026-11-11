@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Notația în patru părți",
+			"text": "Tempoul se scrie adesea cu patru numere: faza de coborâre, pauza jos, faza de ridicare și pauza sus. La o genuflexiune, 3-1-1-0 înseamnă că cobori în trei secunde, faci o pauză de o secundă jos, te ridici într-o secundă și începi imediat următoarea repetare. Nu toate sistemele listează fazele în aceeași ordine, deci instrucțiunile trebuie să spună ce notație folosesc."
+		},
+		{
+			"title": "De ce ajută controlul",
+			"text": "O fază lentă de coborâre poate opri săltarea, poate scoate la iveală problemele de echilibru și poate face sarcinile ușoare destul de grele pentru exersarea îndemânării. O pauză scurtă te poate ajuta să îți simți poziția într-un punct dificil. Ridicarea rapidă, făcută intenționat, poate ajuta la lucrul de forță sau de putere când tehnica este sigură, iar sarcina se potrivește."
+		},
+		{
+			"title": "Tempoul și hipertrofia",
+			"text": "Cercetările nu au arătat că repetările foarte lente produc în mod sigur mai multă creștere. Declarația de poziție ACSM 2026 a constatat că timpul sub tensiune nu a fost un factor constant când au fost comparate diferite planuri de antrenament. A merge extrem de încet poate reduce sarcina sau numărul total de repetări pe care le poți face și poate lucra împotriva obiectivului tău principal."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Dacă înveți o flexie din șold, coborârea unei gantere în două până la trei secunde îți dă timp să ții greutatea aproape și să simți cum șoldurile se duc înapoi. Odată ce tiparul este constant, o viteză normală, controlată, poate fi de ajuns. O aruncare cu mingea medicinală sau o săritură sunt făcute să fie rapide, deci nu le încetini."
+		},
+		{
+			"title": "Compararea seriilor",
+			"text": "Când judeci progresul, compară seriile făcute cu o amplitudine și o viteză asemănătoare. Adăugarea de greutate în timp ce scurtezi faza de coborâre poate să nu fie o îmbunătățire reală. Dacă o abilitate nu cere un tempo anume, concentrează-te pe repetări constante, controlate, și pe obiectivul principal și nu număra fiecare secundă."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Analiză a continuumului repetărilor",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

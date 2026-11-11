@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co zapisywać",
+			"text": "Przy pracy siłowej zanotuj ćwiczenie, wariant, obciążenie, powtórzenia i ukończone serie, a także odpoczynek, gdy ma to znaczenie. Przy ćwiczeniach na czas zanotuj czas trwania i to, jak dobrze utrzymałeś pozycję. Przy kondycji zanotuj aktywność, czas trwania oraz dystans lub tempo. Szybkie RPE sesji i krótki komentarz mogą wyjaśnić nietypowy wynik."
+		},
+		{
+			"title": "Rób wpisy porównywalne",
+			"text": "„Pompki 10 powtórzeń” trudno odczytać, jeśli wysokość rąk lub zakres zmienia się na każdym treningu. Zapisuj wariant i warunki, aby porównywać podobne z podobnym. Niech będzie prosto: kilka pól wypełnianych za każdym razem jest lepsze niż długi formularz, z którego rezygnujesz."
+		},
+		{
+			"title": "Dodawaj notatki dla kontekstu",
+			"text": "Słaby sen, nieznany sprzęt, przerwy lub nowy dyskomfort mogą wyjaśniać słabszy trening. Jeden zły dzień nie jest powodem do przebudowy całego programu. Trendy z kilku treningów pokazują, czy plan staje się zbyt łatwy, zbyt trudny, czy w sam raz."
+		},
+		{
+			"title": "Przykład",
+			"text": "Tydzień pierwszy: przysiad kielichowy, 3 × 8 z 12 kg, umiarkowany wysiłek. Tydzień trzeci: 3 × 10 z tym samym obciążeniem i dobrą techniką. To mierzalna poprawa, nawet jeśli Twoja masa ciała się nie zmieniła."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Podczas treningu odhaczasz każdą serię i zapisujesz powtórzenia. Potem oceniasz wysiłek sesji, zgłaszasz ewentualny ból i dodajesz notatki. Historia pokazuje bieżący tydzień, łączną liczbę treningów, średni wysiłek i wykres z 4 tygodni, a ukończone treningi nigdy nie są zmieniane. Twój plan zmienia się tylko wtedy, gdy ponownie go wygenerujesz."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: praktyczne wskazówki",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

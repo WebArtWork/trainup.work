@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Sposoby liczenia pracy",
+			"text": "Najprostsze liczenie to liczba serii roboczych. „Objętość obciążenia” mnoży serie × powtórzenia × ciężar, więc trzy serie po dziesięć z 40 kg dają 1200 kg objętości obciążenia dla tego ćwiczenia. Pomaga to przy porównywaniu tego samego ruchu w czasie. Nie działa między ćwiczeniami: wyciskanie na maszynie i pompka z masą własnego ciała nie przekładają się na te same kilogramy bodźca."
+		},
+		{
+			"title": "Ciężkie serie na mięsień",
+			"text": "Dla wzrostu mięśni trenerzy często liczą ciężkie serie obciążające każdą grupę mięśniową. Ćwiczenia złożone liczą się dla kilku mięśni, choć nie zawsze w równym stopniu. Przysiad mocno trenuje prostowniki kolana i biodra, a wiosłowanie dodaje pracy plecom i ramionom. Jeśli liczysz każdy zaangażowany mięsień tak, jakby dostał ten sam bodziec, Twoje sumy wyjdą zawyżone."
+		},
+		{
+			"title": "Ile serii wykonać",
+			"text": "Stanowisko ACSM z 2026 roku wykazało, że większe tygodniowe objętości, w tym co najmniej około dziesięciu serii na grupę mięśniową, mogą zwiększać hipertrofię. To nie jest dawka startowa dla każdego i nie gwarantuje postępu. Początkujący często poprawiają się przy mniejszej liczbie serii. Bardziej doświadczeni mogą skorzystać na większej, jeśli pozwalają na to czas, technika i regeneracja."
+		},
+		{
+			"title": "Buduj stopniowo",
+			"text": "Nowy ćwiczący może zacząć od dwóch serii każdego z kilku wzorców na trening, dwa razy w tygodniu. Po kilku tygodniach stabilnej wydajności dodaj serię do wzorca, który zostaje w tyle, tylko jeśli pozwalają na to bolesność, sen i jakość treningów. Skok z sześciu do dwudziestu ciężkich serii tygodniowo dla jednego mięśnia zwiększa ryzyko zmęczenia bez dobrego powodu."
+		},
+		{
+			"title": "Jakość i ilość",
+			"text": "Serie wykonane ze słabą techniką, małym wysiłkiem lub dużym zmęczeniem nadal podnoszą sumę w arkuszu, ale dają niewiele. Stały, konsekwentny postęp liczy się bardziej niż najwyższa objętość."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "W każdym treningu odznaczasz serie i zapisujesz powtórzenia, a Historia pokazuje Twój średni wysiłek i wykres z 4 tygodni. Porównuj podobne tygodnie. Jeśli wysiłek jest większy, niż się spodziewałeś, albo Twoje powtórzenia spadają, przyjrzyj się objętości, zanim dodasz więcej."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Przegląd mechanizmów hipertrofii",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

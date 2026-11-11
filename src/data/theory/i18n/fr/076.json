@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ce que signifie faible impact",
+			"text": "Les mouvements à faible impact gardent généralement au moins un pied au sol, ou utilisent du matériel comme un vélo d’appartement pour supprimer l’impact au sol. Un faible impact peut quand même être de haute intensité et solliciter vos articulations. Un intervalle intense à vélo peut pousser votre cœur et vos poumons, et certains exercices de marche demandent encore beaucoup à vos genoux et à vos hanches."
+		},
+		{
+			"title": "Bons choix de mouvements",
+			"text": "La marche rapide, la marche sur place, les pas latéraux avec toucher, la boxe dans le vide sans rebond, les montées sur marche contrôlées, le vélo et les elliptiques sont tous des options pratiques. Dans une petite pièce, alternez la marche rapide sur place avec des pas latéraux posés ou de légers coups de poing. Choisissez des mouvements qui vous semblent stables, et n’ajoutez pas de rotations rapides juste pour rendre l’exercice plus difficile."
+		},
+		{
+			"title": "Exemple",
+			"text": "Après un échauffement progressif, répétez six fois 45 secondes de marche rapide sur place et 45 secondes de marche facile. Réglez votre propre allure et votre repos ; ne copiez pas la vitesse de quelqu’un d’autre. Pour progresser, allongez les périodes actives ou la séance entière avant de chercher une vitesse explosive."
+		},
+		{
+			"title": "Adapter à la raison pour laquelle vous évitez l’impact",
+			"text": "Si le problème est le bruit, supprimer les sauts peut suffire. Si un genou, une cheville ou le dos est sensible, même de simples pas peuvent faire mal, et vous devrez peut-être consulter un médecin ou un kinésithérapeute. L’entraînement à faible impact n’est pas un traitement et ne garantit pas de soulagement de la douleur."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Dans Profil, indiquez si vous pouvez sauter, le niveau de bruit acceptable, votre surface, votre niveau, votre équipement et toute limitation par zone du corps. Le programme les utilise tous ensemble, et quand les sauts sont désactivés, il exclut la corde à sauter et les autres exercices de saut. La marche sur place ou le vélo peuvent maintenir l’effort à leur place. Évaluez ensuite l’effort de la séance comme d’habitude."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC : recommandations d’activité physique pour les adultes",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC : mesurer l’intensité de l’activité et le test de la parole",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Préparez chaque poste",
+			"text": "Vérifiez le banc, le rack, la machine ou l’accessoire avant de le charger. Réglez correctement les sièges et les barres de sécurité, utilisez des colliers si nécessaire et assurez-vous que les disques sont fixés des deux côtés. Gardez les sacs et les accessoires libres hors des passages. Si vous ne savez pas comment fonctionne une machine, demandez au personnel de vous la montrer."
+		},
+		{
+			"title": "Partagez l’espace",
+			"text": "Reposez les haltères et les disques, essuyez le matériel comme la salle le demande et rangez les accessoires de câble. Ne monopolisez pas plusieurs machines à la fois aux heures de pointe. Demandez poliment si vous pouvez alterner, et convenez de la façon de changer le poids ou le siège en sécurité avant de partager un poste."
+		},
+		{
+			"title": "Pareurs et sécurités",
+			"text": "Pour des développés couchés ou des squats difficiles, réglez les bras de sécurité quand vous le pouvez, et faites appel à un pareur qui sait ce qu’il fait quand vous en avez besoin. Ne comptez pas sur un inconnu à proximité pour remarquer une répétition ratée. Entraînez-vous à régler un rack avec des charges légères avant de soulever lourd, et ne vous placez jamais sur la trajectoire de levage de quelqu’un d’autre."
+		},
+		{
+			"title": "Périodes d’affluence",
+			"text": "Prévoyez une solution de repli pour le matériel populaire : un rowing à l’haltère peut remplacer un rowing à la poulie, et un squat goblet peut remplacer un squat au rack si la charge vous convient encore. Votre séance ne dépend pas d’un poste précis. Une installation précipitée ou bondée n’est quand même pas une raison de bâcler la technique ou de sauter votre échauffement."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic : sécurité et technique en musculation",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

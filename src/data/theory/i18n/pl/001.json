@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Cykl adaptacji",
+			"text": "Trening jest bodźcem. Mięśnie wytwarzają siłę, serce i naczynia krwionośne dostarczają więcej tlenu, a Ty ćwiczysz umiejętności ruchowe. Tuż po treningu zmęczenie może na jakiś czas obniżyć Twoją wydolność. Podczas następującej regeneracji ciało się naprawia, uzupełnia zapasy i adaptuje. Efekt zauważasz po tygodniach i miesiącach powtarzanych cykli."
+		},
+		{
+			"title": "Specyficzne adaptacje",
+			"text": "Zasada SAID (Specific Adaptation to Imposed Demands, czyli specyficzna adaptacja do narzuconych wymagań) oznacza, że ciało adaptuje się głównie do tego, co ćwiczysz. Ciężkie przysiady poprawiają wytwarzanie siły we wzorcach podobnych do przysiadu, a szybki marsz trenuje głównie wydolność tlenową. Ogólna sprawność łączy kilka rodzajów wyzwań. Wczesne przyrosty siły często wynikają z lepszej koordynacji i rekrutacji układu nerwowego, a zauważalny wzrost mięśni zwykle trwa dłużej."
+		},
+		{
+			"title": "Superkompensacja",
+			"text": "Popularny wykres pokazuje, że sprawność spada po treningu, potem się regeneruje i na krótko wznosi powyżej poziomu wyjściowego. To przydatny obraz dydaktyczny, ale nie jest ani dokładnym harmonogramem, ani uniwersalnym prawem biologii. Różne układy regenerują się w różnym tempie i nie musisz dopasowywać każdego treningu do mitycznego szczytu."
+		},
+		{
+			"title": "Przykład",
+			"text": "Początkujący wykonuje dwa umiarkowane treningi całego ciała w tygodniu. Po kilku sesjach te same ćwiczenia wydają się łatwiejsze. Dodaje jedno lub dwa powtórzenia, trochę ciężaru albo inne starannie dobrane wyzwanie, zachowując technikę. Jeśli będzie dalej piętrzyć ciężkie treningi bez regeneracji, jego postęp może się zatrzymać."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Wybierz główny cel w Profilu, odznaczaj serie podczas każdego treningu i oceniaj wysiłek po jego zakończeniu. Historia pokazuje wykres z 4 tygodni, więc patrz na trendy z kilku tygodni. Zanim zwiększysz trudność treningu, zastanów się nad snem, bolesnością i swoją regularnością."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Wytyczne WHO dotyczące aktywności fizycznej",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

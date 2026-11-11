@@ -11,7 +11,7 @@
 	"Kezdőlap",
 	"Minden jog fenntartva.",
 	"Cég képe",
-	"Mobilalkalmazás, amely elérhető edzéstervet készít a célod, szinted, felszerelésed, szabad helyed és időbeosztásod alapján — promptok és csevegés nélkül.",
+	"Mobilalkalmazás, amely elérhető edzéstervet készít a célod, szinted, felszerelésed, szabad helyed és időbeosztásod alapján, promptok és csevegés nélkül.",
 	"Mobilos edzésalkalmazás · fejlesztés alatt",
 	"Reális edzésterv a felszerelésedhez és a helyedhez",
 	"Válaszd ki a célodat, szintedet, időbeosztásodat, felszerelésedet és az edzésre szabad helyet — a TrainUp elérhető programot készít, gyakorlatképekkel végigvezet minden edzésen, és a következő alkalmakat a közérzetedhez igazítja.",
@@ -771,5 +771,6 @@
 	"Adataid",
 	"bejegyzés",
 	"bejegyzés",
-	"Nincs bejegyzés"
+	"Nincs bejegyzés",
+	"Theories"
 ]

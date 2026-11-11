@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Normální tréninkové pocity",
+			"text": "Svaly se mohou při opakovaných kontrakcích cítit teplé, unavené nebo pálivé. Opožděná bolest svalů se může objevit den nebo dva po neznámé práci. Tyto pocity se obvykle liší od náhlé bodavé bolesti, kloubu, který působí nestabilně, příznaků šířících se po končetině nebo nepohodlí, které zůstává nebo se zhoršuje, i když zvolníte."
+		},
+		{
+			"title": "Víc než jedno číslo",
+			"text": "Hodnocení bolesti 0–10 může popsat, jak silná bolest je, ale neřekne vám příčinu. Přístup podle semaforu pomáhá roztřídit, co cítíte. Zelená je běžné úsilí se stálou kontrolou. Oranžová je neobvyklé nebo rostoucí nepohodlí a znamená přestat nebo cvik změnit. Červená jsou závažné nebo znepokojivé příznaky, které vyžadují lékařské vyšetření."
+		},
+		{
+			"title": "Co dělat",
+			"text": "Přestaňte s pohybem, který ji vyvolává. Zátěž nebo rozsah snižte jen tehdy, když je to pohodlné, a neopakujte pokusy, abyste dokázali, že to snesete. Nový otok, necitlivost, zřetelná slabost nebo příznaky po pádu vyžadují bližší vyšetření. Bolest má mnoho možných příčin a aplikace nemůže pojmenovat vaše zranění."
+		},
+		{
+			"title": "Příklad",
+			"text": "Pálení ve stehnech ke konci série výstupů na bednu je pravděpodobně svalové úsilí. Koleno, které se náhle bolestivě zablokuje nebo na které nemůžete došlápnout, je jiná věc a změna počtu opakování ji nevyřeší."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Pokud během tréninku něco bolí, klepněte na „Cítím bolest“. Cvik se okamžitě ukončí a zůstane mimo vaše plány, dokud ho nevrátíte v Profilu. Po tréninku můžete nahlásit bolest nebo nepohodlí s částí těla a cvikem a omezení můžete aktualizovat v Profilu. TrainUp nedává rehabilitační programy. U bolesti, která přetrvává, je silná nebo vás znepokojuje, navštivte lékaře nebo fyzioterapeuta."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: bolest kloubů",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		},
+		{
+			"label": "NHS: bolest kolene a kdy vyhledat pomoc",
+			"url": "https://www.nhs.uk/symptoms/knee-pain/"
+		},
+		{
+			"label": "NHS: bolest zad a naléhavé varovné signály",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		}
+	]
+}

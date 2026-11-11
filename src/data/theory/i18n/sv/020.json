@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ett ramverk att utgå från",
+			"text": "Låga repetitionsintervall, ofta runt en till fem per set, hör oftast ihop med tyngre belastningar och gott om vila för maximal styrkeövning. Måttliga intervall, ungefär sex till tolv, gör det lätt att kombinera en stabil belastning, teknikkontroll och total arbetsmängd. Högre intervall, som femton eller fler, kan hjälpa lokal muskulär uthållighet och träning med lägre belastning."
+		},
+		{
+			"title": "Varför intervallen överlappar",
+			"text": "Forskningen stöder inte tanken att sex till tolv repetitioner är det enda sättet att bygga muskler, eller att femton repetitioner inte kan bygga styrka. Tung belastning fungerar särskilt bra för att förbättra maximal styrka i en repetition, medan muskler kan växa över ett brett spann av belastningar när ansträngningen och volymen är tillräckligt höga. Mycket många repetitioner kan avbrytas av obehag eller av hjärt- och lungtrötthet innan målmuskeln utmanas tillräckligt."
+		},
+		{
+			"title": "Att anpassa intervallet till övningen",
+			"text": "Ett tungt basövningslyft kan vara lättare att kontrollera med färre repetitioner. En kroppsviktsknäböj kan kräva fler repetitioner innan den blir tung. En planka mäts oftast efter hur länge du håller den. Den avsedda rörelsekvaliteten, säkerheten, vikterna du har och din utrustning bör styra valet."
+		},
+		{
+			"title": "Exempel",
+			"text": "En nybörjare kan göra 2–3 set med 8–12 goblet squats, rodd och pressar, och behålla några repetitioner i reserv. Om samma motstånd blir lätt för tolv repetitioner, höj belastningen något eller välj en svårare variant. Den som senare fokuserar på styrka kan göra fler set med färre repetitioner i valda lyft."
+		},
+		{
+			"title": "Vanligt misstag",
+			"text": "Ett repetitionsmål betyder lite om du bortser från hur nära en hård ansträngning setet kommer. Tio mödolösa repetitioner och tio repetitioner nära din gräns är olika doser av träning."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Planen ger varje övning ett repetitionsmål eller en hålltid, och du väljer belastningen. När du skapar planen på nytt tittar den på dina ansträngningsskattningar och hur mycket av varje pass du slutförde. Om dina senaste 4 pass var lätta (RPE 5 eller lägre) och kompletta blir nästa plan ett steg svårare."
+		}
+	],
+	"sources": [
+		{
+			"label": "Översikt över repetitionskontinuumet",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Alongamento estático",
+			"text": "Um alongamento estático mantém com suavidade um músculo ou uma articulação perto do fim da sua amplitude confortável. Um alongamento dos gémeos contra uma parede ou um alongamento apoiado do flexor da anca, por exemplo, pode ser mantido durante pouco tempo sem balançar. Deve parecer uma tensão ligeira, nunca dor aguda nem dormência."
+		},
+		{
+			"title": "Alongamento dinâmico",
+			"text": "O alongamento dinâmico percorre uma amplitude útil uma e outra vez: balanços de perna que consiga controlar, círculos com os braços, afundos alternados. Cada repetição é deliberada, sem balanço nem pressa. Estes exercícios integram-se naturalmente num aquecimento para corrida, levantamento e desporto."
+		},
+		{
+			"title": "Quando usar cada um",
+			"text": "Antes de um esforço explosivo, o movimento dinâmico gradual e a prática do próprio exercício costumam funcionar melhor. Um alongamento estático longo e intenso logo antes pode reduzir brevemente a força ou a potência, enquanto algumas manutenções curtas preocupam menos. Depois do treino ou numa sessão separada, o alongamento estático é uma forma razoável de trabalhar a flexibilidade."
+		},
+		{
+			"title": "Quanto fazer",
+			"text": "Use manutenções curtas e confortáveis e repita-as ao longo de semanas em vez de forçar uma amplitude nova numa só sessão. Nos exercícios dinâmicos, comece com uma amplitude pequena e alargue-a apenas enquanto o movimento se mantiver controlado. O alongamento não precisa de doer para funcionar, e mais flexibilidade não ajuda em todas as tarefas."
+		},
+		{
+			"title": "O que o alongamento não pode prometer",
+			"text": "Use exercícios dinâmicos para se preparar para o movimento ativo e manutenções estáticas quando o objetivo for a flexibilidade. Nenhum dos dois o torna à prova de lesões nem previne de forma fiável as dores musculares. Se a dor persistir, peça a um médico ou fisioterapeuta um conselho adequado a si."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE 2026: orientações práticas de alongamento",
+			"url": "https://www.acefitness.org/continuing-education/certified/april-2026/9104/new-expert-guidance-on-stretching-what-belongs-in-your-programs/?authorScope=80"
+		},
+		{
+			"label": "ACE 2026: mobilidade versus flexibilidade",
+			"url": "https://www.acefitness.org/continuing-education/certified/may-2026/9119/mobility-vs-flexibility-why-the-difference-matters-for-movement-and-performance/"
+		},
+		{
+			"label": "NHS: exercício suave de retorno à calma",
+			"url": "https://www.nhs.uk/live-well/exercise/strength-and-resistance/body-blast-cool-down/"
+		}
+	]
+}

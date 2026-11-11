@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Was wächst",
+			"text": "Krafttraining löst Signalwege und den Umbau von Muskelproteinen aus. Über wiederholte Einheiten kann sich die Bilanz zwischen Aufbau und Abbau von Muskelproteinen zugunsten größerer Muskelfasern verschieben. Das dauert Wochen bis Monate. Frühe Veränderungen im Aussehen oder im Körpergewicht können auch von Flüssigkeit, Glykogen oder Messschwankungen kommen."
+		},
+		{
+			"title": "Warum Spannung wichtig ist",
+			"text": "Harte Muskelkontraktionen setzen die Fasern unter mechanische Spannung. Sowohl schwerere als auch leichtere Lasten können das Wachstum unterstützen, wenn du die Sätze mit genug Anstrengung und guter Technik machst. Training mit sehr leichtem Widerstand, weit entfernt von Ermüdung, gibt möglicherweise nicht genug Reiz für spürbares Wachstum."
+		},
+		{
+			"title": "Umfang und Häufigkeit",
+			"text": "Harte Sätze pro Woche zu zählen ist ein nützlicher Weg, Hypertrophiearbeit zu organisieren. Das ACSM-Positionspapier 2026 fand besseres Wachstum bei höherem Wochenumfang, und die Evidenz sprach in den relevanten Studienvergleichen für mindestens etwa zehn Wochensätze pro Muskelgruppe, um das Wachstum zu maximieren. Diese Zahl ist kein erforderliches Mindestmaß zum Einstieg. Anfänger wachsen möglicherweise mit weniger, und Erholungsgrenzen unterscheiden sich von Person zu Person. Die Häufigkeit hilft vor allem, die nötige Arbeit über die Woche zu verteilen."
+		},
+		{
+			"title": "Erholung und Ernährung",
+			"text": "Genug Eiweiß und Energie mit der Nahrung unterstützen die Anpassung, und Schlaf und Ruhe helfen dir, wiederholtes Training zu bewältigen. TrainUp vermittelt allgemeines Trainingswissen und gibt keine persönlichen Ernährungspläne oder Kalorienziele vor. Genetik, Trainingsalter und Gesundheit beeinflussen ebenfalls, wie schnell sichtbare Fortschritte auftreten."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Beginne mit einer moderaten Mischung aus Kniebeugen, Hüftbeugen, Druck- und Zugübungen. Halte deine Wochensätze und Wiederholungen fest. Wenn sich deine Leistung verbessert, der Muskelkater erträglich bleibt und du dich gut erholst, füge langsam Wiederholungen oder etwas Last hinzu, bevor du mehr Sätze machst."
+		},
+		{
+			"title": "Häufiger Irrtum",
+			"text": "Muskelkater misst kein Muskelwachstum, und du musst nicht in jedem Satz bis zum Muskelversagen gehen. Programme, die funktionieren, beruhen auf hartem Training, das du wiederholen kannst, nicht auf maximaler Erschöpfung."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Übersichtsarbeit zu Mechanismen des Muskelwachstums",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

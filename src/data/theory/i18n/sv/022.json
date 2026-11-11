@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Maximum för en repetition",
+			"text": "Din 1RM är den tyngsta belastning du kan lyfta en gång med jämn teknik och jämnt rörelseomfång. ”80 % av 1RM” betyder 80 % av ditt maximum för den övningen. Det har inget med kroppsvikt att göra. Om din 1RM i knäböj är 80 kg är 64 kg 80 % av 1RM."
+		},
+		{
+			"title": "Vad procenttal säger dig",
+			"text": "Högre procenttal tillåter oftast färre repetitioner före failure, men det exakta antalet varierar mellan övningar, personer och träningsbakgrunder. Aktuella belägg visar att tunga belastningar, runt 80 % av 1RM eller mer, fungerar särskilt bra för att bygga maximal styrka. Du behöver inte så tunga belastningar i varje pass för att förbättra din allmänna kondition."
+		},
+		{
+			"title": "Att uppskatta 1RM",
+			"text": "Ekvationer kan uppskatta 1RM från ett submaximalt set. Epley ger uppskattad 1RM = vikt × (1 + repetitioner/30), och Brzycki ger vikt × 36/(37 − repetitioner). Ett set på fem med 60 kg ger ungefär 70 kg enligt Epley och 67,5 kg enligt Brzycki. Det här är grova tal, särskilt för mycket många repetitioner, för set som slutade i tekniskt failure eller för set som inte var nära ditt maximum."
+		},
+		{
+			"title": "En säkrare metod för nybörjare",
+			"text": "Välj en vikt som låter dig göra de planerade repetitionerna med jämn form och ungefär två till fyra bra repetitioner kvar. Gå upp först när målet känns lätt flera gånger i rad. Maximala tester kräver färdighet, rätt utrustning och ofta kvalificerad handledning, och vanlig TrainUp-träning behöver dem inte."
+		},
+		{
+			"title": "Exempel",
+			"text": "Om de planerade åtta repetitionerna inte lämnar något i reserv och din form brister, sänk belastningen. Om du klarar åtta och lätt hade orkat åtta till, gör det lite svårare nästa gång."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Din plan ger set, repetitioner och vila men inga vikter, så du väljer belastningen. Bedöm den utifrån belastningen, de repetitioner du slutförde och din ansträngningsskattning, och räkna aldrig ut en exakt 1RM från ett enda lätt set."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Översikt över repetitionskontinuumet",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

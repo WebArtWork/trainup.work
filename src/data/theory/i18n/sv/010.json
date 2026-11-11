@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Koncentrisk verkan",
+			"text": "Muskeln skapar kraft medan den sammantaget förkortas. Vid en bicepscurl förkortas armbågsböjarna när vikten lyfts. På vägen upp ur en knäböj arbetar flera höft- och knästräckare för att lyfta dig. ”Koncentrisk” beskriver vad en muskel gör, vilket inte alltid är samma sak som om övningen ser ut som en uppåtgående rörelse."
+		},
+		{
+			"title": "Excentrisk verkan",
+			"text": "Muskeln skapar kraft medan den förlängs under belastning, ofta för att bromsa en rörelse. När du sänker en hantelcurl eller sätter dig ner i en knäböj använder huvudmusklerna excentrisk verkan. Den här fasen hjälper styrka och muskeltillväxt, men mycket ovant excentriskt arbete kan ge mycket värk. Bygg upp det gradvis, och överdriv inte varje sänkning med flit."
+		},
+		{
+			"title": "Isometrisk verkan",
+			"text": "Muskeln skapar kraft utan större förändring av sin totala längd eller av ledvinkeln den kontrollerar. Plankor och väggsittande är tydliga exempel, och dina bålmuskler arbetar ungefär isometriskt när du håller en tung bärövning. En hållning i en enda vinkel är ingen perfekt ersättning för att röra sig genom hela omfånget."
+		},
+		{
+			"title": "Rollerna ändras med uppgiften",
+			"text": "En agonist är en huvudsaklig bidragande muskel i den avsedda rörelsen, och en antagonist motverkar den eller hjälper till att reglera rörelsen. Synergister hjälper till, och stabilisatorer kontrollerar leder eller kroppssegment. Vid en armhävning gör bröstet och tricepsen själva pressen medan bålmusklerna håller dig i linje. Rollerna beror på rörelsen, så en muskel har ingen permanent etikett."
+		},
+		{
+			"title": "Att tillämpa det i praktiken",
+			"text": "Sänk med kontroll, undvik okontrollerad studsning och tryck eller dra genom ett omfång du kan kontrollera. Tidsbestämda hållningar är användbara när uppgiften inte kräver rörelse, och dynamiska repetitioner när du vill ha styrka genom rörelse. I TrainUp anges varje övning som repetitioner eller som hålltid, och hålltimern följer dina hållningar. Teknikanteckningar och tempo hjälper dig att göra bra repetitioner, men att röra sig långsammare ger inte alltid snabbare resultat."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Översikt över mekanismer bakom muskelhypertrofi",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/37382939/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Začněte svými volnými dny",
+			"text": "Než zvolíte složité rozdělení, vyberte dny, kdy opravdu můžete trénovat. Se dvěma dny nechává rozvrh celého těla v pondělí a čtvrtek mezi tréninky několik dní na regeneraci. Se třemi je jednoduché pondělí, středa a pátek. Se čtyřmi můžete rozložit do týdne dva tréninky horní a dva dolní poloviny těla. Jsou to příklady a fungují i jiná uspořádání."
+		},
+		{
+			"title": "Regenerace mezi souvisejícími tréninky",
+			"text": "Mnoha začátečníkům vyhovuje zhruba den až dva mezi náročnými tréninky stejných svalů, zejména když je pro ně bolest svalů ještě nová. Často citovaných 48 hodin je praktické vodítko. Vaše tréninková historie, úsilí, výběr cviků a spánek mění, kolik regenerace potřebujete."
+		},
+		{
+			"title": "Kam umístit náročnou práci",
+			"text": "Těžké cviky a cviky vyžadující hodně dovednosti jdou lépe, když jste docela svěží. Velmi náročné hinge, dřepy a sprinterské intervaly ve dvou dnech po sobě mohou nahromadit únavu, kterou nepotřebujete. Mezi silové dny může přijít lehká chůze nebo mobilita a nepočítá se jako další náročný trénink."
+		},
+		{
+			"title": "Pružný týden",
+			"text": "Pokud vynecháte trénink, přesuňte ho na volný den nebo pokračujte dalším tréninkem. Nenatlačte všechnu zameškanou práci do jednoho dne a nenavršujte náročné tréninky stejného pohybu jen proto, abyste splnili týdenní číslo. Sledujte výkon a únavu po několik týdnů. Každý kalendářní týden nemusí mít stejný objem."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu nastavíte, kolik dní v týdnu trénujete, jak dlouho trénink trvá a které dny preferujete, a můžete to kdykoli změnit. Na obrazovce Přehled můžete zapnout připomínky tréninků pro zvolené dny a časy. Historie ukazuje vaše tréninky tohoto týdne, průměrné úsilí a graf za 4 týdny, což pomáhá sledovat únavu v průběhu týdnů."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: doporučení k síle a flexibilitě",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

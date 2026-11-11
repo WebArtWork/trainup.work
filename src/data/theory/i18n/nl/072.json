@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Hoe een gestage inspanning eruitziet",
+			"text": "Je hartslag is geen perfect vlakke lijn. Tempo en ademhaling kunnen verschuiven door heuvels, hitte of vermoeidheid, terwijl de totale inspanning onder controle blijft. Kies een activiteit die je kunt volhouden zonder vaak te stoppen of slordige techniek."
+		},
+		{
+			"title": "Kies een intensiteit",
+			"text": "Voor veel algemene fitnesstrainingen voelt matige intensiteit als werk, maar kun je nog een gesprek voeren. De praattest is vaak nuttiger dan het najagen van een vaste snelheid of hartslag. Getrainde mensen kunnen intensief continu werk doen, maar beginners doen het meestal beter als ze rustig beginnen."
+		},
+		{
+			"title": "Voeg tijd toe vóór snelheid",
+			"text": "Begin met een praktische hoeveelheid, zoals 10–20 minuten stevig wandelen of rustig fietsen. Verleng de training in de loop van de tijd in kleine stappen en denk dan aan een sneller tempo of meer machineweerstand. Verhoog je tijd, snelheid en frequentie allemaal tegelijk, dan is het moeilijker te zien waardoor je vermoeidheid komt en hoe goed je herstelt."
+		},
+		{
+			"title": "Pas aan op de omstandigheden",
+			"text": "Wandelen en fietsen zijn makkelijkere keuzes als je minder impact wilt, terwijl joggen herhaalde landingen toevoegt. Binnen laten machines je instellingen vrij constant houden, maar buiten veranderen hellingen en weer hoe hetzelfde getoonde tempo voelt. Gebruik hoe zwaar het voelt om trainingen eerlijk te vergelijken. Je verbetert wanneer dezelfde route makkelijker voelt of een comfortabele training langer wordt, en je hoeft niet elke training tot het uiterste te drijven."
+		}
+	],
+	"sources": [
+		{
+			"label": "Beweegaanbevelingen van de CDC voor volwassenen",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: de intensiteit van activiteit meten en de praattest",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC: sporten bij hitte",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		}
+	]
+}

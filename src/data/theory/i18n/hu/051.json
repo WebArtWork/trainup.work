@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Állítható változók",
+			"text": "Az emelőkar, az ellenállás, a támasz, a mozgástartomány és a tempó mind megváltoztatja, mennyire nehéz egy gyakorlat. A döntött fekvőtámasz általában könnyebb, mint a padlón végzett, mert a karjaid a testsúlyod kisebb részét tartják. Egy könnyű súlyzó nehezebbé teszi a guggolást, egy stabil támasz megfogása pedig megkönnyíti a kitörés egyensúlyozását."
+		},
+		{
+			"title": "Fekvőtámasz-példák",
+			"text": "Kezdd falnál vagy erős, magas felületnél, majd ahogy erősödsz, vidd lejjebb a kezedet egy biztonságos padra vagy pultra. Térj át a padlón végzett fekvőtámaszra, később, ha hasznos, lábemelt vagy terhelt változatra. A térdelő fekvőtámasz és a különböző döntött fekvőtámaszok nem egyformán nehezek, ezért próbáld ki, melyikkel tudsz kontrollált ismétléseket végezni."
+		},
+		{
+			"title": "Guggolás- és húzáspéldák",
+			"text": "A székes guggolásból támasz nélküli saját testsúlyos guggolás, majd kehelyguggolás lehet. Függőleges húzásnál a lehúzás vagy a segített húzódzkodás megelőzheti a segítség nélküli ismétléseket. Jegyezd fel a fogás, a segítség, a tartomány vagy a terhelés minden változását, hogy tudd, mit jelent valójában egy jobb szám a naplódban."
+		},
+		{
+			"title": "Mikor változtass",
+			"text": "Lépj feljebb, ha eléred a célként kitűzött tartományt egyenletes technikával és mérsékelt erőfeszítéssel. Lépj lejjebb, ha a gyakorlat miatt a tested nagyon csavarodik vagy eltolódik, hogy végigmenj rajta, ha folyamatosan elromlanak az ismétlések, vagy ha az egyensúlyi igény nem tűnik biztonságosnak. Ha valami kellemetlen, állj meg és értékeld újra. A tartós vagy szokatlan fájdalmat orvosnak vagy gyógytornásznak kell megvizsgálnia."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A terved olyan gyakorlatokat választ, amelyek illenek a szintedhez, a koordinációdhoz, a felszerelésedhez, a belmagasságodhoz, a padlóterületedhez és a megadott korlátaidhoz. Amikor újragenerálod, egyszerre egy lépést változik. Csak akkor lesz nehezebb, ha az utolsó 4 edzésed könnyű volt (RPE 5 vagy kevesebb), teljes, és nem volt friss fájdalom, és akkor lesz könnyebb, ha az utolsó 3-ból 2 nagyon nehéz volt (RPE 9 vagy több) vagy kevesebb mint 60%-ban teljesült."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: súlyzós edzés technikája (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

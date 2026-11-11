@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Adulți de 18–64 de ani",
+			"text": "Ghidul Organizației Mondiale a Sănătății recomandă 150–300 de minute de activitate aerobă de intensitate moderată pe săptămână, sau 75–150 de minute de activitate intensă, sau o combinație echivalentă a celor două. Recomandă și activitate de întărire musculară pentru toate grupele musculare mari, în cel puțin două zile pe săptămână. Mai multă activitate poate aduce beneficii suplimentare, dar cantitatea potrivită depinde de sănătatea și capacitatea ta."
+		},
+		{
+			"title": "Ce înseamnă intensitatea",
+			"text": "Activitatea moderată îți ridică respirația și pulsul, dar poți totuși purta o conversație. Activitatea intensă face greu să vorbești în propoziții întregi. Mersul alert sau ciclismul ușor sunt moderate, iar alergarea sau ciclismul intens sunt intense. Poți împărți minutele pe parcursul săptămânii, în sesiuni care ți se potrivesc, deci nu este nevoie de un singur antrenament lung."
+		},
+		{
+			"title": "Vârstnici și tineri",
+			"text": "Vârstnicii urmează aceleași ținte aerobe și de forță. Sunt încurajați să facă și activitate multicomponentă, care pune accent pe echilibru și forță, în cel puțin trei zile pe săptămână, atunci când este posibil. Pentru vârstele de 5–17 ani, OMS recomandă în medie cel puțin 60 de minute pe zi de activitate moderată spre intensă pe parcursul săptămânii, cu activitate intensă și activitate de întărire a mușchilor și a oaselor în cel puțin trei zile pe săptămână."
+		},
+		{
+			"title": "Un început mic contează oricum",
+			"text": "Orice creștere față de inactivitate ajută. Plimbările de zece minute, urcatul scărilor și sesiunile scurte acasă contribuie toate la totalurile recomandate. Să stai mai puțin jos ajută chiar dacă faci deja mișcare, iar activitatea ușoară poate înlocui o parte din timpul petrecut șezând."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Un începător poate programa două antrenamente pentru tot corpul și trei plimbări de 30 de minute, apoi poate lungi încet plimbările spre ținta aerobă. Urmărește minutele de mers separat de seriile de forță. Recomandările sunt ținte pentru populații întregi, deci nu trebuie să sari imediat la cantitatea completă."
+		}
+	],
+	"sources": [
+		{
+			"label": "Ghidul OMS 2020",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		},
+		{
+			"label": "Ghid CDC privind activitatea fizică",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "O objetivo do treino",
+			"text": "Os exercícios pliométricos desenvolvem a sua capacidade de produzir força depressa; ficar sem fôlego não é o objetivo. Exemplos são os pequenos saltitos pogo, os agachamentos com salto, os saltos laterais e os saltos em passada (bounding). Saltos mais rápidos ou mais altos exigem mais coordenação e têm mais impacto, por isso o seu nível de partida depende da sua força, do controlo da aterragem e do historial de treino."
+		},
+		{
+			"title": "Pratique uma aterragem controlada",
+			"text": "Comece com saltitos baixos e fáceis e aterre dobrando ao mesmo tempo as ancas, os joelhos e os tornozelos. Procure um contacto equilibrado do pé e um tronco controlado, sem joelhos bloqueados nem aterragens ruidosas e desleixadas. Os joelhos não têm de ficar perfeitamente parados, mas não devem perder o controlo de repente. Pare se sentir dor ou se continuar a tropeçar."
+		},
+		{
+			"title": "Progrida uma coisa de cada vez",
+			"text": "Torne os saltos mais difíceis gradualmente, por exemplo de pequenos saltitos com os dois pés para saltos verticais moderados antes de tentar saltos repetidos ou saltos com uma só perna. As caixas altas, as quedas em profundidade e os saltos com peso exigem mais técnica e são maus primeiros passos. Acrescente altura, velocidade ou trabalho com uma perna só quando as repetições mais fáceis se mantiverem fiáveis."
+		},
+		{
+			"title": "Conte os bons contactos",
+			"text": "Os contactos do pé, o número de vezes que os pés aterram, são muitas vezes usados para medir o volume pliométrico da parte inferior do corpo. Como iniciante, pode precisar apenas de um pequeno número de contactos controlados, mesmo que os programas atléticos indiquem totais mais altos. Descanse o suficiente entre séries curtas. Um circuito de saltos cansativo não desenvolve potência da forma que as repetições explosivas e descansadas desenvolvem."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "O plano inclui exercícios de salto apenas quando o seu Perfil permite saltar e o ruído que fazem, e a sua superfície e o tamanho do espaço no chão lhes servem. O seu nível também conta. Se algum destes não servir, treine com exercícios de força ou de condicionamento de baixo impacto. Se uma aterragem doer, toque em «Sinto dor»: o exercício termina de imediato e fica fora dos seus planos até o retomar no Perfil."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Resumo das orientações do ACSM 2026 sobre treino de resistência",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Biblioteca de exercícios da ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

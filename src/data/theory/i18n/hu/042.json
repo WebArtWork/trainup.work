@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tolás és húzás",
+			"text": "A fekvőtámaszok és a mellnyomások a mellet, a tricepszet és a vállak elejét hangsúlyozzák. Az evezések és a lehúzások a hátizmokat és a könyökhajlítókat hangsúlyozzák. Sok vállizom mindkettőben együtt dolgozik, ezért a két csoport nem pontos ellentéte egymásnak minden ízületen vagy minden síkban."
+		},
+		{
+			"title": "Az 1:1 arány",
+			"text": "A heti tolósorozatok és húzósorozatok hasonló száma hasznos tervezési ellenőrzés kezdőknek. Nem bizonyított képlet a testtartásra vagy a vállak egészségére. Hogy mire van szükséged, az a sportodtól, céljaidtól, gyakorlatválasztásodtól és attól függ, mit tűr a tested. A fekvenyomás köré épített program több hátmunkát tartalmazhat, egy másik pedig a húzóteljesítményt teheti az első helyre."
+		},
+		{
+			"title": "Az alsótest kiegyensúlyozása",
+			"text": "Ugyanez az elv érvényes a lábakra: a térddominás guggolások és kitörések párosulnak a csípődomináns csípőhajlításokkal és hidakkal. A test hátsó és elülső részén lévő izmoknak nem kell azonos sorozatszám. Arra törekedj, hogy minden mintát lefedj, és idővel képességet építs. A tökéletes szimmetria nem cél, és nem garantálja, hogy nem sérülsz meg."
+		},
+		{
+			"title": "Példa",
+			"text": "Egy egész testes edzés párosíthat egy súlyzónyomást egy megtámasztott evezéssel, majd edzheti a lábat és a core-t. Egy másik nap párosíthat egy fej feletti nyomást egy lehúzással. Ez szétosztja a vízszintes és függőleges tolást és húzást a héten, ha a felszerelésed engedi. A következetes technika és a megfelelő terhelések többet számítanak, mint a gyakorlatnevek egyeztetése."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Gyakorlatok fülön minden gyakorlat oldala megmutatja a mozgásmintáját, így láthatod, hogyan oszlik meg a heted a tolás és a húzás között. Ha a nyomás dominál, és erre nincs okod, adj hozzá egy evezést vagy húzásváltozatot, amely illik a felszerelésedhez, és tiszteletben tartja a váll-, csukló- vagy terhelési korlátaidat."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

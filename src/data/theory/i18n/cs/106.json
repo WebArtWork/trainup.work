@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Proč na tom záleží",
+			"text": "S věkem se svalová hmota, síla, výbušnost a rovnováha často mění, i když tempo se mezi lidmi hodně liší. Silový trénink může usnadnit každodenní úkoly, například vstávání ze židle, chození po schodech a nošení nákupu. Aerobní aktivita podporuje zdraví srdce a cév a výdrž."
+		},
+		{
+			"title": "Trénujte několik schopností",
+			"text": "Praktický týden míchá silový trénink, středně náročnou aerobní aktivitu a trochu nácviku rovnováhy. Oficiální doporučení pro dospělé 65 let a starší výslovně doporučuje alespoň 150 minut středně náročné aerobní aktivity týdně, posilování svalů ve dvou dnech a práci na rovnováze. V padesáti letech se řiďte obecnými doporučeními pro aktivitu dospělých."
+		},
+		{
+			"title": "Vyberte užitečné pohyby",
+			"text": "Vstávání ze sedu, podepřené výstupy na bednu, přítahy, tlaky a nošení zátěže lze všechny přizpůsobit tomu, kde právě jste. Někteří zdraví starší dospělí mají prospěch z řízených výbušných cviků prováděných s kontrolou a rychlým záměrem. To neznamená skočit do rizikového cvičení s vysokým nárazem bez přípravy."
+		},
+		{
+			"title": "Postupujte podle zpětné vazby",
+			"text": "Cviky ztěžujte, jak se zlepšuje vaše dovednost a síla, ale počítejte s tím, že regenerace závisí na zdravotních potížích, spánku a dřívějším tréninku. U nové závratě, příznaků na hrudi, nevysvětlitelné bolesti nebo problémů s rovnováhou vyhledejte odbornou radu. Váš věk není diagnóza a nemůže nahradit řádné vyšetření a sám o sobě není důvodem vyloučit těžší cvičení."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: fyzická aktivita starších dospělých",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

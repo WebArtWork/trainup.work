@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tipuri de montaj",
+			"text": "Barele cu pârghie pentru toc de ușă, barele extensibile cu tensiune, barele fixe montate pe perete și cele montate pe tavan se instalează fiecare diferit. O bară vândută ca „compatibilă cu tocul de ușă” nu se potrivește la orice finisaj de ușă, perete sau toc. Unele tipuri au nevoie de elemente de fixare structurale în suporturi solide, iar altele depind de o formă anume a tocului."
+		},
+		{
+			"title": "Verifică încărcarea nominală și structura",
+			"text": "Citește instrucțiunile producătorului și limita de greutate, inclusiv dacă sunt permise mișcările dinamice. Socotește greutatea ta totală plus forța suplimentară a balansării sau a tragerii. Inspectează șuruburile, suporturile, căptușeala și suprafețele pe care bara le atinge sau lângă care stă. Dacă nu ești sigur de structura clădirii sau de metoda de montaj, cere ajutorul unui instalator calificat."
+		},
+		{
+			"title": "Testează pas cu pas",
+			"text": "Înainte de o atârnare completă, asigură-te că bara este așezată corect și nu se poate roti, aluneca sau deplasa. Ține picioarele pe podea și apasă ușor, cu control. Treci la o atârnare parțială, apoi la una completă cu sprijin, doar când știi că montajul este solid. Un test scurt nu poate dovedi că piesele deteriorate sau un toc nepotrivit sunt sigure."
+		},
+		{
+			"title": "Pericole frecvente",
+			"text": "Nu atașa benzi și nu face tracțiuni cu balans, kipping sau cu greutăți decât dacă produsul este conceput și montat exact pentru asta. Lasă loc pentru cap, coate și picioare, fără sticlă sau mobilă cu muchii ascuțite în apropiere. Nu mai folosi o bară care scârțâie, alunecă, se îndoaie sau se desface."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "În Profil, marchează bara de tracțiuni ca montată în siguranță abia după ce ai verificat tot ce e mai sus. Până atunci, planul tău omite exercițiile care au nevoie de bară, iar ramatul sau exercițiile cu bandă și un punct de ancorare sigur antrenează aceeași tragere. Dacă ești începător, atârnările cu sprijin, tragerile scapulare sau tragerile la bară asistate sunt primii pași buni, odată ce bara este sigură."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: siguranța și tehnica antrenamentului cu greutăți",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

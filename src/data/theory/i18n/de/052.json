@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Definitionen",
+			"text": "Ein Antagonisten-Superset wechselt gegensätzliche Bewegungsmuster ab, etwa ein Drücken gefolgt von Rudern. Ein Compound-Set kombiniert zwei Übungen für dieselbe Muskelgruppe. Ein Zirkel kann durch fünf Stationen rotieren, bevor du dich ausruhst und wiederholst. EMOM bedeutet „every minute on the minute“ (jede Minute zu Minutenbeginn), und AMRAP bedeutet „as many rounds or repetitions as possible“ (so viele Runden oder Wiederholungen wie möglich) in einer festgelegten Zeit."
+		},
+		{
+			"title": "Warum man sie nutzt",
+			"text": "Ein Drücken mit einem Ziehen zu kombinieren lässt eine Muskelgruppe arbeiten, während eine andere ruht, was Zeit sparen kann. Zirkel können Kraft- und Cardioarbeit auf kleinem Raum verbinden. Viele nehmen an, dass sie mehr Kraft oder Muskeln aufbauen, aber das tun sie nicht automatisch; die Qualität der Gesamtarbeit und deine Erholung entscheiden das weiterhin."
+		},
+		{
+			"title": "Ermüdung steuern",
+			"text": "Eine schwere Kniebeuge, kombiniert mit schwerem Kreuzheben, kann beide Hebungen verschlechtern, besonders bei Anfängern. Kombiniere Übungen, die nicht zu sehr konkurrieren, und ruhe lange genug, um die Kontrolle zu behalten. Technische Hebungen und explosive Sprünge brauchen oft mehr Erholung, als ein zeitlich begrenzter Zirkel gibt. Nutze Supersets, wenn du wenig Zeit hast und die Kombination zu deinem Ziel passt. Kürze die Pause nicht, nur um ein Zeitziel zu erreichen, und lass Zirkel voller Sprünge oder schwieriger Bewegungen aus, wenn dein Platz, deine Lärmgrenzen oder dein Körper sie ausschließen."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Mache zehn kontrollierte Schräg-Liegestütze, dann zehn unterstützte Ruderzüge, dann 90 Sekunden Pause; wiederhole dreimal. Ein Konditionszirkel könnte Step-ups, ein leichtes Tragen und Marschieren mit geplanter Pause nutzen. Wähle eine Rundenzahl, die du durchhältst, ohne dich in schlechte Technik zu hetzen."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA: zeiteffizientes Training",
+			"url": "https://www.nsca.com/education/articles/ptq/time-efficient-training"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: Sicherheit und Grundlagen des Krafttrainings",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Meghatározások",
+			"text": "Az antagonista szuperszett ellentétes mozgásmintákat váltogat, például egy nyomást egy evezés követ. A kombinált szett két gyakorlatot párosít ugyanarra az izomcsoportra. Egy köredzés öt állomáson is végigmehet, mielőtt pihensz és megismétled. Az EMOM jelentése „minden percben a perc elején”, az AMRAP pedig „annyi kör vagy ismétlés, amennyi csak lehetséges” egy adott idő alatt."
+		},
+		{
+			"title": "Miért használd",
+			"text": "Ha egy tolást egy húzással párosítasz, az egyik izomcsoport dolgozik, miközben a másik pihen, ami időt takaríthat meg. A köredzések kis helyen kombinálhatják az ellenállásos és a kardiómunkát. Sokan azt hiszik, hogy ezek több erőt vagy izmot építenek, de nem automatikusan; ezt továbbra is az összmunka minősége és a regenerációd dönti el."
+		},
+		{
+			"title": "Kezeld a fáradtságot",
+			"text": "Egy nehéz guggolás egy kemény felhúzással párosítva mindkét emelést ronthatja, főleg kezdőknél. Olyan gyakorlatokat párosíts, amelyek nem versengenek túl sokat, és annyit pihenj, hogy kontroll alatt maradj. A technikás emelésekhez és a robbanékony ugrásokhoz gyakran több regenerációra van szükség, mint amennyit egy időzített köredzés ad. Akkor használj szuperszetteket, ha kevés az időd, és a párosítás értelmes a célodhoz. Ne vágd meg a pihenőt csak azért, hogy elérj egy időcélt, és hagyd ki az ugrásokkal vagy bonyolult mozdulatokkal teli köröket, ha a helyed, a zajkorlátaid vagy a tested kizárja őket."
+		},
+		{
+			"title": "Példa",
+			"text": "Végezz tíz kontrollált döntött fekvőtámaszt, majd tíz támasztott evezést, azután pihenj 90 másodpercet; ismételd háromszor. Egy állóképességi kör használhat lépcsőre lépést, könnyű hordozást és menetelést, tervezett pihenővel. Olyan körszámot válassz, amelyet rossz technikába sietés nélkül bírsz."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA: időhatékony edzés",
+			"url": "https://www.nsca.com/education/articles/ptq/time-efficient-training"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

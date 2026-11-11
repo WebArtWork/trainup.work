@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ansträngning och skada",
+			"text": "Muskeltrötthet, tung andning och en tillfällig brännande känsla kan följa med hård träning. Skarp smärta, nytt ledobehag, smärta som sprider sig eller yrsel är inga prestationer. Din kropp anpassar sig när ett hårt men uthärdligt pass följs av tillräcklig återhämtning. Smärta är inte det som får det att fungera."
+		},
+		{
+			"title": "Träningsvärk är ett dåligt betyg",
+			"text": "Träningsvärk med fördröjd debut är särskilt vanlig efter ovan eller hård träning. Den avtar ofta när kroppen vänjer sig vid en rörelse, medan din styrka och kondition fortsätter förbättras. Ett pass som lämnar dig knappt öm kan ändå vara produktivt, och för mycket värk kan göra det svårt att träna regelbundet."
+		},
+		{
+			"title": "Framsteg utan straff",
+			"text": "Välj repetitioner som är utmanande men kontrollerade, öka träningskraven gradvis och inkludera vilo- eller lättare dagar. Att avsluta ett set med några repetitioner kvar i reserv kan vara förnuftigt. Forskningen visar inte att den genomsnittliga friska vuxna behöver nå momentan muskulär utmattning om och om igen för att få värdefulla resultat."
+		},
+		{
+			"title": "Exempel",
+			"text": "En nybörjare som gör två helkroppspass i veckan och jämnt lägger till repetitioner i knäböj och armhävningar kan göra framsteg utan att känna sig sönderkörd efter varje pass."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Efter ett pass skattar du passets ansträngning (RPE) och rapporterar eventuell smärta med kroppsområde och övning. Om något gör ont under ett pass, använd ”Jag känner smärta” för att avsluta övningen direkt. Den ligger utanför dina program tills du återupptar den från Profil. Nylig smärta betyder att ditt nästa program inte blir svårare. Ny eller svår smärta är ett skäl att avbryta och låta bedöma den."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: praktisk vägledning",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: ledsmärta",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		}
+	]
+}

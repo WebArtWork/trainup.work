@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Energía inmediata de alta potencia",
+			"text": "El sistema ATP-fosfocreatina (fosfágeno) puede rellenar el ATP con rapidez durante esfuerzos cortos de alta potencia, como un salto, una salida de velocidad o una serie pesada. Solo puede mantener el rendimiento máximo durante un tiempo breve, lo que ayuda a explicar por qué varios minutos de descanso pueden restaurar el rendimiento entre esfuerzos duros de fuerza o de velocidad."
+		},
+		{
+			"title": "Degradación rápida de carbohidratos",
+			"text": "La glucólisis anaeróbica suministra ATP a partir de carbohidratos, y las reacciones que lo producen no necesitan oxígeno. Importa sobre todo en esfuerzos duros que duran desde muchos segundos hasta unos pocos minutos. El lactato suele llamarse «desecho» o se culpa como única causa de las agujetas, pero tu cuerpo también lo usa como combustible y como señal metabólica."
+		},
+		{
+			"title": "Producción aeróbica sostenida",
+			"text": "El metabolismo oxidativo en las mitocondrias usa oxígeno para fabricar ATP a partir de carbohidratos y grasas. Impulsa los paseos largos, el ciclismo, la carrera a ritmo constante y buena parte de la recuperación entre intervalos duros. Incluso los esfuerzos cortos reciben algo de aporte aeróbico, porque los sistemas nunca se encienden y se apagan en compartimentos de tiempo separados."
+		},
+		{
+			"title": "Por qué importan la duración y el descanso",
+			"text": "Un sprint de cinco segundos casi máximo y un paseo de 30 minutos necesitan cantidades de potencia muy distintas. Los intervalos duros repetidos de 20 segundos con descansos cortos hacen más difícil mantener tu rendimiento a medida que se acumula la fatiga. Las series pesadas con barra suelen necesitar descansos más largos para mantener tu fuerza y tu técnica, y quedarte lo más sin aliento posible no es el objetivo."
+		},
+		{
+			"title": "Cómo ponerlo en práctica",
+			"text": "Date suficiente recuperación cuando la fuerza o la velocidad sean el objetivo principal. Usa actividad moderada y constante para desarrollar la capacidad aeróbica. Usa intervalos para el acondicionamiento cuando encajen, y ajusta el trabajo y el descanso a tu capacidad actual. Una frecuencia cardíaca alta al levantar peso no significa que la sesión te diera el mismo estímulo aeróbico que el cardio sostenido."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Directrices de actividad aeróbica de la OMS",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

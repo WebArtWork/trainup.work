@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Se placer et bouger",
+			"text": "Tenez-vous avec les pieds à une largeur et un angle d’orteils confortables. Gainez votre tronc, laissez vos hanches et vos genoux fléchir ensemble et gardez la pression équilibrée sur les pieds. Descendez sous contrôle jusqu’à une profondeur où votre technique reste stable, puis poussez dans le sol pour vous relever. L’inclinaison de votre torse et l’avancée de vos genoux varieront selon la longueur de vos membres et le type de squat."
+		},
+		{
+			"title": "Profondeur et avancée des genoux",
+			"text": "Il n’existe aucune règle disant que vos genoux doivent rester derrière vos orteils. Ils avancent dans de nombreux squats, et c’est normal. Un squat plus profond peut être utile quand vous l’atteignez confortablement et avec contrôle, mais forcer la profondeur au prix d’articulations douloureuses ou d’un équilibre perdu n’aide pas. Surélever vos talons ou changer votre écartement modifie le mouvement, et aucun des deux ne rend un squat meilleur par défaut."
+		},
+		{
+			"title": "Erreurs courantes et corrections",
+			"text": "Des talons qui se soulèvent, des genoux qui s’affaissent vers l’intérieur sans contrôle et la perte d’un tronc stable signifient souvent que la profondeur, l’équilibre ou la charge ne correspondent pas encore à ce que vous contrôlez. Essayez un poids plus léger, une pause juste au-dessus du point difficile ou une chaise comme cible. Vos genoux peuvent pointer à peu près dans la même direction que vos orteils sans suivre une trajectoire rigide."
+		},
+		{
+			"title": "Exemple de progression",
+			"text": "Commencez avec des levers de chaise ou des squats au poids du corps. Ajoutez un goblet squat quand le schéma est fiable, puis des haltères ou une barre si vous le souhaitez. Par exemple, terminez deux séries de 8 répétitions contrôlées avant d’ajouter de la charge. Les variantes plus avancées sont facultatives, et vous n’en avez pas besoin pour être en forme."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Votre programme choisit des squats au poids du corps, goblet ou chargés qui conviennent à votre équipement, à votre niveau, à votre coordination et aux limites que vous avez indiquées dans Profil, comme un genou. Quand vous progressez, gardez la même profondeur et la même technique, pour que des chiffres plus lourds reflètent un vrai progrès."
+		}
+	],
+	"sources": [
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Clinique Mayo : technique de musculation (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

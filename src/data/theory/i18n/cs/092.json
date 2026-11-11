@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Celkový obraz",
+			"text": "Cvičení spotřebovává energii a jídlo dodává to, co potřebujete k tréninku, regeneraci a budování tkání. Pestrá strava obvykle zahrnuje potraviny bohaté na bílkoviny, potraviny bohaté na sacharidy, ovoce, zeleninu a zdroje tuků. Velmi restriktivní stravování může brzdit výkon a regeneraci, i když jsou vaše tréninky dobře navržené."
+		},
+		{
+			"title": "Bílkoviny a svaly",
+			"text": "Bílkoviny poskytují aminokyseliny, které tělo používá k udržování tkání a adaptaci svalů. Výzkum u cvičících dospělých často uvádí zhruba 1,4–2,0 gramu bílkovin na kilogram tělesné hmotnosti denně jako rozsah podložený důkazy. Potřeby se liší podle věku, tréninku a osobních okolností a toto číslo nemusíte počítat."
+		},
+		{
+			"title": "Sacharidy a tuky",
+			"text": "Sacharidy pohánějí opakované náročné úsilí a vytrvalostní tréninky udržováním svalového glykogenu. Tuk ve stravě poskytuje esenciální mastné kyseliny a pomáhá vstřebávat některé vitaminy. Podrobné strategie sportovní výživy záleží víc, jak roste váš tréninkový objem. Jako začátečník se nejdřív soustřeďte na pravidelná, vyvážená jídla."
+		},
+		{
+			"title": "Příklad",
+			"text": "Pokud posilujete tři dny v týdnu, můžete jídla postavit kolem fazolí, ryb, vajec nebo jiného zdroje bílkovin, přidat obiloviny nebo brambory pro energii a zařadit zeleninu a ovoce. Na tom, co jíte během týdne, záleží víc než na pití určitého shaku hned po každé sérii."
+		},
+		{
+			"title": "Kdy vyhledat odbornou pomoc",
+			"text": "Pokud máte zdravotní potíže, obavy z jídla nebo specializovaný výkonnostní cíl, promluvte si s registrovaným dietologem nebo zdravotnickým odborníkem. TrainUp nedává individuální kalorické cíle, sledování makroživin ani jídelníčky na hubnutí."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ISSN: bílkoviny a cvičení",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

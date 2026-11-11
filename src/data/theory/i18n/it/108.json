@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Benefici e via libera",
+			"text": "L’ACOG consiglia che molte persone con gravidanze non complicate possono continuare o iniziare un’attività aerobica e di condizionamento della forza adatta. Parla di esercizio con il tuo professionista sanitario ostetrico, soprattutto se inizi una nuova routine o hai complicazioni. Può dirti se la tua gravidanza è medicalmente non complicata. TrainUp non può."
+		},
+		{
+			"title": "Adattati man mano che le cose cambiano",
+			"text": "Equilibrio, tolleranza al caldo, comfort respiratorio e movimenti che preferisci possono cambiare durante la gravidanza. Scegli attività comode. Evita il surriscaldamento, le attività con un reale rischio di cadute o collisioni e le posizioni che ti danno le vertigini. Se ti allenavi molto prima, potresti mantenere un po’ di attività impegnativa con le indicazioni cliniche, perché la gravidanza non significa automaticamente riposo totale."
+		},
+		{
+			"title": "Segnali d’allarme",
+			"text": "Interrompi l’esercizio e contatta il tuo medico ostetrico se hai sanguinamento vaginale, perdita di liquido, dolore al petto, capogiri, dolore o gonfiore al polpaccio, contrazioni dolorose o mancanza di fiato insolita. I sintomi di emergenza richiedono cure urgenti. Non cercare di aggirare i sintomi specifici della gravidanza cambiando gli esercizi."
+		},
+		{
+			"title": "Dopo il parto",
+			"text": "Quando puoi tornare all’esercizio dipende dal parto, dal tuo recupero, dai sintomi del pavimento pelvico e da altri fattori personali. Una camminata facile può andare bene per alcune persone. Dolore persistente, perdite, sensazione di pesantezza o altri problemi richiedono una valutazione professionale, e nessuna tempistica fissa va bene per tutte. TrainUp non costruisce programmi per la gravidanza, per il pavimento pelvico né per il dopo intervento."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACOG: esercizio durante la gravidanza",
+			"url": "https://www.acog.org/womens-health/faqs/exercise-during-pregnancy"
+		},
+		{
+			"label": "ACOG: esercizio durante la gravidanza e nel postparto",
+			"url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period"
+		}
+	]
+}

@@ -1,0 +1,521 @@
+{
+	"ui": {
+		"title": "Théories",
+		"intro": "De courtes explications sur le fonctionnement de l’entraînement : ce que signifie chaque idée, comment l’utiliser et ce qu’il faut éviter. Chaque théorie existe en version courte et en version détaillée.",
+		"disclaimer": "Ces théories relèvent de l’information générale et ne constituent pas un avis médical. Si vous avez une douleur, une blessure ou un problème de santé, demandez conseil à un médecin ou à un kinésithérapeute avant de modifier votre entraînement.",
+		"searchLabel": "Rechercher des théories",
+		"searchPlaceholder": "Rechercher par titre ou par idée",
+		"topicLabel": "Thème",
+		"allTopics": "Tous les thèmes",
+		"count": "{shown} sur {n} théories",
+		"empty": "Aucune théorie ne correspond à votre recherche.",
+		"reset": "Afficher toutes les théories",
+		"short": "En bref",
+		"readMore": "Lire la suite",
+		"readLess": "Réduire",
+		"sources": "Sources",
+		"previous": "Précédent",
+		"next": "Suivant",
+		"backToList": "Toutes les théories",
+		"inTopic": "Plus dans {title}",
+		"notFound": "Cette théorie est introuvable."
+	},
+	"topics": {
+		"foundations": "Bases de l’entraînement",
+		"body": "Corps et mouvement",
+		"variables": "Variables d’entraînement",
+		"patterns": "Schémas de mouvement",
+		"programming": "Conception du programme",
+		"equipment": "Équipement",
+		"space": "Espace et environnement",
+		"conditioning": "Condition physique",
+		"mobility": "Échauffement et mobilité",
+		"recovery": "Récupération",
+		"safety": "Sécurité et limites",
+		"groups": "Publics spécifiques",
+		"progress": "Suivi des progrès",
+		"myths": "Idées reçues"
+	},
+	"theories": {
+		"1": {
+			"title": "Comment l’entraînement transforme le corps",
+			"short": "L’entraînement est un défi maîtrisé qui pousse votre système nerveux, vos muscles, votre cœur et d’autres tissus à devenir meilleurs dans les tâches que vous répétez. Le progrès vient de l’association de ce défi avec une récupération suffisante et d’une hausse progressive de l’exigence, pas du fait de rendre chaque séance épuisante."
+		},
+		"2": {
+			"title": "Les composantes de la condition physique",
+			"short": "La condition physique se compose de plusieurs capacités en partie indépendantes : force, puissance, endurance musculaire, endurance aérobie, mobilité, équilibre et coordination. Les connaître vous aide à choisir des exercices adaptés à votre objectif, car chaque type de séance travaille des qualités différentes."
+		},
+		"3": {
+			"title": "Objectifs d’entraînement : forme générale, force, condition physique",
+			"short": "La forme générale, la force et la condition physique sont des priorités différentes, et chacune influence le choix des exercices, l’effort, le repos et la progression. Vous pouvez travailler plusieurs qualités ensemble, mais un objectif principal rend un programme plus facile à organiser et à évaluer."
+		},
+		"4": {
+			"title": "Niveaux de forme : débutant, intermédiaire, avancé",
+			"short": "Votre niveau d’entraînement décrit votre expérience et votre maîtrise des exercices et des charges que vous faites réellement, pas votre allure athlétique. Les débutants progressent souvent avec une pratique simple et un volume modeste, tandis que les personnes expérimentées ont généralement besoin d’une planification plus réfléchie."
+		},
+		"5": {
+			"title": "Bilan de préparation : quand consulter un professionnel d’abord",
+			"short": "Un bilan de préparation repère les problèmes de santé ou les symptômes qui peuvent nécessiter l’avis d’un professionnel avant de vous entraîner plus intensément. Il vous aide à prendre des décisions plus sûres, mais ce n’est pas un diagnostic médical et il ne vous interdit pas automatiquement toute activité."
+		},
+		"6": {
+			"title": "Recommandations d’activité physique",
+			"short": "Les recommandations d’activité physique fixent l’activité hebdomadaire minimale associée à des bénéfices importants pour la santé. Pour la plupart des adultes, un objectif utile est une activité aérobie régulière d’intensité modérée ou soutenue, plus un renforcement musculaire des principaux groupes musculaires au moins deux jours par semaine."
+		},
+		"7": {
+			"title": "Se fixer des objectifs d’entraînement réalistes",
+			"short": "Un objectif d’entraînement utile est précis, mesurable, réaliste et lié à une échéance. Associez le résultat voulu à des actions hebdomadaires que vous maîtrisez, afin de voir vos progrès même lorsque les résultats se font attendre."
+		},
+		"8": {
+			"title": "Régularité et habitudes d’entraînement",
+			"short": "La régularité consiste à vous entraîner assez souvent et assez longtemps pour que les améliorations s’additionnent, y compris pendant les semaines imparfaites. Des séances courtes que vous pouvez répéter et une routine prévisible valent généralement mieux qu’un programme ambitieux abandonné après quelques séances."
+		},
+		"9": {
+			"title": "Les principaux groupes musculaires",
+			"short": "Vos principaux groupes musculaires travaillent ensemble pour mouvoir et stabiliser votre corps, donc les entraîner demande plus que d’isoler des muscles un par un. Savoir ce que fait chaque groupe vous aide à construire des séances équilibrées et à comprendre pourquoi un seul mouvement peut solliciter plusieurs zones à la fois."
+		},
+		"10": {
+			"title": "Comment travaillent les muscles : concentrique, excentrique, isométrique",
+			"short": "Les muscles produisent ou freinent une force en se raccourcissant, en s’allongeant ou en maintenant une position. Ces actions concentrique, excentrique et isométrique ont souvent lieu dans un même exercice, et elles aident à comprendre ce que signifie contrôler une charge."
+		},
+		"11": {
+			"title": "Les types de fibres musculaires",
+			"short": "Les muscles squelettiques contiennent des fibres qui diffèrent par leur résistance à la fatigue et leur production de force, généralement décrites comme de type I et de type II. Les deux types vous aident à bouger, et l’entraînement améliore leur performance sans faire de vous un « type de fibres » totalement différent."
+		},
+		"12": {
+			"title": "Les articulations et l’amplitude de mouvement",
+			"short": "Les articulations bougent dans des amplitudes déterminées par l’anatomie, le contrôle musculaire, la souplesse et le confort. S’entraîner dans une amplitude utile que vous contrôlez construit en général des capacités qui se transfèrent mieux que de forcer tout le monde dans les mêmes positions."
+		},
+		"13": {
+			"title": "La colonne vertébrale, le gainage et la mise en tension",
+			"short": "Votre colonne vertébrale vous soutient et permet le mouvement, et les muscles du tronc qui l’entourent aident à contrôler les forces pendant l’exercice. La mise en tension est un resserrement coordonné du tronc qui peut améliorer la stabilité, et elle diffère du fait de tenir une posture rigide unique dans toutes les activités."
+		},
+		"14": {
+			"title": "Les filières énergétiques à l’effort",
+			"short": "L’exercice fait appel à trois filières énergétiques qui se chevauchent : phosphagène, glycolytique et oxydative. Les trois fonctionnent en permanence, mais l’importance de chacune change selon l’intensité et la durée de l’effort et selon la récupération entre les efforts."
+		},
+		"15": {
+			"title": "Fréquence cardiaque et zones d’entraînement",
+			"short": "La fréquence cardiaque peut vous aider à estimer l’intensité d’un exercice aérobie, mais les zones d’entraînement sont des approximations, pas des frontières biologiques universelles. Utilisez votre pouls avec la respiration, le test de la parole, l’effort ressenti et vos propres facteurs de santé pour choisir une intensité que vous pouvez tenir."
+		},
+		"16": {
+			"title": "La respiration pendant l’exercice",
+			"short": "La respiration soutient le mouvement, aide à gérer la pression dans le tronc et change selon l’intensité de l’effort. Pour la plupart des débutants, un rythme régulier et une expiration pendant la partie la plus dure de chaque répétition sont un moyen pratique d’éviter de retenir son souffle sans nécessité."
+		},
+		"17": {
+			"title": "Apprentissage moteur : comment se construit la technique",
+			"short": "La technique d’un exercice est une compétence que vous construisez par une pratique répétée et attentive et par des retours utiles. Vous apprenez les exercices plus efficacement en commençant par des versions plus faciles, en gardant des répétitions régulières et en augmentant la difficulté seulement une fois que vous maîtrisez le geste."
+		},
+		"18": {
+			"title": "La croissance musculaire (hypertrophie)",
+			"short": "L’hypertrophie musculaire est une augmentation du volume des muscles qui résulte d’un entraînement répété et de la récupération. La charge mécanique est un stimulus majeur, et le volume d’entraînement, l’effort, une alimentation suffisante et le sommeil influencent votre capacité d’adaptation."
+		},
+		"19": {
+			"title": "Séries, répétitions et temps de repos",
+			"short": "Une répétition est un mouvement complet d’un exercice, une série est un groupe de répétitions, et les temps de repos séparent les séries ou les exercices. Ensemble, ils déterminent la quantité de travail que contient une séance et votre capacité à maintenir votre force, votre technique ou votre endurance."
+		},
+		"20": {
+			"title": "Les plages de répétitions et ce qu’elles travaillent",
+			"short": "Les plages de répétitions orientent ce que vous privilégiez, mais elles ne divisent pas l’entraînement en catégories strictes. Le travail lourd à peu de répétitions compte surtout pour la force maximale, le muscle peut se développer sur de nombreuses plages, et les répétitions nombreuses peuvent développer l’endurance musculaire locale."
+		},
+		"21": {
+			"title": "Le volume d’entraînement",
+			"short": "Le volume d’entraînement est la quantité de travail que vous faites. En musculation, on le compte généralement en séries difficiles par groupe musculaire et par semaine. Un volume suffisant fait progresser, mais des séries au-delà de ce dont vous pouvez récupérer peuvent diminuer la qualité de votre entraînement."
+		},
+		"22": {
+			"title": "Intensité : charge et pourcentage du 1RM",
+			"short": "En musculation, l’intensité désigne souvent le poids d’une charge par rapport à votre maximum sur une répétition, ou 1RM. Les pratiquants expérimentés peuvent utiliser des pourcentages pour fixer leurs charges. Les débutants peuvent choisir un poids plus sûrement d’après des répétitions contrôlées et l’effort, sans test maximal."
+		},
+		"23": {
+			"title": "Échelle de perception de l’effort (RPE)",
+			"short": "L’échelle de perception de l’effort (RPE) est votre propre évaluation de la difficulté ressentie d’un exercice. Si vous la notez à côté de ce que vous avez accompli, vous repérez les séances plus faciles ou plus difficiles que prévu et ajustez l’entraînement futur petit à petit."
+		},
+		"24": {
+			"title": "Répétitions en réserve (RIR)",
+			"short": "Les répétitions en réserve (RIR) sont votre estimation du nombre de répétitions propres que vous auriez pu faire de plus avant la fin d’une série. Elles vous aident à choisir des charges difficiles mais qui laissent quelques répétitions de marge, sans tester votre maximum ni aller à l’échec à chaque série."
+		},
+		"25": {
+			"title": "Le tempo de levée",
+			"short": "Le tempo de levée est la vitesse et le rythme de chaque phase d’une répétition. Un tempo contrôlé aide à travailler la technique et rend les séances plus faciles à reproduire. Des répétitions très lentes ne sont pas automatiquement meilleures pour la force ou la croissance musculaire."
+		},
+		"26": {
+			"title": "Séries chronométrées et maintiens",
+			"short": "Les séries chronométrées et les maintiens statiques mesurent l’effort en secondes plutôt qu’en répétitions. Ils conviennent aux planches, aux chaises contre le mur, aux suspensions et aux intervalles de condition physique, à condition que votre position ou votre rythme reste le même pendant toute la durée."
+		},
+		"27": {
+			"title": "La fréquence d’entraînement",
+			"short": "La fréquence d’entraînement est le nombre de fois où vous vous exercez dans la semaine, au total ou pour un groupe musculaire. Un bon planning vous donne assez de pratique et de travail pour progresser tout en laissant du temps pour la récupération et pour le reste de votre vie."
+		},
+		"28": {
+			"title": "L’ordre des exercices dans une séance",
+			"short": "L’ordre des exercices détermine ceux que vous faites au moment où vous êtes le plus frais. Placez en début de séance vos exercices prioritaires, les mouvements techniquement difficiles et les levées à forte charge, puis intégrez le travail d’appoint plus simple, le gainage ou la condition physique là où cela sert l’objectif de la séance."
+		},
+		"29": {
+			"title": "S’entraîner jusqu’à l’échec",
+			"short": "S’entraîner jusqu’à l’échec signifie poursuivre une série jusqu’à ne plus pouvoir faire une répétition de plus selon le standard que vous avez choisi. Cela demande beaucoup d’effort, mais vous n’en avez pas besoin pour la force ni pour la croissance musculaire, et cela ajoute de la fatigue et des risques pour la technique."
+		},
+		"30": {
+			"title": "Planifier la durée d’une séance",
+			"short": "Planifier la durée d’une séance consiste à estimer le temps que prennent réellement votre échauffement, vos séries, vos repos, vos changements d’exercice et un éventuel travail de condition physique. Une séance réaliste de 20 à 45 minutes qui couvre vos priorités principales vous apporte souvent plus qu’un programme plus long qui ne rentre jamais dans votre journée."
+		},
+		"31": {
+			"title": "Les schémas de mouvement fondamentaux",
+			"short": "Les schémas de mouvement regroupent les exercices selon ce que fait le corps plutôt que selon les muscles isolés. Le squat, la charnière, la fente, la poussée, le tirage, le portage, la stabilisation du tronc et la locomotion offrent un moyen pratique de choisir un ensemble d’exercices équilibré."
+		},
+		"32": {
+			"title": "Le schéma du squat",
+			"short": "Un squat abaisse et relève votre corps en fléchissant puis en étendant ensemble les hanches, les genoux et les chevilles. Apprendre un squat confortable pour votre corps aide pour soulever des charges, vous asseoir et de nombreux exercices de force du bas du corps."
+		},
+		"33": {
+			"title": "Le schéma de la charnière de hanche",
+			"short": "Une charnière de hanche se plie surtout au niveau des hanches pendant que vous gardez le tronc contrôlé. C’est la base des soulevés de terre, des soulevés de terre roumains et des mouvements au kettlebell, et elle entraîne les fessiers et les ischio-jambiers à produire de la force."
+		},
+		"34": {
+			"title": "Fentes et entraînement unilatéral des jambes",
+			"short": "Les fentes, les squats bulgares et les montées sur banc chargent une jambe plus que l’autre et sollicitent votre équilibre et le contrôle de vos hanches. Elles peuvent développer une force utile du bas du corps et révéler des différences entre vos côtés gauche et droit."
+		},
+		"35": {
+			"title": "La poussée horizontale",
+			"short": "La poussée horizontale éloigne vos bras de votre torse vers l’avant, comme dans les pompes, les développés pectoraux et le développé couché. Elle travaille surtout les pectoraux, les triceps et l’avant des épaules, et elle demande du contrôle du tronc et des épaules."
+		},
+		"36": {
+			"title": "La poussée verticale",
+			"short": "La poussée verticale pousse une résistance au-dessus de la tête, comme dans un développé épaules aux haltères, un développé militaire à la barre ou une pompe en pique. Elle développe la force des épaules et des bras et demande que vos omoplates, votre tronc et vos hanches travaillent ensemble."
+		},
+		"37": {
+			"title": "Le tirage horizontal",
+			"short": "Le tirage horizontal ramène vos mains ou vos coudes vers votre torse, comme dans les rowings. Les rowings travaillent le haut du dos, les grands dorsaux, l’arrière des épaules et les fléchisseurs du coude, et ils équilibrent de nombreux exercices de poussée."
+		},
+		"38": {
+			"title": "Le tirage vertical",
+			"short": "Le tirage vertical ramène vos coudes vers le bas depuis une position au-dessus de la tête, comme dans les tractions, les tractions en supination et le tirage vertical à la poulie. Il sollicite surtout les grands dorsaux et le haut du dos, avec une aide importante des bras et du tronc."
+		},
+		"39": {
+			"title": "Travail du tronc : anti-extension, anti-rotation, anti-flexion latérale",
+			"short": "La force du tronc inclut la capacité de résister aux mouvements indésirables en plus de celle de fléchir le torse. Les exercices d’anti-extension, d’anti-rotation et d’anti-flexion latérale entraînent votre tronc à rester contrôlé pendant que des forces s’exercent sur lui."
+		},
+		"40": {
+			"title": "Les portages chargés",
+			"short": "Les portages chargés consistent à marcher en tenant une charge, comme des haltères ou des kettlebells. Un portage est simple mais exigeant : il travaille ensemble la force de préhension, la stabilité du tronc, la posture et le schéma de marche."
+		},
+		"41": {
+			"title": "Les exercices d’isolation",
+			"short": "Les exercices d’isolation se concentrent sur le mouvement d’une articulation principale, comme un curl biceps ou une extension de jambe. Ils permettent de donner à un muscle un surcroît de pratique ou de volume d’entraînement en plus de ce que lui apportent déjà les mouvements polyarticulaires."
+		},
+		"42": {
+			"title": "Équilibrer poussée et tirage",
+			"short": "Les mouvements de poussée et de tirage entraînent des parties différentes mais qui se chevauchent du haut du corps. Faire les deux construit une force harmonieuse et évite que votre programme ne se remplisse d’exercices de poussée."
+		},
+		"43": {
+			"title": "Les principes de l’entraînement",
+			"short": "Un bon entraînement suit quelques principes liés entre eux : spécificité, surcharge progressive, individualisation, récupération, régularité et réversibilité. Ils sont un guide plus fiable que de copier la routine d’un athlète avancé."
+		},
+		"44": {
+			"title": "La surcharge progressive",
+			"short": "La surcharge progressive consiste à rendre un exercice plus difficile peu à peu à mesure que votre corps s’adapte. Elle est nécessaire pour continuer à progresser, et vous pouvez l’appliquer par les répétitions, la résistance, le contrôle du mouvement, l’amplitude ou un exercice plus difficile, et pas seulement par des poids plus lourds."
+		},
+		"45": {
+			"title": "La double progression",
+			"short": "La double progression est une façon simple d’avancer en musculation : vous ajoutez des répétitions dans une plage choisie, puis vous ajoutez du poids. Elle enlève l’essentiel des tâtonnements au moment de choisir une nouvelle charge."
+		},
+		"46": {
+			"title": "Programmes full body, haut/bas du corps et split",
+			"short": "Un split est la façon de répartir vos exercices sur la semaine. Les programmes full body, haut/bas du corps et par groupes musculaires peuvent tous développer la force et le muscle lorsque le travail total, l’effort et la récupération vous conviennent."
+		},
+		"47": {
+			"title": "Structurer une semaine d’entraînement",
+			"short": "Une semaine d’entraînement organise les séances difficiles, l’activité plus légère et la récupération pour que votre programme s’adapte à votre vie réelle. Un bon planning vous fait vous entraîner assez souvent sans accumuler de fatigue due à des séances difficiles enchaînées."
+		},
+		"48": {
+			"title": "Notions de périodisation",
+			"short": "La périodisation consiste à planifier l’évolution de votre charge d’entraînement dans le temps. Les approches linéaire, ondulatoire et par blocs sont des façons d’organiser la progression, mais les débutants peuvent souvent s’améliorer avec un programme beaucoup plus simple auquel ils s’en tiennent."
+		},
+		"49": {
+			"title": "Les semaines de décharge",
+			"short": "Une décharge est une courte période d’entraînement plus léger qui laisse la fatigue diminuer tout en vous permettant de continuer à pratiquer vos mouvements. Vous pouvez planifier les décharges à l’avance ou en prendre une quand votre charge habituelle cesse de vous sembler récupérable."
+		},
+		"50": {
+			"title": "Choisir ses exercices",
+			"short": "Choisissez des exercices adaptés à votre objectif, à votre niveau, à votre équipement, à votre espace et à vos éventuelles limites. Le meilleur exercice est celui que vous pouvez faire en sécurité, répéter régulièrement et rendre peu à peu plus difficile."
+		},
+		"51": {
+			"title": "Progressions et régressions",
+			"short": "Une progression rend un exercice plus difficile, et une régression le rend plus facile. Ce sont deux outils d’entraîneur courants pour adapter un exercice à votre force, à votre technique et à votre récupération."
+		},
+		"52": {
+			"title": "Supersets et circuits",
+			"short": "Un superset associe des exercices avec peu de repos entre eux, et un circuit enchaîne plusieurs mouvements en rotation. Les deux peuvent faire gagner du temps, mais la fatigue et la récupération plus courte peuvent diminuer la qualité des exercices lourds ou très techniques."
+		},
+		"53": {
+			"title": "Les plateaux de progression",
+			"short": "Un plateau est une période où une capacité cesse de s’améliorer alors que vous continuez à la travailler. Les plateaux sont courants, et la cause peut être la récupération, un défi insuffisant, des mesures irrégulières ou la progression plus lente qui accompagne l’expérience."
+		},
+		"54": {
+			"title": "Désentraînement et reprise après une pause",
+			"short": "Le désentraînement est la perte partielle de condition physique après une réduction ou un arrêt de l’entraînement. Une reprise prudente reconstruit votre capacité étape par étape, sans attendre que votre corps supporte tout de suite son ancienne charge de travail."
+		},
+		"55": {
+			"title": "L’entraînement au poids du corps",
+			"short": "L’entraînement au poids du corps utilise votre propre corps comme résistance pour la force et la pratique du mouvement. Les squats, les pompes, les fentes, les planches et les tractions peuvent vous mener loin sans acheter tout un jeu de poids."
+		},
+		"56": {
+			"title": "L’entraînement aux haltères",
+			"short": "Les haltères sont des poids libres polyvalents pour les développés, les rowings, les squats, les charnières et les exercices unilatéraux. Chaque bras bouge indépendamment et vous pouvez changer de prise, mais il faut être attentif à l’équilibre, à la manipulation et au rangement."
+		},
+		"57": {
+			"title": "L’entraînement au kettlebell",
+			"short": "Un kettlebell est un poids muni d’une poignée dont la masse est décalée par rapport à la prise. Vous pouvez l’utiliser pour des exercices de force contrôlés et pour des mouvements plus rapides comme les swings, mais les exercices plus techniques demandent une pratique réfléchie."
+		},
+		"58": {
+			"title": "L’entraînement aux bandes élastiques",
+			"short": "Les bandes élastiques offrent une résistance portable qui augmente généralement à mesure que la bande s’étire. Vous pouvez les utiliser pour des développés, des rowings, des tirages et du travail complémentaire, à condition de les ancrer en sécurité et de les garder en bon état."
+		},
+		"59": {
+			"title": "L’entraînement à la barre",
+			"short": "Une barre permet de charger des levées comme les squats, les soulevés de terre, les développés et les rowings, un peu plus lourd avec le temps. Elle est idéale pour développer un haut niveau de force, mais elle exige une technique solide, une installation correcte du matériel et des précautions de sécurité."
+		},
+		"60": {
+			"title": "Machines et poulies",
+			"short": "Les machines de musculation et les stations à poulies offrent une résistance réglable et peuvent simplifier la mise en place de l’exercice. Ce sont des outils de renforcement efficaces, à côté des poids libres, et non un substitut de moindre valeur."
+		},
+		"61": {
+			"title": "Barre de traction : installation et sécurité",
+			"short": "Une barre de traction permet de faire des tractions, des tractions en supination et des exercices en suspension, mais seulement si elle est solidement installée et prévue pour l’usage que vous en faites. La qualité de la fixation compte plus que le nombre de répétitions que vous pouvez faire."
+		},
+		"62": {
+			"title": "Bancs, steps et cordes à sauter",
+			"short": "Les bancs, les steps et les cordes à sauter ajoutent de nombreux exercices à la maison et en salle. Chacun ne fonctionne bien que si sa taille, sa stabilité et son dégagement conviennent au mouvement et à la personne qui l’utilise."
+		},
+		"63": {
+			"title": "Choisir la bonne charge",
+			"short": "La bonne charge est assez lourde pour vous faire travailler et assez légère pour que chaque répétition reste contrôlée. Si vous débutez, vous pouvez choisir vos poids d’après la qualité de votre mouvement et le nombre de répétitions qu’il vous reste, sans tester une levée maximale."
+		},
+		"64": {
+			"title": "S’entraîner avec des objets du quotidien",
+			"short": "Des objets du quotidien peuvent parfois remplacer du matériel d’entraînement comme résistance légère ou comme appui. N’en utilisez un qu’après avoir vérifié sa stabilité, la charge qu’il supporte, sa prise et ce que vous prévoyez d’en faire."
+		},
+		"65": {
+			"title": "Espace utilisable et dégagement des exercices",
+			"short": "L’espace d’entraînement utilisable comprend l’endroit où vous vous tenez, mais aussi tous les endroits que votre corps et votre matériel parcourent pendant chaque répétition. Le mesurer vous aide à éviter les collisions et permet à TrainUp de choisir des exercices qui tiennent vraiment dans votre espace."
+		},
+		"66": {
+			"title": "Hauteur sous plafond et exercices au-dessus de la tête",
+			"short": "La hauteur sous plafond détermine si les développés au-dessus de la tête, les tractions, les sauts et la corde à sauter sont praticables. Un mouvement peut tenir quand vous êtes immobile et devenir dangereux dès que vos bras, la charge ou votre corps montent."
+		},
+		"67": {
+			"title": "Surface d’entraînement et chaussures",
+			"short": "Votre sol et vos chaussures influencent la stabilité, l’adhérence et la dureté de chaque réception. La meilleure combinaison dépend du type de mouvement : levée, course, saut ou travail de mobilité lent."
+		},
+		"68": {
+			"title": "Bruit et impacts quand on s’entraîne à la maison",
+			"short": "Les séances à la maison peuvent déranger les voisins et marteler le sol, surtout à cause des sauts et des poids qui tombent. Les exercices à faible impact offrent tout de même un vrai travail de condition physique avec beaucoup moins de bruit."
+		},
+		"69": {
+			"title": "S’entraîner en salle : savoir-vivre et sécurité",
+			"short": "S’entraîner en sécurité en salle, c’est une bonne technique et de l’attention pour le matériel partagé et les personnes autour de vous. Un savoir-vivre clair réduit le risque de blessure et facilite l’usage du matériel pour tous quand la salle est bondée."
+		},
+		"70": {
+			"title": "S’entraîner dehors : météo et terrain",
+			"short": "En extérieur, la météo, le sol, la lumière et le matériel changent d’un jour à l’autre. Adapter l’intensité et le lieu rend les marches, les courses et les séances au parc plus sûres et plus faciles à tenir."
+		},
+		"71": {
+			"title": "Construire une base aérobie",
+			"short": "Une base aérobie est votre capacité à maintenir longtemps une activité plutôt confortable. La construire rend les mouvements du quotidien et les séances de condition physique plus intenses plus faciles à supporter."
+		},
+		"72": {
+			"title": "Le cardio à allure constante",
+			"short": "Le cardio à allure constante maintient votre effort assez régulier pendant toute la séance, avec des activités comme la marche, le jogging, le vélo ou les appareils de cardio. Il développe l’endurance sans répéter des intervalles à fond."
+		},
+		"73": {
+			"title": "L’entraînement par intervalles",
+			"short": "L’entraînement par intervalles alterne un travail plus dur avec une récupération plus facile. En réglant la durée et l’intensité de chaque partie, vous pouvez améliorer votre condition physique pas à pas, et aucune séance n’a besoin d’être un test à fond."
+		},
+		"74": {
+			"title": "HIIT et Tabata",
+			"short": "L’entraînement fractionné de haute intensité (HIIT) alterne des efforts vraiment durs avec de la récupération, et le Tabata est un format précis de 20 secondes d’effort et 10 secondes de repos. Aucun de ces termes ne désigne n’importe quelle séance rapide."
+		},
+		"75": {
+			"title": "Rapports effort/repos",
+			"short": "Un rapport effort/repos compare la durée de votre effort à celle de votre récupération. Des rapports comme 1:3, 1:1 et 2:1 déterminent le degré de densité d’une séance, et leur effet dépend aussi de l’intensité de l’intervalle d’effort."
+		},
+		"76": {
+			"title": "Condition physique à faible impact",
+			"short": "La condition physique à faible impact fait monter votre respiration et votre fréquence cardiaque avec moins de réceptions dures. Elle convient aux débutants, aux personnes qui doivent limiter les impacts et à toute personne qui s’entraîne là où le bruit pose problème."
+		},
+		"77": {
+			"title": "Pliométrie et sauts",
+			"short": "La pliométrie entraîne le mouvement explosif par un étirement puis un raccourcissement rapides des muscles, généralement avec des petits sauts, des bonds et des sauts. Elle demande des réceptions contrôlées, une montée en charge progressive et assez de repos pour garder chaque répétition vive."
+		},
+		"78": {
+			"title": "Bases de la technique de course",
+			"short": "La technique de course concerne la posture, le rythme de la foulée et l’habituation progressive aux impacts répétés. Si vous débutez, vous gagnez davantage à courir de façon confortable et reproductible et à monter en charge progressivement qu’à copier une seule « parfaite » attaque du pied."
+		},
+		"79": {
+			"title": "Savoir-faire à la corde à sauter",
+			"short": "La corde à sauter est un travail de condition physique portable qui demande le bon rythme avec la corde et de petits sauts répétés. Réglez correctement la longueur de la corde, le contrôle du poignet et le rythme des réceptions avant d’essayer des intervalles longs ou rapides."
+		},
+		"80": {
+			"title": "Combiner force et cardio",
+			"short": "Faire à la fois de la musculation et du cardio développe la forme musculaire et cardiovasculaire. Pour la plupart des personnes qui s’exercent pour leur plaisir, un planning hebdomadaire raisonnable permet de progresser dans les deux, donc vous n’avez pas à choisir l’un des deux."
+		},
+		"81": {
+			"title": "L’échauffement",
+			"short": "Un échauffement prépare votre respiration, votre circulation, vos articulations, vos muscles et votre coordination au travail à venir. Un court échauffement général suivi d’une répétition de l’exercice que vous allez faire aide généralement plus qu’une série fixe d’étirements."
+		},
+		"82": {
+			"title": "Le retour au calme",
+			"short": "Un retour au calme ramène doucement votre corps d’une activité intense vers le repos avec un mouvement léger et une respiration calme. Il peut faire du bien et il est facile à intégrer, mais il n’existe pas de bonne preuve qu’il prévienne les courbatures."
+		},
+		"83": {
+			"title": "Mobilité et souplesse",
+			"short": "La souplesse est l’amplitude dans laquelle une articulation peut bouger, et la mobilité est votre capacité à contrôler vous-même cette amplitude. Quand vous choisissez des exercices, l’amplitude que vous pouvez utiliser avec contrôle compte plus que la position la plus profonde que vous pouvez atteindre."
+		},
+		"84": {
+			"title": "Étirements statiques et dynamiques",
+			"short": "L’étirement statique maintient une position, et l’étirement dynamique parcourt une amplitude de façon contrôlée. Les deux peuvent vous aider à vous préparer au mouvement ou à améliorer votre souplesse lorsque vous les adaptez à votre objectif et gardez une intensité confortable."
+		},
+		"85": {
+			"title": "La mobilité de hanche",
+			"short": "La mobilité de hanche est le mouvement confortable des articulations de la hanche : flexion, extension, rotation et écartement de la jambe sur le côté. Elle vous aide à atteindre des positions utiles de squat, de charnière et de fente, même si l’anatomie de la hanche et les amplitudes confortables diffèrent d’une personne à l’autre."
+		},
+		"86": {
+			"title": "Mobilité de la colonne thoracique et des épaules",
+			"short": "Votre colonne thoracique et vos épaules participent aux mouvements d’atteinte, de rotation, de développé au-dessus de la tête et à de nombreux mouvements de tirage. Le travail de mobilité peut faciliter ces mouvements, à condition de développer aussi la force et le contrôle pour les utiliser."
+		},
+		"87": {
+			"title": "La récupération entre les séances",
+			"short": "Entre les séances, la fatigue s’estompe et votre corps s’adapte à l’entraînement. Un bon programme alterne des séances difficiles avec assez de repos ou d’activité plus légère pour que vous puissiez continuer à performer semaine après semaine."
+		},
+		"88": {
+			"title": "Sommeil et entraînement",
+			"short": "Le sommeil soutient la récupération physique, l’apprentissage, l’humeur et la régularité des performances à l’entraînement. Les adultes ont généralement besoin d’au moins sept heures de sommeil par nuit, et beaucoup se portent mieux avec environ sept à neuf heures de sommeil de bonne qualité."
+		},
+		"89": {
+			"title": "Les courbatures",
+			"short": "Les courbatures (DOMS) sont une sensibilité et une raideur temporaires qui suivent souvent une séance nouvelle ou inhabituellement difficile. Elles s’installent après l’exercice et sont souvent à leur maximum environ 24–72 heures plus tard."
+		},
+		"90": {
+			"title": "Surmenage fonctionnel et surentraînement",
+			"short": "Le surmenage fonctionnel est une baisse temporaire des performances après avoir accumulé plus de stress d’entraînement que votre corps ne peut en récupérer pour l’instant. Le véritable syndrome de surentraînement est plus grave et dure plus longtemps, et une mauvaise séance ne suffit pas à dire que vous en êtes atteint."
+		},
+		"91": {
+			"title": "L’hydratation",
+			"short": "Rester hydraté soutient la circulation, la régulation de la température et la performance à l’effort. La quantité à boire dépend de votre transpiration, de la météo et de la durée de votre entraînement, et boire trop d’eau peut aussi être dangereux."
+		},
+		"92": {
+			"title": "Notions de nutrition pour les personnes actives",
+			"short": "L’entraînement se passe mieux quand vous mangez assez, avec des nutriments variés et assez de protéines pour la réparation et l’adaptation. TrainUp enseigne des principes généraux de nutrition et ne donne ni plans de repas, ni objectifs caloriques, ni régimes thérapeutiques."
+		},
+		"93": {
+			"title": "Forme du jour et stress",
+			"short": "La forme du jour est votre degré de préparation ressenti et votre niveau de performance au début d’une séance. Un mauvais sommeil, une maladie et le stress de la vie peuvent changer la quantité d’entraînement qui vous convient ce jour-là, même quand le programme écrit reste le même."
+		},
+		"94": {
+			"title": "La récupération active",
+			"short": "La récupération active est un mouvement facile entre des séances plus dures. La marche, le vélo tranquille et une mobilité douce vous gardent en mouvement sans ajouter une deuxième séance difficile."
+		},
+		"95": {
+			"title": "La technique avant la charge",
+			"short": "Une bonne technique rend un mouvement reproductible et contrôlé avant d’ajouter de la résistance. N’augmentez la charge que lorsque vous pouvez garder vos positions, votre amplitude de mouvement et votre confiance."
+		},
+		"96": {
+			"title": "Douleur ou inconfort : comment faire la différence",
+			"short": "L’exercice apporte souvent un effort musculaire, de la fatigue et des courbatures de courte durée, mais une douleur vive, qui s’aggrave ou qui s’accompagne de symptômes nerveux demande de l’attention. Un simple contrôle des symptômes vous aide à choisir une prochaine étape plus sûre sans chercher à poser un diagnostic."
+		},
+		"97": {
+			"title": "Signes d’alerte : quand s’arrêter immédiatement",
+			"short": "Certains symptômes pendant l’exercice peuvent signaler un problème médical urgent plutôt qu’une fatigue normale. Les repérer compte plus que de finir la séance ou d’atteindre un objectif prévu."
+		},
+		"98": {
+			"title": "La charge axiale sur la colonne",
+			"short": "La charge axiale sur la colonne est la force de compression qui parcourt votre colonne vertébrale pendant le mouvement ou la musculation. La connaître explique pourquoi certains exercices peuvent ne pas vous convenir si vous voulez des options qui chargent moins la colonne."
+		},
+		"99": {
+			"title": "S’entraîner avec des genoux sensibles",
+			"short": "Des genoux sensibles peuvent rendre inconfortables certains mouvements, certaines profondeurs ou certains niveaux d’impact. Des choix d’entraînement raisonnables peuvent réduire les poussées évitables, mais des symptômes au genou qui persistent ou sont sévères demandent une évaluation par un professionnel."
+		},
+		"100": {
+			"title": "S’entraîner avec un bas du dos sensible",
+			"short": "Un bas du dos sensible peut influencer les charges, les amplitudes et les positions que vous tolérez pendant l’exercice. Une planification de forme générale peut favoriser des variantes confortables et une progression graduelle, mais elle ne remplace ni une évaluation clinique ni une rééducation."
+		},
+		"101": {
+			"title": "S’entraîner avec des épaules sensibles",
+			"short": "Ce que ressent votre épaule peut dépendre de l’angle de poussée, de votre prise, de l’amplitude de mouvement et de la charge. Choisir des variantes que vous tolérez vous aide à rester actif, mais une douleur d’épaule sans cause claire, ou qui persiste, demande une évaluation par un professionnel."
+		},
+		"102": {
+			"title": "S’entraîner avec des poignets sensibles",
+			"short": "Vos poignets peuvent faire mal quand vos mains portent le poids de votre corps ou tiennent une charge sous un angle inconfortable. Changer la prise, l’appui ou l’exercice peut parfois soulager la contrainte tout en vous permettant de travailler le même schéma de mouvement."
+		},
+		"103": {
+			"title": "Difficulté de coordination et choix d’exercices sûrs",
+			"short": "La difficulté de coordination est la part d’équilibre, de timing et de contrôle du mouvement qu’un exercice vous demande. L’adapter à votre expérience et à votre niveau de fatigue vous permet de travailler une bonne technique avant d’ajouter de la vitesse ou de la charge."
+		},
+		"104": {
+			"title": "Pareur et sortie de secours en sécurité",
+			"short": "Parer signifie que quelqu’un vous aide quand vous ne pouvez pas terminer une répétition en sécurité. Que vous vous entraîniez avec un partenaire ou seul, installez correctement le rack, choisissez un poids que vous pouvez contrôler et sachez ce que vous ferez si une levée échoue."
+		},
+		"105": {
+			"title": "Partir de zéro",
+			"short": "Si vous débutez, vous pouvez gagner en forme avec une petite routine que vous pouvez répéter. Le premier mois, concentrez-vous sur l’apprentissage des mouvements, sur un effort confortable et sur la régularité, et laissez à plus tard le fait de soulever le plus lourd possible."
+		},
+		"106": {
+			"title": "S’entraîner après 50 ans",
+			"short": "Vous pouvez encore développer votre force et votre forme après 50 ans, et un exercice régulier vous aide à rester mobile et autonome. Fondez votre programme sur votre santé, votre historique d’entraînement, votre équilibre et votre récupération. Avoir plus de 50 ans ne signifie pas que vous avez besoin de la même routine facile que tous les gens de votre âge."
+		},
+		"107": {
+			"title": "La musculation chez les adolescents",
+			"short": "Une musculation supervisée et conçue pour votre âge peut vous aider à développer la coordination, la force et la confiance dans vos mouvements. La bonne technique et une progression graduelle passent d’abord, et copier le programme de charges maximales d’un adulte est le mauvais modèle."
+		},
+		"108": {
+			"title": "Exercice pendant la grossesse et après l’accouchement",
+			"short": "L’activité physique est souvent bénéfique pendant une grossesse sans complication et après l’accouchement, mais ce dont votre corps a besoin peut changer beaucoup pendant ces périodes. Demandez un avis individuel à votre équipe de suivi obstétrical, surtout si vous avez des symptômes ou des complications médicales."
+		},
+		"109": {
+			"title": "Commencer l’exercice avec un excès de poids",
+			"short": "Les personnes de toutes les corpulences peuvent devenir plus fortes, en meilleure forme et en meilleure santé avec le bon type d’activité. Un bon départ se concentre sur le confort, un impact plus faible et la capacité d’en faire plus, et le poids n’est qu’une des nombreuses façons de mesurer le succès."
+		},
+		"110": {
+			"title": "Séances courtes pour les emplois du temps chargés",
+			"short": "Une séance bien planifiée de 10–20 minutes peut installer une habitude d’entraînement et améliorer votre forme. Si vous êtes occupé, des séances courtes que vous faites souvent fonctionnent généralement mieux qu’un programme ambitieux que vous ne pouvez pas tenir."
+		},
+		"111": {
+			"title": "Tenir un journal d’entraînement",
+			"short": "Un journal d’entraînement consigne ce que vous aviez prévu, ce que vous avez fait et ce que vous avez ressenti. Le tenir régulièrement vous aide à distinguer un vrai progrès des variations normales d’un jour à l’autre, et vous donne de meilleures informations quand vous modifiez votre programme."
+		},
+		"112": {
+			"title": "Mesurer les progrès de force",
+			"short": "Le progrès de force peut se manifester par plus de répétitions, des charges plus lourdes ou des variantes plus difficiles d’un exercice. Une comparaison équitable garde la même technique et les mêmes conditions, et un record personnel n’est qu’un des chiffres qui comptent."
+		},
+		"113": {
+			"title": "Mesurer les progrès de condition physique",
+			"short": "Votre condition physique s’améliore quand vous pouvez continuer plus longtemps, parcourir une distance plus vite ou faire la même tâche avec moins d’effort. Répéter des tests simples dans des conditions similaires rend les tendances d’endurance plus faciles à lire."
+		},
+		"114": {
+			"title": "Évolution du poids et mensurations",
+			"short": "Le poids et les mensurations changent pour d’autres raisons que le gain ou la perte de graisse, comme les liquides et la digestion. Si vous choisissez de les suivre, les tendances dans le temps vous en apprennent plus que des mesures isolées."
+		},
+		"115": {
+			"title": "Tests de forme simples",
+			"short": "Les tests de terrain simples donnent un aperçu rapide de votre endurance de force, de votre équilibre ou de votre condition physique. Ils sont surtout utiles quand vous répétez le même test de la même façon, et vous comparer à un score unique valable pour tout le monde vous apprend beaucoup moins."
+		},
+		"116": {
+			"title": "Ajuster le programme selon les retours",
+			"short": "Votre programme fonctionne mieux quand le travail accompli et ce que vous avez ressenti orientent la suite. De petits changements prudents améliorent l’adéquation. Changez une seule chose à la fois, et laissez une séance telle quelle pendant que vous la faites."
+		},
+		"117": {
+			"title": "Idée reçue : on peut brûler la graisse d’une seule zone du corps",
+			"short": "Travailler vos abdominaux ne vous permet pas de choisir de façon fiable où votre corps perd de la graisse. Les exercices ciblés renforcent les muscles que vous travaillez, tandis que l’endroit où se trouve la graisse et la façon dont elle évolue dépendent de facteurs biologiques et comportementaux plus larges."
+		},
+		"118": {
+			"title": "Idée reçue : la musculation fait « grossir » les femmes",
+			"short": "La musculation ne rend pas automatiquement les femmes très musclées. Les résultats habituels sont plus de force et une meilleure fonction musculaire, et la quantité de muscle visible que vous gagnez dépend de l’entraînement, du temps, de l’alimentation et de votre propre biologie."
+		},
+		"119": {
+			"title": "Idée reçue : le cardio détruit les gains musculaires",
+			"short": "L’exercice aérobie et la musculation peuvent fonctionner ensemble dans un même programme de forme. Certaines combinaisons peuvent légèrement réduire certains gains de force ou de puissance, mais le cardio n’annule pas automatiquement la croissance musculaire."
+		},
+		"120": {
+			"title": "Idée reçue : « no pain, no gain »",
+			"short": "L’effort et un entraînement progressivement plus difficile développent la forme, mais vous n’avez pas besoin de douleur ni de courbatures sévères pour progresser. Visez un défi que vous pouvez contrôler, une bonne technique et de la récupération, et ne mesurez pas votre réussite à ce que vous souffrez."
+		}
+	}
+}

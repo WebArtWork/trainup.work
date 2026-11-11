@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Fő mérőszámok",
+			"text": "A nyugalmi pulzus a pulzusod csendes pihenés közben. A maximális pulzus (HRmax) nagyjából a leggyorsabb ütemszám, amelyet a szíved maximális erőkifejtéskor elérhet. Az életkoron alapuló egyenletek becslik a HRmax-ot, de nem mérik. Az ismert 220 − életkor és Tanaka 208 − 0,7 × életkor népességi átlagok, és egy-egy embernél jócskán eltérhetnek."
+		},
+		{
+			"title": "Százalékos zónák",
+			"text": "Az egyik egyszerű közegészségügyi megközelítés a mérsékelt aerob intenzitást a becsült HRmax nagyjából 50–70%-ára, az erőteljest nagyjából 70–85%-ára teszi. A fitneszalkalmazások öt szűkebb zónát is mutathatnak, de mindegyik rendszer más határokat használ. Egy zónaszín vagy egyetlen pulzusszám nem bizonyíthatja, hol van a személyes anyagcsere-küszöböd."
+		},
+		{
+			"title": "Pulzustartalék (HRR)",
+			"text": "A Karvonen-módszer a maximális és a nyugalmi pulzusodat is használja: célpulzus = nyugalmi pulzus + intenzitási arány × (HRmax − nyugalmi pulzus). Például ha a HRmax 190 és a nyugalmi pulzus 60, a HRR 60%-a 60 + 0,60 × 130 = 138 ütés/perc. A 60%-os HRR-cél más, mint a HRmax 60%-a."
+		},
+		{
+			"title": "A beszédteszt",
+			"text": "Mérsékelt erőkifejtésnél általában tudsz beszélni, de kényelmesen énekelni nem. Erőteljes erőkifejtésnél néhány szónál többet mondani nehéz. A teszt akkor hasznos, ha az okoseszköz pontatlan, vagy nincs ilyened. A pulzusmérések késhetnek a rövid intervallumokhoz képest, és változnak hőségtől, kiszáradástól, stressztől, betegségtől vagy gyógyszertől."
+		},
+		{
+			"title": "Példa",
+			"text": "Egy könnyű aerob edzéshez olyan tempót válassz, amelynél még tudsz beszélgetni. Figyeld, hogyan változik a pulzusod több héten át ugyanazon a tempón. Ez a trend többet mondhat, mint egy rögzített „zsírégető zóna” hajszolása."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Minden edzés után 1-től 10-ig értékeled az egész edzés erőfeszítését, ami pulzusadatokkal és anélkül is működik, a légzési jelzések pedig segítenek a megítélésben. Ha szívbetegséged van, vagy a pulzusodat befolyásoló gyógyszert szedsz, kérj az orvosodtól rád szabott útmutatást."
+		}
+	],
+	"sources": [
+		{
+			"label": "Az Amerikai Szívszövetség pulzusajánlásai",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Tanaka és mtsai: HRmax-egyenlet",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "CDC: beszédteszt",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

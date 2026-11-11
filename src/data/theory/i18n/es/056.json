@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ventajas",
+			"text": "Cada mano lleva su propia carga, lo que hace práctico el trabajo unilateral y permite ángulos de agarre que una barra fija quizá no permita. Un remo a un brazo o un press a un brazo pueden mostrar diferencias de control entre tus lados. Las mancuernas suelen encajar mejor en espacios pequeños que una instalación completa de barra, aunque los saltos entre pesos pueden ser grandes o la selección limitada."
+		},
+		{
+			"title": "Elige tu peso",
+			"text": "Elige un par de mancuernas o una sola que te permita llegar a tus repeticiones objetivo con un movimiento estable y unas pocas repeticiones en reserva. Si estás empezando, puede que necesites cargas distintas para remos, curls y press. Si el siguiente peso es demasiado pesado, añade primero repeticiones, rango o control con el más ligero."
+		},
+		{
+			"title": "Colócate con seguridad",
+			"text": "Para un press de banca, siéntate con las mancuernas sujetas con firmeza cerca de los muslos, tiéndete hacia atrás con control y lleva los pesos a su sitio sin lanzarlos. En los levantamientos de pie, recoge los pesos con las piernas y el tronco en una posición estable. No dejes caer los pesos donde puedan rebotar contra tus pies, dañar el suelo o golpear a alguien."
+		},
+		{
+			"title": "Usos habituales",
+			"text": "Las sentadillas goblet y los pesos muertos rumanos con mancuernas entrenan la parte inferior del cuerpo, los remos y press con apoyo cubren la parte superior, y los paseos con carga desarrollan el agarre y el control del tronco. Si solo tienes una mancuerna, úsala para movimientos unilaterales."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "En Perfil, introduce los pesos de las mancuernas que tienes. Tu plan elige ejercicios que encajan con tu equipamiento, tu espacio y la altura del techo. No prescribe pesos, así que la carga la eliges tú. Si anotas tus cargas después de un entrenamiento, escríbelas siempre del mismo modo, por ejemplo «12 kg por mano»."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: pesas libres frente a máquinas",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: técnica del entrenamiento con pesas (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

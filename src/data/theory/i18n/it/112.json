@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Modi per misurare",
+			"text": "Un nuovo record di carico è facile da notare, ma anche 10 ripetizioni controllate con un peso che prima ne permetteva sette sono un progresso. Con gli esercizi a corpo libero puoi migliorare abbassando l’inclinazione di un push-up, aggiungendo range di movimento o passando da ripetizioni assistite a ripetizioni senza assistenza."
+		},
+		{
+			"title": "Massimali stimati e testati",
+			"text": "Il tuo massimale su una ripetizione (1RM) è il carico più pesante che riesci a sollevare per una ripetizione con tecnica accettabile. Le formule possono stimarlo da serie più leggere, ma le stime diventano meno affidabili tra esercizi diversi, con numeri di ripetizioni più alti e tra sollevatori diversi. I principianti non hanno bisogno di test di massimale per seguire i progressi."
+		},
+		{
+			"title": "Confronta cose uguali",
+			"text": "Mantieni più o meno uguali presa, profondità, tempo, attrezzatura e riposo quando confronti le sessioni. Uno squat parziale più pesante non equivale automaticamente a uno squat completo più leggero. Più controllo, fiducia o resistenza con lo stesso carico contano anch’essi come miglioramento, con o senza un nuovo massimale."
+		},
+		{
+			"title": "Esempio",
+			"text": "Un rematore passa da 3 × 8 a 3 × 12 con lo stesso manubrio e tecnica simile. Potresti poi provare un piccolo aumento di carico e risalire di nuovo lungo il range di ripetizioni."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "TrainUp non prescrive i pesi: il carico lo scegli tu. Il tuo piano indica serie e ripetizioni per ogni esercizio, e durante l’allenamento registri le ripetizioni che hai effettivamente fatto."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Indicazioni pratiche ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

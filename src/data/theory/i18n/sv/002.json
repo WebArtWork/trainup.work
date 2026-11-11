@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "De viktigaste komponenterna",
+			"text": "Styrka är förmågan att utveckla kraft, och power är kraft som utvecklas snabbt. Muskulär uthållighet innebär att upprepa eller hålla kontraktioner. Kardiorespiratorisk uthållighet stödjer längre ansträngningar och beror på hjärta, lungor, cirkulation och muskler. Rörlighet är förmågan att aktivt röra sig genom användbara omfång, medan smidighet beskriver hur långt en vävnad eller led går när den sträcks. Balans och koordination hjälper dig att kontrollera rörelsen."
+		},
+		{
+			"title": "Kroppssammansättning",
+			"text": "Andelen muskler, fett, ben och annan vävnad kan spela roll för hälsa eller idrott, men de beskriver inte konditionen fullt ut. Två personer med liknande kroppsvikt kan skilja sig mycket i styrka, kardiovaskulär kapacitet eller rörelsefärdighet. Utseendet kan inte ersätta att testa vad du faktiskt klarar."
+		},
+		{
+			"title": "Hur komponenterna samverkar",
+			"text": "En knäböj kräver ben- och bålstyrka, tillräcklig rörlighet för det djup du valt och koordination för att hålla belastningen under kontroll. En vandring tar mer av den aeroba och muskulära uthålligheten, även om styrka och balans också hjälper. Att förbättra en egenskap kan hjälpa en annan, men det tränar inte alla lika mycket."
+		},
+		{
+			"title": "Träning efter mål",
+			"text": "En vecka med allmän kondition kan innehålla två styrkepass för hela kroppen, måttlig promenad eller cykling samt kort balans- eller rörlighetsträning. Med tonvikt på styrka används styrkeövningar som blir svårare över tid, med tillräcklig vila mellan ansträngningarna. Med tonvikt på kondition läggs mer tid på uthållig rörelse och intervaller, och en del styrketräning behålls."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Välj ett huvudmål i Profil och fortsätt göra en del arbete för de andra egenskaperna. Mät framsteg med det som passar var och en: repetitioner eller belastning för styrka, tempo och andning för kondition, kontrollerat omfång för rörlighet. Bedöm inte ett pass efter hur mycket du svettas eller hur många kalorier du förbrukade."
+		}
+	],
+	"sources": [
+		{
+			"label": "HHS: begrepp inom fysisk kondition",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO:s rekommendationer",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

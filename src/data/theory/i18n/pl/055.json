@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Zalety i ograniczenia",
+			"text": "Ćwiczenia z masą ciała można robić wszędzie, często niewiele kosztują i mają wiele opcji dla początkujących. Mogą trenować równowagę, koordynację, siłę i wytrzymałość mięśniową. Niektóre wzorce trudniej precyzyjnie obciążać bez sprzętu lub pewnego punktu zaczepienia, zwłaszcza zawiasy dolnej części ciała, które chcesz stopniowo obciążać, i ciągnięcie poziome."
+		},
+		{
+			"title": "Zwiększ wyzwanie",
+			"text": "Pompka przy ścianie może prowadzić do pompki z podwyższeniem, a potem pompki na podłodze. Przysiady mogą postępować przez większą kontrolę, pauzy i później warianty skupione na jednej nodze. Deski można utrudnić dłuższą dźwignią, zanim dodasz czas. Utrudniaj ćwiczenie tylko wtedy, gdy nadal czysto powtarzasz serie. Nagromadzenie dziesiątek łatwych powtórzeń może przesunąć efekt treningu w stronę wytrzymałości."
+		},
+		{
+			"title": "Pracuj z posiadanym sprzętem",
+			"text": "Pewny drążek do podciągania pozwala trenować pionowe ciągnięcie, a mocno zamontowany trenażer zawieszeniowy może umożliwić wiosłowanie. Nie zakładaj, że domowy stół, drzwi lub balustrada utrzymają Twoją masę ciała. Jeśli nie masz bezpiecznego zaczepu, wybierz inny wzorzec lub użyj gum i hantli, które masz."
+		},
+		{
+			"title": "Przykład",
+			"text": "Pierwszy trening może obejmować po dwie serie przysiadów z krzesłem, pompek z podwyższeniem, wykroków w tył z podparciem, mostków biodrowych i martwych robaków. Liczbę powtórzeń wybierz według tego, jak dobrze kontrolujesz ruch i jak ciężki się wydaje. Nie ma jednego wymaganego celu. Odpoczywaj na tyle długo, by zachować technikę."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Jeśli nie masz sprzętu, zaznacz to w Profilu i ustaw rozmiar podłogi oraz to, czy skakanie jest w porządku. Plan wybierze wtedy tylko ćwiczenia z masą ciała pasujące do Twojej przestrzeni, limitu skoków i poziomu. Oznacz drążek do podciągania jako dostępny tylko wtedy, gdy jest bezpiecznie zamontowany; w przeciwnym razie plan pominie ćwiczenia, które go wymagają."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: wskazówki dotyczące siły i elastyczności",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

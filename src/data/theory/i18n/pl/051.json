@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Zmienne, które możesz regulować",
+			"text": "Dźwignia, opór, podparcie, zakres ruchu i tempo zmieniają trudność ćwiczenia. Pompka z podwyższeniem jest zwykle łatwiejsza niż pompka na podłodze, bo ramiona unoszą mniejszą część masy ciała. Lekki hantel utrudnia przysiad, a trzymanie się stabilnej podpory ułatwia utrzymanie równowagi w wykroku."
+		},
+		{
+			"title": "Przykłady z pompkami",
+			"text": "Zacznij przy ścianie lub na solidnej wysokiej powierzchni, a potem obniżaj dłonie na stabilną ławkę lub blat w miarę wzrostu siły. Przejdź do pompek na podłodze, a później, jeśli to przydatne, do wersji z uniesionymi stopami lub z obciążeniem. Pompka na kolanach i różne pompki z podwyższeniem nie mają takiej samej trudności, więc sprawdź, która pozwala robić kontrolowane powtórzenia."
+		},
+		{
+			"title": "Przykłady z przysiadem i ciągnięciem",
+			"text": "Przysiad z krzesłem może prowadzić do przysiadu z masą ciała bez podparcia, a potem do przysiadu kielichowego. W pionowym ciągnięciu ściąganie drążka na wyciągu lub podciąganie z pomocą może poprzedzać powtórzenia bez pomocy. Zapisuj każdą zmianę chwytu, pomocy, zakresu lub obciążenia, abyś wiedział, co naprawdę oznacza lepszy wynik w Twoim dzienniku."
+		},
+		{
+			"title": "Kiedy zmienić",
+			"text": "Przejdź wyżej, gdy osiągniesz docelowy zakres ze stabilną techniką i umiarkowanym wysiłkiem. Przejdź niżej, jeśli ćwiczenie powoduje silne skręcanie lub przesuwanie ciała, by je wykonać, jeśli ciągle nie udają Ci się powtórzenia albo jeśli wymagania równowagi wydają się niebezpieczne. Jeśli coś jest niekomfortowe, przerwij i oceń sytuację. Ból, który się utrzymuje lub wydaje nietypowy, wymaga kontroli u lekarza lub fizjoterapeuty."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Twój plan wybiera ćwiczenia pasujące do Twojego poziomu, koordynacji, sprzętu, wysokości sufitu, miejsca na podłodze i ustawionych ograniczeń. Gdy generujesz go ponownie, zmienia się o jeden krok naraz. Staje się trudniejszy dopiero po tym, jak Twoje ostatnie 4 treningi były lekkie (RPE 5 lub mniej) i kompletne, bez niedawnego bólu, a łatwiejszy, gdy 2 z ostatnich 3 były bardzo ciężkie (RPE 9 lub więcej) albo ukończone w mniej niż 60%."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: technika treningu z obciążeniem (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

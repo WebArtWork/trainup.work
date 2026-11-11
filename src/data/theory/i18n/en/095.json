@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Start with the goal",
+			"text": "Every movement has a job: a squat trains hip and knee extension together, a row trains pulling, and a hinge works mainly through the hips. Good technique can look a little different from person to person because limb length, mobility and equipment vary. What matters is safe, repeatable control. Nobody has to match one exact look."
+		},
+		{
+			"title": "Build the foundation",
+			"text": "Learn an unloaded or lightly loaded version first. Use a range of motion you can control, smooth reps and stable support when you need it. Then progress in small steps: more reps, more resistance or a more complex version. Filming yourself or working with a qualified coach can reveal habits, but video alone cannot diagnose an injury."
+		},
+		{
+			"title": "When form breaks down",
+			"text": "Warning signs within a set include losing your balance, lowering the weight without control, drifting off the intended path, or compensations that get worse as you tire. Stop or make the exercise easier when you see them. Lifting heavier with collapsing technique is not progress."
+		},
+		{
+			"title": "Example",
+			"text": "Before you load a dumbbell Romanian deadlift, practice the hip hinge with your hands on your hips, then with a light weight. Add weight only when your hips move back under control and your back position stays the same from rep to rep for your body."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Your plan picks exercises that fit your level and coordination, and each exercise page in Explore has steps and technique notes. TrainUp does not prescribe weights, so you choose the load. Record your reps during the workout and rate your effort afterward, and add load in small steps without chasing a record every session."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026 practical guidance",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

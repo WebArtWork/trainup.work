@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Set up and move",
+			"text": "Stand with your feet at a comfortable width and toe angle. Brace your trunk, let your hips and knees bend together, and keep the pressure balanced across your feet. Lower under control to a depth where your technique stays stable, then push through the floor to stand. Your torso angle and how far your knees travel will vary with your limb lengths and the type of squat."
+		},
+		{
+			"title": "Depth and knee travel",
+			"text": "There is no rule that your knees must stay behind your toes. They move forward in many squats, and that is normal. A deeper squat can be useful when you reach it comfortably and with control, but forcing depth through painful joints or lost balance doesn’t help. Raising your heels or changing your stance changes the movement, and neither one makes a squat better by default."
+		},
+		{
+			"title": "Common errors and fixes",
+			"text": "Heels lifting, knees caving in without control, and losing a stable trunk often mean the depth, balance or load doesn’t match what you can control yet. Try a lighter weight, a pause just above the hard point, or a chair as a target. Your knees can point roughly the same way as your toes without following a rigid path."
+		},
+		{
+			"title": "Progression example",
+			"text": "Start with sit-to-stands or bodyweight squats. Add a goblet squat once the pattern is reliable, then dumbbells or a barbell if you want. For instance, complete two sets of 8 controlled reps before adding load. More advanced variations are optional, and you don’t need them to get fit."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Your plan picks bodyweight, goblet or loaded squats that fit your equipment, level, coordination and any limitations you set in Profile, such as a knee. When you progress, keep the same depth and technique, so heavier numbers reflect real progress."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE exercise library",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: weight-training technique (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

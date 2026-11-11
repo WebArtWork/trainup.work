@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Formas de contar o trabalho",
+			"text": "A contagem mais simples é o número de séries de trabalho. A “carga de volume” multiplica séries × repetições × peso, por isso três séries de dez com 40 kg dão 1200 kg de carga de volume para esse exercício. Isto ajuda quando compara o mesmo movimento ao longo do tempo. Não funciona entre exercícios: um press na máquina e uma flexão com o peso do corpo não se traduzem nos mesmos quilogramas de estímulo."
+		},
+		{
+			"title": "Séries difíceis por músculo",
+			"text": "Para o crescimento muscular, os treinadores contam muitas vezes as séries difíceis que carregam cada grupo muscular. Os levantamentos compostos contam para vários músculos, embora nem sempre de forma igual. Um agachamento treina com força os extensores do joelho e da anca, enquanto uma remada acrescenta trabalho para as costas e os braços. Se contar todos os músculos envolvidos como se tivessem recebido o mesmo estímulo, os totais ficarão demasiado altos."
+		},
+		{
+			"title": "Quantas séries fazer",
+			"text": "O posicionamento do ACSM 2026 concluiu que volumes semanais mais altos, incluindo pelo menos cerca de dez séries por grupo muscular, podem aumentar a hipertrofia. Esta não é uma dose inicial para toda a gente e não garante progresso. Os principiantes melhoram muitas vezes com menos séries. Os praticantes mais experientes podem beneficiar de mais, se o tempo, a técnica e a recuperação o permitirem."
+		},
+		{
+			"title": "Construa gradualmente",
+			"text": "Um praticante novo pode começar com duas séries de cada um de vários padrões por sessão, duas vezes por semana. Após algumas semanas de desempenho estável, acrescente uma série a um padrão atrasado apenas se as dores musculares, o sono e a qualidade da sessão o permitirem. Saltar de seis para vinte séries difíceis semanais para um músculo acrescenta risco de fadiga sem boa razão."
+		},
+		{
+			"title": "Qualidade e quantidade",
+			"text": "As séries feitas com má técnica, pouco esforço ou muita fadiga continuam a aumentar o total de uma folha de cálculo, mas acrescentam pouco. O progresso constante e consistente importa mais do que ter o volume mais alto."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "Em cada treino assinala as séries e regista as repetições, e o Histórico mostra o esforço médio e um gráfico de 4 semanas. Compare semanas semelhantes. Se o esforço for mais alto do que o esperado ou as repetições estiverem a descer, analise o volume antes de acrescentar mais."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Revisão dos mecanismos da hipertrofia",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

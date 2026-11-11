@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Kluczowe pomiary",
+			"text": "Tętno spoczynkowe to Twój puls w cichym spoczynku. Maksymalne tętno (HRmax) to mniej więcej najszybsze tętno, jakie serce może osiągnąć podczas maksymalnego wysiłku. Równania oparte na wieku szacują HRmax, ale go nie mierzą. Znane 220 − wiek i wzór Tanaki 208 − 0,7 × wiek to średnie populacyjne, a u konkretnej osoby mogą się mocno mylić."
+		},
+		{
+			"title": "Strefy procentowe",
+			"text": "Jedno proste podejście zdrowia publicznego określa umiarkowaną intensywność aerobową na około 50–70% szacowanego HRmax, a intensywną na około 70–85%. Aplikacje fitness mogą pokazywać pięć węższych stref, ale każdy system używa innych progów. Kolor strefy ani pojedyncza wartość pulsu nie mogą dowieść, gdzie leży Twój osobisty próg metaboliczny."
+		},
+		{
+			"title": "Rezerwa tętna (HRR)",
+			"text": "Metoda Karvonena wykorzystuje zarówno puls maksymalny, jak i spoczynkowy: docelowe tętno = tętno spoczynkowe + ułamek intensywności × (HRmax − tętno spoczynkowe). Na przykład, jeśli HRmax wynosi 190, a tętno spoczynkowe 60, to 60% HRR daje 60 + 0,60 × 130 = 138 uderzeń na minutę. Cel 60% HRR różni się od 60% HRmax."
+		},
+		{
+			"title": "Test rozmowy",
+			"text": "Przy umiarkowanym wysiłku zwykle możesz mówić, ale nie możesz komfortowo śpiewać. Przy intensywnym wysiłku powiedzenie więcej niż kilku słów jest trudne. Test jest przydatny, gdy urządzenie noszone jest niedokładne albo go nie masz. Odczyty tętna mogą opóźniać się względem krótkich interwałów i zmieniać się pod wpływem upału, odwodnienia, stresu, choroby lub leków."
+		},
+		{
+			"title": "Przykład",
+			"text": "Do spokojnego treningu aerobowego wybierz tempo, przy którym nadal możesz prowadzić rozmowę. Obserwuj, jak Twój puls zmienia się przez kilka tygodni przy tym samym tempie. Ten trend może powiedzieć Ci więcej niż gonienie za stałą „strefą spalania tłuszczu”."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Po każdym treningu oceniasz wysiłek całej sesji w skali od 1 do 10, co działa z danymi o tętnie lub bez nich, a wskazówki dotyczące oddechu pomagają to ocenić. Jeśli masz chorobę serca lub przyjmujesz leki wpływające na puls, poproś lekarza o wskazówki dopasowane do Ciebie."
+		}
+	],
+	"sources": [
+		{
+			"label": "Wskazówki dotyczące tętna (American Heart Association)",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Równanie HRmax (Tanaka i in.)",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "Test rozmowy (CDC)",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

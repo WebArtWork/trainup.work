@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Programas de cuerpo completo",
+			"text": "Una sesión de cuerpo completo entrena varios patrones de movimiento principales el mismo día. Dos o tres días a la semana suele funcionar bien para quienes empiezan y para quienes tienen poco tiempo. Practicas a menudo los ejercicios principales sin necesitar muchas visitas al gimnasio. Las sesiones pueden alargarse si incluyes demasiados movimientos."
+		},
+		{
+			"title": "Programas torso/pierna",
+			"text": "Un plan torso/pierna alterna sesiones de la parte superior del cuerpo y de la inferior, a menudo con cuatro entrenamientos a la semana. Deja espacio para más ejercicios y series, con tiempo de recuperación entre sesiones similares. También funciona una versión rotatoria de tres días, y el calendario no tiene que repetirse exactamente cada semana."
+		},
+		{
+			"title": "Divisiones por grupos musculares",
+			"text": "Una rutina dividida por partes del cuerpo puede entrenar pecho y tríceps un día, espalda y bíceps otro y piernas un tercero. Estos programas facilitan encajar volúmenes de entrenamiento altos. Cuando el trabajo semanal es parecido, ninguna división es mejor que otra para el crecimiento muscular. Una división mal diseñada puede dejar algunos músculos sin entrenar durante demasiado tiempo."
+		},
+		{
+			"title": "Elige según tus límites",
+			"text": "Con dos días, el cuerpo completo es una opción práctica por defecto. Con tres, usa cuerpo completo o un patrón rotatorio torso/pierna. Con cuatro, usa torso/pierna o dos días distintos de cuerpo completo. Cinco días permiten muchas combinaciones, pero las visitas extra aportan poco si no puedes mantenerlas ni recuperarte de ellas. La práctica de habilidades y la preferencia personal también influyen. Elige la división más sencilla que cubra tus objetivos, tu horario y tu equipamiento, y vigila tu total de series semanales. Un horario de cinco días que parece avanzado no es automáticamente mejor que un plan de tres días que sigues cumpliendo."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Guía del modelo de progresión del ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NHS: guía de fuerza y flexibilidad",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		}
+	]
+}

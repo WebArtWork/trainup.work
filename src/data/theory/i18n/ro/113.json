@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Alege o măsură repetabilă",
+			"text": "Opțiuni bune includ cât de departe mergi într-un timp stabilit, cât durează un traseu cunoscut, dacă termini o sesiune de intervale stabilită sau ritmul cardiac la un ritm confortabil fix. RPE-ul sesiunii se adaugă acestor cifre, mai ales dacă nu ai un pulsometru."
+		},
+		{
+			"title": "Păstrează condiții de test similare",
+			"text": "Temperatura, dealurile, somnul, cafeaua, echipamentul și refacerea afectează performanța. Când poți, compară aceeași setare a benzii de alergare, aceeași rezistență la ciclism sau același traseu în aer liber. Un ritm cardiac mai mic nu înseamnă întotdeauna că ești mai în formă, deoarece medicamentele și erorile de măsurare pot schimba și ele valoarea."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Un începător pornește alternând două minute de mers cu un minut de jogging ușor. Peste câteva săptămâni, termină mai multe intervale de jogging la un efort similar. Altcineva parcurge același traseu cu bicicleta și i se pare mai ușor, chiar dacă viteza medie rămâne aceeași."
+		},
+		{
+			"title": "Cât de des să testezi",
+			"text": "O verificare planificată la câteva săptămâni arată tendințele, în timp ce sesiunile tale obișnuite rămân concentrate pe antrenament. O scădere bruscă a performanței poate veni din oboseală sau boală și nu trebuie să însemne că ți-ai pierdut definitiv condiția."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "După fiecare antrenament evaluezi efortul de la 1 la 10, iar Istoricul arată efortul tău mediu și un grafic pe 4 săptămâni. Urmărește tendința pe parcursul săptămânilor. O singură cifră de ritm cardiac sau de viteză nu poate diagnostica sănătatea ta cardiovasculară și nici nu o poate garanta."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: mersul pentru sănătate",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

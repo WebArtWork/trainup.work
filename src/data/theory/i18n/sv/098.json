@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Hur belastningen uppstår",
+			"text": "Att stå med en skivstång över axlarna eller hålla en vikt över huvudet kan öka krafterna som går genom bålen och ryggraden. Tunga bärande och vissa dragövningar kräver också god bålstabilitet. Den faktiska kraften på ryggraden beror på kroppsposition, muskelansträngning, hävarm och motståndets riktning, så en stång på axlarna är bara en del av bilden."
+		},
+		{
+			"title": "Oftast säkert för friska personer",
+			"text": "Din ryggrad belastas under vardagsrörelser och kan anpassa sig till träning som ökas gradvis. För friska tränande är axiell belastning inte osäker i sig. Det betyder mer när du har en medicinsk restriktion, ett nytt symtom eller en personlig önskan att minska kompressionen."
+		},
+		{
+			"title": "Välja alternativ",
+			"text": "En goblet-knäböj, split-knäböj eller stödd maskinövning belastar kroppen annorlunda än en tung ryggknäböj. En golvbaserad bålövning kan hjälpa när stående belastade bärande inte passar dig. Ingen ersättning tar bort belastningen på ryggraden helt."
+		},
+		{
+			"title": "Gå vidare försiktigt",
+			"text": "Lär dig att spänna bålen och kontrollera rörelsen, använd vikter som matchar din nuvarande förmåga och ändra en träningsvariabel i taget. Du behöver inte göra en övning med hög kompression bara för att den är traditionell inom styrketräning."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Om du vill begränsa ryggradsbelastningen, lägg till din rygg som en begränsning i Profil, med en anteckning. Programmet väljer bara övningar som passar dina begränsningar. Att välja övningar med lägre belastning behandlar inte ryggsmärta och ersätter inte medicinsk rådgivning."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: ryggsmärta och akuta varningstecken",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		}
+	]
+}

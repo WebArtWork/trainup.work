@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Abrande gradualmente",
+			"text": "Depois de uma corrida ou de um passeio de bicicleta difíceis, caminhe ou pedale com facilidade durante alguns minutos em vez de parar de repente em pleno esforço. Depois do trabalho de força, uma caminhada curta e descontraída e a respiração normal podem sentir-se bem. Parar abruptamente pode por vezes causar tonturas, sobretudo depois de uma atividade longa e vigorosa."
+		},
+		{
+			"title": "Mobilidade suave opcional",
+			"text": "Pode acrescentar movimentos confortáveis de gémeos, anca, peito ou ombros se a flexibilidade for um dos seus objetivos ou se simplesmente gostar deles. Procure uma sensação de alongamento suave e não force grandes amplitudes. O alongamento profundo logo a seguir a uma sessão cansativa é opcional, e o alongamento doloroso trabalha contra si."
+		},
+		{
+			"title": "O que mostra a evidência",
+			"text": "O movimento leve pode tornar mais confortáveis os primeiros minutos depois de um treino. Há pouca evidência de que uma rotina padrão de retorno à calma ou de alongamento previna de forma fiável as dores musculares do dia seguinte (DOMS). A progressão gradual, o sono e a recuperação continuam a contar. O retorno à calma não trata uma lesão e não substitui os cuidados médicos."
+		},
+		{
+			"title": "Adapte-o à sessão",
+			"text": "Uma caminhada moderada pode terminar com um ou dois minutos fáceis. Depois de uma sessão difícil de intervalos, dedique vários minutos a movimento fácil e à respiração até se sentir estável. Se as tonturas, a falta de ar invulgar, a dor no peito ou a sensação de desmaio não passarem, pare de treinar e procure ajuda médica."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: exercício suave de retorno à calma",
+			"url": "https://www.nhs.uk/live-well/exercise/strength-and-resistance/body-blast-cool-down/"
+		},
+		{
+			"label": "ACE 2026: orientações práticas de alongamento",
+			"url": "https://www.acefitness.org/continuing-education/certified/april-2026/9104/new-expert-guidance-on-stretching-what-belongs-in-your-programs/?authorScope=80"
+		},
+		{
+			"label": "NHS: dores musculares de início tardio",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		}
+	]
+}

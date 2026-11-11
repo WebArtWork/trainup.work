@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "What the patterns describe",
+			"text": "A squat mainly bends and straightens the hips, knees and ankles together. A hinge moves mostly at the hips, while lunges and step-ups load one leg at a time. Pushing moves resistance away from the body and pulling brings it toward the body. In a carry you keep a load steady while you walk, core exercises resist or produce trunk motion, and locomotion covers walking, running and similar movement."
+		},
+		{
+			"title": "Why patterns matter",
+			"text": "One exercise can train several muscles and patterns at once. A goblet squat trains the legs and trunk, and a loaded carry trains grip, posture and walking mechanics. Sorting exercises by pattern shows gaps that a list sorted only by chest, arms and legs can miss. You don’t need every pattern in every workout."
+		},
+		{
+			"title": "Building a balanced week",
+			"text": "Across two or three full-body sessions, a beginner could include a squat, a hip hinge, a horizontal push, a horizontal pull, a lunge and a simple anti-rotation or anti-extension exercise. Vertical pushing, vertical pulling and carries can come in when your equipment, mobility and goals allow. Keep the dose for each pattern small enough to recover from, and skip exercises you don’t need."
+		},
+		{
+			"title": "Match patterns to ability",
+			"text": "Every pattern has easier and harder variations. A chair squat can come before a goblet squat, and a wall push-up before a floor push-up. A cable row and a dumbbell row are both horizontal pulls, but they need different balance and equipment. If a movement causes discomfort or feels unstable, change the variation and keep the pattern."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Each exercise page in Explore shows its movement pattern, so you can check how your planned week covers them. If most sessions have pushing and almost no pulling, a row or pulldown that fits your equipment and limitations would fill the gap. Aim for good coverage over weeks, not a perfect ratio in every session."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA: safety and resistance-training fundamentals",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "ACE exercise library",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "O que significa “falha”",
+			"text": "A falha concêntrica é quando tenta mas não consegue completar outra repetição do levantamento. A falha técnica surge mais cedo, quando já não consegue manter a amplitude planeada ou um movimento seguro. Num levantamento complexo pode chegar à falha técnica muito antes de os músculos-alvo chegarem à falha muscular total."
+		},
+		{
+			"title": "Treino intenso sem falha",
+			"text": "No posicionamento do ACSM 2026, o treino até à falha momentânea não deu de forma fiável melhores resultados de força, hipertrofia ou potência. As séries que terminam com cerca de duas ou três repetições em reserva dão muitas vezes um estímulo de treino útil com menos fadiga. O quão perto da falha deve ir depende do objetivo, da carga, do exercício, da sua experiência e da situação."
+		},
+		{
+			"title": "O risco varia consoante o exercício",
+			"text": "Aproximar-se da falha numa máquina estável ou num exercício de isolamento de baixo risco é muito diferente de o fazer num agachamento pesado com barra, num press acima da cabeça sem apoio ou num movimento explosivo pouco familiar. Perder a tensão do tronco, perder o controlo na descida ou não ter forma segura de parar são razões para terminar uma série. Se treina sozinho sem equipamento de segurança, é mais uma razão para manter repetições em reserva."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Se faz remadas com 15 kg durante doze repetições limpas e acha que conseguiria mais duas, a série está por volta de 2 RIR. Não precisa de o provar forçando as repetições treze e catorze. Um praticante experiente pode por vezes levar uma série perto da falha numa máquina segura por uma razão específica, mas isso não deve ser o plano de todas as sessões. Procure esforço e qualidade que consiga repetir, e não trate a falha como uma conquista a coleccionar."
+		},
+		{
+			"title": "Quando parar",
+			"text": "Termine qualquer série se tiver dor invulgar, tonturas, fraqueza súbita ou não conseguir controlar o movimento. O esforço muscular normal é diferente destes sinais de alerta."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Estudo de RPE baseado em RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		}
+	]
+}

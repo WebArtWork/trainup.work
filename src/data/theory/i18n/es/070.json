@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Entrenar con calor",
+			"text": "El calor y la humedad pueden hacer que una sesión fácil resulte mucho más dura. Elige las horas más frescas y los recorridos con sombra, empieza con suavidad y bebe lo suficiente según las condiciones. Los CDC aconsejan detenerte y pasar a un lugar fresco si te sientes débil o a punto de desmayarte. La confusión, el desmayo o la sospecha de golpe de calor requieren ayuda de emergencia."
+		},
+		{
+			"title": "Días fríos, húmedos y con viento",
+			"text": "Lleva capas que puedas quitarte y cubre la piel expuesta cuando haga frío. La lluvia y el sudor pueden hacer que la ropa y las superficies estén peligrosamente frías, y el frío intenso puede causar congelación o hipotermia. El hielo o la mala visibilidad son un buen motivo para entrenar ese día en interiores."
+		},
+		{
+			"title": "Comprueba el terreno",
+			"text": "Busca agujeros, grava suelta, raíces, pavimento irregular, mala iluminación y cruces de carretera. Las pendientes cambian la carga sobre los músculos y las articulaciones. En un recorrido nuevo, empieza a un ritmo cómodo, evita los sprints a tope y usa calzado con buen agarre para la superficie."
+		},
+		{
+			"title": "Comprueba el equipamiento del parque",
+			"text": "Los bancos, las barandillas y las barras de dominadas pueden estar desgastados por la intemperie, sueltos o no estar hechos para ejercicio dinámico. Busca bordes afilados, óxido, piezas rotas y soportes que se tambalean. No te cuelgues de nada que no esté claramente construido para sostenerte. Deja mucho espacio a ciclistas, niños y otros usuarios del parque."
+		},
+		{
+			"title": "Comprueba otra vez cada vez",
+			"text": "Las condiciones al aire libre cambian, así que vuelve a mirar cada vez que salgas. Con un tiempo peligroso, cambia a una sesión en interiores o de bajo impacto, y elige recorridos y movimientos que se ajusten a la luz, al terreno y a tu experiencia."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: hacer ejercicio con calor",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		},
+		{
+			"label": "CDC: prevenir la congelación y la hipotermia",
+			"url": "https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html"
+		},
+		{
+			"label": "Recomendaciones de actividad física de los CDC para adultos",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

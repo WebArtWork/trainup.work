@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Överkroppen",
+			"text": "Bröstmusklerna hjälper till att trycka armarna framåt eller över bålen, som vid armhävningar och bröstpress. Latsen och andra ryggmuskler hjälper till att dra armarna och kontrollera skulderbladen vid rodd och pull-ups. Deltamusklerna hjälper till att lyfta och röra armarna. Bicepsen böjer armbågen och hjälper till vid vissa dragrörelser, och tricepsen sträcker armbågen vid pressar."
+		},
+		{
+			"title": "Underkroppen",
+			"text": "Lårmusklerna sträcker knät och hjälper vid knäböj, steg och utfall. Skinkmusklerna sträcker eller stabiliserar höften, och höftgångjärn och step-ups kan utmana dem. Baksida lår böjer knät och hjälper till vid höftsträckning. Vadmusklerna skapar plantarflexion i fotleden för gång, löpning och vadhävningar. Höftens adduktorer och abduktorer hjälper till att kontrollera benets läge och hålla bäckenet stabilt."
+		},
+		{
+			"title": "Bålen (core)",
+			"text": "Raka magmuskeln, de sneda magmusklerna, de djupare magmusklerna, ryggsträckarna och flera muskler runt bäckenet hjälper till att föra kraft vidare och att motstå den. Plankor, bärövningar och kontrollerade höftgångjärn utmanar bålstabiliteten i olika riktningar. Synliga ”magmuskler” är bara en del av det här systemet."
+		},
+		{
+			"title": "Överlappning mellan övningar",
+			"text": "En knäböj arbetar fler muskler än lårmusklerna, och en rodd arbetar fler än latsen. Grepp, bålens vinkel, rörelseomfång och din egen anatomi ändrar vilka muskler som gör mest av arbetet. Organisera en nybörjares vecka kring knäböj, höftgångjärn, utfall, tryck, drag och bålövningar, och tilldela inte varje pass till en enda muskel."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Varje övningssida under Övningar listar rörelsemönstret och musklerna som övningen arbetar, vilket hjälper dig att täcka hela kroppen med ett litet antal övningar. Isolationsarbete kan fylla ett specifikt hål, men det ersätter inte att lära sig de grundläggande flerledsrörelserna."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "HHS: översikt över fysisk kondition",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		}
+	]
+}

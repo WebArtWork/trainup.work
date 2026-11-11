@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Variabili che puoi regolare",
+			"text": "Leva, resistenza, appoggio, range di movimento e tempo cambiano tutti quanto è difficile un esercizio. Un push-up inclinato è in genere più facile di un push-up a terra perché le braccia sostengono meno del tuo peso corporeo. Un manubrio leggero rende più difficile uno squat, e tenersi a un appoggio stabile rende più facile mantenere l’equilibrio in un affondo."
+		},
+		{
+			"title": "Esempi di push-up",
+			"text": "Parti da un muro o da una superficie alta e robusta, poi abbassa le mani su una panca o un piano sicuro man mano che diventi più forte. Passa ai push-up a terra e, più avanti, se serve, a una versione con piedi sollevati o con carico. Un push-up sulle ginocchia e i vari push-up inclinati non hanno tutti la stessa difficoltà, quindi prova quale ti permette di fare ripetizioni controllate."
+		},
+		{
+			"title": "Esempi di squat e trazioni",
+			"text": "Uno squat alla sedia può portare a uno squat a corpo libero senza appoggio e poi a un goblet squat. Per la trazione verticale, un lat machine o una trazione assistita possono venire prima delle ripetizioni senza assistenza. Annota qualsiasi cambiamento di presa, assistenza, range o carico, così sai cosa significa davvero un numero migliore nel tuo registro."
+		},
+		{
+			"title": "Quando cambiare",
+			"text": "Passa a un livello più alto quando raggiungi il tuo range obiettivo con tecnica stabile e uno sforzo moderato. Passa a uno più basso se l’esercizio ti fa ruotare o spostare molto il corpo per portarlo a termine, se continui a fallire ripetizioni o se la richiesta di equilibrio ti sembra poco sicura. Se qualcosa è a disagio, fermati e rivaluta. Un dolore che persiste o che sembra insolito richiede un controllo da parte di un medico o di un fisioterapista."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il tuo piano sceglie esercizi adatti al tuo livello, alla coordinazione, all’attrezzatura, all’altezza del soffitto, allo spazio sul pavimento e alle limitazioni che hai impostato. Quando lo rigeneri, cambia di un passo alla volta. Diventa più difficile solo dopo che i tuoi ultimi 4 allenamenti sono stati facili (RPE 5 o meno) e completi, senza dolore recente, e più facile quando 2 degli ultimi 3 sono stati molto duri (RPE 9 o più) o completati per meno del 60%."
+		}
+	],
+	"sources": [
+		{
+			"label": "Libreria di esercizi ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: tecnica dell’allenamento coi pesi (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

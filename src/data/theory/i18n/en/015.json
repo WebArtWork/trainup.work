@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Key measurements",
+			"text": "Resting heart rate is your pulse during quiet rest. Maximum heart rate (HRmax) is roughly the fastest rate your heart can reach during maximal effort. Age-based equations estimate HRmax but don’t measure it. The familiar 220 − age and Tanaka’s 208 − 0.7 × age are population averages, and for one person they can be well off."
+		},
+		{
+			"title": "Percentage-based zones",
+			"text": "One simple public health approach puts moderate aerobic intensity at about 50–70% of estimated HRmax and vigorous intensity at about 70–85%. Fitness apps may show five narrower zones, but each system uses different cutoffs. A zone color or a single pulse number can’t prove where your personal metabolic threshold is."
+		},
+		{
+			"title": "Heart rate reserve (HRR)",
+			"text": "The Karvonen method uses both your maximum and resting pulse: target HR = resting HR + intensity fraction × (HRmax − resting HR). For example, if HRmax is 190 and resting HR is 60, 60% of HRR gives 60 + 0.60 × 130 = 138 bpm. A 60% HRR target is different from 60% of HRmax."
+		},
+		{
+			"title": "The talk test",
+			"text": "At moderate effort you can usually talk but can’t sing comfortably. At vigorous effort, saying more than a few words gets hard. The test is useful when a wearable is inaccurate or you don’t have one. Heart rate readings can lag behind short intervals and change with heat, dehydration, stress, illness or medication."
+		},
+		{
+			"title": "Example",
+			"text": "For an easy aerobic session, pick a pace at which you can still hold a conversation. Watch how your pulse changes over several weeks at the same pace. That trend may tell you more than chasing a fixed “fat-burning zone.”"
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "After each workout you rate the whole session’s effort from 1 to 10, which works with or without heart rate data, and breathing cues help you judge it. If you have heart disease or take medication that affects your pulse, ask your doctor for guidance that fits you."
+		}
+	],
+	"sources": [
+		{
+			"label": "American Heart Association heart-rate guidance",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Tanaka et al. HRmax equation",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "CDC talk test",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

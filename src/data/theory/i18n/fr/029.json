@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ce que signifie « échec »",
+			"text": "L’échec concentrique, c’est quand vous essayez mais ne pouvez pas terminer une répétition de plus. L’échec technique arrive plus tôt, quand vous ne pouvez plus garder l’amplitude prévue ou un mouvement sûr. Dans une levée complexe, vous pouvez atteindre l’échec technique bien avant que les muscles ciblés n’atteignent l’échec musculaire complet."
+		},
+		{
+			"title": "S’entraîner dur sans aller à l’échec",
+			"text": "Dans la prise de position 2026 de l’ACSM, s’entraîner jusqu’à l’échec momentané n’a pas donné de façon fiable de meilleurs résultats en force, en hypertrophie ou en puissance. Les séries qui se terminent avec environ deux ou trois répétitions en réserve donnent souvent un stimulus d’entraînement utile avec moins de fatigue. La proximité de l’échec à viser dépend de votre objectif, de la charge, de l’exercice, de votre expérience et de la situation."
+		},
+		{
+			"title": "Le risque varie selon l’exercice",
+			"text": "Aller près de l’échec sur une machine stable ou un exercice d’isolation à faible risque est très différent de le faire dans un squat lourd à la barre, un développé au-dessus de la tête sans appui ou un mouvement explosif peu familier. Perdre votre gainage, perdre le contrôle à la descente ou ne pas avoir de moyen sûr de vous arrêter sont des raisons de terminer une série. Si vous vous entraînez seul sans matériel de sécurité, c’est une raison de plus de garder des répétitions en réserve."
+		},
+		{
+			"title": "Exemple",
+			"text": "Si vous faites des rowings à 15 kg pour douze répétitions propres et pensez pouvoir en faire deux de plus, la série est à environ 2 RIR. Vous n’avez pas à le prouver en forçant les répétitions treize et quatorze. Un pratiquant expérimenté peut parfois mener une série près de l’échec sur une machine sûre pour une raison précise, mais ce ne devrait pas être le plan de chaque séance. Visez un effort et une qualité que vous pouvez répéter, et ne traitez pas l’échec comme un exploit à collectionner."
+		},
+		{
+			"title": "Quand s’arrêter",
+			"text": "Terminez toute série si vous ressentez une douleur inhabituelle, un vertige, une faiblesse soudaine ou si vous ne contrôlez plus le mouvement. L’effort musculaire normal est différent de ces signes d’alerte."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Étude sur le RPE fondé sur les RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		}
+	]
+}

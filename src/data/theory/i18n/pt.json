@@ -1,0 +1,521 @@
+{
+	"ui": {
+		"title": "Teorias",
+		"intro": "Explicações curtas sobre como funciona o treino: o que significa cada ideia, como a usar e o que evitar. Cada teoria tem uma versão curta e uma versão detalhada.",
+		"disclaimer": "Estas teorias são educação geral, não aconselhamento médico. Se tiver dor, uma lesão ou um problema de saúde, consulte um médico ou fisioterapeuta antes de alterar o seu treino.",
+		"searchLabel": "Pesquisar teorias",
+		"searchPlaceholder": "Pesquisar por título ou ideia",
+		"topicLabel": "Tema",
+		"allTopics": "Todos os temas",
+		"count": "{shown} de {n} teorias",
+		"empty": "Nenhuma teoria corresponde à sua pesquisa.",
+		"reset": "Mostrar todas as teorias",
+		"short": "Em resumo",
+		"readMore": "Ler mais",
+		"readLess": "Mostrar menos",
+		"sources": "Fontes",
+		"previous": "Anterior",
+		"next": "Seguinte",
+		"backToList": "Todas as teorias",
+		"inTopic": "Mais em {title}",
+		"notFound": "Esta teoria não foi encontrada."
+	},
+	"topics": {
+		"foundations": "Fundamentos do treino",
+		"body": "Corpo e movimento",
+		"variables": "Variáveis do treino",
+		"patterns": "Padrões de movimento",
+		"programming": "Desenho do programa",
+		"equipment": "Equipamento",
+		"space": "Espaço e ambiente",
+		"conditioning": "Condicionamento",
+		"mobility": "Aquecimento e mobilidade",
+		"recovery": "Recuperação",
+		"safety": "Segurança e limitações",
+		"groups": "Grupos específicos",
+		"progress": "Acompanhamento do progresso",
+		"myths": "Mitos"
+	},
+	"theories": {
+		"1": {
+			"title": "Como o treino muda o corpo",
+			"short": "O treino é um desafio controlado que leva o sistema nervoso, os músculos, o coração e outros tecidos a ficarem melhores nas tarefas que repete. O progresso vem de combinar esse desafio com recuperação suficiente e de aumentar a exigência gradualmente, não de tornar cada treino exaustivo."
+		},
+		"2": {
+			"title": "Componentes da condição física",
+			"short": "A condição física é feita de várias capacidades parcialmente independentes: força, potência, resistência muscular, resistência aeróbica, mobilidade, equilíbrio e coordenação. Conhecê-las ajuda a escolher exercícios adequados ao seu objetivo, porque treinos diferentes trabalham coisas diferentes."
+		},
+		"3": {
+			"title": "Objetivos de treino: condição geral, força, condicionamento",
+			"short": "A condição física geral, a força e o condicionamento são prioridades diferentes, e cada uma molda a escolha dos exercícios, o esforço, o descanso e a progressão. Pode treinar várias qualidades em conjunto, mas um objetivo principal torna o programa mais fácil de organizar e de avaliar."
+		},
+		"4": {
+			"title": "Níveis de condição física: principiante, intermédio, avançado",
+			"short": "O seu nível de treino descreve a sua experiência e competência nos exercícios e cargas que realmente faz, não o quanto parece atlético. Os principiantes costumam progredir com prática simples e volume modesto, enquanto os mais experientes precisam muitas vezes de um planeamento mais deliberado."
+		},
+		"5": {
+			"title": "Avaliação de prontidão: quando consultar primeiro um profissional",
+			"short": "Uma avaliação de prontidão identifica problemas de saúde ou sintomas que podem exigir aconselhamento profissional antes de treinar com mais intensidade. Ajuda a tomar decisões de treino mais seguras, mas não é um diagnóstico médico nem o proíbe automaticamente de se exercitar."
+		},
+		"6": {
+			"title": "Recomendações de atividade física",
+			"short": "As recomendações de atividade física definem a atividade semanal mínima associada a benefícios importantes para a saúde. Para a maioria dos adultos, um objetivo útil é atividade aeróbica regular moderada ou intensa, mais treino de força para os principais grupos musculares em pelo menos dois dias por semana."
+		},
+		"7": {
+			"title": "Definir objetivos de treino realistas",
+			"short": "Um objetivo de treino útil é específico, mensurável, realista e ligado a um prazo. Associe o resultado que quer a ações semanais que controla, para ver o progresso mesmo quando os resultados chegam devagar."
+		},
+		"8": {
+			"title": "Consistência e hábitos de treino",
+			"short": "Consistência significa treinar com frequência suficiente, durante tempo suficiente, para que as melhorias se acumulem, incluindo nas semanas imperfeitas. Treinos curtos que consegue repetir e uma rotina previsível costumam superar um plano ambicioso que abandona após algumas sessões."
+		},
+		"9": {
+			"title": "Principais grupos musculares",
+			"short": "Os principais grupos musculares trabalham em conjunto para mover e estabilizar o corpo, por isso treiná-los exige mais do que isolar músculos individuais. Saber o que faz cada grupo ajuda a montar sessões equilibradas e a perceber porque é que um movimento pode trabalhar várias zonas ao mesmo tempo."
+		},
+		"10": {
+			"title": "Como funcionam os músculos: concêntrico, excêntrico, isométrico",
+			"short": "Os músculos produzem ou resistem à força ao encurtar, alongar ou manter uma posição. Estas ações concêntricas, excêntricas e isométricas ocorrem muitas vezes no mesmo exercício e ajudam a explicar o que significa controlar uma carga."
+		},
+		"11": {
+			"title": "Tipos de fibras musculares",
+			"short": "Os músculos esqueléticos contêm fibras que diferem na resistência à fadiga e na produção de força, normalmente descritas como tipo I e tipo II. Ambos os tipos ajudam a mover-se, e o treino melhora o desempenho de ambos sem o transformar num “tipo de fibra” completamente diferente."
+		},
+		"12": {
+			"title": "Articulações e amplitude de movimento",
+			"short": "As articulações movem-se dentro de amplitudes moldadas pela anatomia, pelo controlo muscular, pela flexibilidade e pelo conforto. Treinar numa amplitude útil que consegue controlar costuma criar uma capacidade que se transfere melhor do que forçar toda a gente para as mesmas posições."
+		},
+		"13": {
+			"title": "A coluna, o core e a ativação do tronco",
+			"short": "A coluna sustenta-o e permite-lhe mover-se, e os músculos do tronco à sua volta ajudam a controlar as forças durante o exercício. A ativação do tronco (bracing) é uma contração coordenada do tronco que pode melhorar a estabilidade, e é diferente de manter uma postura rígida em todas as atividades."
+		},
+		"14": {
+			"title": "Sistemas energéticos no exercício",
+			"short": "O exercício recorre a três sistemas energéticos que se sobrepõem: fosfagénio, glicolítico e oxidativo. Os três trabalham sempre, mas a importância de cada um muda com a intensidade e a duração do movimento e com a recuperação entre esforços."
+		},
+		"15": {
+			"title": "Frequência cardíaca e zonas de treino",
+			"short": "A frequência cardíaca pode ajudar a estimar a intensidade do exercício aeróbico, mas as zonas de treino são aproximações, não limites biológicos universais. Use a pulsação em conjunto com a respiração, o teste da conversa, o esforço e os seus fatores de saúde para escolher uma intensidade que consiga manter."
+		},
+		"16": {
+			"title": "Respiração durante o exercício",
+			"short": "A respiração apoia o movimento, ajuda a gerir a pressão no tronco e muda consoante o esforço. Para a maioria dos principiantes, um ritmo constante e expirar na parte mais difícil de cada repetição é uma forma prática de evitar suster a respiração quando não é preciso."
+		},
+		"17": {
+			"title": "Aprendizagem motora: como se constrói a técnica",
+			"short": "A técnica de um exercício é uma competência que se constrói com prática repetida e atenta e com feedback útil. Aprende os exercícios com mais eficiência se começar por versões mais fáceis, mantiver as repetições consistentes e só aumentar a dificuldade quando tiver controlo."
+		},
+		"18": {
+			"title": "Crescimento muscular (hipertrofia)",
+			"short": "A hipertrofia muscular é um aumento do tamanho do músculo que resulta de treino e recuperação repetidos. A carga mecânica é um estímulo importante, e o volume de treino, o esforço, a alimentação adequada e o sono influenciam o quanto consegue adaptar-se."
+		},
+		"19": {
+			"title": "Séries, repetições e períodos de descanso",
+			"short": "Uma repetição é um movimento de um exercício, uma série é um grupo de repetições, e os períodos de descanso separam séries ou exercícios. Em conjunto, decidem a quantidade de trabalho que cabe numa sessão e como mantém a força, a técnica ou a resistência."
+		},
+		"20": {
+			"title": "Intervalos de repetições e o que treinam",
+			"short": "Os intervalos de repetições orientam o que enfatiza, mas não dividem o treino em categorias rígidas. O trabalho pesado com poucas repetições é o mais importante para a força máxima, o músculo pode crescer em muitos intervalos, e muitas repetições podem desenvolver resistência muscular local."
+		},
+		"21": {
+			"title": "Volume de treino",
+			"short": "O volume de treino é a quantidade de trabalho que faz. No treino de resistência conta-se normalmente em séries difíceis por grupo muscular por semana. Volume suficiente impulsiona o progresso, mas séries além do que consegue recuperar podem reduzir a qualidade do treino."
+		},
+		"22": {
+			"title": "Intensidade: carga e percentagem de 1RM",
+			"short": "A intensidade no treino de resistência refere-se muitas vezes ao peso da carga em comparação com a sua repetição máxima, ou 1RM. Os praticantes experientes podem usar percentagens para definir as cargas. Os principiantes podem escolher o peso com mais segurança a partir de repetições controladas e do esforço, sem um teste máximo."
+		},
+		"23": {
+			"title": "Perceção subjetiva de esforço (RPE)",
+			"short": "A perceção subjetiva de esforço (RPE) é a sua própria classificação de quão difícil o exercício parece. Se a registar junto com o que concluiu, pode identificar sessões mais fáceis ou mais difíceis do que o esperado e ajustar o treino futuro aos poucos."
+		},
+		"24": {
+			"title": "Repetições em reserva (RIR)",
+			"short": "As repetições em reserva (RIR) são a sua estimativa de quantas repetições limpas ainda conseguiria fazer antes do fim de uma série. Ajudam a escolher cargas difíceis, mas que deixam algumas repetições de sobra, sem testar o máximo nem ir à falha em todas as séries."
+		},
+		"25": {
+			"title": "Cadência de execução",
+			"short": "A cadência é a velocidade e o tempo de cada fase de uma repetição. Uma cadência controlada ajuda a praticar a técnica e torna os treinos mais fáceis de repetir. Repetições muito lentas não são automaticamente melhores para a força ou o crescimento muscular."
+		},
+		"26": {
+			"title": "Séries cronometradas e isometrias",
+			"short": "As séries cronometradas e as isometrias estáticas medem o esforço em segundos em vez de repetições. Adequam-se a pranchas, cadeira na parede, suspensões e intervalos de condicionamento, desde que a posição ou o ritmo se mantenham iguais durante todo o tempo."
+		},
+		"27": {
+			"title": "Frequência de treino",
+			"short": "A frequência de treino é a regularidade com que se exercita numa semana, contada no total ou por grupo muscular. Um bom horário dá-lhe prática e trabalho suficientes para progredir e deixa tempo para a recuperação e para o resto da sua vida."
+		},
+		"28": {
+			"title": "Ordem dos exercícios numa sessão",
+			"short": "A ordem dos exercícios decide quais deles faz quando está mais fresco. Coloque cedo os exercícios prioritários, os movimentos tecnicamente difíceis e os levantamentos de grande força, e depois encaixe o trabalho auxiliar, de core ou de condicionamento mais simples onde sirva o objetivo da sessão."
+		},
+		"29": {
+			"title": "Treinar até à falha",
+			"short": "Treinar até à falha significa continuar uma série até não conseguir fazer outra repetição segundo o padrão que escolheu. Exige muito esforço, mas não é necessário para ganhar força ou músculo, e acrescenta fadiga e riscos para a técnica."
+		},
+		"30": {
+			"title": "Planear a duração da sessão",
+			"short": "Planear a duração da sessão significa estimar quanto tempo demoram realmente o aquecimento, as séries, os descansos, as trocas de exercício e qualquer condicionamento. Um treino realista de 20 a 45 minutos que cubra as suas prioridades principais faz muitas vezes mais por si do que um plano mais longo que nunca cabe no seu dia."
+		},
+		"31": {
+			"title": "Padrões fundamentais de movimento",
+			"short": "Os padrões de movimento agrupam os exercícios pelo que o corpo faz, em vez de por músculos isolados. Agachamento, dobradiça da anca, avanço, empurrar, puxar, transportar, estabilização do core e locomoção dão-lhe uma forma prática de escolher um conjunto equilibrado de exercícios."
+		},
+		"32": {
+			"title": "O padrão de agachamento",
+			"short": "O agachamento baixa e sobe o corpo dobrando e estendendo em conjunto as ancas, os joelhos e os tornozelos. Aprender um agachamento confortável para o seu corpo ajuda nos levantamentos, no sentar-se e em muitos exercícios de força para a parte inferior do corpo."
+		},
+		"33": {
+			"title": "O padrão de dobradiça da anca",
+			"short": "A dobradiça da anca dobra sobretudo nas ancas enquanto mantém o tronco controlado. É a base dos levantamentos terra, dos levantamentos terra romenos e dos movimentos com kettlebell, e treina os glúteos e os isquiotibiais para produzirem força."
+		},
+		"34": {
+			"title": "Avanços e treino unilateral das pernas",
+			"short": "Os avanços, os agachamentos split e os step-ups colocam mais carga numa perna do que na outra e desafiam o equilíbrio e o controlo da anca. Podem desenvolver força prática na parte inferior do corpo e mostrar diferenças entre o lado esquerdo e o direito."
+		},
+		"35": {
+			"title": "Empurrar na horizontal",
+			"short": "Empurrar na horizontal move os braços para a frente a partir do tronco, como em flexões, supinos com halteres e supinos com barra. Trabalha sobretudo o peito, os tríceps e a parte da frente dos ombros, e exige controlo do tronco e dos ombros."
+		},
+		"36": {
+			"title": "Empurrar na vertical",
+			"short": "Empurrar na vertical leva a resistência acima da cabeça, como num press de ombros com halteres, num press com barra acima da cabeça ou numa flexão em pico (pike). Treina a força dos ombros e dos braços e exige que as omoplatas, o tronco e as ancas trabalhem em conjunto."
+		},
+		"37": {
+			"title": "Puxar na horizontal",
+			"short": "Puxar na horizontal leva as mãos ou os cotovelos em direção ao tronco, como nas remadas. As remadas treinam a parte superior das costas, os dorsais, os ombros posteriores e os flexores do cotovelo, e equilibram muitos exercícios de empurrar."
+		},
+		"38": {
+			"title": "Puxar na vertical",
+			"short": "Puxar na vertical leva os cotovelos para baixo a partir de uma posição acima da cabeça, como nas elevações, nas elevações com pegada supinada e nas puxadas na polia alta. Trabalha sobretudo os dorsais e a parte superior das costas, com muita ajuda dos braços e do tronco."
+		},
+		"39": {
+			"title": "Treino do core: anti-extensão, anti-rotação, anti-flexão lateral",
+			"short": "A força do core inclui resistir a movimentos indesejados, além de dobrar o tronco. Os exercícios de anti-extensão, anti-rotação e anti-flexão lateral treinam o tronco para se manter controlado enquanto atuam forças sobre ele."
+		},
+		"40": {
+			"title": "Transportes com carga",
+			"short": "Os transportes com carga consistem em caminhar enquanto segura um peso, como halteres ou kettlebells. Um transporte é simples mas exigente: treina a força de preensão, a estabilidade do tronco, a postura e o padrão de marcha em conjunto."
+		},
+		"41": {
+			"title": "Exercícios de isolamento",
+			"short": "Os exercícios de isolamento concentram-se no movimento de uma articulação principal, como uma rosca bíceps ou uma extensão de pernas. Permitem dar a um músculo prática ou volume de treino extra, além do que os movimentos multiarticulares já lhe dão."
+		},
+		"42": {
+			"title": "Equilibrar empurrar e puxar",
+			"short": "Os movimentos de empurrar e de puxar treinam partes diferentes, mas que se sobrepõem, da parte superior do corpo. Fazer ambos desenvolve uma força equilibrada e evita que o programa fique cheio de exercícios de empurrar."
+		},
+		"43": {
+			"title": "Princípios do treino",
+			"short": "Um bom treino segue alguns princípios interligados: especificidade, sobrecarga progressiva, individualização, recuperação, consistência e reversibilidade. São um guia mais fiável do que copiar a rotina de um atleta avançado."
+		},
+		"44": {
+			"title": "Sobrecarga progressiva",
+			"short": "A sobrecarga progressiva consiste em tornar um exercício mais difícil aos poucos, à medida que o corpo se adapta. É necessária para continuar a melhorar e pode aplicá-la através de repetições, resistência, controlo do movimento, amplitude de movimento ou um exercício mais difícil, além de pesos mais pesados."
+		},
+		"45": {
+			"title": "Dupla progressão",
+			"short": "A dupla progressão é uma forma simples de avançar no treino de força: aumenta as repetições dentro de um intervalo escolhido e depois aumenta o peso. Tira grande parte das dúvidas na escolha de uma nova carga."
+		},
+		"46": {
+			"title": "Programas de corpo inteiro, superior/inferior e divididos",
+			"short": "Uma divisão de treino é a forma como distribui os exercícios pela semana. As divisões de corpo inteiro, superior/inferior e por grupos musculares podem todas desenvolver força e músculo quando o trabalho total, o esforço e a recuperação lhe convêm."
+		},
+		"47": {
+			"title": "Estruturar uma semana de treino",
+			"short": "Uma semana de treino organiza sessões difíceis, atividade mais leve e recuperação para que o plano se ajuste à sua vida real. Um bom horário mantém-no a treinar com frequência suficiente sem acumular fadiga de treinos difíceis seguidos."
+		},
+		"48": {
+			"title": "Noções básicas de periodização",
+			"short": "A periodização consiste em planear como o stress do treino muda ao longo do tempo. As abordagens linear, ondulatória e por blocos são formas de organizar o progresso, mas os principiantes conseguem muitas vezes melhorar com um programa muito mais simples que cumprem."
+		},
+		"49": {
+			"title": "Semanas de deload",
+			"short": "Um deload é um curto período de treino mais leve que deixa a fadiga baixar enquanto continua a praticar os movimentos. Pode planear os deloads com antecedência ou usar um quando a carga habitual deixa de parecer algo de que recupera."
+		},
+		"50": {
+			"title": "Escolher exercícios",
+			"short": "Escolha exercícios adequados ao seu objetivo, nível de treino, equipamento, espaço e a quaisquer limitações que tenha. O melhor exercício é aquele que consegue fazer em segurança, repetir com regularidade e tornar mais difícil aos poucos."
+		},
+		"51": {
+			"title": "Progressões e regressões",
+			"short": "Uma progressão torna um exercício mais difícil e uma regressão torna-o mais fácil. Ambas são ferramentas normais de treino para ajustar um exercício à sua força, técnica e recuperação."
+		},
+		"52": {
+			"title": "Super-séries e circuitos",
+			"short": "Uma super-série junta exercícios com pouco descanso entre eles, e um circuito passa por vários movimentos em rotação. Ambos podem poupar tempo, mas a fadiga e a recuperação mais curta podem reduzir a qualidade de exercícios pesados ou muito técnicos."
+		},
+		"53": {
+			"title": "Estagnações no treino",
+			"short": "Uma estagnação no treino é um período em que uma capacidade deixa de melhorar apesar de continuar a praticar. As estagnações são comuns, e a causa pode ser a recuperação, pouco desafio, medições inconsistentes ou o progresso mais lento que vem com a experiência."
+		},
+		"54": {
+			"title": "Destreino e regresso após uma pausa",
+			"short": "O destreino é a perda parcial de condição física depois de reduzir ou parar o treino. Um regresso cuidadoso reconstrói a sua capacidade passo a passo, sem esperar que o corpo aguente de imediato a carga antiga."
+		},
+		"55": {
+			"title": "Treino com o peso do corpo",
+			"short": "O treino com o peso do corpo usa o seu próprio corpo como resistência para a força e a prática de movimento. Agachamentos, flexões, avanços, pranchas e elevações podem levá-lo longe sem comprar um conjunto completo de pesos."
+		},
+		"56": {
+			"title": "Treino com halteres",
+			"short": "Os halteres são pesos livres versáteis para presses, remadas, agachamentos, dobradiças e exercícios unilaterais. Cada braço move-se de forma independente e pode mudar a pegada, mas é preciso atenção ao equilíbrio, ao manuseamento e à arrumação."
+		},
+		"57": {
+			"title": "Treino com kettlebell",
+			"short": "Uma kettlebell é um peso com pega e com a massa deslocada em relação à pega. Pode usá-la para exercícios de força controlados e para movimentos mais rápidos, como os swings, mas os exercícios mais técnicos exigem prática deliberada."
+		},
+		"58": {
+			"title": "Treino com bandas de resistência",
+			"short": "As bandas de resistência dão uma resistência portátil que costuma aumentar à medida que a banda estica. Pode usá-las para presses, remadas, puxadas e trabalho acessório, desde que as fixe em segurança e as mantenha em bom estado."
+		},
+		"59": {
+			"title": "Treino com barra",
+			"short": "A barra permite carregar levantamentos como agachamentos, levantamentos terra, presses e remadas com um pouco mais de peso ao longo do tempo. É ótima para desenvolver um nível elevado de força, mas exige boa técnica, uma montagem correta do equipamento e precauções de segurança."
+		},
+		"60": {
+			"title": "Treino com máquinas e cabos",
+			"short": "As máquinas de musculação e as estações de cabos oferecem resistência ajustável e podem simplificar a preparação do exercício. São ferramentas eficazes de treino de força, a par dos pesos livres, e não um substituto inferior."
+		},
+		"61": {
+			"title": "Barra de elevações: instalação e segurança",
+			"short": "Uma barra de elevações permite fazer elevações, elevações com pegada supinada e exercícios de suspensão, mas só se estiver bem instalada e dimensionada para o uso que lhe dá. A qualidade da fixação importa mais do que o número de repetições que consegue fazer."
+		},
+		"62": {
+			"title": "Bancos, steps e cordas de saltar",
+			"short": "Bancos, steps e cordas de saltar acrescentam muitos exercícios em casa e no ginásio. Cada um só funciona bem quando o tamanho, a estabilidade e o espaço livre se adequam ao movimento e a quem o faz."
+		},
+		"63": {
+			"title": "Escolher a carga certa",
+			"short": "A carga certa é pesada o suficiente para o fazer trabalhar e leve o suficiente para que todas as repetições se mantenham controladas. Como principiante, pode escolher os pesos pela qualidade do movimento e pelo número de repetições que lhe sobram, sem testar um levantamento máximo."
+		},
+		"64": {
+			"title": "Treinar com substitutos domésticos",
+			"short": "Os objetos domésticos podem por vezes substituir o equipamento de treino como resistência leve ou apoio. Use um apenas depois de verificar a sua estabilidade, a carga que aguenta, a pega e o que pretende fazer com ele."
+		},
+		"65": {
+			"title": "Espaço útil e folga para o exercício",
+			"short": "O espaço útil de treino inclui o local onde está e também todos os sítios por onde o corpo e o equipamento passam em cada repetição. Medi-lo ajuda a evitar colisões e permite ao TrainUp escolher exercícios que realmente cabem."
+		},
+		"66": {
+			"title": "Altura do teto e exercícios acima da cabeça",
+			"short": "A altura do teto decide se os presses acima da cabeça, as elevações, os saltos e a corda de saltar são práticos. Um movimento pode caber enquanto está parado e tornar-se inseguro quando os braços, a carga ou o corpo sobem."
+		},
+		"67": {
+			"title": "Superfície de treino e calçado",
+			"short": "O piso e o calçado afetam a estabilidade, a aderência e a dureza de cada aterragem. A melhor combinação depende de o movimento ser sobretudo levantamento, corrida, saltos ou mobilidade lenta."
+		},
+		"68": {
+			"title": "Ruído e impacto ao treinar em casa",
+			"short": "Os treinos em casa podem incomodar os vizinhos e bater no chão, sobretudo com saltos e pesos largados. Os exercícios de menor impacto continuam a dar-lhe condicionamento real com muito menos ruído."
+		},
+		"69": {
+			"title": "Treinar num ginásio: etiqueta e segurança",
+			"short": "Treinar com segurança num ginásio significa boa técnica e cuidado com o equipamento partilhado e com as pessoas à volta. Uma etiqueta clara reduz o risco de lesão e torna o equipamento mais fácil de usar por todos quando está cheio."
+		},
+		"70": {
+			"title": "Treinar ao ar livre: tempo e terreno",
+			"short": "Ao ar livre, o tempo, o piso, a luz e o equipamento mudam de dia para dia. Ajustar a intensidade e o local tornam as caminhadas, as corridas e os treinos no parque mais seguros e fáceis de manter."
+		},
+		"71": {
+			"title": "Construir uma base aeróbica",
+			"short": "Uma base aeróbica é a sua capacidade de manter uma atividade razoavelmente confortável durante muito tempo. Construí-la torna o movimento do dia a dia e as sessões de condicionamento mais intensas mais fáceis de tolerar."
+		},
+		"72": {
+			"title": "Cardio em regime estável",
+			"short": "O cardio em regime estável mantém o esforço razoavelmente constante durante toda a sessão, em atividades como caminhar, correr, andar de bicicleta ou usar máquinas de cardio. Desenvolve a resistência sem intervalos repetidos de esforço máximo."
+		},
+		"73": {
+			"title": "Treino intervalado",
+			"short": "O treino intervalado alterna trabalho mais intenso com recuperação mais fácil. Ao definir a duração e a intensidade de cada parte, pode melhorar o condicionamento passo a passo, e nenhuma sessão tem de ser um teste de esforço máximo."
+		},
+		"74": {
+			"title": "HIIT e Tabata",
+			"short": "O treino intervalado de alta intensidade (HIIT) alterna esforços realmente intensos com recuperação, e o Tabata é um formato específico de 20 segundos de trabalho e 10 de descanso. Nenhum dos termos significa apenas um treino rápido qualquer."
+		},
+		"75": {
+			"title": "Rácios de trabalho e descanso",
+			"short": "Um rácio de trabalho e descanso compara o tempo que trabalha com o tempo que recupera. Rácios como 1:3, 1:1 e 2:1 decidem o quão cheio parece um treino, e o seu efeito também depende da intensidade do intervalo de trabalho."
+		},
+		"76": {
+			"title": "Condicionamento de baixo impacto",
+			"short": "O condicionamento de baixo impacto aumenta a respiração e a frequência cardíaca com menos aterragens fortes. Adequa-se a principiantes, a quem precisa de limitar o impacto e a quem treina em locais onde o ruído é um problema."
+		},
+		"77": {
+			"title": "Pliometria e saltos",
+			"short": "A pliometria treina o movimento explosivo através de um alongamento e encurtamento rápidos dos músculos, normalmente com saltitos, passadas saltadas e saltos. Exige aterragens controladas, uma progressão gradual e descanso suficiente para manter cada repetição nítida."
+		},
+		"78": {
+			"title": "Noções básicas de técnica de corrida",
+			"short": "A técnica de corrida tem a ver com a postura, o ritmo da passada e o habituar-se ao impacto repetido aos poucos. Como principiante, ganha mais com uma corrida confortável e repetível e uma progressão gradual do que ao copiar um apoio do pé “perfeito”."
+		},
+		"79": {
+			"title": "Técnicas de corda de saltar",
+			"short": "A corda de saltar é um condicionamento portátil que exige ritmo com a corda e pequenos saltos repetidos. Acerte o comprimento da corda, o controlo dos pulsos e o ritmo de aterragem antes de tentar intervalos longos ou rápidos."
+		},
+		"80": {
+			"title": "Combinar força e cardio",
+			"short": "Fazer treino de resistência e cardio desenvolve a condição muscular e cardiovascular. Para a maioria dos praticantes recreativos, um horário semanal sensato permite melhorar em ambos, por isso não tem de escolher um."
+		},
+		"81": {
+			"title": "O aquecimento",
+			"short": "Um aquecimento prepara a respiração, a circulação, as articulações, os músculos e a coordenação para o trabalho que se segue. Um aquecimento geral curto seguido de um ensaio do exercício que vai fazer costuma ajudar mais do que um conjunto fixo de alongamentos."
+		},
+		"82": {
+			"title": "O retorno à calma",
+			"short": "O retorno à calma leva o corpo de uma atividade intensa de volta ao repouso com movimento fácil e respiração calma. Pode saber bem e é fácil de encaixar, mas não há boas provas de que previna as dores musculares de início tardio."
+		},
+		"83": {
+			"title": "Mobilidade e flexibilidade",
+			"short": "A flexibilidade é a amplitude que uma articulação consegue percorrer, e a mobilidade é a capacidade de controlar essa amplitude por si. Ao escolher exercícios, a amplitude que consegue usar com controlo conta mais do que a posição mais profunda que consegue atingir."
+		},
+		"84": {
+			"title": "Alongamento estático e dinâmico",
+			"short": "O alongamento estático mantém uma posição, e o alongamento dinâmico move-se através de uma amplitude de forma controlada. Ambos podem ajudar a preparar-se para o movimento ou a melhorar a flexibilidade quando os ajusta ao seu objetivo e mantém a intensidade confortável."
+		},
+		"85": {
+			"title": "Mobilidade da anca",
+			"short": "A mobilidade da anca é o movimento confortável das articulações da anca: dobrar, estender, rodar e mover a perna para o lado. Ajuda a atingir posições úteis de agachamento, dobradiça e avanço, embora a anatomia da anca e as amplitudes confortáveis variem de pessoa para pessoa."
+		},
+		"86": {
+			"title": "Mobilidade da coluna torácica e dos ombros",
+			"short": "A coluna torácica e os ombros participam em alcançar, rodar, empurrar acima da cabeça e em muitos movimentos de puxar. O trabalho de mobilidade pode tornar estes movimentos mais fáceis de alcançar, desde que também desenvolva a força e o controlo para os usar."
+		},
+		"87": {
+			"title": "Recuperação entre sessões",
+			"short": "Entre sessões, a fadiga desaparece e o corpo adapta-se ao treino. Um bom plano combina treinos difíceis com descanso suficiente ou atividade mais leve para que consiga manter o desempenho semana após semana."
+		},
+		"88": {
+			"title": "Sono e treino",
+			"short": "O sono apoia a recuperação física, a aprendizagem, o humor e um desempenho de treino estável. Os adultos precisam geralmente de pelo menos sete horas por noite, e muitos funcionam melhor com cerca de sete a nove horas de sono de boa qualidade."
+		},
+		"89": {
+			"title": "Dor muscular de início tardio",
+			"short": "A dor muscular de início tardio (DOMS) é uma sensibilidade e rigidez temporárias que surgem muitas vezes depois de um treino novo ou invulgarmente difícil. Instala-se após o exercício e costuma ser pior cerca de 24–72 horas depois."
+		},
+		"90": {
+			"title": "Overreaching e overtraining",
+			"short": "O overreaching é uma descida temporária do desempenho depois de acumular mais stress de treino do que o corpo consegue recuperar no momento. A verdadeira síndrome de overtraining é mais grave e dura mais tempo, e um treino mau não chega para saber que a tem."
+		},
+		"91": {
+			"title": "Hidratação",
+			"short": "Manter-se hidratado apoia a circulação, o controlo da temperatura e o desempenho no exercício. A quantidade que precisa de beber depende de quanto transpira, do tempo e da duração do treino, e beber água em excesso também pode ser perigoso."
+		},
+		"92": {
+			"title": "Noções básicas de nutrição para pessoas ativas",
+			"short": "O treino corre melhor quando come comida suficiente, uma variedade de nutrientes e proteína suficiente para a reparação e a adaptação. O TrainUp ensina princípios gerais de nutrição e não dá planos de refeições, metas de calorias nem dietas terapêuticas."
+		},
+		"93": {
+			"title": "Prontidão diária e stress",
+			"short": "A prontidão é o quão preparado se sente e o quão bem rende ao entrar numa sessão. Dormir mal, estar doente e o stress da vida podem mudar a quantidade de treino adequada nesse dia, mesmo que o plano escrito continue o mesmo."
+		},
+		"94": {
+			"title": "Recuperação ativa",
+			"short": "A recuperação ativa é movimento fácil entre sessões de treino mais intensas. Caminhar, andar de bicicleta com facilidade e mobilidade suave mantêm-no em movimento sem acrescentar um segundo treino difícil."
+		},
+		"95": {
+			"title": "Técnica antes da carga",
+			"short": "Uma boa técnica torna um movimento repetível e controlado antes de acrescentar resistência. Aumente a carga apenas quando conseguir manter as posições, a amplitude de movimento e a confiança."
+		},
+		"96": {
+			"title": "Dor ou desconforto: como distinguir",
+			"short": "O exercício traz muitas vezes esforço muscular, fadiga e dores passageiras, mas a dor aguda, que está a piorar ou que vem com sintomas nervosos exige atenção. Uma verificação simples dos sintomas ajuda a escolher um passo seguinte mais seguro sem tentar diagnosticar nada."
+		},
+		"97": {
+			"title": "Sinais de alerta: quando parar imediatamente",
+			"short": "Alguns sintomas durante o exercício podem indicar um problema médico urgente em vez de fadiga normal. Reconhecê-los importa mais do que terminar o treino ou atingir uma meta planeada."
+		},
+		"98": {
+			"title": "Carga axial na coluna",
+			"short": "A carga axial na coluna é a força de compressão que percorre a coluna durante o movimento ou o treino de força. Conhecê-la explica porque é que alguns exercícios podem não lhe convir se quiser opções que carreguem menos a coluna."
+		},
+		"99": {
+			"title": "Treinar com joelhos sensíveis",
+			"short": "Joelhos sensíveis podem tornar desconfortáveis alguns movimentos, profundidades ou níveis de impacto. Escolhas de treino sensatas podem reduzir crises evitáveis, mas sintomas no joelho persistentes ou graves exigem uma avaliação profissional."
+		},
+		"100": {
+			"title": "Treinar com a zona lombar sensível",
+			"short": "Uma zona lombar sensível pode afetar as cargas, amplitudes e posições que tolera durante o exercício. O planeamento de condição física geral pode favorecer variações confortáveis e uma progressão gradual, mas não substitui uma avaliação clínica nem a reabilitação."
+		},
+		"101": {
+			"title": "Treinar com ombros sensíveis",
+			"short": "A forma como o ombro se sente pode depender do ângulo de empurrar, da pega, da amplitude de movimento e da carga. Escolher variações que tolera ajuda-o a manter-se ativo, mas dor no ombro sem causa clara, ou dor que persiste, exige uma avaliação profissional."
+		},
+		"102": {
+			"title": "Treinar com pulsos sensíveis",
+			"short": "Os pulsos podem doer quando as mãos suportam o peso do corpo ou seguram uma carga num ângulo desconfortável. Mudar a pega, o apoio ou o exercício pode por vezes aliviar a tensão enquanto continua a treinar o mesmo padrão de movimento."
+		},
+		"103": {
+			"title": "Dificuldade de coordenação e escolha segura de exercícios",
+			"short": "A dificuldade de coordenação é o quanto um exercício exige de equilíbrio, tempo e controlo do movimento. Ajustá-la à sua experiência e ao seu cansaço permite praticar boa técnica antes de acrescentar velocidade ou carga."
+		},
+		"104": {
+			"title": "Assistência e saída segura",
+			"short": "Dar assistência (spotting) significa que alguém o ajuda quando não consegue terminar uma repetição em segurança. Treine com parceiro ou sozinho, monte bem o rack, escolha um peso que consiga controlar e saiba o que fará se um levantamento falhar."
+		},
+		"105": {
+			"title": "Começar do zero",
+			"short": "Como principiante, pode ficar em melhor forma com uma pequena rotina que consiga repetir. No primeiro mês, concentre-se em aprender os movimentos, manter o esforço confortável e aparecer com regularidade, e deixe para mais tarde levantar o máximo de peso possível."
+		},
+		"106": {
+			"title": "Treinar depois dos 50",
+			"short": "Pode continuar a desenvolver força e condição física depois dos 50, e o exercício regular ajuda a manter-se móvel e independente. Baseie o plano na sua saúde, no seu historial de treino, no equilíbrio e na recuperação. Ter mais de 50 anos não significa que precise da mesma rotina fácil que todos os outros da sua idade."
+		},
+		"107": {
+			"title": "Treino de força para adolescentes",
+			"short": "O treino de força supervisionado e pensado para a sua idade pode ajudar a desenvolver coordenação, força e confiança na forma como se move. A boa técnica e a progressão gradual vêm primeiro, e copiar um programa de levantamentos máximos de um adulto é o modelo errado."
+		},
+		"108": {
+			"title": "Exercício durante a gravidez e após o parto",
+			"short": "A atividade física costuma ajudar numa gravidez sem complicações e após o parto, mas o que o corpo precisa pode mudar bastante nestes períodos. Procure aconselhamento individual junto da sua equipa de cuidados obstétricos, sobretudo se tiver sintomas ou complicações médicas."
+		},
+		"109": {
+			"title": "Começar a exercitar-se com excesso de peso",
+			"short": "Pessoas de todos os tamanhos corporais podem ficar mais fortes, em melhor forma e mais saudáveis com o tipo certo de atividade. Um bom começo foca-se no conforto, num impacto mais baixo e em conseguir fazer mais, e o peso corporal é apenas uma de várias formas de medir o sucesso."
+		},
+		"110": {
+			"title": "Treinos curtos para agendas ocupadas",
+			"short": "Um treino bem planeado de 10–20 minutos pode criar um hábito de treino e melhorar a sua condição física. Se está ocupado, sessões curtas que faz com frequência costumam funcionar melhor do que um plano ambicioso que não consegue cumprir."
+		},
+		"111": {
+			"title": "Manter um registo de treino",
+			"short": "Um registo de treino regista o que planeou, o que fez e como se sentiu. Mantê-lo com regularidade ajuda a distinguir o progresso real das oscilações normais do dia a dia e dá-lhe melhor informação quando muda o programa."
+		},
+		"112": {
+			"title": "Medir o progresso da força",
+			"short": "O progresso da força pode surgir como mais repetições, cargas mais pesadas ou variações mais difíceis de um exercício. Uma comparação justa mantém a técnica e as condições iguais, e um recorde pessoal é apenas um dos números que contam."
+		},
+		"113": {
+			"title": "Medir o progresso do condicionamento",
+			"short": "O seu condicionamento está a melhorar quando consegue continuar durante mais tempo, percorrer uma distância mais depressa ou fazer a mesma tarefa com menos esforço. Repetir testes simples em condições semelhantes torna as tendências de resistência mais fáceis de ler."
+		},
+		"114": {
+			"title": "Tendências do peso corporal e medidas",
+			"short": "O peso corporal e as medidas do corpo mudam por motivos além de ganhar ou perder gordura, como os líquidos e a digestão. Se optar por os registar, as tendências ao longo do tempo dizem-lhe mais do que leituras isoladas."
+		},
+		"115": {
+			"title": "Testes de condição física simples",
+			"short": "Os testes de campo simples dão uma imagem rápida da sua resistência de força, equilíbrio ou condicionamento. São mais úteis quando repete o mesmo teste da mesma forma, e comparar-se com uma pontuação feita para toda a gente diz-lhe muito menos."
+		},
+		"116": {
+			"title": "Ajustar o plano a partir do feedback",
+			"short": "O plano funciona melhor quando o trabalho que concluiu e a forma como se sentiu moldam o que vem a seguir. Alterações pequenas e cuidadosas melhoram o ajuste. Mude uma coisa de cada vez e deixe um treino como está enquanto o está a fazer."
+		},
+		"117": {
+			"title": "Mito: é possível queimar gordura numa parte do corpo",
+			"short": "Treinar os abdominais não lhe permite escolher de forma fiável onde o corpo perde gordura. Os exercícios localizados fortalecem os músculos que treina, enquanto o local onde a gordura se acumula e como muda dependem de fatores biológicos e comportamentais mais amplos."
+		},
+		"118": {
+			"title": "Mito: o treino de força torna as mulheres corpulentas",
+			"short": "O treino de resistência não faz automaticamente as mulheres parecerem muito musculadas. Os resultados habituais são mais força e melhor função muscular, e a quantidade de músculo visível que se ganha depende do treino, do tempo, da alimentação e da biologia de cada pessoa."
+		},
+		"119": {
+			"title": "Mito: o cardio destrói os ganhos musculares",
+			"short": "O exercício aeróbico e o treino de resistência podem funcionar em conjunto num mesmo programa de condição física. Algumas combinações podem reduzir ligeiramente certos ganhos de força ou potência, mas o cardio não anula automaticamente o crescimento muscular."
+		},
+		"120": {
+			"title": "Mito: sem dor não há ganho",
+			"short": "O esforço e o treino progressivamente mais difícil desenvolvem a condição física, mas não precisa de dor nem de dores musculares intensas para melhorar. Procure um desafio que consiga controlar, boa técnica e recuperação, e não meça o sucesso pelo quanto sofre."
+		}
+	}
+}

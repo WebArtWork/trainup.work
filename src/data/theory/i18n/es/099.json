@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Qué cambia la carga sobre tus rodillas",
+			"text": "La profundidad de la sentadilla, la altura del escalón, el equilibrio, la velocidad, la resistencia y el impacto de los saltos cambian lo duro que trabajan tus rodillas. No existe una regla universal que diga que la rodilla nunca debe pasar de la punta del pie. Hasta dónde puede avanzar cómodamente tu rodilla difiere entre personas y entre tareas."
+		},
+		{
+			"title": "Cambios prácticos",
+			"text": "Un levantarse de una silla controlado, una sentadilla dividida con apoyo o un step-up bajo pueden ser más fáciles de aprender que una sentadilla con salto rápida. Una versión menos profunda o más lenta puede resultar más cómoda en algunos casos. Cuando el impacto es un problema, el acondicionamiento de bajo impacto, como la bicicleta o caminar por terreno llano, puede funcionar mejor que saltar."
+		},
+		{
+			"title": "Aumenta poco a poco",
+			"text": "Empieza con un movimiento y una cantidad de entrenamiento que tus rodillas toleren. Añade carga, profundidad o repeticiones solo mientras los síntomas sigan siendo aceptables durante y después del entrenamiento. No sigas probando una posición dolorosa para ver si «se ha arreglado sola». El consejo general de ejercicio no es un diagnóstico ni un programa de rehabilitación."
+		},
+		{
+			"title": "Cuándo buscar ayuda",
+			"text": "Una rodilla muy dolorosa, visiblemente deformada o muy hinchada, no poder apoyar peso en ella, el bloqueo, la fiebre con enrojecimiento o los síntomas tras una lesión importante necesitan una valoración profesional rápida. Los problemas que persisten también deben revisarse."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Añade tus rodillas como limitación en Perfil, con una nota, e indica si se puede saltar. El plan deja entonces fuera los ejercicios que no encajan. Si un ejercicio duele, «Siento dolor» lo termina y lo mantiene fuera de tus planes hasta que lo reactives desde Perfil. No se garantiza que ningún ejercicio sea «seguro para las rodillas» para todo el mundo."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: dolor de rodilla y cuándo buscar ayuda",
+			"url": "https://www.nhs.uk/symptoms/knee-pain/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Señales que reunir",
+			"text": "Compara las series y repeticiones que se te asignaron con las que completaste. Mira la carga, el RPE de la sesión, las agujetas, las sesiones perdidas y cualquier limitación nueva, ya que cada una muestra una parte distinta del panorama. Un RPE alto o un entrenamiento perdido no demuestran que el plan sea malo para ti."
+		},
+		{
+			"title": "Cuando las sesiones se sienten demasiado fáciles",
+			"text": "Si sigues alcanzando el objetivo con una técnica estable y poco esfuerzo, piensa en añadir unas pocas repeticiones, un poco de carga o algo más de volumen. Cambia una variable y observa cómo respondes antes de añadir nada más."
+		},
+		{
+			"title": "Cuando las sesiones se sienten demasiado duras",
+			"text": "Fallar objetivos de forma repetida, una técnica que se desmorona o una fatiga que no desaparece pueden ser motivos para reducir la carga o el volumen, cambiar a un ejercicio más fácil o tomar más recuperación. Una zona nueva con dolor requiere revisar de nuevo tus limitaciones y, posiblemente, buscar consejo profesional. No intentes diagnosticarlo por tu cuenta."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Haces sentadillas goblet 3 × 10 durante dos semanas con un RPE de alrededor de 5 y buen control. La próxima vez podrías elegir una mancuerna algo más pesada y bajar a ocho repeticiones. Si el mismo movimiento sigue doliendo, no lo hagas simplemente más difícil."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Tu plan solo cambia cuando lo generas de nuevo, y nunca a partir de menos de 3 entrenamientos. Cualquier dolor reciente significa que no hay aumento. Si 2 de tus últimos 3 entrenamientos fueron muy duros (RPE 9 o más) o se completaron en menos de un 60 %, el siguiente plan es más fácil. Si tus últimos 4 fueron fáciles (RPE 5 o menos) y completos, sube un paso. Las reglas del dolor van antes que el rendimiento, los entrenamientos terminados nunca se modifican y la carga la eliges tú."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Guía práctica del ACSM de 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

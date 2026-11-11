@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Odkud zátěž zápěstí pochází",
+			"text": "Kliky a plank na plochých dlaních ohýbají zápěstí hodně dozadu. Cviky s jednoručkami a činkou přidávají práci úchopu a stabilizace. Nepohodlí zápěstí má mnoho možných příčin a samotný cvik vám neřekne, která to je."
+		},
+		{
+			"title": "Změňte, jak se ruce dotýkají podlahy",
+			"text": "Kliky s vyvýšením dávají na paže menší část vaší váhy. Stabilní držadla pro kliky nebo jednoručky zajištěné tak, aby se nemohly kutálet, vám dovolí držet zápěstí rovněji. Plank na předloktích zbaví dlaně tlaku úplně. Někomu také vyhovuje tlak s jednoručkami s neutrálním úchopem víc než tlak s přímou tyčí."
+		},
+		{
+			"title": "Udržte změny bezpečné",
+			"text": "Nikdy nepoužívejte jednoručky, které se mohou kutálet, jako provizorní držadla pro kliky. Ověřte, že jsou opory stabilní a povrch nemůže klouzat. Nenuťte bolestivé zápěstí do polohy jen proto, že ji pokyn k technice označuje za ideální. Pokud pohyb bolí, přestaňte a najděte pohodlnou alternativu."
+		},
+		{
+			"title": "Postupujte pomalu",
+			"text": "Budujte celkový počet opakování a kontrolu dřív, než zkusíte těžší páku s vlastní vahou. Při nové bolesti po pádu, silném otoku, deformaci, mravenčení nebo ztrátě síly navštivte lékaře. Pokud nepohodlí zápěstí trvá, nechte si ho vyšetřit odborníkem, protože TrainUp ho nedokáže diagnostikovat."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Přidejte zápěstí jako omezení v Profilu a uveďte své vybavení. Plán pak vybere cviky, které vyhovují, což může zahrnovat cviky na střed těla na předloktích. Po tréninku můžete nahlásit bolest s částí těla a cvikem a pomocí poznámek sledovat, jak zápěstí vydržela. TrainUp nesestavuje rehabilitační rutiny."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: bolest kloubů",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

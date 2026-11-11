@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Obiettivi di risultato e di processo",
+			"text": "Un obiettivo di risultato indica il risultato che vuoi, per esempio otto piegamenti controllati o camminare 30 minuti senza fermarti. Un obiettivo di processo indica il comportamento che ti ci porta, come due sedute di forza ogni settimana. I risultati ti motivano, e i processi ti danno il piano quotidiano."
+		},
+		{
+			"title": "Obiettivi SMART",
+			"text": "Un obiettivo pratico è specifico, misurabile, raggiungibile, rilevante e con una scadenza. «Mettersi in forma» è troppo vago. Prova con «fare due allenamenti full body da 30 minuti a settimana per sei settimane e portare la mia camminata continua comoda da 10 a 20 minuti». Il tuo traguardo preciso dovrebbe dipendere da capacità attuale, salute e impegni."
+		},
+		{
+			"title": "Fissa un punto di partenza",
+			"text": "Prima di iniziare, registra qualcosa che puoi ripetere: la variante del piegamento che riesci a fare con buona forma, il carico e le ripetizioni in un movimento familiare o per quanto riesci a camminare comodamente. Confronta cose omogenee. Molti principianti migliorano in modo evidente nelle prime settimane, ma i cambiamenti di forza e composizione corporea variano molto, quindi nessuno può promettere in modo affidabile un ritmo specifico di aumento muscolare o perdita di grasso."
+		},
+		{
+			"title": "Pianifica le interruzioni",
+			"text": "Stabilisci una versione minima dell’obiettivo per le settimane piene, come un allenamento più breve al posto di una seduta saltata. Non fissare più traguardi aggressivi insieme. Se un obiettivo è così difficile da richiedere una velocità non sicura o troppo volume di allenamento, ridimensionalo."
+		},
+		{
+			"title": "Rivedi e adatta",
+			"text": "Rivaluta ogni quattro–otto settimane circa. Se rispetti il piano ma i progressi sono lenti, cambia una variabile di allenamento o concediti più tempo. Se continui a saltare sedute, sistema il programma prima di aggiungere esercizi."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Obiettivo, giorni di allenamento e durata della seduta sono nel Profilo. Durante ogni allenamento spunti le serie e registri le ripetizioni, e alla fine valuti lo sforzo. Lo Storico mostra poi se il tuo obiettivo di processo si realizza settimana dopo settimana."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: iniziare e mantenere l’attività",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

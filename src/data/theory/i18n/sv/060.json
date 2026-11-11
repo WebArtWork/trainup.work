@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Vad maskiner erbjuder",
+			"text": "Maskiner med viktstack styr ofta rörelsens bana och kan minska hur mycket du behöver balansera. Det kan hjälpa en nybörjare att fokusera på att pressa eller dra med kontroll. Vissa maskiner passar vissa kroppsstorlekar bättre än andra, så en styrd bana är inte bekväm för alla."
+		},
+		{
+			"title": "Ställ in stationen",
+			"text": "Justera sitthöjd, ryggstöd och dynor så att den arbetande leden hamnar rimligt i linje med de rörliga delarna och du når greppet utan att anstränga dig. Gör ett lätt provset innan du väljer din arbetsvikt. Håll händerna borta från viktstackar, klämpunkter och rörliga armar, och sänk motståndet långsamt. Gym har olika utrustning, så kontrollera den exakta maskin eller kabelstation du har, och byt till ett alternativ med fria vikter, band eller kroppsvikt om du inte kan justera maskinen så att den känns bekväm."
+		},
+		{
+			"title": "Hur kablar skiljer sig",
+			"text": "Kabelsystem låter dig dra från flera riktningar, med spänning längs kabelns linje. De fungerar bra för rodd, latsdrag, pressar och övningar mot rotation. Kabelmotståndet är inte exakt konstant i varje ledvinkel, eftersom hävarmen och kabelns riktning ändras genom rörelsen."
+		},
+		{
+			"title": "Jämföra redskap",
+			"text": "Fria vikter kräver att du stabiliserar vikten mer själv, medan maskiner kan göra vissa övningar lättare att lära sig eller belasta exakt. Båda kan bygga styrka och muskelstorlek när din ansträngning och progression är rätt. En maskin skyddar inte automatiskt en skadad eller smärtande led. Om symtomen kvarstår, kontakta en läkare eller fysioterapeut."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: fria vikter jämfört med maskinvikter",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: teknik vid styrketräning (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

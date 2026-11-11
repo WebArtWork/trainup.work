@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Qué cuenta",
+			"text": "La recuperación activa es movimiento que mantienes a propósito más suave que tu entrenamiento normal. Un paseo cómodo, una natación relajada, un pedaleo suave o una sesión corta de movilidad pueden hacerte sentir mejor y mantener el hábito de moverte. No necesitas sudar, agotarte ni llegar a una zona alta de frecuencia cardíaca."
+		},
+		{
+			"title": "Qué tan suave debe ser",
+			"text": "Deberías poder hablar sin esfuerzo y terminar sin estar más cansado que al empezar. Si te arden las piernas, añades intervalos duros o te acercas al fallo muscular, eso es entrenamiento extra. Cuando se acumulan la fatiga, los síntomas o un horario apretado, el descanso completo puede ser la mejor opción. Los días de recuperación son opcionales, y la recuperación activa no sustituye al descanso."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Después de una sesión dura de la parte inferior del cuerpo, podrías caminar 15–25 minutos y hacer algunos movimientos relajados de cadera y tobillo. Al día siguiente, comprueba si tu rendimiento normal está volviendo. Estirar o usar un rodillo de espuma puede sentar bien, pero no necesitas ninguno de los dos para eliminar las agujetas, y ninguno garantiza una recuperación más rápida."
+		},
+		{
+			"title": "Lo que la evidencia no muestra",
+			"text": "La investigación no ha demostrado que toda forma de recuperación activa acelere la reparación física. Unas agujetas que se alivian durante un rato no demuestran que tus tejidos se hayan recuperado. Nunca uses el movimiento para aguantar un dolor intenso o que empeora."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: caminar por la salud",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}

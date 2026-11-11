@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Beneficii și acordul medicului",
+			"text": "ACOG recomandă ca multe persoane cu sarcini necomplicate să poată continua sau începe activități aerobe și de condiționare a forței potrivite. Discută despre exercițiu cu specialistul tău în obstetrică, mai ales dacă începi o rutină nouă sau ai complicații. El îți poate spune dacă sarcina ta este necomplicată din punct de vedere medical. TrainUp nu poate."
+		},
+		{
+			"title": "Adaptează-te pe măsură ce lucrurile se schimbă",
+			"text": "Echilibrul, toleranța la căldură, confortul respirației și mișcările preferate se pot schimba pe parcursul sarcinii. Alege activități confortabile. Evită supraîncălzirea, activitățile cu un risc real de căderi sau ciocniri și pozițiile care îți provoacă amețeală. Dacă făceai mult sport înainte, poți continua o activitate solicitantă cu îndrumare clinică, deoarece sarcina nu înseamnă automat repaus complet."
+		},
+		{
+			"title": "Semne de alarmă",
+			"text": "Oprește exercițiul și contactează medicul obstetrician dacă ai sângerare vaginală, scurgere de lichid, durere în piept, amețeală, durere sau umflare la gambă, contracții dureroase sau lipsă neobișnuită de aer. Simptomele de urgență cer îngrijire urgentă. Nu încerca să ocolești simptomele specifice sarcinii schimbând exercițiile."
+		},
+		{
+			"title": "După naștere",
+			"text": "Când poți reveni la exercițiu depinde de naștere, de recuperarea ta, de simptomele planșeului pelvin și de alți factori personali. Mersul ușor poate fi în regulă pentru unele persoane. Durerea persistentă, scurgerile, senzația de greutate sau alte probleme cer o evaluare profesională, iar niciun calendar fix nu se potrivește tuturor. TrainUp nu construiește programe pentru sarcină, pentru planșeul pelvin sau după operații."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACOG: exercițiul în timpul sarcinii",
+			"url": "https://www.acog.org/womens-health/faqs/exercise-during-pregnancy"
+		},
+		{
+			"label": "ACOG: exercițiul în timpul sarcinii și după naștere",
+			"url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period"
+		}
+	]
+}

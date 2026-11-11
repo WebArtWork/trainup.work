@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ławki do podparcia i wyciskania",
+			"text": "Płaska ławka podpiera wyciskanie, wiosłowanie i ruchy w siadzie. Ławka regulowana zmienia kąt tułowia przy wyciskaniu i innych ćwiczeniach. Sprawdź, czy podana nośność obejmuje Ciebie i dodatkowy ciężar, zablokuj regulację i upewnij się, że ławka się nie kołysze ani nie przesuwa, zanim ją obciążysz. Krzesło nie jest automatycznie bezpieczną ławką treningową."
+		},
+		{
+			"title": "Stabilny stopień",
+			"text": "Wejścia na podwyższenie, pompki z podwyższeniem i niski trening kondycyjny na stopniu wymagają platformy, która się nie przewróci. Zacznij od niskiego stopnia, który pozwala biodru i kolanu poruszać się z kontrolą. Postaw całą stopę podpierającą na stopniu, schodź zdecydowanie i nie odpychaj się tylną stopą, by ukryć zbyt wysoką platformę."
+		},
+		{
+			"title": "Dobór skakanki",
+			"text": "Jako przybliżone pierwsze sprawdzenie stań jedną stopą na środku liny i unieś uchwyty. Wiele rekreacyjnych skakanek pasuje, gdy uchwyty sięgają mniej więcej dolnej części klatki piersiowej lub pach, choć konstrukcja liny i umiejętności zmieniają idealną długość. Zbyt krótka lina uderza w stopy. Zbyt długa zahacza o ziemię i może prowadzić do dużych kół ramion."
+		},
+		{
+			"title": "Sprawdź miejsce i sprzęt",
+			"text": "Używaj antypoślizgowej podłogi i uważaj na meble, lampy, wentylatory i innych ludzi. Skakanka potrzebuje miejsca nad głową i po bokach, a także na podłodze. Przed każdym treningiem sprawdź zużyte powłoki liny, ostre końcówki drutu, uszkodzone zawiasy ławki i luźne powierzchnie stopnia. Wymień zepsuty sprzęt zamiast improwizować naprawy."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Ustaw w Profilu typ ławki, rozmiar podłogi, wysokość sufitu, podłoże i to, czy skakanie jest w porządku, a plan wybierze tylko pasujące ćwiczenia. Jeśli kolana lub przestrzeń wykluczają stopień, albo hałas, uderzenia lub wysokość sufitu wykluczają skakankę, alternatywą są ćwiczenia bez stopnia i marsz w miejscu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: bezpieczeństwo i technika treningu z obciążeniem",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Typer av montering",
+			"text": "Dörrkarmsstänger med hävarm, utdragbara spännstänger, fasta väggmonterade stänger och takmonterade stänger monteras på olika sätt. En stång som säljs som ”dörrkompatibel” passar inte alla dörrlister, väggar eller karmar. Vissa typer kräver konstruktionsfästen i solida stöd, och andra beror på en särskild karmform."
+		},
+		{
+			"title": "Kontrollera märkvärdet och konstruktionen",
+			"text": "Läs tillverkarens anvisningar och viktgräns, inklusive om dynamiska rörelser är tillåtna. Räkna med din fulla kroppsvikt plus den extra kraften från svängning eller drag. Kontrollera skruvar, fästen, stoppning och de ytor som stången vidrör eller sitter nära. Om du är osäker på byggnadens konstruktion eller monteringsmetoden, fråga en kvalificerad installatör."
+		},
+		{
+			"title": "Testa steg för steg",
+			"text": "Innan en full hängning, se till att stången sitter rätt och inte kan rotera, glida eller skifta. Ha fötterna på golvet och tryck ner på den försiktigt och med kontroll. Gå vidare till en delvis hängning och sedan en full stödd hängning först när du vet att installationen är hållbar. Ett kort test kan inte bevisa att skadade beslag eller en olämplig karm är säkra."
+		},
+		{
+			"title": "Vanliga faror",
+			"text": "Fäst inte band och gör inte kippande, svängande eller belastade hakhävningar om inte produkten är konstruerad och monterad för exakt det. Lämna plats för huvud, armbågar och fötter, utan glas eller vassa möbler i närheten. Sluta använda en stång som knarrar, glider, böjer sig eller lossnar."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "I Profil markerar du din räckstång som säkert monterad först när du har kontrollerat allt ovan. Tills dess utelämnar ditt program övningar som kräver stången, och rodd eller bandövningar med en säker fästpunkt tränar samma drag. Om du är nybörjare är stödda hängningar, skulderbladsdrag eller assisterade hakhävningar bra första steg när stången är säker."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: säkerhet och teknik vid styrketräning",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

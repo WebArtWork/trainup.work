@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Especificidade e sobrecarga",
+			"text": "Especificidade significa que o corpo se adapta àquilo que pratica: levantar pesos melhora a força nesse gesto e andar de bicicleta desenvolve a resistência para pedalar. Sobrecarga significa que o desafio tem de ser grande o suficiente para causar adaptação. Não precisa de um peso maior em todas as sessões. Mais uma repetição controlada ou uma execução mais limpa também conta como progresso."
+		},
+		{
+			"title": "Individualização e progressão",
+			"text": "As pessoas respondem de forma diferente consoante a experiência, a capacidade, o horário, o ambiente e os objetivos. Um iniciante pode melhorar com duas sessões curtas por semana, enquanto um praticante experiente pode precisar de treino distribuído com mais cuidado. Progressão significa tornar as coisas mais difíceis quando mostrou estar preparado. O objetivo não é ir mais depressa."
+		},
+		{
+			"title": "Recuperação, consistência e reversibilidade",
+			"text": "Adapta-se através do treino repetido e da recuperação entre sessões. O sono, a alimentação e um horário que consiga cumprir decidem se pode continuar. Reversibilidade significa que alguns benefícios desaparecem quando para de treinar, a um ritmo que depende de si e da capacidade em causa. Faltar a uma sessão não apaga o seu progresso."
+		},
+		{
+			"title": "Variação com uma razão",
+			"text": "Mudar um exercício pode afastar o aborrecimento ou contornar a falta de equipamento, mas se substituir todos os movimentos todas as semanas, não consegue saber se está a melhorar. Mantenha os seus padrões principais iguais durante várias semanas e altere os exercícios acessórios ou as cargas quando tiver uma razão. O posicionamento do ACSM 2026 indica que muitos programas diferentes funcionam desde que continue a treinar e a aumentar o esforço."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "O seu objetivo fica no Perfil, cada treino regista as séries e as repetições que conclui e, depois, avalia o esforço da sessão (RPE). Quando gera de novo o seu plano, este muda um passo de cada vez com base nesse registo, por isso um plano genérico não fica fixo para si. Se fizer ajustes por conta própria, altere uma ou duas variáveis de cada vez."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Orientações do ACSM sobre o modelo de progressão",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NSCA: segurança e fundamentos do treino de resistência",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

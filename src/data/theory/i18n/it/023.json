@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Due usi comuni",
+			"text": "L’RPE di sessione valuta la difficoltà complessiva di un intero allenamento, spesso su una scala 0–10 in stile category-ratio che va dal riposo allo sforzo massimo. L’RPE di serie valuta una singola serie di allenamento con i pesi. I due misurano cose diverse: una serie può essere estremamente dura all’interno di una seduta che nel complesso è sembrata moderata."
+		},
+		{
+			"title": "RPE di serie e ripetizioni di riserva",
+			"text": "Un sistema di allenamento di forza lega ogni valutazione al numero di ripetizioni che pensi ti restassero. RPE 10 significa che non avresti potuto fare un’altra ripetizione completa con la tecnica prevista, RPE 9 significa che ne restava una e RPE 8 che ne restavano circa due. Sono stime, non misure fisiologiche precise, e con l’esperienza di allenamento diventi più bravo a farle."
+		},
+		{
+			"title": "Esempi",
+			"text": "Una camminata veloce di 25 minuti può sembrare 4/10 a una persona e 7/10 a un principiante poco allenato. Una serie di otto squat con circa altre due ripetizioni possibili sarebbe all’incirca RPE 8 sulla scala di sollevamento basata sulle ripetizioni di riserva. Indica sempre quale scala stai usando, altrimenti i numeri creano confusione."
+		},
+		{
+			"title": "Errori comuni",
+			"text": "Le valutazioni perdono valore se giudichi lo sforzo solo da quanto sudi, confondi la dolenzia muscolare con la difficoltà della seduta o scegli sempre 10 perché un allenamento «deve essere duro». Sonno, stress, caldo e movimenti non familiari cambiano tutti quanto sembra duro l’esercizio, quindi leggi ogni valutazione nel suo contesto."
+		},
+		{
+			"title": "Trasformare le valutazioni in decisioni",
+			"text": "Se diverse sedute sembrano molto più dure del previsto, guarda sonno, carico, numero di serie, recupero e riposo. Se le sedute continuano a sembrare molto facili e la tecnica è solida, prova un piccolo aumento la volta successiva. Una sola valutazione insolita non basta per diagnosticare un sovrallenamento o per fare grandi cambiamenti."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Dopo ogni allenamento valuti l’intera seduta da 1 a 10. Considera quel numero come sforzo della seduta e non convertirlo in RPE di serie o ripetizioni di riserva. Guarda le tue valutazioni accanto a quanto di ogni allenamento hai completato, su più allenamenti."
+		}
+	],
+	"sources": [
+		{
+			"label": "Zourdos et al., ricerca sull’RPE basato sulle RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		},
+		{
+			"label": "Helms et al., indicazioni pratiche sull’RPE",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/27531969/"
+		},
+		{
+			"label": "Indicazioni CDC sullo sforzo",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

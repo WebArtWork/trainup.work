@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Was Maschinen bieten",
+			"text": "Maschinen mit Gewichtsblock führen oft den Bewegungspfad und können verringern, wie viel du balancieren musst. Das kann einem Anfänger helfen, sich auf kontrolliertes Drücken oder Ziehen zu konzentrieren. Manche Maschinen passen zu bestimmten Körpergrößen besser als zu anderen, ein geführter Pfad ist also nicht für alle bequem."
+		},
+		{
+			"title": "Die Station einstellen",
+			"text": "Stelle Sitzhöhe, Rückenstütze und Polster so ein, dass das Arbeitsgelenk einigermaßen gut mit den beweglichen Teilen fluchtet und du den Griff ohne Anstrengung erreichst. Mache einen leichten Probesatz, bevor du deine Arbeitslast wählst. Halte deine Hände von Gewichtsblöcken, Quetschstellen und beweglichen Armen fern und senke den Widerstand langsam ab. Studios haben unterschiedliche Geräte, prüfe also die genaue Maschine oder Kabelstation, die du hast, und wechsle zu einer Option mit freien Gewichten, Bändern oder Körpergewicht, wenn du die Maschine nicht bequem einstellen kannst."
+		},
+		{
+			"title": "Wie sich Kabelzüge unterscheiden",
+			"text": "Kabelsysteme lassen dich aus mehreren Richtungen ziehen, mit Spannung entlang der Linie des Kabels. Sie funktionieren gut für Rudern, Latzug, Drücken und Anti-Rotations-Übungen. Der Kabelwiderstand ist nicht bei jedem Gelenkwinkel genau konstant, weil sich Hebelwirkung und Kabelrichtung durch die Bewegung hindurch ändern."
+		},
+		{
+			"title": "Geräte vergleichen",
+			"text": "Freie Gewichte verlangen, dass du die Last stärker selbst stabilisierst, während Maschinen manche Übungen leichter erlernbar oder präzise belastbar machen können. Beides kann Kraft und Muskelgröße aufbauen, wenn Anstrengung und Steigerung stimmen. Eine Maschine schützt ein verletztes oder schmerzendes Gelenk nicht automatisch. Wenn Symptome anhalten, geh zu einer Ärztin, einem Arzt oder einer Physiotherapeutin bzw. einem Physiotherapeuten."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: freie Gewichte gegenüber Maschinen",
+			"url": "https://www.augustahealth.com/answer/weight-training-free-weights-vs-machine-weights/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: Technik beim Krafttraining (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

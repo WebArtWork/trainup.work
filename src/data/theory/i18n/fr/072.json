@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "À quoi ressemble un effort régulier",
+			"text": "Votre fréquence cardiaque ne sera pas une ligne parfaitement plate. L’allure et la respiration peuvent varier avec les côtes, la chaleur ou la fatigue, tandis que l’effort global reste maîtrisé. Choisissez une activité que vous pouvez poursuivre sans arrêts fréquents ni technique bâclée."
+		},
+		{
+			"title": "Choisissez une intensité",
+			"text": "Pour beaucoup de séances de forme générale, l’intensité modérée se ressent comme un effort tout en vous permettant de tenir une conversation. Le test de la parole est souvent plus utile que de courir après une vitesse ou une fréquence cardiaque précise. Les personnes entraînées peuvent faire un travail continu intense, mais les débutants s’en sortent généralement mieux en commençant doucement."
+		},
+		{
+			"title": "Ajoutez du temps avant la vitesse",
+			"text": "Commencez par une durée réaliste, comme 10–20 minutes de marche rapide ou de vélo facile. Allongez la séance par petits pas au fil du temps, puis pensez à une allure plus rapide ou à plus de résistance sur la machine. Si vous augmentez la durée, la vitesse et la fréquence en même temps, il est plus difficile de savoir ce qui cause votre fatigue et si vous récupérez bien."
+		},
+		{
+			"title": "S’adapter aux conditions",
+			"text": "La marche et le vélo sont des choix plus faciles si vous voulez moins d’impact, alors que le jogging ajoute des réceptions répétées. À l’intérieur, les machines permettent de garder des réglages assez constants, mais en extérieur, les pentes et la météo changent la sensation d’une même allure affichée. Utilisez la difficulté ressentie pour comparer équitablement les séances. Vous progressez quand le même parcours paraît plus facile ou qu’une séance confortable s’allonge, et vous n’avez pas besoin de pousser chaque séance à la limite."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC : recommandations d’activité physique pour les adultes",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC : mesurer l’intensité de l’activité et le test de la parole",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC : faire de l’exercice par temps chaud",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		}
+	]
+}

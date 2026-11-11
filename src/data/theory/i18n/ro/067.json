@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Suprafețe frecvente",
+			"text": "O podea fermă și plană oferă un sprijin stabil pentru majoritatea mișcărilor de forță. Mocheta groasă și moale se poate clătina la munca pe un singur picior, iar gresia foarte netedă poate deveni alunecoasă. Iarba sau potecile de afară pot fi denivelate și umede. O saltea face munca pe podea mai confortabilă, dar poate aluneca sau se poate comprima, așa că testează-o înainte să pui sarcini grele pe ea."
+		},
+		{
+			"title": "Încălțăminte pentru activitate",
+			"text": "Încălțămintea stabilă, cu priză bună, merge adesea bine pentru genuflexiuni, balansări din șold și mișcări dintr-o parte în alta. Pantofii de alergare amortizați pot fi confortabili pentru mers sau jogging, dar pot lăsa piciorul să se deplaseze la ridicările grele. Încălțămintea făcută pentru anumite sporturi diferă, iar niciun stil nu este cel mai bun pentru fiecare exercițiu sau pentru fiecare persoană."
+		},
+		{
+			"title": "Antrenamentul desculț depinde de context",
+			"text": "Antrenamentul desculț îți dă un feedback direct de la sol într-un spațiu curat și sigur, dar îți lasă picioarele expuse la greutăți scăpate, obiecte ascuțite și alte pericole. Unele săli nu îl permit. Dacă ai sensibilitate redusă la picioare, probleme de echilibru sau o afecțiune medicală a piciorului, cere sfat pentru situația ta înainte să mergi desculț, deoarece nu este automat mai bine."
+		},
+		{
+			"title": "Impact și zgomot",
+			"text": "Săriturile și alergarea produc mai mult impact și zgomot decât genuflexiunile controlate sau marșul. O saltea de cauciuc poate reduce o parte din sunet, dar ai nevoie în continuare de priză bună și de o podea solidă dedesubt. Evită șosetele alunecoase, spuma instabilă sub greutăți și salteaua care se încrețește când calci în lateral."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Setează în Profil suprafața și dacă săriturile sunt în regulă, iar planul alege exerciții potrivite. Dacă podeaua este alunecoasă sau denivelată, alege exerciții stabile, cu impact redus, sau amână mișcarea până când suprafața este sigură."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: siguranța și tehnica antrenamentului cu greutăți",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

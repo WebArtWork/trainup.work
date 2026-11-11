@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Parte superiore del corpo",
+			"text": "I pettorali aiutano a spingere le braccia in avanti o attraverso il busto, come nei piegamenti e nelle distensioni al petto. Il gran dorsale e gli altri muscoli della schiena aiutano a tirare le braccia e a controllare le scapole nei rematori e nelle trazioni. I deltoidi aiutano a sollevare e muovere le braccia. I bicipiti flettono il gomito e assistono alcuni movimenti di trazione, e i tricipiti estendono il gomito durante le spinte."
+		},
+		{
+			"title": "Parte inferiore del corpo",
+			"text": "I quadricipiti estendono il ginocchio e aiutano a fare squat, passi e affondi. I muscoli glutei estendono o stabilizzano l’anca, e hip hinge e step-up possono sollecitarli. I femorali flettono il ginocchio e assistono l’estensione dell’anca. I muscoli del polpaccio producono la flessione plantare della caviglia per camminare, correre e fare calf raise. Gli adduttori e gli abduttori dell’anca aiutano a controllare la posizione della gamba e a mantenere stabile il bacino."
+		},
+		{
+			"title": "Tronco (il core)",
+			"text": "Il retto dell’addome, gli obliqui, i muscoli addominali profondi, gli estensori della colonna e diversi muscoli intorno al bacino aiutano a trasmettere la forza lungo il corpo e a opporvisi. Plank, trasporti e hinge controllati sollecitano la stabilità del tronco in direzioni diverse. Gli «addominali» visibili sono solo una parte di questo sistema."
+		},
+		{
+			"title": "Sovrapposizione tra esercizi",
+			"text": "Uno squat lavora più dei quadricipiti, e un rematore lavora più dei dorsali. Presa, angolo del busto, ampiezza di movimento e la tua anatomia cambiano quali muscoli fanno più lavoro. Organizza la settimana di un principiante intorno a squat, hinge, affondi, spinte, trazioni e lavoro sul core, e non assegnare ogni allenamento a un solo muscolo."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Ogni pagina di un esercizio in Esplora indica lo schema di movimento e i muscoli che lavora, il che ti aiuta a coprire tutto il corpo con pochi esercizi. Il lavoro di isolamento può colmare una lacuna specifica, ma non sostituisce l’imparare i movimenti multiarticolari di base."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Panoramica HHS sulla forma fisica",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		}
+	]
+}

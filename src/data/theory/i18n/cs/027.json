@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Dvě různá počítání",
+			"text": "Můžete trénovat čtyři dny v týdnu a nohy zatěžovat jen jednou, nebo trénovat tři dny celé tělo a nohy zatěžovat třikrát. Počet tréninků a počet zatížení každého svalu jsou tedy dvě různé hodnoty. Jak dobře který rozvrh funguje, z velké části určují týdenní náročné série a regenerace."
+		},
+		{
+			"title": "Praktický začátek",
+			"text": "Pro mnoho zdravých dospělých jsou dva silové tréninky pokrývající hlavní svalové skupiny dosažitelným zdravotním základem. Stanovisko ACSM z roku 2026 uvádí přínosy pro sílu při tréninku alespoň dvakrát týdně. U svalového růstu při stejném počtu týdenních sérií rozložení stejných sérií do více dnů spolehlivě nezvýšilo přírůstky."
+		},
+		{
+			"title": "Dvoudenní rozvrh",
+			"text": "Udělejte dva tréninky celého těla s dny odpočinku mezi nimi, například v pondělí a ve čtvrtek. Pokryjte hlavní vzorce, dostatečně odpočívejte a soustřeďte se na to, abyste tréninky dokončovali týden po týdnu. Často to funguje lépe než ambiciózní pětidenní plán, který nevydržíte."
+		},
+		{
+			"title": "Tři až pět dnů",
+			"text": "Tři dny mohou obsahovat tréninky celého těla nebo střídání vzorců. Čtyři dny mohou vyhovovat střídání horní a dolní poloviny těla. Pět dnů může fungovat u zkušených cvičenců se specifickými cíli a ne příliš dlouhými tréninky. Trénovat více dní neznamená trénovat každý den každý sval naplno."
+		},
+		{
+			"title": "Regenerace a progrese",
+			"text": "Náročný trénink způsobuje únavu ve svalech, které jste zatěžovali, i v celém těle. Podle zátěže může svalová skupina potřebovat zhruba jeden až několik dní, než se znovu zatíží stejně náročně. Známý odstup 48 hodin je užitečné výchozí pravidlo pro náročné tréninky, ale není to biologické stopky platné pro každé cvičení."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu nastavíte, kolik dní v týdnu trénujete a které dny preferujete. Zvolte číslo, které opravdu dokážete dodržet. Pokud se vaše tréninky pořád natahují, rozložte práci do více dní místo toho, abyste do každého nacpali další cvičení."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Doporučení WHO k frekvenci posilování",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

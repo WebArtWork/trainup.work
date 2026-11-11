@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Jak vypadá stálé úsilí",
+			"text": "Vaše tepová frekvence nebude dokonale rovná čára. Tempo a dýchání se mohou měnit s kopci, horkem nebo únavou, zatímco celkové úsilí zůstává pod kontrolou. Zvolte aktivitu, kterou dokážete dělat bez častých zastávek nebo nedbalé techniky."
+		},
+		{
+			"title": "Zvolte intenzitu",
+			"text": "Pro mnoho obecných kondičních tréninků se střední intenzita jeví jako práce, ale stále vám dovolí vést rozhovor. Test mluvení je často užitečnější než honba za pevnou rychlostí nebo číslem tepové frekvence. Trénovaní lidé zvládnou intenzivní nepřetržitou práci, ale začátečníkům obvykle vyhovuje začít zlehka."
+		},
+		{
+			"title": "Přidávejte čas před rychlostí",
+			"text": "Začněte praktickým množstvím, například 10–20 minutami svižné chůze nebo lehké jízdy na kole. Trénink prodlužujte postupně malými kroky a teprve pak přemýšlejte o rychlejším tempu nebo větším odporu stroje. Pokud zvýšíte čas, rychlost i frekvenci najednou, je těžší poznat, co způsobuje vaši únavu a jak dobře regenerujete."
+		},
+		{
+			"title": "Přizpůsobte se podmínkám",
+			"text": "Chůze a jízda na kole jsou snazší volbou, pokud chcete menší nárazy, zatímco jogging přidává opakovaná přistání. Uvnitř vám stroje umožňují držet nastavení poměrně stálé, ale venku svahy a počasí mění, jak stejné zobrazené tempo působí. Používejte pocit námahy k férovému srovnání tréninků. Zlepšujete se, když stejná trasa působí snáz nebo se pohodlný trénink prodlouží, a nemusíte každý trénink tlačit na hranici."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: doporučení k fyzické aktivitě dospělých",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: měření intenzity aktivity a test mluvení",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC: cvičení v horku",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		}
+	]
+}

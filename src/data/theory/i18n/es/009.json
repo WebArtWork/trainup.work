@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Parte superior del cuerpo",
+			"text": "Los pectorales ayudan a empujar los brazos hacia delante o a cruzarlos sobre el torso, como en las flexiones y los press de pecho. El dorsal ancho y otros músculos de la espalda ayudan a tirar de los brazos y a controlar los omóplatos en los remos y las dominadas. Los deltoides ayudan a elevar y mover los brazos. Los bíceps flexionan el codo y ayudan en algunos movimientos de tirón, y los tríceps extienden el codo durante los press."
+		},
+		{
+			"title": "Parte inferior del cuerpo",
+			"text": "Los cuádriceps extienden la rodilla y ayudan en las sentadillas, los pasos y las zancadas. Los músculos glúteos extienden o estabilizan la cadera, y las bisagras de cadera y las subidas al escalón pueden exigirles. Los isquiotibiales flexionan la rodilla y ayudan a extender la cadera. Los músculos de la pantorrilla producen la flexión plantar del tobillo al caminar, correr y hacer elevaciones de talones. Los aductores y los abductores de la cadera ayudan a controlar la posición de la pierna y a mantener estable la pelvis."
+		},
+		{
+			"title": "Tronco (el core)",
+			"text": "El recto abdominal, los oblicuos, los músculos abdominales más profundos, los extensores de la columna y varios músculos alrededor de la pelvis ayudan a transmitir la fuerza y a resistirla. Las planchas, los acarreos y las bisagras controladas exigen estabilidad del tronco en distintas direcciones. Los «abdominales» visibles son solo una parte de este sistema."
+		},
+		{
+			"title": "Solapamiento entre ejercicios",
+			"text": "Una sentadilla trabaja más que los cuádriceps, y un remo trabaja más que los dorsales. El agarre, el ángulo del torso, el rango de movimiento y tu propia anatomía cambian qué músculos hacen más parte del trabajo. Organiza la semana de un principiante en torno a sentadillas, bisagras, zancadas, empujes, tirones y trabajo de core, y no asignes cada entrenamiento a un solo músculo."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Cada página de ejercicio en Ejercicios indica su patrón de movimiento y los músculos que trabaja, lo que te ayuda a cubrir todo el cuerpo con pocos ejercicios. El trabajo de aislamiento puede cubrir un hueco concreto, pero no sustituye aprender los movimientos básicos multiarticulares."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Resumen de condición física del HHS",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Att läsa ett träningsrecept",
+			"text": "”3 × 8–12, vila 90 s” betyder tre arbetsset på åtta till tolv kontrollerade repetitioner, med ungefär 90 sekunder mellan seten. Uppvärmningsset är separata om inte en plan säger att de räknas. För en ensidig (unilateral) övning, kontrollera om ”10 repetitioner” betyder per sida eller totalt."
+		},
+		{
+			"title": "Vad vilan gör",
+			"text": "Vila låter dig delvis återhämta dina energirika substrat, din andning och din förmåga att skapa kraft. När maximal styrka är prioriterad kan flera minuters vila mellan hårda set, vanligen ungefär två till fem, hjälpa dig att behålla belastningen och kvaliteten på dina repetitioner. För muskeltillväxt är ungefär en till tre minuter ett praktiskt intervall, men att återhämta dig tillräckligt för att dina set ska förbli produktiva betyder mer än en strikt timer. Korta vilor kan vara användbara i lättare uthållighets- eller cirkelträning, men de kan sänka din effekt i senare set."
+		},
+		{
+			"title": "Målen ändrar kombinationen",
+			"text": "Fem hårda repetitioner med lång vila tränar något annat än tjugo lättare repetitioner med kort vila. Ingen av upplägget är bättre för allt. Övningen spelar också roll, eftersom tunga knäböj oftast kräver mer återhämtning än lätta sidolyft."
+		},
+		{
+			"title": "Exempel",
+			"text": "Säg att du gör 10, 9 och 7 armhävningar eftersom 30 sekunders vila är för kort. Om du vill ha bra styrke- eller hypertrofiarbete kan 90–120 sekunders vila låta dig stanna inom det planerade repetitionsintervallet. Om målet är kondition kan tröttheten från kort vila vara avsedd."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Varje övning i din plan kommer med set, repetitioner eller en hålltid samt vila, och vilotimern räknar vilan åt dig. Följ dem, men sätt säker teknik först. Notera de repetitioner du faktiskt gjorde och skatta passets ansträngning efteråt. Om dina senare set gång på gång hamnar långt under målet, titta på belastningen, vilans längd och den totala arbetsmängden i passet."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Studie om vila mellan set och volym",
+			"url": "https://doi.org/10.1519/jsc.0000000000003668"
+		}
+	]
+}

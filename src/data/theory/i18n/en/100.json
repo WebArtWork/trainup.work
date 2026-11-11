@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Many causes, many responses",
+			"text": "People feel back discomfort for different reasons, and even similar symptoms can have different causes. Some people tolerate bending well, while others prefer a more neutral trunk. The best exercise for you depends on your symptoms, capacity, experience and any advice from your clinician."
+		},
+		{
+			"title": "Managing the demands",
+			"text": "Practice bracing without holding your breath for too long, learn a controlled hinge with a light weight, and try supported or floor-based exercises when they suit you. A gentle bird dog or dead bug trains trunk control without heavy weights. No single posture guarantees safety, and keeping a “neutral spine” doesn’t mean freezing out every normal spinal movement."
+		},
+		{
+			"title": "Progressing over time",
+			"text": "If it feels comfortable, make training slowly harder by adding reps, range or load. Keep notes on how your back feels during and after sessions. If symptoms get worse, make things easier. For persistent pain, get professional advice; an app’s exercise choices can’t stand in for it."
+		},
+		{
+			"title": "Urgent signs",
+			"text": "New bladder or bowel changes, numbness around the groin, severe or worsening leg weakness, or back pain after a major injury need urgent medical assessment."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Add your lower back as a limitation in Profile, with a note, so the plan picks exercises that fit. After each workout you can add notes and report pain with the body area and exercise. If an exercise provokes pain, “I feel pain” ends it and keeps it out of your plans until you resume it from Profile. TrainUp does not diagnose the cause of back pain."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: back pain and urgent warning signs",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

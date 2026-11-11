@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Bazele tragerii la bară",
+			"text": "Folosește o bară sigură și o priză comodă pentru umeri și mâini. Încordează trunchiul, trage până când partea superioară a corpului ajunge la o înălțime constantă pe care o poți gestiona și coboară controlat. Poziția de pornire a umărului și amplitudinea depind de forța și de confortul tău. Nu trebuie să începi fiecare repetare dintr-o atârnare pasivă completă."
+		},
+		{
+			"title": "Progresii",
+			"text": "Începătorii pot exersa atârnările cu sprijin, exerciții de control al omoplaților, tragerile la bară asistate cu bandă sau la aparat, apoi repetări cu coborâre lentă. Tragerea la piept antrenează o mișcare similară, cu o rezistență pe care o poți ajusta. Când poți face mai multe trageri controlate, adaugă repetări înainte să adaugi greutate. Nu forța coborârile lente atât de mult încât priza sau umerii să-și piardă controlul."
+		},
+		{
+			"title": "Trageri la bară și trageri la piept",
+			"text": "La tragerea la bară corpul se mișcă spre o bară fixă, ceea ce cere multă stabilitate a întregului corp. La tragerea la piept mânerul vine spre tine, iar sarcina se poate schimba în pași mici. Ambele dezvoltă forța de tragere și niciuna nu este necesară ca să fii în formă. Tragerile cu priza dinspre tine folosesc o priză inversă și se simt adesea diferit la coate și la umeri."
+		},
+		{
+			"title": "Siguranță și montaj",
+			"text": "Asigură-te că o bară de acasă este montată corect și dimensionată pentru greutatea ta și pentru mișcarea pe ea. Evită suporturile slabe de toc de ușă și grinzile netestate de nimeni. Nu forța tragerile la piept în spatele ceafei și nu te balansa ca să storci repetări în plus. Alege o priză pe care o tolerezi și oprește-te dacă simți o durere neobișnuită."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "În Profil spui dacă o bară de tracțiuni este montată în siguranță. Dacă nu este, planul tău omite tragerile la bară și alege alte trageri potrivite cu echipamentul tău, cum ar fi o tragere la piept sau o tragere orizontală. Nu improviza un punct de ancorare. Notează asistența, priza și amplitudinea, deoarece fiecare schimbă cât de greu este exercițiul."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: tehnica antrenamentului cu greutăți (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: bazele siguranței și ale antrenamentului de forță",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

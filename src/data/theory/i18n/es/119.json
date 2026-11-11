@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Qué es el entrenamiento concurrente",
+			"text": "El entrenamiento de fuerza desafía cuánta fuerza producen tus músculos, y el ejercicio aeróbico mejora cuánto tiempo puedes seguir adelante. Para la salud general te beneficias de ambos. El llamado efecto de interferencia describe los casos en los que combinar un entrenamiento duro de ambos tipos puede reducir algunas ganancias en comparación con hacer solo uno."
+		},
+		{
+			"title": "Qué muestran las revisiones",
+			"text": "Una revisión sistemática encontró que combinar entrenamiento aeróbico y de fuerza no redujo de forma significativa, de media, el crecimiento del músculo entero ni la fuerza máxima. Las ganancias de fuerza explosiva se vieron algo más afectadas, sobre todo cuando ambos tipos de entrenamiento se hacían en la misma sesión. El resultado exacto depende del volumen, del tipo de ejercicio, del momento y del historial de entrenamiento."
+		},
+		{
+			"title": "Planifica según tu prioridad",
+			"text": "Si levantar al máximo es tu objetivo principal, haz tu mejor trabajo de fuerza antes del cardio duro, o pon las sesiones exigentes en días separados cuando puedas. Si tu enfoque es la forma física general, puedes combinar cardio suave y fuerza sin una planificación elaborada. La recuperación y la carga de trabajo total importan más, y ningún tipo de entrenamiento es el enemigo del otro."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Dos sesiones de fuerza de cuerpo completo a la semana más ciclismo moderado o paseos otros días pueden desarrollar varias capacidades a la vez. Un atleta de potencia competitivo puede ser más cuidadoso con hacer intervalos duros justo antes de levantamientos explosivos."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Elige tu enfoque principal como objetivo en Perfil: forma física general, fuerza o acondicionamiento. No necesitas días separados para todo, y ninguna sesión de cardio borra tus ganancias musculares."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisión sistemática: combinar ejercicio aeróbico y de fuerza",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/34757594/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

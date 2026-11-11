@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Établir un budget de temps",
+			"text": "Le temps total d’une séance comprend la préparation, l’échauffement, la mise en place de chaque exercice, les séries de travail, les repos, les déplacements entre les exercices et un éventuel retour au calme. Dans une séance de force, le temps passé réellement à soulever est souvent une petite partie de l’ensemble. Trois séries de 40 secondes avec deux minutes de repos entre elles prennent environ six minutes pour cet exercice, avant tout changement de matériel."
+		},
+		{
+			"title": "Une estimation simple",
+			"text": "Additionnez le temps d’échauffement, la durée de chaque série de travail, les repos entre les séries et les changements d’exercice. Par exemple, quatre exercices × trois séries de 40 secondes font huit minutes de travail réel. Si chaque exercice comporte deux repos de 90 secondes, ajoutez douze minutes. Un échauffement de six minutes et environ huit minutes de mise en place et de changements portent la séance à environ 34 minutes. Des repos plus longs pour le travail lourd peuvent beaucoup changer le total."
+		},
+		{
+			"title": "Option de 20 minutes",
+			"text": "Gardez l’échauffement court, choisissez deux ou trois grands schémas de mouvement et faites quelques bonnes séries de chacun. Associer une poussée et un tirage peut faire gagner du temps de changement quand votre matériel et votre technique le permettent, mais ne réduisez pas le repos au point de perdre votre objectif principal de force."
+		},
+		{
+			"title": "Options de 30 à 45 minutes",
+			"text": "Ajoutez une charnière ou une fente, un exercice de tronc ou des séries supplémentaires pour votre schéma prioritaire. Si la forme générale est votre objectif, utilisez le temps restant pour du travail aérobie. Vous n’avez pas besoin de remplir chaque minute libre avec des « finishers »."
+		},
+		{
+			"title": "Protéger vos priorités",
+			"text": "Quand le temps manque, supprimez d’abord les exercices complémentaires peu prioritaires. Gardez l’échauffement et ne bâclez pas vos levées polyarticulaires lourdes. Si l’ensemble du programme déborde sans cesse, prévoyez moins pour chaque séance au lieu de compter sur un rythme que vous ne pouvez pas tenir."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Indiquez dans Profil la durée de séance aux minutes dont vous disposez vraiment. Si vous terminez le travail principal avec une bonne technique, la séance est réussie, même si vous avez sauté les extras facultatifs."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC : planification pratique de l’activité",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

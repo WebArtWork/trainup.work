@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "A fekvőtámasz alapjai",
+			"text": "Helyezd a kezed oda, ahol kényelmes, tartsd a testedet egy vonalban a vállaktól a csípőig, engedj le olyan könyökszöggel, amelyet a válladnak jól bír, és told el magadtól a padlót. A lapockáid fekvőtámasz közben természetesen mozognak a bordakosarad körül. Ne hagyd, hogy a csípőd belógjon, és ne told előre a fejedet csak azért, hogy egy ismétlés beszámítson."
+		},
+		{
+			"title": "Változat választása",
+			"text": "A falnál végzett fekvőtámasz gyakran a legkönnyebb. Ezután jön a stabil pulton vagy padon végzett döntött változat, majd a térdelő vagy teljes padlói fekvőtámasz. Később felemelheted a lábadat vagy terhelést adhatsz hozzá, hogy nehezebb legyen. Hogy a térdelő vagy a döntött változat könnyebb-e neked, az az emelőhatástól és a kényelemtől függ. A kéz megemelése egyszerű módja annak, hogy a testsúlyod kisebb részét told."
+		},
+		{
+			"title": "Pad- és súlyzónyomás",
+			"text": "Padon tedd stabilan a lábad a talajra, vegyél fel stabil törzs- és vállhelyzetet, és engedd le a súlyokat kontrolláltan. A rúd a kezed rögzített helyzetben tartja, míg a súlyzók szabadabban engedik mozogni a fogást, de mindkét oldalon kontrollt kívánnak. A nehéz fekvenyomási kísérletekhez hozzáértő segítő vagy megfelelő biztonsági felszerelés kell."
+		},
+		{
+			"title": "Gyakori félreértések",
+			"text": "A könyöködnek nem kell a bordáidhoz tapadva maradnia, és mindig egyenesen kifelé sem szabad állnia. Olyan fogásszélességet és könyökpályát válassz, amellyel erősen és kényelmesen mozogsz. A lapockáid nem maradnak egyetlen helyzetbe fagyva minden nyomásnál, és a padlói fekvőtámasz és a fekvenyomás mást kér tőlük."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Maradj egy fekvőtámasz-változatnál, és rögzítsd az ismétléseit, amíg készen állsz a továbblépésre. A hét során egyensúlyozd a vízszintes nyomást a húzómunkával. Ha a csuklód vagy a vállad érzékeny, add meg korlátként a Profilban, hogy a terved csak olyan tolásokat válasszon, amelyek megfelelnek."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: súlyzós edzés technikája (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

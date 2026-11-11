@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Qué mide la duración",
+			"text": "Una plancha de 30 segundos, una sentadilla en la pared de 40 segundos y un intervalo rápido de pedaleo de 20 segundos usan un temporizador, pero entrenan cosas distintas. Los mantenimientos estáticos producen fuerza sin mucho movimiento de la articulación, mientras que las series dinámicas con tiempo repiten un movimiento. El mismo tiempo puede sentirse muy distinto según la posición, la palanca, la carga y la intensidad."
+		},
+		{
+			"title": "Calidad antes que aguantar",
+			"text": "En una plancha, para cuando ya no puedas mantener controlado el tronco, aunque el temporizador no haya terminado. En una sentadilla en la pared, el ángulo de la rodilla y la posición de los pies marcan la dificultad. Al colgarte, importan el agarre y la posición del hombro. Mantener una peor posición durante más tiempo puede hacer menos por ti que un mantenimiento más corto que puedas repetir en la misma posición."
+		},
+		{
+			"title": "Formas de progresar",
+			"text": "Empieza con un tiempo que puedas repetir bien, como 15–20 segundos. Después añade unos segundos a lo largo de varias sesiones, añade una serie o pasa a una variante un poco más difícil. Cambia una sola cosa principal a la vez. Cuando un mantenimiento ya es muy largo, añadir resistencia o una palanca más difícil suele hacer más que perseguir varios minutos."
+		},
+		{
+			"title": "Series de acondicionamiento con tiempo",
+			"text": "Un intervalo de trabajo de 30 segundos seguido de 60 segundos de descanso no es automáticamente un entrenamiento interválico de alta intensidad. La intensidad depende de tu ritmo o esfuerzo durante el trabajo. Si eres principiante, elige una velocidad que puedas controlar y suficiente descanso para seguir moviéndote bien."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Haz tres planchas laterales de 20 segundos por lado con 40–60 segundos de descanso. Cuando todos los mantenimientos se mantengan estables, sube a 25 segundos. Si tus caderas caen a los 12 segundos, acorta el mantenimiento o cambia a una plancha lateral con apoyo de rodilla."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Los ejercicios con tiempo de tu plan vienen con un tiempo de mantenimiento, y la pantalla del entrenamiento tiene un temporizador de mantenimiento. Si cambias la variante, anótalo en las notas de tu entrenamiento, y no compares tiempos de posiciones corporales distintas como si fueran la misma prueba."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Guía de actividad de la OMS",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

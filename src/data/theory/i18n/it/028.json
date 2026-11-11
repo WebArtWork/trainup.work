@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Prima la priorità",
+			"text": "La fatica si accumula durante una seduta, quindi il movimento che conta di più per il tuo obiettivo di solito va dove puoi farlo bene. Squat pesanti, distensioni e trazioni dure spesso vengono all’inizio nei piani di forza. Anche le abilità nuove e complesse vanno meglio con concentrazione fresca e pratica controllata. Evita di lasciare l’esercizio tecnicamente più difficile per un finale, quando sei più stanco."
+		},
+		{
+			"title": "Esercizi composti e di isolamento",
+			"text": "I movimenti multiarticolari allenano più muscoli insieme e possono richiedere più coordinazione e impegno di tutto il corpo rispetto a curl o alzate. Un ordine comune è riscaldamento, sollevamenti principali, sollevamenti secondari, isolamento e condizionamento facoltativo. È un’abitudine pratica, e alcune sedute e persone richiederanno un ordine diverso."
+		},
+		{
+			"title": "Cosa mostrano le prove",
+			"text": "Le prove ACSM recenti mostrano che fare gli esercizi di forza vicino all’inizio di una seduta può migliorare la forza in quei movimenti. La crescita muscolare sembra meno influenzata dall’ordine degli esercizi in molti confronti. Se il tuo obiettivo principale è migliorare le trazioni alla sbarra, falle prima degli esercizi che affaticano braccia e schiena, anche se questo significa fare gli squat più tardi."
+		},
+		{
+			"title": "Core e condizionamento",
+			"text": "Un plank duro o un trasporto subito prima di squat pesanti può stancare muscoli che ti servono per stabilizzare lo squat. Il lavoro leggero di mobilità e attivazione può venire per primo, e il lavoro duro sul core può adattarsi meglio dopo i sollevamenti principali. Se il condizionamento è il tuo obiettivo principale, il cardio può essere il blocco principale, con il lavoro di forza organizzato intorno."
+		},
+		{
+			"title": "Esempio",
+			"text": "Una seduta di forza da 40 minuti potrebbe andare così: cinque minuti di riscaldamento, poi goblet squat come sollevamento principale, rematori, una variante del piegamento, un hinge e una breve serie di plank laterali. Una seduta che parte dall’abilità potrebbe invece iniziare con una progressione controllata di trazioni a corpo libero prima degli altri esercizi."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Principi ACSM precedenti sull’ordine degli esercizi",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

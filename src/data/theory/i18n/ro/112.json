@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Moduri de a măsura",
+			"text": "Un nou record de sarcină este ușor de observat, dar 10 repetări controlate cu o greutate care înainte îți permitea șapte reprezintă tot progres. La exercițiile cu greutatea corpului, te poți îmbunătăți scăzând înclinarea unei flotări, adăugând amplitudine sau trecând de la repetări asistate la cele fără asistență."
+		},
+		{
+			"title": "Maxime estimate și testate",
+			"text": "Maximul tău pe o repetare (1RM) este cea mai grea sarcină pe care o poți ridica o singură dată cu tehnică acceptabilă. Formulele îl pot estima din serii mai ușoare, dar estimările devin mai puțin fiabile de la un exercițiu la altul, la numere mari de repetări și între sportivi. Începătorii nu au nevoie de teste maxime ca să-și urmărească progresul."
+		},
+		{
+			"title": "Compară lucruri asemănătoare",
+			"text": "Păstrează priza, adâncimea, ritmul, echipamentul și odihna aproximativ la fel când compari sesiunile. O genuflexiune parțială mai grea nu este automat egală cu una mai ușoară pe toată amplitudinea. Mai mult control, mai multă încredere sau mai multă rezistență la aceeași sarcină contează și ele ca îmbunătățire, cu sau fără un nou maxim."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Un ramat trece de la 3 × 8 la 3 × 12 cu aceeași ganteră și tehnică similară. Poți încerca apoi o mică creștere de sarcină și să urci din nou prin intervalul de repetări."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "TrainUp nu prescrie greutăți: alegi tu sarcina. Planul tău dă serii și repetări pentru fiecare exercițiu, iar în timpul antrenamentului notezi repetările pe care le-ai făcut de fapt."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Ghid practic ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

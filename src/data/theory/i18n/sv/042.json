@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tryck mot drag",
+			"text": "Armhävningar och bröstpress betonar bröstet, tricepsen och främre axlarna. Rodd och latsdrag betonar ryggmusklerna och armbågsböjarna. Många axelmuskler arbetar tillsammans i båda, så de två grupperna är inte exakta motsatser i varje led eller i varje plan."
+		},
+		{
+			"title": "Förhållandet 1:1",
+			"text": "Ett liknande antal tryck- och dragset per vecka är en användbar planeringskontroll för nybörjare. Det är ingen bevisad formel för hållning eller axelhälsa. Vad du behöver beror på din idrott, dina mål, ditt övningsval och vad din kropp tål. Ett program byggt kring bänkpress kan innehålla mer ryggarbete, och ett annat kan sätta dragprestation först."
+		},
+		{
+			"title": "Att balansera underkroppen",
+			"text": "Samma idé gäller benen: knädominanta knäböj och utfall paras ihop med höftdominanta höftgångjärn och bryggor. Musklerna på kroppens bak- och framsida behöver inte identiska antal set. Sikta på att täcka varje mönster och bygga kapacitet över tid. Perfekt symmetri är inte målet, och den garanterar inte att du undviker skador."
+		},
+		{
+			"title": "Exempel",
+			"text": "Ett helkroppspass kan para ihop en hantelpress med en stödd rodd och sedan träna ben och bål. En annan dag kan para ihop en press över huvudet med ett latsdrag. Det sprider horisontella och vertikala tryck och drag över veckan när din utrustning tillåter det. Jämn teknik och lämpliga belastningar betyder mer än att matcha övningsnamn."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Varje övningssida under Övningar visar rörelsemönstret, så att du kan se hur din vecka fördelar sig mellan tryck och drag. Om pressar dominerar och du inte har något skäl till det, lägg till en rodd eller en dragvariant som passar din utrustning och respekterar eventuella begränsningar i axel, handled eller belastning."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: grunder i säkerhet och styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

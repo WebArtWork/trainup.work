@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "D’où vient la contrainte sur le poignet",
+			"text": "Les pompes et les gainages sur paumes à plat plient fortement le poignet vers l’arrière. Les exercices aux haltères et à la barre ajoutent un travail de prise et de stabilisation. La gêne au poignet a de nombreuses causes possibles, et l’exercice seul ne peut pas vous dire laquelle."
+		},
+		{
+			"title": "Changer la façon dont vos mains rencontrent le sol",
+			"text": "Les pompes surélevées placent moins de votre poids sur les bras. Des poignées de pompes stables, ou des haltères fixés de façon à ne pas rouler, vous permettent de garder le poignet plus droit. Les gainages sur les avant-bras suppriment complètement la pression sur les paumes. Certaines personnes trouvent aussi un développé aux haltères en prise neutre plus confortable qu’un développé à la barre droite."
+		},
+		{
+			"title": "Gardez les changements sûrs",
+			"text": "N’utilisez jamais d’haltères qui peuvent rouler comme poignées de pompes improvisées. Vérifiez que les supports sont stables et que la surface ne peut pas glisser. Ne forcez pas un poignet douloureux dans une position simplement parce qu’une consigne de technique la juge idéale. Si un mouvement fait mal, arrêtez-vous et trouvez une alternative confortable."
+		},
+		{
+			"title": "Progressez lentement",
+			"text": "Augmentez le nombre total de répétitions et le contrôle avant d’essayer un levier au poids du corps plus difficile. Consultez un médecin en cas de nouvelle douleur après une chute, de gonflement important, de déformation, de fourmillements ou de perte de force. Si la gêne au poignet persiste, faites-la examiner par un professionnel, car TrainUp ne peut pas la diagnostiquer."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Ajoutez vos poignets comme limitation dans Profil et indiquez votre équipement. Le programme choisit alors des exercices adaptés, qui peuvent inclure du gainage sur les avant-bras. Après une séance, vous pouvez signaler une douleur avec la zone du corps et l’exercice, et utiliser les notes pour suivre la tenue de vos poignets. TrainUp ne construit pas de routines de rééducation."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS : douleurs articulaires",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

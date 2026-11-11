@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Scegli un movimento accessibile",
+			"text": "Camminare, pedalare, nuotare, squat con appoggio ed esercizi di forza alle macchine possono essere punti di partenza comodi, a seconda della tua capacità e preferenza. Per alcune persone, il jogging e i salti ripetuti richiedono più alle articolazioni o al respiro rispetto alle opzioni a basso impatto. La corporatura da sola non rende nessuna di queste attività giusta o sbagliata."
+		},
+		{
+			"title": "Parti da una dose che riesci a fare",
+			"text": "Una breve camminata o poche serie di esercizi di forza con appoggio possono bastare per costruire l’abitudine. Aggiungi gradualmente tempo, distanza o ripetizioni man mano che crescono fiducia e tolleranza. Presta attenzione a come ti senti muovendoti e a ciò che riuscirai a fare la settimana prossima, e non solo alla bilancia."
+		},
+		{
+			"title": "Guarda più risultati",
+			"text": "Salire le scale con più facilità, camminate più lunghe, più ripetizioni e un recupero migliore contano tutti come progresso. Le variazioni del peso corporeo dipendono da molti fattori, tra cui abitudini alimentari, farmaci e condizioni di salute. La tua forma fisica può migliorare senza un grande cambiamento di peso."
+		},
+		{
+			"title": "Parti da dove sei",
+			"text": "Alcune persone hanno già molta esperienza di esercizio, mentre altre hanno poca attrezzatura o privacy. Adatta gli esercizi alla tua situazione. Perdere peso non deve essere il tuo obiettivo."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "In Profilo, imposta il tuo spazio per allenarti, se saltare va bene, eventuali limitazioni per zona del corpo e il tuo livello di forma. Il piano sceglie solo esercizi adatti a queste impostazioni. TrainUp insegna l’esercizio e non fornisce diete né cure mediche per la gestione del peso, quindi se hai sintomi o condizioni di salute complesse, chiedi un parere individuale a un medico."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: camminare per la salute",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "CDC: peso sano e attività fisica",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

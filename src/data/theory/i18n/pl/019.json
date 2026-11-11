@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Odczytywanie zapisu treningu",
+			"text": "„3 × 8–12, przerwa 90 s” oznacza trzy serie robocze po osiem do dwunastu kontrolowanych powtórzeń, z około 90 sekundami przerwy między seriami. Serie rozgrzewkowe są osobno, chyba że plan mówi, że je wlicza. W ćwiczeniu jednostronnym (unilateralnym) sprawdź, czy „10 powtórzeń” oznacza na stronę, czy łącznie."
+		},
+		{
+			"title": "Co daje odpoczynek",
+			"text": "Odpoczynek pozwala częściowo odnowić substraty energetyczne, oddech i zdolność wytwarzania siły. Gdy priorytetem jest maksymalna siła, kilka minut między ciężkimi seriami, zwykle około dwóch do pięciu, może pomóc utrzymać obciążenie i jakość powtórzeń. Dla wzrostu mięśni praktycznym zakresem jest około jednej do trzech minut, choć ważniejsze od ścisłego zegara jest regenerowanie się na tyle, by serie pozostawały produktywne. Krótkie przerwy mogą być przydatne w lżejszej pracy wytrzymałościowej lub obwodach, ale mogą obniżać wydajność w późniejszych seriach."
+		},
+		{
+			"title": "Cele zmieniają połączenie",
+			"text": "Pięć ciężkich powtórzeń z długą przerwą trenuje coś innego niż dwadzieścia lżejszych z krótką przerwą. Żaden schemat nie jest lepszy do wszystkiego. Liczy się też ćwiczenie, bo ciężkie przysiady zwykle wymagają więcej regeneracji niż lekkie unoszenie ramion w bok."
+		},
+		{
+			"title": "Przykład",
+			"text": "Załóżmy, że robisz 10, 9 i 7 pompek, bo 30-sekundowe przerwy są zbyt krótkie. Jeśli chcesz dobrej pracy nad siłą lub hipertrofią, odpoczynek 90–120 sekund może pozwolić Ci pozostać w planowanym zakresie powtórzeń. Jeśli celem jest kondycja, zmęczenie wynikające z krótkiej przerwy może być zamierzone."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Każde ćwiczenie w Twoim planie ma serie, powtórzenia lub czas utrzymania oraz przerwę, a licznik przerwy odlicza odpoczynek za Ciebie. Trzymaj się ich, ale stawiaj bezpieczną technikę na pierwszym miejscu. Zapisuj powtórzenia, które faktycznie wykonałeś, i oceń wysiłek sesji po jej zakończeniu. Jeśli późniejsze serie ciągle wyraźnie nie dochodzą do celu, przyjrzyj się ciężarowi, długości przerwy i łącznej pracy w treningu."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Badanie o przerwach między seriami i objętości",
+			"url": "https://doi.org/10.1519/jsc.0000000000003668"
+		}
+	]
+}

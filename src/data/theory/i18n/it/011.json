@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Fibre di tipo I",
+			"text": "Spesso chiamate a contrazione lenta, tendono a contrarsi più lentamente, a produrre meno forza di picco per fibra e a resistere bene alla fatica. Usano con efficacia il metabolismo aerobico e svolgono gran parte del lavoro nelle attività prolungate o ripetute a bassa intensità, come camminare e pedalare a ritmo costante."
+		},
+		{
+			"title": "Fibre di tipo II",
+			"text": "Sono dette in generale a contrazione rapida e possono produrre forza più velocemente e con più potenza. Nell’uomo, le fibre di tipo IIa hanno una grande capacità di produzione di energia sia ossidativa sia glicolitica, mentre quelle di tipo IIx tendono a essere più veloci e a stancarsi prima. La miscela di tipi di fibre varia da muscolo a muscolo e da persona a persona."
+		},
+		{
+			"title": "Il reclutamento segue la richiesta",
+			"text": "Il principio della dimensione descrive come il sistema nervoso in genere recluti prima le unità motorie più piccole e a soglia più bassa e aggiunga quelle a soglia più alta man mano che la forza richiesta aumenta. I sollevamenti pesanti reclutano presto unità motorie ad alta soglia. Anche i carichi più leggeri possono reclutarle quando la fatica cresce, purché lo sforzo diventi abbastanza alto. Questo aiuta a spiegare perché i muscoli possono crescere con un intervallo di carichi abbastanza ampio."
+		},
+		{
+			"title": "Cosa cambia l’allenamento",
+			"text": "L’allenamento di resistenza migliora il tuo apparato aerobico e la resistenza alla fatica. L’allenamento di forza e di potenza migliora la produzione di forza e può costruire muscolo. Alcune caratteristiche delle fibre cambiano con l’allenamento, ma genetica, storia di allenamento ed età influenzano i risultati, quindi definire qualcuno una «persona a contrazione rapida» o una «persona a contrazione lenta» è fuorviante."
+		},
+		{
+			"title": "Esempio",
+			"text": "Una serie di squat a corpo libero da 40 secondi e uno squat con carico duro da cinque ripetizioni sollecitano il sistema neuromuscolare in modo diverso. Entrambi possono essere utili, ma la serie con carico esercita in modo più specifico la produzione di forza elevata. Non ti serve testare la tua miscela di fibre per costruire un programma completo. Scegli ripetizioni, recupero e lavoro di condizionamento in base all’adattamento che vuoi e a quanto bene ti muovi, non in base a un’etichetta di tipo di fibra che nessuno ha verificato."
+		}
+	],
+	"sources": [
+		{
+			"label": "Allenamento di resistenza e continuum delle ripetizioni",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

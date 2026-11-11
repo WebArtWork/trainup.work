@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Górne partie ciała",
+			"text": "Mięśnie piersiowe pomagają wypychać ramiona do przodu lub przez tułów, jak w pompkach i wyciskaniu. Najszerszy grzbietu i inne mięśnie pleców pomagają ciągnąć ramiona i kontrolować łopatki podczas wiosłowania i podciągania. Mięśnie naramienne pomagają unosić i poruszać ramionami. Biceps zgina łokieć i wspomaga niektóre ruchy ciągnące, a triceps prostuje łokieć podczas wyciskania."
+		},
+		{
+			"title": "Dolne partie ciała",
+			"text": "Mięśnie czworogłowe prostują kolano i pomagają w przysiadach, wchodzeniu i wykrokach. Mięśnie pośladkowe prostują lub stabilizują biodro, a zawiasy biodrowe i wejścia na podwyższenie mogą je angażować. Mięśnie dwugłowe uda zginają kolano i wspomagają prostowanie biodra. Mięśnie łydki wytwarzają zgięcie podeszwowe stawu skokowego podczas chodzenia, biegania i wspięć na palce. Przywodziciele i odwodziciele bioder pomagają kontrolować położenie nogi i stabilizować miednicę."
+		},
+		{
+			"title": "Tułów (core)",
+			"text": "Mięsień prosty brzucha, mięśnie skośne, głębsze mięśnie brzucha, prostowniki grzbietu i kilka mięśni wokół miednicy pomagają przekazywać siłę i jej się opierać. Deski, noszenie obciążenia i kontrolowane zawiasy angażują stabilność tułowia w różnych kierunkach. Widoczny „kaloryfer” to tylko jedna część tego systemu."
+		},
+		{
+			"title": "Pokrywanie się ćwiczeń",
+			"text": "Przysiad pracuje nie tylko na mięśnie czworogłowe, a wiosłowanie nie tylko na najszersze grzbietu. Chwyt, kąt tułowia, zakres ruchu i Twoja własna anatomia zmieniają to, które mięśnie wykonują więcej pracy. Układaj tydzień początkującego wokół przysiadów, zawiasów, wykroków, pchania, ciągnięcia i pracy nad core, a nie przypisuj każdego treningu jednemu mięśniowi."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Strona każdego ćwiczenia w zakładce Ćwiczenia podaje jego wzorzec ruchowy i angażowane mięśnie, co pomaga objąć całe ciało niewielką liczbą ćwiczeń. Praca izolowana może wypełnić konkretną lukę, ale nie zastępuje nauki podstawowych ruchów wielostawowych."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Przegląd sprawności fizycznej (HHS)",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		}
+	]
+}

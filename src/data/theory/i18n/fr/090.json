@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tendances à court et à long terme",
+			"text": "Les athlètes avancés recourent parfois volontairement au surmenage fonctionnel, et leurs performances rebondissent après une récupération suffisante. Le surmenage non fonctionnel entraîne une baisse de performance plus longue sans gain utile. Le syndrome de surentraînement est un état durable aux nombreux facteurs, et il nécessite une évaluation professionnelle qui écarte d’autres causes."
+		},
+		{
+			"title": "Signes d’alerte",
+			"text": "Des baisses de performance répétées, une fatigue disproportionnée par rapport à votre entraînement, une irritabilité inhabituelle, un sommeil perturbé, une motivation en baisse et des courbatures persistantes peuvent tous être des signes d’alerte. Aucun n’est spécifique au surentraînement. Le stress au travail, la maladie, une alimentation insuffisante et de nombreuses affections médicales peuvent causer les mêmes symptômes."
+		},
+		{
+			"title": "Réduisez le stress avant d’en ajouter",
+			"text": "Si plusieurs séances paraissent inhabituellement difficiles et que vos performances baissent, réduisez un temps le volume ou l’intensité, prenez plus de récupération et examinez votre sommeil et votre charge d’entraînement globale. Une semaine plus légère peut avoir du sens, mais la réduction à appliquer varie d’une personne à l’autre. N’essayez pas de « passer en force » face à une fatigue qui s’aggrave avec un effort maximal après l’autre."
+		},
+		{
+			"title": "Éviter la surcharge chronique",
+			"text": "Augmentez l’entraînement graduellement, espacez les séances difficiles et surveillez les tendances de vos répétitions terminées, de votre RPE et de votre sensation de forme. Prévoyez des périodes faciles quand les voyages, la maladie, un travail lourd ou d’autres exigences s’ajoutent à votre stress total. Des séances supplémentaires n’aident que si votre corps peut s’y adapter."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "La semaine 4 de chaque programme est une semaine de décharge plus légère. Quand vous régénérez le programme, il change d’un cran à la fois et jamais sur la base de moins de 3 séances. Si 2 de vos 3 dernières séances ont été très difficiles (RPE 9 ou plus) ou terminées à moins de 60 %, le programme suivant est plus facile. TrainUp ne diagnostique ni ne traite le syndrome de surentraînement. Si la tendance à la baisse continue, reposez-vous et demandez un avis professionnel."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026 : dosage de l’exercice, récupération et progression",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "CDC : recommandations de sommeil pour les adultes",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		}
+	]
+}

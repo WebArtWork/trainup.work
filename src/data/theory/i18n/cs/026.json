@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Co měří doba",
+			"text": "30sekundový plank, 40sekundový sed u zdi a 20sekundový rychlý cyklistický interval všechny používají časovač, ale trénují různé věci. Statické výdrže vytvářejí sílu bez velkého pohybu kloubů, zatímco časované dynamické série opakují pohyb. Stejná doba může připadat velmi odlišně podle polohy, páky, zátěže a intenzity."
+		},
+		{
+			"title": "Kvalita před přežitím",
+			"text": "U planku přestaňte, když už nedokážete udržet trup kontrolovaný, i když časovač ještě neskončil. U sedu u zdi určuje obtížnost úhel kolen a poloha chodidel. U visu záleží na úchopu a poloze ramen. Držet horší polohu déle vám může dát méně než kratší výdrž, kterou dokážete opakovat ve stejné poloze."
+		},
+		{
+			"title": "Způsoby postupu",
+			"text": "Začněte s časem, který dokážete dobře opakovat, například 15–20 sekund. Pak během několika tréninků přidejte pár sekund, přidejte sérii nebo přejděte k o něco těžší variantě. Měňte vždy jednu hlavní věc. Jakmile je výdrž velmi dlouhá, přidání odporu nebo těžší páky obvykle pomůže víc než honba za několika minutami."
+		},
+		{
+			"title": "Časované kondiční série",
+			"text": "30sekundový pracovní interval následovaný 60 sekundami odpočinku není automaticky vysoce intenzivní intervalový trénink. Intenzita závisí na vašem tempu nebo úsilí během práce. Pokud jste začátečník, zvolte rychlost, kterou dokážete ovládat, a dostatek odpočinku, abyste se dál dobře pohybovali."
+		},
+		{
+			"title": "Příklad",
+			"text": "Udělejte tři 20sekundové boční plank na každou stranu s odpočinkem 40–60 sekund. Když každá výdrž zůstává stabilní, přejděte na 25 sekund. Pokud vám kyčle klesají po 12 sekundách, výdrž zkraťte nebo přejděte na boční plank s oporou kolene."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "Časované cviky ve vašem plánu mají čas výdrže a obrazovka tréninku má časovač výdrží. Pokud změníte variantu, zapište to do poznámek k tréninku a nesrovnávejte časy z různých poloh těla, jako by šlo o stejný test."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Doporučení WHO pro aktivitu",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

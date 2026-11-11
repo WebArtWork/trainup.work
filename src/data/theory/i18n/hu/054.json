@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Mi változik a kihagyott idő alatt",
+			"text": "Az aerob állóképesség, a mozgástűrés és az emelési teljesítmény különböző sebességgel csökken. Néhány kihagyott nap alig számít, a hetekig vagy hónapokig tartó edzés nélküli időszak viszont csökkentheti, mennyi munkát bírsz. A korábbi edzés segíthet gyorsabban újratanulni a készségeket, de az „izommemória” nem szünteti meg a fokozatos visszatérés szükségességét."
+		},
+		{
+			"title": "Miért tartottál szünetet",
+			"text": "Az utazás vagy a zsúfolt időbeosztás más, mint a sérülés, a műtét vagy egy hosszú betegség. Egészségügyi esemény után a kemény edzéshez való visszatérés előtt kérdezd meg orvosodat vagy más megfelelő egészségügyi szakembert. A TrainUp nem tudja megmondani, hogy a betegség vagy sérülés utáni visszatérés orvosilag biztonságos-e számodra. Ha valami megváltozott, az újrakezdés előtt frissítsd a korlátaidat a Profilban."
+		},
+		{
+			"title": "Gondos kiindulópont",
+			"text": "Hosszú szünet után kevesebb sorozattal, könnyebb ellenállással és több tartalék ismétléssel térj vissza. A korábbi edzésmennyiséged kb. 50–70%-án kezdeni egy tervezési példa, amely egyeseknek megfelel; a kutatás nem ad meg ilyen számot. Nézd meg, milyen érzés az első néhány edzés, mielőtt munkát adsz hozzá."
+		},
+		{
+			"title": "Építkezz a következő hetekben",
+			"text": "Gyakorold az ismerős technikákat, hagyj elég regenerációt, és lassan adj hozzá munkát, ahogy a mozgás és az izomláz visszatér a normálisba. Ne teszteld rögtön a régi maximumaidat. Ha az első hét hosszan tartó vagy szokatlanul erős izomlázat hagy, ismételd meg vagy csökkentsd a terhelést, akkor is, ha a beosztásod szerint ideje lenne haladni."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA/CSCCa: biztonságos visszatérés inaktivitás után",
+			"url": "https://doi.org/10.1519/SSC.0000000000000477"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

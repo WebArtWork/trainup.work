@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Gör en tidsbudget",
+			"text": "Ett pass totala tid omfattar att göra sig i ordning, värma upp, förbereda varje övning, arbetsset, vilor, förflyttning mellan övningar och en valfri nedvarvning. I ett styrkepass är tiden du faktiskt lyfter ofta en liten del av helheten. Tre set på 40 sekunder med två minuters vila emellan tar ungefär sex minuter för den övningen, före eventuella utrustningsbyten."
+		},
+		{
+			"title": "En enkel uppskattning",
+			"text": "Lägg ihop uppvärmningstiden, längden på varje arbetsset, vilorna mellan seten och övergångarna. Till exempel är fyra övningar × tre set på 40 sekunder åtta minuters faktiskt arbete. Om varje övning har två vilor på 90 sekunder, lägg till tolv minuter. En uppvärmning på sex minuter och ungefär åtta minuters förberedelser och övergångar ger ett pass på ungefär 34 minuter. Längre vilor för tungt arbete kan ändra totalen mycket."
+		},
+		{
+			"title": "Alternativ på 20 minuter",
+			"text": "Håll uppvärmningen kort, välj två eller tre stora rörelsemönster och gör några bra set av varje. Att para ihop ett tryck och ett drag kan spara tid vid övergångar när din utrustning och teknik tillåter det, men korta inte vilan så mycket att du förlorar det huvudsakliga styrkemålet."
+		},
+		{
+			"title": "Alternativ på 30 till 45 minuter",
+			"text": "Lägg till ett höftgångjärn eller utfall, en bålövning eller extra set för ditt prioriterade mönster. Om allmän kondition är ditt mål, använd den återstående tiden för aerobt arbete. Du behöver inte fylla varje ledig minut med avslutande moment."
+		},
+		{
+			"title": "Skydda dina prioriteringar",
+			"text": "När tiden är knapp, släpp först de lågprioriterade komplementövningarna. Behåll uppvärmningen och stressa inte dina tunga basövningar. Om hela programmet ständigt drar över, planera mindre för varje pass i stället för att räkna med ett tempo du inte kan hålla."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ange din passlängd i Profil till de minuter du verkligen har. Om du slutför huvudarbetet med bra teknik var passet lyckat, även om du hoppade över de valfria extrasakerna."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC: praktisk aktivitetsplanering",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

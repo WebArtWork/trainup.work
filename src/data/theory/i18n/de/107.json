@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Was die Evidenz zeigt",
+			"text": "Die American Academy of Pediatrics hält gut gestaltetes Krafttraining für Jugendliche für vorteilhaft, mit niedrigen Verletzungsraten bei guter Anleitung und Aufsicht. Für ordnungsgemäß beaufsichtigtes Krafttraining wurde nicht gezeigt, dass es das Längenwachstum hemmt oder Wachstumsfugen schädigt, nur weil Gewichte benutzt werden."
+		},
+		{
+			"title": "Mit Bewegungsgrundlagen beginnen",
+			"text": "Kniebeugen mit Körpergewicht, Liegestütz-Varianten, Rudern, Sprung- und Landeübungen und leichte Widerstandsübungen lehren Kontrolle. Übe symmetrische und einbeinige Bewegungen, lerne, wie du mit der Ausrüstung umgehst, und mache es schwerer nach deiner Technik und Reife, nicht danach, was deine Freunde heben."
+		},
+		{
+			"title": "Das ganze Aktivitätsbild",
+			"text": "Die Empfehlungen der CDC für das Alter von 6–17 Jahren nennen mindestens 60 Minuten moderate bis intensive körperliche Aktivität jeden Tag, einschließlich muskel- und knochenstärkender Aktivität an mindestens drei Tagen pro Woche. Krafteinheiten sind ein Teil davon, neben Sport, Spiel und Freizeit."
+		},
+		{
+			"title": "Warum Aufsicht wichtig ist",
+			"text": "Qualifiziertes Coaching, Ausrüstung, die zu deinem Alter passt, genug Ruhe und ein sicherer Raum senken alle vermeidbare Risiken. Vermeide Maximalversuche ohne Aufsicht und überstürze deine Steigerung nicht und übernimm kein fortgeschrittenes Heben allein. Beziehe, wo du kannst, ein Elternteil, eine erziehungsberechtigte Person oder einen qualifizierten Coach ein. Wenn du Schmerzen, eine bedeutende Erkrankung oder Sorgen um deine Entwicklung hast, frage eine Ärztin oder einen Arzt. Kein Trainingsplan kann Wachstum, Verletzungsprävention oder Leistungsergebnisse garantieren."
+		}
+	],
+	"sources": [
+		{
+			"label": "American Academy of Pediatrics: Krafttraining für Jugendliche",
+			"url": "https://publications.aap.org/pediatrics/article/145/6/e20201010/76942/"
+		},
+		{
+			"label": "CDC: körperliche Aktivität für Kinder und Jugendliche",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/children.html"
+		}
+	]
+}

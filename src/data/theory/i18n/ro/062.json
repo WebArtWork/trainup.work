@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Bănci pentru sprijin și împingeri",
+			"text": "O bancă plată susține împingerile, ramatul și mișcările din șezut. O bancă reglabilă schimbă unghiul trunchiului la împingeri și la alte exerciții. Verifică dacă capacitatea indicată te acoperă pe tine plus orice greutate externă, blochează reglajul și asigură-te că nu se clatină și nu alunecă înainte s-o încarci. Un scaun nu este automat o bancă de greutăți sigură."
+		},
+		{
+			"title": "O treaptă stabilă",
+			"text": "Urcările pe treaptă, flotările înclinate și condiția fizică pe o treaptă joasă au nevoie de o platformă care nu se răstoarnă. Începe cu o treaptă joasă care îți lasă șoldul și genunchiul să se miște controlat. Pune toată talpa piciorului de sprijin pe treaptă, coboară deliberat și nu te împinge din piciorul din urmă ca să ascunzi o platformă prea înaltă."
+		},
+		{
+			"title": "Alegerea unei sfori de sărit",
+			"text": "Ca primă verificare orientativă, stai cu un picior pe mijlocul sforii și ridică mânerele. Multe sfori de agrement se potrivesc când mânerele ajung aproximativ la partea de jos a pieptului sau la subsuori, deși designul sforii și îndemânarea schimbă lungimea ideală. O sfoară prea scurtă te lovește la picioare. Una prea lungă se agață de pământ și poate duce la cercuri mari cu brațele."
+		},
+		{
+			"title": "Verifică spațiul și echipamentul",
+			"text": "Folosește o podea antiderapantă și fii atent la mobilă, lumini, ventilatoare și alte persoane. Sfoara de sărit are nevoie de loc deasupra și în lateral, pe lângă spațiul de pe podea. Înainte de fiecare sesiune, verifică dacă învelișul sforii este uzat, dacă sunt capete de sârmă ascuțite, dacă balamalele băncii sunt deteriorate și dacă suprafața treptei este slăbită. Înlocuiește echipamentul stricat în loc să faci reparații improvizate."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Setează în Profil tipul de bancă, suprafața podelei, înălțimea tavanului, tipul pardoselii și dacă săriturile sunt în regulă, iar planul alege doar exercițiile care se potrivesc. Dacă genunchii sau spațiul tău exclud o treaptă, sau zgomotul, impactul ori înălțimea tavanului exclud sfoara, alternativele sunt exercițiile fără treaptă și mersul pe loc."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: siguranța și tehnica antrenamentului cu greutăți",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

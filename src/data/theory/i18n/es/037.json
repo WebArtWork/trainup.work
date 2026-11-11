@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Técnica del remo",
+			"text": "Empieza desde una posición estable y tira hacia las costillas inferiores o hacia la cadera, según el ejercicio. Deja que los omóplatos se muevan de forma natural cuando los brazos se extienden y tiran hacia atrás, y no lances el torso para ganar impulso. No tienes que forzar los codos a un único ángulo, y el rango termina donde aún puedes controlarlo."
+		},
+		{
+			"title": "Variantes según el equipamiento",
+			"text": "Un remo con mancuerna a una mano trabaja cada lado por separado, y puedes apoyar una mano en un banco firme. Los remos sentados en polea permiten ajustar la carga en pequeños pasos. Los remos con banda necesitan un anclaje seguro, y la resistencia cambia a lo largo de la repetición. Los remos invertidos con el peso corporal son más fáciles cuando el cuerpo está más erguido y más difíciles cuanto más cerca está de la horizontal."
+		},
+		{
+			"title": "Qué cambia la dificultad",
+			"text": "El ángulo del torso, el apoyo, el ancho del agarre, la trayectoria de los codos, la carga y el rango de movimiento cambian lo difícil que es un remo. Un remo con apoyo en el pecho elimina la necesidad de mantener una bisagra inclinada, lo que ayuda cuando quieres entrenar la espalda y no la resistencia de la bisagra. También es una buena opción cuando mantener una bisagra larga no te conviene. Registra por separado las distintas variantes de remo, ya que sus números no son intercambiables."
+		},
+		{
+			"title": "Errores típicos",
+			"text": "Evita encoger los hombros con fuerza, dar tirones con la zona lumbar o acortar el rango solo para levantar más. Cuando tu posición se desajuste, reduce la carga y ralentiza la fase de bajada. Los remos caseros con una mesa o una toalla solo son seguros si el anclaje y la estructura pueden soportar de forma fiable el peso de tu cuerpo en movimiento."
+		},
+		{
+			"title": "Planificar tu semana",
+			"text": "Combina los remos con los press horizontales a lo largo de la semana. Elige variantes de remo que encajen con tu equipamiento, con un lugar donde puedas anclar una banda con seguridad y con las cargas de que dispones."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: técnica del entrenamiento con pesas (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: seguridad y fundamentos del entrenamiento de fuerza",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

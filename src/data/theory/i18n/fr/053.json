@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Vérifiez d’abord qu’il s’agit d’un plateau",
+			"text": "Une séance décevante n’est pas un plateau. Comparez plusieurs semaines dans des conditions similaires : même exercice, même charge, même amplitude et même effort. Un changement de matériel, de sommeil ou de technique peut faire paraître vos chiffres moins bons alors que votre forme ne baisse pas. Notez assez de détails pour distinguer une vraie tendance des variations d’un jour à l’autre."
+		},
+		{
+			"title": "Vérifiez les bases",
+			"text": "Avez-vous terminé vos séances ? La résistance est-elle restée exigeante, et avez-vous récupéré entre les séances ? Le volume vous convenait-il ? Parfois la charge de travail est trop faible, et parfois elle est plus élevée que nécessaire. Un exercice peut aussi stagner parce que vous ne pratiquez pas ce mouvement régulièrement, alors que vos muscles s’adaptent encore."
+		},
+		{
+			"title": "Faites un seul changement utile",
+			"text": "Si vous terminez facilement vos répétitions, ajoutez un peu de charge ou utilisez la double progression. Si la fatigue s’accumule et que les performances baissent, réduisez un temps les séries difficiles ou réorganisez votre emploi du temps. Si un mouvement a cessé de progresser, essayez un changement de technique ou une variante proche, et gardez le reste de votre programme tel quel."
+		},
+		{
+			"title": "Des gains plus lents avec le temps",
+			"text": "Les débutants progressent souvent vite, en partie parce qu’ils apprennent les mouvements. Les pratiquants expérimentés progressent plus lentement et par petits pas. La croissance musculaire demande du temps pour être mesurée, donc une balance qui ne bouge pas ou un seul test de performance ne prouve pas que votre entraînement a échoué. Faites examiner par un médecin une fatigue inexpliquée ou d’autres symptômes de santé qui persistent."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Historique affiche vos séances, votre effort moyen et un graphique sur 4 semaines, ce qui peut vous aider à repérer un éventuel plateau. TrainUp ne modifie jamais votre programme sur la base de moins de 3 séances, donc un jour difficile ne déclenche pas un nouveau programme. Faites de petits ajustements et vérifiez de nouveau après plusieurs séances."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA : sécurité et fondamentaux de la musculation",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Recommandations de l’ACSM sur le modèle de progression",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Formas de medir",
+			"text": "Um novo recorde de carga é fácil de ver, mas 10 repetições controladas com um peso que antes só permitia sete também é progresso. Nos exercícios com o peso do corpo, pode melhorar baixando a inclinação de uma flexão, acrescentando amplitude de movimento ou passando de repetições assistidas para sem assistência."
+		},
+		{
+			"title": "Máximos estimados e testados",
+			"text": "O seu máximo de uma repetição (1RM) é a carga mais pesada que consegue levantar numa repetição com uma técnica aceitável. As fórmulas podem estimá-lo a partir de séries mais leves, mas as estimativas tornam-se menos fiáveis entre exercícios, com mais repetições e entre pessoas. Os iniciantes não precisam de testes de máximo para acompanhar o progresso."
+		},
+		{
+			"title": "Compare o que é comparável",
+			"text": "Mantenha a pega, a profundidade, o ritmo, o equipamento e o descanso mais ou menos iguais quando comparar sessões. Um agachamento parcial mais pesado não é automaticamente igual a um agachamento completo mais leve. Mais controlo, confiança ou resistência com a mesma carga também conta como melhoria, com ou sem um novo máximo."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Uma remada passa de 3 × 8 para 3 × 12 com o mesmo haltere e uma técnica semelhante. Pode então tentar um pequeno aumento de carga e voltar a subir pelo intervalo de repetições."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "O TrainUp não prescreve pesos: escolhe a carga. O seu plano dá séries e repetições para cada exercício e, durante o treino, regista as repetições que realmente fez."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Orientações práticas do ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

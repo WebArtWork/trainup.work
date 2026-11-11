@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Programas de corpo inteiro",
+			"text": "Uma sessão de corpo inteiro treina vários padrões de movimento principais no mesmo dia. Dois ou três dias por semana costumam funcionar bem para iniciantes e para pessoas ocupadas. Pratica os exercícios principais com frequência sem precisar de muitas idas ao ginásio. As sessões podem ficar longas se incluir demasiados movimentos."
+		},
+		{
+			"title": "Programas superior/inferior",
+			"text": "Um plano superior/inferior alterna sessões da parte superior e da parte inferior do corpo, muitas vezes ao longo de quatro treinos por semana. Deixa espaço para mais exercícios e séries, com tempo de recuperação entre sessões semelhantes. Uma versão rotativa de três dias também funciona, e o calendário não tem de se repetir exatamente todas as semanas."
+		},
+		{
+			"title": "Divisões por grupo muscular",
+			"text": "Uma divisão por partes do corpo pode treinar peito e tríceps num dia, costas e bíceps noutro e pernas num terceiro. Estes programas facilitam encaixar volumes de treino elevados. Quando o trabalho semanal é semelhante, nenhuma divisão é melhor do que outra para o crescimento muscular. Uma divisão mal desenhada pode deixar alguns músculos sem treino durante demasiado tempo."
+		},
+		{
+			"title": "Escolha de acordo com os seus limites",
+			"text": "Com dois dias, o corpo inteiro é uma opção prática por defeito. Com três, use o corpo inteiro ou um padrão rotativo superior/inferior. Com quatro, use superior/inferior ou dois dias de corpo inteiro diferentes. Cinco dias permitem muitas organizações, mas as idas extra acrescentam pouco se não conseguir mantê-las ou recuperar delas. A prática de competências e a preferência pessoal também contam. Escolha a divisão mais simples que cubra os seus objetivos, o seu horário e o seu equipamento e vá acompanhando o total de séries semanais. Um horário de cinco dias que parece avançado não é automaticamente melhor do que um plano de três dias que cumpre."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Orientações do ACSM sobre o modelo de progressão",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NHS: orientações sobre força e flexibilidade",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		}
+	]
+}

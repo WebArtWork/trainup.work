@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Effort and harm",
+			"text": "Muscle fatigue, heavy breathing and a temporary burn can come with hard exercise. Sharp pain, new joint discomfort, pain that spreads or dizziness are not achievements. Your body adapts when a hard but tolerable workout is followed by enough recovery. Pain is not what makes it work."
+		},
+		{
+			"title": "Soreness is a poor score",
+			"text": "Delayed-onset muscle soreness is especially common after unfamiliar or hard exercise. It often fades as your body gets used to a movement, while your strength and fitness keep improving. A session that leaves you barely sore can still be productive, and too much soreness can make it hard to train consistently."
+		},
+		{
+			"title": "Progress without punishment",
+			"text": "Pick reps that are challenging but controlled, raise training demands gradually, and include rest or easier days. Finishing a set with a few reps in reserve may be sensible. Research does not show that the average healthy adult needs to reach momentary muscular failure again and again to get worthwhile results."
+		},
+		{
+			"title": "Example",
+			"text": "A beginner who does two full-body workouts a week and steadily adds squat and push-up reps can progress without feeling wrecked after every session."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "After a workout, you rate the session’s effort (RPE) and report any pain with the body area and exercise. If something hurts during a workout, use “I feel pain” to end the exercise at once; it stays out of your plans until you resume it from Profile. Any recent pain means your next plan won’t get harder. New or severe pain is a reason to stop and get it assessed."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026 practical guidance",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: joint pain",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		}
+	]
+}

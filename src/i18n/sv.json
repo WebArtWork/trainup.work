@@ -11,7 +11,7 @@
 	"Startsida",
 	"Alla rättigheter förbehållna.",
 	"Företagsbild",
-	"En mobilapp som skapar ett genomförbart träningsprogram utifrån ditt mål, din nivå, din utrustning, ditt fria utrymme och ditt schema — utan prompter och chattar.",
+	"En mobilapp som skapar ett genomförbart träningsprogram utifrån ditt mål, din nivå, din utrustning, ditt fria utrymme och ditt schema, utan prompter och chattar.",
 	"Mobil träningsapp · under utveckling",
 	"Ett realistiskt träningsprogram för din utrustning och ditt utrymme",
 	"Välj mål, nivå, schema, utrustning och fritt utrymme att träna på — TrainUp skapar ett genomförbart program, guidar dig genom varje pass med övningsbilder och anpassar kommande pass efter hur du mår.",
@@ -771,5 +771,6 @@
 	"Dina data",
 	"post",
 	"poster",
-	"Inga poster"
+	"Inga poster",
+	"Theories"
 ]

@@ -1,0 +1,42 @@
+{
+	"sections": [
+		{
+			"title": "Medições principais",
+			"text": "A frequência cardíaca em repouso é a sua pulsação em repouso tranquilo. A frequência cardíaca máxima (FCmáx) é aproximadamente a frequência mais rápida que o coração consegue atingir durante um esforço máximo. As equações baseadas na idade estimam a FCmáx mas não a medem. A conhecida 220 − idade e a de Tanaka, 208 − 0,7 × idade, são médias populacionais e, para uma pessoa, podem estar bastante erradas."
+		},
+		{
+			"title": "Zonas baseadas em percentagens",
+			"text": "Uma abordagem simples de saúde pública coloca a intensidade aeróbica moderada em cerca de 50–70% da FCmáx estimada e a intensidade intensa em cerca de 70–85%. As aplicações de fitness podem mostrar cinco zonas mais estreitas, mas cada sistema usa limites diferentes. A cor de uma zona ou um único valor de pulsação não pode provar onde está o seu limiar metabólico pessoal."
+		},
+		{
+			"title": "Reserva de frequência cardíaca (RFC)",
+			"text": "O método de Karvonen usa a pulsação máxima e a de repouso: FC alvo = FC em repouso + fração de intensidade × (FCmáx − FC em repouso). Por exemplo, se a FCmáx for 190 e a FC em repouso for 60, 60% da RFC dá 60 + 0,60 × 130 = 138 bpm. Uma meta de 60% da RFC é diferente de 60% da FCmáx."
+		},
+		{
+			"title": "O teste da conversa",
+			"text": "Com esforço moderado, normalmente consegue falar mas não cantar com conforto. Com esforço intenso, dizer mais do que algumas palavras torna-se difícil. O teste é útil quando um dispositivo de pulso é impreciso ou quando não tem um. As leituras da frequência cardíaca podem ficar atrasadas em relação a intervalos curtos e mudar com o calor, a desidratação, o stress, a doença ou a medicação."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Para uma sessão aeróbica fácil, escolha um ritmo em que ainda consiga manter uma conversa. Observe como a sua pulsação muda ao longo de várias semanas ao mesmo ritmo. Essa tendência pode dizer-lhe mais do que perseguir uma “zona de queima de gordura” fixa."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "Depois de cada treino avalia o esforço de toda a sessão de 1 a 10, o que funciona com ou sem dados de frequência cardíaca, e as dicas de respiração ajudam-no a avaliar. Se tem uma doença cardíaca ou toma medicação que afeta a pulsação, peça ao seu médico orientações adequadas a si."
+		}
+	],
+	"sources": [
+		{
+			"label": "Orientações da American Heart Association sobre a frequência cardíaca",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/target-heart-rates"
+		},
+		{
+			"label": "Equação da FCmáx de Tanaka e colegas",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11153730/"
+		},
+		{
+			"label": "Teste da conversa do CDC",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		}
+	]
+}

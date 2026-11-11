@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Beginner",
+			"text": "You may have little steady resistance training experience, be coming back after a long break, or be new to a movement. Simple exercises, repeated technique practice, moderate loads and a few good working sets suit this stage. Fast early progress often comes from better coordination and familiarity as well as new muscle tissue."
+		},
+		{
+			"title": "Intermediate",
+			"text": "You do the major patterns consistently, can estimate your effort, repeat your technique from session to session, and progress through planned changes in load or reps. You may need to spread work over several days, count hard sets, and pay closer attention to recovery and plateaus."
+		},
+		{
+			"title": "Advanced",
+			"text": "Advanced means a long history of productive practice in a specific discipline, with progress that has become slow. More complex planning can help, though complexity is no achievement in itself. Someone advanced at running may still be a beginner at barbell squats."
+		},
+		{
+			"title": "Useful checks",
+			"text": "Can you squat or hinge through a controlled range? Can you do a push-up variation without losing your body position? Do you know how a set with two reps left feels? These are coaching observations, not universal pass or fail tests. No single push-up count, squat weight or number of training months classifies everyone correctly."
+		},
+		{
+			"title": "What it means for your program",
+			"text": "Two or three whole-body sessions built on basic movement patterns are often enough for a novice. A trained lifter may need more weekly volume or more specific exercises. Both follow the same principles: specificity, gradual progression and recovery."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Set your fitness level in Profile to match what you can do now, not what you hope to do. If you are coming back after time off, start with lighter loads and less volume. Update the level as your technique, consistency and tolerance improve."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC getting started safely",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ce să notezi",
+			"text": "Pentru munca de forță, notează exercițiul, varianta, sarcina, repetările și seriile finalizate, plus odihna când contează. La exercițiile cronometrate, notează durata și cât de bine ai ținut poziția. La condiția fizică, notează activitatea, durata și distanța sau ritmul. Un RPE rapid al sesiunii și un scurt comentariu pot explica un rezultat neobișnuit."
+		},
+		{
+			"title": "Fă intrările comparabile",
+			"text": "„Flotări 10 repetări” este greu de citit dacă înălțimea mâinilor sau amplitudinea se schimbă la fiecare sesiune. Notează varianta și condițiile ca să compari lucruri asemănătoare. Păstrează lucrurile simple: câteva câmpuri pe care le completezi de fiecare dată sunt mai bune decât un formular lung la care renunți."
+		},
+		{
+			"title": "Adaugă note pentru context",
+			"text": "Somnul slab, echipamentul necunoscut, întreruperile sau un disconfort nou pot explica o sesiune mai slabă. O zi proastă nu este un motiv să schimbi tot programul. Tendințele pe mai multe sesiuni arată dacă planul devine prea ușor, prea greu sau este cam potrivit."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Săptămâna unu: genuflexiune goblet, 3 × 8 cu 12 kg, efort moderat. Săptămâna trei: 3 × 10 cu aceeași sarcină și tehnică bună. Aceasta este o îmbunătățire măsurabilă chiar dacă greutatea ta corporală nu s-a schimbat."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "În timpul unui antrenament bifezi fiecare serie și notezi repetările. După aceea evaluezi efortul sesiunii, raportezi orice durere și adaugi note. Istoricul arată săptămâna aceasta, totalul antrenamentelor, efortul mediu și un grafic pe 4 săptămâni, iar antrenamentele terminate nu se schimbă niciodată. Planul tău se schimbă doar când îl regenerezi."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Ghid practic ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

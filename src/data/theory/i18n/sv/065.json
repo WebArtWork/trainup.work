@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mät ytan",
+			"text": "Notera längden och bredden på den fria golvytan, som oftast är mindre än själva rummet. En stående curl kräver ganska lite utrymme, medan ett gående utfall eller en golvövning kan kräva plats att sträcka ut armar och ben. Lämna extra utrymme runt rörliga vikter och tänk på hur övningen börjar och slutar."
+		},
+		{
+			"title": "Tänk i tre dimensioner",
+			"text": "En knäböj eller stående rodd behöver plats åt sidorna för armbågarna och utrustningen. En armhävning eller dead bug behöver golvyta lika lång som din kropp. En kettlebellsving behöver öppet utrymme framför, bakom och runt kettlebellen, och press över huvudet eller hopp behöver höjd."
+		},
+		{
+			"title": "Dolda hinder",
+			"text": "Se upp för låga bord, hängande lampor, vassa hörn, element, husdjur, sladdar, mattor och dörrar som öppnas in i ditt område. Kontrollera att golvet fortfarande är halkfritt när din matta ligger på plats. Om du bara precis kan göra en repetition utan att röra möbler är utrymmet för trångt för ett helt pass."
+		},
+		{
+			"title": "Ett upplägg för små utrymmen",
+			"text": "I ett smalt utrymme kan du göra stillastående utfall i stället för gående utfall, och sittande eller golvbaserad överkroppsträning i stället för stora rörelser från sida till sida. Om rummet är för litet för belastade bärande kan du göra övningar mot sidoböjning på stället. Behåll rörelsemönstret och låt den specifika övningen ändras."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ange din golvyta och takhöjd i Profil. Programmet väljer då bara övningar vars rörelse, utrustningen inräknad, ryms i det utrymmet."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: säkerhet och teknik vid styrketräning",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

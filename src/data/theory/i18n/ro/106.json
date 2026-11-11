@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "De ce contează",
+			"text": "Odată cu vârsta, masa musculară, forța, puterea și echilibrul se schimbă adesea, deși ritmul variază mult de la o persoană la alta. Antrenamentul de forță poate ușura sarcinile de zi cu zi, cum ar fi ridicarea de pe scaun, urcarea scărilor și căratul cumpărăturilor. Activitatea aerobă susține sănătatea cardiovasculară și rezistența."
+		},
+		{
+			"title": "Antrenează mai multe abilități",
+			"text": "O săptămână practică combină antrenamentul de forță, activitatea aerobă moderată și puțină exersare a echilibrului. Ghidurile oficiale pentru adulții de 65 de ani și peste recomandă în mod specific cel puțin 150 de minute de activitate aerobă moderată pe săptămână, întărirea mușchilor în două zile și exerciții de echilibru. În jurul vârstei de cincizeci de ani, urmează ghidurile generale de activitate pentru adulți."
+		},
+		{
+			"title": "Alege mișcări utile",
+			"text": "Ridicările de pe scaun, urcările sprijinite pe treaptă, ramatul, împingerile și plimbările cu greutate pot fi toate adaptate la nivelul la care ești acum. Unii adulți în vârstă sănătoși beneficiază de exerciții de putere supravegheate, făcute cu control și cu intenție rapidă. Asta nu înseamnă să te arunci în exerciții riscante cu impact mare fără pregătire."
+		},
+		{
+			"title": "Progresează cu feedback",
+			"text": "Fă exercițiile mai grele pe măsură ce îndemânarea și forța ți se îmbunătățesc, dar așteaptă-te ca refacerea să depindă de afecțiuni, de somn și de antrenamentul din trecut. Cere sfat profesionist pentru amețeală nouă, simptome la piept, durere neexplicată sau probleme de echilibru. Vârsta ta nu este un diagnostic și nu poate înlocui o evaluare corectă, iar singură nu este un motiv să excluzi exercițiile mai grele."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: activitatea fizică pentru adulții în vârstă",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

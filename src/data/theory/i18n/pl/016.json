@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Oddychanie w ćwiczeniach oporowych",
+			"text": "Przy zwykłej pompce lub przysiadzie spróbuj wdychać powietrze w łatwiejszej fazie opuszczania, a wydychać w fazie wysiłku. Dąż do wzorca, który możesz powtarzać bez łapania powietrza i utraty kontroli. Są wyjątki: wymagające ćwiczenia mogą wykorzystywać krótkie, celowe wstrzymanie oddechu, by usztywnić tułów, pod okiem doświadczonej osoby."
+		},
+		{
+			"title": "Usztywnienie i wstrzymywanie oddechu",
+			"text": "Skoordynowane napięcie mięśni brzucha może pomóc w stabilizacji kręgosłupa. Manewr Valsalvy (silny wydech przy zamkniętych drogach oddechowych) może powodować duże, krótkotrwałe zmiany ciśnienia krwi i krążenia. Nie jest dla każdego, zwłaszcza dla osób z nadciśnieniem, chorobami układu krążenia lub innymi istotnymi problemami medycznymi."
+		},
+		{
+			"title": "Oddychanie podczas cardio",
+			"text": "Wraz ze wzrostem intensywności oddychasz coraz więcej, by dostarczyć tlen i usunąć dwutlenek węgla. Nie musisz dopasowywać każdego kroku do dokładnej liczby wdechów i wydechów. Naturalny, komfortowy wzorzec jest w porządku w większości łatwej aktywności, a podczas ciężkich interwałów możesz pozwolić oddechowi przyspieszyć tyle, ile potrzeba."
+		},
+		{
+			"title": "Przykład",
+			"text": "W serii dziesięciu przysiadów goblet weź wdech przed opuszczeniem, pozostań lekko napięty i wydychaj powietrze, wstając. Jeśli poczujesz zawroty głowy, przerwij i odpocznij. Nie przeć przez to. Podczas spokojnego marszu lub jazdy możliwość rozmowy to dobry sprawdzian, że wysiłek nadal jest umiarkowany."
+		},
+		{
+			"title": "Częste błędy",
+			"text": "Wstrzymywanie oddechu przez wiele powtórzeń, wymuszanie bardzo wolnego wzorca podczas ciężkiego cardio i branie głośnego oddychania za oznakę dobrego treningu utrudniają kontrolowanie intensywności."
+		},
+		{
+			"title": "Kiedy się przebadać",
+			"text": "Jeśli ciągle brakuje Ci tchu bez wyraźnej przyczyny, czujesz, że zaraz zemdlejesz, lub masz objawy ze strony klatki piersiowej, zgłoś się do lekarza. Inna technika oddychania tego nie naprawi."
+		}
+	],
+	"sources": [
+		{
+			"label": "Intensywność i oddychanie (CDC)",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		},
+		{
+			"label": "Wskazówki dotyczące ćwiczeń (American Heart Association)",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/"
+		}
+	]
+}

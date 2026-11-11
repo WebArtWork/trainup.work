@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Sintomi di emergenza",
+			"text": "Smetti subito di allenarti se hai dolore o pressione al petto, svieni, hai una forte mancanza di fiato senza un motivo chiaro, senti una debolezza improvvisa da un lato, hai un forte mal di testa nuovo con cambiamenti neurologici o si sviluppa rapidamente una reazione grave. Un fastidio al petto con sudorazione, nausea, stordimento o dolore che si diffonde al braccio o alla mandibola richiede i servizi di emergenza."
+		},
+		{
+			"title": "Altri segnali d’allarme gravi",
+			"text": "Non allenarti nonostante un dolore improvviso e forte a un’articolazione o alla schiena, un gonfiore marcato dopo un infortunio, l’incapacità di caricare il peso, una debolezza che peggiora o un nuovo intorpidimento. Un mal di schiena insieme a perdita del controllo della vescica o dell’intestino o a intorpidimento intorno all’inguine richiede subito una valutazione di emergenza."
+		},
+		{
+			"title": "Cosa fare",
+			"text": "Fermati, metti in sicurezza la zona e chiedi aiuto. Chiama il numero di emergenza locale per i sintomi di emergenza, e non guidare da solo se potresti essere seriamente malato o ferito. Se sei il compagno di allenamento, non cercare di scoprire la causa e non incoraggiare la persona a finire la serie. TrainUp non può giudicare un’emergenza, diagnosticare una malattia né sostituire un professionista qualificato."
+		},
+		{
+			"title": "La prevenzione ha dei limiti",
+			"text": "Riscaldamento, carichi ragionevoli e progressione graduale possono ridurre lo stress evitabile, ma non possono escludere ogni problema medico. Se hai una cardiopatia nota o importanti fattori di rischio, potresti aver bisogno di un parere personale del tuo medico prima di iniziare un esercizio vigoroso."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: dolore al petto e sintomi di emergenza",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		},
+		{
+			"label": "NHS: mal di schiena e segnali d’allarme urgenti",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		},
+		{
+			"label": "NHS: dolore articolare",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		}
+	]
+}

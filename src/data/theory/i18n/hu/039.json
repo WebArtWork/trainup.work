@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Három kategória",
+			"text": "A feszítésgátló (anti-extension) munka megakadályozza, hogy az alsó hátad túlságosan behajoljon, mint a plankben vagy a dead bugban. A rotációgátló (anti-rotation) munka a csavarodásnak áll ellen, mint a biztosan rögzített gumiszalaggal végzett Pallof-nyomásnál. Az oldalhajlítás-gátló (anti-lateral-flexion) munka az oldalra hajlásnak áll ellen, mint az oldalplank vagy a bőröndhordozás. A hasfal, a gerincizmok, a rekeszizom és a csípő mind segít a törzs kontrollálásában."
+		},
+		{
+			"title": "Technikai példák",
+			"text": "Alkartámaszos plankben igazítsd egy vonalba a bordáidat és a medencédet, told el a padlót a karjaiddal, és lélegezz tovább, miközben stabilan tartasz. Dead bugnál az ellentétes kart és lábat csak addig mozgasd, amíg a törzsed kontrollált marad. Oldalplankben tarts egyenes, megtámasztott vonalat, és ne hagyd, hogy a csípőd leessen."
+		},
+		{
+			"title": "Haladás",
+			"text": "Kezdj rövid tartásokkal és rövid emelőkarokkal. A térdtámaszos oldalplank megelőzheti a teljes oldalplankot, a behajlított térdű dead bug pedig a nyújtott lábas nyúlásokat. Nehezebbé teheted az emelőkar megnyújtásával, mérsékelt terhelés hozzáadásával vagy a hosszabb, kontrollált tartással. Ha a tartásod szétesik, a gyakorlat túl nehézzé vált. Haladás közben figyeld a légzésedet és a testtartásodat."
+		},
+		{
+			"title": "A plankeken túl",
+			"text": "A felülések és más törzshajlító gyakorlatok is edzik a hasizmokat, de nem fedik le a core minden feladatát. Az evezések, guggolások és hordozások is dolgoztatják a törzsedet a stabilitásért. Nem kell egy edzésen minden irányt edzened. Iktass be a héten néhány kontrollált core-gyakorlatot, a tapasztalatod és az alsó hátad tűrőképessége szerint választva. Fontosabb a rendszeresség és az, hogy olyan ütemben haladj, amelyet jól bírsz."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Der Anpassungszyklus",
+			"text": "Ein Training ist ein Reiz. Deine Muskeln erzeugen Kraft, dein Herz und deine Blutgefäße liefern mehr Sauerstoff, und du übst Bewegungsfertigkeiten. Direkt danach kann Ermüdung deine Leistung eine Weile senken. In der anschließenden Erholung repariert dein Körper, füllt seine Speicher auf und passt sich an. Das Ergebnis bemerkst du nach Wochen und Monaten wiederholter Zyklen."
+		},
+		{
+			"title": "Spezifische Anpassungen",
+			"text": "Das SAID-Prinzip (Specific Adaptation to Imposed Demands) bedeutet, dass sich dein Körper hauptsächlich an das anpasst, was du übst. Schwere Kniebeugen verbessern die Krafterzeugung in kniebeugenähnlichen Mustern, und zügiges Gehen trainiert vor allem die aerobe Leistungsfähigkeit. Allgemeine Fitness verbindet mehrere Arten von Herausforderung. Frühe Kraftzuwächse kommen oft von besserer Koordination und Rekrutierung im Nervensystem, während spürbares Muskelwachstum meist länger dauert."
+		},
+		{
+			"title": "Superkompensation",
+			"text": "Ein beliebtes Diagramm zeigt, wie die Fitness nach dem Training sinkt, sich erholt und dann kurz über das Ausgangsniveau steigt. Es ist ein nützliches Lehrbild, aber kein genauer Zeitplan und kein universelles biologisches Gesetz. Verschiedene Systeme erholen sich unterschiedlich schnell, und du musst nicht jede Einheit auf einen mythischen Höhepunkt timen."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Ein Anfänger macht zwei moderate Ganzkörpertrainings pro Woche. Nach mehreren Einheiten fühlen sich dieselben Übungen leichter an. Er fügt ein oder zwei Wiederholungen, etwas Gewicht oder eine andere sorgfältig gewählte Herausforderung hinzu und behält dabei seine Technik bei. Wenn er weiter harte Einheiten ohne Erholung aneinanderreiht, kann sein Fortschritt stocken."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Wähle im Profil ein Hauptziel, hake bei jedem Training deine Sätze ab und bewerte danach deine Anstrengung. Der Verlauf zeigt ein Diagramm über 4 Wochen, achte also auf Trends über mehrere Wochen. Bevor du das Training schwerer machst, denke an deinen Schlaf, deinen Muskelkater und wie regelmäßig du warst."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO-Leitlinien zur körperlichen Aktivität",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

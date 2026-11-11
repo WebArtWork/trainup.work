@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co zmienia się podczas przerwy",
+			"text": "Wytrzymałość tlenowa, tolerancja ruchu i wyniki w podnoszeniu zanikają w różnym tempie. Kilka opuszczonych dni może mieć niewielkie znaczenie, a tygodnie lub miesiące bez treningu mogą obniżyć ilość pracy, jaką wykonasz. Wcześniejszy trening może pomóc szybciej odzyskać umiejętności, ale „pamięć mięśniowa” nie eliminuje potrzeby stopniowego powrotu."
+		},
+		{
+			"title": "Powód przerwy",
+			"text": "Podróż lub natłok zajęć to coś innego niż kontuzja, operacja czy długa choroba. Po zdarzeniu medycznym zapytaj lekarza lub innego odpowiedniego specjalistę, zanim wrócisz do ciężkiego treningu. TrainUp nie może ocenić, czy powrót po chorobie lub kontuzji jest dla Ciebie medycznie bezpieczny. Jeśli coś się zmieniło, zaktualizuj swoje ograniczenia w Profilu, zanim zaczniesz od nowa."
+		},
+		{
+			"title": "Ostrożny punkt startowy",
+			"text": "Po długiej przerwie wróć z mniejszą liczbą serii, lżejszym oporem i większą liczbą powtórzeń w zapasie. Start od około 50–70% dawnej objętości treningowej to jeden z przykładów planowania, który pasuje niektórym osobom; badania nie ustalają tej liczby. Zobacz, jak wyglądają pierwsze treningi, zanim dodasz pracę."
+		},
+		{
+			"title": "Buduj w kolejnych tygodniach",
+			"text": "Ćwicz znane techniki, zostawiaj dość czasu na regenerację i dodawaj pracę powoli, gdy ruch i bolesność wracają do normy. Nie sprawdzaj od razu swoich dawnych maksimów. Jeśli pierwszy tydzień zostawi długotrwały lub nietypowo silny ból mięśni, powtórz lub zmniejsz obciążenie pracą, nawet jeśli grafik mówi, że czas na progresję."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA/CSCCa: bezpieczny powrót po okresie bezczynności",
+			"url": "https://doi.org/10.1519/SSC.0000000000000477"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bezpieczeństwo i podstawy treningu oporowego",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

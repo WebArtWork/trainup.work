@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Miért különböznek a vállak",
+			"text": "A vállnak széles a mozgástartománya, és sok izomra támaszkodik a stabilitáshoz. A fej feletti nyúlás, a mély nyomóhelyzetek és a gyors mozdulatok nagyon másképp érezhetők embertől függően. Egy korlátozott vagy fájdalmas mozdulat elárul valamit arról, mely gyakorlatokat válaszd. Nem bizonyítja, hogy egy adott sérülésed van."
+		},
+		{
+			"title": "Igazítsd a gyakorlatot",
+			"text": "Ha egy rudas fej feletti nyomás zavar, próbálj semleges fogású súlyzós nyomást, támasztott evezést vagy falnál végzett fekvőtámaszt. Változtasd a mélységet vagy az irányt, mielőtt ellenállást adnál hozzá. A húzógyakorlatok jó párjai a nyomásnak, de egyetlen rögzített tolás-húzás arány sem gyógyítja a vállfájdalmat."
+		},
+		{
+			"title": "Kontroll és fokozatos kitettség",
+			"text": "Amíg egy mozdulatot tanulsz, használj lassú, kontrollált ismétléseket, kényelmes tartományt és könnyű terheléseket. A vállerő építése fokozatosan nehezebb munkát igényelhet, de ez a haladás nem ronthatja a tüneteidet. A fájdalmon át erőltetett nyújtás vagy a nehéz fej feletti emelések újra és újra tesztelése nem visz előrébb gyorsabban."
+		},
+		{
+			"title": "Figyelmeztető jelek",
+			"text": "Azonnal kérj orvosi tanácsot esés utáni súlyos fájdalom, mozdíthatatlan kar, látható deformitás, nagy duzzanat vagy el nem múló új zsibbadás esetén. A nem javuló tüneteket is szakembernek kell megvizsgálnia."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Add hozzá a vállad a korlátok közé a Profilban, megjegyzésekkel, és tartsd naprakészen a felszerelés-listádat. A terv ekkor csak olyan gyakorlatokat választ, amelyek illenek a korlátaidhoz, a felszerelésedhez, a szintedhez és a koordinációdhoz. Ha egy gyakorlat edzés közben fáj, koppints a „Fájdalmat érzek” gombra, hogy azonnal véget érjen. Addig nem kerül a terveidbe, amíg a Profilban vissza nem kapcsolod. A gyakorlatok ilyen cseréje nem kezeli a beszorulásos szindrómát, a rotátorköpeny-betegséget vagy bármilyen más konkrét állapotot."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: vállfájdalom és figyelmeztető jelek",
+			"url": "https://www.nhs.uk/symptoms/shoulder-pain/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

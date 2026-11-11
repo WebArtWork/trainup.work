@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Preparación y movimiento",
+			"text": "Colócate con los pies a una anchura y con un ángulo de puntas cómodos. Tensa el tronco, deja que las caderas y las rodillas se flexionen juntas y mantén la presión equilibrada en los pies. Baja con control hasta una profundidad en la que tu técnica siga estable y después empuja contra el suelo para ponerte de pie. El ángulo de tu torso y cuánto avanzan las rodillas variarán según la longitud de tus extremidades y el tipo de sentadilla."
+		},
+		{
+			"title": "Profundidad y avance de las rodillas",
+			"text": "No existe ninguna regla que diga que las rodillas deban quedarse detrás de los dedos de los pies. Se adelantan en muchas sentadillas, y eso es normal. Una sentadilla más profunda puede ser útil cuando la alcanzas con comodidad y con control, pero forzar la profundidad a costa de articulaciones doloridas o de perder el equilibrio no ayuda. Elevar los talones o cambiar la postura cambia el movimiento, y ninguna de las dos cosas mejora una sentadilla por defecto."
+		},
+		{
+			"title": "Errores comunes y soluciones",
+			"text": "Que los talones se levanten, que las rodillas se cierren sin control y que se pierda un tronco estable suelen indicar que la profundidad, el equilibrio o la carga todavía no se corresponden con lo que puedes controlar. Prueba con un peso más ligero, una pausa justo por encima del punto difícil o una silla como objetivo. Tus rodillas pueden apuntar más o menos hacia donde apuntan tus pies sin seguir una trayectoria rígida."
+		},
+		{
+			"title": "Ejemplo de progresión",
+			"text": "Empieza con levantarte de una silla o con sentadillas con el peso corporal. Añade una sentadilla goblet cuando el patrón sea fiable, y después mancuernas o una barra si quieres. Por ejemplo, completa dos series de 8 repeticiones controladas antes de añadir carga. Las variantes más avanzadas son opcionales, y no las necesitas para ponerte en forma."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Tu plan elige sentadillas con el peso corporal, goblet o con carga que encajen con tu equipamiento, tu nivel, tu coordinación y las limitaciones que definas en Perfil, como una rodilla. Cuando progreses, mantén la misma profundidad y técnica, para que los números más altos reflejen un progreso real."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: técnica del entrenamiento con pesas (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

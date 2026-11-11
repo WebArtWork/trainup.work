@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "What isolation means",
+			"text": "A biceps curl mainly bends the elbow, and a triceps extension straightens it. Lateral raises emphasize shoulder abduction, leg extensions emphasize knee extension, and leg curls emphasize knee flexion. No real movement recruits only one muscle, so “isolation” means the action is focused on one joint, while other muscles still help."
+		},
+		{
+			"title": "When it is useful",
+			"text": "Isolation can add work for a lagging muscle, keep whole-body fatigue low, or give you a simple option when balance and coordination are hard. A row trains the biceps indirectly, for example, but curls give a more direct stimulus if arm growth is a priority. Machines can make targeted effort especially easy to control."
+		},
+		{
+			"title": "Where it fits in a session",
+			"text": "For general strength, compound exercises usually come first, while you are fresh, and isolation work follows as extra training. If an isolated muscle is your main goal, training it early is reasonable. Exercise order is a way to set priorities, and you can change it when your priorities change."
+		},
+		{
+			"title": "Technique and progression",
+			"text": "Use a range that feels comfortable at the working joint, keep the rest of your body steady, and don’t swing the load. Add repetitions or a small amount of weight only when your form stays the same from rep to rep. Very light loads work when the effort is high enough, and lifting a heavier number does not prove the training is better. Keep your total sets to what you can recover from. If a movement causes pain, stop it; TrainUp does not give corrective rehab programs."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACE exercise library",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: weight-training technique (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

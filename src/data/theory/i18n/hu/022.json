@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Egyismétléses maximum",
+			"text": "Az 1RM a legnehezebb terhelés, amelyet egyszer meg tudsz emelni állandó technikával és mozgástartománnyal. A „80% 1RM” az adott gyakorlatra vonatkozó maximumod 80%-át jelenti. Semmi köze a testsúlyhoz. Ha a guggolás 1RM-ed 80 kg, akkor 64 kg a 80% 1RM."
+		},
+		{
+			"title": "Mit mondanak a százalékok",
+			"text": "A magasabb százalékok általában kevesebb ismétlést engednek a kimerülésig, de a pontos szám gyakorlatonként, emberenként és edzéstörténetenként változik. A jelenlegi bizonyítékok szerint a nehéz terhelések, nagyjából 80% 1RM vagy afölött, különösen jól működnek a maximális erő építésére. Az általános erőnléted javításához nem kell minden edzésen ilyen nehéz terhelés."
+		},
+		{
+			"title": "Az 1RM becslése",
+			"text": "Egyenletekkel becsülhető az 1RM egy szubmaximális sorozatból. Az Epley szerint a becsült 1RM = súly × (1 + ismétlés/30), a Brzycki szerint súly × 36/(37 − ismétlés). Egy öt ismétlésből álló sorozat 60 kg-mal az Epley szerint körülbelül 70 kg-ot, a Brzycki szerint 67,5 kg-ot ad. Ezek durva számok, különösen nagyon sok ismétlésnél, technikai kimerüléssel végződő sorozatoknál vagy olyan sorozatoknál, amelyek nem voltak közel a maximumodhoz."
+		},
+		{
+			"title": "Biztonságosabb módszer kezdőknek",
+			"text": "Olyan súlyt válassz, amellyel a tervezett ismétléseket egyenletes formával meg tudod csinálni, és körülbelül két–négy jó ismétlés marad. Csak akkor menj feljebb, ha a cél egymás után többször könnyűnek tűnik. A maximális tesztekhez készség, megfelelő felszerelés és gyakran képzett felügyelet kell, a megszokott TrainUp-edzéshez pedig nem."
+		},
+		{
+			"title": "Példa",
+			"text": "Ha a tervezett nyolc ismétlés után nem marad semmi tartalék, és a formád szétesik, csökkentsd a terhelést. Ha megcsinálod a nyolcat, és könnyedén tudnál még nyolcat, legközelebb tedd egy kicsit nehezebbé."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A terved sorozatot, ismétlést és pihenőt ad, de súlyokat nem, ezért a terhelést te választod. A terhelésből, a teljesített ismétlésekből és az erőfeszítés-értékelésedből ítéld meg, és soha ne számolj pontos 1RM-et egyetlen könnyű sorozatból."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Az ismétlési kontinuum áttekintése",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

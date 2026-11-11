@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ação concêntrica",
+			"text": "O músculo produz força enquanto encurta no conjunto. Numa rosca bíceps, os flexores do cotovelo encurtam à medida que o peso sobe. Na subida de um agachamento, vários extensores da anca e do joelho trabalham para o levantar. “Concêntrica” descreve o que um músculo está a fazer, o que nem sempre coincide com o facto de o exercício parecer um movimento para cima."
+		},
+		{
+			"title": "Ação excêntrica",
+			"text": "O músculo produz força enquanto alonga sob carga, muitas vezes para travar um movimento. Baixar uma rosca com halteres ou sentar-se num agachamento usa ação excêntrica dos principais músculos em trabalho. Esta fase ajuda a força e o crescimento muscular, mas um trabalho excêntrico muito pouco habitual pode causar muita dor muscular. Aumente-o gradualmente e não exagere de propósito todas as fases de descida."
+		},
+		{
+			"title": "Ação isométrica",
+			"text": "O músculo produz força sem grande alteração no seu comprimento total nem no ângulo da articulação que controla. Pranchas e cadeira na parede são exemplos claros, e os músculos do tronco trabalham de forma aproximadamente isométrica quando segura um transporte pesado. Manter um ângulo não substitui na perfeição o movimento por toda a amplitude."
+		},
+		{
+			"title": "Os papéis mudam com a tarefa",
+			"text": "Um agonista é um dos principais contribuintes para a ação pretendida, e um antagonista opõe-se a ela ou ajuda a regular o movimento. Os sinergistas ajudam, e os estabilizadores controlam articulações ou segmentos do corpo. Numa flexão, o peito e os tríceps fazem o empurrão enquanto os músculos do tronco o mantêm alinhado. Estes papéis dependem do movimento, por isso um músculo não tem uma etiqueta permanente."
+		},
+		{
+			"title": "Pôr em prática",
+			"text": "Baixe com controlo, evite ressaltos descontrolados e empurre ou puxe por uma amplitude que consiga controlar. As isometrias cronometradas são úteis quando a tarefa não exige movimento, e as repetições dinâmicas são úteis quando quer força em movimento. No TrainUp, cada exercício está definido em repetições ou em tempo de isometria, e o temporizador acompanha as suas isometrias. As notas de técnica e a cadência ajudam a fazer boas repetições, mas mover-se mais devagar nem sempre traz resultados mais rápidos."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Revisão dos mecanismos da hipertrofia muscular",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/37382939/"
+		}
+	]
+}

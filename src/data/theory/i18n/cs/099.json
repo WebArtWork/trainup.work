@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co mění zátěž kolen",
+			"text": "Hloubka dřepu, výška schodu, rovnováha, rychlost, odpor a nárazy při skocích všechno mění, jak tvrdě kolena pracují. Neexistuje univerzální pravidlo, že koleno nesmí nikdy přejet špičky. Jak daleko se může koleno pohodlně posunout, se liší mezi lidmi i mezi úkoly."
+		},
+		{
+			"title": "Praktické záměny",
+			"text": "Kontrolované vstávání ze sedu, podepřený split dřep nebo nízký výstup na bednu se může učit snáz než rychlý dřep se skokem. Mělčí nebo pomalejší verze může být v některých případech pohodlnější. Když je problémem náraz, může fungovat lépe kondice s nízkým nárazem, například jízda na kole nebo chůze po rovině, než skákání."
+		},
+		{
+			"title": "Budujte postupně",
+			"text": "Začněte pohybem a množstvím tréninku, které vaše kolena snesou. Zátěž, hloubku nebo opakování přidávejte, jen dokud zůstávají příznaky během tréninku i po něm přijatelné. Nezkoušejte stále bolestivou polohu, abyste zjistili, zda se „sama spravila“. Obecné cvičební rady nejsou diagnóza ani rehabilitační program."
+		},
+		{
+			"title": "Kdy vyhledat pomoc",
+			"text": "Velmi bolestivé, viditelně deformované nebo silně oteklé koleno, neschopnost na ně došlápnout, zablokování, horečka se zarudnutím nebo příznaky po významném zranění vyžadují rychlé odborné vyšetření. Problémy, které přetrvávají, by se také měly nechat zkontrolovat."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Přidejte kolena jako omezení v Profilu s poznámkou a nastavte, zda jsou skoky v pořádku. Plán pak vynechá cviky, které nevyhovují. Pokud cvik bolí, „Cítím bolest“ ho ukončí a drží mimo vaše plány, dokud ho nevrátíte v Profilu. Žádný cvik není zaručeně „bezpečný pro kolena“ pro každého."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: bolest kolene a kdy vyhledat pomoc",
+			"url": "https://www.nhs.uk/symptoms/knee-pain/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

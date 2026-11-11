@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "O que faz os músculos crescer",
+			"text": "Os músculos crescem em resposta a carga mecânica repetida e a recuperação suficiente. As grandes mudanças costumam demorar meses ou anos, não algumas sessões de levantamento. Ser forte e ter um aspeto muito musculado são resultados diferentes, e pode escolher objetivos de treino que correspondam ao que quer."
+		},
+		{
+			"title": "O que mostram os estudos de comparação",
+			"text": "Uma meta-análise de 2025 concluiu que as mulheres e os homens ganharam um tamanho muscular relativo globalmente semelhante com programas de treino de resistência comparáveis, embora os ganhos absolutos médios dos homens tenham sido algo maiores. Isso não é razão para desencorajar as mulheres de levantar pesos. Mostra que as mulheres podem ganhar músculo e força reais."
+		},
+		{
+			"title": "Treine para o que quer",
+			"text": "Algumas pessoas querem crescimento muscular visível. Outras preocupam-se mais com a força do dia a dia, a saúde óssea, o desempenho desportivo ou a confiança. O seu volume de treino e a escolha de exercícios podem seguir essas prioridades. O treino de força não exige rotinas de culturismo nem pesos mais pesados todos os dias."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Duas sessões de corpo inteiro por semana com agachamentos, remadas, press e dobras de anca podem melhorar a força e a função. Acompanhe o seu desempenho e não se preocupe com a ideia de que um único treino vá mudar de repente o seu aspeto."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "No Perfil escolhe o seu objetivo: condição física geral, força ou condicionamento. O seu plano é construído a partir desse objetivo, do seu nível, do seu equipamento e do feedback dos seus treinos, e não promete nenhuma forma corporal em particular."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisão sistemática de 2025: crescimento muscular em homens e mulheres",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/40028215/"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

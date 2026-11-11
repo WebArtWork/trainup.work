@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Directe energie met hoog vermogen",
+			"text": "Het ATP-fosfocreatinesysteem (fosfageen) kan ATP snel aanvullen bij korte inspanningen met hoog vermogen, zoals een sprong, een sprintstart of een zware set. Het kan maximaal vermogen maar kort volhouden, wat helpt verklaren waarom enkele minuten rust de prestatie tussen zware kracht- of snelheidsinspanningen kunnen herstellen."
+		},
+		{
+			"title": "Snelle koolhydraatafbraak",
+			"text": "Anaerobe glycolyse levert ATP uit koolhydraten, en de reacties die dat doen hebben geen zuurstof nodig. Het is het belangrijkst bij zware inspanningen die van vele seconden tot een paar minuten duren. Lactaat wordt vaak „afval” genoemd of als enige oorzaak van spierpijn gezien, maar je lichaam gebruikt het ook als brandstof en als metabool signaal."
+		},
+		{
+			"title": "Aanhoudende aerobe productie",
+			"text": "Oxidatief metabolisme in de mitochondriën gebruikt zuurstof om ATP te maken uit koolhydraten en vetten. Het voedt lange wandelingen, fietsen, rustig hardlopen en een groot deel van het herstel tussen zware intervallen. Zelfs korte inspanningen krijgen wat aerobe bijdrage, omdat de systemen nooit in afzonderlijke tijdvakken aan- en uitgaan."
+		},
+		{
+			"title": "Waarom duur en rust ertoe doen",
+			"text": "Een bijna maximale sprint van vijf seconden en een wandeling van 30 minuten vragen heel verschillende hoeveelheden vermogen. Herhaalde zware intervallen van 20 seconden met korte rust maken het moeilijker je output vol te houden naarmate vermoeidheid toeneemt. Zware barbellsets hebben meestal langere rust nodig zodat je kracht en techniek behouden blijven, en zo buiten adem mogelijk raken is niet het doel."
+		},
+		{
+			"title": "In de praktijk brengen",
+			"text": "Geef jezelf genoeg herstel als kracht of snelheid het hoofddoel is. Gebruik rustige matige activiteit om aeroob vermogen op te bouwen. Gebruik intervallen voor conditie als ze passen, en stem werk en rust af op je huidige vermogen. Een hoge hartslag tijdens tillen betekent niet dat de sessie je dezelfde aerobe prikkel gaf als langdurige cardio."
+		}
+	],
+	"sources": [
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Aerobe-activiteitsrichtlijnen van de WHO",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Häufige Carry-Arten",
+			"text": "Beim Farmer’s Carry hältst du in jeder Hand ein Gewicht. Beim Suitcase Carry hältst du ein Gewicht auf einer Seite, sodass dein Rumpf dem seitlichen Beugen widerstehen muss. Ein Front Carry hält die Last nah an der Brust, und ein Overhead Carry verlangt mehr Schulterstabilität und braucht mehr Kopffreiheit. Jede Position verändert die beteiligten Muskeln und die nötige Fertigkeit."
+		},
+		{
+			"title": "Grundtechnik",
+			"text": "Wähle eine Last, die du den ganzen Weg über sicher halten kannst, stehe aufrecht in bequemer Haltung und gehe mit bewussten Schritten. Halte das Gewicht sicher, lehne dich nicht weit zu ihm hin oder von ihm weg und atme bei einem langen Weg weiter. Werde bei Wendungen langsamer und halte deinen Weg frei."
+		},
+		{
+			"title": "Carries dosieren",
+			"text": "Carries zählst du nach Strecke oder Zeit statt nach Wiederholungen. Trage zum Beispiel zwei Kurzhanteln, die du 20–30 Sekunden stabil halten kannst, ruhe dich aus und wiederhole. Wenn Griff und Haltung gleich bleiben, füge etwas Strecke, Zeit oder Gewicht hinzu. Ein schwereres Gewicht hilft nicht, wenn es deine Schritte hastig und ungleichmäßig macht."
+		},
+		{
+			"title": "Platz und Sicherheit",
+			"text": "Prüfe, dass dein Weg genug freien Boden, eine rutschfeste Oberfläche und keine Menschen oder Gegenstände im Weg hat. Setze die Gewichte kontrolliert ab und lass sie nicht fallen. Verzichte auf Overhead Carries unter einer niedrigen Decke oder wenn du dir deiner Schulterkontrolle nicht sicher bist. Trainiere einseitige Carries immer auf beiden Seiten."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Carries können einen Platz im Krafttraining füllen, wenn du Ausrüstung und Platz zum Gehen hast. Dein Plan prüft die Bodenfläche, die du im Profil angibst. Wenn dein Rücken oder deine Hände begrenzen, wie viel Wirbelsäulenlast oder Griffarbeit du verträgst, füge diesen Körperbereich im Profil als Einschränkung hinzu, damit der Plan nicht passende Übungen weglassen kann."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE-Übungsbibliothek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "NSCA: Sicherheit und Grundlagen des Krafttrainings",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

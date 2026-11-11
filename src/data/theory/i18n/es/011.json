@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Fibras de tipo I",
+			"text": "A menudo llamadas de contracción lenta, tienden a contraerse más despacio, producen menos fuerza máxima por fibra y resisten bien la fatiga. Usan con eficacia el metabolismo aeróbico y hacen buena parte del trabajo en las actividades largas o repetidas de baja intensidad, como caminar y pedalear a ritmo constante."
+		},
+		{
+			"title": "Fibras de tipo II",
+			"text": "Se llaman en general de contracción rápida y pueden producir fuerza con más rapidez y potencia. En los humanos, las fibras de tipo IIa tienen una gran capacidad de producción de energía tanto oxidativa como glucolítica, mientras que las de tipo IIx tienden a ser más rápidas y a cansarse antes. La mezcla de tipos de fibra varía según el músculo y la persona."
+		},
+		{
+			"title": "El reclutamiento sigue la demanda",
+			"text": "El principio del tamaño describe cómo tu sistema nervioso suele reclutar primero las unidades motoras más pequeñas y de umbral más bajo, y añade las de umbral más alto a medida que aumenta la fuerza necesaria. Los levantamientos pesados reclutan pronto unidades motoras de umbral alto. Las cargas más ligeras también pueden reclutarlas a medida que se acumula la fatiga, siempre que el esfuerzo llegue a ser lo bastante alto. Eso ayuda a explicar por qué los músculos pueden crecer con un rango bastante amplio de cargas."
+		},
+		{
+			"title": "Qué cambia el entrenamiento",
+			"text": "El entrenamiento de resistencia mejora tu maquinaria aeróbica y la resistencia a la fatiga. El entrenamiento de fuerza y de potencia mejora la producción de fuerza y puede desarrollar músculo. Algunos rasgos de las fibras cambian con el entrenamiento, pero la genética, el historial de entrenamiento y la edad afectan a los resultados, así que decir que alguien es una «persona de fibras rápidas» o una «persona de fibras lentas» es engañoso."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Una serie de sentadillas con el peso corporal de 40 segundos y una sentadilla dura con carga de cinco repeticiones estresan tu sistema neuromuscular de forma distinta. Ambas pueden ser útiles, pero la serie con carga practica de forma más específica la producción de fuerza elevada. No necesitas medir tu mezcla de fibras para construir un programa completo. Elige repeticiones, descanso y trabajo de acondicionamiento según la adaptación que quieres y lo bien que te mueves, no según una etiqueta de tipo de fibra que nadie ha comprobado."
+		}
+	],
+	"sources": [
+		{
+			"label": "Entrenamiento de fuerza y el continuo de repeticiones",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Why combine the two",
+			"text": "Resistance training improves strength and muscle function, and aerobic activity supports endurance and the health of your heart and lungs. Public health guidance recommends both. Doing only one can leave parts of your fitness behind, especially when your everyday goals include strength, walking ability and staying active for long periods."
+		},
+		{
+			"title": "The interference effect",
+			"text": "Very large amounts of endurance work can sometimes reduce gains in explosive power or some strength outcomes, compared with resistance training alone. Recent reviews, however, find that combined training generally improves aerobic capacity and strength together, and most recreational trainees do not lose any real muscle growth from it."
+		},
+		{
+			"title": "Choose a practical order",
+			"text": "If strength is your priority, do the demanding lifts while you are fresh and the easy cardio afterward. If conditioning is your main goal, do the important endurance work first. Spacing hard sessions several hours apart or on different days can help with fatigue, especially in advanced training."
+		},
+		{
+			"title": "Balance hard and easy days",
+			"text": "For example, do two full-body strength days plus two or three brisk walks and an optional moderate cycling session. A more experienced athlete may need to time hard runs and leg strength sessions carefully. If your performance and recovery suffer, stop piling all-out intervals on top of every leg workout."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Your goal in Profile (general fitness, strength or conditioning) tells you which kind of work to put first while you still train both. Cardio does not automatically ruin strength progress. Keep an eye on the reps you miss and on your average effort in History. When you regenerate your plan, it gets easier if 2 of your last 3 workouts were very hard (RPE 9 or more) or less than 60% finished."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 umbrella review: concurrent strength and endurance training",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41762427/"
+		},
+		{
+			"label": "CDC adult physical activity recommendations",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Skąd bierze się obciążenie nadgarstka",
+			"text": "Pompki i deski na płaskich dłoniach mocno odchylają nadgarstek do tyłu. Ćwiczenia z hantlami i sztangą dodają pracy chwytu i stabilizacji. Dyskomfort w nadgarstku ma wiele możliwych przyczyn, a samo ćwiczenie nie powie Ci, która to jest."
+		},
+		{
+			"title": "Zmień sposób, w jaki dłonie spotykają podłogę",
+			"text": "Pompki z podwyższeniem kładą mniej Twojej masy na ramiona. Stabilne uchwyty do pompek lub hantle zabezpieczone tak, by nie mogły się toczyć, pozwalają utrzymać nadgarstek prościej. Deski na przedramionach całkowicie zdejmują nacisk z dłoni. Niektórzy uważają też wyciskanie hantli chwytem neutralnym za wygodniejsze niż wyciskanie sztangi prostym gryfem."
+		},
+		{
+			"title": "Zachowaj bezpieczeństwo zmian",
+			"text": "Nigdy nie używaj hantli, które mogą się toczyć, jako prowizorycznych uchwytów do pompek. Sprawdź, czy podpory są stabilne, a powierzchnia nie może się ślizgać. Nie wymuszaj bolącego nadgarstka w pozycji tylko dlatego, że wskazówka techniczna nazywa ją idealną. Jeśli ruch boli, przerwij i znajdź wygodną alternatywę."
+		},
+		{
+			"title": "Postępuj powoli",
+			"text": "Zbuduj łączną liczbę powtórzeń i kontrolę, zanim spróbujesz trudniejszej dźwigni z masą ciała. Zgłoś się do lekarza z nowym bólem po upadku, silnym obrzękiem, deformacją, mrowieniem lub utratą siły. Jeśli dyskomfort nadgarstka się utrzymuje, niech sprawdzi go specjalista, bo TrainUp nie może go zdiagnozować."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Dodaj nadgarstki jako ograniczenie w Profilu i wypisz swój sprzęt. Plan wybierze wtedy pasujące ćwiczenia, które mogą obejmować pracę na mięśnie tułowia na przedramionach. Po treningu możesz zgłosić ból wraz z częścią ciała i ćwiczeniem oraz użyć notatek, by śledzić, jak radziły sobie Twoje nadgarstki. TrainUp nie buduje rutyn rehabilitacyjnych."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: ból stawów",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

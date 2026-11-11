@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Egy előírás olvasása",
+			"text": "A „3 × 8–12, pihenő 90 mp” három munkasorozatot jelent nyolctól tizenkét kontrollált ismétlésig, a sorozatok között körülbelül 90 másodperccel. A bemelegítő sorozatok külön számítanak, hacsak a terv nem mondja, hogy beleszámítja őket. Egyoldali (unilaterális) gyakorlatnál ellenőrizd, hogy a „10 ismétlés” oldalanként vagy összesen értendő."
+		},
+		{
+			"title": "Mit ad a pihenő",
+			"text": "A pihenő lehetővé teszi, hogy részben visszaállítsd a nagy energiájú szubsztrátjaidat, a légzésedet és az erőkifejtő képességedet. Ha a maximális erő a prioritás, a kemény sorozatok közötti több perc, általában nagyjából két–öt, segíthet megtartani a terhelést és az ismétlések minőségét. Izomnövekedéshez nagyjából egy–három perc a gyakorlati tartomány, bár fontosabb, hogy annyit pihenj, amennyi a sorozataid termelékenységéhez kell, mint hogy szigorú időzítőt kövess. A rövid pihenők hasznosak lehetnek könnyebb állóképességi vagy körmunkánál, de csökkenthetik a teljesítményedet a későbbi sorozatokban."
+		},
+		{
+			"title": "A célok változtatják a kombinációt",
+			"text": "Öt kemény ismétlés hosszú pihenővel mást edz, mint húsz könnyebb ismétlés rövid pihenővel. Egyik séma sem jobb mindenre. A gyakorlat is számít, mivel a nehéz guggolásokhoz általában több regeneráció kell, mint a könnyű oldalemelésekhez."
+		},
+		{
+			"title": "Példa",
+			"text": "Tegyük fel, hogy 10, 9 és 7 fekvőtámaszt csinálsz, mert a 30 másodperces pihenő túl rövid. Ha jó erő- vagy hipertrófiamunkát szeretnél, a 90–120 másodperces pihenővel megmaradhatsz a tervezett ismétlési tartományban. Ha a cél a kondicionálás, a rövid pihenő okozta fáradtság lehet a szándék."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A tervedben minden gyakorlathoz tartozik sorozat, ismétlés vagy tartási idő, valamint pihenő, a pihenőidőzítő pedig megszámolja neked a pihenést. Kövesd őket, de a biztonságos technika legyen az első. Rögzítsd a ténylegesen megcsinált ismétléseket, és utána értékeld az edzés erőfeszítését. Ha a későbbi sorozataid folyamatosan jócskán a cél alatt maradnak, nézd meg a terhelést, a pihenő hosszát és az edzés összmunkáját."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Sorozatközi pihenő és volumen vizsgálat",
+			"url": "https://doi.org/10.1519/jsc.0000000000003668"
+		}
+	]
+}

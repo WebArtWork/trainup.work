@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Mennyire összetett egy gyakorlat",
+			"text": "A támasztott gépi evezés stabil pályán mozog. Az egylábas román felhúzás egyensúlyt, törzskontrollt és csípőkoordinációt kér, a kettlebell-lendítés pedig sebességet és időzítést ad hozzá. Lehetsz nagyon erős, és mégis új lehet számodra az egyik ilyen készség."
+		},
+		{
+			"title": "Menj a kiszámíthatótól a kihívást jelentő felé",
+			"text": "Kezdj stabil helyzetekkel és lassabb ismétlésekkel, és egyszerre egy új készséget tanulj. Utána tedd nehezebbé a gyakorlatot a támasz elvételével, az emelőkar megváltoztatásával, a tartomány növelésével vagy kontrollált sebesség hozzáadásával. A progressziónak meg kell tartania a mozdulat célját, és kerülnie kell, hogy minden igényt egyszerre változtass."
+		},
+		{
+			"title": "A fáradtság megváltoztatja a koordinációt",
+			"text": "Egy gyakorlat, amelyet az edzés elején jól végeztél, sok ismétlés után ingataggá válhat. A nagy készséget igénylő gyakorlatokat végezd korábban, pihenj hosszabban, ha szükséged van rá, és fejezd be a sorozatot, amikor az egyensúlyod vagy a kontrollod csúszik. Az összetett ballisztikus gyakorlatok általában rossz első választások egy fáradt kezdőnek."
+		},
+		{
+			"title": "Példa",
+			"text": "Ha kitöréseket tanulsz, kezdhetsz osztott guggolással, korlátba kapaszkodva, majd térj át támasz nélküli hátrafelé kitörésre, és később próbálhatsz járó kitörést. A gyorsabb változat nem automatikusan jobb."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Amikor a TrainUp felépíti a terved, olyan gyakorlatokat választ, amelyek illenek a szintedhez és a koordinációdhoz, valamint a korlátaidhoz és a felszerelésedhez."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026-os gyakorlati útmutató",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

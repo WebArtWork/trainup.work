@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Regola la corda",
+			"text": "Scegli una corda che giri in modo fluido senza impigliarsi nei piedi. Un primo adattamento comune è stare vicino al centro e sollevare le maniglie verso il petto basso o le ascelle, poi regolare in base allo spessore della corda e alla tua abilità. Assicurati di avere molto spazio sopra la testa, ai lati e sul pavimento prima di saltare."
+		},
+		{
+			"title": "Impara un piccolo salto di base",
+			"text": "Tieni i gomiti comodamente vicini alle costole e fai girare la corda soprattutto con i polsi, senza oscillare con tutte le braccia. Usa salti brevi e rilassati, alti quanto basta per superare la corda, senza tirare in alto le ginocchia. Atterra con morbidezza, lasciando piegare caviglie e ginocchia; non cercare di tenere le gambe completamente rigide."
+		},
+		{
+			"title": "Aggiungi varianti gradualmente",
+			"text": "Inizia con giri singoli, anche se ne riescono solo due o tre prima di dover ricominciare. Passa a brevi serie continue, poi aggiungi piedi alternati, il passo da pugile o spostamenti laterali quando il tuo tempismo migliora. Trucchi come i double-under vengono dopo un ritmo di base affidabile."
+		},
+		{
+			"title": "Evita troppo impatto e troppa frustrazione",
+			"text": "Saltare ripetutamente carica polpacci e tendini d’Achille, quindi grandi aumenti improvvisi possono renderli doloranti. Se la corda continua a impigliarsi, può essere troppo lunga, troppo corta o mal sincronizzata; non significa che sei fuori forma. Indossa scarpe e usa una superficie con buona aderenza, ed evita pavimenti di piastrelle scivolose e stanze affollate."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il piano include la corda per saltare solo quando la tua attrezzatura e le impostazioni del Profilo per altezza del soffitto, superficie, salti e rumore lo permettono. All’inizio mantieni gli intervalli brevi. Se ti frenano l’abilità o l’impatto, shadow boxing o marcia mantengono viva la sessione."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: misurare l’intensità dell’attività e il talk test",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Libreria di esercizi ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "CDC: raccomandazioni sull’attività fisica per gli adulti",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

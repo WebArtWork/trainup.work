@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Escalas de tiempo",
+			"text": "Un microciclo es un periodo corto que se repite, a menudo una semana. Un mesociclo es un bloque de varias semanas con un enfoque principal. Un macrociclo abarca una temporada o un periodo de objetivo más largo. Estos nombres ayudan a planificar, y su duración varía de una persona a otra."
+		},
+		{
+			"title": "Tres enfoques",
+			"text": "La progresión lineal cambia las variables despacio en una dirección general, por ejemplo de más repeticiones con cargas más ligeras a menos repeticiones con cargas más pesadas. El entrenamiento ondulante cambia con más frecuencia los objetivos de repeticiones o la intensidad, por ejemplo pesado el lunes y moderado el jueves. La periodización por bloques organiza fases una tras otra, cada una centrada en una capacidad concreta."
+		},
+		{
+			"title": "Qué muestra la investigación",
+			"text": "Los estudios que comparan planes con el mismo volumen encuentran posibles ventajas de fuerza de la periodización frente al entrenamiento no periodizado, y de los planes ondulantes en personas entrenadas. Las diferencias en el crecimiento muscular son menos consistentes. La declaración de posición del ACSM de 2026 no encontró un beneficio constante en el crecimiento muscular por añadir solo periodización. Un plan más complejo no es automáticamente mejor."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Si empiezas, repite un pequeño conjunto de ejercicios principales durante seis semanas y aumenta poco a poco las repeticiones o la carga. Haz un ejercicio más difícil a medida que mejora tu técnica. Quienes levantan pesas con más experiencia podrían hacer tres semanas de práctica con más volumen, después una fase más pesada y una semana de recuperación más ligera, según cómo respondan."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Tu plan abarca 4 semanas, y la semana 4 es una semana de descarga más ligera. Tu objetivo, tu nivel de forma física y tus comentarios cuentan más que un calendario elaborado. Un plan nuevo solo llega cuando lo generas de nuevo, y cambia un paso cada vez según tus entrenamientos recientes."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisión sistemática de la periodización y los resultados del entrenamiento",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35044672/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Guía del modelo de progresión del ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

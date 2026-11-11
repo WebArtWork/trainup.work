@@ -47,6 +47,16 @@ export const routes: Routes = [
 					import('./pages/legal/legal-page.component').then((m) => m.LegalPageComponent),
 			},
 			{
+				// Theory library and one page per theory. Lazy, so the theory catalog stays out of the main bundle.
+				path: 'theories',
+				loadChildren: () =>
+					import('./pages/theory/theory.routes').then((m) => m.THEORIES_ROUTES),
+			},
+			{
+				path: 'theory',
+				loadChildren: () => import('./pages/theory/theory.routes').then((m) => m.THEORY_ROUTES),
+			},
+			{
 				// Public support contacts and FAQ; the App Store requires a Support URL.
 				path: 'support',
 				data: { document: 'support', meta: buildRouteMeta(companyProfile, '/support') },

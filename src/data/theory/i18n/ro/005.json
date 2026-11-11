@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "De ce contează verificarea",
+			"text": "Majoritatea oamenilor beneficiază de mai multă activitate, iar mișcarea blândă este adesea un bun punct de plecare. Simptomele, afecțiunile instabile sau evenimentele medicale recente pot schimba activitățile care sunt sigure pentru tine. Verificarea îți spune când un specialist în sănătate sau un specialist calificat în exerciții fizice ar trebui să îți ghideze pașii următori."
+		},
+		{
+			"title": "PAR-Q+",
+			"text": "Chestionarul actual Physical Activity Readiness Questionnaire for Everyone (PAR-Q+) folosește întrebări structurate despre sănătate, cu trasee de continuare, așa că merge mai departe de o simplă listă generică. Gândește-te la afecțiunile de inimă sau cardiovasculare, tensiunea necontrolată, leșinul sau amețelile fără cauză, disconfortul în piept, o operație recentă, durerea nouă sau care se agravează și medicamentele care schimbă felul în care corpul tău răspunde la efort. Sarcina și lunile de după naștere cer și ele sfaturi individuale."
+		},
+		{
+			"title": "Ce înseamnă un răspuns „da”",
+			"text": "Un răspuns „da” la o întrebare de verificare nu înseamnă automat că nu faci mișcare. Poate însemna că trebuie să parcurgi procesul oficial de continuare sau să primești sfaturi despre intensitate și restricții. Dacă faci deja exerciții în siguranță, să continui la un nivel familiar este o decizie diferită de a începe un antrenament dur pe care nu l-ai mai făcut niciodată."
+		},
+		{
+			"title": "Exemplu",
+			"text": "O persoană inactivă de ani de zile, care simte presiune în piept la mersul alert, nu ar trebui să încerce o sesiune de forță maximă sau pe intervale. Ar trebui să oprească activitatea și să obțină o evaluare medicală. Simptomele severe sau persistente în piept cer îngrijire de urgență. O persoană fără simptome îngrijorătoare poate începe cu mers ușor și exerciții ușoare de forță, apoi poate crește treptat."
+		},
+		{
+			"title": "Folosind TrainUp",
+			"text": "Poți înregistra limitările pe zone ale corpului în Profil, cu notițe, iar planul alege doar exerciții care li se potrivesc. TrainUp nu poate lămuri o afecțiune medicală și nici nu îți poate interpreta simptomele, iar un antrenament generat nu este o aprobare medicală. Dacă verificarea ridică îngrijorări, întreabă medicul înainte să alegi un plan solicitant."
+		}
+	],
+	"sources": [
+		{
+			"label": "Chestionarul oficial PAR-Q+",
+			"url": "https://eparmedx.com/"
+		},
+		{
+			"label": "CDC: primii pași",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

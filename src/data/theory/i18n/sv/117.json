@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Det vanliga påståendet",
+			"text": "Hundratals situps säljs ofta som ett sätt att förlora magfett, och övningar för innerlåret marknadsförs som ett sätt att rikta in sig på fettet där. De arbetande musklerna blir starkare eller bättre på ihållande ansträngning. Att använda en muskel ger dig ändå ingen pålitlig kontroll över fettet i närheten."
+		},
+		{
+			"title": "Vad forskningen säger",
+			"text": "Förändringar i kroppsfett beror på energibalans, gener, hormoner och total aktivitet. Praktiska träningsråd bör inte lova exakt fettförlust från ett område. Forskningen är inte helt avgjord: en liten studie från 2023 fann större fettförlust kring bålen med ett specifikt uthållighetsprotokoll för magmusklerna. Det resultatet visar inte att vanliga situps pålitligt avgör var en enskild person förlorar fett."
+		},
+		{
+			"title": "Vad riktad träning gör",
+			"text": "Plankor, curls, utfall och andra övningar kan förbättra styrkan, uthålligheten och funktionen hos de muskler de arbetar. Kombinera styrketräning med aerob aktivitet för bredare hälsa och kondition. Hur mycket kroppsfett du förlorar är inget direkt mått på hur bra din träning är."
+		},
+		{
+			"title": "Exempel",
+			"text": "Om du vill ha en starkare bål, öva dead bugs, sidoplankor och belastade bärande. De bygger bålstyrka och uthållighet oavsett om ditt midjemått ändras den månaden."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Varje övningssida under Övningar visar vilka muskler övningen arbetar och dess rörelsemönster. Det är vad övningen tränar."
+		}
+	],
+	"sources": [
+		{
+			"label": "Randomiserad studie från 2023 om regional träning och fettförändring",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/38010201/"
+		},
+		{
+			"label": "Träning och förändringar i bukfett",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/16002776/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

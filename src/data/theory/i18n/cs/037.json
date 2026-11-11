@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Technika přítahu",
+			"text": "Začněte ze stabilní polohy a přitahujte k dolním žebrům nebo ke kyčli podle cviku. Nechte lopatky pohybovat se přirozeně, když paže natahujete a přitahujete zpět, a netrhejte trupem, abyste získali setrvačnost. Nemusíte nutit lokty do jednoho úhlu a rozsah končí tam, kde ho ještě dokážete kontrolovat."
+		},
+		{
+			"title": "Varianty podle vybavení",
+			"text": "Přítah s jednoručkou v jedné ruce zatěžuje každou stranu zvlášť a druhou ruku můžete opřít o pevnou lavici. Přítahy na kladce vsedě umožňují upravovat zátěž po malých krocích. Přítahy s gumou potřebují bezpečné ukotvení a odpor se během opakování mění. Obrácené přítahy s vlastní vahou jsou snazší, když je tělo vzpřímenější, a těžší, když je blíž vodorovné poloze."
+		},
+		{
+			"title": "Co mění obtížnost",
+			"text": "Sklon trupu, opora, šířka úchopu, dráha loktů, zátěž i rozsah pohybu mění, jak těžký přítah je. Přítah s podepřenou hrudí odstraňuje nutnost držet předklon v hinge, což pomáhá, když chcete trénovat záda, a ne vytrvalost v hinge. Je to také dobrá volba, když vám dlouhé držení hinge nevyhovuje. Různé varianty přítahů zapisujte zvlášť, protože jejich čísla nejsou zaměnitelná."
+		},
+		{
+			"title": "Typické chyby",
+			"text": "Vyhněte se silnému krčení ramen, trhání bedry nebo zkracování rozsahu jen proto, abyste zvedli víc. Když se vám poloha rozpadá, snižte zátěž a zpomalte fázi spouštění. Přítahy doma s použitím stolu nebo ručníku jsou bezpečné jen tehdy, když ukotvení a konstrukce dokážou spolehlivě udržet váhu vašeho pohybujícího se těla."
+		},
+		{
+			"title": "Plánování týdne",
+			"text": "V průběhu týdne spárujte přítahy s horizontálními tlaky. Vybírejte varianty přítahů, které odpovídají vašemu vybavení, místu, kde můžete bezpečně ukotvit gumu, a zátěžím, které máte."
+		}
+	],
+	"sources": [
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: technika posilování (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

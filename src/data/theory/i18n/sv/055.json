@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Fördelar och begränsningar",
+			"text": "Träning med kroppsvikt fungerar överallt, kostar ofta lite och har många alternativ för nybörjare. Den kan träna balans, koordination, styrka och muskulär uthållighet. Vissa mönster är svårare att belasta exakt utan utrustning eller en pålitlig fästpunkt, särskilt höftlyft för underkroppen som du vill göra stadigt tyngre och horisontella drag."
+		},
+		{
+			"title": "Gör det utmanande",
+			"text": "En armhävning mot vägg kan leda till en armhävning med upphöjda händer och sedan en armhävning mot golvet. Knäböj kan utvecklas genom mer kontroll, pauser och senare varianter som fokuserar på ett ben. Plankor kan bli svårare med en längre hävarm innan du lägger till tid. Gör en övning svårare bara så länge du fortfarande kan upprepa dina repetitioner rent. Att lägga på dussintals lätta repetitioner kan flytta träningseffekten mot uthållighet."
+		},
+		{
+			"title": "Arbeta med din utrustning",
+			"text": "En säker räckstång låter dig träna vertikala drag, och en stadigt monterad upphängd träningsanordning kan låta dig göra rodd. Utgå inte från att ett hushållsbord, en dörr eller ett räcke tål din kroppsvikt. Om du inte har någon säker fästpunkt, välj ett annat mönster eller använd de band och hantlar du har."
+		},
+		{
+			"title": "Exempel",
+			"text": "Ett första pass kan innehålla två set vardera av stolsknäböj, armhävningar med upphöjda händer, stödda baklänges utfall, gluteusbryggor och dead bugs. Välj antal repetitioner utifrån hur väl du kontrollerar rörelsen och hur tung den känns. Det finns inget enskilt krav på mål. Vila tillräckligt länge för att behålla din form."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Om du inte har någon utrustning, ange det i Profil och ställ in din golvyta och om hopp är okej. Programmet väljer då bara övningar med kroppsvikt som passar ditt utrymme, din hoppgräns och din nivå. Markera en räckstång som tillgänglig bara om den är säkert monterad. Annars utelämnar programmet övningar som kräver den."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: vägledning om styrka och smidighet",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

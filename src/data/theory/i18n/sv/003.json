@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Allmän kondition",
+			"text": "Målet är bred förmåga och hälsa: styrketräning för de stora rörelsemönstren, regelbunden aerob aktivitet samt en del rörlighets- och balansträning. Passen kan använda måttliga repetitionsintervall och den utrustning du har. Framsteg kan betyda mer aktivitet per vecka, mer energi under dagen eller bättre prestation i armhävningar och promenader."
+		},
+		{
+			"title": "Styrka",
+			"text": "Prioriteten är att utveckla mer kraft i de rörelser du väljer. Ett styrkeprogram lägger vanligen de viktigaste lyften tidigt i passet, ökar motståndet över tid och använder längre vilor, så att tekniken och prestationen förblir starka. Högre belastningar hjälper mest för maximal styrka, men nybörjare kan bli starkare utan att någonsin testa sitt maximum."
+		},
+		{
+			"title": "Kondition",
+			"text": "Prioriteten är att orka hålla uppe en ansträngning, återhämta dig mellan skov eller förbättra din kardiovaskulära kapacitet. Jämn promenad, cykling, joggning och intervaller är alla verktyg för detta. Hur mycket lätt och hårt arbete du gör beror på din konditionsnivå, dina preferenser, hur mycket stötar du tål och din utrustning. Inte varje konditionspass ska kännas som ett lopp."
+		},
+		{
+			"title": "Exempel",
+			"text": "Säg att du har tre pass på 40 minuter i veckan. För en bas av allmän kondition kan du använda två för styrketräning av hela kroppen och ett för kondition. Ett styrkeblock kan behålla de två styrkepassen, lägga till ett tredje lyftpass och behålla en del kort aerob aktivitet. Ett konditionsblock kan flyttas mot aerobt arbete samtidigt som du behåller minst två styrkepass i veckan när du kan."
+		},
+		{
+			"title": "Överlappning mellan målen",
+			"text": "Styrketräning kan förbättra muskulär uthållighet, och aerob träning kan hjälpa återhämtning och hälsa. Målen skiljer sig i tonvikt och överlappar mycket. Välj ett huvudmål i fyra till åtta veckor och titta sedan på dina resultat innan du ändrar prioriteringar. Om du byter efter varje pass blir det svårt att bedöma framstegen."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Du anger ditt mål (allmän kondition, styrka eller kondition) i Profil. Oavsett mål avgör din utrustning, ditt utrymme och dina begränsningar vilka övningar som kan ingå i din plan."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO:s rekommendationer för fysisk aktivitet",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

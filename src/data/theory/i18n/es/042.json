@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Empuje frente a tracción",
+			"text": "Las flexiones y los press de pecho enfatizan el pecho, los tríceps y los hombros anteriores. Los remos y los jalones enfatizan los músculos de la espalda y los flexores del codo. Muchos músculos del hombro trabajan juntos en ambos, así que los dos grupos no son opuestos exactos en cada articulación ni en cada plano."
+		},
+		{
+			"title": "La proporción 1:1",
+			"text": "Un número similar de series semanales de empuje y de tracción es una comprobación de planificación útil para quienes empiezan. No es una fórmula demostrada para la postura ni para la salud del hombro. Lo que necesitas depende de tu deporte, tus objetivos, tu elección de ejercicios y lo que tolere tu cuerpo. Un programa centrado en el press de banca puede incluir más trabajo de espalda, y otro puede poner primero el rendimiento en la tracción."
+		},
+		{
+			"title": "Equilibrar la parte inferior del cuerpo",
+			"text": "La misma idea se aplica a las piernas: las sentadillas y las zancadas, dominantes de rodilla, se combinan con las bisagras y los puentes, dominantes de cadera. Los músculos de la parte posterior y anterior del cuerpo no necesitan el mismo número de series. Procura cubrir cada patrón y desarrollar capacidad con el tiempo. La simetría perfecta no es el objetivo, y no garantiza que no te lesiones."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Un entrenamiento de cuerpo completo podría combinar un press con mancuernas con un remo con apoyo, y después trabajar piernas y core. Otro día podría combinar un press por encima de la cabeza con un jalón. Así se reparten los empujes y las tracciones horizontales y verticales a lo largo de la semana cuando tu equipamiento lo permite. La técnica constante y las cargas adecuadas cuentan más que emparejar los nombres de los ejercicios."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Cada página de ejercicio en Ejercicios muestra su patrón de movimiento, para que veas cómo se reparte tu semana entre empuje y tracción. Si dominan los press y no tienes motivo para ello, añade un remo o una variante de tracción que encaje con tu equipamiento y respete cualquier límite de hombro, muñeca o carga que tengas."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: seguridad y fundamentos del entrenamiento de fuerza",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

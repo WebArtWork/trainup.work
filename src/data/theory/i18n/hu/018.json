@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Mi növekszik",
+			"text": "Az ellenállásgyakorlat jelátviteli útvonalakat és az izomfehérjék átépülését indítja el. Az ismételt edzések során az izomfehérjék építése és lebontása közötti egyensúly a nagyobb izomrostok felé billenhet. Ez hetekig, hónapokig tart. A megjelenés vagy a testsúly korai változásai folyadékból, glikogénből vagy mérési ingadozásból is eredhetnek."
+		},
+		{
+			"title": "Miért számít a feszülés",
+			"text": "A kemény izom-összehúzódások mechanikai feszülésnek teszik ki a rostokat. Mind a nehezebb, mind a könnyebb terhelések támogathatják a növekedést, ha a sorozatokat elegendő erőkifejtéssel és jó technikával végzed. A nagyon könnyű ellenállással, a fáradástól távol végzett edzés nem biztos, hogy elég ingert ad az érezhető növekedéshez."
+		},
+		{
+			"title": "Volumen és gyakoriság",
+			"text": "A heti kemény sorozatok számolása hasznos módja a hipertrófiamunka rendszerezésének. A 2026-os ACSM állásfoglalás nagyobb növekedést talált a magasabb heti volumennél, és a bizonyítékok a növekedés maximalizálásához az érintett vizsgálati összehasonlításokban izomcsoportonként legalább körülbelül heti tíz sorozatot támogattak. Ez a szám nem kötelező kezdő minimum. A kezdők kevesebbel is növekedhetnek, a regenerációs határok pedig emberenként eltérőek. A gyakoriság főként abban segít, hogy a szükséges munkát el tudd osztani a héten."
+		},
+		{
+			"title": "Regeneráció és táplálkozás",
+			"text": "A megfelelő mennyiségű fehérje és energia támogatja az adaptációt, az alvás és a pihenés pedig segít elviselni az ismételt edzést. A TrainUp általános edzésismeretet ad, és nem ad személyes étrendet vagy kalóriacélt. A genetika, az edzéskor és az egészség is befolyásolja, milyen gyorsan jelennek meg látható eredmények."
+		},
+		{
+			"title": "Példa",
+			"text": "Kezdj egy mérsékelt keverékkel: guggolások, csípőhajlítások, tolások és húzások. Naplózd a heti sorozataidat és ismétléseidet. Ha a teljesítményed javul, az izomláz elviselhető marad, és jól regenerálódsz, lassan adj hozzá ismétléseket vagy kevés terhelést, mielőtt több sorozatot adnál."
+		},
+		{
+			"title": "Gyakori tévhit",
+			"text": "Az izomláz nem méri az izomnövekedést, és nem kell minden sorozatnál a kimerülésig menned. A működő programok olyan kemény edzésre épülnek, amelyet meg tudsz ismételni, nem maximális kimerítésre."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Az izomnövekedési mechanizmusok áttekintése",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Az edzéscél",
+			"text": "A pliometrikus gyakorlatok azt a képességedet fejlesztik, hogy gyorsan tudj erőt kifejteni; az nem cél, hogy kifulladj. Ilyenek például a kis pogo szökdelések, az ugróguggolások, az oldalsó szökdelések és a szökkenések. A gyorsabb vagy magasabb ugrások többet kérnek a koordinációdtól, és nagyobb ütésterheléssel járnak, így a kiindulási szinted az erődtől, a landolási kontrollodtól és az edzéstörténetedtől függ."
+		},
+		{
+			"title": "Gyakorold a kontrollált landolást",
+			"text": "Kezdj alacsony, könnyű szökdelésekkel, és úgy landolj, hogy a csípőd, a térded és a bokád együtt hajlik. Törekedj kiegyensúlyozott lábfej-érintkezésre és kontrollált törzsre, zárolt térdek és hangos, hanyag landolások nélkül. A térdednek nem kell tökéletesen mozdulatlannak maradnia, de nem veszíthetik el hirtelen a kontrollt. Állj meg, ha fájdalmat érzel, vagy folyton megbotlasz."
+		},
+		{
+			"title": "Egyszerre egy dolgot fokozz",
+			"text": "Fokozatosan tedd nehezebbé az ugrásokat, például a kis kétlábas szökdelésekről mérsékelt függőleges ugrásokra, mielőtt ismételt vagy egylábas szökkeneseket próbálnál. A magas ládák, a lemélyülő ugrások és a súlyozott ugrások nagyobb készséget igényelnek, és rossz első lépések. Csak akkor adj hozzá magasságot, sebességet vagy egylábas munkát, ha a könnyebb ismétlések megbízhatóak maradnak."
+		},
+		{
+			"title": "Számold a jó érintkezéseket",
+			"text": "A lábérintkezések, vagyis hányszor landol a lábad, gyakran az alsótest pliometrikus mennyiségének mérésére szolgálnak. Kezdőként lehet, hogy csak kis számú kontrollált érintkezésre van szükséged, még akkor is, ha a sportolói programok nagyobb összegeket tüntetnek fel. Pihenj eleget a rövid sorozatok között. Egy fárasztó ugrókör nem épít robbanékonyságot úgy, mint a friss, robbanékony ismétlések."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A terv csak akkor tartalmaz ugrógyakorlatokat, ha a Profilod megengedi az ugrást és az általuk keltett zajt, a felületed és a padlóméreted pedig megfelel nekik. A szinted is számít. Ha ezek közül bármelyik nem illik, erő- vagy alacsony ütésterhelésű állóképességi gyakorlatokkal edzz. Ha egy landolás fáj, koppints a „Fájdalmat érzek” gombra: a gyakorlat azonnal véget ér, és addig nem kerül a terveidbe, amíg a Profilban vissza nem kapcsolod."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Az ACSM 2026-os ellenállásedzési útmutatójának összefoglalója",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

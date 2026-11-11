@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Välj ett upprepbart mått",
+			"text": "Bra alternativ är hur långt du går på en bestämd tid, hur lång tid en välkänd rutt tar, om du klarar ett bestämt intervallpass eller din puls vid ett bekvämt fast tempo. Pass-RPE kompletterar de här siffrorna, särskilt om du inte har en pulsmätare."
+		},
+		{
+			"title": "Håll testförhållandena lika",
+			"text": "Temperatur, backar, sömn, koffein, utrustning och återhämtning påverkar alla prestationen. När du kan, jämför samma löpbandsinställning, cykelmotstånd eller utomhusrutt. En lägre puls betyder inte alltid att du är vältränad, eftersom läkemedel och mätfel också kan ändra värdet."
+		},
+		{
+			"title": "Exempel",
+			"text": "En nybörjare börjar med att varva två minuters promenad med en minuts lugn joggning. Veckor senare genomför hen fler joggingintervaller med liknande ansträngning. En annan cyklar samma rutt och det känns lättare, även om medelhastigheten är densamma."
+		},
+		{
+			"title": "Hur ofta du ska testa",
+			"text": "En planerad kontroll med några veckors mellanrum visar trender medan dina vanliga pass förblir inriktade på träning. Ett plötsligt prestationsfall kan bero på trötthet eller sjukdom, och det behöver inte betyda att du förlorat konditionen för gott."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Efter varje pass skattar du ansträngningen från 1 till 10, och Historik visar din genomsnittliga ansträngning och ett diagram över 4 veckor. Titta på trenden över veckor. En enskild puls- eller hastighetssiffra kan inte diagnostisera din hjärt-kärlhälsa eller garantera den."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: promenader för hälsan",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

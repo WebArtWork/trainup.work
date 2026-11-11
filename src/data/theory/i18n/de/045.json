@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Einen Wiederholungsbereich wählen",
+			"text": "Wähle eine Übung, eine Satzzahl und einen Bereich, zum Beispiel drei Sätze mit 8–12 Wiederholungen. Beginne mit einem Gewicht, mit dem du das untere Ende des Bereichs mit stabiler Technik und einigen Wiederholungen in Reserve erreichst. Der Bereich muss nicht 8–12 sein. Dein Ziel und die Übung bestimmen die Grenzen."
+		},
+		{
+			"title": "Die Laststeigerung verdienen",
+			"text": "Mache zuerst über mehrere Einheiten mehr gute Wiederholungen mit demselben Gewicht. Sobald jeder Satz mit der geplanten Anstrengung das obere Ende des Bereichs erreicht, füge den kleinsten Gewichtsschritt hinzu, den du hast. Deine Wiederholungen sinken dann meist wieder zum unteren Ende, und der Zyklus beginnt von vorn."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Woche 1: Kurzhantelrudern mit 12 kg für 10, 9, 8. Woche 2: 11, 10, 9. Woche 3: 12, 12, 12 mit stabiler Kontrolle. Woche 4: versuche 14 kg für 9, 8, 8, wenn du diesen Sprung mit guter Form bewältigst. Diese Zahlen zeigen, wie es laufen kann. Du musst dich nicht jede Woche verbessern."
+		},
+		{
+			"title": "Wann du die Regel anpassen solltest",
+			"text": "Ein großer Gewichtssprung kann zu hart sein, besonders bei kleinen Muskeln oder mit begrenzter Ausrüstung zu Hause. Bleibe in diesem Fall bei deiner aktuellen Last, füge Gesamtwiederholungen hinzu oder wähle eine Variante dazwischen. Wenn sich eine Einheit ungewöhnlich ermüdend anfühlt, wiederhole das letzte Ziel und hebe dir die Steigerung für später auf. Echter Fortschritt geht oft auf und ab."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Dein Plan gibt jeder Übung Sätze und ein Wiederholungsziel vor, und während eines Trainings erfasst du die Wiederholungen, die du in jedem Satz schaffst. TrainUp schreibt keine Gewichte vor, du entscheidest also selbst, wann du Last hinzufügst. Wenn du in jedem Satz das obere Ende des Bereichs erreichst, prüfe deine RPE und deine Technik, bevor du schwerer gehst."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: Sicherheit und Grundlagen des Krafttrainings",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: Technik beim Krafttraining (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

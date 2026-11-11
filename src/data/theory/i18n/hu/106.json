@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Miért fontos",
+			"text": "Az életkorral az izomtömeg, az erő, a robbanékonyság és az egyensúly gyakran változik, bár a változás üteme emberenként nagyon eltér. Az ellenállásos edzés megkönnyítheti a mindennapi feladatokat, például a székről való felállást, a lépcsőzést és a bevásárlás cipelését. Az aerob mozgás támogatja a szív- és érrendszer egészségét és az állóképességet."
+		},
+		{
+			"title": "Edzz több képességet",
+			"text": "Egy gyakorlati hét keveri az erőedzést, a mérsékelt aerob mozgást és némi egyensúlygyakorlást. A 65 éves és idősebb felnőttekre vonatkozó hivatalos útmutató kifejezetten legalább heti 150 perc mérsékelt aerob aktivitást, két napon izomerősítést és egyensúlymunkát ajánl. Ötvenes éveidben kövesd az általános felnőtt aktivitási irányelveket."
+		},
+		{
+			"title": "Válassz hasznos mozdulatokat",
+			"text": "A felállás ülésből, a támasztott lépcsőre lépés, az evezés, a nyomások és a hordozások mind méretezhetők oda, ahol most tartasz. Egyes egészséges idősebb felnőtteknek hasznos a felügyelt, kontrolláltan, gyors szándékkal végzett robbanékonysági gyakorlat. Ez nem jelenti azt, hogy felkészülés nélkül kockázatos, nagy ütésterhelésű gyakorlatba ugorj."
+		},
+		{
+			"title": "Haladj visszajelzéssel",
+			"text": "Tedd nehezebbé a gyakorlatokat, ahogy a készséged és az erőd javul, de számíts arra, hogy a regeneráció az egészségi állapotoktól, az alvástól és a korábbi edzéstől függ. Új szédülés, mellkasi tünetek, megmagyarázhatatlan fájdalom vagy egyensúlyproblémák esetén kérj szakmai tanácsot. Az életkorod nem diagnózis, nem pótolhatja a megfelelő vizsgálatot, és önmagában nem ok arra, hogy kizárd a nehezebb gyakorlatokat."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: idősebb felnőttek fizikai aktivitása",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Az alkalmazkodás ciklusa",
+			"text": "Egy edzés ingert jelent. Az izmaid erőt fejtenek ki, a szíved és az ereid több oxigént szállítanak, te pedig mozgáskészségeket gyakorolsz. Közvetlenül utána a fáradtság egy időre ronthatja a teljesítményedet. Az ezt követő regeneráció alatt a tested helyreállítja magát, feltölti a készleteit és alkalmazkodik. Az eredményt a ciklusok sokszori ismétlődése után, hetek és hónapok alatt veszed észre."
+		},
+		{
+			"title": "Specifikus adaptációk",
+			"text": "A SAID-elv (Specific Adaptation to Imposed Demands, vagyis a kényszerített igényekhez való specifikus alkalmazkodás) azt jelenti, hogy a tested főként ahhoz alkalmazkodik, amit gyakorolsz. A nehéz guggolások a guggolásszerű mozgásokban fokozzák az erőkifejtést, a gyors séta pedig főként az aerob kapacitást edzi. Az általános erőnlét többféle kihívás kombinációja. A korai erőnövekedés gyakran a jobb koordinációból és az idegrendszeri toborzásból ered, az érezhető izomnövekedés általában tovább tart."
+		},
+		{
+			"title": "Szuperkompenzáció",
+			"text": "Egy közkedvelt ábra szerint az edzés után az erőnléted csökken, majd helyreáll, végül rövid időre a kiindulási szint fölé emelkedik. Hasznos szemléltető kép, de nem pontos időbeosztás és nem általános biológiai törvény. A különböző rendszerek eltérő ütemben regenerálódnak, és nem kell minden edzést egy mitikus csúcshoz időznöd."
+		},
+		{
+			"title": "Példa",
+			"text": "Egy kezdő hetente kétszer végez mérsékelt, egész testes edzést. Néhány alkalom után ugyanazok a gyakorlatok könnyebbnek tűnnek. Hozzáad egy-két ismétlést, kevés súlyt vagy egy másik, gondosan választott kihívást, miközben megtartja a technikáját. Ha pihenés nélkül halmozza a kemény edzéseket, a fejlődése megrekedhet."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Válaszd ki a fő célodat a Profilban, minden edzésen pipáld ki a sorozataidat, utána pedig értékeld az erőfeszítésedet. Az Előzmények 4 hetes grafikont mutat, ezért több hét alakulását nézd. Mielőtt nehezebbé teszed az edzést, gondolj az alvásodra, az izomlázadra és arra, mennyire voltál rendszeres."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "A WHO fizikai aktivitásra vonatkozó irányelvei",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

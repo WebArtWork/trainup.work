@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Types de fixation",
+			"text": "Les barres de porte à effet de levier, les barres à tension extensibles, les barres murales fixes et les barres au plafond s’installent chacune différemment. Une barre vendue comme « compatible avec les cadres de porte » ne conviendra pas à tous les chambranles, murs ou cadres. Certains types demandent des fixations structurelles dans des supports solides, et d’autres dépendent d’une forme de cadre précise."
+		},
+		{
+			"title": "Vérifiez la charge admissible et la structure",
+			"text": "Lisez les instructions du fabricant et la limite de poids, y compris si les mouvements dynamiques sont autorisés. Comptez le poids total de votre corps plus la force supplémentaire due aux balancements ou aux tractions. Inspectez les vis, les supports, les protections et les surfaces que la barre touche ou longe. Si vous avez un doute sur la structure du bâtiment ou sur la méthode de fixation, demandez à un installateur qualifié."
+		},
+		{
+			"title": "Testez-la étape par étape",
+			"text": "Avant de vous suspendre complètement, assurez-vous que la barre est bien calée et qu’elle ne peut ni tourner, ni glisser, ni bouger. Gardez vos pieds au sol et appuyez dessus doucement et avec contrôle. Passez à une suspension partielle, puis à une suspension complète avec appui, seulement quand vous savez que l’installation est solide. Un bref test ne peut pas prouver qu’une quincaillerie endommagée ou un cadre inadapté est sûr."
+		},
+		{
+			"title": "Dangers courants",
+			"text": "N’attachez pas d’élastiques et ne faites pas de tractions kipping, balancées ou lestées, sauf si le produit est conçu et installé exactement pour cela. Laissez de la place pour votre tête, vos coudes et vos pieds, sans verre ni meuble coupant à proximité. Cessez d’utiliser une barre qui craque, glisse, plie ou se desserre."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Dans Profil, indiquez votre barre de traction comme installée en sécurité seulement après avoir vérifié tout ce qui précède. D’ici là, votre programme exclut les exercices qui ont besoin de la barre, et des rowings ou des exercices aux élastiques avec un ancrage sûr entraînent la même traction. Si vous débutez, les suspensions avec appui, les tractions scapulaires ou les tractions assistées sont de bons premiers pas une fois la barre sûre."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic : sécurité et technique en musculation",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

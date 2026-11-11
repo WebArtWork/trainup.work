@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Co je souběžný trénink",
+			"text": "Silový trénink zatěžuje, kolik síly vaše svaly vyvinou, a aerobní cvičení zlepšuje, jak dlouho dokážete vydržet. Pro obecné zdraví máte prospěch z obojího. Takzvaný interferenční efekt popisuje případy, kdy kombinace náročného tréninku obou druhů může ve srovnání s jedním z nich snížit některé přírůstky."
+		},
+		{
+			"title": "Co ukazují přehledy",
+			"text": "Systematický přehled zjistil, že kombinace aerobního a silového tréninku v průměru významně nesnížila růst celého svalu ani maximální sílu. Přírůstky výbušné síly byly ovlivněny o něco víc, zejména když se oba druhy tréninku dělaly ve stejném tréninku. Přesný výsledek závisí na objemu, typu cviků, načasování a tréninkové historii."
+		},
+		{
+			"title": "Plánujte podle své priority",
+			"text": "Pokud je vaším hlavním cílem maximální zvedání, dělejte nejlepší silovou práci před náročným kardiem, nebo dávejte náročné tréninky na samostatné dny, když můžete. Pokud je vaším zaměřením obecná kondice, můžete kombinovat lehké kardio a sílu bez propracovaného plánování. Víc záleží na regeneraci a celkové zátěži a žádný druh tréninku není nepřítelem toho druhého."
+		},
+		{
+			"title": "Příklad",
+			"text": "Dva silové tréninky celého těla týdně plus střední jízda na kole nebo chůze v ostatní dny mohou budovat několik schopností najednou. Soutěžní silový sportovec může být opatrnější při náročných intervalech těsně před výbušným zvedáním."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Zvolte svůj hlavní cíl v Profilu: Celková kondice, Zesílit nebo Zlepšit vytrvalost. Nepotřebujete samostatné dny na všechno a žádný jediný kardio trénink vaše svalové přírůstky nesmaže."
+		}
+	],
+	"sources": [
+		{
+			"label": "Systematický přehled: kombinace aerobního a silového cvičení",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/34757594/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

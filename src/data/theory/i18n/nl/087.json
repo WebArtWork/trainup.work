@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Hoe lang herstel duurt",
+			"text": "Het hangt af van de oefening, het totale volume, de intensiteit, slaap, fitheid en hoe vertrouwd het werk is. Na een zware training voor een grote spiergroep is ongeveer 48–72 uur voor een even zware training een gangbare planningsrichtlijn. Het is een richtlijn, en sommige mensen hebben meer of minder nodig."
+		},
+		{
+			"title": "Tekenen dat je niet hersteld bent",
+			"text": "Spierpijn die langer aanhoudt dan gewoonlijk, minder herhalingen met hetzelfde gewicht, zware benen, weinig motivatie en veranderingen in je techniek kunnen allemaal wijzen op te veel vermoeidheid. Eén slechte training bewijst geen overtraining. Zoek naar trends over meerdere trainingen, vooral in combinatie met slechte slaap, ziekte of extra stress in de rest van je leven."
+		},
+		{
+			"title": "Spreid het zware werk",
+			"text": "Een gebruikelijke week kan full-body-krachttraining op maandag en donderdag hebben, met rustige wandelingen op andere dagen. Vaker krachttraining kan werken als je oefeningen of spiergroepen over de week verdeelt en het volume in de hand houdt. Rustige cardio of mobiliteit op een dag zonder tillen past meestal prima bij herstel."
+		},
+		{
+			"title": "Help je lichaam zich aan te passen",
+			"text": "Streef naar regelmatige slaap, genoeg eten en water, kleine trainingsverhogingen en rustdagen wanneer je ze nodig hebt. Spierpijn is geen score voor hoe goed de training was. Blijven je prestaties dalen, verminder dan het volume, kies makkelijkere varianten of voeg hersteltijd toe. Verhoog de intensiteit niet om het goed te maken."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Beoordeel na elke training je inspanning en meld eventuele pijn of ongemak. Als je het schema opnieuw maakt, kijkt TrainUp naar minstens 3 trainingen. Bij recente pijn volgt geen verhoging. Waren 2 van je laatste 3 trainingen zeer zwaar (RPE 9 of hoger) of voor minder dan 60% afgerond, dan wordt het volgende schema lichter. Geschiedenis toont je gemiddelde inspanning en een grafiek van 4 weken. Houden ernstige klachten aan, zoek dan medisch advies."
+		}
+	],
+	"sources": [
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: trainingsdosering, herstel en opbouw",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "NHS: spierpijn die later opkomt",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		}
+	]
+}

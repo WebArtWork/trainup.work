@@ -1,0 +1,620 @@
+{
+	"topics": [
+		"foundations",
+		"body",
+		"variables",
+		"patterns",
+		"programming",
+		"equipment",
+		"space",
+		"conditioning",
+		"mobility",
+		"recovery",
+		"safety",
+		"groups",
+		"progress",
+		"myths"
+	],
+	"theories": [
+		{
+			"n": 1,
+			"slug": "how-training-changes-the-body",
+			"topic": "foundations"
+		},
+		{
+			"n": 2,
+			"slug": "components-of-physical-fitness",
+			"topic": "foundations"
+		},
+		{
+			"n": 3,
+			"slug": "training-goals-general-fitness-strength-conditioning",
+			"topic": "foundations"
+		},
+		{
+			"n": 4,
+			"slug": "fitness-levels-beginner-intermediate-advanced",
+			"topic": "foundations"
+		},
+		{
+			"n": 5,
+			"slug": "readiness-check-when-to-consult-a-professional-first",
+			"topic": "foundations"
+		},
+		{
+			"n": 6,
+			"slug": "physical-activity-guidelines",
+			"topic": "foundations"
+		},
+		{
+			"n": 7,
+			"slug": "setting-realistic-training-goals",
+			"topic": "foundations"
+		},
+		{
+			"n": 8,
+			"slug": "consistency-and-training-habits",
+			"topic": "foundations"
+		},
+		{
+			"n": 9,
+			"slug": "major-muscle-groups",
+			"topic": "body"
+		},
+		{
+			"n": 10,
+			"slug": "how-muscles-work-concentric-eccentric-isometric",
+			"topic": "body"
+		},
+		{
+			"n": 11,
+			"slug": "muscle-fiber-types",
+			"topic": "body"
+		},
+		{
+			"n": 12,
+			"slug": "joints-and-range-of-motion",
+			"topic": "body"
+		},
+		{
+			"n": 13,
+			"slug": "the-spine-core-and-bracing",
+			"topic": "body"
+		},
+		{
+			"n": 14,
+			"slug": "energy-systems-in-exercise",
+			"topic": "body"
+		},
+		{
+			"n": 15,
+			"slug": "heart-rate-and-training-zones",
+			"topic": "body"
+		},
+		{
+			"n": 16,
+			"slug": "breathing-during-exercise",
+			"topic": "body"
+		},
+		{
+			"n": 17,
+			"slug": "motor-learning-how-technique-is-built",
+			"topic": "body"
+		},
+		{
+			"n": 18,
+			"slug": "muscle-growth-hypertrophy",
+			"topic": "body"
+		},
+		{
+			"n": 19,
+			"slug": "sets-reps-and-rest-periods",
+			"topic": "variables"
+		},
+		{
+			"n": 20,
+			"slug": "rep-ranges-and-what-they-train",
+			"topic": "variables"
+		},
+		{
+			"n": 21,
+			"slug": "training-volume",
+			"topic": "variables"
+		},
+		{
+			"n": 22,
+			"slug": "intensity-load-and-percentage-of-1rm",
+			"topic": "variables"
+		},
+		{
+			"n": 23,
+			"slug": "rating-of-perceived-exertion-rpe",
+			"topic": "variables"
+		},
+		{
+			"n": 24,
+			"slug": "reps-in-reserve-rir",
+			"topic": "variables"
+		},
+		{
+			"n": 25,
+			"slug": "lifting-tempo",
+			"topic": "variables"
+		},
+		{
+			"n": 26,
+			"slug": "timed-sets-and-holds",
+			"topic": "variables"
+		},
+		{
+			"n": 27,
+			"slug": "training-frequency",
+			"topic": "variables"
+		},
+		{
+			"n": 28,
+			"slug": "exercise-order-in-a-session",
+			"topic": "variables"
+		},
+		{
+			"n": 29,
+			"slug": "training-to-failure",
+			"topic": "variables"
+		},
+		{
+			"n": 30,
+			"slug": "planning-session-length",
+			"topic": "variables"
+		},
+		{
+			"n": 31,
+			"slug": "fundamental-movement-patterns",
+			"topic": "patterns"
+		},
+		{
+			"n": 32,
+			"slug": "the-squat-pattern",
+			"topic": "patterns"
+		},
+		{
+			"n": 33,
+			"slug": "the-hip-hinge-pattern",
+			"topic": "patterns"
+		},
+		{
+			"n": 34,
+			"slug": "lunges-and-single-leg-training",
+			"topic": "patterns"
+		},
+		{
+			"n": 35,
+			"slug": "horizontal-pushing",
+			"topic": "patterns"
+		},
+		{
+			"n": 36,
+			"slug": "vertical-pushing",
+			"topic": "patterns"
+		},
+		{
+			"n": 37,
+			"slug": "horizontal-pulling",
+			"topic": "patterns"
+		},
+		{
+			"n": 38,
+			"slug": "vertical-pulling",
+			"topic": "patterns"
+		},
+		{
+			"n": 39,
+			"slug": "core-training-anti-extension-anti-rotation-anti-lateral-flexion",
+			"topic": "patterns"
+		},
+		{
+			"n": 40,
+			"slug": "loaded-carries",
+			"topic": "patterns"
+		},
+		{
+			"n": 41,
+			"slug": "isolation-exercises",
+			"topic": "patterns"
+		},
+		{
+			"n": 42,
+			"slug": "balancing-push-and-pull",
+			"topic": "patterns"
+		},
+		{
+			"n": 43,
+			"slug": "principles-of-training",
+			"topic": "programming"
+		},
+		{
+			"n": 44,
+			"slug": "progressive-overload",
+			"topic": "programming"
+		},
+		{
+			"n": 45,
+			"slug": "double-progression",
+			"topic": "programming"
+		},
+		{
+			"n": 46,
+			"slug": "full-body-upper-lower-and-split-programs",
+			"topic": "programming"
+		},
+		{
+			"n": 47,
+			"slug": "structuring-a-training-week",
+			"topic": "programming"
+		},
+		{
+			"n": 48,
+			"slug": "periodization-basics",
+			"topic": "programming"
+		},
+		{
+			"n": 49,
+			"slug": "deload-weeks",
+			"topic": "programming"
+		},
+		{
+			"n": 50,
+			"slug": "choosing-exercises",
+			"topic": "programming"
+		},
+		{
+			"n": 51,
+			"slug": "progressions-and-regressions",
+			"topic": "programming"
+		},
+		{
+			"n": 52,
+			"slug": "supersets-and-circuits",
+			"topic": "programming"
+		},
+		{
+			"n": 53,
+			"slug": "training-plateaus",
+			"topic": "programming"
+		},
+		{
+			"n": 54,
+			"slug": "detraining-and-returning-after-a-break",
+			"topic": "programming"
+		},
+		{
+			"n": 55,
+			"slug": "bodyweight-training",
+			"topic": "equipment"
+		},
+		{
+			"n": 56,
+			"slug": "dumbbell-training",
+			"topic": "equipment"
+		},
+		{
+			"n": 57,
+			"slug": "kettlebell-training",
+			"topic": "equipment"
+		},
+		{
+			"n": 58,
+			"slug": "resistance-band-training",
+			"topic": "equipment"
+		},
+		{
+			"n": 59,
+			"slug": "barbell-training",
+			"topic": "equipment"
+		},
+		{
+			"n": 60,
+			"slug": "machines-and-cable-training",
+			"topic": "equipment"
+		},
+		{
+			"n": 61,
+			"slug": "pull-up-bar-installation-and-safety",
+			"topic": "equipment"
+		},
+		{
+			"n": 62,
+			"slug": "benches-steps-and-jump-ropes",
+			"topic": "equipment"
+		},
+		{
+			"n": 63,
+			"slug": "choosing-the-right-load",
+			"topic": "equipment"
+		},
+		{
+			"n": 64,
+			"slug": "training-with-household-substitutes",
+			"topic": "equipment"
+		},
+		{
+			"n": 65,
+			"slug": "usable-space-and-exercise-clearance",
+			"topic": "space"
+		},
+		{
+			"n": 66,
+			"slug": "ceiling-height-and-overhead-exercises",
+			"topic": "space"
+		},
+		{
+			"n": 67,
+			"slug": "training-surface-and-footwear",
+			"topic": "space"
+		},
+		{
+			"n": 68,
+			"slug": "noise-and-impact-when-training-at-home",
+			"topic": "space"
+		},
+		{
+			"n": 69,
+			"slug": "training-in-a-gym-etiquette-and-safety",
+			"topic": "space"
+		},
+		{
+			"n": 70,
+			"slug": "training-outdoors-weather-and-terrain",
+			"topic": "space"
+		},
+		{
+			"n": 71,
+			"slug": "building-an-aerobic-base",
+			"topic": "conditioning"
+		},
+		{
+			"n": 72,
+			"slug": "steady-state-cardio",
+			"topic": "conditioning"
+		},
+		{
+			"n": 73,
+			"slug": "interval-training",
+			"topic": "conditioning"
+		},
+		{
+			"n": 74,
+			"slug": "hiit-and-tabata",
+			"topic": "conditioning"
+		},
+		{
+			"n": 75,
+			"slug": "work-to-rest-ratios",
+			"topic": "conditioning"
+		},
+		{
+			"n": 76,
+			"slug": "low-impact-conditioning",
+			"topic": "conditioning"
+		},
+		{
+			"n": 77,
+			"slug": "plyometrics-and-jumping",
+			"topic": "conditioning"
+		},
+		{
+			"n": 78,
+			"slug": "running-technique-basics",
+			"topic": "conditioning"
+		},
+		{
+			"n": 79,
+			"slug": "jump-rope-skills",
+			"topic": "conditioning"
+		},
+		{
+			"n": 80,
+			"slug": "combining-strength-and-cardio",
+			"topic": "conditioning"
+		},
+		{
+			"n": 81,
+			"slug": "the-warm-up",
+			"topic": "mobility"
+		},
+		{
+			"n": 82,
+			"slug": "the-cool-down",
+			"topic": "mobility"
+		},
+		{
+			"n": 83,
+			"slug": "mobility-and-flexibility",
+			"topic": "mobility"
+		},
+		{
+			"n": 84,
+			"slug": "static-and-dynamic-stretching",
+			"topic": "mobility"
+		},
+		{
+			"n": 85,
+			"slug": "hip-mobility",
+			"topic": "mobility"
+		},
+		{
+			"n": 86,
+			"slug": "thoracic-spine-and-shoulder-mobility",
+			"topic": "mobility"
+		},
+		{
+			"n": 87,
+			"slug": "recovery-between-sessions",
+			"topic": "recovery"
+		},
+		{
+			"n": 88,
+			"slug": "sleep-and-training",
+			"topic": "recovery"
+		},
+		{
+			"n": 89,
+			"slug": "delayed-onset-muscle-soreness",
+			"topic": "recovery"
+		},
+		{
+			"n": 90,
+			"slug": "overreaching-and-overtraining",
+			"topic": "recovery"
+		},
+		{
+			"n": 91,
+			"slug": "hydration",
+			"topic": "recovery"
+		},
+		{
+			"n": 92,
+			"slug": "nutrition-basics-for-active-people",
+			"topic": "recovery"
+		},
+		{
+			"n": 93,
+			"slug": "daily-readiness-and-stress",
+			"topic": "recovery"
+		},
+		{
+			"n": 94,
+			"slug": "active-recovery",
+			"topic": "recovery"
+		},
+		{
+			"n": 95,
+			"slug": "technique-before-load",
+			"topic": "safety"
+		},
+		{
+			"n": 96,
+			"slug": "pain-or-discomfort-how-to-tell-the-difference",
+			"topic": "safety"
+		},
+		{
+			"n": 97,
+			"slug": "warning-signs-when-to-stop-immediately",
+			"topic": "safety"
+		},
+		{
+			"n": 98,
+			"slug": "axial-spinal-load",
+			"topic": "safety"
+		},
+		{
+			"n": 99,
+			"slug": "training-with-sensitive-knees",
+			"topic": "safety"
+		},
+		{
+			"n": 100,
+			"slug": "training-with-a-sensitive-lower-back",
+			"topic": "safety"
+		},
+		{
+			"n": 101,
+			"slug": "training-with-sensitive-shoulders",
+			"topic": "safety"
+		},
+		{
+			"n": 102,
+			"slug": "training-with-sensitive-wrists",
+			"topic": "safety"
+		},
+		{
+			"n": 103,
+			"slug": "coordination-difficulty-and-safe-exercise-choice",
+			"topic": "safety"
+		},
+		{
+			"n": 104,
+			"slug": "spotting-and-safe-bailing",
+			"topic": "safety"
+		},
+		{
+			"n": 105,
+			"slug": "starting-from-zero",
+			"topic": "groups"
+		},
+		{
+			"n": 106,
+			"slug": "training-after-50",
+			"topic": "groups"
+		},
+		{
+			"n": 107,
+			"slug": "strength-training-for-teenagers",
+			"topic": "groups"
+		},
+		{
+			"n": 108,
+			"slug": "exercise-during-pregnancy-and-after-childbirth",
+			"topic": "groups"
+		},
+		{
+			"n": 109,
+			"slug": "starting-exercise-with-excess-body-weight",
+			"topic": "groups"
+		},
+		{
+			"n": 110,
+			"slug": "short-workouts-for-busy-schedules",
+			"topic": "groups"
+		},
+		{
+			"n": 111,
+			"slug": "keeping-a-training-log",
+			"topic": "progress"
+		},
+		{
+			"n": 112,
+			"slug": "measuring-strength-progress",
+			"topic": "progress"
+		},
+		{
+			"n": 113,
+			"slug": "measuring-conditioning-progress",
+			"topic": "progress"
+		},
+		{
+			"n": 114,
+			"slug": "body-weight-trends-and-measurements",
+			"topic": "progress"
+		},
+		{
+			"n": 115,
+			"slug": "simple-fitness-tests",
+			"topic": "progress"
+		},
+		{
+			"n": 116,
+			"slug": "adjusting-the-plan-from-feedback",
+			"topic": "progress"
+		},
+		{
+			"n": 117,
+			"slug": "myth-you-can-burn-fat-from-one-body-part",
+			"topic": "myths"
+		},
+		{
+			"n": 118,
+			"slug": "myth-strength-training-makes-women-bulky",
+			"topic": "myths"
+		},
+		{
+			"n": 119,
+			"slug": "myth-cardio-destroys-muscle-gains",
+			"topic": "myths"
+		},
+		{
+			"n": 120,
+			"slug": "myth-no-pain-no-gain",
+			"topic": "myths"
+		}
+	]
+}

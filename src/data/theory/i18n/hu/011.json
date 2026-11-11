@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "I-es típusú rostok",
+			"text": "Gyakran lassú rostoknak nevezik őket: lassabban húzódnak össze, rostonként kisebb csúcserőt fejtenek ki, és jól bírják a fáradást. Hatékonyan használják az aerob anyagcserét, és a hosszú vagy ismétlődő, alacsony intenzitású tevékenységek, például a séta és az egyenletes kerékpározás munkájának nagy részét végzik."
+		},
+		{
+			"title": "II-es típusú rostok",
+			"text": "Ezeket tágan gyors rostoknak nevezik, és gyorsabban és erőteljesebben tudnak erőt kifejteni. Az embernél a IIa típusú rostok nagy kapacitással bírnak mind az oxidatív, mind a glikolitikus energiatermelésre, míg a IIx típusú rostok gyorsabbak és könnyebben elfáradnak. A rosttípusok keveréke izmonként és emberenként változik."
+		},
+		{
+			"title": "A toborzás az igényt követi",
+			"text": "A méretelv azt írja le, hogy az idegrendszered általában először a kisebb, alacsonyabb küszöbű motoros egységeket toborozza, és a magasabb küszöbű egységeket akkor adja hozzá, ahogy nő a szükséges erő. A nehéz emelések korán toborozzák a magas küszöbű motoros egységeket. A könnyebb terhelések is toborozhatják őket a fáradás növekedésével, ha az erőkifejtés elég magas lesz. Ez segít megmagyarázni, miért nőhetnek az izmak a terhelések meglehetősen széles tartományában."
+		},
+		{
+			"title": "Mit változtat az edzés",
+			"text": "Az állóképességi edzés javítja az aerob gépezetedet és a fáradásállóságot. Az ellenállás- és teljesítményedzés javítja az erőkifejtést, és izmot építhet. Egyes rostjellemzők változnak az edzéstől, de a genetika, az edzéstörténet és az életkor befolyásolja az eredményt, ezért félrevezető valakit „gyors rostú embernek” vagy „lassú rostú embernek” nevezni."
+		},
+		{
+			"title": "Példa",
+			"text": "Egy 40 másodperces saját testsúlyos guggolássorozat és egy kemény, ötismétlésnyi súlyos guggolás eltérően terheli az ideg-izom rendszeredet. Mindkettő hasznos lehet, de a súlyos sorozat specifikusabban gyakorolja a nagy erő kifejtését. Nem kell megvizsgálnod a rostösszetételedet egy teljes program felépítéséhez. Az ismétlést, a pihenőt és a kondicionáló munkát a kívánt adaptációhoz és ahhoz válaszd, mennyire mozogsz jól, ne olyan rosttípus-címkéhez, amelyet senki sem ellenőrzött."
+		}
+	],
+	"sources": [
+		{
+			"label": "Az ellenállásedzés és az ismétlési kontinuum",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

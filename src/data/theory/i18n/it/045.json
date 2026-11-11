@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Scegli un range di ripetizioni",
+			"text": "Scegli un esercizio, un numero di serie e un range, per esempio tre serie da 8–12 ripetizioni. Inizia con un peso che ti permetta di raggiungere la parte bassa del range con tecnica stabile e qualche ripetizione di riserva. Il range non deve essere per forza 8–12. Il tuo obiettivo e l’esercizio decidono i limiti."
+		},
+		{
+			"title": "Guadagnati l’aumento di carico",
+			"text": "Per prima cosa, fai più ripetizioni buone con lo stesso peso nel corso di diverse sessioni. Quando ogni serie raggiunge la parte alta del range con lo sforzo che avevi pianificato, aggiungi il più piccolo incremento di peso che hai. Le tue ripetizioni di solito scenderanno di nuovo verso il limite basso, e il ciclo ricomincia."
+		},
+		{
+			"title": "Esempio",
+			"text": "Settimana 1: rematore con manubrio a 12 kg per 10, 9, 8. Settimana 2: 11, 10, 9. Settimana 3: 12, 12, 12 con controllo stabile. Settimana 4: prova 14 kg per 9, 8, 8, se riesci a gestire quel salto con buona forma. Questi numeri mostrano come può andare. Non devi migliorare ogni settimana."
+		},
+		{
+			"title": "Quando adattare la regola",
+			"text": "Un grosso salto di peso può essere troppo duro, soprattutto per i muscoli piccoli o con attrezzatura limitata a casa. In quel caso, resta al carico attuale, aggiungi ripetizioni totali o scegli una variante intermedia. Se una sessione ti stanca in modo insolito, ripeti l’ultimo obiettivo e rimanda la progressione. I progressi reali spesso salgono e scendono."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il tuo piano assegna a ogni esercizio serie e un obiettivo di ripetizioni, e durante un allenamento registri le ripetizioni che completi in ogni serie. TrainUp non prescrive i pesi, quindi sei tu a decidere quando aggiungere carico. Quando raggiungi la parte alta del range in ogni serie, controlla il tuo RPE e la tua tecnica prima di passare a un peso maggiore."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: sicurezza e fondamenti dell’allenamento coi pesi",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: tecnica dell’allenamento coi pesi (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

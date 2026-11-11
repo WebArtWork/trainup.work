@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "L’objectif d’entraînement",
+			"text": "Les exercices pliométriques développent votre capacité à produire de la force rapidement ; l’essoufflement n’est pas le but. Les exemples sont les petits sauts pogo, les squats sautés, les sauts latéraux et les bonds. Des sauts plus rapides ou plus hauts demandent plus de coordination et provoquent plus d’impact, donc votre niveau de départ dépend de votre force, de votre contrôle à la réception et de vos antécédents d’entraînement."
+		},
+		{
+			"title": "Pratiquez une réception contrôlée",
+			"text": "Commencez par des petits sauts faciles et réceptionnez-vous en fléchissant ensemble les hanches, les genoux et les chevilles. Visez un contact des pieds équilibré et un tronc contrôlé, sans genoux verrouillés ni réceptions bruyantes et bâclées. Vos genoux n’ont pas à rester parfaitement immobiles, mais ils ne doivent pas perdre soudainement le contrôle. Arrêtez-vous si vous ressentez une douleur ou si vous trébuchez sans cesse."
+		},
+		{
+			"title": "Progressez un paramètre à la fois",
+			"text": "Rendez les sauts plus difficiles progressivement, par exemple de petits sauts à deux pieds vers des sauts verticaux modestes avant d’essayer des bonds répétés ou sur une jambe. Les caisses hautes, les sauts en contrebas et les sauts lestés demandent plus de maîtrise et sont de mauvais premiers pas. N’ajoutez de la hauteur, de la vitesse ou du travail sur une jambe que lorsque les répétitions plus faciles restent fiables."
+		},
+		{
+			"title": "Comptez les bons contacts",
+			"text": "Les contacts au sol, c’est-à-dire le nombre de fois où vos pieds se posent, servent souvent à mesurer le volume de pliométrie du bas du corps. Si vous débutez, un petit nombre de contacts contrôlés peut suffire, même si les programmes sportifs indiquent des totaux plus élevés. Reposez-vous assez entre les courtes séries. Un circuit de sauts fatigant ne développe pas la puissance comme le font des répétitions explosives et fraîches."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Le programme n’inclut des exercices de saut que si votre Profil autorise les sauts et le bruit qu’ils font, et si votre surface et la taille de votre espace au sol conviennent. Votre niveau compte aussi. Si l’un de ces éléments ne convient pas, entraînez-vous avec des exercices de force ou de cardio à faible impact. Si une réception fait mal, appuyez sur « J’ai mal » : l’exercice s’arrête aussitôt et reste hors de vos programmes jusqu’à ce que vous le réactiviez depuis Profil."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Résumé des recommandations 2026 de l’ACSM sur la musculation",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Bibliothèque d’exercices de l’ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

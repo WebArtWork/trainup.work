@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Las articulaciones y cómo se mueven",
+			"text": "El codo funciona sobre todo como una bisagra, y permite la flexión y la extensión. El hombro y la cadera son articulaciones esféricas que pueden moverse en varias direcciones. La columna tiene muchas articulaciones, y su movimiento combinado ayuda a colocarte y a transmitir la carga. El movimiento real de una articulación nunca es tan sencillo como el dibujo de un libro de texto."
+		},
+		{
+			"title": "Rango de movimiento (ROM)",
+			"text": "El ROM activo es el rango que puedes alcanzar con tus propios músculos. El ROM pasivo es el rango que puedes alcanzar con ayuda externa, y puede ser mayor. Un rango activo limitado puede venir de debilidad, de habilidad, de rigidez, de dolor o de una mezcla de estos factores, así que los «músculos tensos» no siempre son toda la explicación. Las proporciones corporales y la estructura de la articulación también afectan a lo cómoda que se siente la profundidad de un ejercicio."
+		},
+		{
+			"title": "Repeticiones completas y parciales",
+			"text": "Una repetición completa usa el rango previsto y seguro para ese ejercicio. No significa forzar la articulación hasta su límite anatómico. Las pruebas respaldan entrenar por un rango completo que puedas controlar para ganar fuerza en muchos contextos, y las repeticiones parciales pueden ayudar cuando se planifican a propósito. Un rango más corto sin dolor puede ser mejor opción que uno profundo y doloroso."
+		},
+		{
+			"title": "Comprobaciones prácticas",
+			"text": "En una sentadilla, fíjate en si tus pies siguen en contacto con el suelo, si tu tronco se mantiene controlado y si tus rodillas y caderas se mueven con comodidad. En un press por encima de la cabeza, comprueba si los brazos llegan arriba sin un gran arco en la zona lumbar. Si un movimiento se descontrola abajo o arriba, cambia la profundidad, el agarre o la variante del ejercicio."
+		},
+		{
+			"title": "Ampliar tu rango",
+			"text": "Primero encuentra el rango que puedes controlar, luego repítelo de forma fiable y después amplíalo si es útil y cómodo. El rango es una variable de entrenamiento más, junto con otras como la carga, las repeticiones y la estabilidad."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Si el movimiento en una zona del cuerpo es limitado, añádelo como limitación en Perfil, con notas, para que el plan elija ejercicios que encajen. TrainUp no puede saber si el movimiento restringido viene de un problema médico. Si una limitación es dolorosa y no desaparece, pide a un médico o a un fisioterapeuta que la evalúe."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Directrices de actividad de la OMS",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

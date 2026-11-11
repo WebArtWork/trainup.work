@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Készülj fel, mielőtt megterhelnéd a rudat",
+			"text": "Ellenőrizd, hogy a pad, az állvány, a rúd, a zárak és a padló megfelelnek a gyakorlatnak. Guggolóállványban a megfelelő magasságra állított biztonsági csapok vagy pántok elkapják a rudat, ha nem tudsz felállni vele. Ha egyedül edzel, ne próbálj közel maximális fekvenyomást biztonsági megoldások nélkül."
+		},
+		{
+			"title": "Mit csinál egy segítő",
+			"text": "Rudas fekvenyomás előtt egyeztess a segítőddel arról, szeretnél-e kiemelést, mikor kezdjen segíteni, és milyen vezényszavakat használtok. A segítőnek képesnek kell lennie segíteni, és nem szabad elvonnia a figyelmedet. Egyetlen tapasztalatlan segítő nem garantálhatja a biztonságodat nagyon nagy terhelés alatt."
+		},
+		{
+			"title": "A lehagyás a felszereléstől függ",
+			"text": "Az olimpiai emelőplatformokat és a bumper tárcsákat bizonyos kontrollált leejtésekre készítették. Az otthoni padlók, a zsúfolt konditermek és az állítható súlyzók lehet, hogy nem. Soha ne gyakorolj rögtönzött vészleejtést emberek vagy törékeny felszerelés közelében. Mielőtt nehéz emeléseket próbálnál, tanuld meg a felszerelésed menekülési módját képzett oktatótól."
+		},
+		{
+			"title": "Csökkentsd a mentés szükségességét",
+			"text": "Hagyj tartalék ismétléseket, válassz olyan terhelést, amelyet kontrollálni tudsz, és használj gépi vagy súlyzós változatot, ha jobban illik a felállásodhoz. A fejlődéshez nem kell az izomkimerülésig edzened, főleg az összetett emeléseknél."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A TrainUp nem feltételezi, hogy van segítőd, állványod vagy biztonságos helyed a súlyok leejtésére. A terv csak olyan gyakorlatokat választ, amelyek illenek a Profilban megadott felszereléshez és térhez, ezért tartsd pontosan ezeket a beállításokat. Súlyokat sem ír elő: te választod a terhelést."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026-os gyakorlati útmutató",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

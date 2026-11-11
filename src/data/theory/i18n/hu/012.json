@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Az ízületek és mozgásuk",
+			"text": "A könyök főként csuklópántként működik, hajlítást és feszítést tesz lehetővé. A váll és a csípő gömbcsuklók, amelyek több irányban mozoghatnak. A gerincnek sok ízülete van, és az összesített mozgásuk segíti a testhelyzetet és a terhelés továbbítását. A valódi ízületi mozgás sosem olyan egyszerű, mint egy tankönyvi ábra."
+		},
+		{
+			"title": "Mozgástartomány (ROM)",
+			"text": "Az aktív mozgástartomány az, amit a saját izmaiddal elérsz. A passzív mozgástartomány az, amit külső segítséggel érsz el, és ez nagyobb lehet. A korlátozott aktív tartomány eredhet gyengeségből, készségből, merevségből, fájdalomból vagy ezek keverékéből, ezért a „rövid izmok” nem mindig a teljes magyarázat. A testarányok és az ízületi felépítés is befolyásolják, milyen mélyen érződik kényelmesnek egy gyakorlat."
+		},
+		{
+			"title": "Teljes és részleges ismétlések",
+			"text": "A teljes ismétlés a gyakorlat tervezett, biztonságos tartományát használja. Ez nem azt jelenti, hogy az ízületet az anatómiai határáig erőlteted. A bizonyítékok sok helyzetben támogatják az erőhöz a teljes, uralható tartományon át végzett edzést, és a részleges ismétlések is segíthetnek, ha szándékosan tervezik őket. Egy fájdalommentes rövidebb tartomány jobb választás lehet, mint egy mély, fájdalmas."
+		},
+		{
+			"title": "Gyakorlati ellenőrzések",
+			"text": "Guggolásnál figyeld, hogy a lábfejed érintkezik-e a talajjal, a törzsed kontrollált marad-e, és a térded meg a csípőd kényelmesen mozog-e. Fej feletti nyomásnál ellenőrizd, hogy a karjaid fej fölé érnek-e nagy ív nélkül az alsó hátadban. Ha egy mozgás az alsó vagy felső ponton kontrollálatlanná válik, változtass a mélységen, a fogáson vagy a gyakorlat változatán."
+		},
+		{
+			"title": "A tartomány bővítése",
+			"text": "Először találd meg az uralható tartományt, aztán ismételd megbízhatóan, végül bővítsd, ha hasznos és kényelmes. A tartomány egy edzésváltozó a többi mellett, mint a terhelés, az ismétlések és a stabilitás."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Ha egy testrészen korlátozott a mozgás, add hozzá korlátként a Profilban, megjegyzéssel, hogy a terv megfelelő gyakorlatokat válasszon. A TrainUp nem tudja megmondani, hogy a korlátozott mozgás orvosi problémából ered-e. Ha egy korlát fájdalmas, és nem múlik el, kérj orvosi vagy gyógytornászi értékelést."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO aktivitási irányelvek",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

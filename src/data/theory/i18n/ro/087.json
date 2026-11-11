@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Cât durează refacerea",
+			"text": "Depinde de exercițiu, de volumul total, de intensitate, de somn, de condiția fizică și de cât de familiară este munca. După o sesiune grea pentru o grupă musculară mare, aproximativ 48–72 de ore înainte de o altă sesiune la fel de grea sunt un reper obișnuit de planificare. Este o recomandare, iar unii oameni au nevoie de mai mult sau de mai puțin."
+		},
+		{
+			"title": "Semne că nu te-ai refăcut",
+			"text": "Durerea musculară care persistă mai mult decât de obicei, mai puține repetări la aceeași sarcină, picioarele grele, motivația scăzută și schimbările în tehnica ta pot indica toate prea multă oboseală. O sesiune proastă nu dovedește supraantrenamentul. Caută tendințe pe parcursul mai multor antrenamente, mai ales împreună cu somn slab, boală sau stres suplimentar în restul vieții."
+		},
+		{
+			"title": "Distribuie munca grea",
+			"text": "O săptămână tipică poate avea forță pentru tot corpul luni și joi, cu plimbări ușoare în celelalte zile. Antrenarea forței mai des poate funcționa când distribui exercițiile sau grupele musculare pe parcursul săptămânii și ții volumul sub control. Cardio ușor sau mobilitatea într-o zi fără ridicări se potrivesc de obicei bine cu refacerea."
+		},
+		{
+			"title": "Ajută-ți corpul să se adapteze",
+			"text": "Urmărește un somn regulat, destulă mâncare și apă, creșteri mici în antrenament și zile de odihnă când ai nevoie. Durerea musculară nu este un scor pentru cât de bun a fost antrenamentul. Dacă performanța continuă să scadă, redu volumul, alege variante mai ușoare sau adaugă timp de refacere. Nu crește intensitatea ca să compensezi."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "După fiecare antrenament, evaluează-ți efortul și raportează orice durere sau disconfort. Când regenerezi planul, TrainUp se uită la cel puțin 3 antrenamente. Orice durere recentă înseamnă nicio creștere. Dacă 2 din ultimele tale 3 antrenamente au fost foarte grele (RPE 9 sau mai mult) sau finalizate sub 60%, următorul plan este mai ușor. Istoricul arată efortul tău mediu și un grafic pe 4 săptămâni. Dacă simptomele severe persistă, cere sfat medical."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: dozarea exercițiului, refacerea și progresia",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "NHS: durerea musculară cu debut tardiv",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		}
+	]
+}

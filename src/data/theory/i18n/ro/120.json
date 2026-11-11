@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Efort și vătămare",
+			"text": "Oboseala musculară, respirația grea și o arsură temporară pot însoți un exercițiu greu. Durerea ascuțită, disconfortul nou la articulații, durerea care se răspândește sau amețeala nu sunt realizări. Corpul tău se adaptează când un antrenament greu, dar tolerabil, este urmat de refacere suficientă. Durerea nu este ceea ce îl face să funcționeze."
+		},
+		{
+			"title": "Durerea musculară este un scor slab",
+			"text": "Durerea musculară cu debut tardiv este deosebit de frecventă după exerciții necunoscute sau grele. Adesea dispare pe măsură ce corpul se obișnuiește cu o mișcare, în timp ce forța și condiția fizică continuă să se îmbunătățească. O sesiune care te lasă abia cu dureri poate fi totuși productivă, iar prea multă durere musculară poate face greu să te antrenezi constant."
+		},
+		{
+			"title": "Progres fără pedeapsă",
+			"text": "Alege repetări care provoacă, dar rămân controlate, crește treptat cerințele antrenamentului și include zile de odihnă sau mai ușoare. A termina o serie cu câteva repetări în rezervă poate fi rezonabil. Cercetările nu arată că adultul sănătos obișnuit trebuie să ajungă iar și iar la cedare musculară momentană ca să obțină rezultate valoroase."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Un începător care face două antrenamente pe săptămână pentru tot corpul și adaugă constant repetări la genuflexiuni și flotări poate progresa fără să se simtă distrus după fiecare sesiune."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "După un antrenament, evaluezi efortul sesiunii (RPE) și raportezi orice durere cu zona corpului și exercițiul. Dacă ceva doare în timpul unui antrenament, folosește „Simt durere” ca să închei imediat exercițiul; rămâne în afara planurilor tale până îl reactivezi din Profil. Orice durere recentă înseamnă că următorul plan nu va deveni mai greu. Durerea nouă sau severă este un motiv să te oprești și să ceri o evaluare."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Ghid practic ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		},
+		{
+			"label": "NHS: durerea de articulații",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		}
+	]
+}

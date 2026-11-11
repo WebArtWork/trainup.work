@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Comece pelos seus dias livres",
+			"text": "Escolha os dias em que consegue mesmo treinar antes de optar por uma divisão complicada. Com dois dias, um horário de corpo inteiro à segunda e à quinta deixa vários dias de recuperação entre eles. Com três, segunda, quarta e sexta é simples. Com quatro, pode distribuir duas sessões superiores e duas inferiores ao longo da semana. São exemplos, e outras organizações também funcionam."
+		},
+		{
+			"title": "Recuperação entre sessões relacionadas",
+			"text": "Muitos iniciantes dão-se bem com cerca de um ou dois dias entre treinos difíceis para os mesmos músculos, sobretudo enquanto as dores musculares ainda são novidade. As 48 horas, tantas vezes citadas, são uma orientação prática. O seu historial de treino, o esforço, a escolha de exercícios e o sono alteram a recuperação de que precisa."
+		},
+		{
+			"title": "Onde pôr o trabalho difícil",
+			"text": "Os levantamentos pesados e os que exigem muita técnica correm melhor quando está relativamente fresco. Dobras de anca, agachamentos e intervalos de sprint muito exigentes em dias seguidos podem acumular uma fadiga desnecessária. Caminhadas leves ou trabalho de mobilidade podem ficar entre os dias de força e não contam como outro treino difícil."
+		},
+		{
+			"title": "Uma semana flexível",
+			"text": "Se faltar a um treino, passe-o para um dia livre ou continue com a sessão seguinte. Não concentre todo o trabalho em falta num só dia nem junte sessões difíceis para o mesmo movimento só para atingir um número semanal. Acompanhe o seu desempenho e a sua fadiga ao longo de várias semanas. Cada semana do calendário não precisa do mesmo volume."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "No Perfil define quantos dias por semana treina, quanto dura uma sessão e que dias prefere, e pode alterá-los a qualquer momento. A partir do ecrã Hoje pode ativar lembretes de treino para os dias e as horas que escolheu. O Histórico mostra os seus treinos desta semana, o seu esforço médio e um gráfico das últimas 4 semanas, o que ajuda a acompanhar a fadiga ao longo das semanas."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: orientações sobre força e flexibilidade",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		},
+		{
+			"label": "NSCA: segurança e fundamentos do treino de resistência",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

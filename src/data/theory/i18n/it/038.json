@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Le basi delle trazioni",
+			"text": "Usa una sbarra sicura e un’impugnatura comoda per spalle e mani. Contrai il tronco, tira finché la parte superiore del corpo raggiunge un’altezza costante che riesci a gestire e scendi con controllo. La posizione iniziale delle spalle e il range dipendono dalla tua forza e dal tuo comfort. Non devi partire a ogni ripetizione da un dead hang completamente passivo."
+		},
+		{
+			"title": "Progressioni",
+			"text": "I principianti possono esercitarsi con sospensioni assistite, esercizi di controllo delle scapole, trazioni assistite con elastico o con macchina e poi ripetizioni lente in discesa. Il lat machine allena un movimento simile con una resistenza che puoi regolare. Quando riesci a fare diverse trazioni controllate, aggiungi ripetizioni prima di aggiungere peso. Non spingere le ripetizioni in discesa al punto che presa o spalle perdano il controllo."
+		},
+		{
+			"title": "Trazioni e lat machine",
+			"text": "In una trazione il corpo si muove verso una sbarra fissa, il che richiede molta stabilità di tutto il corpo. Nel lat machine è la maniglia a venire da te, e il carico può cambiare a piccoli passi. Entrambi sviluppano la forza di trazione, e non ti serve nessuno dei due per essere in forma in generale. Le trazioni con presa supina usano un’impugnatura dal basso e spesso si sentono in modo diverso a gomiti e spalle."
+		},
+		{
+			"title": "Sicurezza e allestimento",
+			"text": "Assicurati che una sbarra per casa sia installata correttamente e omologata per il tuo peso e per il movimento su di essa. Evita i supporti allentati agli stipiti delle porte e le travi che nessuno ha collaudato. Non forzare i lat machine dietro la nuca e non dondolare il corpo per strappare ripetizioni in più. Scegli un’impugnatura che tolleri e fermati se senti un dolore insolito."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "In Profilo indichi se una sbarra per trazioni è installata in sicurezza. Se non lo è, il tuo piano esclude le trazioni e sceglie altre trazioni adatte alla tua attrezzatura, come un lat machine o una trazione orizzontale. Non improvvisare un ancoraggio. Annota assistenza, impugnatura e range, perché ognuno cambia la difficoltà dell’esercizio."
+		}
+	],
+	"sources": [
+		{
+			"label": "Libreria di esercizi ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: tecnica dell’allenamento coi pesi (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: sicurezza e fondamenti dell’allenamento coi pesi",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

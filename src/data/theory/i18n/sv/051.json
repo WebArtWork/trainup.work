@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Variabler du kan justera",
+			"text": "Hävarm, motstånd, stöd, rörelseomfång och tempo ändrar alla hur tung en övning är. En armhävning med upphöjda händer är i allmänhet lättare än en armhävning mot golvet, eftersom dina armar bär mindre av din kroppsvikt. En lätt hantel gör en knäböj svårare, och att hålla i ett stabilt stöd gör ett utfall lättare att balansera."
+		},
+		{
+			"title": "Exempel på armhävningar",
+			"text": "Börja mot en vägg eller en stadig hög yta och sänk sedan händerna till en säker bänk eller bänkskiva när du blir starkare. Gå vidare till armhävningar mot golvet och senare, om det är till nytta, en variant med upphöjda fötter eller extra vikt. En armhävning på knä och de olika armhävningarna med upphöjda händer är inte alla lika svåra, så testa vilken som låter dig göra kontrollerade repetitioner."
+		},
+		{
+			"title": "Exempel på knäböj och drag",
+			"text": "En stolsknäböj kan leda till en knäböj med kroppsvikt utan stöd och sedan en goblet-knäböj. För vertikala drag kan en latsdrag eller assisterad hakhävning komma före repetitioner utan hjälp. Skriv ner varje förändring av grepp, hjälp, rörelseomfång eller vikt, så att du vet vad en bättre siffra i din logg egentligen betyder."
+		},
+		{
+			"title": "När du ska ändra",
+			"text": "Gå upp en nivå när du når ditt målintervall med stabil teknik och måttlig ansträngning. Gå ner en nivå om övningen får din kropp att vrida sig eller förskjutas mycket för att klara den, om du ständigt misslyckas med repetitioner eller om balanskravet känns osäkert. Om något känns obekvämt, avbryt och bedöm läget på nytt. Smärta som kvarstår eller känns ovanlig bör kontrolleras av en läkare eller fysioterapeut."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ditt program väljer övningar som passar din nivå, koordination, utrustning, takhöjd, golvyta och de begränsningar du angett. När du skapar det på nytt ändras det ett steg i taget. Det blir svårare först när dina senaste 4 pass var lätta (RPE 5 eller lägre) och fullständiga utan nylig smärta, och lättare när 2 av de senaste 3 var mycket tuffa (RPE 9 eller mer) eller mindre än 60 % genomförda."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Mayo Clinic: teknik vid styrketräning (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

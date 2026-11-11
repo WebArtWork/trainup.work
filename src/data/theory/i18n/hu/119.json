@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Mi a párhuzamos edzés",
+			"text": "Az erőedzés azt a képességedet terheli, hogy mennyi erőt termelnek az izmaid, az aerob mozgás pedig azt javítja, mennyi ideig bírod. Az általános egészséghez mindkettőből profitálsz. Az úgynevezett interferenciahatás olyan eseteket ír le, amikor mindkét fajta kemény edzés kombinálása csökkenthet bizonyos nyereségeket ahhoz képest, mintha csak az egyiket végeznéd."
+		},
+		{
+			"title": "Mit mutatnak az áttekintések",
+			"text": "Egy szisztematikus áttekintés azt találta, hogy az aerob és az erőedzés kombinálása átlagosan nem csökkentette jelentősen a teljes izomnövekedést vagy a maximális erőt. A robbanékony erő nyeresége valamivel jobban érintett volt, különösen ha mindkét edzésfajtát ugyanazon az alkalmon végezték. A pontos eredmény a mennyiségtől, a gyakorlat típusától, az időzítéstől és az edzéstörténettől függ."
+		},
+		{
+			"title": "Tervezz a prioritásod köré",
+			"text": "Ha a maximális emelés a fő célod, a legjobb erőmunkát a kemény kardió előtt végezd, vagy tedd a megterhelő edzéseket külön napokra, amikor tudod. Ha az általános erőnlétre összpontosítasz, bonyolult beosztás nélkül kombinálhatod a könnyű kardiót és az erőt. A regeneráció és az összmunka számít többet, és egyik edzésfajta sem ellensége a másiknak."
+		},
+		{
+			"title": "Példa",
+			"text": "Heti két egész testes erőedzés plusz mérsékelt kerékpározás vagy séta a többi napon egyszerre több képességet építhet. Egy versenyző robbanékonysági sportoló óvatosabb lehet azzal, hogy kemény intervallumokat végezzen közvetlenül robbanékony emelés előtt."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "Válaszd ki fő fókuszodat célként a Profilban: általános erőnlét, erő vagy állóképesség. Nem kell mindenre külön nap, és egyetlen kardióedzés sem törli el az izomgyarapodásodat."
+		}
+	],
+	"sources": [
+		{
+			"label": "Szisztematikus áttekintés: az aerob és az erőgyakorlatok kombinálása",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/34757594/"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

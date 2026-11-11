@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Rowing technique",
+			"text": "Start from a stable position and pull toward your lower ribs or hip, depending on the exercise. Let your shoulder blades move naturally as your arms reach out and pull back, and don’t throw your torso to build momentum. You don’t need to force your elbows into one angle, and the range ends where you can still control it."
+		},
+		{
+			"title": "Equipment variations",
+			"text": "A one-arm dumbbell row works each side on its own, and you can rest a hand on a secure bench for support. Seated cable rows let you adjust the load in small steps. Band rows need a secure anchor, and the resistance changes through the rep. Bodyweight inverted rows get easier as your body gets more upright and harder as it gets closer to horizontal."
+		},
+		{
+			"title": "What changes the difficulty",
+			"text": "Torso angle, support, handle width, elbow path, load and range of motion all change how hard a row is. A chest-supported row takes away the need to hold a bent-over hinge, which helps when you want to train your back and not your hinge endurance. It is also a good choice when holding a long hinge doesn’t suit you. Log different row variations separately, since their numbers aren’t interchangeable."
+		},
+		{
+			"title": "Typical mistakes",
+			"text": "Avoid shrugging hard, jerking with your lower back, or cutting the range short just to lift more. When your position slips, lighten the load and slow the lowering phase. Home rows using a table or a towel are only safe if the anchor and the structure can reliably hold your moving body weight."
+		},
+		{
+			"title": "Planning your week",
+			"text": "Pair rows with horizontal presses across the week. Choose row variations that match your equipment, where you can safely anchor a band, and the loads you have."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE exercise library",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: weight-training technique (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: safety and resistance-training fundamentals",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

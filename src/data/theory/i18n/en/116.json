@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Signals to gather",
+			"text": "Compare the sets and reps you were given with what you completed. Look at load, session RPE, soreness, missed sessions and any new limitations, since each shows a different part of the picture. One high RPE or one missed workout doesn’t prove the plan is wrong for you."
+		},
+		{
+			"title": "When sessions feel too easy",
+			"text": "If you keep hitting the target with steady technique and low effort, think about adding a few reps, a little load or slightly more volume. Change one variable and see how you respond before you add anything else."
+		},
+		{
+			"title": "When sessions feel too hard",
+			"text": "Repeatedly missing targets, form that breaks down or fatigue that won’t go away can be reasons to lower the load or volume, switch to an easier exercise or take more recovery. A new painful area calls for a fresh look at your limitations and possibly professional advice. Don’t try to diagnose it yourself."
+		},
+		{
+			"title": "Example",
+			"text": "You do goblet squats at 3 × 10 for two weeks at around RPE 5 with good control. Next time you could pick a slightly heavier dumbbell and drop back to eight reps. If the same movement keeps hurting, don’t simply make it harder."
+		},
+		{
+			"title": "Using TrainUp",
+			"text": "Your plan changes only when you regenerate it, and never from fewer than 3 workouts. Any recent pain means no increase. If 2 of your last 3 workouts were very hard (RPE 9 or more) or less than 60% finished, the next plan is easier. If your last 4 were easy (RPE 5 or less) and complete, it gets a step harder, one step at a time. Pain rules come before performance, finished workouts are never changed, and you choose the load yourself."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026 practical guidance",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

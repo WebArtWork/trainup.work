@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Die wichtigsten Komponenten",
+			"text": "Kraft ist die Fähigkeit, Kraft zu erzeugen, und Schnellkraft ist Kraft, die schnell erzeugt wird. Kraftausdauer bedeutet, Muskelkontraktionen zu wiederholen oder zu halten. Die Herz-Kreislauf-Ausdauer trägt längere Belastungen und hängt von Herz, Lunge, Kreislauf und Muskeln ab. Beweglichkeit ist die Fähigkeit, dich aktiv durch nützliche Bewegungsbereiche zu bewegen, während Dehnbarkeit beschreibt, wie weit ein Gewebe oder Gelenk beim Dehnen geht. Gleichgewicht und Koordination helfen dir, Bewegung zu kontrollieren."
+		},
+		{
+			"title": "Körperzusammensetzung",
+			"text": "Die relativen Anteile von Muskeln, Fett, Knochen und anderem Gewebe können für Gesundheit oder Sport eine Rolle spielen, beschreiben Fitness aber nicht vollständig. Zwei Menschen mit ähnlichem Körpergewicht können sich stark in Kraft, Herz-Kreislauf-Leistung oder Bewegungsgeschick unterscheiden. Das Aussehen kann nicht ersetzen, zu testen, was du tatsächlich kannst."
+		},
+		{
+			"title": "Wie die Komponenten zusammenspielen",
+			"text": "Eine Kniebeuge braucht Bein- und Rumpfkraft, genug Beweglichkeit für die gewählte Tiefe und Koordination, um die Last unter Kontrolle zu halten. Eine Wanderung beansprucht stärker die aerobe Ausdauer und die Kraftausdauer, obwohl auch Kraft und Gleichgewicht helfen. Eine Fähigkeit zu verbessern kann einer anderen nützen, trainiert aber nicht alle gleichermaßen."
+		},
+		{
+			"title": "Training nach Ziel",
+			"text": "Eine Woche für allgemeine Fitness kann zwei Ganzkörper-Krafteinheiten, moderates Gehen oder Radfahren und kurze Gleichgewichts- oder Beweglichkeitsarbeit enthalten. Ein Kraftschwerpunkt nutzt Übungen mit Widerstand, die mit der Zeit schwerer werden, mit genug Pause zwischen den Belastungen. Ein Konditionsschwerpunkt verbringt mehr Zeit mit anhaltender Bewegung und Intervallen und behält etwas Krafttraining bei."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Wähle im Profil ein Hauptziel und mache weiterhin etwas für die anderen Fähigkeiten. Messe den Fortschritt mit dem, was zu jeder passt: Wiederholungen oder Last für die Kraft, Tempo und Atmung für die Kondition, kontrollierter Bewegungsumfang für die Beweglichkeit. Beurteile eine Einheit nicht danach, wie viel du geschwitzt oder wie viele Kalorien du verbrannt hast."
+		}
+	],
+	"sources": [
+		{
+			"label": "HHS: Konzepte der körperlichen Fitness",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO-Empfehlungen",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

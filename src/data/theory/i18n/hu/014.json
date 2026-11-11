@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Azonnali nagy teljesítményű energia",
+			"text": "Az ATP-kreatinfoszfát (foszfagén) rendszer gyorsan képes újratölteni az ATP-t rövid, nagy teljesítményű erőkifejtések során, mint egy ugrás, egy sprintrajt vagy egy nehéz sorozat. Csak rövid ideig képes fenntartani a maximális teljesítményt, ami segít megmagyarázni, miért állíthat helyre néhány perc pihenő a teljesítményt a kemény erő- vagy sebességi erőkifejtések között."
+		},
+		{
+			"title": "Gyors szénhidrátbontás",
+			"text": "Az anaerob glikolízis szénhidrátból állít elő ATP-t, és az ezt előállító reakciókhoz nem kell oxigén. A legfontosabb a néhány másodperctől pár percig tartó kemény erőkifejtéseknél. A laktátot gyakran „hulladéknak” nevezik, vagy az izomláz egyetlen okának hiszik, de a tested üzemanyagként és anyagcsere-jelzőként is használja."
+		},
+		{
+			"title": "Tartós aerob termelés",
+			"text": "A mitokondriumokban zajló oxidatív anyagcsere oxigénnel termel ATP-t szénhidrátokból és zsírokból. Ez hajtja a hosszú sétákat, a kerékpározást, az egyenletes futást és a kemény intervallumok közötti regeneráció nagy részét. Még a rövid erőkifejtések is kapnak némi aerob hozzájárulást, mert a rendszerek sosem kapcsolnak be és ki külön időkeretekben."
+		},
+		{
+			"title": "Miért számít az időtartam és a pihenő",
+			"text": "Egy közel maximális ötmásodperces sprint és egy 30 perces séta nagyon különböző teljesítményt igényel. A rövid pihenőkkel ismételt 20 másodperces kemény intervallumok megnehezítik a teljesítmény fenntartását, ahogy a fáradtság nő. A nehéz rúdsorozatokhoz általában hosszabb pihenők kellenek, hogy megtartsd az erődet és a technikádat, és nem az a cél, hogy a lehető leginkább kifulladj."
+		},
+		{
+			"title": "A gyakorlatban",
+			"text": "Adj magadnak elegendő regenerációt, ha az erő vagy a sebesség a fő cél. Egyenletes mérsékelt aktivitással építsd az aerob kapacitást. Használj intervallumokat kondicionáláshoz, ha illenek, és a munkát és a pihenőt a jelenlegi képességedhez igazítsd. A magas pulzus emelés közben nem jelenti, hogy az edzés ugyanazt az aerob ingert adta, mint a tartós kardió."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "WHO aerob aktivitási irányelvek",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

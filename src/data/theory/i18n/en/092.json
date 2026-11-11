@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "The big picture",
+			"text": "Exercise uses energy, and food supplies what you need to train, recover and build tissue. A varied diet usually includes protein foods, carbohydrate-rich foods, fruits, vegetables and sources of fat. Very restrictive eating can hold back your performance and recovery even when your workouts are well designed."
+		},
+		{
+			"title": "Protein and muscle",
+			"text": "Protein provides amino acids that your body uses to maintain tissue and adapt muscle. Research on exercising adults often cites roughly 1.4–2.0 grams of protein per kilogram of body mass per day as an evidence-based range. Needs differ with age, training and personal circumstances, and you don’t have to calculate this number."
+		},
+		{
+			"title": "Carbohydrates and fats",
+			"text": "Carbohydrates fuel repeated hard efforts and endurance sessions by keeping up muscle glycogen. Dietary fat provides essential fatty acids and helps you absorb certain vitamins. Detailed sports-nutrition strategies matter more as your training volume rises. As a beginner, focus on regular, balanced meals first."
+		},
+		{
+			"title": "Example",
+			"text": "If you strength-train three days a week, you could build meals around beans, fish, eggs or another protein source, add grains or potatoes for energy, and include vegetables and fruit. What you eat across the week matters more than drinking a particular shake right after every set."
+		},
+		{
+			"title": "When to get expert help",
+			"text": "If you have a medical condition, worries about eating or a specialized performance goal, talk to a registered dietitian or a healthcare professional. TrainUp does not give individual calorie targets, macro tracking or weight-loss meal plans."
+		}
+	],
+	"sources": [
+		{
+			"label": "ISSN position stand: protein and exercise",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+		},
+		{
+			"label": "2026 ACSM position stand",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

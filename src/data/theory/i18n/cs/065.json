@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Změřte půdorys",
+			"text": "Poznamenejte si délku a šířku volné podlahy, která je obvykle menší než samotná místnost. Bicepsový zdvih ve stoje potřebuje poměrně málo místa, zatímco chodecí výpad nebo cvik na podlaze může potřebovat prostor k natažení paží a nohou. Nechte extra místo kolem pohybujících se vah a zamyslete se, jak cvik začíná a končí."
+		},
+		{
+			"title": "Myslete ve třech rozměrech",
+			"text": "Dřep nebo přítah ve stoje potřebuje místo po stranách pro lokty a vybavení. Klik nebo dead bug potřebuje místo na podlaze dlouhé jako vaše tělo. Švih s kettlebellem potřebuje volný prostor před, za i kolem závaží a tlaky nad hlavou nebo skoky potřebují svislý prostor."
+		},
+		{
+			"title": "Skryté překážky",
+			"text": "Dávejte pozor na nízké stolky, závěsná světla, ostré rohy, topidla, domácí zvířata, kabely, koberce a dveře, které se otevírají do vašeho prostoru. Ověřte, že podlaha zůstává neklouzavá i poté, co položíte podložku. Pokud stěží dokončíte jedno opakování bez dotyku nábytku, je prostor pro plný trénink příliš těsný."
+		},
+		{
+			"title": "Plán pro malé prostory",
+			"text": "V úzkém prostoru dělejte místo chodecích výpadů split dřepy na místě a místo velkých pohybů ze strany na stranu cviky pro horní polovinu těla vsedě nebo na podlaze. Pokud je místnost příliš malá na nošení zátěže, dělejte cviky proti úklonu na místě. Zachovejte pohybový vzorec a konkrétní cvik nechte změnit."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu zadejte velikost plochy a výšku stropu. Plán pak vybere jen cviky, jejichž pohyb včetně vybavení se do tohoto prostoru vejde."
+		}
+	],
+	"sources": [
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: bezpečnost a technika posilování",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

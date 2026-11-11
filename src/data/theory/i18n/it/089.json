@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Perché succede",
+			"text": "I DOMS di solito seguono movimenti non familiari e ripetute contrazioni eccentriche, in cui un muscolo produce forza mentre si allunga. Sono coinvolti diversi processi nel muscolo e nei tessuti circostanti. L’acido lattico residuo non è la causa. Quanto sei dolorante non misura quanto sia stato buono l’allenamento."
+		},
+		{
+			"title": "Come arriva e se ne va",
+			"text": "Il dolore può iniziare diverse ore dopo una sessione, crescere nei successivi uno-tre giorni e poi svanire. Un esercizio familiare spesso causa meno dolore con la stessa dose, e questo si chiama effetto della ripetizione della seduta. Non ti serve un dolore forte o duraturo per sviluppare forza."
+		},
+		{
+			"title": "Allenarsi con i muscoli doloranti",
+			"text": "Un dolore muscolare lieve e diffuso di solito permette comunque di camminare, fare mobilità o allenarsi più facilmente, purché ti muova bene. Se il dolore limita i movimenti ordinari o cambia la tua tecnica di sollevamento, riduci l’intensità o prenditi più recupero. Ripetere subito una sessione non familiare ad alto volume è raramente un buon modo per progredire. Fai progredire gradualmente gli esercizi familiari e non contare su stretching o defaticamento per prevenire il dolore del giorno dopo."
+		},
+		{
+			"title": "Quando chiedere aiuto",
+			"text": "Dolore acuto in un punto, molto gonfiore, debolezza evidente, urine scure, febbre o sintomi che peggiorano invece di attenuarsi non sono normali DOMS. Segni gravi, soprattutto urine scure con dolore muscolare o debolezza, richiedono una valutazione medica tempestiva."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Dopo un allenamento puoi segnalare dolore o fastidio, con la zona del corpo e l’esercizio. Qualsiasi dolore recente significa che il piano non diventerà più difficile quando lo rigeneri. Se un esercizio fa male durante un allenamento, tocca «Sento dolore» per terminarlo subito; resta fuori dai tuoi piani finché non lo riprendi dal Profilo."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: dolore muscolare a insorgenza ritardata",
+			"url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/msk-physiotherapy-resources-faqs/"
+		},
+		{
+			"label": "Rassegna di ricerca: dolore muscolare a insorgenza ritardata",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13627368/"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

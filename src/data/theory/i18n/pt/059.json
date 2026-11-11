@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Partes de uma barra",
+			"text": "Uma montagem típica tem uma barra, discos que encaixam nela e fechos para manter os discos no lugar quando necessário. A barra vazia pode parecer pesada para um iniciante, e as barras especiais têm pesos e tamanhos diferentes. Registe o peso total que levanta, barra incluída, e não apenas os discos."
+		},
+		{
+			"title": "Porquê usar uma barra",
+			"text": "Os discos pequenos permitem acrescentar carga em passos precisos, e uma única barra pode treinar vários padrões de movimento principais. No entanto, as duas mãos seguram uma barra ligada, e isso não convém a todos os ombros ou pulsos. Os halteres, as máquinas ou os exercícios com o peso do corpo podem ser uma melhor escolha quando o equipamento, o conforto ou a experiência são limitados."
+		},
+		{
+			"title": "Montagem do rack e da segurança",
+			"text": "Nos agachamentos, regule os suportes em J à altura certa para si e coloque os braços ou pinos de segurança onde apanhem uma repetição falhada, permitindo ainda percorrer toda a amplitude planeada. No supino, use um ajudante competente ou seguranças bem montadas. Pratique entrar e sair do rack com uma barra vazia antes de levantar cargas difíceis."
+		},
+		{
+			"title": "Aprenda antes de carregar",
+			"text": "Pratique o agachamento, a dobra de anca, o press ou a remada com resistência leve até a barra seguir o mesmo trajeto em todas as repetições. Prenda os discos quando necessário, verifique o espaço à sua volta e nunca assuma que um banco, um suporte ou um rack improvisado conseguem apanhar uma barra a cair. Como iniciante, não precisa de testar o seu máximo de uma repetição para desenvolver força. Faça levantamentos com barra só quando tiver a barra e os discos certos, um rack ou outra montagem segura e espaço suficiente. Se treinar sozinho sem seguranças adequadas ou tiver limites na carga sobre a coluna, escolha outro exercício."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA: segurança e fundamentos do treino de resistência",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: técnica de treino com pesos (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

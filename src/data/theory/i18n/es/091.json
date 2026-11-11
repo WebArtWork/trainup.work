@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Por qué importan los líquidos",
+			"text": "Tu cuerpo usa agua para transportar nutrientes, hacer circular la sangre, controlar la temperatura y reponer lo que pierdes con el sudor. Incluso una deshidratación leve puede hacer que el ejercicio duro se sienta más duro, sobre todo con tiempo cálido. Ninguna cantidad única sirve para todos los deportistas ni para todos los entrenamientos."
+		},
+		{
+			"title": "Antes y durante un entrenamiento",
+			"text": "Empieza razonablemente bien hidratado y ten agua cerca, sobre todo en sesiones largas o calurosas. En las sesiones cortas habituales, beber cuando tienes sed suele bastar. El calor, la actividad larga e intensa y una sudoración inusualmente abundante pueden requerir un plan personal de bebida. Reponer electrolitos puede importar durante un ejercicio largo, pero un entrenamiento corto en el gimnasio no lo necesita automáticamente. Si el calor hace inseguro un entrenamiento, entrena menos o pasa a un lugar más fresco."
+		},
+		{
+			"title": "Beber demasiado",
+			"text": "Beber grandes cantidades sin tener en cuenta la sed ni la pérdida de sudor puede diluir el sodio de la sangre y causar hiponatremia asociada al ejercicio. Ganar peso durante un evento largo de resistencia puede ser una señal de que estás bebiendo demasiado. El dolor de cabeza intenso, la confusión o los vómitos durante un ejercicio largo necesitan una valoración médica urgente. Beber más no es la solución."
+		},
+		{
+			"title": "Comprobaciones sencillas",
+			"text": "La sed, los cambios de peso corporal en torno a sesiones largas, el clima y cuánto tiempo entrenas pueden guiarte sobre cuánto beber. El color de la orina da una pista aproximada, pero no es una prueba diagnóstica. Si tienes una afección renal o cardíaca, pide a tu médico un consejo que se ajuste a ti."
+		}
+	],
+	"sources": [
+		{
+			"label": "NATA: reposición de líquidos en personas físicamente activas",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5634236/"
+		},
+		{
+			"label": "Wilderness Medical Society: hiponatremia asociada al ejercicio",
+			"url": "https://journals.sagepub.com/doi/full/10.1016/j.wem.2019.11.003"
+		}
+	]
+}

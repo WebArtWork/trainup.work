@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Anfänger",
+			"text": "Du hast vielleicht wenig regelmäßige Krafttrainingserfahrung, kommst nach einer langen Pause zurück oder bist neu bei einer Bewegung. Einfache Übungen, wiederholtes Techniktraining, moderate Lasten und ein paar gute Arbeitssätze passen zu dieser Phase. Schneller früher Fortschritt kommt oft von besserer Koordination und Vertrautheit ebenso wie von neuem Muskelgewebe."
+		},
+		{
+			"title": "Fortgeschrittene",
+			"text": "Du machst die wichtigen Muster regelmäßig, kannst deine Anstrengung einschätzen, wiederholst deine Technik von Einheit zu Einheit und kommst durch geplante Änderungen bei Last oder Wiederholungen voran. Du musst die Arbeit eventuell auf mehrere Tage verteilen, harte Sätze zählen und stärker auf Erholung und Plateaus achten."
+		},
+		{
+			"title": "Profis",
+			"text": "Profi bedeutet eine lange Geschichte produktiven Übens in einer bestimmten Disziplin, mit Fortschritt, der langsam geworden ist. Komplexere Planung kann helfen, doch Komplexität ist an sich keine Leistung. Wer im Laufen fortgeschritten ist, kann bei Langhantel-Kniebeugen trotzdem Anfänger sein."
+		},
+		{
+			"title": "Nützliche Checks",
+			"text": "Kannst du dich in einem kontrollierten Bereich beugen (Kniebeuge oder Hüftbeuge)? Kannst du eine Liegestütz-Variante machen, ohne deine Körperposition zu verlieren? Weißt du, wie sich ein Satz mit zwei verbleibenden Wiederholungen anfühlt? Das sind Beobachtungen aus dem Coaching, keine allgemeingültigen Bestanden-oder-nicht-Tests. Keine einzelne Liegestützzahl, kein Kniebeugengewicht und keine Anzahl an Trainingsmonaten ordnet alle richtig ein."
+		},
+		{
+			"title": "Was das für dein Programm bedeutet",
+			"text": "Zwei oder drei Ganzkörpereinheiten auf Basis der grundlegenden Bewegungsmuster reichen für Neulinge oft aus. Ein trainierter Heber braucht eventuell mehr Wochenumfang oder spezifischere Übungen. Beide folgen denselben Prinzipien: Spezifität, schrittweise Steigerung und Erholung."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Stelle dein Fitnesslevel im Profil so ein, dass es zu dem passt, was du jetzt kannst, nicht zu dem, was du dir erhoffst. Wenn du nach einer Pause zurückkommst, beginne mit leichteren Lasten und weniger Umfang. Passe das Level an, wenn sich Technik, Regelmäßigkeit und Belastbarkeit verbessern."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "CDC: Sicher anfangen",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

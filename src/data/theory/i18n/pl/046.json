@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Programy całego ciała",
+			"text": "Trening całego ciała angażuje kilka głównych wzorców ruchowych tego samego dnia. Dwa lub trzy dni w tygodniu często dobrze sprawdzają się u początkujących i zapracowanych osób. Często ćwiczysz główne ćwiczenia bez potrzeby częstych wizyt na siłowni. Treningi mogą się wydłużyć, jeśli uwzględnisz zbyt wiele ruchów."
+		},
+		{
+			"title": "Programy góra/dół",
+			"text": "Plan góra/dół naprzemiennie obejmuje treningi górnej i dolnej części ciała, często w czterech treningach tygodniowo. Zostawia miejsce na więcej ćwiczeń i serii, z czasem regeneracji między podobnymi treningami. Działa też trzydniowa wersja rotacyjna, a kalendarz nie musi powtarzać się dokładnie co tydzień."
+		},
+		{
+			"title": "Podziały na grupy mięśniowe",
+			"text": "Podział na partie ciała może obejmować klatkę piersiową i triceps jednego dnia, plecy i biceps innego, a nogi trzeciego. Takie programy ułatwiają zmieszczenie dużej objętości treningowej. Gdy tygodniowa praca jest podobna, żaden podział nie jest lepszy dla wzrostu mięśni od innego. Źle zaprojektowany podział może zostawić niektóre mięśnie nietrenowane zbyt długo."
+		},
+		{
+			"title": "Wybierz według swoich ograniczeń",
+			"text": "Przy dwóch dniach praktycznym domyślnym wyborem jest trening całego ciała. Przy trzech użyj całego ciała lub rotacyjnego schematu góra/dół. Przy czterech użyj góra/dół lub dwóch różnych dni całego ciała. Pięć dni pozwala na wiele układów, ale dodatkowe wizyty niewiele dają, jeśli nie możesz ich utrzymać ani się po nich zregenerować. Rolę grają też ćwiczenie umiejętności i osobiste preferencje. Wybierz najprostszy podział, który obejmuje Twoje cele, grafik i sprzęt, i miej oko na łączną tygodniową liczbę serii. Pięciodniowy grafik, który wygląda na zaawansowany, nie jest automatycznie lepszy od planu trzydniowego, którego się trzymasz."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: wytyczne dotyczące modelu progresji",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NHS: wskazówki dotyczące siły i elastyczności",
+			"url": "https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/"
+		}
+	]
+}

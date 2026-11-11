@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tlak a přítah",
+			"text": "Kliky a tlaky na prsa zdůrazňují prsa, tricepsy a přední část ramen. Přítahy a stahování zdůrazňují svaly zad a ohybače loktů. V obou pracuje společně mnoho ramenních svalů, takže tyto dvě skupiny nejsou přesným opakem v každém kloubu ani v každé rovině."
+		},
+		{
+			"title": "Poměr 1:1",
+			"text": "Podobný počet týdenních sérií tlaků a přítahů je pro začátečníky užitečná plánovací kontrola. Není to prokázaný vzorec pro držení těla ani zdraví ramen. Co potřebujete, závisí na vašem sportu, cílech, výběru cviků a na tom, co vaše tělo snáší. Program postavený kolem bench pressu může obsahovat víc práce na záda a jiný může dát na první místo výkon v přítazích."
+		},
+		{
+			"title": "Vyvážení dolní poloviny těla",
+			"text": "Stejná myšlenka platí pro nohy: dřepy a výpady s dominancí kolen se párují s hinge a mosty s dominancí kyčlí. Svaly na zadní a přední straně těla nepotřebují stejný počet sérií. Cílem je pokrýt každý vzorec a časem budovat kapacitu. Dokonalá symetrie není cíl a nezaručuje, že se nezraníte."
+		},
+		{
+			"title": "Příklad",
+			"text": "Trénink celého těla může spárovat tlak s jednoručkami s podepřeným přítahem a pak trénovat nohy a střed těla. Jiný den může spárovat tlak nad hlavou se stahováním. Tím se horizontální a vertikální tlaky a přítahy rozloží do týdne, když to vybavení dovolí. Důsledná technika a vhodné zátěže znamenají víc než shoda názvů cviků."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Stránka každého cviku v části Cviky ukazuje jeho pohybový vzorec, takže vidíte, jak se váš týden dělí mezi tlaky a přítahy. Pokud převažují tlaky a nemáte k tomu důvod, přidejte přítah nebo variantu přítahu, která odpovídá vašemu vybavení a respektuje případná omezení ramen, zápěstí nebo zátěže."
+		}
+	],
+	"sources": [
+		{
+			"label": "Knihovna cviků ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bezpečnost a základy silového tréninku",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

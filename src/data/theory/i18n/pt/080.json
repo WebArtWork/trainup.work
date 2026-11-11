@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Porquê combinar os dois",
+			"text": "O treino de resistência melhora a força e a função muscular, e a atividade aeróbica apoia a resistência e a saúde do coração e dos pulmões. As orientações de saúde pública recomendam ambos. Fazer só um pode deixar partes da sua condição física para trás, sobretudo quando os objetivos do dia a dia incluem força, capacidade de caminhar e manter-se ativo durante longos períodos."
+		},
+		{
+			"title": "O efeito de interferência",
+			"text": "Quantidades muito grandes de trabalho de resistência aeróbica podem por vezes reduzir os ganhos em potência explosiva ou em alguns resultados de força, em comparação com o treino de resistência isolado. As revisões recentes, porém, concluem que o treino combinado geralmente melhora em conjunto a capacidade aeróbica e a força, e a maioria dos praticantes recreativos não perde qualquer crescimento muscular real por causa dele."
+		},
+		{
+			"title": "Escolha uma ordem prática",
+			"text": "Se a força for a sua prioridade, faça os levantamentos exigentes enquanto está fresco e o cardio fácil depois. Se o condicionamento for o seu objetivo principal, faça primeiro o trabalho de resistência importante. Espaçar as sessões difíceis por várias horas ou por dias diferentes pode ajudar com a fadiga, sobretudo no treino avançado."
+		},
+		{
+			"title": "Equilibre os dias difíceis e fáceis",
+			"text": "Por exemplo, faça dois dias de força de corpo inteiro mais duas ou três caminhadas rápidas e uma sessão opcional de bicicleta moderada. Um atleta mais experiente pode ter de planear com cuidado as corridas difíceis e as sessões de força das pernas. Se o seu desempenho e a sua recuperação sofrerem, deixe de acumular intervalos a fundo em cima de todos os treinos de pernas."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "O seu objetivo no Perfil (condição física geral, força ou condicionamento) indica que tipo de trabalho pôr primeiro enquanto continua a treinar ambos. O cardio não estraga automaticamente o progresso da força. Fique atento às repetições que falha e ao seu esforço médio no Histórico. Quando gera de novo o plano, este fica mais fácil se 2 dos seus últimos 3 treinos tiverem sido muito difíceis (RPE 9 ou mais) ou concluídos em menos de 60%."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisão guarda-chuva de 2026: treino concorrente de força e resistência",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41762427/"
+		},
+		{
+			"label": "Recomendações do CDC sobre atividade física para adultos",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

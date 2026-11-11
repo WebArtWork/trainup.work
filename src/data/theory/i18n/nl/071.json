@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Wat een aerobe basis is",
+			"text": "Aerobe training vertrouwt vooral op zuurstof om energie te leveren tijdens langdurige activiteit. Regelmatig rustig of matig aeroob werk kan verbeteren hoe je hart, longen en spieren werken. Je hoeft jezelf niet uit te putten om te verbeteren: gestaag werk dat je week na week kunt herhalen telt zwaarder dan één dramatische training."
+		},
+		{
+			"title": "Rustige intensiteit",
+			"text": "“Zone 2” wordt vaak gebruikt voor een tempo waarbij je kunt praten, maar zones uit een labtest en zones van een wearable komen niet altijd overeen. De praattest is een praktische richtlijn: bij een matig tempo kun je praten maar niet zingen. Langzamere, comfortabele inspanningen helpen ook, vooral als je met heel weinig activiteit begint."
+		},
+		{
+			"title": "Voeg steeds minuten toe",
+			"text": "Als beginner kun je beginnen met drie wandelingen van 15 minuten per week en minuten toevoegen als ze makkelijker worden. Werk toe naar gezondheidsdoelen zoals 150 minuten matige aerobe activiteit per week, in een tempo dat past bij je gereedheid en planning. Lange trainingen zijn niet nodig als je kortere regelmatig kunt herhalen. Wandelen, fietsen en rustige circuits met lage impact tellen allemaal mee, dus kies wat je uitrusting en ruimte toelaten, en bereik een weekhoeveelheid die je kunt volhouden voordat je HIIT toevoegt."
+		},
+		{
+			"title": "Volg de veranderingen die ertoe doen",
+			"text": "Let erop of dezelfde wandeling je minder buiten adem laat, of je meer afstand aflegt in een tempo waarbij je kunt praten, of het makkelijker voelt. Veranderingen kunnen zich over meerdere weken voordoen, en hoe snel hangt af van je beginfitheid, slaap, terrein, weer en consistentie. Tijd en hoe zwaar het voelde zeggen je meer dan geschatte hartslagzones, die onnauwkeurig kunnen zijn."
+		}
+	],
+	"sources": [
+		{
+			"label": "Beweegaanbevelingen van de CDC voor volwassenen",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: de intensiteit van activiteit meten en de praattest",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC: sporten bij hitte",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		}
+	]
+}

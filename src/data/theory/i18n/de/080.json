@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Warum beides kombinieren",
+			"text": "Krafttraining verbessert Kraft und Muskelfunktion, und aerobe Aktivität unterstützt Ausdauer und die Gesundheit von Herz und Lunge. Die Empfehlungen der öffentlichen Gesundheit nennen beides. Nur eines zu machen kann Teile deiner Fitness zurücklassen, besonders wenn zu deinen Alltagszielen Kraft, Gehfähigkeit und lange aktiv zu bleiben gehören."
+		},
+		{
+			"title": "Der Interferenzeffekt",
+			"text": "Sehr große Mengen an Ausdauerarbeit können im Vergleich zu reinem Krafttraining manchmal Zuwächse bei Schnellkraft oder manchen Kraftergebnissen verringern. Neuere Übersichtsarbeiten finden jedoch, dass kombiniertes Training im Allgemeinen aerobe Leistungsfähigkeit und Kraft zusammen verbessert, und die meisten Freizeitsportler verlieren dadurch kein echtes Muskelwachstum."
+		},
+		{
+			"title": "Eine praktische Reihenfolge wählen",
+			"text": "Wenn Kraft deine Priorität ist, mache die anspruchsvollen Hebungen, solange du frisch bist, und das leichte Cardio danach. Wenn Kondition dein Hauptziel ist, mache die wichtige Ausdauerarbeit zuerst. Harte Einheiten mehrere Stunden auseinander oder an verschiedenen Tagen zu legen kann bei der Ermüdung helfen, besonders im fortgeschrittenen Training."
+		},
+		{
+			"title": "Harte und leichte Tage ausgleichen",
+			"text": "Mache zum Beispiel zwei Ganzkörper-Krafttage plus zwei oder drei zügige Spaziergänge und eine optionale moderate Radeinheit. Ein erfahrenerer Sportler muss harte Läufe und Beinkrafteinheiten vielleicht sorgfältig takten. Wenn Leistung und Erholung leiden, hör auf, Intervalle mit vollem Einsatz auf jedes Beintraining zu stapeln."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Dein Ziel im Profil (allgemeine Fitness, Kraft oder Kondition) sagt dir, welche Art von Arbeit du an erste Stelle setzt, während du weiterhin beides trainierst. Cardio ruiniert Kraftfortschritte nicht automatisch. Behalte im Verlauf die Wiederholungen im Auge, die du verpasst, und deine durchschnittliche Anstrengung. Wenn du deinen Plan neu erstellst, wird er leichter, wenn 2 deiner letzten 3 Trainings sehr hart (RPE 9 oder mehr) oder zu weniger als 60 % abgeschlossen waren."
+		}
+	],
+	"sources": [
+		{
+			"label": "Übersichtsarbeit 2026: gleichzeitiges Kraft- und Ausdauertraining",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41762427/"
+		},
+		{
+			"label": "CDC: Empfehlungen zur körperlichen Aktivität für Erwachsene",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

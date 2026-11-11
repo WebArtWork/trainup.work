@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Ce que montrent les données",
+			"text": "L’Académie américaine de pédiatrie considère que l’entraînement en résistance bien conçu pour les jeunes est bénéfique, avec de faibles taux de blessures quand l’instruction et la supervision sont bonnes. Il n’a pas été démontré qu’un entraînement en résistance correctement supervisé freine la croissance en taille ou abîme les cartilages de croissance du seul fait d’utiliser des poids."
+		},
+		{
+			"title": "Commencez par les bases du mouvement",
+			"text": "Les squats au poids du corps, les variantes de pompes, les rowings, les exercices de saut et de réception, et les exercices de résistance légère enseignent le contrôle. Pratiquez des mouvements symétriques et sur une jambe, apprenez à manipuler le matériel et rendez les exercices plus difficiles selon votre technique et votre maturité, pas selon ce que soulèvent vos amis."
+		},
+		{
+			"title": "Le tableau complet de l’activité",
+			"text": "Les recommandations des CDC pour les 6–17 ans conseillent au moins 60 minutes d’activité physique modérée à intense chaque jour, dont des activités de renforcement musculaire et osseux au moins trois jours par semaine. Les séances de force en sont une partie, aux côtés du sport, du jeu et des loisirs."
+		},
+		{
+			"title": "Pourquoi la supervision compte",
+			"text": "Un encadrement qualifié, un matériel adapté à l’âge, assez de repos et un espace sûr réduisent tous les risques évitables. Évitez les tentatives maximales sans supervision, ne précipitez pas votre progression et ne vous lancez pas seul dans la musculation avancée. Impliquez un parent, un tuteur ou un entraîneur qualifié dans la mesure du possible. Si vous avez une douleur, une affection médicale importante ou des inquiétudes sur votre développement, demandez l’avis d’un médecin. Aucun programme d’entraînement ne peut garantir la croissance, la prévention des blessures ni des résultats de performance."
+		}
+	],
+	"sources": [
+		{
+			"label": "Académie américaine de pédiatrie : entraînement en résistance chez les jeunes",
+			"url": "https://publications.aap.org/pediatrics/article/145/6/e20201010/76942/"
+		},
+		{
+			"label": "CDC : activité physique pour les enfants et les adolescents",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/children.html"
+		}
+	]
+}

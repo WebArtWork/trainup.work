@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Ce se schimbă în timpul pauzei",
+			"text": "Rezistența aerobă, toleranța la mișcare și performanța la ridicări scad cu viteze diferite. Câteva zile ratate pot conta puțin, în timp ce săptămânile sau lunile fără antrenament pot reduce cantitatea de muncă pe care o poți face. Antrenamentul din trecut te poate ajuta să reînveți mai repede îndemânările, dar „memoria musculară” nu elimină nevoia unei reveniri treptate."
+		},
+		{
+			"title": "De ce ai făcut pauză",
+			"text": "Călătoriile sau un program încărcat sunt diferite de o accidentare, o operație sau o boală lungă. După un eveniment medical, întreabă-ți medicul sau un alt specialist potrivit din domeniul sănătății înainte să te întorci la antrenamentul greu. TrainUp nu poate spune dacă revenirea după o boală sau o accidentare este sigură din punct de vedere medical pentru tine. Dacă ceva s-a schimbat, actualizează-ți limitările în Profil înainte să reîncepi."
+		},
+		{
+			"title": "Un punct de plecare prudent",
+			"text": "După o pauză lungă, revino cu mai puține serii, rezistență mai ușoară și mai multe repetări în rezervă. Pornirea de la aproximativ 50–70% din volumul tău de antrenament de dinainte este un exemplu de planificare care se potrivește unora; cercetările nu stabilesc acest număr. Vezi cum se simt primele sesiuni înainte să adaugi muncă."
+		},
+		{
+			"title": "Construiește pe parcursul săptămânilor următoare",
+			"text": "Exersează tehnici cunoscute, lasă destulă refacere și adaugă munca încet, pe măsură ce mișcarea și durerea musculară revin la normal. Nu-ți testa maximele de dinainte imediat. Dacă prima săptămână îți lasă o durere musculară de lungă durată sau neobișnuit de puternică, repetă sau redu volumul de muncă, chiar dacă programul tău spune că e timpul să progresezi."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA/CSCCa: revenirea în siguranță după inactivitate",
+			"url": "https://doi.org/10.1519/SSC.0000000000000477"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: bazele siguranței și ale antrenamentului de forță",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

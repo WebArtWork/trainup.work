@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Jednoopakovací maximum",
+			"text": "Vaše 1RM je nejtěžší zátěž, kterou dokážete zvednout jednou s ustálenou, konzistentní technikou a rozsahem pohybu. „80 % 1RM“ znamená 80 % vašeho maxima pro daný cvik. S tělesnou hmotností to nemá nic společného. Pokud je vaše 1RM u dřepu 80 kg, pak 64 kg je 80 % 1RM."
+		},
+		{
+			"title": "Co procenta říkají",
+			"text": "Vyšší procenta obvykle umožňují méně opakování do selhání, ale přesný počet se liší mezi cviky, lidmi i tréninkovým zázemím. Současné důkazy ukazují, že těžké zátěže, zhruba 80 % 1RM nebo víc, fungují obzvlášť dobře pro budování maximální síly. Takto těžké zátěže nepotřebujete v každém tréninku, abyste zlepšili celkovou kondici."
+		},
+		{
+			"title": "Odhad 1RM",
+			"text": "Rovnice mohou odhadnout 1RM ze submaximální série. Epley dává odhadované 1RM = váha × (1 + opakování/30) a Brzycki váha × 36/(37 − opakování). Série pěti opakování s 60 kg dává podle Epleyho zhruba 70 kg a podle Brzyckiho 67,5 kg. Jsou to hrubá čísla, zejména u velmi vysokých opakování, u sérií, které skončily technickým selháním, nebo u sérií, které nebyly blízko vašemu maximu."
+		},
+		{
+			"title": "Bezpečnější metoda pro začátečníky",
+			"text": "Zvolte váhu, která vám umožní udělat plánovaná opakování se stálou formou a nechá vám asi dvě až čtyři dobrá opakování v rezervě. Zvyšujte jen tehdy, když se cíl několikrát za sebou zdá snadný. Maximální testy vyžadují dovednost, správné vybavení a často kvalifikovaný dohled a běžný trénink v TrainUp je nepotřebuje."
+		},
+		{
+			"title": "Příklad",
+			"text": "Pokud vám plánovaných osm opakování nenechá žádnou rezervu a vaše forma se rozpadá, zátěž snižte. Pokud dokončíte osm a mohli byste snadno udělat dalších osm, příště ji trochu ztižte."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "Váš plán dává série, opakování a odpočinek, ale žádné váhy, takže zátěž volíte vy. Posuzujte ji podle zátěže, dokončených opakování a hodnocení úsilí a přesné 1RM nikdy nepočítejte z jediné snadné série."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Přehled kontinua opakování",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

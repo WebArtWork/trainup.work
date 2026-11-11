@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Roddteknik",
+			"text": "Börja från en stabil position och dra mot nedre revbenen eller höften, beroende på övningen. Låt skulderbladen röra sig naturligt när armarna sträcks ut och dras tillbaka, och kasta inte med bålen för att få fart. Du behöver inte tvinga armbågarna i en enda vinkel, och omfånget slutar där du fortfarande kan kontrollera det."
+		},
+		{
+			"title": "Utrustningsvarianter",
+			"text": "En enarmsrodd med hantel arbetar varje sida för sig, och du kan vila en hand på en stadig bänk som stöd. Sittande kabelrodd låter dig justera belastningen i små steg. Gummibandsrodd kräver en säker förankring, och motståndet ändras under repetitionen. Omvänd kroppsviktsrodd blir lättare ju mer upprätt kroppen är och svårare ju närmare horisontellt den kommer."
+		},
+		{
+			"title": "Vad som ändrar svårighetsgraden",
+			"text": "Bålens vinkel, stöd, handtagsbredd, armbågsbana, belastning och rörelseomfång ändrar alla hur tung en rodd är. En rodd med bröststöd tar bort behovet av att hålla ett framåtböjt höftgångjärn, vilket hjälper när du vill träna ryggen och inte uthålligheten i höftgångjärnet. Den är också ett bra val när det inte passar dig att hålla ett långt höftgångjärn. Logga olika roddvarianter separat, eftersom deras siffror inte går att byta mot varandra."
+		},
+		{
+			"title": "Typiska misstag",
+			"text": "Undvik att rycka kraftigt på axlarna, rycka med ländryggen eller korta omfånget bara för att lyfta mer. När din position glider, lätta belastningen och sakta ner sänkningsfasen. Hemmarodd med ett bord eller en handduk är bara säker om förankringen och konstruktionen pålitligt kan bära din rörliga kroppsvikt."
+		},
+		{
+			"title": "Planera din vecka",
+			"text": "Para ihop roddar med horisontella pressar under veckan. Välj roddvarianter som passar din utrustning, var du säkert kan förankra ett gummiband och de belastningar du har."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: teknik vid styrketräning (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: grunder i säkerhet och styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

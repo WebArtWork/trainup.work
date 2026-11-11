@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Dwa różne sposoby liczenia",
+			"text": "Możesz trenować cztery dni w tygodniu i angażować nogi tylko raz albo trenować trzy dni całego ciała i angażować nogi trzy razy. Liczba treningów i liczba razy, gdy każdy mięsień jest trenowany, to więc różne liczby. O tym, jak dobrze działa każdy grafik, w dużej mierze decydują tygodniowe ciężkie serie i regeneracja."
+		},
+		{
+			"title": "Praktyczny punkt wyjścia",
+			"text": "Dla wielu zdrowych dorosłych dwa dni treningu oporowego obejmujące główne grupy mięśniowe to osiągalna podstawa zdrowotna. Stanowisko ACSM z 2026 roku opisuje korzyści siłowe z treningu co najmniej dwa razy w tygodniu. Dla wzrostu mięśni, przy równej liczbie serii tygodniowo, rozłożenie tych samych serii na więcej dni nie zwiększało niezawodnie przyrostów."
+		},
+		{
+			"title": "Grafik dwudniowy",
+			"text": "Wykonaj dwa treningi całego ciała z dniami regeneracji między nimi, na przykład w poniedziałek i czwartek. Obejmij główne wzorce, odpoczywaj wystarczająco i skup się na kończeniu treningów tydzień po tygodniu. To często działa lepiej niż ambitny plan pięciodniowy, którego nie utrzymasz."
+		},
+		{
+			"title": "Od trzech do pięciu dni",
+			"text": "Trzy dni mogą pomieścić treningi całego ciała lub rotację wzorców. Cztery dni mogą pasować do na przemian górnej i dolnej połowy ciała. Pięć dni może działać u doświadczonych ćwiczących ze szczególnymi celami i niezbyt długimi treningami. Trenowanie więcej dni nie oznacza trenowania każdego mięśnia ciężko każdego dnia."
+		},
+		{
+			"title": "Regeneracja i progresja",
+			"text": "Ciężki trening powoduje zmęczenie w mięśniach, które pracowały, i w całym ciele. W zależności od obciążenia grupa mięśniowa może potrzebować mniej więcej od jednego do kilku dni przed kolejnym tak ciężkim treningiem. Znana 48-godzinna przerwa to przydatna reguła startowa dla ciężkich treningów, ale nie jest biologicznym stoperem, który dotyczy każdego ćwiczenia."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "W Profilu ustawiasz, ile dni w tygodniu trenujesz i które dni wolisz. Wybierz liczbę, którą naprawdę utrzymasz. Jeśli Twoje treningi ciągle się wydłużają, rozłóż pracę na więcej dni zamiast dokładać dodatkową pracę do każdego z nich."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Częstotliwość ćwiczeń wzmacniających (WHO)",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

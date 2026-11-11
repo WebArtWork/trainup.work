@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Définitions",
+			"text": "Un superset d’antagonistes alterne des schémas de mouvement opposés, comme un développé suivi d’un rowing. Une série composée associe deux exercices pour le même groupe musculaire. Un circuit peut enchaîner cinq stations avant que vous vous reposiez et recommenciez. EMOM signifie « toutes les minutes à la minute », et AMRAP signifie « autant de tours ou de répétitions que possible » dans un temps donné."
+		},
+		{
+			"title": "Pourquoi les utiliser",
+			"text": "Associer une poussée à une traction permet à un groupe musculaire de travailler pendant qu’un autre se repose, ce qui peut faire gagner du temps. Les circuits peuvent combiner résistance et cardio dans un petit espace. Beaucoup de gens pensent qu’ils développent plus de force ou de muscle, mais ce n’est pas automatique : la qualité du travail total et votre récupération restent déterminantes."
+		},
+		{
+			"title": "Gérer la fatigue",
+			"text": "Un squat lourd associé à un soulevé de terre difficile peut dégrader les deux mouvements, surtout chez les débutants. Associez des exercices qui se concurrencent peu, et reposez-vous assez longtemps pour garder le contrôle. Les mouvements techniques et les sauts explosifs demandent souvent plus de récupération qu’un circuit chronométré n’en donne. Utilisez les supersets quand vous manquez de temps et que l’association a du sens pour votre objectif. Ne réduisez pas le repos juste pour tenir un temps cible, et évitez les circuits pleins de sauts ou de mouvements délicats si votre espace, vos limites de bruit ou votre corps les excluent."
+		},
+		{
+			"title": "Exemple",
+			"text": "Faites dix pompes inclinées contrôlées, puis dix rowings assistés, puis reposez-vous 90 secondes ; recommencez trois fois. Un circuit de cardio pourrait utiliser des montées sur marche, un portage léger et de la marche sur place, avec un repos prévu. Choisissez un nombre de tours que vous pouvez tenir sans vous précipiter vers une mauvaise technique."
+		}
+	],
+	"sources": [
+		{
+			"label": "NSCA : entraînement efficace en temps",
+			"url": "https://www.nsca.com/education/articles/ptq/time-efficient-training"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA : sécurité et fondamentaux de la musculation",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

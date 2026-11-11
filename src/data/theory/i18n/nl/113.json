@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Kies een herhaalbare maat",
+			"text": "Goede opties zijn hoe ver je in een vaste tijd loopt, hoe lang een bekende route duurt, of je een vaste intervaltraining afmaakt of je hartslag bij een comfortabel vast tempo. De RPE van de training vult deze cijfers aan, vooral als je geen hartslagmeter hebt."
+		},
+		{
+			"title": "Houd testomstandigheden vergelijkbaar",
+			"text": "Temperatuur, heuvels, slaap, cafeïne, uitrusting en herstel beïnvloeden allemaal de prestatie. Vergelijk waar mogelijk dezelfde loopbandinstelling, fietsweerstand of buitenroute. Een lagere hartslag betekent niet altijd dat je fitter bent, omdat medicatie en meetfouten de waarde ook kunnen veranderen."
+		},
+		{
+			"title": "Voorbeeld",
+			"text": "Een beginner begint met twee minuten wandelen afgewisseld met één minuut rustig joggen. Weken later maakt die meer jogintervallen af bij een vergelijkbare inspanning. Iemand anders fietst dezelfde route en het voelt makkelijker, ook al blijft de gemiddelde snelheid gelijk."
+		},
+		{
+			"title": "Hoe vaak je test",
+			"text": "Een geplande controle om de paar weken toont trends terwijl je gewone trainingen op training gericht blijven. Een plotselinge prestatiedaling kan door vermoeidheid of ziekte komen, en hoeft niet te betekenen dat je conditie voorgoed kwijt bent."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "Na elke training beoordeel je de inspanning van 1 tot 10, en Geschiedenis toont je gemiddelde inspanning en een grafiek van 4 weken. Kijk naar de trend over weken. Eén hartslag- of snelheidscijfer kan je cardiovasculaire gezondheid niet vaststellen of garanderen."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: wandelen voor je gezondheid",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

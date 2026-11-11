@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Tu estrés total",
+			"text": "El entrenamiento es solo una parte del estrés que llevas encima. El mal sueño, los viajes, un trabajo exigente, la tensión emocional, el calor y una enfermedad reciente pueden afectar a tu concentración, tu coordinación y lo duro que se siente el trabajo. La preparación no es un diagnóstico, y ninguna puntuación única la recoge."
+		},
+		{
+			"title": "Una comprobación sencilla",
+			"text": "Antes de un entrenamiento, fíjate en tu sueño, tu energía, tu motivación, tus agujetas y cualquier síntoma nuevo. Compáralos con lo que es normal para ti, no con los números de otra persona. El calentamiento te da una segunda comprobación: si los movimientos te resultan inesperadamente duros o tu control no es bueno, quizá haya que ajustar una sesión exigente."
+		},
+		{
+			"title": "Ajustar en un día bajo",
+			"text": "En un día de poca energía, reduce la carga, acorta la sesión, elige ejercicios más sencillos o sal a dar un paseo suave en su lugar. En un día normal, haz el plan tal como está escrito. No conviertas cada bajón breve en un día de descanso. Las tendencias a lo largo de varias sesiones te dicen más que una sola valoración."
+		},
+		{
+			"title": "Enfermedad y seguridad",
+			"text": "La fiebre, una enfermedad que afecta a todo el cuerpo, los síntomas en el pecho o una falta de aire inusual son motivos para evitar el entrenamiento duro y buscar consejo médico. La popular «prueba del cuello» es solo una regla práctica aproximada y no te autoriza a hacer ejercicio estando enfermo."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "TrainUp no prescribe pesos, así que eliges la carga cada día. Tu plan solo cambia cuando lo generas de nuevo, según el esfuerzo (RPE) que valoraste después de cada sesión, cualquier dolor que indicaste y cuánto completaste de cada entrenamiento."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: recomendaciones de sueño",
+			"url": "https://www.cdc.gov/sleep/about/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: dolor en el pecho y síntomas de emergencia",
+			"url": "https://www.nhs.uk/symptoms/chest-pain/"
+		}
+	]
+}

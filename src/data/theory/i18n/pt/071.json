@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "O que é uma base aeróbica",
+			"text": "O exercício aeróbico depende sobretudo de oxigénio para produzir energia durante uma atividade prolongada. O trabalho aeróbico regular, fácil ou moderado, pode melhorar o funcionamento do coração, dos pulmões e dos músculos. Não precisa de se esgotar para melhorar: o trabalho constante que consegue repetir semana após semana conta mais do que uma sessão dramática."
+		},
+		{
+			"title": "Intensidade fácil",
+			"text": "A “zona 2” costuma significar um ritmo de conversa, mas as zonas de um teste de laboratório e as de um dispositivo de pulso nem sempre coincidem. O teste da conversa é um guia prático: a um ritmo moderado, consegue falar mas não cantar. Esforços mais lentos e confortáveis também ajudam, sobretudo se parte de muito pouca atividade."
+		},
+		{
+			"title": "Acrescente minutos de forma constante",
+			"text": "Como iniciante, pode começar com três caminhadas de 15 minutos por semana e acrescentar minutos à medida que ficam mais fáceis. Caminhe em direção a metas de saúde pública como 150 minutos de atividade aeróbica moderada por semana, a um ritmo que se adeque à sua preparação e ao seu horário. Não são necessárias sessões longas se conseguir repetir regularmente sessões mais curtas. Caminhar, andar de bicicleta e fazer circuitos constantes de baixo impacto contam todos, por isso escolha o que o seu equipamento e espaço permitem e chegue a uma quantidade semanal que consiga manter antes de acrescentar HIIT."
+		},
+		{
+			"title": "Acompanhe as mudanças que importam",
+			"text": "Repare se a mesma caminhada o deixa menos ofegante, se percorre mais distância a um ritmo de conversa ou se parece mais fácil. As mudanças podem aparecer ao longo de várias semanas, e a velocidade depende da sua condição física inicial, do sono, do terreno, do tempo e da regularidade. O tempo e a dificuldade que sentiu dizem-lhe mais do que as zonas de frequência cardíaca estimadas, que podem ser imprecisas."
+		}
+	],
+	"sources": [
+		{
+			"label": "Recomendações do CDC sobre atividade física para adultos",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: medir a intensidade da atividade e o teste da conversa",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "CDC: exercício com calor",
+			"url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html"
+		}
+	]
+}

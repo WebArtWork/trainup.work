@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Sensations normales à l’entraînement",
+			"text": "Les muscles peuvent sembler chauds, fatigués ou brûlants pendant des contractions répétées. Les courbatures d’apparition retardée peuvent survenir un jour ou deux après un travail inhabituel. Ces sensations sont généralement différentes d’une douleur soudaine en coup de poignard, d’une articulation qui semble instable, de symptômes qui descendent le long d’un membre ou d’une gêne qui reste ou s’aggrave même quand vous levez le pied."
+		},
+		{
+			"title": "Plus qu’un seul chiffre",
+			"text": "Une note de douleur de 0–10 peut décrire l’intensité de la douleur, mais elle ne peut pas en indiquer la cause. Une approche en feux tricolores vous aide à trier ce que vous ressentez. Vert : effort ordinaire avec un contrôle stable. Orange : gêne inhabituelle ou croissante, ce qui signifie arrêter ou changer d’exercice. Rouge : symptômes sévères ou alarmants qui nécessitent une évaluation médicale."
+		},
+		{
+			"title": "Que faire",
+			"text": "Arrêtez le mouvement qui la provoque. Réduisez la charge ou l’amplitude seulement si cela vous semble confortable, et ne réessayez pas sans cesse pour prouver que vous la tolérez. Un gonflement nouveau, un engourdissement, une faiblesse évidente ou des symptômes après une chute demandent un examen plus approfondi. La douleur a de nombreuses causes possibles, et une application ne peut pas nommer votre blessure."
+		},
+		{
+			"title": "Exemple",
+			"text": "Une sensation de brûlure dans les cuisses vers la fin d’une série de montées sur marche est probablement un effort musculaire. Un genou qui se bloque soudainement de façon douloureuse, ou sur lequel vous ne pouvez pas vous appuyer, est une autre affaire, et changer le nombre de répétitions ne la réglera pas."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Si quelque chose fait mal pendant une séance, appuyez sur « J’ai mal ». L’exercice s’arrête aussitôt et reste hors de vos programmes jusqu’à ce que vous le réactiviez depuis Profil. Après une séance, vous pouvez signaler une douleur ou une gêne avec la zone du corps et l’exercice, et vous pouvez mettre à jour vos limitations dans Profil. TrainUp ne propose pas de programmes de rééducation. Consultez un médecin ou un kinésithérapeute pour une douleur qui persiste, qui est sévère ou qui vous inquiète."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS : douleurs articulaires",
+			"url": "https://www.nhs.uk/symptoms/joint-pain/"
+		},
+		{
+			"label": "NHS : douleur au genou et quand consulter",
+			"url": "https://www.nhs.uk/symptoms/knee-pain/"
+		},
+		{
+			"label": "NHS : mal de dos et signes d’alerte urgents",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		}
+	]
+}

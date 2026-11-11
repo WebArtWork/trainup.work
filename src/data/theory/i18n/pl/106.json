@@ -1,0 +1,30 @@
+{
+	"sections": [
+		{
+			"title": "Dlaczego to ma znaczenie",
+			"text": "Z wiekiem masa mięśniowa, siła, moc i równowaga często się zmieniają, choć tempo bardzo różni się między osobami. Trening oporowy może ułatwić codzienne czynności, takie jak wstawanie z krzesła, wchodzenie po schodach i noszenie zakupów. Aktywność tlenowa wspiera zdrowie układu krążenia i wytrzymałość."
+		},
+		{
+			"title": "Trenuj kilka zdolności",
+			"text": "Praktyczny tydzień łączy trening siłowy, umiarkowaną aktywność tlenową i trochę ćwiczeń równowagi. Oficjalne wytyczne dla dorosłych w wieku 65 lat i starszych zalecają konkretnie co najmniej 150 minut umiarkowanej aktywności tlenowej tygodniowo, wzmacnianie mięśni w dwa dni i ćwiczenia równowagi. W wieku pięćdziesięciu kilku lat stosuj ogólne wytyczne aktywności dla dorosłych."
+		},
+		{
+			"title": "Wybierz użyteczne ruchy",
+			"text": "Wstawanie z siedzenia, wejścia na podwyższenie z podparciem, wiosłowanie, wyciskanie i noszenie można dopasować do tego, gdzie jesteś teraz. Niektórym zdrowym starszym osobom służą nadzorowane ćwiczenia mocy wykonywane z kontrolą i szybką intencją. Nie oznacza to wskakiwania w ryzykowne ćwiczenia o dużym uderzeniu bez przygotowania."
+		},
+		{
+			"title": "Postępuj z informacją zwrotną",
+			"text": "Utrudniaj ćwiczenia w miarę poprawy umiejętności i siły, ale spodziewaj się, że regeneracja zależy od schorzeń, snu i dawnego treningu. Zasięgnij porady specjalisty przy nowych zawrotach głowy, objawach w klatce piersiowej, niewyjaśnionym bólu lub problemach z równowagą. Wiek nie jest diagnozą i nie zastąpi właściwej oceny, a sam w sobie nie jest powodem do wykluczania cięższych ćwiczeń."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: aktywność fizyczna osób starszych",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+		},
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Klouby a jejich pohyb",
+			"text": "Loket funguje hlavně jako závěs a umožňuje ohnutí a natažení. Rameno a kyčel jsou kulové klouby, které se mohou pohybovat několika směry. Páteř má mnoho kloubů a jejich společný pohyb pomáhá s polohováním a přenosem zátěže. Skutečný pohyb kloubů nikdy není tak jednoduchý jako obrázek v učebnici."
+		},
+		{
+			"title": "Rozsah pohybu (ROM)",
+			"text": "Aktivní ROM je rozsah, kterého dosáhnete vlastními svaly. Pasivní ROM je rozsah, kterého dosáhnete s vnější pomocí, a může být větší. Omezený aktivní rozsah může pocházet ze slabosti, nedostatku dovednosti, ztuhlosti, bolesti nebo jejich kombinace, takže „zkrácené svaly“ nejsou vždy celým vysvětlením. Proporce těla a stavba kloubů také ovlivňují, jak hluboko je cvik pohodlný."
+		},
+		{
+			"title": "Plná a částečná opakování",
+			"text": "Plné opakování využívá plánovaný, bezpečný rozsah daného cviku. Neznamená to nutit kloub na jeho anatomickou hranici. Důkazy podporují trénink v úplném rozsahu, který dokážete ovládat, pro sílu v mnoha situacích a částečná opakování mohou pomoci, když jsou plánovaná záměrně. Kratší rozsah bez bolesti může být lepší volbou než hluboký, bolestivý."
+		},
+		{
+			"title": "Praktické kontroly",
+			"text": "U dřepu sledujte, zda vaše chodidla zůstávají v kontaktu s podlahou, trup zůstává kontrolovaný a kolena a kyčle se pohybují pohodlně. U tlaků nad hlavu zkontrolujte, zda se paže dostanou nad hlavu bez velkého prohnutí v bedrech. Pokud se pohyb dole nebo nahoře stane nekontrolovaným, změňte hloubku, úchop nebo variantu cviku."
+		},
+		{
+			"title": "Rozšiřování rozsahu",
+			"text": "Nejdřív najděte rozsah, který dokážete ovládat, pak ho spolehlivě opakujte a poté ho rozšiřte, pokud je to užitečné a pohodlné. Rozsah je jednou z tréninkových proměnných vedle jiných, jako je zátěž, opakování a stabilita."
+		},
+		{
+			"title": "Používání TrainUp",
+			"text": "Pokud je pohyb v nějaké části těla omezený, přidejte ji do Profilu jako omezení s poznámkami, aby plán vybral vhodné cviky. TrainUp nepozná, zda omezený pohyb pochází ze zdravotního problému. Pokud je omezení bolestivé a nepřejde, nechte ho posoudit lékařem nebo fyzioterapeutem."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Doporučení WHO pro aktivitu",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Atmung bei Krafttraining",
+			"text": "Versuche bei einem gewöhnlichen Liegestütz oder einer Kniebeuge, in der leichteren Absenkphase einzuatmen und in der Anstrengung auszuatmen. Strebe ein Muster an, das du wiederholen kannst, ohne zu keuchen oder die Kontrolle zu verlieren. Es gibt Ausnahmen: Anspruchsvolle Hebungen können unter fachkundiger Aufsicht ein kurzes, bewusstes Atemanhalten nutzen, um den Rumpf zu versteifen."
+		},
+		{
+			"title": "Anspannen und Atemanhalten",
+			"text": "Koordinierte Bauchspannung kann helfen, die Wirbelsäule zu stabilisieren. Ein Valsalva-Manöver (kräftiges Ausatmen gegen verschlossene Atemwege) kann große kurzfristige Veränderungen bei Blutdruck und Kreislauf verursachen. Es ist nicht für jeden geeignet, besonders nicht für Menschen mit Bluthochdruck, Herz-Kreislauf-Erkrankungen oder anderen relevanten medizinischen Bedenken."
+		},
+		{
+			"title": "Atmung beim Cardio",
+			"text": "Mit steigender Intensität atmest du mehr, um Sauerstoff aufzunehmen und Kohlendioxid abzuatmen. Du musst nicht jeden Schritt an eine genaue Zahl von Ein- und Ausatmungen anpassen. Ein natürliches, bequemes Muster ist für die meisten leichten Aktivitäten in Ordnung, und bei harten Intervallen kannst du deine Atmung so schnell werden lassen, wie sie muss."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Atme bei einem Satz mit zehn Goblet-Kniebeugen ein, bevor du dich senkst, bleibe leicht angespannt und atme beim Aufstehen aus. Wenn dir schwindelig wird, höre auf und ruhe dich aus. Kämpfe nicht dagegen an. Bei einem leichten Spaziergang oder einer leichten Radtour ist die Möglichkeit zu sprechen ein guter Check, dass deine Anstrengung noch moderat ist."
+		},
+		{
+			"title": "Häufige Fehler",
+			"text": "Den Atem über viele Wiederholungen anzuhalten, bei hartem Cardio ein sehr langsames Muster zu erzwingen und lautes Atmen mit einem guten Training zu verwechseln, behindern alle die Kontrolle deiner Intensität."
+		},
+		{
+			"title": "Wann du dich untersuchen lassen solltest",
+			"text": "Wenn du immer wieder ohne erkennbaren Grund kurzatmig wirst, dich schwach fühlst oder Brustsymptome hast, geh zu einer Ärztin oder einem Arzt. Eine andere Atemtechnik wird das nicht beheben."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: Intensität und Atmung",
+			"url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+		},
+		{
+			"label": "Empfehlungen der American Heart Association zu Bewegung",
+			"url": "https://www.heart.org/en/healthy-living/exercise-and-physical-activity/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Prepare-se antes de carregar a barra",
+			"text": "Verifique se o banco, o rack, a barra, os fechos e o chão servem para o exercício. Num rack de agachamento, os pinos ou as cintas de segurança colocados à altura certa apanham a barra se não conseguir levantar-se com ela. Se treinar sozinho, não tente supinos quase máximos sem proteções."
+		},
+		{
+			"title": "O que faz um ajudante",
+			"text": "Antes de um supino com barra, combine com o ajudante se quer ajuda para tirar a barra, quando deve começar a ajudar e que comandos vão usar. Um ajudante tem de conseguir ajudar e não o deve distrair. Um único ajudante sem experiência não consegue garantir a sua segurança sob uma carga muito pesada."
+		},
+		{
+			"title": "Largar a carga depende do equipamento",
+			"text": "As plataformas de halterofilismo e os discos de borracha (bumper) são feitos para certas quedas controladas. Os pisos domésticos, os ginásios cheios e os halteres ajustáveis podem não o ser. Nunca pratique quedas de emergência improvisadas perto de pessoas ou de equipamento frágil. Antes de tentar levantamentos difíceis, aprenda com um instrutor qualificado o método de saída para o seu equipamento."
+		},
+		{
+			"title": "Reduza a necessidade de socorro",
+			"text": "Deixe repetições de reserva, escolha uma carga que consiga controlar e use uma versão em máquina ou com halteres quando se adaptar melhor à sua montagem. Não precisa de treinar até à falha muscular para progredir, sobretudo em levantamentos complexos."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "O TrainUp não assume que tem um ajudante, um rack ou um local seguro para largar pesos. O plano escolhe apenas exercícios que se adaptam ao equipamento e ao espaço que definiu no Perfil, por isso mantenha essas definições corretas. Também não prescreve pesos: escolhe a carga."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Orientações práticas do ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

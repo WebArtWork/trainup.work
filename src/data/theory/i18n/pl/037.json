@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Technika wiosłowania",
+			"text": "Zacznij ze stabilnej pozycji i ciągnij w kierunku dolnych żeber lub biodra, zależnie od ćwiczenia. Pozwól łopatkom poruszać się naturalnie, gdy ramiona się wyciągają i przyciągają, i nie rzucaj tułowiem, by nabrać rozpędu. Nie musisz wymuszać jednego kąta łokci, a zakres kończy się tam, gdzie wciąż możesz go kontrolować."
+		},
+		{
+			"title": "Warianty zależne od sprzętu",
+			"text": "Wiosłowanie hantlem jednorącz pracuje każdą stroną osobno, a dłoń możesz oprzeć na stabilnej ławce dla podparcia. Wiosłowanie na wyciągu siedząc pozwala regulować obciążenie małymi krokami. Wiosłowanie z gumą wymaga bezpiecznego zaczepu, a opór zmienia się w trakcie powtórzenia. Podciąganie w podporze tyłem (wiosłowanie odwrócone) z masą ciała staje się łatwiejsze, gdy ciało jest bardziej wyprostowane, a trudniejsze, gdy zbliża się do poziomu."
+		},
+		{
+			"title": "Co zmienia trudność",
+			"text": "Kąt tułowia, podparcie, szerokość uchwytu, tor łokci, obciążenie i zakres ruchu zmieniają trudność wiosłowania. Wiosłowanie z podparciem klatki piersiowej eliminuje potrzebę utrzymywania pochylonej pozycji zawiasu, co pomaga, gdy chcesz trenować plecy, a nie wytrzymałość w zawiasie. To także dobry wybór, gdy długie trzymanie zawiasu Ci nie odpowiada. Zapisuj różne warianty wiosłowania osobno, bo ich wyniki nie są wymienne."
+		},
+		{
+			"title": "Typowe błędy",
+			"text": "Unikaj mocnego wzruszania ramionami, szarpania dolnym odcinkiem pleców i skracania zakresu tylko po to, by unieść więcej. Gdy pozycja się psuje, zmniejsz obciążenie i zwolnij fazę opuszczania. Wiosłowanie w domu z użyciem stołu lub ręcznika jest bezpieczne tylko wtedy, gdy zaczep i konstrukcja niezawodnie utrzymają ruszającą się masę Twojego ciała."
+		},
+		{
+			"title": "Planowanie tygodnia",
+			"text": "Łącz wiosłowanie z poziomym wyciskaniem w ciągu tygodnia. Wybieraj warianty wiosłowania pasujące do Twojego sprzętu, miejsca, w którym możesz bezpiecznie zaczepić gumę, i obciążeń, którymi dysponujesz."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteka ćwiczeń ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: technika treningu z obciążeniem (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: bezpieczeństwo i podstawy treningu oporowego",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

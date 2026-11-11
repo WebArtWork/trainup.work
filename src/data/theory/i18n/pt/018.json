@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "O que cresce",
+			"text": "O exercício de resistência desencadeia vias de sinalização e a remodelação das proteínas musculares. Ao longo de sessões repetidas, o equilíbrio entre construir e degradar proteínas musculares pode inclinar-se para fibras musculares maiores. Isto leva semanas a meses. As alterações iniciais na aparência ou no peso corporal também podem vir de líquidos, glicogénio ou variação nas medições."
+		},
+		{
+			"title": "Porque é que a tensão importa",
+			"text": "As contrações musculares intensas colocam as fibras sob tensão mecânica. Tanto cargas mais pesadas como mais leves podem apoiar o crescimento quando faz as séries com esforço suficiente e boa técnica. Treinar com resistência muito leve, longe da fadiga, pode não dar estímulo suficiente para um crescimento visível."
+		},
+		{
+			"title": "Volume e frequência",
+			"text": "Contar as séries difíceis por semana é uma forma útil de organizar o trabalho de hipertrofia. O posicionamento do ACSM 2026 encontrou melhor crescimento com maior volume semanal, e as provas favoreceram pelo menos cerca de dez séries semanais por grupo muscular para maximizar o crescimento nas comparações dos estudos relevantes. Esse número não é um mínimo obrigatório para começar. Os principiantes podem crescer com menos, e os limites de recuperação diferem de pessoa para pessoa. A frequência serve sobretudo para distribuir o trabalho necessário pela semana."
+		},
+		{
+			"title": "Recuperação e nutrição",
+			"text": "Proteína e energia suficientes na alimentação apoiam a adaptação, e o sono e o descanso ajudam a suportar o treino repetido. O TrainUp dá educação geral sobre exercício e não dá planos alimentares pessoais nem metas de calorias. A genética, a idade de treino e a saúde também afetam a rapidez com que surgem os ganhos visíveis."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Comece com uma mistura moderada de agachamentos, dobradiças, empurrar e puxar. Registe as séries e repetições semanais. Se o seu desempenho melhorar, as dores musculares se mantiverem toleráveis e recuperar bem, acrescente lentamente repetições ou um pouco de carga antes de acrescentar mais séries."
+		},
+		{
+			"title": "Equívoco comum",
+			"text": "As dores musculares não medem o crescimento muscular, e não precisa de chegar à falha em todas as séries. Os programas que funcionam assentam em treino intenso que consegue repetir, não em exaustão máxima."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Revisão dos mecanismos do crescimento muscular",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

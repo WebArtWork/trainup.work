@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Vanliga typer av bärövningar",
+			"text": "En farmer’s carry använder en vikt i varje hand. En bärövning med en vikt i ena handen använder en vikt på ena sidan, så att bålen måste motstå sidoböjning. En främre bärövning håller belastningen nära bröstet, och en bärövning över huvudet kräver mer av axelstabiliteten och mer takhöjd. Varje position ändrar vilka muskler och vilken färdighet som är inblandade."
+		},
+		{
+			"title": "Grundteknik",
+			"text": "Välj en belastning du kan hålla säkert under hela promenaden, stå upprätt i en bekväm hållning och gå med medvetna steg. Håll vikten säker, luta dig inte långt mot eller bort från den och fortsätt andas under en lång promenad. Sakta ner när du vänder och håll din bana fri."
+		},
+		{
+			"title": "Hur du doserar bärövningar",
+			"text": "Du räknar bärövningar efter avstånd eller tid i stället för repetitioner. Bär till exempel två hantlar som du kan hålla stadigt i 20–30 sekunder, vila och upprepa sedan. När greppet och hållningen förblir desamma, lägg till lite avstånd, tid eller vikt. En tyngre vikt hjälper inte om den gör dina steg hastiga och ojämna."
+		},
+		{
+			"title": "Utrymme och säkerhet",
+			"text": "Kontrollera att din bana har tillräckligt med fritt golv, ett halkfritt underlag och inga personer eller föremål i vägen. Lägg ner vikterna under kontroll och tappa dem inte. Hoppa över bärövningar över huvudet under ett lågt tak eller när du inte är säker på din axelkontroll. Träna alltid ensidiga bärövningar på båda sidor."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Bärövningar kan fylla en styrkeplats när du har utrustningen och utrymmet att gå. Din plan kontrollerar golvytan du angav i Profil. Om din rygg eller dina händer begränsar hur mycket belastning på ryggraden eller greppträning du tål, lägg till det kroppsområdet som en begränsning i Profil så att planen kan utelämna övningar som inte passar."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "NSCA: grunder i säkerhet och styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Un marco de partida",
+			"text": "Los rangos bajos de repeticiones, a menudo de una a cinco por serie, suelen ir con cargas más pesadas y mucho descanso para practicar la fuerza máxima. Los rangos moderados, de seis a doce aproximadamente, facilitan combinar una carga sólida, el control de la técnica y el trabajo total. Los rangos más altos, como quince o más, pueden ayudar a la resistencia muscular local y al entrenamiento con menos carga."
+		},
+		{
+			"title": "Por qué se solapan los rangos",
+			"text": "La investigación no respalda la idea de que de seis a doce repeticiones sean la única manera de construir músculo, ni de que quince repeticiones no puedan desarrollar fuerza. La carga pesada funciona especialmente bien para mejorar la fuerza máxima de una repetición, mientras que el músculo puede crecer con un amplio rango de cargas cuando el esfuerzo y el volumen son suficientemente altos. Las repeticiones muy altas pueden quedar cortadas por la incomodidad o por la fatiga del corazón y los pulmones antes de que el músculo objetivo reciba suficiente desafío."
+		},
+		{
+			"title": "Ajustar el rango al ejercicio",
+			"text": "Un levantamiento compuesto pesado puede ser más fácil de controlar con menos repeticiones. Una sentadilla con el peso corporal puede necesitar más repeticiones antes de volverse dura. Una plancha suele medirse por el tiempo que la mantienes. La calidad de movimiento prevista, la seguridad, los pesos que tienes y tu equipamiento deben guiar la elección."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Un principiante podría hacer 2–3 series de 8–12 sentadillas goblet, remos y press, dejando unas pocas repeticiones en reserva. Si la misma resistencia se vuelve fácil para doce repeticiones, sube un poco la carga o elige una variante más difícil. Alguien que más adelante se centre en la fuerza puede hacer más series de menos repeticiones en levantamientos elegidos."
+		},
+		{
+			"title": "Un error común",
+			"text": "Un objetivo de repeticiones significa poco si ignoras lo cerca que está la serie de un esfuerzo duro. Diez repeticiones sin esfuerzo y diez repeticiones cerca de tu límite son dosis de entrenamiento distintas."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "El plan da a cada ejercicio un objetivo de repeticiones o un tiempo de mantenimiento, y tú eliges la carga. Cuando regeneras el plan, este tiene en cuenta tus valoraciones de esfuerzo y cuánto de cada entrenamiento terminaste. Si tus últimos 4 entrenamientos fueron fáciles (RPE 5 o menos) y completos, el siguiente plan sube un escalón de dificultad."
+		}
+	],
+	"sources": [
+		{
+			"label": "Revisión del continuo de repeticiones",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

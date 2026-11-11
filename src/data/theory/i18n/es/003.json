@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Forma física general",
+			"text": "El objetivo es una capacidad y una salud amplias: entrenamiento de fuerza para los principales patrones de movimiento, actividad aeróbica regular y algo de trabajo de movilidad y equilibrio. Las sesiones pueden usar rangos de repeticiones moderados y el equipamiento que tengas. El progreso puede significar más actividad semanal, más energía durante el día o un mejor rendimiento en flexiones y caminando."
+		},
+		{
+			"title": "Fuerza",
+			"text": "La prioridad es producir más fuerza en los movimientos que elijas. Un programa de fuerza suele poner los levantamientos principales al principio de la sesión, aumenta la resistencia con el tiempo y usa descansos más largos, para que tu técnica y tu rendimiento se mantengan altos. Las cargas más altas ayudan más a la fuerza máxima, pero los principiantes pueden ganar fuerza sin probar nunca su máximo."
+		},
+		{
+			"title": "Acondicionamiento",
+			"text": "La prioridad es sostener el esfuerzo, recuperarte entre ráfagas o mejorar la capacidad cardiovascular. Caminar a ritmo constante, ir en bicicleta, trotar y los intervalos son herramientas para esto. Cuánto trabajo fácil y duro haces depende de tu nivel de forma física, tu preferencia, tu tolerancia al impacto y tu equipamiento. No todos los entrenamientos de acondicionamiento deben sentirse como una carrera."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Supón que tienes tres sesiones de 40 minutos a la semana. Para una base de forma física general, podrías usar dos para fuerza de cuerpo completo y una para cardio. Un bloque de fuerza podría mantener esas dos sesiones de fuerza, añadir una tercera de levantamiento y conservar algo de actividad aeróbica corta. Un bloque de acondicionamiento podría pasar a más trabajo aeróbico, manteniendo al menos dos sesiones de fuerza a la semana cuando puedas."
+		},
+		{
+			"title": "Solapamiento entre objetivos",
+			"text": "El entrenamiento de fuerza puede mejorar la resistencia muscular, y el entrenamiento aeróbico puede ayudar a la recuperación y a la salud. Los objetivos se diferencian en el énfasis y se solapan mucho. Elige un objetivo principal durante cuatro a ocho semanas y revisa tus resultados antes de cambiar de prioridades. Cambiar tras cada entrenamiento hace que el progreso sea difícil de evaluar."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Defines tu objetivo (forma física general, fuerza o acondicionamiento) en Perfil. Sea cual sea el objetivo, tu equipamiento, tu espacio y tus limitaciones deciden qué ejercicios pueden entrar en tu plan."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Recomendaciones de actividad física de la OMS",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

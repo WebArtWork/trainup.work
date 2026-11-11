@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Signale, die du sammeln solltest",
+			"text": "Vergleiche die Sätze und Wiederholungen, die dir vorgegeben waren, mit dem, was du geschafft hast. Sieh dir Last, Session-RPE, Muskelkater, verpasste Einheiten und alle neuen Einschränkungen an, denn jedes zeigt einen anderen Teil des Bildes. Eine hohe RPE oder ein verpasstes Training beweist nicht, dass der Plan für dich falsch ist."
+		},
+		{
+			"title": "Wenn sich Einheiten zu leicht anfühlen",
+			"text": "Wenn du das Ziel mit stabiler Technik und geringer Anstrengung immer wieder erreichst, denke darüber nach, ein paar Wiederholungen, etwas Last oder etwas mehr Umfang hinzuzufügen. Ändere eine Variable und sieh, wie du reagierst, bevor du etwas anderes hinzufügst."
+		},
+		{
+			"title": "Wenn sich Einheiten zu hart anfühlen",
+			"text": "Wiederholt verfehlte Ziele, zusammenbrechende Form oder Ermüdung, die nicht verschwindet, können Gründe sein, Last oder Umfang zu senken, zu einer leichteren Übung zu wechseln oder mehr Erholung einzulegen. Ein neuer schmerzhafter Bereich verlangt einen neuen Blick auf deine Einschränkungen und möglicherweise fachlichen Rat. Versuche nicht, ihn selbst zu diagnostizieren."
+		},
+		{
+			"title": "Beispiel",
+			"text": "Du machst zwei Wochen lang Goblet-Kniebeugen mit 3 × 10 bei etwa RPE 5 mit guter Kontrolle. Beim nächsten Mal könntest du eine etwas schwerere Kurzhantel wählen und auf acht Wiederholungen zurückgehen. Wenn dieselbe Bewegung immer wieder weh tut, mache sie nicht einfach schwerer."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Dein Plan ändert sich nur, wenn du ihn neu erstellst, und nie anhand von weniger als 3 Trainings. Jeder kürzliche Schmerz bedeutet keine Steigerung. Wenn 2 deiner letzten 3 Trainings sehr hart (RPE 9 oder mehr) oder zu weniger als 60 % abgeschlossen waren, wird der nächste Plan leichter. Wenn deine letzten 4 leicht (RPE 5 oder weniger) und vollständig waren, wird er einen Schritt härter, jeweils ein Schritt. Schmerzregeln gehen vor Leistung, abgeschlossene Trainings werden nie verändert, und die Last wählst du selbst."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Praktische Hinweise des ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

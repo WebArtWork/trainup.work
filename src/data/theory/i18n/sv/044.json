@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Vad som räknas som progression",
+			"text": "Du kan lyfta lite mer vikt för samma repetitioner, göra fler repetitioner med samma vikt, lägga till ett set som du fortfarande klarar med bra form, använda mer av ditt omfång eller gå över till en svårare kroppsviktsvariant. Kortare vila packar in mer arbete i passet men kan sänka din toppprestation i styrka, så använd det bara när det tjänar ditt mål."
+		},
+		{
+			"title": "Kvalitet du kan upprepa",
+			"text": "Innan du lägger till belastning, kontrollera att rörelsen är kontrollerad, att du slutför de planerade repetitionerna och att ansträngningen stämmer med planen. Tekniken ser inte identisk ut på varje kropp, men den ska se likadan ut för dig varje gång. Att köra på medan smärtan förvärras eller rörelsen blir skakig är inte produktiv överbelastning."
+		},
+		{
+			"title": "Exempel",
+			"text": "Säg att målet är två set med 8–12 goblet squats. Du gör 10 och 9 repetitioner, sedan 11 och 10 nästa gång och därefter 12 och 12. Nu är en liten viktökning med färre repetitioner rimlig. Om dina hantlar har fasta vikter kan du sakta ner rörelsen för mer kontroll eller välja en svårare variant."
+		},
+		{
+			"title": "En ändring i taget",
+			"text": "Om du höjer set, vikt, frekvens och övningens komplexitet på en gång blir det svårt att se var din trötthet kommer ifrån. Ändra först den variabel som betyder mest och ge kroppen tid att anpassa sig. Framstegen blir långsammare när du får erfarenhet, och vissa pass ska helt enkelt behålla din nuvarande nivå."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Appen registrerar de repetitioner du slutför, passets ansträngning (RPE) och all smärta du rapporterar. Du väljer belastningen själv. När du skapar din plan på nytt efter minst 3 pass blir den ett steg svårare bara om dina senaste 4 var lätta (RPE 5 eller lägre) och kompletta. All nylig smärta betyder ingen ökning, och om 2 av dina senaste 3 var mycket tunga (RPE 9 eller högre) eller mindre än 60 % genomförda blir nästa plan lättare."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA: grunder i säkerhet och styrketräning",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Mayo Clinic: teknik vid styrketräning (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

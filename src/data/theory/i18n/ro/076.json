@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ce înseamnă impact redus",
+			"text": "Mișcările cu impact redus păstrează de obicei cel puțin un picior pe sol sau folosesc echipament precum o bicicletă fixă ca să elimine impactul cu solul. Impactul redus poate avea totuși intensitate mare și poate încărca articulațiile. Un interval greu de ciclism poate solicita inima și plămânii, iar unele exerciții pe treaptă cer încă mult de la genunchi și șolduri."
+		},
+		{
+			"title": "Alegeri bune de mișcare",
+			"text": "Mersul alert, marșul, atingerile cu pasul, boxul cu umbra fără săltat, urcările controlate pe treaptă, ciclismul și aparatele eliptice sunt toate opțiuni practice. Într-o cameră mică, alternează marșul alert cu pași deliberați în lateral sau lovituri ușoare. Alege mișcări care se simt stabile și nu adăuga răsuciri rapide doar ca să faci totul mai greu."
+		},
+		{
+			"title": "Exemplu",
+			"text": "După o încălzire treptată, repetă de șase ori 45 de secunde de marș alert și 45 de secunde de mers ușor. Stabilește-ți propriul ritm și propria odihnă; nu copia viteza altcuiva. Ca să progresezi, lungește perioadele active sau întreaga sesiune înainte să treci la viteză explozivă."
+		},
+		{
+			"title": "Potrivește motivul pentru care eviți impactul",
+			"text": "Dacă problema este zgomotul, poate fi suficient să renunți la sărituri. Dacă un genunchi, o gleznă sau spatele sunt sensibile, chiar și pășitul obișnuit poate durea și poate fi nevoie să mergi la un medic sau la un fizioterapeut. Antrenamentul cu impact redus nu este un tratament și nu garantează ameliorarea durerii."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "În Profil, setează dacă săriturile sunt în regulă, cât zgomot este acceptabil, suprafața, nivelul, echipamentul și orice limitări pe zone ale corpului. Planul le folosește pe toate împreună, iar când săriturile sunt oprite, omite sfoara de sărit și alte exerciții cu sărituri. Marșul sau ciclismul pot menține efortul în locul lor. Evaluează efortul sesiunii după aceea, ca de obicei."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: recomandări de activitate fizică pentru adulți",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "CDC: măsurarea intensității activității și testul vorbirii",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

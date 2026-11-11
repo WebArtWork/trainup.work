@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ce qui compte comme progression",
+			"text": "Vous pouvez soulever un peu plus de poids pour les mêmes répétitions, faire plus de répétitions avec le même poids, ajouter une série que vous pouvez encore terminer avec une bonne forme, utiliser une plus grande part de votre amplitude ou passer à une variante au poids du corps plus difficile. Un repos plus court condense plus de travail dans la séance mais peut diminuer votre performance maximale de force, donc ne l’utilisez que s’il sert votre objectif."
+		},
+		{
+			"title": "Une qualité reproductible",
+			"text": "Avant d’ajouter de la charge, vérifiez que le mouvement est contrôlé, que vous terminez les répétitions prévues et que l’effort correspond au programme. La technique n’aura pas le même aspect sur tous les corps, mais elle devrait avoir le même aspect pour vous à chaque fois. Continuer alors que la douleur s’aggrave ou que le mouvement devient tremblant n’est pas une surcharge productive."
+		},
+		{
+			"title": "Exemple",
+			"text": "Supposons que l’objectif soit deux séries de 8–12 goblet squats. Vous faites 10 et 9 répétitions, puis 11 et 10 la fois suivante, puis 12 et 12. Une petite augmentation de poids avec moins de répétitions a alors du sens. Si vos haltères sont à poids fixe, vous pouvez ralentir le mouvement pour plus de contrôle ou choisir une variante plus difficile."
+		},
+		{
+			"title": "Un changement à la fois",
+			"text": "Si vous augmentez en même temps les séries, le poids, la fréquence et la complexité des exercices, il devient difficile de savoir d’où vient votre fatigue. Changez d’abord la variable qui compte le plus et laissez à votre corps le temps de s’adapter. Le progrès ralentit à mesure que vous gagnez de l’expérience, et certaines séances doivent simplement maintenir votre niveau actuel."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "L’application enregistre les répétitions que vous terminez, l’effort de votre séance (RPE) et toute douleur que vous signalez. Vous choisissez vous-même la charge. Quand vous régénérez votre programme après au moins 3 séances, il devient d’un cran plus difficile seulement si vos 4 dernières séances étaient faciles (RPE 5 ou moins) et complètes. Toute douleur récente signifie pas d’augmentation, et si 2 de vos 3 dernières séances étaient très difficiles (RPE 9 ou plus) ou terminées à moins de 60 %, le programme suivant est plus facile."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NSCA : sécurité et fondamentaux du renforcement",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		},
+		{
+			"label": "Clinique Mayo : technique de musculation (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

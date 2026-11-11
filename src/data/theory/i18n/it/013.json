@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Anatomia di base",
+			"text": "La colonna ha le regioni cervicale, toracica, lombare, sacrale e coccigea. Le sue curve naturali differiscono da persona a persona e cambiano con la posizione. In molti sollevamenti con carico, mantenere la colonna controllata e vicina alla tua posizione neutra comoda è una strategia di partenza utile, soprattutto mentre stai imparando."
+		},
+		{
+			"title": "Cosa comprende il «core»",
+			"text": "Gli addominali, gli obliqui, i muscoli profondi del tronco, gli estensori della schiena, il diaframma e i muscoli del pavimento pelvico lavorano insieme per gestire pressione e movimento. Flettono il tronco e si oppongono anche a estensione, rotazione o flessione laterale indesiderate mentre la forza passa tra braccia e gambe."
+		},
+		{
+			"title": "Bracing e hollowing",
+			"text": "Il bracing di solito significa creare tensione tutto intorno al tronco, come per prepararsi a una leggera spinta allo stomaco, mantenendo sotto controllo il respiro. L’hollowing si concentra sul tirare la parete addominale verso l’interno. Entrambi possono avere i loro usi, ma sono istruzioni diverse. Per il sollevamento pesante, il bracing coordinato di solito aiuta più del semplice tirare dentro lo stomaco."
+		},
+		{
+			"title": "Pressione intra-addominale",
+			"text": "Il diaframma e la parete addominale possono creare una pressione interna che aiuta a irrigidire il tronco. L’esatta strategia respiratoria dipende dal carico e dalla tua esperienza. Trattenere a lungo e con forza il respiro può non andare bene per chi ha certe condizioni cardiovascolari, quindi se è il tuo caso, chiedi consiglio al medico."
+		},
+		{
+			"title": "Esempio",
+			"text": "Per un goblet squat moderato, stai ben eretto, fai un respiro comodo, contrai il busto, scendi in modo controllato ed espira nella salita difficile se ti serve. Per un trasporto con un solo peso (suitcase carry), tieni il tronco eretto e non lasciare che il peso ti tiri di lato."
+		},
+		{
+			"title": "Allenare il core",
+			"text": "Il lavoro sul core comprende plank, dead bug, trasporti e i principali schemi di movimento, oltre ai sit-up. Nessuna posizione della colonna è sicura per tutti, e il bracing non compensa la scelta di un carico sensato."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Indicazioni CDC sull’attività fisica",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

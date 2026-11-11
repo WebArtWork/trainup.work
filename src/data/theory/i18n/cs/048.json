@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Časové úrovně",
+			"text": "Mikrocyklus je krátké opakující se období, často týden. Mezocyklus je blok několika týdnů s jedním hlavním zaměřením. Makrocyklus pokrývá delší sezónu nebo období cíle. Tyto názvy pomáhají při plánování a jejich délky se u jednotlivých lidí liší."
+		},
+		{
+			"title": "Tři přístupy",
+			"text": "Lineární progrese mění proměnné pomalu jedním obecným směrem, například od více opakování s lehčími zátěžemi k méně opakováním s těžšími. Vlnovitý trénink mění cílové počty opakování nebo intenzitu častěji, třeba těžce v pondělí a středně ve čtvrtek. Blokovaná periodizace řadí fáze za sebou, každá zaměřená na určitou schopnost."
+		},
+		{
+			"title": "Co ukazuje výzkum",
+			"text": "Studie srovnávající plány se stejným objemem nacházejí možné výhody periodizovaného tréninku oproti neperiodizovanému v síle, a vlnovitých plánů u trénovaných lidí. Rozdíly v růstu svalů jsou méně konzistentní. Stanovisko ACSM z roku 2026 nenašlo konzistentní přínos pro růst svalů jen z přidání periodizace. Složitější plán není automaticky lepší."
+		},
+		{
+			"title": "Příklad",
+			"text": "Jako začátečník opakujte šest týdnů malou sadu hlavních cviků a pomalu zvyšujte opakování nebo zátěž. Cvik ztěžujte, jak se zlepšuje vaše technika. Pokročilejší cvičenci mohou dělat tři týdny cvičení s vyšším objemem, pak těžší fázi a lehčí regenerační týden, podle toho, jak reagují."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Váš plán pokrývá 4 týdny a týden 4 je lehčí odlehčovací týden. Váš cíl, úroveň kondice a zpětná vazba znamenají víc než propracovaný kalendář. Nový plán přijde, až když ho znovu vytvoříte, a mění se po jednom kroku podle vašich nedávných tréninků."
+		}
+	],
+	"sources": [
+		{
+			"label": "Systematický přehled o periodizaci a výsledcích tréninku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35044672/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Doporučení ACSM k modelu progrese",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		}
+	]
+}

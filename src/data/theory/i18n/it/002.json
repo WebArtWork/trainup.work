@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Le componenti principali",
+			"text": "La forza è la capacità di produrre forza, e la potenza è la forza prodotta rapidamente. La resistenza muscolare significa ripetere o mantenere contrazioni. La resistenza cardiorespiratoria sostiene gli sforzi più lunghi e dipende da cuore, polmoni, circolazione e muscoli. La mobilità è la capacità di muoversi attivamente in ampiezze utili, mentre la flessibilità descrive fino a dove arriva un tessuto o un’articolazione quando viene allungata. Equilibrio e coordinazione ti aiutano a controllare il movimento."
+		},
+		{
+			"title": "Composizione corporea",
+			"text": "Le quantità relative di muscolo, grasso, osso e altri tessuti possono contare per la salute o per lo sport, ma non descrivono completamente la forma fisica. Due persone con un peso simile possono differire molto in forza, capacità cardiovascolare o abilità di movimento. L’aspetto non può sostituire il verificare ciò che sai fare davvero."
+		},
+		{
+			"title": "Come interagiscono le componenti",
+			"text": "Uno squat richiede forza di gambe e tronco, abbastanza mobilità per la profondità scelta e coordinazione per tenere sotto controllo il carico. Un’escursione a piedi si basa di più sulla resistenza aerobica e muscolare, anche se forza ed equilibrio aiutano. Migliorare una qualità può aiutarne un’altra, ma non le allenerà tutte allo stesso modo."
+		},
+		{
+			"title": "Allenarsi in base all’obiettivo",
+			"text": "Una settimana di forma generale può includere due sedute full body con i pesi, camminata o ciclismo moderati e brevi esercizi di equilibrio o mobilità. Un’enfasi sulla forza usa esercizi con resistenza che diventano più difficili nel tempo, con abbastanza riposo tra gli sforzi. Un’enfasi sul condizionamento dedica più tempo a movimento prolungato e intervalli, e mantiene un po’ di lavoro di forza."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Scegli un obiettivo principale nel Profilo e continua a svolgere un po’ di lavoro per le altre qualità. Misura i progressi con ciò che si adatta a ciascuna: ripetizioni o carico per la forza, ritmo e respiro per il condizionamento, ampiezza controllata per la mobilità. Non giudicare una seduta da quanto sudi o da quante calorie hai bruciato."
+		}
+	],
+	"sources": [
+		{
+			"label": "Concetti di forma fisica dell’HHS",
+			"url": "https://www.cdc.gov/physical-activity-basics/about/index.html"
+		},
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Raccomandazioni OMS",
+			"url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity"
+		}
+	]
+}

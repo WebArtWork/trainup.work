@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Träningsmålet",
+			"text": "Plyometriska övningar bygger din förmåga att snabbt utveckla kraft. Att bli andfådd är inte poängen. Exempel är små pogohopp, hoppknäböj, sidohopp och språng. Snabbare eller högre hopp ställer större krav på din koordination och ger mer stötar, så din startnivå beror på din styrka, landningskontroll och träningsbakgrund."
+		},
+		{
+			"title": "Öva en kontrollerad landning",
+			"text": "Börja med låga, lätta hopp och landa genom att böja höfter, knän och fotleder tillsammans. Sträva efter balanserad fotkontakt och kontrollerad bål, utan raka knän eller höga, slarviga landningar. Dina knän behöver inte hållas helt stilla, men de bör inte plötsligt tappa kontrollen. Sluta om du känner smärta eller ständigt snubblar."
+		},
+		{
+			"title": "Gå vidare med en sak i taget",
+			"text": "Gör hoppen svårare gradvis, till exempel från små tvåfotshopp till måttliga vertikala hopp innan du prövar upprepade språng eller språng på ett ben. Höga lådor, djuphopp och hopp med vikt kräver mer färdighet och är dåliga första steg. Lägg bara till höjd, fart eller enbensarbete när de lättare repetitionerna förblir pålitliga."
+		},
+		{
+			"title": "Räkna bra kontakter",
+			"text": "Fotkontakter, antalet gånger dina fötter landar, används ofta för att mäta plyometrisk volym för underkroppen. Som nybörjare kan du behöva bara ett litet antal kontrollerade kontakter, även om idrottsprogram anger högre summor. Vila tillräckligt mellan korta set. En tröttande hoppcirkel bygger inte kraft på samma sätt som utvilade, explosiva repetitioner."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Programmet innehåller hoppövningar bara när din Profil tillåter hopp och det buller de ger, och ditt underlag och din golvyta passar dem. Din nivå spelar också roll. Om något av detta inte passar, träna med styrkeövningar eller konditionsövningar med låg belastning. Om en landning gör ont, tryck på ”Jag känner smärta”: övningen avslutas direkt och ligger utanför dina program tills du återupptar den från Profil."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Sammanfattning av ACSM:s vägledning om styrketräning 2026",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "ACE:s övningsbibliotek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

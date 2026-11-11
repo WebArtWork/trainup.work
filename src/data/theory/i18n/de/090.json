@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Kurzfristige und langfristige Muster",
+			"text": "Fortgeschrittene Sportler nutzen funktionales Overreaching manchmal gezielt, und ihre Leistung kommt nach genug Erholung zurück. Nicht funktionales Overreaching verursacht einen längeren Leistungsabfall ohne nützlichen Gewinn. Das Übertrainingssyndrom ist ein anhaltender Zustand mit vielen beitragenden Faktoren und braucht eine fachliche Untersuchung, die andere Ursachen ausschließt."
+		},
+		{
+			"title": "Warnzeichen",
+			"text": "Wiederholte Leistungseinbrüche, Ermüdung im Missverhältnis zu deinem Training, ungewöhnliche Reizbarkeit, gestörter Schlaf, sinkende Motivation und anhaltender Muskelkater können alle Warnzeichen sein. Keines davon ist spezifisch für Übertraining. Arbeitsstress, Krankheit, zu wenig Essen und viele Erkrankungen können dieselben Symptome verursachen."
+		},
+		{
+			"title": "Stress senken, bevor du mehr hinzufügst",
+			"text": "Wenn sich mehrere Einheiten ungewöhnlich hart anfühlen und deine Leistung sinkt, senke eine Weile Umfang oder Intensität, nimm dir mehr Erholung und sieh dir deinen Schlaf und deine Gesamttrainingsbelastung an. Eine leichtere Woche kann sinnvoll sein, aber wie viel du kürzen solltest, ist von Person zu Person verschieden. Versuche nicht, mit einer maximalen Anstrengung nach der anderen durch Ermüdung „durchzudrücken“, die immer schlimmer wird."
+		},
+		{
+			"title": "Chronische Überlastung vermeiden",
+			"text": "Steigere das Training schrittweise, verteile harte Trainings und beobachte die Trends bei deinen geschafften Wiederholungen, deiner RPE und wie bereit du dich fühlst. Plane leichte Phasen, wenn Reisen, Krankheit, harte Arbeit oder andere Anforderungen deinen Gesamtstress erhöhen. Zusätzliche Einheiten helfen nur, wenn dein Körper sich daran anpassen kann."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Woche 4 jedes Plans ist eine leichtere Deload-Woche. Wenn du den Plan neu erstellst, ändert er sich jeweils um einen Schritt und nie anhand von weniger als 3 Trainings. Wenn 2 deiner letzten 3 Trainings sehr hart (RPE 9 oder mehr) oder zu weniger als 60 % abgeschlossen waren, wird der nächste Plan leichter. TrainUp diagnostiziert oder behandelt das Übertrainingssyndrom nicht. Wenn der Abwärtstrend anhält, ruhe dich aus und hole fachlichen Rat."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026: Trainingsdosis, Erholung und Steigerung",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+		},
+		{
+			"label": "CDC: Schlafempfehlungen für Erwachsene",
+			"url": "https://www.cdc.gov/sleep/about/index.html/"
+		}
+	]
+}

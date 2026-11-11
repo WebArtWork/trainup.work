@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Formas de medir",
+			"text": "Un nuevo récord de carga es fácil de detectar, pero 10 repeticiones controladas con un peso que antes permitía siete también es progreso. Con los ejercicios con el peso corporal, puedes mejorar reduciendo la inclinación de una flexión, añadiendo rango de movimiento o pasando de repeticiones asistidas a repeticiones sin ayuda."
+		},
+		{
+			"title": "Máximos estimados y probados",
+			"text": "Tu máximo de una repetición (1RM) es la carga más pesada que puedes levantar una vez con una técnica aceptable. Las fórmulas pueden estimarlo a partir de series más ligeras, pero las estimaciones son menos fiables entre ejercicios, con un mayor número de repeticiones y entre personas. Quienes empiezan no necesitan pruebas de máximos para seguir su progreso."
+		},
+		{
+			"title": "Compara cosas equivalentes",
+			"text": "Mantén más o menos igual el agarre, la profundidad, el tempo, el equipamiento y el descanso cuando compares sesiones. Una sentadilla parcial más pesada no equivale automáticamente a una sentadilla de rango completo más ligera. Tener más control, confianza o resistencia con la misma carga también cuenta como mejora, con o sin un nuevo máximo."
+		},
+		{
+			"title": "Ejemplo",
+			"text": "Un remo pasa de 3 × 8 a 3 × 12 con la misma mancuerna y una técnica parecida. Entonces podrías probar un pequeño aumento de carga y volver a subir por el rango de repeticiones."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "TrainUp no prescribe pesos: la carga la eliges tú. Tu plan da series y repeticiones para cada ejercicio, y durante el entrenamiento registras las repeticiones que hiciste de verdad."
+		}
+	],
+	"sources": [
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Guía práctica del ACSM de 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

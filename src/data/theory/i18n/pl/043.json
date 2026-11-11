@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Specyficzność i przeciążenie",
+			"text": "Specyficzność oznacza, że ciało adaptuje się do tego, co ćwiczysz: podnoszenie poprawia siłę w podnoszeniu, a jazda na rowerze rozwija wytrzymałość rowerową. Przeciążenie oznacza, że wyzwanie musi być na tyle duże, by wywołać adaptację. Nie potrzebujesz cięższego ciężaru na każdym treningu. Jedno dodatkowe kontrolowane powtórzenie lub czystsze wykonanie też jest postępem."
+		},
+		{
+			"title": "Indywidualizacja i progresja",
+			"text": "Ludzie reagują różnie w zależności od doświadczenia, możliwości, grafiku, otoczenia i celów. Początkujący może robić postępy przy dwóch krótkich treningach tygodniowo, a doświadczony zawodnik może potrzebować staranniej rozłożonego treningu. Progresja oznacza utrudnianie zadań, gdy pokazałeś, że jesteś gotowy. Celem nie jest szybkość."
+		},
+		{
+			"title": "Regeneracja, regularność i odwracalność",
+			"text": "Adaptujesz się dzięki powtarzanemu treningowi i regeneracji między treningami. Sen, jedzenie i grafik, którego możesz się trzymać, decydują o tym, czy możesz kontynuować. Odwracalność oznacza, że część korzyści zanika, gdy przestajesz trenować, w tempie zależnym od Ciebie i danej zdolności. Opuszczenie jednego treningu nie przekreśla Twojego postępu."
+		},
+		{
+			"title": "Zmienność z powodem",
+			"text": "Zmiana ćwiczenia może zapobiec nudzie lub obejść brak sprzętu, ale jeśli co tydzień wymieniasz każdy ruch, nie możesz stwierdzić, czy robisz postępy. Utrzymuj główne wzorce przez kilka tygodni i zmieniaj ćwiczenia dodatkowe lub obciążenia, gdy masz powód. Stanowisko ACSM z 2026 roku wskazuje, że działa wiele różnych programów, o ile trenujesz regularnie i stopniowo podnosisz wysiłek."
+		},
+		{
+			"title": "Korzystanie z TrainUp",
+			"text": "Twój cel jest w Profilu, każdy trening zapisuje serie i powtórzenia, które kończysz, a potem oceniasz wysiłek sesji (RPE). Gdy ponownie generujesz plan, zmienia się on o jeden krok na podstawie tego zapisu, więc ogólny plan nie pozostaje dla Ciebie stały. Jeśli samodzielnie coś korygujesz, zmieniaj naraz jedną lub dwie zmienne."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanowisko ACSM z 2026 roku",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: wytyczne dotyczące modelu progresji",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NSCA: bezpieczeństwo i podstawy treningu oporowego",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

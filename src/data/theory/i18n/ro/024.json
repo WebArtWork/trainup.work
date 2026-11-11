@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Cum citești scara",
+			"text": "RIR 0 înseamnă că nu ai fi putut face încă o repetare completă cu tehnica și amplitudinea stabilite. RIR 1 înseamnă poate încă una, RIR 2 aproximativ două și tot așa. În sistemul obișnuit RPE bazat pe RIR pentru ridicări, 0 RIR este aproximativ RPE 10 al seriei, 2 RIR este RPE 8, iar 3 RIR este RPE 7."
+		},
+		{
+			"title": "De ce ajută",
+			"text": "Aceeași ganteră de 20 kg se poate simți ușoară într-o zi și grea în următoarea. Estimarea RIR îți permite să te ajustezi după cât de pregătit ești în ziua respectivă, țintind totuși un nivel de efort asemănător. Este mai ales utilă când greutățile tale cresc în trepte fixe sau când un exercițiu cu greutatea corpului nu poate fi ajustat în pași mici."
+		},
+		{
+			"title": "Exemplu",
+			"text": "Planul tău cere trei serii de 8–12 repetări de ramat la 2 RIR. Cu 12 kg faci 12 repetări controlate și crezi că ai mai putea face șase, deci sarcina este probabil prea ușoară. Cu 18 kg forma ți se strică la repetarea a șaptea, deci e prea grea pentru această țintă. Cu 15 kg faci zece repetări curate și ai mai putea face aproximativ două, ceea ce se potrivește."
+		},
+		{
+			"title": "Limitele preciziei",
+			"text": "Începătorilor le este adesea greu să prevadă câte repetări le-au mai rămas, mai ales la exerciții necunoscute sau în serii departe de cedare. Complexitatea exercițiului, lungimea seriei și oboseala influențează și ele estimarea. Poți deveni mai precis în timp, verificându-ți estimările cu o serie grea făcută ocazional în siguranță, sub supraveghere."
+		},
+		{
+			"title": "Programare",
+			"text": "Să lași două sau trei repetări în rezervă funcționează bine ca setare implicită pentru antrenamentul general cu rezistență. Unele obiective, exerciții și niveluri de experiență cer mai multe sau mai puține. Să cauți 0 RIR la fiecare mișcare grea adaugă oboseală și nu ai nevoie de asta ca să progresezi."
+		},
+		{
+			"title": "Folosind TrainUp",
+			"text": "Folosește RIR ca să îți alegi sarcina și să îți ții tehnica cinstită în timpul seriilor. Evaluarea efortului pe care o dai după antrenament acoperă întreaga sesiune, deci nu îți spune RIR-ul fiecărei serii."
+		}
+	],
+	"sources": [
+		{
+			"label": "Zourdos și colab.: scara bazată pe RIR",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/26049792/"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

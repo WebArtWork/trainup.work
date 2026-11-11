@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Cadrul RAMP",
+			"text": "RAMP vine de la Raise (ridică), Activate (activează), Mobilize (mobilizează) și Potentiate (potențează). Ridică-ți temperatura corpului și respirația cu activitate ușoară, trezește mușchii pe care îi vei folosi cu mișcări controlate, parcurge amplitudinile de care ai nevoie, apoi repetă exercițiul cu un efort treptat mai mare, care te lasă totuși proaspăt. Fazele se pot suprapune. Nu trebuie să fie patru blocuri lungi."
+		},
+		{
+			"title": "Un început de cinci până la zece minute",
+			"text": "Începe cu mers ușor sau ciclism. Adaugă genuflexiuni controlate cu greutatea corpului, balansări din șold, cercuri cu brațele sau alte exerciții care se potrivesc cu sesiunea. Înainte de o ridicare grea, fă una sau mai multe serii de creștere treptată, mai ușoare. Înainte de intervale, începe cu variante mai ușoare ale aceleiași mișcări în loc să intri direct într-un sprint."
+		},
+		{
+			"title": "Încălzește-te pentru activitate",
+			"text": "O împingere deasupra capului poate cere o mișcare a umărului și o serie ușoară de împingere. O alergare poate cere jogging ușor și câteva accelerări treptate. Munca grea sau tehnică cere adesea mai multă pregătire decât un mers blând. Scopul este să te simți pregătit, iar o încălzire elaborată care te obosește ratează acest scop."
+		},
+		{
+			"title": "Unde se încadrează stretchingul",
+			"text": "Întinderile pasive lungi chiar înainte de o activitate explozivă pot reduce pentru scurt timp performanța în unele situații. Stretchingul scurt și confortabil nu este automat dăunător, dar mobilitatea dinamică și exersarea treptată contează de obicei mai mult chiar înainte de munca de forță, sprinturi sau sărituri. Nu te întinde niciodată până la durere ca să atingi o amplitudine arbitrară."
+		},
+		{
+			"title": "Punerea cap la cap",
+			"text": "Construiește-ți încălzirea din mișcările sesiunii de azi, din nivelul tău de îndemânare și din spațiul tău: câteva minute de activitate ușoară, apoi variante ușoare ale primului tău exercițiu, cu mai multă pregătire când munca este mai grea sau mai rapidă. Socotește încălzirea parte din timpul sesiunii."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE 2026: ghid practic despre stretching",
+			"url": "https://www.acefitness.org/continuing-education/certified/april-2026/9104/new-expert-guidance-on-stretching-what-belongs-in-your-programs/?authorScope=80"
+		},
+		{
+			"label": "Declarația de poziție ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		}
+	]
+}

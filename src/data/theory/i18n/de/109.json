@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Zugängliche Bewegung wählen",
+			"text": "Gehen, Radfahren, Schwimmen, gestützte Kniebeugen und Kraftübungen an Maschinen können je nach Fähigkeit und Vorliebe bequeme Startpunkte sein. Für manche Menschen stellen Joggen und wiederholtes Springen höhere Anforderungen an Gelenke oder Atmung als Optionen mit geringer Belastung. Die Körpergröße allein macht keine dieser Aktivitäten richtig oder falsch."
+		},
+		{
+			"title": "Mit einer machbaren Dosis beginnen",
+			"text": "Ein kurzer Spaziergang oder ein paar Sätze gestützter Kraftübungen können genügen, um die Gewohnheit aufzubauen. Füge Zeit, Strecke oder Wiederholungen allmählich hinzu, wenn dein Selbstvertrauen und deine Belastbarkeit wachsen. Achte darauf, wie sich Bewegung anfühlt und was du nächste Woche tun kannst, und nicht nur auf die Waage."
+		},
+		{
+			"title": "Mehrere Ergebnisse betrachten",
+			"text": "Leichteres Treppensteigen, längere Spaziergänge, mehr Wiederholungen und bessere Erholung zählen alle als Fortschritt. Veränderungen des Körpergewichts hängen von vielen Faktoren ab, darunter Essgewohnheiten, Medikamente und Erkrankungen. Deine Fitness kann sich verbessern, ohne dass sich das Gewicht stark verändert."
+		},
+		{
+			"title": "Dort anfangen, wo du stehst",
+			"text": "Manche Menschen haben bereits viel Trainingserfahrung, andere wenig Ausrüstung oder Privatsphäre. Passe Übungen an deine Situation an. Abzunehmen muss nicht dein Ziel sein."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Lege im Profil deinen Trainingsplatz fest, ob Springen in Ordnung ist, alle Einschränkungen nach Körperbereich und dein Fitnesslevel. Der Plan wählt nur Übungen, die zu diesen Einstellungen passen. TrainUp vermittelt Training und gibt keine Ernährungspläne oder medizinische Gewichtsbehandlung vor. Wenn du Symptome oder komplexe Erkrankungen hast, hole individuellen Rat bei einer Ärztin oder einem Arzt."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: Gehen für die Gesundheit",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "CDC: gesundes Gewicht und Aktivität",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

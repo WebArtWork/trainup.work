@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Commencez par une répétition facile",
+			"text": "Faites le mouvement sans poids ou avec l’engin le plus léger que vous avez. Ajoutez une petite charge pour une série d’échauffement et vérifiez que votre amplitude, votre respiration et votre tempo restent stables. Chaque mouvement a sa propre charge de travail : une charge confortable pour un rowing peut être bien trop lourde pour une élévation latérale."
+		},
+		{
+			"title": "Répétitions en réserve",
+			"text": "Les répétitions en réserve (RIR) correspondent au nombre de répétitions bien exécutées que vous pensez pouvoir encore faire. Pour l’entraînement général, terminer beaucoup de séries avec environ deux ou trois répétitions en réserve est un point de départ pratique, même si vous n’avez pas à l’atteindre à chaque fois. Si, pour une série prévue de 10, vous avez l’impression de pouvoir en faire 10 de plus, la charge est peut-être trop légère pour votre objectif."
+		},
+		{
+			"title": "Ajuster pendant la séance",
+			"text": "Supposons que le programme demande trois séries de huit à douze. Si votre première série s’arrête à huit avec une technique tremblante et plus rien en réserve, baissez la charge. Si douze répétitions sont fluides et encore assez faciles, essayez une petite augmentation à la série suivante. Reposez-vous assez longtemps pour savoir si le problème vient du poids ou de la fatigue."
+		},
+		{
+			"title": "Quand les écarts de poids sont trop grands",
+			"text": "Si l’haltère suivant est trop lourd, ajoutez une répétition, une pause contrôlée ou une autre bonne série. Si même votre poids le plus léger est trop lourd, utilisez le poids du corps, un élastique de résistance ou un autre levier. Ne forcez jamais sur des répétitions ratées pour atteindre un nombre de séries."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Votre programme donne les séries, les répétitions et le repos, mais pas les poids : c’est vous qui choisissez la charge. Pendant la séance, notez les répétitions réellement faites, et après, évaluez l’effort de la séance de 1 à 10. Si vous ressentez une douleur, un étourdissement ou si vous perdez sans cesse votre technique, arrêtez-vous ou changez d’exercice ; n’ajoutez pas de résistance. « J’ai mal » met fin immédiatement à l’exercice en cours."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Résumé des recommandations 2026 de l’ACSM sur la musculation",
+			"url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+		},
+		{
+			"label": "Mayo Clinic : sécurité et technique en musculation",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		}
+	]
+}

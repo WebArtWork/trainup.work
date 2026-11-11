@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Specificità e sovraccarico",
+			"text": "La specificità significa che il tuo corpo si adatta a ciò che pratichi: sollevare migliora la forza nel sollevamento, e pedalare sviluppa la resistenza nel ciclismo. Il sovraccarico significa che la sfida deve essere abbastanza grande da causare adattamento. Non ti serve un peso più pesante a ogni sessione. Anche una ripetizione controllata in più o un’esecuzione più pulita contano come progresso."
+		},
+		{
+			"title": "Individualizzazione e progressione",
+			"text": "Le persone rispondono in modo diverso a seconda di esperienza, capacità, programma, ambiente e obiettivi. Un principiante può migliorare con due brevi sessioni a settimana, mentre un sollevatore esperto può aver bisogno di un allenamento distribuito con più attenzione. Progressione significa rendere le cose più difficili quando hai dimostrato di essere pronto. Andare più veloci non è l’obiettivo."
+		},
+		{
+			"title": "Recupero, costanza e reversibilità",
+			"text": "Ti adatti attraverso l’allenamento ripetuto e il recupero tra le sessioni. Sonno, alimentazione e un programma che riesci a mantenere decidono se puoi proseguire. Reversibilità significa che alcuni benefici svaniscono quando smetti di allenarti, con una velocità che dipende da te e dalla capacità in questione. Saltare una sessione non cancella i tuoi progressi."
+		},
+		{
+			"title": "Variare con un motivo",
+			"text": "Cambiare un esercizio può evitare la noia o aggirare l’attrezzatura mancante, ma se sostituisci ogni movimento ogni settimana, non puoi capire se stai migliorando. Mantieni uguali i tuoi schemi principali per diverse settimane e cambia esercizi accessori o carichi quando hai un motivo. La position stand ACSM 2026 indica che molti programmi diversi funzionano purché continui ad allenarti e a spingere avanti il tuo impegno."
+		},
+		{
+			"title": "Usare TrainUp",
+			"text": "Il tuo obiettivo si trova in Profilo, ogni allenamento registra le serie e le ripetizioni che completi, e poi valuti lo sforzo della sessione (RPE). Quando rigeneri il piano, cambia di un passo alla volta in base a quel registro, così un piano generico non resta fisso per te. Se fai modifiche per conto tuo, cambia una o due variabili alla volta."
+		}
+	],
+	"sources": [
+		{
+			"label": "Position stand ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Indicazioni ACSM sul modello di progressione",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NSCA: sicurezza e fondamenti dell’allenamento coi pesi",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

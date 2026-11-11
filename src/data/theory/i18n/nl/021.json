@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Manieren om werk te tellen",
+			"text": "De eenvoudigste telling is het aantal werksets. „Volumebelasting” vermenigvuldigt sets × herhalingen × gewicht, dus drie sets van tien met 40 kg geven 1.200 kg volumebelasting voor die oefening. Dit helpt als je dezelfde beweging over tijd vergelijkt. Het werkt niet tussen oefeningen: een machinepers en een push-up met lichaamsgewicht vertalen niet naar dezelfde kilo’s prikkel."
+		},
+		{
+			"title": "Zware sets per spier",
+			"text": "Voor spiergroei tellen coaches vaak de zware sets die elke spiergroep belasten. Samengestelde oefeningen tellen mee voor meerdere spieren, al niet altijd even sterk. Een squat traint de knie- en heupstrekkers sterk, terwijl een roeibeweging werk toevoegt voor rug en armen. Als je elke betrokken spier telt alsof die dezelfde prikkel kreeg, komen je totalen te hoog uit."
+		},
+		{
+			"title": "Hoeveel sets je moet doen",
+			"text": "Het ACSM-standpunt uit 2026 vond dat hogere wekelijkse volumes, waaronder minstens ongeveer tien sets per spiergroep, hypertrofie kunnen vergroten. Dat is geen startdosis voor iedereen, en het garandeert geen vooruitgang. Beginners verbeteren vaak met minder sets. Meer ervaren trainers kunnen baat hebben bij meer, als tijd, techniek en herstel het toelaten."
+		},
+		{
+			"title": "Bouw geleidelijk op",
+			"text": "Een nieuwe trainer kan beginnen met twee sets van elk van meerdere patronen per sessie, twee keer per week. Voeg na enkele weken stabiele prestaties alleen een set toe aan een achterblijvend patroon als spierpijn, slaap en sessiekwaliteit dat toelaten. Van zes naar twintig zware wekelijkse sets springen voor één spier voegt vermoeidheidsrisico toe zonder goede reden."
+		},
+		{
+			"title": "Kwaliteit en kwantiteit",
+			"text": "Sets met slechte techniek, weinig inspanning of zware vermoeidheid verhogen wel een totaal in een spreadsheet, maar voegen weinig toe. Gestage, consistente vooruitgang telt zwaarder dan het hoogste volume hebben."
+		},
+		{
+			"title": "TrainUp gebruiken",
+			"text": "In elke training vink je je sets af en leg je je herhalingen vast, en Geschiedenis toont je gemiddelde inspanning en een grafiek van 4 weken. Vergelijk vergelijkbare weken. Als de inspanning hoger is dan verwacht of je herhalingen dalen, kijk dan naar je volume voordat je meer toevoegt."
+		}
+	],
+	"sources": [
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Overzicht van mechanismen van hypertrofie",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/35389932/"
+		}
+	]
+}

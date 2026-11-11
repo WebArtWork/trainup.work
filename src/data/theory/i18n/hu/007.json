@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Ergebnis- und Prozessziele",
+			"text": "Ein Ergebnisziel nennt das Resultat, das du willst, zum Beispiel acht kontrollierte Liegestütze oder 30 Minuten ohne Pause gehen. Ein Prozessziel nennt das Verhalten, das dich dorthin bringt, etwa zwei Krafteinheiten jede Woche. Ergebnisse motivieren dich, und Prozesse geben dir den Tagesplan."
+		},
+		{
+			"title": "SMART-Ziele",
+			"text": "Ein praktisches Ziel ist spezifisch, messbar, erreichbar, relevant und zeitlich begrenzt. „Fit werden“ ist zu vage. Versuche stattdessen: „Sechs Wochen lang zwei 30-minütige Ganzkörpertrainings pro Woche machen und meinen angenehmen durchgehenden Spaziergang von 10 auf 20 Minuten steigern.“ Dein genaues Ziel sollte von deinem aktuellen Können, deiner Gesundheit und deinem Zeitplan abhängen."
+		},
+		{
+			"title": "Eine Ausgangsbasis festlegen",
+			"text": "Halte vor dem Start etwas fest, das du wiederholen kannst: die Liegestütz-Variante, die du mit guter Form schaffst, Last und Wiederholungen bei einer vertrauten Bewegung oder wie lange du angenehm gehen kannst. Vergleiche Gleiches mit Gleichem. Viele Anfänger verbessern sich in den ersten Wochen deutlich, aber Veränderungen bei Kraft und Körperzusammensetzung schwanken stark, daher kann niemand verlässlich eine bestimmte Rate an Muskelaufbau oder Fettverlust versprechen."
+		},
+		{
+			"title": "Unterbrechungen einplanen",
+			"text": "Lege für stressige Wochen eine Mindestversion des Ziels fest, etwa ein kürzeres Training statt einer ausgefallenen Einheit. Setze dir nicht mehrere ehrgeizige Ziele auf einmal. Wenn ein Ziel so schwer ist, dass es unsichere Geschwindigkeit oder zu viel Trainingsumfang verlangt, schraube es herunter."
+		},
+		{
+			"title": "Prüfen und anpassen",
+			"text": "Überprüfe etwa alle vier bis acht Wochen. Wenn du dich an den Plan hältst, der Fortschritt aber langsam ist, ändere eine Trainingsvariable oder gib dir mehr Zeit. Wenn du immer wieder Einheiten verpasst, korrigiere den Zeitplan, bevor du Übungen hinzufügst."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Dein Ziel, deine Trainingstage und die Einheitendauer findest du im Profil. Bei jedem Training hakst du Sätze ab und erfasst deine Wiederholungen, und danach bewertest du deine Anstrengung. Der Verlauf zeigt dann, ob dein Prozessziel Woche für Woche stattfindet."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: Aktivität beginnen und beibehalten",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

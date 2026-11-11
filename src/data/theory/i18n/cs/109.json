@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Zvolte dostupný pohyb",
+			"text": "Chůze, jízda na kole, plavání, podepřené dřepy a silové cviky na strojích mohou být pohodlným místem k začátku, podle vašich schopností a preferencí. Pro některé lidi kladou jogging a opakované skákání větší nároky na klouby nebo dýchání než možnosti s nízkým nárazem. Samotná velikost těla nedělá žádnou z těchto aktivit správnou ani špatnou."
+		},
+		{
+			"title": "Začněte dávkou, kterou zvládnete",
+			"text": "Krátká procházka nebo několik sérií podepřených silových cviků může stačit k vybudování návyku. Čas, vzdálenost nebo opakování přidávejte postupně, jak roste vaše jistota a snášenlivost. Všímejte si, jak se pohyb cítí a co zvládnete příští týden, a nejen váhy."
+		},
+		{
+			"title": "Dívejte se na více výsledků",
+			"text": "Snazší chození po schodech, delší procházky, více opakování a lepší regenerace se všechno počítají jako pokrok. Změny tělesné hmotnosti závisí na mnoha faktorech, včetně stravovacích vzorců, léků a zdravotních potíží. Vaše kondice se může zlepšit i bez velké změny váhy."
+		},
+		{
+			"title": "Začněte tam, kde jste",
+			"text": "Někteří lidé už mají s cvičením spoustu zkušeností, jiní mají málo vybavení nebo soukromí. Cviky přizpůsobte své situaci. Cílem nemusí být hubnutí."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "V Profilu nastavte své místo ke cvičení, zda jsou skoky v pořádku, případná omezení podle částí těla a úroveň kondice. Plán vybírá jen cviky, které těmto nastavením odpovídají. TrainUp učí cvičit a nedává diety ani lékařskou péči o řízení hmotnosti, takže pokud máte příznaky nebo složité zdravotní potíže, vyhledejte individuální radu lékaře."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: chůze pro zdraví",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		},
+		{
+			"label": "CDC: zdravá hmotnost a aktivita",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

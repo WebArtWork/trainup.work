@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Varför hälsokoll är viktigt",
+			"text": "De flesta har nytta av att vara mer aktiva, och mild rörelse är ofta ett bra ställe att börja. Symtom, instabila hälsotillstånd eller nya medicinska händelser kan ändra vilka aktiviteter som är säkra för dig. En hälsokoll visar när en hälsoprofessionell eller en kvalificerad träningsexpert bör vägleda dina nästa steg."
+		},
+		{
+			"title": "PAR-Q+",
+			"text": "Den nuvarande Physical Activity Readiness Questionnaire for Everyone (PAR-Q+) använder strukturerade hälsofrågor med uppföljande vägar, så den går längre än en enda generisk checklista. Tänk på hjärt- eller kärlsjukdomar, okontrollerat blodtryck, svimning eller oförklarlig yrsel, obehag i bröstet, nyligen genomförd operation, ny eller förvärrad smärta och läkemedel som ändrar hur kroppen reagerar på träning. Graviditet och månaderna efter förlossning kräver också individuell rådgivning."
+		},
+		{
+			"title": "Vad ett ja-svar betyder",
+			"text": "Att svara ja på en hälsofråga betyder inte automatiskt att du inte får träna. Det kan betyda att du ska slutföra den officiella uppföljningen eller få råd om intensitet och begränsningar. Om du redan tränar säkert är det ett annat beslut att fortsätta på en bekant nivå än att börja med hård träning du aldrig gjort."
+		},
+		{
+			"title": "Exempel",
+			"text": "Den som har varit inaktiv i flera år och känner tryck i bröstet under rask promenad ska inte prova ett maximalt styrke- eller intervallpass. Hen ska avbryta aktiviteten och få en medicinsk bedömning. Svåra eller ihållande bröstsymtom kräver akutvård. Den som saknar oroande symtom kan börja med lugn promenad och lätt styrkeövning och sedan bygga upp gradvis."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Du kan notera begränsningar per kroppsdel i Profil, med anteckningar, och planen väljer bara övningar som passar dem. TrainUp kan inte friskförklara ett medicinskt tillstånd eller tolka dina symtom, och ett genererat pass är inget medicinskt godkännande. Om hälsokollen väcker oro, fråga din läkare innan du väljer en krävande plan."
+		}
+	],
+	"sources": [
+		{
+			"label": "Officiell PAR-Q+-hälsokoll",
+			"url": "https://eparmedx.com/"
+		},
+		{
+			"label": "CDC: att komma igång",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		}
+	]
+}

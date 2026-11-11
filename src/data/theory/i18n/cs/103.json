@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Jak složitý cvik je",
+			"text": "Podepřený přítah na stroji se pohybuje po stabilní dráze. Rumunský mrtvý tah na jedné noze vyžaduje rovnováhu, kontrolu trupu a koordinaci kyčlí a švih s kettlebellem přidává rychlost a načasování. Můžete být velmi silní a přitom být v jedné z těchto dovedností nováčci."
+		},
+		{
+			"title": "Od předvídatelného k náročnému",
+			"text": "Začněte stabilními polohami a pomalejšími opakováními a učte se vždy jednu novou dovednost. Pak cvik ztěžujte odebráním opory, změnou páky, zvětšením rozsahu nebo přidáním kontrolované rychlosti. Progrese by měla zachovat smysl pohybu a vyhnout se změně všech nároků najednou."
+		},
+		{
+			"title": "Únava mění koordinaci",
+			"text": "Cvik, který jste na začátku tréninku zvládali dobře, se může po mnoha opakováních roztřást. Cviky s vysokými nároky na dovednost dělejte dřív, odpočívejte déle, když to potřebujete, a sérii ukončete, když vám povolí rovnováha nebo kontrola. Složité balistické cviky jsou pro unaveného začátečníka obvykle špatná první volba."
+		},
+		{
+			"title": "Příklad",
+			"text": "Pokud se učíte výpady, můžete začít split dřepy s držením zábradlí, přejít na zpětné výpady bez opory a chodecí výpady vyzkoušet později. Rychlejší varianta není automaticky lepší."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Když TrainUp sestavuje váš plán, vybírá cviky, které odpovídají vaší úrovni a koordinaci i vašim omezením a vybavení."
+		}
+	],
+	"sources": [
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Praktické doporučení ACSM 2026",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

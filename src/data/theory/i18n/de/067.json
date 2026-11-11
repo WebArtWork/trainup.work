@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Häufige Untergründe",
+			"text": "Ein fester, ebener Boden gibt bei den meisten Kraftbewegungen sicheren Stand. Dicker weicher Teppich kann bei einbeiniger Arbeit wackeln, und sehr glatte Fliesen können rutschig werden. Gras oder Wege im Freien können uneben und feucht sein. Eine Matte macht Bodenarbeit bequemer, kann aber rutschen oder sich zusammendrücken, teste sie also, bevor du schwere Lasten darauf legst."
+		},
+		{
+			"title": "Schuhe für die Aufgabe",
+			"text": "Stabile Schuhe mit gutem Halt funktionieren oft gut für Kniebeugen, Hüftbeugen und Seit-zu-Seit-Bewegungen. Gedämpfte Laufschuhe können sich beim Gehen oder Joggen bequem anfühlen, lassen deinen Fuß aber bei schweren Hebungen möglicherweise verrutschen. Schuhe für bestimmte Sportarten unterscheiden sich, und kein einzelner Stil ist für jede Übung oder jeden Menschen am besten."
+		},
+		{
+			"title": "Barfußtraining hängt vom Umfeld ab",
+			"text": "Barfuß zu trainieren gibt dir in einem sauberen, sicheren Raum direkte Rückmeldung vom Boden, lässt deine Füße aber fallenden Gewichten, scharfen Gegenständen und anderen Gefahren ausgesetzt. Manche Studios erlauben es nicht. Wenn du ein vermindertes Gefühl in den Füßen, Gleichgewichtsprobleme oder eine medizinische Fußerkrankung hast, lass dich für deine eigene Situation beraten, bevor du barfuß trainierst, denn es ist nicht automatisch besser."
+		},
+		{
+			"title": "Belastung und Lärm",
+			"text": "Springen und Laufen erzeugen mehr Belastung und Lärm als kontrollierte Kniebeugen oder Marschieren. Eine Gummimatte kann etwas Schall dämpfen, aber du brauchst darunter weiterhin guten Halt und einen festen Boden. Vermeide rutschige Socken, wackeligen Schaumstoff unter Gewichten und Matten, die Falten werfen, wenn du seitlich trittst."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Lege im Profil deinen Untergrund fest und ob Springen in Ordnung ist, und der Plan wählt Übungen, die dazu passen. Wenn der Boden rutschig oder uneben ist, wähle stabile Übungen mit geringer Belastung oder verschiebe die Bewegung, bis der Untergrund sicher ist."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE-Übungsbibliothek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: Sicherheit und Technik beim Krafttraining",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

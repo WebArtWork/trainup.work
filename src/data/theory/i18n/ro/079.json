@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Reglează sfoara",
+			"text": "Alege o sfoară care se rotește lin, fără să te agațe de picioare. O primă potrivire frecventă este să stai aproape de mijlocul ei și să ridici mânerele spre partea de jos a pieptului sau spre subsuori, apoi să ajustezi după grosimea sforii și după îndemânarea ta. Asigură-te că ai destul loc deasupra, în lateral și pe podea înainte să sari."
+		},
+		{
+			"title": "Învață o săritură simplă de bază",
+			"text": "Ține coatele confortabil aproape de coaste și rotește sfoara mai ales din încheieturi, fără să balansezi brațele întregi. Folosește sărituri scurte și relaxate, doar cât să treci peste sfoară, fără să ridici genunchii sus. Aterizează blând, lăsând gleznele și genunchii să se îndoaie; nu încerca să-ți ții picioarele complet rigide."
+		},
+		{
+			"title": "Adaugă variante treptat",
+			"text": "Începe cu rotiri singulare, chiar dacă reușești doar două sau trei înainte să trebuiască să reiei. Treci la serii scurte continue, apoi adaugă picioare alternate, pasul de boxer sau deplasări dintr-o parte în alta când sincronizarea ți se îmbunătățește. Trucuri precum double-under vin după un ritm de bază sigur."
+		},
+		{
+			"title": "Evită prea mult impact și frustrarea",
+			"text": "Săritul repetat încarcă gambele și tendoanele lui Ahile, așa că creșterile mari și bruște le pot face dureroase. Dacă sfoara se agață mereu, poate fi prea lungă, prea scurtă sau prost sincronizată; asta nu înseamnă că nu ești în formă. Poartă încălțăminte și folosește o suprafață cu priză bună și evită gresia alunecoasă și camerele aglomerate."
+		},
+		{
+			"title": "Folosirea TrainUp",
+			"text": "Planul include sfoara de sărit doar când echipamentul și setările din Profil pentru înălțimea tavanului, suprafață, sărituri și zgomot o permit. Păstrează intervalele scurte la început. Dacă îndemânarea sau impactul te opresc, boxul cu umbra sau marșul mențin sesiunea în mișcare."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: măsurarea intensității activității și testul vorbirii",
+			"url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+		},
+		{
+			"label": "Biblioteca de exerciții ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "CDC: recomandări de activitate fizică pentru adulți",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Pourquoi la balance bouge",
+			"text": "Les aliments et les boissons, l’hydratation, le sodium, le glycogène stocké et d’autres processus normaux font varier votre poids d’un jour à l’autre. Une seule valeur haute ou basse ne vous apprend rien de fiable sur le muscle ou la graisse. L’exercice peut changer votre composition corporelle même quand votre poids total bouge à peine."
+		},
+		{
+			"title": "Mesurez de la même façon à chaque fois",
+			"text": "Si vous vous pesez, utilisez la même balance et une routine similaire plutôt que des moments aléatoires. Une moyenne hebdomadaire est souvent plus utile qu’une seule valeur. Le tour de taille et les autres mesures au mètre ruban ne sont comparables que si vous utilisez les mêmes repères corporels et la même tension du ruban."
+		},
+		{
+			"title": "Les photos sont facultatives",
+			"text": "Les photos de progression peuvent montrer des changements de posture ou d’apparence, mais l’éclairage, l’angle de l’appareil et les vêtements les influencent beaucoup. Vous n’en avez pas besoin si votre priorité est la forme ou la force, et elles peuvent ne pas aider si vous avez des préoccupations liées à l’image corporelle ou à l’alimentation."
+		},
+		{
+			"title": "Forme et poids sont deux choses distinctes",
+			"text": "Mieux bouger, tenir plus longtemps et devenir plus fort sont de vrais résultats, quelle que soit votre corpulence. Si un changement de poids inattendu ou une affection médicale vous inquiète, parlez-en à un professionnel de santé."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Le Tableau de bord propose un journal du poids corporel, que vous êtes libre d’utiliser ou non. Lisez-le comme une tendance sur plusieurs semaines. TrainUp ne considère pas le poids corporel comme une mesure de la forme et ne fixe pas d’objectifs de perte de poids."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC : poids santé et activité",
+			"url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/"
+		},
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

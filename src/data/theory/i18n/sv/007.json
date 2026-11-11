@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Resultatmål och processmål",
+			"text": "Ett resultatmål anger det resultat du vill nå, till exempel åtta kontrollerade armhävningar eller att gå i 30 minuter utan att stanna. Ett processmål anger det beteende som tar dig dit, som två styrkepass varje vecka. Resultat motiverar dig, och processer ger dig den dagliga planen."
+		},
+		{
+			"title": "SMART-mål",
+			"text": "Ett praktiskt mål är specifikt, mätbart, uppnåeligt, relevant och tidsbundet. ”Bli vältränad” är för vagt. Prova ”gör två helkroppspass på 30 minuter i veckan i sex veckor och bygg upp min bekväma sammanhängande promenad från 10 till 20 minuter”. Ditt exakta mål bör bero på din nuvarande förmåga, hälsa och schema."
+		},
+		{
+			"title": "Sätt en utgångspunkt",
+			"text": "Innan du börjar, notera något du kan upprepa: den armhävningsvariant du klarar med bra form, belastningen och repetitionerna på en bekant rörelse eller hur länge du bekvämt kan gå. Jämför lika med lika. Många nybörjare förbättras märkbart under de första veckorna, men förändringar i styrka och kroppssammansättning varierar mycket, så ingen kan på ett pålitligt sätt lova en viss takt i muskeltillväxt eller fettförlust."
+		},
+		{
+			"title": "Planera för avbrott",
+			"text": "Bestäm en minimiversion av målet för späckade veckor, till exempel ett kortare pass i stället för ett uteblivet. Sätt inte flera aggressiva mål samtidigt. Om ett mål är så svårt att det kräver osäker hastighet eller för mycket träningsvolym, skala ner det."
+		},
+		{
+			"title": "Utvärdera och justera",
+			"text": "Gör en ny bedömning ungefär var fjärde till åttonde vecka. Om du följer planen men framstegen är långsamma, ändra en träningsvariabel eller ge dig själv mer tid. Om du gång på gång missar pass, rätta till schemat innan du lägger till övningar."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Ditt mål, dina träningsdagar och din passlängd finns i Profil. Under varje pass bockar du av set och noterar dina repetitioner, och efteråt skattar du din ansträngning. Historik visar sedan om ditt processmål blir av vecka för vecka."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: att börja och fortsätta vara aktiv",
+			"url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

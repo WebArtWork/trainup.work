@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Bancos para apoyo y press",
+			"text": "Un banco plano sirve de apoyo para press, remos y movimientos sentados. Un banco ajustable cambia el ángulo del torso para los press y otros ejercicios. Comprueba que su capacidad indicada cubra tu peso más cualquier peso externo, bloquea el ajuste y asegúrate de que no se balancee ni se deslice antes de cargarlo. Una silla no es automáticamente un banco de pesas seguro."
+		},
+		{
+			"title": "Un escalón estable",
+			"text": "Los step-ups, las flexiones inclinadas y el acondicionamiento con escalón bajo necesitan una plataforma que no vuelque. Empieza con un escalón bajo que permita que la cadera y la rodilla se muevan con control. Apoya todo el pie de apoyo en el escalón, baja con deliberación y no te impulses con el pie de atrás para disimular una plataforma demasiado alta."
+		},
+		{
+			"title": "Ajustar una comba",
+			"text": "Como primera comprobación aproximada, ponte con un pie en el centro de la cuerda y levanta las asas. Muchas cuerdas recreativas encajan cuando las asas llegan más o menos a la parte baja del pecho o a las axilas, aunque el diseño de la cuerda y la habilidad cambian la longitud ideal. Una cuerda demasiado corta te golpea los pies. Una demasiado larga se engancha en el suelo y puede llevar a círculos grandes con los brazos."
+		},
+		{
+			"title": "Revisa el espacio y el material",
+			"text": "Usa un suelo antideslizante y vigila los muebles, las lámparas, los ventiladores y otras personas. La comba necesita espacio por encima y a los lados además de suelo. Antes de cada sesión, comprueba si hay recubrimientos de cuerda desgastados, extremos de cable afilados, bisagras de banco dañadas y superficies de escalón sueltas. Sustituye el equipo roto en lugar de improvisar reparaciones."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Indica en Perfil el tipo de banco, el tamaño del suelo, la altura del techo, la superficie y si se puede saltar, y el plan elegirá solo ejercicios que encajen con ellos. Si tus rodillas o tu espacio descartan un escalón, o el ruido, el impacto o la altura del techo descartan la comba, las alternativas son los ejercicios sin escalón y la marcha en el sitio."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: seguridad y técnica en el entrenamiento con pesas",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

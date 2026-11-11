@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Deux décomptes différents",
+			"text": "Vous pouvez vous entraîner quatre jours par semaine et ne travailler vos jambes qu’une fois, ou vous entraîner trois jours en full body et travailler vos jambes trois fois. Le nombre de séances et le nombre de fois où chaque muscle est travaillé sont donc deux décomptes différents. Les séries difficiles hebdomadaires et la récupération déterminent en grande partie l’efficacité de chaque planning."
+		},
+		{
+			"title": "Un point de départ pratique",
+			"text": "Pour de nombreux adultes en bonne santé, deux jours de renforcement qui couvrent les principaux groupes musculaires constituent une base de santé accessible. La prise de position 2026 de l’ACSM rapporte des bénéfices pour la force avec un entraînement au moins deux fois par semaine. Pour la croissance musculaire, à nombre de séries hebdomadaires égal, répartir les mêmes séries sur plus de jours n’a pas augmenté les gains de façon fiable."
+		},
+		{
+			"title": "Planning sur deux jours",
+			"text": "Faites deux séances full body avec des jours de récupération entre elles, par exemple lundi et jeudi. Couvrez les principaux schémas, reposez-vous assez et concentrez-vous sur le fait de terminer les séances semaine après semaine. Cela fonctionne souvent mieux qu’un programme ambitieux sur cinq jours que vous ne pouvez pas tenir."
+		},
+		{
+			"title": "Trois à cinq jours",
+			"text": "Trois jours peuvent accueillir des séances full body ou une rotation de schémas. Quatre jours peuvent convenir à une alternance haut et bas du corps. Cinq jours peuvent fonctionner pour des pratiquants expérimentés avec des objectifs précis et des séances pas trop longues. S’entraîner plus de jours ne signifie pas travailler chaque muscle intensément chaque jour."
+		},
+		{
+			"title": "Récupération et progression",
+			"text": "L’entraînement intense cause de la fatigue dans les muscles que vous avez travaillés et dans l’ensemble du corps. Selon la charge de travail, un groupe musculaire peut avoir besoin d’environ un à plusieurs jours avant une autre séance aussi intense. L’intervalle familier de 48 heures est une règle de départ utile pour les séances difficiles, mais ce n’est pas un chronomètre biologique valable pour tous les exercices."
+		},
+		{
+			"title": "Avec TrainUp",
+			"text": "Dans Profil, vous indiquez combien de jours par semaine vous vous entraînez et quels jours vous préférez. Choisissez un nombre que vous pouvez réellement tenir. Si vos séances deviennent trop longues, répartissez le travail sur plus de jours au lieu d’entasser du travail supplémentaire dans chacune."
+		}
+	],
+	"sources": [
+		{
+			"label": "Prise de position 2026 de l’ACSM",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Fréquence de renforcement selon l’OMS",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219310/"
+		}
+	]
+}

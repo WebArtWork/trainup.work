@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Evezés technikája",
+			"text": "Indulj stabil helyzetből, és húzz az alsó bordáid vagy a csípőd felé, a gyakorlattól függően. Hagyd, hogy a lapockáid természetesen mozogjanak, ahogy a karod kinyúl és visszahúz, és ne dobd a törzsedet lendületszerzésre. Nem kell a könyöködet egyetlen szögbe kényszerítened, és a tartomány ott ér véget, ahol még kontrollálni tudod."
+		},
+		{
+			"title": "Felszerelési változatok",
+			"text": "Az egykezes súlyzós evezés minden oldalt külön dolgoztat, és egy kezet nyugtathatsz egy biztos padon támaszként. A csigás ülő evezés lehetővé teszi, hogy kis lépésekben állítsd a terhelést. A gumiszalagos evezéshez biztos rögzítés kell, és az ellenállás az ismétlés során változik. A saját testsúlyos fordított evezés könnyebb, ha a tested függőlegesebb, és nehezebb, ha közelebb kerül a vízszinteshez."
+		},
+		{
+			"title": "Mi változtatja a nehézséget",
+			"text": "A törzs szöge, a támasz, a fogószélesség, a könyökpálya, a terhelés és a mozgástartomány mind megváltoztatja, mennyire nehéz egy evezés. A mellkasra támaszkodó evezés megszünteti az előrehajolt csípőhajlítás tartásának szükségét, ami akkor segít, ha a hátadat akarod edzeni, nem a csípőhajlítás állóképességét. Jó választás akkor is, ha a hosszú csípőhajlítás tartása nem neked való. Naplózd külön a különböző evezésváltozatokat, mert a számaik nem cserélhetők fel."
+		},
+		{
+			"title": "Tipikus hibák",
+			"text": "Kerüld az erős vállrándítást, a derékkal való rángatást és a tartomány lerövidítését csak azért, hogy többet emelj. Ha a helyzeted megcsúszik, csökkentsd a terhelést, és lassítsd a leengedő szakaszt. Az asztal vagy törölköző használatával végzett otthoni evezések csak akkor biztonságosak, ha a rögzítés és a szerkezet megbízhatóan elbírja a mozgó testsúlyodat."
+		},
+		{
+			"title": "A heted tervezése",
+			"text": "Párosítsd az evezéseket vízszintes nyomásokkal a hét folyamán. Olyan evezésváltozatokat válassz, amelyek illenek a felszerelésedhez, ahhoz, hol tudsz biztonságosan rögzíteni egy gumiszalagot, és a meglévő terheléseidhez."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: súlyzós edzés technikája (2026)",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "NSCA: biztonság és az ellenállásedzés alapjai",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

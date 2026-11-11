@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Padok támaszhoz és nyomáshoz",
+			"text": "A lapos pad nyomásokat, evezéseket és ülő mozdulatokat támogat. Az állítható pad megváltoztatja a törzsed szögét a nyomásokhoz és más gyakorlatokhoz. Ellenőrizd, hogy a megadott teherbírása fedi-e téged és a külső súlyt, rögzítsd a beállítást, és győződj meg róla, hogy nem billeg és nem csúszik, mielőtt megterhelnéd. Egy szék nem automatikusan biztonságos súlyzópad."
+		},
+		{
+			"title": "Stabil lépcső",
+			"text": "A lépcsőre lépésekhez, a döntött fekvőtámaszokhoz és az alacsony lépcsős állóképességi edzéshez olyan emelvény kell, amely nem billen. Kezdd alacsony lépcsővel, amely lehetővé teszi, hogy a csípőd és a térded kontrolláltan mozogjon. Tedd a teljes támasztó lábfejedet a lépcsőre, lépj le tudatosan, és ne told el magad a hátul maradó lábbal, hogy elrejtsd, hogy az emelvény túl magas."
+		},
+		{
+			"title": "Az ugrókötél méretre igazítása",
+			"text": "Első durva ellenőrzésként állj egy lábbal a kötél közepére, és emeld fel a fogantyúkat. Sok szabadidős kötél akkor illik, ha a fogantyúk nagyjából az alsó mellkasig vagy a hónaljig érnek, bár a kötél kialakítása és a készséged megváltoztatja az ideális hosszt. A túl rövid kötél a lábadba ütközik. A túl hosszú a földbe akad, és nagy karkörzésekhez vezethet."
+		},
+		{
+			"title": "Ellenőrizd a teret és a felszerelést",
+			"text": "Használj csúszásmentes padlót, és figyelj a bútorokra, lámpákra, ventilátorokra és más emberekre. A kötélugráshoz a padlófelület mellett fej fölött és oldalt is hely kell. Minden edzés előtt nézd meg, nincs-e kopott kötélbevonat, éles drótvég, sérült padzsanér vagy laza lépcsőfelület. A törött felszerelést cseréld ki rögtönzött javítás helyett."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A Profilban add meg a pad típusát, a padlóméretedet, a belmagasságodat, a felületedet és azt, hogy az ugrás rendben van-e, és a terv csak olyan gyakorlatokat választ, amelyek illenek ezekhez. Ha a térded vagy a helyed kizár egy lépcsőt, vagy a zaj, az ütésterhelés vagy a belmagasság kizárja a kötelet, a lépcső nélküli gyakorlatok és a helyben menetelés az alternatívák."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACE gyakorlatkönyvtár",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: súlyzós edzés biztonsága és technikája",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

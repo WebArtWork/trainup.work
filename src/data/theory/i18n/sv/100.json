@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Många orsaker, många svar",
+			"text": "Människor känner obehag i ryggen av olika skäl, och även liknande symtom kan ha olika orsaker. Vissa tål böjning bra, medan andra föredrar en mer neutral bål. Den bästa övningen för dig beror på dina symtom, din kapacitet, din erfarenhet och eventuella råd från din behandlare."
+		},
+		{
+			"title": "Hantera belastningen",
+			"text": "Öva på att spänna bålen utan att hålla andan för länge, lär dig en kontrollerad höftfällning med en lätt vikt och prova stödda eller golvbaserade övningar när de passar dig. En försiktig bird dog eller dead bug tränar bålkontroll utan tunga vikter. Ingen enskild hållning garanterar säkerhet, och att hålla en ”neutral ryggrad” betyder inte att du ska frysa varje normal ryggradsrörelse."
+		},
+		{
+			"title": "Gå vidare över tid",
+			"text": "Om det känns bekvämt, gör träningen långsamt svårare genom att lägga till repetitioner, rörelseomfång eller vikt. För anteckningar om hur din rygg känns under och efter passen. Om symtomen förvärras, gör det lättare. Vid ihållande smärta, sök professionell rådgivning. En apps övningsval kan inte ersätta den."
+		},
+		{
+			"title": "Akuta tecken",
+			"text": "Nya förändringar i blåsa eller tarm, domning kring ljumsken, svår eller förvärrad svaghet i benet eller ryggsmärta efter en större skada kräver akut medicinsk bedömning."
+		},
+		{
+			"title": "Så använder du TrainUp",
+			"text": "Lägg till din ländrygg som en begränsning i Profil, med en anteckning, så att programmet väljer övningar som passar. Efter varje pass kan du lägga till anteckningar och rapportera smärta med kroppsområde och övning. Om en övning framkallar smärta avslutar ”Jag känner smärta” den och håller den utanför dina program tills du återupptar den från Profil. TrainUp diagnostiserar inte orsaken till ryggsmärta."
+		}
+	],
+	"sources": [
+		{
+			"label": "NHS: ryggsmärta och akuta varningstecken",
+			"url": "https://www.nhs.uk/conditions/back-pain/"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

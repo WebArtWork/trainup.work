@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Bereid elk station voor",
+			"text": "Controleer de bank, het rek, de machine of het hulpstuk voordat je het belast. Stel zitjes en veiligheidsstangen goed in, gebruik klemmen waar nodig en zorg dat schijven aan beide kanten vastzitten. Houd tassen en losse accessoires uit looppaden. Weet je niet hoe een machine werkt, vraag dan het personeel het je te laten zien."
+		},
+		{
+			"title": "Deel de ruimte",
+			"text": "Leg dumbbells en schijven terug, veeg apparatuur schoon zoals de sportschool vraagt en breng kabelhulpstukken terug. Houd in drukke uren niet meerdere machines tegelijk bezet. Vraag beleefd of je kunt afwisselen en spreek af hoe je het gewicht of de zitting veilig verandert voordat je een station deelt."
+		},
+		{
+			"title": "Spotters en veiligheidsstoppen",
+			"text": "Stel bij zware bankdrukken of squats de veiligheidsarmen in wanneer dat kan, en gebruik een spotter die weet wat hij doet als je er een nodig hebt. Reken er niet op dat een vreemde in de buurt een mislukte herhaling opmerkt. Oefen het inrichten van een rek met lichte gewichten voordat je zwaar tilt, en stap nooit in het tilpad van iemand anders."
+		},
+		{
+			"title": "Drukke periodes",
+			"text": "Heb een reserve voor populaire apparatuur: een dumbbell row kan een kabelrow vervangen en een goblet squat kan een rek-squat vervangen als het gewicht nog bij je past. Je training hangt niet af van één bepaald station. Een gehaaste of drukke opstelling is nog steeds geen reden om bij techniek te beknibbelen of je warming-up over te slaan."
+		}
+	],
+	"sources": [
+		{
+			"label": "Mayo Clinic: veiligheid en techniek bij krachttraining",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "ACE-oefeningenbibliotheek",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Standpunt van het ACSM uit 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

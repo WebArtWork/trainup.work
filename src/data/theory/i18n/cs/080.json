@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Proč kombinovat obojí",
+			"text": "Silový trénink zlepšuje sílu a funkci svalů a aerobní aktivita podporuje vytrvalost a zdraví srdce a plic. Doporučení veřejného zdraví zahrnují obojí. Dělat jen jedno může nechat části kondice pozadu, zejména když vaše každodenní cíle zahrnují sílu, schopnost chůze a dlouhodobé zůstávání aktivním."
+		},
+		{
+			"title": "Interferenční efekt",
+			"text": "Velmi velké množství vytrvalostní práce může někdy snížit přírůstky výbušnosti nebo některé silové výsledky ve srovnání se samotným silovým tréninkem. Nedávné přehledy však zjišťují, že kombinovaný trénink obecně zlepšuje aerobní kapacitu i sílu společně a většina rekreačních cvičenců z něj neztratí žádný skutečný svalový růst."
+		},
+		{
+			"title": "Zvolte praktické pořadí",
+			"text": "Pokud je vaší prioritou síla, dělejte náročné cviky, dokud jste svěží, a lehké kardio potom. Pokud je hlavním cílem kondice, udělejte nejdřív důležitou vytrvalostní práci. Rozložení náročných tréninků o několik hodin nebo na různé dny může pomoci s únavou, zejména u pokročilého tréninku."
+		},
+		{
+			"title": "Vyvažujte náročné a lehké dny",
+			"text": "Například dva silové dny celého těla plus dvě nebo tři svižné procházky a volitelná střední jízda na kole. Zkušenější sportovec může potřebovat pečlivě načasovat náročné běhy a silové tréninky nohou. Pokud trpí váš výkon a regenerace, přestaňte hromadit intervaly naplno na každý trénink nohou."
+		},
+		{
+			"title": "Použití v TrainUp",
+			"text": "Váš cíl v Profilu (Celková kondice, Zesílit nebo Zlepšit vytrvalost) určuje, jaký druh práce dát na první místo, zatímco stále trénujete obojí. Kardio automaticky neničí silový pokrok. Sledujte zameškaná opakování a své průměrné úsilí v Historii. Když plán znovu vytvoříte, bude lehčí, pokud byly 2 z vašich posledních 3 tréninků velmi těžké (RPE 9 nebo více) nebo dokončené z méně než 60 %."
+		}
+	],
+	"sources": [
+		{
+			"label": "Souhrnný přehled 2026: souběžný silový a vytrvalostní trénink",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41762427/"
+		},
+		{
+			"label": "CDC: doporučení k fyzické aktivitě dospělých",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+		},
+		{
+			"label": "Stanovisko ACSM z roku 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

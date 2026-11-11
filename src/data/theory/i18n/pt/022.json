@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Uma repetição máxima",
+			"text": "O seu 1RM é a carga mais pesada que consegue levantar uma vez com técnica e amplitude de movimento definidas e consistentes. “80% do 1RM” significa 80% do seu máximo nesse exercício. Não tem nada a ver com o peso corporal. Se o seu 1RM no agachamento for 80 kg, então 64 kg é 80% do 1RM."
+		},
+		{
+			"title": "O que as percentagens dizem",
+			"text": "Percentagens mais altas costumam permitir menos repetições até à falha, mas o número exato varia entre exercícios, pessoas e historiais de treino. As provas atuais mostram que as cargas pesadas, cerca de 80% do 1RM ou mais, funcionam especialmente bem para desenvolver a força máxima. Não precisa de cargas tão pesadas em todos os treinos para melhorar a sua condição física geral."
+		},
+		{
+			"title": "Estimar o 1RM",
+			"text": "Há equações que estimam o 1RM a partir de uma série submáxima. Epley dá 1RM estimado = peso × (1 + repetições/30), e Brzycki dá peso × 36/(37 − repetições). Uma série de cinco com 60 kg dá cerca de 70 kg por Epley e 67,5 kg por Brzycki. São números aproximados, sobretudo para repetições muito altas, para séries que terminaram em falha técnica ou para séries que não estavam perto do seu máximo."
+		},
+		{
+			"title": "Um método mais seguro para principiantes",
+			"text": "Escolha um peso que lhe permita fazer as repetições planeadas com forma estável e cerca de duas a quatro boas repetições de reserva. Só aumente quando a meta parecer fácil várias vezes seguidas. Os testes máximos exigem competência, equipamento adequado e muitas vezes supervisão qualificada, e o treino normal no TrainUp não precisa deles."
+		},
+		{
+			"title": "Exemplo",
+			"text": "Se as oito repetições planeadas não lhe deixam nada de reserva e a forma se desfaz, reduza a carga. Se terminar oito e conseguir facilmente mais oito, torne-o um pouco mais difícil da próxima vez."
+		},
+		{
+			"title": "Usar o TrainUp",
+			"text": "O seu plano dá séries, repetições e descanso mas não pesos, por isso escolhe a carga. Avalie-a pela carga, pelas repetições que concluiu e pela avaliação de esforço, e nunca calcule um 1RM exato a partir de uma única série fácil."
+		}
+	],
+	"sources": [
+		{
+			"label": "Posicionamento do ACSM 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "Revisão do continuum de repetições",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/33671664/"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Spezifität und Überlastung",
+			"text": "Spezifität bedeutet, dass sich dein Körper an das anpasst, was du übst: Heben verbessert die Hebekraft, und Radfahren entwickelt die Radausdauer. Überlastung bedeutet, dass die Herausforderung groß genug sein muss, um Anpassung auszulösen. Du brauchst nicht in jeder Einheit ein schwereres Gewicht. Auch eine weitere kontrollierte Wiederholung oder sauberere Ausführung zählt als Fortschritt."
+		},
+		{
+			"title": "Individualisierung und Steigerung",
+			"text": "Menschen reagieren je nach Erfahrung, Leistungsfähigkeit, Zeitplan, Umfeld und Zielen unterschiedlich. Ein Anfänger kann sich mit zwei kurzen Einheiten pro Woche verbessern, während ein erfahrener Heber sein Training sorgfältiger verteilen muss. Steigerung bedeutet, es schwerer zu machen, sobald du gezeigt hast, dass du bereit bist. Schneller zu werden ist nicht das Ziel."
+		},
+		{
+			"title": "Erholung, Regelmäßigkeit und Umkehrbarkeit",
+			"text": "Du passt dich durch wiederholtes Training und die Erholung zwischen den Einheiten an. Schlaf, Essen und ein Zeitplan, den du einhalten kannst, entscheiden alle darüber, ob du weitermachen kannst. Umkehrbarkeit bedeutet, dass manche Vorteile verblassen, wenn du aufhörst zu trainieren, in einem Tempo, das von dir und der jeweiligen Fähigkeit abhängt. Eine verpasste Einheit löscht deinen Fortschritt nicht aus."
+		},
+		{
+			"title": "Abwechslung mit Grund",
+			"text": "Eine Übung zu ändern kann Langeweile abwehren oder fehlende Ausrüstung umgehen, aber wenn du jede Woche jede Bewegung ersetzt, kannst du nicht erkennen, ob du dich verbesserst. Behalte deine Hauptmuster mehrere Wochen gleich und ändere Zusatzübungen oder Lasten, wenn du einen Grund hast. Das ACSM-Positionspapier 2026 deutet darauf hin, dass viele verschiedene Programme funktionieren, solange du weiter trainierst und deine Anstrengung weiter steigerst."
+		},
+		{
+			"title": "TrainUp nutzen",
+			"text": "Dein Ziel steht im Profil, jedes Training erfasst die Sätze und Wiederholungen, die du schaffst, und du bewertest danach die Anstrengung der Einheit (RPE). Wenn du deinen Plan neu erstellst, ändert er sich anhand dieser Aufzeichnung jeweils um einen Schritt, sodass ein allgemeiner Plan für dich nicht starr bleibt. Wenn du selbst Anpassungen vornimmst, ändere jeweils ein oder zwei Variablen."
+		}
+	],
+	"sources": [
+		{
+			"label": "ACSM-Positionspapier 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM: Hinweise zum Progressionsmodell",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/11828249/"
+		},
+		{
+			"label": "NSCA: Sicherheit und Grundlagen des Krafttrainings",
+			"url": "https://www.nsca.com/education/articles/ptq/the-safest-and-riskiest-forms-of-resistance-training/"
+		}
+	]
+}

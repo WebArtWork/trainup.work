@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"title": "Calcula tu alcance por encima de la cabeza",
+			"text": "Colócate sobre la superficie en la que vas a entrenar y estira los brazos de forma natural por encima de la cabeza. Después suma la altura de la mancuerna, la kettlebell, la barra u otro implemento por encima de tus manos. Deja espacio para un movimiento controlado, de modo que el objeto nunca se detenga justo antes del techo."
+		},
+		{
+			"title": "El movimiento necesita más que la altura de pie",
+			"text": "Saltar añade recorrido vertical, y una comba pasa por encima de tu cabeza. Las dominadas necesitan espacio por encima de la barra para la cabeza y por debajo para los pies, y las barras de marco de puerta también necesitan un margen seguro donde se sujetan. Los ventiladores de techo, las lámparas, las tuberías y las vigas a la vista pueden reducir la altura que realmente puedes usar."
+		},
+		{
+			"title": "Prueba el movimiento en vacío",
+			"text": "Si el techo parece lo bastante alto, ensaya el movimiento sin carga y comprueba el punto más alto desde una posición segura. Nunca pruebes levantando algo pesado hacia un techo bajo. Incluso una persona baja puede necesitar más espacio del esperado, porque el implemento viaja por encima de las manos."
+		},
+		{
+			"title": "Sustituciones prácticas",
+			"text": "Bajo un techo bajo, los press en el suelo pueden sustituir a los press por encima de la cabeza, y los remos pueden sustituir a las dominadas si la instalación o el espacio libre de la barra no son adecuados. Para el acondicionamiento, elige la marcha, los step-ups o el boxeo de sombra en lugar de la comba o de los jumping jacks con los brazos por encima de la cabeza. Estos cambios quizá no entrenen exactamente la misma acción articular, pero mantienen el objetivo de la sesión."
+		},
+		{
+			"title": "Cómo usar TrainUp",
+			"text": "Introduce la altura del techo en Perfil junto con el tamaño de tu suelo. El plan deja fuera los ejercicios por encima de la cabeza y de salto que necesitan más espacio libre del que tienes."
+		}
+	],
+	"sources": [
+		{
+			"label": "Biblioteca de ejercicios de ACE",
+			"url": "https://www.acefitness.org/resources/everyone/exercise-library/"
+		},
+		{
+			"label": "Mayo Clinic: seguridad y técnica en el entrenamiento con pesas",
+			"url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842"
+		},
+		{
+			"label": "Declaración de posición del ACSM de 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		}
+	]
+}

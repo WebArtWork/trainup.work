@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Gyűjtendő jelzések",
+			"text": "Hasonlítsd össze a kapott sorozatokat és ismétléseket azzal, amit teljesítettél. Nézd a terhelést, az edzés-RPE-t, az izomlázat, a kihagyott edzéseket és az új korlátokat, mert mindegyik a kép más részét mutatja. Egyetlen magas RPE vagy egy kihagyott edzés nem bizonyítja, hogy a terv rossz neked."
+		},
+		{
+			"title": "Amikor az edzések túl könnyűnek érződnek",
+			"text": "Ha folyamatosan eléred a célt egyenletes technikával és alacsony erőfeszítéssel, fontold meg néhány ismétlés, egy kis terhelés vagy kicsivel több mennyiség hozzáadását. Egy változót módosíts, és nézd meg, hogyan reagálsz, mielőtt bármi mást hozzáadnál."
+		},
+		{
+			"title": "Amikor az edzések túl nehéznek érződnek",
+			"text": "A célok ismételt elmulasztása, az összeomló forma vagy a múlni nem akaró fáradtság ok lehet arra, hogy csökkentsd a terhelést vagy a mennyiséget, könnyebb gyakorlatra válts, vagy több regenerációt vegyél. Egy új fájdalmas terület miatt újra meg kell nézned a korlátaidat, és esetleg szakmai tanácsot kell kérned. Ne próbáld magad diagnosztizálni."
+		},
+		{
+			"title": "Példa",
+			"text": "Két hétig 3 × 10 kehelyguggolást végzel kb. RPE 5-tel, jó kontrollal. Legközelebb választhatsz egy kicsit nehezebb súlyzót, és visszaeshetsz nyolc ismétlésre. Ha ugyanaz a mozdulat folyamatosan fáj, ne tedd egyszerűen nehezebbé."
+		},
+		{
+			"title": "A TrainUp használata",
+			"text": "A terved csak akkor változik, ha újragenerálod, és soha nem 3-nál kevesebb edzés alapján. Bármilyen friss fájdalom esetén nincs emelés. Ha az utolsó 3 edzésedből 2 nagyon nehéz volt (RPE 9 vagy több), vagy kevesebb mint 60%-ban teljesült, a következő terv könnyebb. Ha az utolsó 4 könnyű (RPE 5 vagy kevesebb) és teljes volt, egy lépéssel nehezebb lesz, egyszerre egy lépéssel. A fájdalomra vonatkozó szabályok megelőzik a teljesítményt, a befejezett edzések soha nem változnak, és a terhelést te választod."
+		}
+	],
+	"sources": [
+		{
+			"label": "2026-os ACSM állásfoglalás",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "ACSM 2026-os gyakorlati útmutató",
+			"url": "https://www.acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"sections": [
+		{
+			"title": "Välj ett test för ditt mål",
+			"text": "Ett kontrollerat armhävningstest speglar styrkeuthållighet i överkroppen, och ett 30-sekunders uppresningstest från stol mäter upprepad funktion i underkroppen. En tidtagen planka testar en särskild sorts bålutthållighet, medan ett steg-test eller en uppmätt promenad ser på en annan sida av konditionen. Inget enskilt test mäter total kondition."
+		},
+		{
+			"title": "Gör det på samma sätt varje gång",
+			"text": "Använd samma armhävningsdjup, stolshöjd, plankposition eller steghöjd, och håll uppvärmning, vila och skor liknande. Sluta när tekniken brister i stället för att jaga ett högre antal. Gör om testet efter flera veckors träning i stället för att göra maxinsatser varje dag. Skriv ner exakt hur du gjorde varje test så att senare jämförelser betyder något."
+		},
+		{
+			"title": "Välj ett test som passar din nivå",
+			"text": "Om du börjar från noll kan du räkna bekväma uppresningar från en stabil stol. En erfaren tränande kan behöva ett svårare riktmärke. Om ett test orsakar smärta, yrsel, ovanlig andfåddhet eller förlorad balans, använd det inte förrän en yrkesperson har bedömt dig."
+		},
+		{
+			"title": "Känn till begränsningarna",
+			"text": "Övning, motivation, trötthet och kroppsproportioner påverkar alla fälttestresultat. Ett bättre resultat kan komma från bättre färdighet såväl som från fysisk förändring. Test du gör själv kan inte diagnostisera hjärt-kärl-, neurologiska eller muskuloskeletala tillstånd."
+		}
+	],
+	"sources": [
+		{
+			"label": "CDC: fysisk aktivitet för äldre vuxna",
+			"url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+		},
+		{
+			"label": "ACSM:s ställningstagande 2026",
+			"url": "https://pubmed.ncbi.nlm.nih.gov/41843416/"
+		},
+		{
+			"label": "NHS: promenader för hälsan",
+			"url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+		}
+	]
+}
