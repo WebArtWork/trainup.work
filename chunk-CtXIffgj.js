@@ -1,0 +1,1 @@
+import{I as Ne,jt as h}from"./chunk-WTmX5Dwy.js";import{r as R}from"./chunk-Cx9Zpjp-.js";import{t as a}from"./main-HJONCR72.js";function c(){let r=h(R).language;return Ne(()=>a.languages.find(a=>a.code===r())?.htmlLang??`uk`)}export{c as t};

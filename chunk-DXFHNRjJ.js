@@ -1,0 +1,1 @@
+import{D as Ky}from"./chunk-WTmX5Dwy.js";import{n as r}from"./chunk-xbo3Cc-1.js";var i=class r$1{transform(e){return r(e)}static ɵfac=function(m){return new(m||r$1)};static ɵpipe=Ky({name:`money`,type:r$1,pure:!0})};export{i as t};
